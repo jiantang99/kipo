@@ -29,4 +29,5 @@ This would allow the LLM to be more accurate when producing the top 3 categories
 ## How to run application
 1. Install dependencies (pip install -r requirements.txt)
 2. Ensure terminal is inside the root directory of this project
-3. Run python app.py
+3. Export ORGANIZATION_KEY as the openai organisation key, and OPENAI_API_KEY as the openai api key as environment variables
+4. Run python app.py
