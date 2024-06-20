@@ -1,0 +1,504 @@
+AMPHENOL WARRIOR GRIP & WARRIOR-LOK SERIES
+World's only 10 Amp Connector Fully Compatible with Nett Warrior Products
+PDS - 317
+10 
+AMPS
+AMPHENOL’S WARRIOR GRIP SERIES IS THE ONLY NETT WARRIOR-STYLE CONNECTOR TO BRING 
+FAST CHARGING 10 AMP CAPABILITY DIRECTLY TO THE WARFIGHTER 
+Leveraging Amphenol’s extensive experience with the 2M804 push-pull series, Warrior Grip connectors are designed to 
+offer a solution that exceeds the rigorous requirements of the US Army’s Nett Warrior program. The Warrior Grip series 
+brings with it a number of enhancements to the standard 2M804 design, including a unique mate-force rating for even 
+quicker disconnect and selectively plated shells for improved conductivity. With these enhancements, the Warrior Grip 
+series is tailor made for nearly any soldier-worn application.
+When paired with our 10 Amp Warrior Grip Socket Contact system, you can get even more power out of your 
+application in the same lightweight package. Designed to push the size #23 contact to new limits without the downside 
+of excessive heat rise, the Warrior Grip socket contact system is fully backwards compatible with existing size #23 pin 
+designs. The system yields an average 26% improvement in heat rise when compared to the competition, and meets 
+all applicable MIL-STD-1472 temperature exposure limits.*
+Selective plating for 
+improved conductivity
+FEATURES AND BENEFITS
+Integrated banding 
+platform for easy  
+cable termination
+Gold plated EMI spring 
+for robust shielding  
+and durability
+• COMPATIBILITY: Intermateable with Existing   
+ 
+Nett Warrior Push-Pull Connectors
+• POWER: Warrior Grip Contact System -  
+ 
+10 Amp Capability in a Size #23 Contact 
+• LOCKED & LOADED: Unmating Force of  
+ 
+13 ±  3 lbs; won’t disconnect until they should
+• VERSATILITY: Diverse Range of Mounting  
+ 
+ 
+Options for Both Plugs and Receptacles
+Warrior Grip Socket 
+contact system for 10 
+Amps per cavity
+Textured shell design for 
+enhanced grip and easy 
+disconnect
+* Refer to table on page 2
+Peter Cook • Phone: (607)267-8211 • Email: pcook@amphenol-aao.com
+ 
+ 
+ 
+ 
+        www.amphenol-aerospace.com 
+      www.amphenolmao.com
+
+COMPARISON HEAT RISE CHART 7.5 & 10 AMPS
+TEMPERATURE RISE - CONTINUOUS 7.5A SIZE #23 CONTACT - NETT 
+WARRIOR
+Test Setup:
+• All contacts terminated to  
+ 
+18” of 22AWG wire
+20
+19
+18
+• Contact positions 1 and 6  
+ 
+were energized
+17
+16
+• Data was recorded directly  
+ 
+from a thermocouple   
+15
+14
+ 
+fixed to the exterior of the  
+13
+ 
+connector.  
+ 
+12
+11
+• The connector was   
+ 
+elevated 7” above the  
+10
+9
+ 
+bench to avoid any   
+8
+TEMPERATURE RISE, C
+ 
+alteration of data from the  
+7
+ 
+surface of the bench
+6
+5
+4
+• A barrier was placed   
+ 
+around the connector  
+3
+ 
+to isolate it from ambient  
+2
+ 
+influence 
+1
+0
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+• All data shown represents  
+ 
+testing done with standard  
+TIME, MINUTES
+ 
+pin contacts
+Standard Nett Warrior
+Warrior Grip
+Max T-Rise - Warrior Grip 7.5A
+Max T-Rise - Standard 7.5A
+Ambient Temperature
+Ranges
+Maximum 
+Operating 
+Maximum 
+Operating 
+TEMPERATURE RISE - CONTINUOUS 10A SIZE #23 CONTACT - NETT 
+WARRIOR
+Temperature
+Temperature 
+for 
+MIL-STD-1472*
+7.5A
+160.5oC
+45.5oC
+Continuous
+10A
+151oC
+36oC
+7.5 AMPS
+10 AMPS
+Continuous
+TEMPERATURE RISE, C
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+TIME, MINUTES
+Standard Nett Warrior
+Warrior Grip
+Max T-Rise - Warrior Grip 10A
+Max T-Rise - Standard 10A
+* Temperature exposure limit of 60ºC for momentary contact (Ref. MIL-STD-1472 Table XXI)
+Peter Cook • Phone: (607)267-8211 • Email: pcook@amphenol-aao.com
+ 
+ 
+ 
+ 
+        www.amphenol-aerospace.com 
+      www.amphenolmao.com
+
+WARRIOR GRIP - RECEPTACLES
+WARRIOR GRIP RECEPTACLES
+Description
+Contact 
+Amphenol Part 
+Equivalent Part Numbers
+Amphenol 10 Amp*
+Insert 
+Style
+Number
+Arrangement
+5935-01654090 
+10-742386-06S
+8070-1675-01ZNU6-6SY 
+10-742969-06S
+2
+3
+1
+2226920-1
+4
+5
+6
+Crimp
+2
+3
+1
+10-742386-07S
+10-742969-07S
+4
+5
+6
+7
+Cable Mount 
+Receptacle
+10-742387-06S
+807-348-01ZNU6-6SY
+10-777526-06S
+2
+3
+1
+4
+5
+6
+Solder Cup
+2
+3
+1
+10-742387-07S
+10-777526-07S
+4
+5
+6
+7
+2
+3
+1
+CWB Wing 
+Mounted 
+PC Tail
+F2-723069-07S
+8070-1299-ZNU6-7DY
+F2-742670-07S
+Receptacle
+4
+5
+6
+7
+F2-742389-06Y
+807-216-07ZNU6-6DY
+F2-742629-06Y
+2
+3
+1
+Rear Jam 
+4
+5
+6
+Nut Bulkhead 
+PC Tail
+Mount 
+Receptacle
+2
+3
+1
+F2-742389-07Y
+F2-742629-07Y
+4
+5
+6
+7
+* Will achieve advertised heat rise improvements when mated to any standard plug on next page. 
+Peter Cook • Phone: (607)267-8211 • Email: pcook@amphenol-aao.com
+ 
+ 
+ 
+ 
+        www.amphenol-aerospace.com 
+      www.amphenolmao.com
+
+WARRIOR GRIP - PLUGS
+WARRIOR GRIP PLUGS
+Description
+Contact 
+Amphenol Part 
+Equivalent Part Numbers
+Amphenol 10 Amp
+Insert 
+Style
+Number
+Arrangement
+5935-016595575 
+10-742378-06P
+8070-1676-06ZNU6-6PY 
+10-777347-06P
+2
+3
+1
+2226910-1
+4
+5
+6
+Crimp
+2
+3
+1
+10-742378-07P
+10-777347-07P
+4
+5
+6
+7
+ Cable 
+Mount Plug
+10-742379-06L
+807-309-06ZNU6-6PY
+10-777348-06L
+2
+3
+1
+4
+5
+6
+Solder Cup
+2
+3
+1
+10-742379-07L
+10-777348-07L
+4
+5
+6
+7
+F2-742253-06Y
+8070-1153-007ZNU6-6EC
+10-777349-06Y
+2
+3
+1
+4
+5
+6
+Bulkhead 
+Mount Plug
+Solder Cup
+2
+3
+1
+F2-742253-07Y
+10-777349-07Y
+4
+5
+6
+7
+Peter Cook • Phone: (607)267-8211 • Email: pcook@amphenol-aao.com
+ 
+ 
+ 
+ 
+        www.amphenol-aerospace.com 
+      www.amphenolmao.com
+
+AMPHENOL WARRIOR-LOK SERIES
+Positive-Locking operating sleeve 
+prevents accidental unmating
+Push to mate
+Intermates with standard 
+Nett Warrior Plugs
+LOK
+Pull to unmate
+Proven Ball-Lock Device 
+Provides Lower Mating/
+Unmating Forces
+INTRODUCING THE FIRST EVER LOCKING 2M804-STYLE RECEPTACLE, DESIGNED SPECIFICALLY 
+FOR THE MODERN WAR-FIGHTER
+Amphenol has developed the first locking receptacle connector for the Nett Warrior program and other soldier-worn 
+applications. Fully compatible with all Nett Warrior plugs, the Warrior-Lok receptacle features an integrated locking 
+mechanism to prevent accidental unmating. As an added benefit, the locking mechanism helps to drastically reduce 
+the force required to mate and unmated while providing a more secure connection.
+The Warrior-Lok series provides a natural tactile and audible full mate indicator, simply push to connect and pull on 
+the operating sleeve to disconnect. Works with a gloved hand and the operating sleeve can be customized for various 
+applications, including the addition of a lanyard where needed. Contact your local Amphenol representative for more 
+information today.
+FEATURES & BENEFITS:
+• Low mate/unmate force
+• Positive locking push-pull
+• 100% Nett Warrior plug shell   
+ 
+backwards compatibility
+• No canted coil spring
+• Compatible with current band  
+ 
+clamping/overmold termination
+• Prevents accidental unmating when  
+ 
+cables are pulled
+Peter Cook • Phone: (607)267-8211 • Email: pcook@amphenol-aao.com
+ 
+ 
+ 
+ 
+        www.amphenol-aerospace.com 
+      www.amphenolmao.com
+
+WARRIOR-LOK
+WARRIOR-LOK RECEPTACLES
+Description
+Contact 
+Amphenol Part 
+Amphenol 10 Amp*
+Insert 
+Style
+Number
+Arrangement
+F2-790008-06S
+F2-790012-06S
+2
+3
+1
+4
+5
+6
+Crimp
+2
+3
+1
+F2-790009-07S
+F2-790012-07S
+4
+5
+6
+7
+Cable Mount 
+Receptacle
+F2-790010-06S
+F2-790013-06S
+2
+3
+1
+4
+5
+6
+Solder Cup
+2
+3
+1
+F2-790011-07S
+F2-790014-07S
+4
+5
+6
+7
+* Will achieve advertised heat rise improvements when mated to any standard plug on next page. 
+Peter Cook • Phone: (607)267-8211 • Email: pcook@amphenol-aao.com
+ 
+ 
+ 
+ 
+        www.amphenol-aerospace.com 
+      www.amphenolmao.com

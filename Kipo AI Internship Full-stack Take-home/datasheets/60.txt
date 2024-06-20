@@ -1,0 +1,304 @@
+REVISIONS
+REV
+DESCRIPTION
+DATE
+ECO
+APPR
+BY
+TOMMY
+RELEASE NEW DRAWING
+16/JUL/20
+VITO
+A1
+41.7±0.5
+MAIN POLARIZING  KEYWAY
+17.2
+8.5
+10.7
+SIZE 16 CONTACTS
+(14 PLACES)
+6
+110°REF
+110°REF
+Ø38.1
+Ø33.8
+50.8±0.5
+1 7/16-12 UN THREAD
+57.6
+M5X0.8-6H 8mm(2X) DEEP
+THREADED INSERT
+72.8±0.5
+RECOMMENDED TORQUE 
+VALUES: 1.9-2.2 N.m
+NOTES: UNLESS OTHERWISE SPECIFIED
+INTERNAL SEALING SURFACE FINISH 
+TO BE        OR BETTER
+3.2
+0.13         
+1.  MATERIAL: 
+     HOUSING: THERMOPLASTIC; BLACK 
+     SEAL: SILICONE RUBBER 
+     THREADED INSERT: STAINLESS STEEL
+Ø38.29+0.15
+-0.05
+2.  MODIFICATIONS:  WIDE THREAD ADAPTER (WTA);
+                                    REDUCED DIA. WIRE SEAL;
+                                    SEALED PANEL MOUNT
+THREADED ADAPTER
+-BLUE
+OF:
+SH:
+REV:
+DWG NO:
+TITLE:
+AHDP02-18-14PR-WTA
+2X Ø5.60
+DESCRIPTION
+PART NUMBER
+3. SPECIFICATIONS:
+       3.1 OPERATING TEMPERATURE: -55℃ TO +125℃.
+       3.2 DIELECTRIC WITHSTANDING VOLTAGE: LESS THAN 2 
+             MILLIAMPS CURRENT LEAKAGE @ 1500 VOLTS AC.
+       3.3 INSULATION RESISTANCE: 1000 MEGOHM MIN @ 25℃.
+       3.4 MOISTURE RESISTANCE: IP67&IP69K ( MATED CONDITION ).
+       3.5 MATING CYCLE DURABILITY: 100 CYCLES
+       3.6 RoHS COMPLIANT
+QUANTITY
+57.6±0.1
+4.  MATING PART: AHDP06-18-14S*     ( * = SEAL TYPE )
+DRAWN:
+CHECKED:
+Sine Systems - www.amphenol-sine.com
+5.  ALL DIMENSIONS ARE FOR REFERENCE USE ONLY.
+ENGINEER:
+X
+RECOMMENDED PANEL
+44724 Morley Drive
+Clinton Township, MI 48036
+APPROVAL:
+6   CONTACT SIZE AND WIRE RANGE:
+MATERIAL SPECIFICATIONS:
+MOUNTING HOLE
+CUSTOMER:
+14 POS, RECEPTACLE, PIN, PANELMATE
+AHDP SIZE 18, RD SEAL, WTA
+PROCESS SPECIFICATIONS:
+DWG NO:
+TYPE
+RECOMMENDED PANEL 
+THICKNESS:1.6 TO 4.7MM 
+B
+A1
+NEXT ASS'Y:
+SCALE:
+THIS DRAWING IS SUPPLIED FOR 
+INFORMATION ONLY. DESIGN FEATURES, 
+SPECIFICATIONS AND PERFORMANCE DATA 
+SHOWN HEREON ARE THE PROPERTY OF 
+THE AMPHENOL CORPORATION. NO RIGHTS 
+OF REPRODUCTION ARE IMPLIED. ALL 
+DIMENSIONS ARE SUBJECT TO NORMAL 
+MANUFACTURING VARIATIONS.
+SHEET
+OF
+1
+1
+NONE
+DURAMATE
+
+AT Series™ - Contact Size 16 Options
+Stamped & Formed Contacts, Sockets & Pins
+Machined Contacts, Sockets & Pins
+Part Number
+Description
+Size
+AWG
+Type
+Part Number
+Description
+Size
+AWG
+Type
+AT60-14-0144
+Male Contact - Pin, Gold-plated    
+16
+14-16
+Stamped & Formed
+AT60-215-1631
+Male Contact - Pin, Gold-plated    
+16
+14
+Machined
+AT62-14-0144
+Female Contact - Socket, Gold-plated    
+16
+14-16
+Stamped & Formed
+AT62-209-1631
+Female Contact - Socket, Gold-plated    
+16
+14
+Machined
+AT60-14-0122
+Male Contact - Pin, Nickel-plated    
+16
+14-16
+Stamped & Formed
+AT60-215-16141
+Male Contact - Pin, Nickel-plated    
+16
+14
+Machined
+AT62-14-0122
+Female Contact - Socket, Nickel-plated    
+16
+14-16
+Stamped & Formed
+AT62-209-16141
+Female Contact - Socket, Nickel-plated    
+16
+14
+Machined
+AT60-16-0144
+Male Contact - Pin, Gold-plated    
+16
+16-18
+Stamped & Formed
+AT60-202-1631
+Male Contact - Pin, Gold-plated
+16
+16-20
+Machined
+AT62-16-0144
+Female Contact - Socket, Gold-plated
+16
+16-18
+Stamped & Formed
+AT62-201-1631
+Female Contact - Socket, Gold-plated    
+16
+16-20
+Machined
+AT60-16-0122
+Male Contact - Pin, Nickel-plated    
+16
+16-18
+Stamped & Formed
+AT60-202-16141
+Male Contact - Pin, Nickel-plated    
+16
+16-20
+Machined
+AT62-16-0122
+Female Contact - Socket, Nickel-plated    
+16
+16-18
+Stamped & Formed
+AT62-201-16141
+Female Contact - Socket, Nickel-plated    
+16
+16-20
+Machined
+AT60-16-0644
+Male Contact - Pin, Gold-plated    
+16
+18-20
+Stamped & Formed
+AT60-202-1631-22
+Male Contact - Pin, Gold-plated
+16
+22-24
+Machined
+AT62-16-0644
+Female Contact - Socket, Gold-plated    
+16
+18-20
+Stamped & Formed
+AT62-201-1631-22
+Female Contact - Socket, Gold-plated
+16
+22-24
+Machined
+AT60-16-0622
+Male Contact - Pin, Nickel-plated    
+16
+18-20
+Stamped & Formed
+AT60-202-16141-22
+Male Contact - Pin, Nickel-plated    
+16
+22-24
+Machined
+AT62-16-0622
+Female Contact - Socket, Nickel-plated    
+16
+18-20
+Stamped & Formed
+AT62-201-16141-22
+Female Contact - Socket, Nickel-plated    
+16
+22-24
+Machined
+AT60-16-0844
+Male Contact - Pin, Gold-plated
+16
+20-22
+Stamped & Formed
+AT62-16-0844
+Female Contact - Socket, Gold-plated    
+16
+20-22
+Stamped & Formed
+Tooling - Machined Contacts
+AT60-16-0822
+Male Contact - Pin, Nickel-plated    
+16
+20-22
+Stamped & Formed
+Part
+Part Number
+Description
+AT62-16-0822
+Female Contact - Socket, Nickel-plated    
+16
+20-22
+Stamped & Formed
+CA-5D12
+Universal Hand Crimp Tool, Size 12/16/20
+(Machined contacts only)
+Tooling - Stamped & Formed Contacts
+Part
+Part Number
+Description
+MFX-3950
+Crimp Die - Size 16, 18-20AWG (S&F contacts only)
+CA-5E12
+Pneumatic Crimp Tool, Size 12/16/20
+(Machined contacts only)
+MFX-3953
+Crimp Die - Size 16, 16-18AWG (S&F contacts only)
+MFX-3975
+Crimp Die - Size 16, 14-16AWG (S&F contacts only)
+Contact Removal Tools
+MFX-3990
+Crimp Die - Size 16, 20-22AWG (S&F contacts only)
+Part
+Part Number
+Description
+ATT-16-00
+Hand Crimp Tool - Size 16, 14-16AWG (S&F contacts only)
+ATRT-100
+Used for removal of contacts for A Series™ products
+ATT-16-01
+Hand Crimp Tool - Size 16, 18-20AWG (S&F contacts only)
+ATT-1612-03
+Hand Crimp Tool - Size 16, 20-22AWG (S&F contacts only)
+AT11-310-1605
+Contact Removal Tool, Plastic, Size 16
+Amphenol Sine Systems
+A114017
+Sealing Plug, Size 16, White
+44724 Morley Drive
+Clinton Township, MI 48036 USA
+www.amphenol-sine.com
+09/2021

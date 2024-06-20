@@ -1,0 +1,283 @@
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+E
+F
+LEN1750030~41
+2017/04/25 
+Lingpeng
+Add 5Pin  
+G
+LEN1790175~90
+2017-08-29 
+Lingpeng
+Update The Note 
+F
+H
+N180019
+2019-03-14
+Peng
+Add All Seals Product
+1
+Gland Body
+3
+1
+3
+Gland Body
+L-Gasket 
+Gland Nut
+Gland Nut
+4
+5
+Connector
+E
+5
+Connector
+4
+2
+2
+L-Gasket 
+Seal
+Seal
+Cap
+L
+T
+D
+A
+W
+CONFIDENTIAL
+2019-03-14
+6
+Gland Pipe
+R&D DEPT.
+Contact
+Screw
+Housing
+C
+(Ref.)
+122.3
+(Hex.)
+24.2
+B
+24.0 Hex.
+23.8 Hex.
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+PG13  Cable Joiner 
+Screw-in Type  
+Peng
+2019-03-14
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+TOLERANCE
+          #0.5mm
+SC-L-PG13-XX-XX
+Ma Fei
+2019-03-14
+1:1
+A4  
+   
+1    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Jerry 
+2019-03-14
+H
+A.10  QC :Inspection item
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+8
+Instruction
+F
+L
+T
+A
+W
+CONFIDENTIAL
+Assembly Instruction
+2019-03-14
+QTY: 105PCS
+QTY: 1PCS
+R&D DEPT.
+E
+Carton
+7
+9
+PE Bag
+H
+G
+QC
+Both A Unassembled product And An 
+Instruction Are In A PE Bag.
+ (將一套未組裝的產品和說明書,放置於一個PE袋,並封口)
+ Note:
+*    Important Dimension To Check.
+* Waterproof Rate: IP68  (50M,24H) 
+* Housing 
+& Cap: PA66+GF, Black.
+D
+SC-L-PG13-XX-XX
+Seal's Color: BL-Blue(藍色)   For Cable Range: n4.5~n6.5mm
+              YW-Yellow(黃色) For Cable Range: n6.5~n8.5mm
+L:Cable Joiner
+              GN-Green(綠色)  For Cable Range: n8.5~n10.5mm
+* Gland Pipe: PA66, Black.
+* Gland Body: PA66, Black.
+* Gland Nut: PA6+GF, Black.
+* Contact: Brass, Nickel Plated
+* L-Gasket : Silicone, Yellow.
+* Seal: Silicone, Blue 
+& Yellow 
+& Green 
+& Red.
+Type: PG13
+H
+              RD-Red(紅色)    For Cable Range: n10.5~n11.5mm
+* Rated Voltage: 2~5 Pole 450V AC
+* Rated Current: 2 
+& 3 Pole Max. 20A ,
+              AA-All Seals  For Cable Range: n4.5~n11.5mm
+C
+No. of Condutor: 02-2Poles
+                 03-3Poles
+                 04-4Poles
+                 05-5Poles
+F
+1
+5
+B
+Pole
+2
+4
+3
+Assignments
+Front View
+5 Pole
+                 4 Pole Max. 15A.
+                 5 Pole Max. 8A.
+* Operating Temperature: -40$~+105$.
+* Gland Pipe  Recommended Tightening Torque:
+   8~10 Kgf.cm(0.78~0.98 N.m)
+* Gland Nut Recommended Tightening Torque:
+   8~10 Kgf.cm(0.78~0.98 N.m)
+* Seal For Cable OD: n4.5~n6.5mm, Blue.
+                     n6.5~n8.5mm, Yellow.
+                     n8.5~n10.5mm, Green .
+                     n10.5~n11.5mm, Red.
+* Screws for Wire connection recommended tightening
+ torque: 2.00~4.50 kgf.cm / 0.196~0.44 N.m
+* Applicable Wire gauge (Stranded wire cross 
+  section) 0.75mm^2 (18AWG) ~ 2.5mm^2 (14AWG)
+2 Pole
+3 Pole
+4 Pole
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+PG13  Cable Joiner 
+Screw-in Type   
+Peng
+2019-03-14
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+TOLERANCE
+          #0.5mm
+SC-L-PG13-XX-XX
+Ma Fei
+2019-03-14
+1:1
+A4  
+   
+2    
+2
+CUSTOMER
+APPROVED BY
+DATE
+H
+REV.
+WC-REV.
+ALTW
+ Jerry 
+2019-03-14
+H
+A.10  QC :Inspection item
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  SC-L-PG13-04-RD  SC-L-PG13-02-RD  SC-L-PG13-03-YW  SC-L-PG13-03-GN  SC-L-PG13-04-GN  SC-L-PG13-02-
+YW  SC-L-PG13-02-BL  SC-L-PG13-02-GN  SC-L-PG13-03-RD  SC-L-PG13-04-YW  SC-L-PG13-04-BL  SC-L-PG13-
+03-BL  SC-L-PG13-05-BL  SC-L-PG13-05-RD  SC-L-PG13-05-YW  SC-L-PG13-05-GN

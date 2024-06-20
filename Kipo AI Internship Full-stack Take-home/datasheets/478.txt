@@ -1,0 +1,4032 @@
+Round Water-resistant Connectors (M12 Threads)
+XS2
+CSM_XS2_DS_E_12_3
+Water- and Environment-resistive 
+FA Connectors Save Wiring and 
+Maintenance Effort
+• Compact FA connectors meet IP67 requirements and ensure a 
+94V-0 fire retardant rating.
+• A wide array of connectors makes a wiring system more 
+modular, simplifies maintenance, and reduces downtime.
+• Connectors with Cables and Connector Assemblies are available.
+• Three types of Connector Assembly: Crimping, soldering, and 
+screw-on.
+• Connectors with Cables are UL certified.
+• Based on IEC61076-2-101 (IEC60947-5-2) and NECA 4202.
+Refer to Safety Precautions on page 34.
+Model Number Legend
+Connectors with Cables Model Number Legend
+(compatible with M12 connectors)
+Connector
+Cable specifications
+XS2: M12 Screw Connection
+XS5: One-touch Smartclick Connection *
+Cable length (m)
+Model
+Reference page
+Cable length (m)
+Model
+0.5
+ XS2W-D421-B81-F
+0.5
+ XS5W-D421-B81-F
+1
+ XS2W-D421-C81-F
+1
+ XS5W-D421-C81-F
+2
+ XS2W-D421-D81-F
+2
+ XS5W-D421-D81-F
+3
+ XS2W-D421-E81-F
+3
+ XS5W-D421-E81-F
+4
+ XS2W-D421-F81-F
+4
+ XS5W-D421-F81-F
+Fire-retardant, PVC robot 
+cable
+5
+5
+ XS2W-D421-G81-F
+5
+ XS5W-D421-G81-F
+Connectors on both 
+cable ends
+10
+ XS2W-D421-J81-F
+10
+ XS5W-D421-J81-F
+15
+ XS2W-D421-K81-F
+15
+ XS5W-D421-K81-F
+20
+ XS2W-D421-L81-F
+20
+ XS5W-D421-L81-F
+Spatter-resistant cable
+2
+ XS2W-D421-D81-SA
+2
+ XS5W-D421-D81-SA
+5
+ XS2W-D421-G81-SA
+5
+ XS5W-D421-G81-SA
+1
+ XS2F-D421-C80-F
+1
+ XS5F-D421-C80-F
+2
+ XS2F-D421-D80-F
+2
+ XS5F-D421-D80-F
+3
+ XS2F-D421-E80-F
+3
+ XS5F-D421-E80-F
+5
+ XS2F-D421-G80-F
+5
+ XS5F-D421-G80-F
+Fire-retardant, PVC robot 
+cable
+7
+10
+ XS2F-D421-J80-F
+10
+ XS5F-D421-J80-F
+Connector on one cable 
+end
+(Socket)
+15
+ XS2F-D421-K80-F
+15
+ XS5F-D421-K80-F
+20
+ XS2F-D421-L80-F
+20
+ XS5F-D421-L80-F
+Spatter-resistant cable
+2
+ XS2F-D421-D80-SA
+2
+ XS5F-D421-D80-SA
+5
+ XS2F-D421-G80-SA
+5
+ XS5F-D421-G80-SA
+0.3
+ XS2H-D421-A80-F
+0.3
+ XS5H-D421-A80-F
+0.5
+ XS2H-D421-B80-F
+0.5
+ XS5H-D421-B80-F
+1
+ XS2H-D421-C80-F
+1
+ XS5H-D421-C80-F
+Fire-retardant, PVC robot 
+cable
+2
+ XS2H-D421-D80-F
+2
+ XS5H-D421-D80-F
+14
+3
+—
+3
+ XS5H-D421-E80-F
+Connector on one cable 
+end
+(Plug)
+5
+ XS2H-D421-G80-F
+5
+ XS5H-D421-G80-F
+Spatter-resistant cable
+0.3
+ XS2H-D421-A80-SA
+0.3
+ XS5H-D421-A80-SA
+1
+ XS2H-D421-C80-SA
+1
+ XS5H-D421-C80-SA
+*For details, refer to the data sheet of the XS5 Round Water-resistant Connectors (M12 Smartclick).
+Note 1. Only DC, straight, 4-core types, and common cable specifications are shown above. Refer to the relevant pages for other products.
+2. Other than the M12 sizes introduced above, M8-sized (XS3) products are also available.
+For details, refer to the data sheet of the XS3 Round Water-resistant Connectors (M8/S8).
+XS2: M12 Screw Connection
+XS5: One-touch Smartclick Connection*
+(compatible with M12 screws)
+Note: Screw connections will be made if connecting with a screw type.
+Socket side
+Plug side
+Plug side
+Socket side
+Connections can be checked using markings
+Turn approx. 1/8 of a turn to connect
+*For details, refer to the data sheet of the XS5 Round Water-resistant Connectors (M12 Smartclick).
+1
+
+XS2
+Ratings and Specifications
+Rated current
+4 A
+Rated voltage
+250 VAC/VDC
+Contact resistance (Connector)
+40 mΩ max. (20 m V max. and 100 mA max.)
+Insulation resistance
+1,000 MΩ min. (at 500 VDC)
+Dielectric strength (Connector)
+1,500 VAC for 1 min (leakage current: 1 mA max.)
+Degree of protection
+IP67 (IEC60529)
+Insertion tolerance
+200 times
+Cable holding strength
+Cable diameter: 6 mm
+98 N/15 s
+4 to 5 mm
+49 N/15 s
+3 mm
+29 N/15 s
+Ambient operating temperature range
+−25 to 70°C *
+Ambient humidity range
+20% to 85%
+*Use the PVC robot cable within a temperature range between 0°C and 70°C to prevent the wires inside the cable from being broken when bending it.
+Materials and Finish
+Item
+Model
+XS2F/H/W
+XS2F-LED
+XS2M/R/P
+XS2C/G
+Contacts
+Copper alloy/Gold plating
+Brass
+Thread bracket
+Copper alloy/Nickel plated *
+Pin block
+PBT resin
+PA resin
+PBT resin
+O-ring
+Rubber
+Cover
+PBT resin
+TPU resin
+—
+PBT resin
+Fire-retardant, PVC robot 
+cable
+UL AWM2464 CL3, 6 mm dia.
+AWG20
+Sheath color: light gray 
+—
+—
+—
+Non-polar DC Connectors 
+with Standard PVC cable
+6 mm dia.
+AWG20
+Sheath color: light gray 
+—
+—
+—
+UL AWM2464 CL3, 6 mm dia.
+AWG20 
+Sheath color: light gray 
+—
+—
+—
+E2E models with conventional 
+connector pin with Fire-
+retardant, PVC robot cable
+Cable
+Standard PVC cable up to 
+105°C
+6 mm dia.
+AWG20
+Sheath color: light gray 
+—
+—
+—
+Spatter-resistant cable
+6.6 mm dia.
+AWG20
+Sheath color: blue
+—
+—
+—
+—
+—
+Standard PVC cable
+(XS2F-LED)
+—
+UL AWM2464
+5.0 mm dia. (3 conductors)
+5.4 mm dia. (4 conductors)
+0.34 mm2
+Sheath color: black
+*The T-joint of the XS2R is aluminum/white.
+Pin Arrangement (Engaged Side)
+Item
+No. of poles
+4 poles
+5 poles
+1 
+1
+4
+Male (plug) contacts
+4
+5
+2
+2
+3
+3
+DC type
+2
+2
+5
+Female (socket) 
+contacts
+1
+4
+3
+1
+4
+3
+1
+4
+Male (plug) contacts
+---
+2
+3
+AC type
+2
+Female (socket) 
+contacts
+---
+1
+4
+3
+Note: The AC and DC mating section forms are different as shown here and therefore cannot be connected together.
+2
+
+XS2
+Connections
+Connection Combinations
+M12 Plug Connectors
+Smartclick Plug Connectors
+OMRON model No.
+XS2H, XS2G, XS2W (plug side),
+XS2R (plug side), XS2M
+XS5H, XS5G, XS5W (plug side),
+XS5R (plug side), XS5M
+M12 Socket Connectors
+XS2F, XS2C, XS2W (socket side),
+XS2R (socket side), XS2P
+❍
+❍
+Smartclick Socket 
+Connectors
+XS5F, XS5C, XS5W (socket side),
+XS5R (socket side), XS5P
+❍
+
+: Connected by twisting.
+❍: Connected by screwing.
+Note: The XS@M and XS@P cannot mate with each other.
+3
+
+XS2
+XS2W Sockets and Plugs on Both Cable Ends
+Model Number Structure
+Model Number Legend
+Use this model number legend to identify products from their model number. Use this model number legend to identify products from their 
+model number. When ordering, use a model number from the table in Ordering Information.
+XS2W-D@2@-@@1-@@
+3
+1
+2
+4
+5
+6
+7
+8
+9
+1. Type
+W: Connectors with cables, socket and plug on both cable ends
+2. AC/DC (Mating Section Form)
+D: For DC
+3. Connector Poles
+4: 4 poles
+5: 5 poles
+4. Contact Plating
+2: Gold plating
+5. Cable Connection Direction
+1: Straight (socket)/Straight (plug)
+2: Right-angle (socket)/Right-angle (plug)
+3: Straight (socket)/Right-angle (plug)
+4: Right-angle (socket)/Straight (plug)
+6. Cable Length
+A : 0.3 m
+B : 0.5 m
+C : 1 m
+D : 2 m
+E : 3 m
+F : 4 m
+G : 5 m
+H : 7 m
+J : 10 m
+K : 15 m
+L : 20 m
+7. Connections (Numbers inside circles are terminal numbers)
+8 : A Brown, B White, C Blue, D Black (for DC)
+G : A Brown, B White, C Blue, D Black, E Gray
+8. Connectors on One End/Both Ends
+1: Both ends
+9. Cable Specifications
+F
+: Fire-retardant, PVC robot cable
+SA : Spatter-resistant cable
+S
+: Standard PVC cable
+4
+
+XS2
+XS2W Sockets and Plugs on Both Cable Ends
+Ordering Information
+DC
+Cable specifications
+Cable connection 
+direction
+UL
+Model
+No. of 
+cable 
+cores
+Cable 
+diameter 
+(mm)
+Cable 
+length L 
+(m)
+Cable core 
+cross-sectional 
+area (mm2)
+0.5
+XS2W-D421-B81-F
+Straight (Plug)/
+Straight (Socket)
+1
+XS2W-D421-C81-F
+2
+XS2W-D421-D81-F
+3
+XS2W-D421-E81-F
+4
+XS2W-D421-F81-F
+5
+XS2W-D421-G81-F
+10
+XS2W-D421-J81-F
+15
+XS2W-D421-K81-F
+20
+XS2W-D421-L81-F
+Fire-retardant, PVC 
+robot cable
+4
+6.0 dia.
+0.5
+UL 2238 
+certified
+(File No. 
+E207683)
+Right-angle (Plug)/
+Right-angle (Socket)
+2
+XS2W-D422-D81-F
+5
+XS2W-D422-G81-F
+Straight (Socket)/
+Right-angle (Plug)
+2
+XS2W-D423-D81-F
+5
+XS2W-D423-G81-F
+Right-angle (Socket)/
+Straight (Plug)
+1
+XS2W-D424-C81-F
+2
+XS2W-D424-D81-F
+5
+XS2W-D424-G81-F
+10
+XS2W-D424-J81-F
+Standard Cable
+Straight (Plug)/
+Straight (Socket)
+5
+0.3
+2
+XS2W-D521-DG1-A
+—
+5
+XS2W-D521-GG1-A
+Spatter-resistant cable Straight (Plug)/
+Straight (Socket)
+4
+6.6 dia.
+0.5
+2
+XS2W-D421-D81-SA
+—
+5
+XS2W-D421-G81-SA
+Note: Ask your OMRON representative about other cable lengths.
+5
+
+XS2
+Dimensions
+(Unit: mm)
+Straight (Socket)/Straight (Plug)
+Fire-retardant, PVC robot cable
+XS2W-D421-@81-F
+Spatter-resistant cable
+XS2W-D421-D81-SA
+Standard cable (5 cores)
+XS2W-D521-@G1-A
+45°
+M12×1
+45°
+M12×1
+14.9 dia.
+5 dia.
+5 dia.
+14.9 dia.
+L
+40.7
+44.7
+Right-angle/Right-angle
+Fire-retardant, PVC robot cable
+XS2W-D422-@81-F
+L
+25.3
+25.3
+Wiring Diagram for 4 Cores
+32.3
+28.3
+Contact No.
+Cable lead 
+colors
+Brown
+White
+1
+2
+3
+4
+1
+2
+3
+4
+14.9 dia.
+14.9 dia.
+Blue
+Black
+(DC)
+45°
+M12×1
+45°
+M12×1
+5 dia.
+5 dia.
+Straight (Socket)/Right-angle (Plug)
+Fire-retardant, PVC robot cable
+XS2W-D423-@81-F
+Wiring Diagram for 5 Cores
+L
+25.3
+40.7
+Contact No.
+45°
+M12×1
+Cable lead 
+colors
+5 dia.
+Brown
+White
+14.9 dia.
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+Blue
+Black
+Gray
+32.3
+14.9 dia.
+45°
+M12×1
+5 dia.
+Right-angle (Socket)/Straight (Plug)
+Fire-retardant, PVC robot cable
+XS2W-D421-@81-F
+L
+25.3
+44.7
+45°
+M12×1
+5 dia.
+14.9 dia.
+28.3
+14.9 dia.
+45°
+M12×1
+5 dia.
+6
+
+XS2
+XS2F Socket on One Cable End
+Model Number Structure
+Model Number Legend
+Use this model number legend to identify products from their model number. Use this model number legend to identify products from their 
+model number. When ordering, use a model number from the table in Ordering Information.
+XS2F-@@2@-@@0-@@
+3
+1
+2
+4
+5
+6
+7
+8
+9
+1. Type
+9. Cable Specifications
+F: Connector with cables, socket on one cable end
+2. AC/DC (Mating Section Form)
+F:
+Fire-retardant, PVC robot cable
+E:
+Heat-resistant cable up to 105°C
+SA: Spatter-resistant cable
+A:
+Standard PVC cable
+Note: E type and SA type is a 4-core cable.
+A: For AC
+D: For DC
+E: For DC, stainless steel lock
+3. Connector Poles
+4: 4 poles
+5: 5 poles
+4. Contact Plating
+2: Gold plating
+5. Cable Connection Direction
+1: Straight
+2: Right-angle
+6. Cable Length
+Designations for Non-polar DC 
+(For Limit Switches and Sensors)
+A : 0.3 m
+B : 0.5 m
+C : 1 m
+D : 2 m
+E : 3 m
+F : 4 m
+G : 5 m
+H : 7 m
+J : 10 m
+K : 15 m
+L : 20 m
+Note: Only the 2 m (D), 5 m (G) and 10 m (J) cables are available for cables 
+with 5 poles.
+6. Cable Length
+3: 2 m
+4: 5 m
+7. Connections 
+(Numbers inside circles are terminal numbers)
+7. Connections 
+(Numbers inside circles are terminal numbers)
+1: A ---, B ---, C Black, D White
+8. Connectors on One End/Both Ends
+0: One end
+A : A Brown, B ---, 
+C ---, 
+D Blue (for DC)
+B : A ---, 
+B ---, 
+C Brown, D Blue (for AC)
+C : A Brown, B ---, 
+C Blue,
+D Black
+D : A ---, 
+B ---, 
+C Blue,
+D Brown
+8 : A Brown, B White, C Blue,
+D Black (for DC)
+9 : A Brown, B White, C Blue,
+D Black (for AC)
+G : A Brown, B ---, C Blue, D Black, E Gray
+9. Cable Specifications
+8. Connectors on One End/Both Ends
+Not designated.
+0: One end
+Note: DC non-polarity models have different specific codes. (6, 7 and 9)
+7
+
+XS2
+XS2F Socket on One Cable End
+Ordering Information
+DC
+AC
+Cable 
+specifications
+UL
+Model
+Model
+Cable 
+connection 
+direction
+No. of 
+cable 
+cores
+Cable 
+diameter 
+(mm)
+Cable 
+length 
+L (m)
+Cable core 
+cross-
+sectional 
+area (mm2)
+2
+1
+XS2F-D421-CA0-F
+XS2F-A421-CB0-F
+Straight
+3
+XS2F-D421-CC0-F
+—
+4
+XS2F-D421-C80-F
+XS2F-A421-C90-F
+2
+2
+XS2F-D421-DA0-F
+XS2F-A421-DB0-F
+3
+XS2F-D421-DC0-F
+—
+4
+XS2F-D421-D80-F
+XS2F-A421-D90-F
+4
+3
+XS2F-D421-E80-F
+—
+2
+5
+XS2F-D421-GA0-F
+XS2F-A421-GB0-F
+3
+XS2F-D421-GC0-F
+—
+4
+XS2F-D421-G80-F
+XS2F-A421-G90-F
+2
+10
+XS2F-D421-JA0-F
+XS2F-A421-JB0-F
+3
+XS2F-D421-JC0-F
+—
+Fire-retardant, 
+PVC robot cable
+4
+XS2F-D421-J80-F
+XS2F-A421-J90-F
+15
+XS2F-D421-K80-F
+—
+20
+XS2F-D421-L80-F
+—
+UL 2238 
+certified
+(File No. 
+E207683)
+6.0 dia.
+0.5
+Right-angle
+2
+1
+XS2F-D422-CA0-F
+XS2F-A422-CB0-F
+3
+XS2F-D422-CC0-F
+—
+4
+XS2F-D422-C80-F
+—
+2
+2
+XS2F-D422-DA0-F
+XS2F-A422-DB0-F
+3
+XS2F-D422-DC0-F
+—
+4
+XS2F-D422-D80-F
+—
+4
+3
+XS2F-D422-E80-F
+—
+2
+5
+XS2F-D422-GA0-F
+XS2F-A422-GB0-F
+3
+XS2F-D422-GC0-F
+—
+4
+XS2F-D422-G80-F
+—
+2
+10
+XS2F-D422-JA0-F
+XS2F-A422-JB0-F
+3
+XS2F-D422-JC0-F
+—
+4
+XS2F-D422-J80-F
+—
+Straight
+2
+2
+XS2F-D421-310
+XS2F-A421-310
+—
+2
+5
+XS2F-D421-410
+XS2F-A421-410
+Non-polar DC 
+Connectors with 
+Standard PVC 
+cable
+Straight
+2
+2
+XS2F-D421-DD0
+—
+—
+2
+5
+XS2F-D421-GD0
+—
+Right-angle
+2
+2
+XS2F-D422-DD0
+—
+2
+5
+XS2F-D422-GD0
+—
+Right-angle
+2
+2
+XS2F-D422-310
+—
+2
+5
+XS2F-D422-410
+XS2F-A422-410
+E2E models with 
+conventional 
+connector pin with 
+Fire-retardant, 
+PVC robot cable
+2
+XS2F-E421-D80-E
+—
+Straight
+4
+—
+5
+XS2F-E421-G80-E
+—
+Heat-resistant 
+cable up to 
+105°C *
+Right-angle
+2
+XS2F-E422-D80-E
+—
+5
+XS2F-E422-G80-E
+—
+Spatter-
+resistant cable
+Straight
+4
+6.6 dia.
+2
+XS2F-D421-D80-SA
+—
+—
+5
+XS2F-D421-G80-SA
+—
+2
+XS2F-D521-DG0-A
+—
+Straight
+5
+6.0 dia.
+0.3
+—
+5
+XS2F-D521-GG0-A
+—
+10
+XS2F-D521-JG0-A
+—
+Standard PVC 
+cable
+Right-angle
+2
+XS2F-D522-DG0-A
+—
+5
+XS2F-D522-GG0-A
+—
+Note: Ask your OMRON representative about other cable lengths.
+*The heat-resistant fixture material is SUS316L stainless steel without surface treatment.
+8
+
+XS2
+Dimensions
+(Unit: mm)
+Straight Connectors
+Fire-retardant, PVC robot cable
+XS2F-D421-@@0-F
+XS2F-A421-@@0-F
+Non-polar DC Connectors with Standard PVC cable
+XS2F-D421-@@0
+XS2F-A421-@@0
+E2E models with conventional connector pin with Fire-retardant, PVC robot cable
+XS2F-D421-@@0
+Heat-resistant cable up to 105°C
+XS2F-E421-@80-E
+Spatter-resistant cable
+XS2F-D421-@80-SA
+6 dia.
+45°
+5 dia.
+M12 × 1
+45°
+5 dia.
+M12 × 1
+14.9 dia.
+40.7
+DC
+AC
+L
+50
+30
+5
+Right-angle Connectors
+Fire-retardant, PVC robot cable
+XS2F-D422-@@0-F
+XS2F-A422-@@0-F
+Non-polar DC Connectors with Standard PVC cable
+XS2F-D422-@@0
+XS2F-A422-@@0
+E2E models with conventional connector pin with Fire-retardant, PVC robot cable
+XS2F-D422-@@0
+Heat-resistant cable up to 105°C
+XS2F-E422-@80-E
+L
+6 dia. 
+25.3 
+28.3 
+50 
+30 
+5 
+14.9 dia.
+M12 × 1
+M12 × 1
+5 dia.
+5 dia.
+DC
+AC
+45°
+45°
+Wiring Diagram
+Two-core
+Three-core
+Four-core
+Contact No.
+Cable lead 
+colors
+Brown
+Fire-retardant, 
+PVC robot cable
+XS2F-@42@-@@0-F
+1
+2
+3
+4
+Contact No.
+Cable lead 
+colors
+Contact No.
+Cable lead 
+colors
+Blue
+(DC)
+Brown
+White
+Spatter-resistant 
+cable *
+XS2F-D421-@80-SA
+Contact No.
+Brown
+1
+2
+3
+4
+1
+2
+3
+4
+Cable lead 
+colors
+Blue
+Black
+(DC)
+Blue
+Black
+(DC/AC)
+1
+2
+3
+4
+Heat-resistant 
+cable up to 105°C * XS2F-E42@-@80-E
+Brown
+Blue
+(AC)
+Contact No.
+Cable lead 
+colors
+XS2F-@42@-@@0
+—
+—
+1
+2
+3
+4
+Black
+White
+Non-polar DC 
+Connectors with 
+Standard PVC 
+cable
+Cable lead  
+colors 
+Contact No.
+XS2F-D42@-@D0
+—
+—
+1 
+2 
+3 
+4 
+Blue 
+Brown 
+E2E models with 
+conventional 
+connector pin with 
+Fire-retardant, 
+PVC robot cable
+*Spatter-resistant Cables and Heat-resistant Cables (105°C) are available only for four cores and DC.
+9
+
+XS2
+Dimensions
+(Unit: mm)
+Note:
+Use the XS2H-D521-@G0-A in combination 
+with the XS2F-D521-@G0-A.
+Straight
+Standard PVC cable
+XS2F-D521-@G0-A
+M12 × 1
+45° 
+6 dia. 
+5 dia.
+14.9 dia. 
+40.7
+30
+5
+L
+50
+Wiring Diagram
+Contact No.
+Cable lead 
+colors
+1
+2
+Brown
+White
+3
+4
+Blue
+5
+Gray
+Black
+L
+25.3
+6 dia.
+Right-angle
+Standard PVC cable
+XS2F-D522-@G0-A
+28.3
+30
+5
+50
+M12
+For details on connecting with E2E Proximity Sensors, refer to E2E Small-diameter Proximity Sensor Data Sheet (Cat. No.: 
+SCEC-044).
+10
+
+Connectors with Cables, Socket on One Cable End, 
+Screw Loosening-preventing Structure Type
+XS2
+XS2F-G/H
+Model Number Structure
+Model Number Legend
+Use this model number legend to identify products from their model number. Use this model number legend to identify products from their 
+model number. When ordering, use a model number from the table in Ordering Information.
+XS2F-@42@-@@@-F
+3
+1
+2
+5
+4
+1. Type
+F: Connector with cables, sockets on one cable end
+2. AC/DC
+G: For DC
+H: For AC
+3. Cable Connection Direction
+1: Straight
+2: Right-angle
+4. Cable Length
+G80 : 5m (for DC)
+G90 : 5m (for AC)
+J80 : 10m (for DC)
+J90 : 10m (for AC)
+5. Structure
+Screw Loosening-preventing
+Ordering Information
+Cable connection 
+direction
+No. of cable cores
+Cable length L (m)
+DC
+AC
+UL
+Model
+Model
+5
+XS2F-G421-G80-F
+XS2F-H421-G90-F
+Straight
+4
+UL 2238 certified
+(File No. E207683)
+10
+XS2F-G421-J80-F
+XS2F-H421-J90-F
+Right-angle
+5
+XS2F-G422-G80-F
+XS2F-H422-G90-F
+10
+XS2F-G422-J80-F
+XS2F-H422-J90-F
+11
+
+XS2
+Dimensions
+(Unit: mm)
+Straight
+XS2F-G421-@80-F
+XS2F-G421-@90-F
+6 dia.
+45°
+5 dia.
+M12 × 1
+45°
+5 dia.
+M12 × 1
+14.9 dia.
+DC
+AC
+40.7
+L
+50
+30
+5
+L
+6 dia.
+25.3
+Right-angle
+XS2F-G422-@80-F
+XS2F-G422-@90-F
+28.3
+50
+30
+5
+14.9 dia.
+5 dia.
+M12 × 1
+5 dia.
+M12 × 1
+DC
+AC
+45°
+45°
+Features
+Screw Loosening-preventing Structure
+Appearance
+Black nickel plating
+Structure
+Convex and 
+concave portion
+Ribbed portion
+By the above structure, the convex and concave portion of the thread bracket and housing ribs interfere with each other at 45° 
+increments to work as a loosening-preventing mechanism when engaged.
+12
+
+XS2
+XS2F Sockets on One Cable End with Indicator
+Model Number Structure
+Model Number Legend
+Use this model number legend to identify products from their model number. Use this model number legend to identify products from their 
+model number. When ordering, use a model number from the table in Ordering Information.
+XS2F-M12PVC@A@@M@LED
+3
+1
+2
+4
+5
+6
+7
+8
+1. Type
+4. Connector Poles
+7. Applicable Sensors
+F: Connector with cables, sockets 
+on one cable end
+3: 3 poles
+4: 4 poles
+P: PNP
+N: NPN
+2. Mating Section Form
+5. Cable Connection Direction
+8. With indicator
+M12: M12
+A: Right-angle
+LED: With indicator
+3. Cable Material
+6. Cable Length
+PVC: PVC
+2
+: 2 m
+5
+: 5 m
+10 : 10 m
+Ordering Information
+LED
+Model
+UL
+Cable specifications
+Cable connection 
+direction
+Cable 
+diameter 
+(mm)
+No. of 
+cable 
+cores
+Cable core cross-
+sectional area 
+(mm2)
+Cable 
+length L 
+(m)
+2
+PNP
+XS2F-M12PVC3A2MPLED
+5 dia.
+3
+PVC
+Right-angle
+0.34
+5
+XS2F-M12PVC3A5MPLED
+10
+XS2F-M12PVC3A10MPLED
+2
+NPN
+XS2F-M12PVC3A2MNLED
+5
+XS2F-M12PVC3A5MNLED
+10
+XS2F-M12PVC3A10MNLED
+UL 2238 
+certified
+(File No. 
+E207683)
+5.4 dia.
+4
+2
+PNP
+XS2F-M12PVC4A2MPLED
+5
+XS2F-M12PVC4A5MPLED
+10
+XS2F-M12PVC4A10MPLED
+Dimensions
+(Unit: mm)
+L
+35
+30
+5
+28.2
+Right-angle
+XS2F-M12PVC3A@MPLED
+XS2F-M12PVC4A@MPLED
+28
+9.1
+50
+14.9 dia.
+M12×1
+45°
+Wiring Diagram
+3 poles
+4 poles
+NPN
+PNP
+PNP
+1
+BROWN
++
+1
+1
+BROWN
++
+2
+WHITE
+BROWN
++
+4
+BLACK
+YELLOW
+GREEN
+4
+BLACK
+R1
+R2
+R3
+4
+BLACK
+D1
+D2
+D3
+YELLOW
+3
+-
+3
+BLUE
+-
+GREEN
+BLUE
+BLUE
+-
+3
+13
+
+XS2
+XS2H Plugs on One Cable End
+Model Number Structure
+Model Number Legend
+Use this model number legend to identify products from their model number. When ordering, use a model number from the table 
+in Ordering Information. 
+XS2H-@@21-@@0-@@
+3
+1
+2
+9
+8
+4
+5
+6
+7
+1. Type
+H: Connector with cables, plug on one cable end
+2. AC/DC
+A: For AC
+D: For DC
+3. Connector Poles
+4: 4 poles
+5: 5 poles
+4. Contact Plating
+2: Gold plating
+5. Cable Connection Direction
+1: Straight
+6. Cable Length
+A : 0.3 m
+B : 0.5 m
+C : 1 m
+D : 2 m
+G : 5 m
+7. Connections (Numbers inside circles are terminal numbers)
+8 : A Brown, B White, C Blue,
+D Black (for DC)
+9 : A Brown, B White, C Blue,
+D Black (for AC)
+A : A Brown, B ---, 
+C ---, 
+D Blue (for DC)
+B : A ---, 
+B ---, 
+C Brown, D Blue (for AC)
+C : A Brown, B ---, 
+C Blue,
+D Black (for DC)
+G : A Brown, B White, C Blue,
+D Black,
+E Gray
+8. Connectors on One End/Both Ends
+0: One end
+9. Cable Specifications
+A
+:Standard cable
+F
+:Fire-retardant, PVC robot cable
+SA :Spatter-resistant cable
+14
+
+XS2
+XS2H Plugs on One Cable End
+Ordering Information
+DC
+AC
+UL
+Cable 
+specifications
+Model
+Model
+No. of 
+connector 
+poles
+Cable 
+connection 
+direction
+Cable 
+diameter 
+(mm)
+No. of 
+cable 
+cores
+Cable 
+length 
+L (m)
+Cable core 
+cross-
+sectional 
+area (mm2)
+2
+0.3
+XS2H-D421-AA0-F
+XS2H-A421-AB0-F
+3
+XS2H-D421-AC0-F
+—
+6.0 dia.
+Fire-retardant, 
+PVC robot cable
+4
+0.5
+4
+XS2H-D421-A80-F
+XS2H-A421-A90-F
+0.5
+XS2H-D421-B80-F
+—
+2
+1
+XS2H-D421-CA0-F
+XS2H-A421-CB0-F
+3
+XS2H-D421-CC0-F
+—
+UL 2238 
+certified
+(File No. 
+E207683)
+Straight 
+Connectors
+4
+XS2H-D421-C80-F
+XS2H-A421-C90-F
+2
+XS2H-D421-D80-F
+—
+5
+XS2H-D421-G80-F
+—
+Spatter-
+resistant cable
+4
+6.6 dia.
+4
+0.3
+XS2H-D421-A80-SA
+—
+—
+1
+XS2H-D421-C80-SA
+—
+Standard 
+cable
+5
+6.0 dia.
+5
+0.3
+0.3
+XS2H-D521-AG0-A
+—
+1
+XS2H-D521-CG0-A
+—
+Note: Ask your OMRON representative about other cable lengths.
+Dimensions
+(Unit: mm)
+Straight (4 poles)
+Fire-retardant, PVC robot cable XS2H-@421-@@0-F
+Spatter-resistant cable XS2H-D421-@80-SA
+45°
+5 dia.
+45°
+44.7
+6 dia.
+5 dia.
+M12 × 1
+14.9 dia.
+30
+5
+DC
+AC
+L
+50
+Wiring Diagram
+Two-cores
+Three-cores
+Four-cores
+Contact No.
+Cable lead 
+colors
+Brown
+1
+2
+3
+4
+Contact No.
+Cable lead 
+colors
+Contact No.
+Cable lead 
+colors
+Blue
+(DC)
+Brown
+Brown
+White
+Contact No.
+1
+2
+3
+4
+1
+2
+3
+4
+Cable lead 
+colors
+Blue
+Black
+(DC)
+Blue
+Black
+(DC/AC)
+1
+2
+3
+4
+Brown
+Blue
+(AC)
+Straight (5 poles)
+Standard cable XS2H-D521-@G0-A (For DC)
+M12 × 1
+45°
+Note:
+Use the XS2F-D521-@G0-A in combination 
+with the XS2H-D521-@G0-A.
+6 dia. 
+5 dia.
+14.9 dia.
+44.7
+30
+5
+L
+50
+Wiring Diagram
+Five-cores
+Contact No.
+Cable lead 
+colors
+1
+2
+Brown
+White
+3
+4
+Blue
+5
+Gray
+Black
+15
+
+XS2
+XS2@ Sensor I/O Connectors on Cables (8-pole)
+Ordering Information
+Connector type
+Model
+UL
+Number of 
+cores
+Cable
+connection 
+direction
+Cable 
+length L 
+(m)
+Applicable 
+wire 
+diameter
+Panel-mounting Plug
+—
+—
+—
+AWG22 to 28
+XS2M-D824-4
+—
+Panel-mounting socket
+XS2P-D821-2
+XS2P-D822-2
+0.3
+Plug on one cable end
+XS2H-D821-AH0-C
+1
+XS2H-D821-CH0-C
+Straight
+8
+—
+UL 2238 
+certified
+(File No. 
+E207683)
+Socket on one cable end
+2
+XS2F-D821-DH0-C
+5
+XS2F-D821-GH0-C
+Plug and socket on both cable ends
+2
+XS2W-D821-DH1-C
+5
+XS2W-D821-GH1-C
+Note: Ask your OMRON representative about other cable lengths.
+Ask your OMRON representative about PVC robot cable models (-R).
+Ratings and Specifications
+Rated current
+1.5 A
+Rated voltage
+36 VDC
+Contact resistance
+40 mΩ max.
+(at 20 mVDC max. and 100 mA max.)
+Insulation resistance
+1,000 MΩ min. (at 500 VDC)
+Dielectric strength
+1,000 VAC for 1 min (leakage current: 1 mA max.)
+Degree of protection
+IP67
+Insertion tolerance
+200 times min.
+Ambient operating temperature range
+−25 to 70°C
+Materials and Finish
+Contacts
+Brass, gold plating
+Thread Bracket, body, M16 nuts
+Brass/nickel plated
+Pin block
+PBT resin, light gray
+Cover *1
+Soft PBT resin
+Seal rubber and O-ring *2
+Rubber
+Cable
+Standard cable
+ (8 core, shielded)
+6 mm dia.
+AWG24 
+*1. XS2F/XS2H/XS2W only.
+*2. O-rings are on sockets only.
+Pins and Cable Lead Colors
+Pin No.
+XS2F/XS2H/XS2W cable lead 
+colors
+1
+2
+3
+4
+5
+6
+7
+8
+White
+Brown
+Green
+Yellow
+Gray
+Pink
+Blue
+Shield
+Wiring
+Wiring Example
+Sensor, actuator, etc. 
+Relay box, 
+In-panel terminal block 
+XS2P
+XS2W 
+XS2M 
+XS2H 
+XS2F 
+16
+
+XS2
+Dimensions
+(Unit: mm)
+Plug on One Cable End (M12)
+XS2H
+6 dia. 
+2 
+1 
+7 
+3 
+14.9 dia. 
+4 
+8 
+5 
+6 
+M12 × 1
+5 
+50 
+30 
+L 
+44.7 
+Socket on One Cable End (M12)
+XS2F 
+6 dia. 
+1 
+2 
+3 
+7 
+14.9 dia. 
+6 
+8 
+5 
+4 
+M12 × 1
+5 
+30 
+40.7 
+L 
+50 
+Socket and Plug on Both Cable Ends (M12)
+XS2W
+6 dia. 
+M12 × 1
+5 
+6 
+4
+8
+1 
+2 
+3 
+7 
+14.9 dia.
+14.9 dia. 
+7 
+1 
+2 
+3 
+6 
+8 
+5 
+4 
+44.7 
+M12 × 1
+40.7 
+L 
+Panel-mounting Socket (M12)
+Rear Lock Model
+XS2P-D821-2 (with Solder Cup Pins)
+Panel-mounting Plug (M12)
+Front Lock Model
+XS2M-D824-4 (with Solder Cup Pins)
+5 
+Panel 
+20.9 
+8.7 
+3 3 
+3 
+20 dia. 
+M16 nut 
+Panel 
+3 
+1.5 
+Seal rubber 
+2 
+1 
+7 
+1 
+7 
+1 
+2 
+3 
+4 
+10.6 dia. 
+1 
+7 
+7 
+3 
+4 
+5 
+6 
+6 
+5 
+2 
+3 
+5 
+6 
+7 
+6 
+7 
+20 dia. 14 dia. 
+2 
+3 
+4 
+4 
+5 
+M12 × 1
+M12 × 1
+2.5 
+10.5 3 
+M16 × 1
+M16 nut 
+M16 × 1
+Seal rubber 
+20.4 
+5 
+Panel Cutout
+Connector Terminal Numbers 
+(from Connection Side)
+Panel-mounting Socket (M12)
+Front Lock Model
+XS2P-D822-2 (with Solder Cup Pins)
+2
+2
+1
+1
+16+0.15 
+0    dia.
+7+0.1 
+0  
+7
+7
+3
+3
+Seal rubber 
+1.5 
+3 
+Panel 
+M16 nut 
+4
+4
+6
+6
+8
+8
+5
+5
+1 
+7 
+24 min.
+2 
+3 
+6 
+7 
+14 dia. 
+14 dia. 
+20 dia. 
+Plug
+Socket
+4 
+5 
+M12 × 1
+M16 × 1
+3 
+5 
+6 
+8.7 
+Note: 1. Mounting panel thickness: 1 to 4 mm.
+2. Applicable core wire size for solder cup pins: 0.5 mm2 max.
+3. The M16 nut and seal rubber are included.
+20.4 
+17
+
+XS2
+XS2G Crimping/Soldering Plug Assemblies
+Ordering Information
+DC
+AC
+Suitable cable 
+(mm)
+Suitable sheath 
+material
+Connection 
+method
+Core conductor 
+size (mm2)
+UL
+Model
+Model
+Cable 
+connection 
+direction
+0.18 to 0.3
+0.5 to 0.75*
+Straight
+Crimping
+XS2G-D4C1 XS2G-A4C1
+6 dia. (5 to 6 dia.)
+0.5 max.
+Soldering
+XS2G-D421
+XS2G-A421
+Right-angle
+XS2G-D422
+—
+0.18 to 0.3
+0.5 to 0.75*
+Straight
+Crimping
+XS2G-D4C3 XS2G-A4C3
+4 dia. (4 to 5 dia.)
+PVC, PE, PUR
+UL 2238 
+certified
+(File No. 
+E207683)
+0.5 max.
+Soldering
+XS2G-D423
+XS2G-A423
+Right-angle
+XS2G-D424
+—
+0.18 to 0.3
+0.5 to 0.75*
+Straight
+Crimping
+XS2G-D4C5 XS2G-A4C5
+3 dia. (3 to 4 dia.)
+0.5 max.
+Soldering
+XS2G-D425
+XS2G-A425
+Right-angle
+XS2G-D426
+—
+*There are two types of contacts.
+Note: Crimping plug pins are sold separately.
+Use a cable of mentioning. If you do not use one of these cables, there is a possibility that the performance can’t be met.
+Dimensions
+(Unit: mm)
+5 dia. 
+45° 
+5 dia. 
+45° 
+M12 × 1
+Straight Connectors
+XS2G-@4C@ (Crimping Model)
+XS2G-@42@ (Soldering Model)
+14.9 dia. 
+14.2 dia. 
+47.1 
+DC
+AC
+35.7
+45°
+5 dia.
+Right-angle
+XS2G-D42@ (Soldering Model)
+M12 × 1
+14.9 dia.
+23
+DC
+XS2U Crimping Pin for XS2G
+Ordering Information
+Suitable core size (mm2)
+Model
+0.18 to 0.3
+XS2U-3121
+0.5 to 0.75
+XS2U-3122
+Dimensions
+(Unit: mm)
+* A special tool must be used for crimping. For details, refer to page 33.
+XS2U-312@
+Slit
+Dimensions
+1 dia.
+2 dia. 2.3 dia.
+C dia.
+Model
+Suitable core
+size (mm2)
+Dimension (mm)
+No. of 
+slits
+A
+B
+C
+1.5
+XS2U-3121
+0.18 to 0.3
+20.0
+6.1
+0.8
+1
+B
+XS2U-3122
+0.5 to 0.75
+20.1
+6.2
+1.3
+0
+A
+18
+
+XS2
+XS2C Crimping/Soldering Socket Assemblies
+Ordering Information
+DC
+AC
+Suitable cable 
+(mm)
+Suitable sheath 
+material
+Connection 
+method
+Core conductor 
+size (mm2)
+UL
+Model
+Model
+Cable 
+connection 
+direction
+0.18 to 0.3
+0.5 to 0.75*
+Straight
+Crimping
+XS2C-D4C1
+XS2C-A4C1
+6 dia. (5 to 6 dia.)
+0.5 max.
+Soldering
+XS2C-D421
+XS2C-A421
+0.18 to 0.3
+0.5 to 0.75*
+Right-angle
+Crimping
+XS2C-D4C2
+XS2C-A4C2
+0.5 max.
+Soldering
+XS2C-D422
+XS2C-A422
+0.18 to 0.3
+0.5 to 0.75*
+Straight
+Crimping
+XS2C-D4C3
+XS2C-A4C3
+PVC, PE, PUR
+4 dia. (4 to 5 dia.)
+UL 2238 
+certified
+(File No. 
+E207683)
+0.5 max.
+Soldering
+XS2C-D423
+XS2C-A423
+0.18 to 0.3
+0.5 to 0.75*
+Right-angle
+Crimping
+XS2C-D4C4
+XS2C-A4C4
+0.5 max.
+Soldering
+XS2C-D424
+XS2C-A424
+0.18 to 0.3
+0.5 to 0.75*
+Straight
+Crimping
+XS2C-D4C5
+XS2C-A4C5
+3 dia. (3 to 4 dia.)
+0.5 max.
+Soldering
+XS2C-D425
+XS2C-A425
+0.18 to 0.3
+0.5 to 0.75*
+Right-angle
+Crimping
+XS2C-D4C6
+XS2C-A4C6
+0.5 max.
+Soldering
+XS2C-D426
+XS2C-A426
+*There are two types of contacts.
+Note: Crimping plug contacts are sold separately.
+Use a cable of mentioning. If you do not use one of these cables, there is a possibility that the performance can’t be met.
+Dimensions
+(Unit: mm)
+Straight Connectors
+45° 
+45° 
+5 dia. 
+M12 × 1
+M12 × 1
+5 dia. 
+14.9 dia. 
+14.2 dia. 
+43.2 
+DC
+AC
+45° 
+45° 
+Right-angle Connectors
+5 dia. 
+M12 × 1
+M12 × 1
+5 dia. 
+31.8 
+14.9 dia. 
+23
+DC
+AC
+XS2U Crimping Pin for XS2C
+Ordering Information
+Suitable core size (mm2)
+Model
+0.18 to 0.3
+XS2U-2221
+0.5 to 0.75
+XS2U-2222
+Dimensions
+(Unit: mm)
+* A special tool must be used for crimping. For details, refer to page 33.
+Socket Pin
+Slit
+Dimensions
+2 dia. 2.3 dia.
+C dia.
+Model
+Suitable core 
+size (mm2)
+Dimension (mm)
+No. of 
+slits
+A
+B
+C
+1.5
+XS2U-2221
+0.18 to 0.3
+16.7
+6.1
+0.8
+1
+XS2U-2222
+0.5 to 0.75
+16.8
+6.2
+1.3
+0
+B
+A
+19
+
+XS2
+XS2G Screw-on Plug Assemblies
+Ordering Information
+Straight 
+connectors 
+(for DC)
+Right-angle 
+connectors 
+(for DC)
+UL
+Suitable sheath 
+material
+No. of 
+poles
+Suitable cable (mm)
+Core conductor 
+size (mm2)
+Model
+Model
+XS2G-D5S7
+—
+5
+8 dia. (7 to 8 dia.)
+7 dia. (6 to 7 dia.)
+XS2G-D5S9
+—
+6 dia. (5 to 6 dia.)
+XS2G-D5S1
+XS2G-D5S2
+0.18 to 0.75
+PVC, PE, PUR
+UL 2238 certified
+(File No. E207683)
+4
+8 dia. (7 to 8 dia.)
+XS2G-D4S7
+—
+7 dia. (6 to 7 dia.)
+XS2G-D4S9
+—
+6 dia. (5 to 6 dia.)
+XS2G-D4S1
+XS2G-D4S2
+4 dia. (4 to 5 dia.)
+XS2G-D4S3
+XS2G-D4S4
+3 dia. (3 to 4 dia.)
+XS2G-D4S5
+XS2G-D4S6
+Note: XS2G Screw-on Plugs cannot be connected to side by side to the CN1 and CN2 connectors of XS2R Y-Joint Sockets/Plugs.
+Use a cable of mentioning. If you do not use one of these cables, there is a possibility that the performance can’t be met.
+Dimensions
+(Unit: mm)
+58.7
+M12 × 1
+Straight Connectors
+Applicable Cable Outer Diameter: 8 mm
+XS2G-D5S7 (5poles)
+XS2G-D4S7 (4 poles)
+Applicable Cable Outer Diameter: 7 mm
+XS2G-D5S9 (5poles)
+XS2G-D4S9 (4 poles)
+16 dia.
+20 dia. 14.9 dia.
+58.7 
+M12 × 1
+Straight Connectors
+Applicable Cable Outer Diameter: 6 mm
+XS2G-D5S1 (5poles)
+XS2G-D4S1 (4 poles)
+Applicable Cable Outer Diameter: 4 mm
+XS2G-D4S3 (4 poles)
+Applicable Cable Outer Diameter: 3 mm
+XS2G-D4S5 (4 poles)
+14 dia. 
+20 dia. 14.9 dia. 
+39.7
+M12 × 1
+20 dia.
+14.9 dia.
+39.6
+Right-angle Connectors
+Applicable Cable Outer Diameter: 6 mm
+XS2G-D5S2 (5poles)
+XS2G-D4S2 (4 poles)
+Applicable Cable Outer Diameter: 4 mm
+XS2G-D4S4 (4 poles)
+Applicable Cable Outer Diameter: 3 mm
+XS2G-D4S6 (4 poles)
+14 dia.
+20
+
+XS2
+XS2C Screw-on Socket Assemblies
+Ordering Information
+Straight 
+connectors
+ (for DC)
+Right-angle 
+connectors
+ (for DC)
+UL
+Suitable sheath 
+material
+No. of 
+poles
+Suitable cable (mm)
+Core conductor 
+size (mm2)
+Model
+Model
+XS2C-D5S7
+—
+5
+8 dia. (7 to 8 dia.)
+7 dia. (6 to 7 dia.)
+XS2C-D5S9
+—
+6 dia. (5 to 6 dia.)
+XS2C-D5S1
+XS2C-D5S2
+UL 2238 certified
+(File No. E207683)
+0.18 to 0.75
+PVC, PE, PUR
+4
+8 dia. (7 to 8 dia.)
+XS2C-D4S7
+—
+7 dia. (6 to 7 dia.)
+XS2C-D4S9
+—
+6 dia. (5 to 6 dia.)
+XS2C-D4S1
+XS2C-D4S2
+4 dia. (4 to 5 dia.)
+XS2C-D4S3
+XS2C-D4S4
+3 dia. (3 to 4 dia.)
+XS2C-D4S5
+XS2C-D4S6
+Note: Use a cable of mentioning. If you do not use one of these cables, there is a possibility that the performance can’t be met.
+Dimensions
+(Unit: mm)
+54.9 
+M12 × 1
+Straight Connectors
+Applicable Cable Outer Diameter: 8 mm
+XS2C-D5S7 (5 poles)
+XS2C-D4S7 (4 poles)
+Applicable Cable Outer Diameter: 7 mm
+XS2C-D5S9 (5 poles)
+XS2C-D4S9 (4 poles)
+20 dia. 14.9 dia. 
+16 dia. 
+54.9
+M12 × 1
+Straight Connectors
+Applicable Cable Outer Diameter: 6 mm
+XS2C-D5S1 (5 poles)
+XS2C-D4S1 (4 poles)
+Applicable Cable Outer Diameter: 4 mm
+XS2C-D4S3 (4 poles)
+Applicable Cable Outer Diameter: 3 mm
+XS2C-D4S5 (4 poles)
+20 dia.
+14.9 dia.
+14 dia.
+35.9
+M12 × 1
+20 dia.
+14.9 dia.
+Right-angle Connectors
+Applicable Cable Outer Diameter: 6 mm
+XS2C-D5S2 (5 poles)
+XS2C-D4S2 (4 poles)
+Applicable Cable Outer Diameter: 4 mm
+XS2C-D4S4 (4 poles)
+Applicable Cable Outer Diameter: 3 mm
+XS2C-D4S6 (4 poles)
+39.6
+14 dia.
+21
+
+XS2
+XS2C/XS2G Safety Precautions
+Assembly Procedure for XS2C/XS2G Connector Assemblies
+(1) Connector and Cable Diameters
+(3) Wiring (Dressing the Cable Ends)
+Soldering Connectors
+4
+6
+6±0.5 *A
+• Connectors for 8, 7, 6, 4, and 3 mm diameter Cables (i.e., 
+Cables that are 7 to 8, 6 to 7, 5 to 6, 4 to 5, and 3 to 4 mm in 
+diameter respectively) are available.
+When assembling a Connector used with a cable, make sure 
+that the external diameter of the Connector is suited to that 
+of the cable.
+• A waterproof bushing for 6/7 mm diameter Cable has no 
+stripe, that for 8/4 mm diameter Cable has a single stripe, 
+and that for 3 mm diameter Cable has two stripes.
+(2) Component Insertion
+Crimping/Soldering Connectors
+Straight Connectors
+Cover
+Watertight
+bushing
+Cable
+clamp
+Cap
+• Strip 10 mm of the Cable sheath and 4 mm of each core.
+• Before soldering cores and solder cup pins together, solder-
+coat each of them.
+• The following conditions are recommended for soldering 
+each solder cup pin.
+Soldering temperature: 350±5°C
+Soldering period: 3±1 s
+• The length marked *A should be 6.5 mm max., otherwise 
+the proper degree of protection of the connector will not be 
+maintained.
+Crimping Connectors
+Crimping
+Right-angle Connectors
+4
+10−0 
+4
+Ring (Right-angle models only) *
+Cable clamp Cap
+Watertight
+bushing
+Cover
+*A ring is not required for Screw-on Connectors.
+• As shown in the above illustration, connect the above 
+components to the Cable with its end processed.
+Screw-on Connectors
+Confirm that you have all of the required parts.
+Cable clamp
+Cover
+Watertight
+bushing
+• Strip 14 mm of the Cable sheath and 4 mm of each core.
+• Make sure that each core is not damaged and its end 
+strands are not spread out.
+• Mount the XY2F-0003 Locator to XY2F-0002 Crimp Tool, 
+both of which are sold separately, and set the selector dial 
+of the Crimp Tool to 8. 
+• After mounting the crimping pins to the Locator, fully insert 
+the cores to the crimping pins.
+• Squeeze the handle of the Crimp Tool to press-fit the cores 
+to the crimping pins.
+(Squeeze the handle firmly until the handle automatically 
+returns to the release position.)
+Cap
+Wiring
+*2
+Pin clamp
+Press
+Ring *1
+Watertight bushing
+Cable clamp
+Cap
+Cover
+1 to 1.5
+Insulation caps and insulation tubes are included with 
+5-pole Connectors (XS2C-D5S@ and XS2G-D5S@).
+• After press-fitting the cores to the pins, insert the pins into 
+the pin clamp as shown in the illustration. Then make sure 
+that the lead colors correspond to the pin clamp numbers 
+that are identical to the connector pin numbers.
+*1. Rings are not required with 7-mm and 8-mm cables.
+*2. Insert the waterproof bushing for 7-mm and 8-mm cables in the 
+direction shown in the diagram.
+Insertion
+Pin Block
+Pin Clamp
+Key groove Key groove
+Key
+XS2C use
+XS2G use
+6±0.5
+• Tentatively insert the pins to the pin block holes so that the 
+key on the pin block will coincide with the key groove on the 
+pin clamp. Then insert the cable along with the pin clamp.
+22
+
+XS2
+Screw-on Connectors
+Dressing the Cable End
+• Four-pole Connectors
+Connecting Shielded Cables to Five-pole Connectors
+• Place the insulation tub on the drain line of the shield and 
+connect it to the terminal.
+• Tighten the screw and then check visually to see if there is 
+insulation between the cores.
+8
+12
+Drain line
+Insulation tube
+12±0.5
+*When tightening the screws, use the dedicated XW4Z-00B Screwdriver
+that matches with the screw-slot dimensions.
+• Loosen the screws on pins 1 to 4 and insert the cores 
+according to the pin numbers.
+Screwdriver
+XW4Z-00B
+• Use the dedicated Screwdriver (XW4Z-00B)* and tighten 
+the screws securely so that the cores do not pull out. (0.15 
+to 0.2 N·m)
+(4) Inserting Pin Block
+Pin block
+(Soldering Model)
+Cover
+(Straight Model)
+• Five-pole Connectors
+• Strip the cable sheath for a total of 15 mm and strip the core 
+covering for 8 mm for the core to connect to pin 5.
+Lock spring
+O-ring 
+8
+12
+Conductors for
+pins 1 to 4
+Triangle mark 
+Positioning key  
+(triangle mark) 
+Polarity key 
+8
+7
+Conductors for
+pin 5
+(Crimping Model)
+(Right-angle Model)
+• Connect the core to pin 5 (in the center) first.
+• Insert the core from the side of the hold with the tab and 
+tighten the screw securely (tightening torque: Pins 1 to 4: 
+0.15 to 0.2 N·m, Pin 5: 0.03 to 0.05 N·m), and then cut off 
+the excess wire with wire cutters. 
+Screw
+Screw
+Special
+Screwdriver
+Special
+Screwdriver
+Tab
+• Bend the cable as shown below, attached the enclosed 
+insulation cap, and then strip the other cores.
+• Mount the cover to the pin block so that the triangle mark on 
+the pin block will coincide with the triangle mark on the 
+cover.
+• If the cover is used for a Right-angle model, the relationship 
+between the position of the polarity key on the engaged side 
+and cable connection direction will be determined by the 
+direction in which the positioning key is inserted into the 
+cover, which can be rotated by 90°.
+• Fully insert the positioning key until the positioning key is 
+hidden by the casing.
+Pin block
+(Screw-on Connectors)
+Triangle mark 
+Cover
+Insulation cap
+Pin block 
+Cover lock 
+• Connect the cores to pins 1 to 4.
+• Align the triangular marks on the pin block and cover and 
+insert the pin block into the cover.
+• Press them together firmly until the pin block does not come 
+out of the cover. (0.39 to 0.49 N·m)
+23
+
+XS2
+(5) Mounting Cap
+• After mounting the cover to the pin block and the cover 
+snaps into place, tighten the cap securely by hand (0.39 to 
+0.49 N·m)
+Recommended Cables
+When connecting a commercially available cable to a 
+connector assembly, use a cable with an outside diameter of 
+3 to 6 mm and core conductor sizes of 0.18 to 0.75 mm2 for 
+crimping connectors and 0.5 mm2 maximum for soldering 
+connectors.
+Note: If the cap is not tighten securely enough, the degree of protection (IP67) 
+may not be maintained or vibration may cause the cap to become loose. 
+Do not tighten the cap with pliers or similar tools; they may damage the 
+cap.
+Cap
+A
+Connector Arrangement
+For safety, when constructing a connection system between a 
+Sensor and panel with a connector, make sure that the 
+connector plug is on the Sensor side and the connector socket 
+is on the panel side (i.e., the female pins are located on the 
+power-supply side).
+Sensor Side
+Connecting Cable
+Panel Side
+(Power-supply Side)
+• After fully tightening the cap, length A should be 
+approximately one of the following according to the cable 
+external diameter and the Connector model. (Use these as 
+a guide.)
+(Plug)
+(Socket)
+(Plug)
+(Socket)
+Cable external diameter (mm)
+External diameter of 
+applicable cable
+6 mm
+5 mm
+4 mm
+3 mm
+For 6-mm-dia. cable
+1
+0
+—
+—
+For 4-mm-dia. cable
+—
+2
+1
+—
+For 3-mm-dia. cable
+—
+—
+2
+1
+(6) After Assembly
+• Confirm the insulation between cores after completing 
+assembly.
+24
+
+XS2
+XS2P Panel-mounting Sockets for Terminal Boxes
+Ordering Information
+No. of 
+poles
+Lock method
+Pin shape*
+Applicable wire 
+diameter
+DC
+AC
+UL
+Model
+Model
+4
+Rear lock
+Solder cup pin
+XS2P-D421-2
+XS2P-A421-2
+UL 2238 certified
+(File No. E207683)
+Front lock
+Solder cup pin
+XS2P-D422-2
+XS2P-A422-2
+DIP pin
+XS2P-D422-1
+—
+AWG20 to 28
+5
+Front lock
+Solder cup pin
+XS2P-D522-2
+—
+—
+DIP pin
+XS2P-D522-1
+—
+*The solder cup pin is for wire mounting, and the DIP pin is for PCB mounting. Soldering is required for both pins.
+Dimensions
+(Unit: mm)
+Rear Lock Model
+XS2P-@421-2 (with Solder Cup Pins)
+M16 × 1 
+Panel 
+Rubber bushing 
+M12 × 1
+M12 × 1
+20 dia. 
+14.6 dia. 
+7 
+2.5 
+DC
+AC
+7.8 
+20.5 
+24 
+With Solder Cup Pins
+With DIP Pins
+Front Lock Model
+XS2P-@422-1 (with DIP Pins)
+XS2P-@422-2 (with Solder Cup Pins)
+Panel 
+M16 × 1 
+Rubber bushing 
+Panel 
+M16 × 1 
+Rubber bushing 
+5 dia. 
+M12 × 1
+M12 × 1
+2 dia. 
+14 dia. 
+14 dia. 
+20 dia. 
+16 dia. 
+6 
+7 
+7 
+17 
+2.5 
+20.5 
+DC
+AC
+24 
+8.7 
+17 
+23.5 
+27 
+Front Lock Model
+XS2P-D522-1 (with DIP Pins)
+XS2P-D522-2 (with Solder Cup Pins)
+With Solder Cup Pins
+With DIP Pins
+M16×1
+M16 × 1
+M16 nut
+M16 nut
+3
+1.5
+3
+1.5
+2 dia.
+2 dia.
+M12 × 1
+0.8 dia.
+14 dia.
+16 dia.
+14 dia.
+6.8
+3
+6.8
+7
+17
+17
+2.5
+DC
+8.7
+2.5
+5
+20.5
+8.7
+9
+3.5
+23.5
+25.5
+7+0.2 
+0  
+16+0.3 
+0  dia.
+Panel Cutout
+PCB-mounting 
+Dimensions
+With DIP Pins
+5
+Land
+5
+Four, 2.2-dia.holes
+24 min.
+24 min.
+Note: The panel thickness is 1 to 4 mm.
+25
+
+XS2
+XS2R Y-Joint Plug/Socket Connectors
+Ordering Information
+Cable
+Connector
+DC
+UL
+Cable length L (m)
+Model
+0.5
+XS2R-D426-B11-F
+Connectors on 
+both cable ends
+With cable
+UL 2238 certified
+(File No. E207683)
+1
+XS2R-D426-C11-F
+2
+XS2R-D426-D11-F
+3
+XS2R-D426-E11-F
+Connector on one 
+cable end
+2
+XS2R-D426-D10-F
+5
+XS2R-D426-G10-F
+Cable
+Connector
+DC
+UL
+Cable length L (m)
+Model
+Without cable
+Connectors on 
+both cable ends
+—
+XS2R-D426-1
+UL 2238 certified
+(File No. E207683)
+XS2R-D426-5
+XS2R-D426-81
+XS2R-D426-82
+Note: XS2G Screw-on Plugs cannot be connected side-by-side to the CN1 and CN2 connectors.
+Consider using a crimping or soldering model instead. Refer to page 18 for details.
+Dimensions
+(Unit: mm)
+Connectors on Both Cable Ends (Y-Joint Plug/Socket)
+XS2R-D426-@11-F
+Wiring Diagram
+Socket
+M12 × 1
+CN2
+CN2
+15.0 
+45.5 
+ 
+4.6 dia. 
+14.9 dia.
+6 dia. 
+Plug
+1 
+4 3 
+2 
+14.9 dia.
+18.0
+35.0 
+1
+4
+3
+2
+1
+4
+3
+2
+CN1
+1 
+4 3 
+2 
+14.9 dia.
+1
+2
+3
+4
+4
+3
+2
+1
+1
+2
+3
+4
+M12 × 1
+44.7 
+CN1
+Blue marking 
+8.5 
+13.6 
+L 
+Connectors on One Cable End (Y-Joint Socket)
+XS2R-D426-@10-F
+Wiring Diagram
+15.0 
+CN2
+Socket
+M12 × 1
+CN2
+45.5 
+ 4.6 dia. 
+1
+2
+3
+4
+Black
+14.9 dia.
+Blue
+6 dia. 
+1 
+4 3 
+2 
+White
+Brown
+35.0 
+18.0
+CN1
+1 
+4 3 
+2 
+14.9 dia.
+1
+2
+3
+4
+Blue marking 
+5 
+8.5 
+13.6 
+30 
+CN1
+50 
+L 
+Y-Joint Plug/Socket without Cable
+XS2R-D426-1
+Wiring Diagram
+XS2R-D426-1
+XS2R-D426-5
+CN2
+CN2
+4
+3
+2
+1
+4
+3
+2
+1
+27 
+7 
+15 
+Socket
+M12 × 1
+4.5 dia. 
+CN2
+14.9 dia.
+CN1
+CN0
+CN1
+CN0
+4
+3
+2
+1
+1 
+4 3 
+2 
+CN0 
+24.5
+Plug
+4
+3
+2
+1
+4
+3
+2
+1
+4
+3
+2
+1
+(37) 
+18.0
+14.9 dia.
+1 4
+2 
+3
+2
+1 4
+XS2R-D426-81
+XS2R-D426-82
+3
+2
+1 
+4 3 
+14.9 dia.
+12.5
+CN1
+CN2
+CN2
+M12 × 1
+58.3 
+4
+3
+2
+1
+4
+3
+2
+1
+Blue marking 
+CN1
+CN0
+CN1
+CN0
+  
+4
+3
+2
+1
+4
+3
+2
+1
+4
+3
+2
+1
+4
+3
+2
+1
+26
+
+XS2
+XS2R T-Joint Plug/Socket Connectors
+Ordering Information
+Type
+DC
+UL
+Model
+Aggregate model
+XS2R-D422-1
+UL 2238 certified
+(File No. 
+E207683)\
+XS2R-D422-5
+Bifurcated model
+XS2R-D423-1
+Daisy-chain model
+XS2R-D424-1
+Dimensions
+(Unit: mm)
+Wiring Diagram
+XS2R-D422-1
+A (Female)
+B (Female)
+Aggregate model
+XS2R-D422-1
+XS2R-D422-5
+4
+4
+3
+3
+50.6 
+2
+2
+24.6 
+M12 × 1
+1
+1
+14.6 dia. 
+A 
+B 
+1
+2
+3
+4
+C (Male)
+C 
+29 
+M12 × 1
+XS2R-D422-5
+A (Female)
+B (Female)
+4
+4
+3
+3
+2
+2
+1
+1
+1
+2
+3
+4
+C (Male)
+50.6 
+A (Male)
+B (Male)
+Bifurcated model
+XS2R-D423-1
+Wiring Diagram
+24.6 
+4
+4
+3
+3
+A 
+B 
+2
+2
+1
+1
+M12 × 1
+C 
+29 
+1
+2
+3
+4
+C (Female)
+14.6 dia. 
+M12 × 1
+50.6 
+Daisy-chain model
+XS2R-D424-1
+Wiring Diagram
+A (Female)
+B (Male)
+24.6 
+M12 × 1
+4
+4
+3
+3
+14.6 dia. 
+A 
+B 
+2
+2
+1
+1
+M12 × 1
+C 
+29 
+1
+2
+3
+4
+C (Female)
+27
+
+XS2
+Features
+XS2R Application Examples
+XS2R-D422-1 (Aggregate Model)
+Sensor
+Sensor
+XS2R-D422-1
+XS2G/XS2H
+XS2G/XS2H
+A
+B
+• A pair of Two-wire Sensors or 
+Three-wire Sensors can be 
+connected as shown in the 
+illustration.
+• The XS2R-D422-5 has feed through 
+connections, thus working as a 
+connector for the extension cable.
+C
+Photoelectric sensor
+Photoelectric sensor
+XS2W/XS2F/XS2C
+XS2R-D423-1 (Bifurcated Model)
+XS2R-D423-1
+XS2W/XS2F/XS2C
+XS2W/XS2F/XS2C
+A
+B
+• Two or Three-wire Sensor signals 
+can be bifurcated.
+C
+Proximity sensor
+XS2G/XS2H
+PLC (A)
+PLC (B)
+Sensor
+XS2R-D424-1 (Daisy Chain Model)
+A
+B
+A
+B
+A
+B
+C
+C
+C
+• Two-wire Sensors with contact 
+output can be connected through a 
+daisy chain to obtain AND output.
+Sensor1
+Sensor2
+Sensor3
+Sensor2
+Safety Precautions
+Precautions for Correct Use
+Do not use the product in atmospheres or environments that exceed product ratings.
+• Before using the XS2R for Sensors, make sure that the wiring of the Sensors and the internal connections of the XS2R are 
+correct.
+28
+
+XS2
+XS2M Sensor-embedded Plugs
+Ordering Information
+No. of 
+poles
+Mounting method
+Pin shape
+Applicable wire di-
+ameter
+DC
+AC
+UL
+Model
+Model
+4
+Embedded with screw 
+threads
+Solder cup pin
+AWG22 to 28
+XS2M-D421
+XS2M-A421
+UL 2238 certified
+(File No. E207683)
+Embedded without 
+screw threads
+XS2M-D422
+XS2M-A422
+Dimensions
+(Unit: mm)
+Mounting Dimensions
+Embedded with screw threads
+XS2M-D421 (For DC)
+XS2M-A421 (For AC)
+Resin
+filled
+M12 × 1
+6.5 
+O-ring
+45° 
+45° 
+5 dia. 
+5 dia. 
+9.45+0.05 
+−0
+dia.
+10.5 dia. 
+9.4 dia. 
+8 dia. 
+1.2 
+4 
+0.7 
+DC
+AC
+10 
+6.7 min.
+16 
+Note: After mounting, anchor the solder cup 
+pins by injecting resin.
+Mounting Dimensions
+Embedded without screw threads
+XS2M-D422 (For DC)
+XS2M-A422 (For AC)
+9.6 dia.O-ring
+45°
+45°
+5 dia.
+5 dia.
+15.7 min.
+Resin
+filled
+9.45+0.05 
+−0
+dia.
+10.5 dia.
+9.4 dia.
+DC
+AC
+10.8
+1.2
+1.5
+6.5
+0.7
+16
+M12 × 1
+Note: After mounting, anchor the solder cup 
+pins by injecting resin.
+29
+
+XS2
+XS2M Panel-mounting Plugs
+Ordering Information
+Resin Body
+No. of 
+poles
+Mounting method
+Pin shape*1
+Applicable wire 
+diameter
+DC
+AC
+UL
+Model
+Model
+4
+Flange-mounting
+Solder cup pin
+AWG22 to 28
+XS2M-D423
+XS2M-A423
+UL 2238 certified
+(File No. E207683)
+Screw-mounting
+DIP pin
+—
+XS2M-D424-1
+XS2M-A424-1
+Solder cup pin
+AWG20 to 28
+XS2M-D424-2
+XS2M-A424-2
+5
+Screw-mounting
+DIP pin
+—
+XS2M-D524-1
+—
+Solder cup pin
+AWG20 to 28
+XS2M-D524-2
+—
+Metal Body
+No. of 
+poles
+Mounting method
+Pin shape*1
+Applicable wire 
+diameter
+ DC
+UL
+Model
+DIP pin
+—
+XS2M-D424-3
+4
+Screw-mounting
+—
+Solder cup pin
+AWG20 to 28
+XS2M-D424-4
+5
+DIP pin
+—
+XS2M-D524-3
+Solder cup pin
+AWG20 to 28
+XS2M-D524-4
+*1. The solder cup pin is for wire mounting, and the DIP pin is for PCB mounting. 
+Soldering is required for both pins.
+Dimensions
+(Unit: mm)
+Panel Cutouts
+M12 × 1
+6.5 
+Flange-mounting
+XS2M-D423 (For DC)
+XS2M-A423 (For AC)
+45° 
+45° 
+Rubber bushing
+1.5 
+5 dia. 
+5 dia. 
+2.5 dia. 
+10+1  
+0
+Four, 
+3.2 dia.
+3.2 dia. 
+14 
+20 
+20 
+14 
+10.5 dia. 
+9.4 dia. 
+14±0.1
+10 
+2 1 
+16 
+0.7 
+14 
+20 
+14 
+20 
+21 min.
+14±0.1
+DC
+AC
+Panel Cutout
+7+0.2 
+0  
+16+0.3 
+0  dia.
+Screw-mounting
+XS2M-@424-1 DIP pin (Resin Body)
+XS2M-D424-3 DIP pin (Metal Body)
+(DIP pin)
+3
+5 dia.
+M16 nut
+M16 × 1
+Seal rubber
+M12 × 1
+2 dia.
+24 min.
+Note: The panel thickness is 1 to 4 mm.
+16 dia.
+PCB-mounting Dimensions
+5
+Land
+1.5
+17
+7
+7
+1.5
+5
+6.5
+18.7
+4.5
+8.7
+DC
+AC
+27.7
+3.5
+24 min.
+Four, 
+2.2-dia. holes
+30
+
+XS2
+Screw-mounting
+XS2M-@424-2 Solder Cup Pins (Resin Body)
+XS2M-D424-4 Solder Cup Pins (Metal Body)
+(Solder Cup Pins)
+Panel Cutout
+3
+5 dia.
+7 +0.2
+M16 nut
+M16 ��1
+Seal rubber
+M12 ��1
+20 dia.
+ 
+0
+16+0.3 
+0  dia.
+16 dia.
+M12 ��1
+1.5
+17
+1.5
+7
+6.5
+18.7
+4.5
+8.7
+27.7
+3.5
+Screw-mounting
+XS2M-D524-2 Solder Cup Pins (Resin Body)
+Screw-mounting
+XS2M-D524-1 DIP pin (Resin Body)
+Panel Cutout
+Panel Cutout
+7 +0.2
+7 +0.2
+16+0.3 
+0  dia.
+ 
+0
+16+0.3 
+0  dia.
+ 
+0
+(Solder Cup Pins)
+(DIP pin)
+3
+1.5
+3
+1.5
+20 dia.
+M16 nut
+Seal rubber
+M16 ��1
+20 dia.
+M16 nut
+Seal rubber
+M16 ��1
+M12 ��1
+M12 ��1
+17
+M12 ��1
+7
+1.5
+6.5
+6.8
+17
+M12 ��1
+7
+1.5
+6.5
+6.8
+8.7
+2.5
+9
+3.5
+3.5
+8.7
+2.5
+9
+27.7
+5.5
+27.7
+Screw-mounting
+XS2M-D524-3 DIP pin (Metal Body)
+Screw-mounting
+XS2M-D524-4 Solder Cup Pins (Metal Body)
+Panel Cutout
+Panel Cutout
+7 +0.1
+7 +0.1
+16+0.1 
+0  dia.
+ 
+0
+16+0.1 
+0  dia.
+ 
+0
+(DIP pin)
+(Solder Cup Pins)
+3
+1.5
+3
+1.5
+5 dia.
+20 dia.
+20 dia.
+5 dia.
+M16 nut
+Seal rubber
+M16 ��1
+M16 nut
+Seal rubber
+M16 ��1
+M12 ��1
+M12 ��1
+0.8 dia.
+16 dia.
+16 dia.
+17
+17
+7
+1.5
+6.5
+8.7
+M12 ��1
+7
+1.5
+6.5
+4.5
+18.7
+8.7
+3.5
+3.5
+4.5
+18.7
+27.7
+5.5
+27.7
+31
+
+XS2
+Common Accessories and Tools (Order Separately)
+Ordering Information
+Connector Covers
+Application Example: XS2Z-11
+XS2Z-11
+M12 male screw
+9.4
+Waterproof Covers
+XS2Z-11
+14.9 dia.
+M12 × 1
+(female 
+screw)
+M12 × 1
+15.7
+XS2Z-22
+XS2Z-22
+M12 × 1
+M12 × 1 female screw (thread bracket)
+9.2
+14.9 dia.
+10.6 dia.
+M12 × 1
+You can use the Waterproof 
+Cover when the connector is not 
+connected to ensure an IP67 
+degree of protection. When 
+mounting the Water-resistive 
+Cover to a Connector, be sure to 
+apply a torque range between 
+0.39 and 0.49 N·m to tighten the 
+Water-resistive Cover.
+Model
+Materials
+Suitable connector
+Model
+Mounting portion
+XS2G/XS2H/XS2M/XS2R/XS2W/XS5H/
+XS5M/XS5W
+M12 male screw
+XS2Z-11
+Copper alloy/
+Nickel plated
+XS2Z-22
+XS2C/XS2R/XS2F/XS2P/XS2W/XW3B/
+XS5F/XS5W/XS5R/XS5P/XW3D
+M12 female screw 
+(thread bracket)
+XS2Z-13
+M12 male screw
+Dust Covers
+XS2Z-13
+Application Example: XS2Z-13
+XS2Z-15
+XS2Z-14
+M12 female screw (thread bracket)
+XS2Z-15/XS2Z-14
+The Dust Cover is for dust prevention and does not 
+ensure IP67 degree of protection.
+When mounting the Dust Cover to a Connector, be 
+sure to press the Dust Cover onto the Connector until 
+the Connector is fully inserted into the Dust Cover.
+Pin block (female pins)
+Model
+Materials
+Suitable connector
+XS2G/XS2H/XS2M/XS2R
+M12 male screw
+Model
+Mounting portion
+XS2Z-13
+Rubber/black
+Pin block
+(female pins)
+XS2Z-14
+XS2C/XS2R/XS2F/XS2P/XW3B
+XS2Z-15
+M12 female screw 
+(thread bracket)
+32
+
+XS2
+Application Example: XS2Z-18
+C ring
+Loosening-preventing C-ring
+XS2Z-18
+This C-ring prevents the M12 connector 
+from becoming loose.
+When you attach the C-ring, press it 
+securely between the thread bracket and 
+cover.
+Note: Attach C-rings to both the plug and socket.
+Model
+Materials
+Suitable connector
+XS2Z-18
+POM
+XS2F/H/W
+Application Example: XS2Z-31
+XS2Z-31
+M12 female screw (thread bracket)
+Sputter Protective Cover
+XS2Z-31
+Pin block (female contact)
+The Sputter Protective Cover protects the 
+connector from weld sputter.
+Make sure it covers the entire connector.
+Model
+Materials
+Suitable connector
+XS2Z-31
+Silicone rubber/black
+XS5F/XS5H/XS5W/
+XS2F/XS2H/XS2W
+Tools
+Torque Wrench
+XY2F-0004
+Tool in open position
+Crimp Tool
+XY2F-0002
+Locator
+XY2F-0003
+Tool in closed
+position
+ 
+ 
+R
+A
+E
+N
+N
+D
+ 
+O
+N
+S
+I
+R
+I
+ 
+ 
+T
+A
+T
+O
+O
+I
+L
+T
+ 
+T
+L
+S
+°
+ 
+A
+ 
+0
+O
+T
+ 
+T
+ 
+9
+E
+O
+ 
+ 
+ 
+P
+S
+E
+I
+ 
+ 
+ 
+R
+ 
+A
+E
+9
+O
+R
+H
+2
+T
+0
+T
+A
+°
+1
+S
+A
+T
+3
+ 
+T
+E
+U
+T
+ 
+O
+8
+P
+O
+ 
+4
+R
+I
+SEL.
+NO.
+N
+S
+7
+T
+5
+A
+L
+L
+ 
+6
+XY2F-0002
+Crimp Tool
+Selector dial
+(Set to 8.)
+Locator guide
+XY2F-0003 Locator
+Mount with the screw, and insert the contacts from the opposite side.
+Use the Crimp Tool to crimp a cable core to the XS2U 
+Crimping Pin used with the XS2C or XS2G Crimping 
+Connector. Both the Crimp Tool and the optional Locator are 
+required for use.
+• The XY2F-0002 Crimp Tool is DMC’s AFM8 (M22520/
+2-01).
+• The XY2F-0003 Locator is a component for positioning 
+crimp terminals. Use the screw provided to mount the 
+Locator to the locator guide of the Crimp Tool.
+Pin-block Extraction Tool
+XY2F-0001
+Use this tool to extract a Pin Block from the covers in order to 
+make wiring changes or corrections after the cover has been 
+mounted to the pin block for Connector Assemblies (XS2C/
+XS2G, soldering/crimping).
+33
+
+XS2
+Safety Precautions
+Precautions for Correct Use
+Extraction Procedure
+(1) Disconnecting Components
+• Disconnect all components on the cap side from the cover.
+• The pin block must not be extracted from the same 
+Connector more than 3 times, otherwise the proper degree 
+of protection of the pin block or Connector will not be 
+maintained.
+• Do not use the product in atmospheres or environments that 
+exceed product ratings.
+Pin block
+Cover
+Rubber
+bushing
+Cable clamp Cap
+(2) Extracting Pin Block
+• Insert the claws of the Tool into the four holes of the cover.
+Tightening Cap (Connector Assemblies)
+1) Do not use pliers to tighten caps, otherwise the caps may 
+be damaged. Use your fingers to tighten the Connectors 
+sufficiently.
+(0.39 to 0.49 N·m)
+2) If caps are not tightened securely, the Connectors may not 
+maintain their proper degree of protection (i.e., IP67) or the 
+caps may become loose due to vibration.
+Holes
+Claws
+• Make sure that the pin block is outside the Tool.
+Tool
+Connector Connection and Disconnection
+• When connecting or disconnecting Connectors, be sure to 
+hold the Connectors by hand.
+• Do not hold the cable when disconnecting Connectors.
+• Connectors mating with sockets must be fully inserted into 
+the mating sections. Tighten the thread bracket carefully so 
+that the threads will not be damaged.
+• Fully tighten thread bracket within a torque range between 
+0.39 and 0.49 N·m and be sure that the threads of the 
+opposite parts are hidden by the thread bracket.
+• When disconnecting Connectors, be sure to loosen the 
+thread brackets first. Do not loosen the caps.
+• Thread brackets must be loosened in the cutout direction.
+Cutout
+Pin block
+Loosen
+Guide 
+Cover 
+Cover 
+• Press the Tool so that the guides of the Tool are in close 
+contact. Then pull the pin block straight.
+Thread
+bracket
+Pin block
+Guide 
+Extracting 
+direction 
+Degree of Protection
+• Do not impose external force continuously on the joints of 
+pin blocks and covers, otherwise the Connectors may not 
+keep its proper degree of protection (i.e., IP67).
+• The degree of protection of connectors (IP67) is not for a 
+fully watertight structure. Do not use them underwater.
+• Connectors are of resin mold construction. Do not impose 
+excessive force on them.
+Setup
+• Do not make any cable bends near the base of the Unit.
+• Any bends made must have a minimum radius of 40 mm.
+34
+
+Terms and Conditions Agreement 
+ 
+Read and understand this catalog. 
+Please read and understand this catalog before purchasing the products.  Please consult your OMRON representative if you 
+have any questions or comments.   
+ 
+Warranties. 
+(a) Exclusive Warranty. Omron’s exclusive warranty is that the Products will be free from defects in materials and workmanship 
+for a period of twelve months from the date of sale by Omron (or such other period expressed in writing by Omron). Omron 
+disclaims all other warranties, express or implied. 
+(b) Limitations. OMRON MAKES NO WARRANTY OR REPRESENTATION, EXPRESS OR IMPLIED, ABOUT 
+NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE PRODUCTS. BUYER 
+ACKNOWLEDGES THAT IT ALONE HAS DETERMINED THAT THE 
+PRODUCTS WILL SUITABLY MEET THE REQUIREMENTS OF THEIR INTENDED USE. 
+Omron further disclaims all warranties and responsibility of any type for claims or expenses based on infringement by the 
+Products or otherwise of any intellectual property right. (c) Buyer Remedy. Omron’s sole obligation hereunder shall be, at 
+Omron’s election, to (i) replace (in the form originally shipped with Buyer responsible for labor charges for removal or 
+replacement thereof) the non-complying Product, (ii) repair the non-complying Product, or (iii) repay or credit Buyer an amount 
+equal to the purchase price of the non-complying Product; provided that in no event shall Omron be responsible for warranty, 
+repair, indemnity or any other claims or expenses regarding the Products unless Omron’s analysis confirms that the Products 
+were properly handled, stored, installed and maintained and not subject to contamination, abuse, misuse or inappropriate 
+modification. Return of any Products by Buyer must be approved in writing by Omron before shipment. Omron Companies shall 
+not be liable for the suitability or unsuitability or the results from the use of Products in combination with any electrical or 
+electronic components, circuits, system assemblies or any other materials or substances or environments. Any advice, 
+recommendations or information given orally or in writing, are not to be construed as an amendment or addition to the above 
+warranty. 
+See http://www.omron.com/global/  or contact your Omron representative for published information. 
+ 
+Limitation on Liability; Etc. 
+OMRON COMPANIES SHALL NOT BE LIABLE FOR SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, 
+LOSS OF PROFITS OR PRODUCTION OR COMMERCIAL LOSS IN ANY WAY CONNECTED WITH THE PRODUCTS, 
+WHETHER SUCH CLAIM IS BASED IN CONTRACT, WARRANTY, NEGLIGENCE OR STRICT LIABILITY. 
+Further, in no event shall liability of Omron Companies exceed the individual price of the Product on which liability is asserted. 
+ 
+Suitability of Use. 
+Omron Companies shall not be responsible for conformity with any standards, codes or regulations which apply to the 
+combination of the Product in the Buyer’s application or use of the Product. At Buyer’s request, Omron will provide applicable 
+third party certification documents identifying ratings and limitations of use which apply to the Product. This information by itself 
+is not sufficient for a complete determination of the suitability of the Product in combination with the end product, machine, 
+system, or other application or use. Buyer shall be solely responsible for determining appropriateness of the particular Product 
+with respect to Buyer’s application, product or system. Buyer shall take application responsibility in all cases.  
+NEVER USE THE PRODUCT FOR AN APPLICATION INVOLVING SERIOUS RISK TO LIFE OR PROPERTY OR IN LARGE 
+QUANTITIES WITHOUT ENSURING THAT THE SYSTEM AS A WHOLE HAS BEEN DESIGNED TO ADDRESS THE RISKS, 
+AND THAT THE OMRON PRODUCT(S) IS PROPERLY RATED AND INSTALLED FOR THE INTENDED USE WITHIN THE 
+OVERALL EQUIPMENT OR SYSTEM. 
+ 
+Programmable Products. 
+Omron Companies shall not be responsible for the user’s programming of a programmable Product, or any consequence 
+thereof. 
+ 
+Performance Data. 
+Data presented in Omron Company websites, catalogs and other materials is provided as a guide for the user in determining 
+suitability and does not constitute a warranty. It may represent the result of Omron’s test conditions, and the user must correlate 
+it to actual application requirements. Actual performance is subject to the Omron’s Warranty and Limitations of Liability. 
+ 
+Change in Specifications. 
+Product specifications and accessories may be changed at any time based on improvements and other reasons. It is our 
+practice to change part numbers when published ratings or features are changed, or when significant construction changes are 
+made. However, some specifications of the Product may be changed without any notice. When in doubt, special part numbers 
+may be assigned to fix or establish key specifications for your application. Please consult with your Omron’s representative at 
+any time to confirm actual specifications of purchased Product. 
+ 
+Errors and Omissions. 
+Information presented by Omron Companies has been checked and is believed to be accurate; however, no responsibility is 
+assumed for clerical, typographical or proofreading errors or omissions. 
+ 
+ 
+ 
+2021.5 
+In the interest of product improvement, specifications are subject to change without notice. 
+OMRON Corporation 
+Industrial Automation Company 
+ 
+http://www.ia.omron.com/ 
+(c)Copyright OMRON Corporation 2021 All Right Reserved. 
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Omron:  
+ 
+  XS2C-D421  XS2C-D422  XS2C-A4C1  XS2C-D424  XS2C-D4C1  XS2C-D4C3  XS2C-D4S1  XS2C-D4S2  XS2C-
+D4S3  XS2C-D4S4  XS2C-D4S5  XS2C-D4S6  XS2C-D4S7  XS2C-D5S7  XS2F-D421-410  XS2F-D421-C80-F  XS2F-
+D421-DC0-TR  XS2F-D421-DD0  XS2F-D421-G80-F  XS2F-D421-GD0  XS2F-D421-GD0-TR  XS2F-D421-S004  XS2F-
+D421-S006  XS2F-D421-S010  XS2F-D421-S013  XS2F-D421-S015  XS2F-D421-S017  XS2F-D421-S025  XS2F-
+D421-S026  XS2F-D422-410  XS2F-D422-DC0-TR  XS2F-D422-DD0-TR  XS2F-D422-GC0-TR  XS2F-D422-S027 
+XS2F-D521-DG0-A  XS2F-D521-GG0-A  XS2F-D821-BH0-C  XS2G-A421  XS2G-A4C1  XS2G-D423  XS2G-D425 
+XS2G-D4C1  XS2G-D4C3  XS2G-D4C5  XS2G-D4S1  XS2G-D4S2  XS2G-D4S3  XS2G-D4S4  XS2G-D4S5  XS2G-
+D4S6  XS2G-D4S7  XS2G-D5S7  XS2G-S004  XS2G-S005  XS2H-D421-A80-F  XS2H-D421-B80-F  XS2H-D421-B80-
+T  XS2H-D421-C80-F  XS2H-D421-D80-F  XS2H-D421-D80-T  XS2M-A421  XS2M-A422  XS2M-A423  XS2M-A424-2 
+XS2M-D422  XS2M-D423  XS2M-D424-2  XS2P-A421-2  XS2P-A422-2  XS2P-D421-2  XS2P-D422-1  XS2P-D422-2 
+XS2R-D422-1  XS2R-D422-5  XS2R-D423-1  XS2R-D426-1  XS2R-D426-B11-F  XS2R-D427-5  XS2R-D526-S001-2 
+XS2R-D526-S001-5  XS2R-D526-S003  XS2U-2221  XS2U-2222  XS2U-3121  XS2U-3122  XS2W-D421-B81-F 
+XS2W-D421-C81-F  XS2W-D421-E81-F  XS2W-D421-G81-SA  XS2W-D421-J81-F  XS2W-D821-GH1-C  XS2W-D821-
+JH1-C  XS2Z-11  XS2Z-12  XS2Z-13  XS2Z-16Z  XS2C-D5S1  XS2F-D421-E80-F  XS2F-D421-H80-F  XS2F-D821-
+GH0-C

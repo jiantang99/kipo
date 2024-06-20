@@ -1,0 +1,1459 @@
+Amphenol Socapex │ POWERSAFE
+COMPLIANT
+Powersafe
+Qualified VG96944
+Derived from MIL-DTL-38999 Series III / EN3645
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+1
+www.amphenol-socapex.com
+
+Amphenol Socapex │ POWERSAFE
+ABOUT AMPHENOL SOCAPEX
+Proven excellence in interconnect solutions
+Since 1947, Amphenol Socapex has prescribed, designed and manufactured reliable and innovative 
+interconnection solutions for harsh environments, specializing in standard and customized 
+electrical and fiber optic connectors, contacts, accessories and cabling solutions.
+Located in the Mont Blanc region of France and Pune in India, Amphenol Socapex has a presence 
+in over 100 countries around the world.
+Amphenol Socapex is part of the international Amphenol Corporation.
+€
+1000+ employees
+Net Sales 2019: 86,6 M€
+69% Export - 31% France
+Two facilities :
+Thyez (France), Pune (India)
+1947
+1956-57
+1973
+1975
+Early 1960’s
+Séries 127/HE8
+Séries PT/451
+- Production of 38999 connectors 
+- Socapex creation in Suresnes, 
+France
+- 1st radio connector 
+- Manufacturing unit in Cluses (74), 
+France
+- Thomson-CSF becomes primary 
+shareholder
+- New factory 13 000 m2 in Thyez 
+(74) France with 250 people
+- 1st board level connectors: HE8
+- 1st “licence Bendix” manufactured 
+connectors
+- SL Series launch
+Today and tomorrow  | New technologies
+2014-2017
+Fiber optics
+Miniaturization
+Rugged Ethernet
+High-speed signals
+Power
+Miniaturization
+OUR HISTORY
+Rugged Ethernet
+ROHS solutions
+Quadrax Contacts
+Cable Assembly
+Power
+ROHS solutions
+Fiber optics
+Advanced Materials (composite)
+- New Cable Assembly workshop
+- New Contact Manufacturing workshop
+Power
+Miniaturization
+ROHS solutions
+
+Amphenol Socapex │ POWERSAFE
+INTERNATIONAL EXPERTISE
+Our expertise has no boundaries
+France - India
+Integrated Production in France & India
+- 24 000 m2 manufacturing capacity on 2 sites 
+- Design centers in France and India
+- State-of-the-art manufacturing technology
+Our markets
+Aviation
+Military
+Commercial & military / Avionics / 
+Engines / Landing gear / Actuators
+Communication Systems - Radios - C4ISR / 
+Ground vehicles - Vetronics / Marine / Missiles
+2010’s
+1986
+1995-96
+2005
+2004
+LuxBeamTM
+Amphenol
+Socapex
+HDAS
+- RJ Field launch, “Award 
+Electronica”
+- Opening of manufacturing site in 
+Pune, India
+- LuxBeamTM and HDAS launch
+- Amphenol becomes primary 
+shareholder
+- Expanded Beam connector CTOS 
+launch
+- Headquarters transferred to Thyez
+Today and tomorrow | Sustainable development
+Respect for nature and the environment
+Optimization of natural resources
+Optimization of natural resources
+Goodwill
+Recycling
+Waste Management
+Optimization of natural resources
+Goodwill
+Respect for nature and the environment
+Waste Management
+Recycling
+
+Amphenol Socapex │ POWERSAFE
+PRODUCING FASTER, SMALLER, STRONGER CONNECTORS...
+Technologies & innovation
+High-Speed Expertise
+Materials Expertise
+Technological Center
+Eco-responsibility
+Engineering Laboratory for product 
+testing and qualification, product 
+expertise and metrology
+- Mechanical and electrical skills
+- RF and fiber optics expertise
+Strong expertise in high-speed 
+signals
+- 3D EM simulation software & EM models
+- Time Domain and frequency domain 
+(VNA 20GHz, TDR and eye diagram)
+Focus on materials expertise 
+and manufacturing techniques 
+to produce faster, smaller and 
+stronger products
+- 3D CAD mechanical software, simulation 
+& analysis
+- Disruptive metal alloys, additive 
+manufacturing
+Sustainable environment 
+approach, with pro-active 
+management of regulations 
+(REACH / RoHS / Conflict 
+minerals…)
+- New materials development, plating, and 
+suitable processes
+- Recycling and rational resources 
+consumption
+Our workshops
+Our workshops located in France & India provide consistent quality adapted to your volume requirements.
+Tooling : Tools for our different activities : molding, machining, assembly
+Molding : Solid expertise in thermoplastic elastomer and thermoset molding
+Machining : Manufacturing of cylindrical shells from 10 to 90 mm in diameter and rectangular shells
+Screw Machining : Cylindrical production parts up to 10 mm in diameter
+Plating : Plating with cadmium, nickel, electroless nickel, silver, black zinc nickel, gold
+Assembly : Connector and harness assembly (electrical & optical)
+Our certifications
+Our memberships
+Certified Management System
+Certified Management System
+Certified Management System
+Certified Management System
+Member of CMG (Connecting Manufacturing Group) Consortium
+Product certifications : MIL-DTL38999, EN3645, EN3155, VG
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+4
+
+Amphenol Socapex │ POWERSAFE
+DELIVERING GREAT CUSTOMER EXPERIENCE
+ We have a strong reputation for helping customers solve their toughest challenges. This 
+approach of serving your needs is ingrained in our company – from our sales team to our 
+product development engineers.
+A partner you can trust 
+Customer Proximity 
+Design Expertise
+Quality Commitment 
+On Time Delivery 
+Performance
+Compliance manager
+Buy our solutions
+You can access our solutions through our global network of sales offices or through our distributors.
+Field Sales Team :
+12 in France
+15 in Europe
+100+ in North America and rest of the world.
+5 Business Development Managers supporting local sales force 
+Europe, North America and the rest of the world
+Technical Support & Multilingual Customer Service :
+15 people
+Worldwide Distribution Network :
+Including qualified distributors (QPL approved) for 
+assembling : MIL-DTL-38999, PT/451/VG95328 & Fiber
+Optics connectors
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+5
+
+Amphenol Socapex │ POWERSAFE
+POWERSAFE
+PowerSafe MIL-DTL-38999 Series III was developed to transfer high power (500V voltage) in harsh 
+environment, with a full safety for the user.
+Main Features
+  Qualified VG96944
+  Focus both on USER SAFETY and on the MIL-DTL-38999 Series III performances
+USER
+SAFETY
+  First mate/last break: One protective contact linked to the shell
+  Last mate/first break: One pilot contact with breaking capacity. It allows the current flow in the phase and 
+neutral contacts through a relay
+  IP28 : 
+- finger test for socket contacts and socket inserts
+- pressure water tight (48h, under 2m water)
+Added Benefits
+  In accordance with the new standard for power equipment
+  Homogeneity with standard MIL-DTL-38999 III connectors when power is needed on the equipment (same 
+panel drilling)
+   Qualified according the most stringent standard VG96944
+   Safety use design following DIN EN-61984 (VDE 0627)
+Markets & Applications 
+Markets
+Applications
+  I/O Power for boxes
+  Power connectors spread on the field (drums)
+  Electrical power generator
+  Defense: C4ISR/Battlefield/Ground Vehicles/Missile
+  Avionics
+  Harsh industrial markets
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+6
+
+Amphenol Socapex │ POWERSAFE
+POWERSAFE - MECHANICAL CHARACTERISTICS
+1
+10
+1
+Coupling nut 
+Pilot socket contact
+7
+2
+2
+Quick coupling thread
+Protective socket contact
+11
+15
+16
+8
+3
+Anti-decoupling device 
+Phase and neutral pin contact
+12
+4
+9
+8
+4
+Plug shell 
+Pilot pin contact
+13
+12
+6
+5
+Spring fingers (EMI)
+Protective pin contact
+14
+6
+6
+Grommet
+Interfacial seal 
+15
+17
+10
+7
+Receptacle shell
+Socket insert 
+16
+13
+8
+Contact retention clips 
+Pin insert 
+17
+11
+14
+Phase and neutral socket contact
+9
+3
+5
+MIL-DTL-38999 series III
+VG96944 
+Durability
+500 cycles
+500 cycles
+Shell Size
+13/17/25 (3 arrangements)
+13/17/25 (3 arrangements)
+Shock
+-
+Half-sine, 500 m/s2, 11 ms 
+Sine vibrations
+60g from -55 +175°C (ODC) + 200°C (nickel)
+-
+-
+Spectrum 5 Hz to 500 Hz
+Random vibrations 
+per EIA364.28 vs 
+VG95319-2
+Shell and Backshell 
+plating
+Olive Drab Cadmium, Black Zinc Nickel, Electroless nickel, Bronze, 
+Inox
+Olive Drab Cadmium
+Insert material
+Thermoplastic insert
+Silicone rubber grommet and interfacial seal
+Thermoplastic insert with Comparative Tracking Index < 400 V
+Silicone rubber grommet and interfacial seal
+Contacts
+Crimp, removable contacts
+Gold plating for pilot contact and silver plating for protective, phase 
+and neutral contacts
+Crimp, removable contacts
+Gold plating for pilot contact and silver plating for protective, phase and 
+neutral contacts
+Protective contact 
+resistance
+≤100 mΩ
+≤100 mΩ
+Contact retention force:
+Contact Size
+20
+16
+12
+6
+Maximum load (N)
+67
+111
+111
+111
+Environmental Characteristics
+MIL-DTL-38999 series III
+VG96944 
+Temperature 
+-65 +175°C (ODC, BZN platings)
+-65 + 200°C (Nickel plating, bronze, stainless steel)
+-65 +150°C (ODC plating)
+Salt spray exposure
+Test level 2 : 5% NaCl, 2h salt fog exposure, 22h storage in humid air, 
+5 cycles
+48h for Nickel
+500h for Olive Drab Cadmium, Black Zinc Nickel, Bronze and 
+strainless steel
+Sealing
+IP28 : 
+- finger test for socket contacts and socket inserts
+- pressure water tight (48h, under 2m water)
+IP28 : 
+- finger test for socket contacts and socket inserts
+- pressure water tight (48h, under 2m water)
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+7
+
+Amphenol Socapex │ POWERSAFE
+Insert Arrangements
+VG designation
+13-V4
+17-V6
+25-V6
+TV designation
+13-E4
+17-E6
+25-E6
+Pilot contact
+1 Size 20
+1 Size 16
+1 Size 16
+Phase & neutral
+2 Size 16
+4 Size 12
+4 Size 6
+Protective contact
+1 Size 16
+1 Size 12
+1 Size 6
+Other platforms in development. Please consult us.
+Electrical Characteristics
+Pilot contact
+Phase, neutral and protective contact
+Test voltage AC
+Arrangements
+Contact rating
+Operating Voltage
+AC or DC
+Contact rating
+Operating Voltage
+AC or DC
+13-V4 / 13-E4
+0,5 A
+60 V
+16 A
+250 V
+1500 V
+17-V6 / 17-E6
+0,5 A
+60 V
+25 A
+500 V
+2500 V
+25-V6 / 25-E6
+0,5 A
+60 V
+63 A
+500 V
+2500 V
+Note : test voltage in mated condition, unmated condition for pilot socket contact only
+Polarization
+Position of the major keyway
+Polarizations
+Shell
+size
+N
+A
+B
+C
+D
+To avoid cross-plugging problems in applications requiring the 
+use of more than one PowerSafe connector of the same size, 
+alternate key-rotations are available as indicated in the chart 
+aside. As shown in the accompanying diagram, the major key 
+rotates clockwise from the secondary ones.
+13
+100
+80
+68
+132
+120
+17
+100
+82
+70
+130
+118
+25
+100
+85
+74
+126
+115
+In the reference system, the polarization is shown by the letters 
+N, A, B, C, D.
+Receptacle - Front face shown
+Plug - Front face shown
+Overall Dimensions 
+Square flange receptacle
+VG96944-04A
+TVP00RW
+TVP00ZN
+TVPS00RF
+TVPS00RB
+TVPS00RK
+Shell size
+R1
+(mm)
+R2
+(mm)
+V thread
+(metric)
+L
+Max
+(mm)
+M
+Max
+(mm)
+S
+±0.3
+(mm)
+T
+±0.2
+(mm)
+TT
+±0.2
+(mm)
+N
++0.13
+0
+(mm)
+B
+thread
+Class 2A
+.1P- .3L-TS
+(inches)
+13
+.875
+15.5
+20.9
+22.99
+23.01
+20.62
+28.6
+3.25
+4.93
+M18x1-6g
+17
+1.1875
+15.6
+23.4
+25.49
+26.97
+24.61
+33.3
+3.25
+4.93
+M25x1-6g
+25
+1.625
+20.7
+24.6
+27.49
+38.10
+34.93
+46.0
+3.91
+6.15
+M37x1-6g
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+8
+
+Amphenol Socapex │ POWERSAFE
+Jam nut receptacle
+VG96944-04B
+TV07RW
+TV07ZN
+TVS07RF
+TVS07RB
+TVS07RK
+Shell size
+T
+(mm)
+V thread
+(metric)
+Hex nut
+max torque 
+(N.m)
+S
++/-0.4
+(mm)
+P
+Max
+(mm)
+K
+Max
+(mm)
+C
+Max
+(mm)
+H Hex
+0
+-0.1
+(mm)
+A
++0.1
+-0.15
+(mm)
+B
+thread
+Class 2A
+.1P- .3L-TS
+(inches)
+13
+.875
+23.82
+38.4
+22.5
+13.7
+30
+34.9
+25.2 - 25.5 M18x1-6g
+6.8
+17
+1.1875
+30.15
+44.8
+25.0
+14.1
+36
+41.3
+31.8 - 31.95 M25x1-6g
+9.6
+25
+1.625
+42.85
+59.0
+27.0
+18.5
+50
+55.6
+44.2 - 44.5 M37x1-6g
+14.7
+Straight plug
+VG96944-04C
+TV06RW
+TV06ZN
+TVS06RF
+TVS06RB
+TVS06RK
+Shell size
+D
+(mm)
+V thread
+(metric)
+Q
+Max
+(mm)
+F
+Max
+(mm)
+B
+thread
+Class 2B
+.1P- .3L-TS 
+(inches)
+13
+.875
+29.4
+35.5
+15.01
+M18x1-6g
+17
+1.1875
+35.7
+38.0
+17.51
+M25x1-6g
+25
+1.625
+48.0
+46.0
+19.51
+M37x1-6g
+* Conforms to CECC 75.201.002  (coupling nut for arctic gloves)
+Panel drilling for receptacles
+Square flange receptacle
+rear panel mounting
+Square flange receptacle
+front panel mounting
+Jam nut receptacle
+rear panel mounting
+1
+R1
+R1
+C
+Ø C
+4 Ø W
+R2
+4 Ø W
+B
+A
+B
+Ø A
+Ø AA
+G
+V
+V
+Shell size
+R1
+(mm)
+R2
+(mm)
+ØW
+±0.13
+(mm)
+V
+Mini
+(mm)
+ØA
+Min
+(mm)
+ØAA
+Min
+(mm)
+G
+Mini
+(mm)
+ØC
++0.25
+0
+(mm)
+B
+0
+-0.25
+(mm)
+13
+23.01
+20.62
+30.20
+23.42
+19.05
+3.25
+36.00
+25.65
+24.26
+17
+26.97
+24.61
+36.50
+30.96
+25.81
+3.25
+43.30
+32.01
+30.73
+25
+38.10
+34.93
+48.80
+42.47
+37.69
+3.81
+59.70
+44.70
+43.43
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+9
+
+Amphenol Socapex │ POWERSAFE
+PROTECTIVE CAPS
+Description
+The largest range of protective caps with IP68 protection level.
+Main features
+EMI
+DUST
+WATER
+MOISTURE
+- Compatible with Plugs, Jam nut and Square receptacles
+- IP 68 (permanent sealing)
+- Protection again dust, water and moisture
+- EMI function
+- Nylon cord, stainless steel rope or metallic chain
+Overall dimensions
+For Plugs
+For Jam nut receptacle
+For Square flange receptacle
+BEC
+BER
+BF
+BFRO
+Lanyard (Attachment) Length
+Shell 
+size
+A thread .1P-.3L-TS
+Class 2A (External)
+Class 2B (Internal) (inches)
+ØB Max
+(After Knurling)
+ØC Min
+ØN Max
+Cap type
+Metallic 
+chain length
+Nylon 
+cord length
+Stainless steel 
+rope length
+BEC/BER for receptacle
+127 (+13,-7)
+13
+.8750
+25,75
+25,15
+24,30
+BF/BFRO for plug
+160±5
+17
+1.1875
+33,80
+32,00
+30,60
+25
+1.6250
+44,90
+44,45
+42,80
+  Standard Metallic Caps
+B
+EC
+N
+TV
+W
+13
+Protection cap type
+EC: For square flange receptacle
+ER: For jam nut receptacle
+F: For plug
+Wire type 
+Blank for metallic chain
+N: Nylon cord
+R: Jacketed stainless steel rope
+RO: Jacketed stainless steel rope with ring (only for plug)
+Connector type
+Material and finish
+W: Olive drab cadmium plated on aluminium (175°C)
+ZN: Black zinc nickel plated on aluminium (175°C) 
+F: Electroless nickel plated on aluminium (200°C) 
+B: Marine bronze (200°C) 
+Corresponding connector shell size
+13/17/25 
+For other platings, please consult us - Example : Olive Drab Cadmium Cap with Nylon Cord for Square Flange receptacle size 17 : BECNTVW17
+: RoHS compliant
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+10
+
+Amphenol Socapex │ POWERSAFE
+BACKSHELLS
+  Compatible with AS85049 suitable for MIL-DTL-38999 Series III connectors
+  For VG96944 versions :
+Shell size
+Backshell
+from AALBGmbh or EMCA
+Shrink boot
+Adhesive
+Micro Clamping 
+Band
+or Standard Clamping
+Band
+Tool for
+Micro Band
+Tool for 
+Standard Band
+13
+VG95319-1011G012A
+VG95343T06B001A VG95343T15A001
+895693
+072952
+809985
+809952
+17
+VG95319-1011G005A
+25
+VG95319-1011G010A
+VG95343T06C001A
+895700
+IMPORTANT : Use Shrink Boots 202K121-12 (size 13), 202K132-12 (size 17), 202K153-12 (size 25) and Adhesive S1255 for MIL applications
+  Other backshells for shielding:
+   SHIELDING
+TV-35: BAND BACKSHELL FOR SHIELDING
+• Full 360° shield termination
+• Available with different cabling chambers
+• Easy maintenance or repairability
+• Sealing ensured by straight or right angled heat-shrink molded piece 
+• Right angle version: TV SBC
+TV NSA: HIGH LEVEL OF EMI/RFI PROTECTION
+•  Electrical continuity between cable and connector by clamping the braid with a screwing system
+• Free inner ring to avoid twisting of the braid when screwing
+• Sealing ensured by straight or right angle heat-shrink molded piece
+How to Order
+How to order VG 96944 reference
+P
+N
+A
+Series 
+VG96944-04 
+A
+13-V4
+VG96944-04
+ 
+ 
+ 
+Shell type
+A: Square Flange Receptacle
+B: Jam Nut Receptacle
+C: Straight plug
+Shell size
+13-V4 / 17-V6 / 25-V6
+Contact type
+P: Pin
+S: Socket
+Polarization
+N for Neutral, A, B, C, D
+Material and Plating
+A: Olive Drab Cadmium on Aluminium
+How to order TV reference
+13-E4
+P
+-
+Series 
+TV 
+P00 
+RW
+TV
+ 
+ 
+ 
+Shell type
+P00: Square flange receptacle: 175°C (olive drab cadmium, black zinc nickel)
+PS00: Square flange receptacle: 200°C (nickel, stainless steel, bronze)
+07: Jam nut receptacle: 175°C (olive drab cadmium, black zinc nickel)
+S07: Jam nut receptacle: 200°C (nickel, stainless steel, bronze)
+06: Straight plug: 175°C (olive drab cadmium, black zinc nickel)
+S06: Straight plug: 200°C (nickel, stainless steel, bronze)
+Material and Plating
+RW: olive drab cadmium on aluminium
+ZN: black zinc nickel on aluminium 
+RF: electroless nickel on aluminium 
+RK: passivated stainless steel 
+RB: marine bronze 
+Shell size
+13-E4 / 17-E6 / 25-E6
+Contact type  
+P: Pin 
+S: Socket 
+Polarization
+Blank for neutral, A, B, C, D
+: RoHS compliant
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+11
+
+Amphenol Socapex │ POWERSAFE
+CONTACTS AND TOOLS
+TOOLS FOR VG 96944 / POWERSAFE CONNECTORS
+Wires
+Contacts
+Crimping tools
+Insertion tools
+Removal tools
+Proprietary Part Number
+AWG Section mm²
+Plastic
+Metallic
+Plastic
+Metallic
+Arrangement Contact 
+type
+Size
+dia over 
+insulator
+Wire
+stripping
+length
+Tools
+Positioner Selector
+position
+Pin
+Socket
+Min Max
+color
+Straight 
+type
+Angle
+type
+color
+Straight 
+type
+Angle 
+type
+Pilot
+20
+600665
+600892
+M81969/14-10
+red / orange
+809817 M81969/8-05 M81969/14-10
+red / orange
+809847 M81969/8-06
+3
+2
+1
+20
+22
+24
+0,61
+0,38
+0,24
+1,02 2,11
+13-V4
+6
+(+0.5)
+M22520/1-01 M22520/1-04
+13-E4
+Phase
+Neutral
+16
+1,65 2,77
+M81969/14-03
+blue / white
+809816 M81969/8-07
+M81969/14-03
+blue / white
+809846 M81969/8-08
+600666
+600676
+14
+16
+18
+20
+1,94
+1,23
+0,96
+0,61
+6
+6
+5
+4
+Protective
+600667
+600677
+/
+/
+Pilot
+16
+600660
+600894
+M81969/14-03
+blue / white
+809816 M81969/8-07 M81969/14-03
+blue / white
+809846 M81969/8-08
+16
+18
+20
+1,23
+0,96
+0,61
+1,65 2,77
+6
+5
+4
+17-V6
+6
+(+0.5)
+M22520/1-01 M22520/1-04
+M81969/14-04
+yellow / white
+809850 M81969/8-10
+17-E6
+M81969/14-04
+yellow / white 809824 M81969/8-09
+Phase
+Neutral
+12
+600661
+600671
+12
+14
+2,98
+1,94
+2,46 3,61
+8
+7
+Protective
+600662
+600672
+/
+/
+M81969/14-03
+blue / white
+/
+/
+M81969/14-03
+blue / white
+/
+/
+Pilot
+16
+600660
+600894
+16
+18
+20
+1,23
+0,96
+0,61
+1,65 2,77
+6
+(+0.5)
+M22520/1-01 M22520/1-04
+6
+5
+4
+25-V6
+600663
+600673
+809947 + 809908 (hex crimp)
+or
+Phase
+Neutral
+25-E6
+6
+/
+/
+/
+/
+/
+/
+809696
+6
+13,61
+7,3
+8,1
+14
+(+1.5)
+809697 (pin)
+Protective
+600664
+600674
+M22520/23-01
++
+M22520/23-03
+809690 (socket)
+Crimping tools
+MANUAL CRIMPING PLIERS
+M22520/1-01
+HYDRAULIC PLIERS
+809947
+PNEUMATIC PLIERS
+M22520/23-01
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+12
+
+Amphenol Socapex │ POWERSAFE
+QUALIFIED CABLES FOR VG96944
+Size 13
+PN
+Raw material
+WIRE AWG19 white
+VG95218T020A003
+TINNED copper, jacket PVF modified
+WIRE AWG14 blue
+M81044/12-14-6
+TINNED copper, jacket PVDF
+WIRE AWG14 white
+M81044/12-14-9
+TINNED copper, jacket PVDF
+WIRE AWG14 green yellow
+M81044/12-14-45
+TINNED copper, jacket PVDF
+Fillers
+/
+PTFE
+Braid
+TB13-T-63
+TINNED copper
+Heatshrink
+DR25 3/8-0M (VG95343 Part 5 Type D)
+ELASTOMER
+Size 17
+PN
+Raw material
+WIRE AWG19 white
+VG95218T020A003
+TINNED copper, jacket PVF modified
+WIRE AWG12 white
+VG95218T020A017
+TINNED copper, jacket PVF modified
+WIRE AWG12 blue
+M81044/12-12-6
+TINNED copper, jacket PVDF
+WIRE AWG12 green yellow 
+M81044/12-12-45
+TINNED copper, jacket PVDF
+Fillers
+/
+PTFE
+Braid
+TB13-T-695
+TINNED copper
+Heatshrink
+DR25 1/2-0M (VG95343 Part 5 Type D)
+ELASTOMER
+Size 25
+PN
+Raw material
+WIRE AWG19 white
+VG95218T020A003
+TINNED copper, jacket PVF modified
+WIRE AWG6 white
+M22759/16 6-9
+TINNED copper, jacket PVDF
+WIRE AWG6 blue
+M22759/16 6-6
+TINNED copper, jacket PVDF
+WIRE AWG6 green yellow 
+M22759/16 6-4/5
+TINNED copper, jacket PVDF
+Fillers
+/
+PTFE
+Braid
+TB13-T-200
+TINNED copper
+Heatshrink
+DR25 1-0M (VG95343 Part 5 Type D)
+ELASTOMER
+Qualified cables for MIL applications
+Size 13
+PN
+Raw material
+WIRE AWG20
+M22759/34 20
+TINNED copper, jacket ETFE
+WIRE AWG14
+M22759/34 14
+TINNED copper, jacket ETFE
+Fillers
+/
+PTFE
+Braid
+4D045558
+Nickel copper
+Heatshrink
+RW200E-1/2-0 or HLR33001270
+Fluroelastomeric or Viton
+Size 17
+PN
+Raw material
+WIRE AWG19
+M22759/34 16
+TINNED copper, jacket ETFE
+WIRE AWG12
+M22759/34 12
+TINNED copper, jacket ETFE
+Fillers
+/
+PTFE
+Braid
+4D047547
+Nickel copper
+Heatshrink
+RW200E-3/4-0 or HLR33001900
+Fluroelastomeric or Viton
+Size 13
+PN
+Raw material
+WIRE AWG19
+M22759/34 16
+TINNED copper, jacket ETFE
+WIRE AWG6
+M22759/34 6
+TINNED copper, jacket ETFE
+Fillers
+/
+PTFE
+Braid
+4D045591
+Nickel copper
+Heatshrink
+RW200E-1 1/2-0 or HLR33003810
+Fluroelastomeric or Viton
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+13
+
+Amphenol Socapex │ POWERSAFE
+notes
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+14
+
+Amphenol Socapex │ POWERSAFE
+AbOut AMphenOl      
+Founded in 1932, Amphenol is one of the largest manufacturers of interconnect products in the world. The 
+company designs, manufactures, and markets electrical, electronic, and fiber optic connectors, interconnect 
+systems, and coaxial and specialty cables.
+Amphenol has a diversified presence as a leader in high growth areas of the interconnect industry and provides 
+solutions for customers in the automotive, broadband, industrial, information technology and data communications, 
+military and aerospace, mobile devices, and mobile networks markets.
+Amphenol
+More info on www.amphenol.com
+eNABliNG THe eleCTrONiCS reVOlUTiON
+Amphenol Military & Aerospace Operations (AMAO) has the largest and broadest selection of interconnect 
+products in the military and aerospace markets.
+More info on www.amphenolmao.com
+europe
+frAnce
+Amphenol Air lB
+2 rue Clément Ader, zAC de Wé - 08110 carignan
++33 3 24 22 78 49
+frAnce
+Amphenol SeFee
+z.i. des Cazes – BP243 - 12402 Saint-Affrique Cedex
++33 5 65 98 11 00
+gerMAnY
+Amphenol Air lB GMBH
+Am Kleinbahnhof 4 - 66740 Saarlouis
++49 6831 981 00
+itAlY
+Amphenol euroPeAn SAleS oPerATionS
+Via Barbaiana n.5 - 20020 lainate - Milano
++39 293 254 214
+uniteD KingDOM
+Amphenol iNVOTeC
+Unit 1-3, Hedging lane industrial estate, Dosthill - Tamworth, B77 5HH
++44 1827 263 000
+uniteD KingDOM
+Amphenol ionix SySTeMS
+Prospect House, Taylor Business Park, risley, Warrington, WA3 6HP
++44 1 942 685 200
+uniteD KingDOM
+Amphenol lTD
+Thanet Way, Whitstable - KeNT, cT53JF
++44 1227 773 200
+uniteD KingDOM
+Amphenol MArTec
+St Augustines Business Park,  Swalecliffe Whitstable - Kent CT5 2QJ 
++44 1227 793 733
+north America
+cAnADA
+Amphenol cAnADA
+605 Milner avenue - Toronto, ontario 
++1 416 291 0647
+usA
+Amphenol AeroSPAce oPerATionS
+40-60 Delaware street - Sidney, ny 13838
++1 800 678 0141
+usA
+Amphenol BOriSH TeCHNOlOGieS
+4511 east Paris AVe - Grand rapids, Mi 49512
++1 616 554 9820
+usA
+Amphenol FSi
+1300 central expwy n, Suite 100 - Allen, Tx 75013
++1 214 547 2400
+usA
+Amphenol griFFiTh enTerPriSeS
+6000 east Coury Drive - Cottonwood, Az 86326
++1 928 634 3685
+usA
+Amphenol nexuS TechnologieS
+50 Sunnyside Avenue - Stamford, cT 06902
++1 203 327 7300
+usA
+Amphenol PcD
+72 Cherry Hill Drive - Beverly, MA. 01915
++1 978 624 3400
+usA
+Amphenol PrinTeD circuiT
+Board Technology, 91 Northeastern Boulevard - Nashua, NH 03062
++1 603 324 4500
+usA
+Amphenol SV MiCrOWAVe
+2400 Centrepark West Drive - West Palm Beach, Fl
++1 561 840 1800
+usA
+Amphenol TiMeS MiCrOWAVe
+358 Hall Avenue - Wallingford, CT 06492
++1 800 867 2629
+Asia
+chinA
+Amphenol PcD co.
+Building 21, 1st liao Keng industrial zone, Shi Yan Street - Bao An District - Shenzhen 518108
++86 755 8173 8000/8286
+inDiA
+Amphenol inTerconnecT inDiA
+105 Bhosari industrial Area - Pune 411 026
++91 20 27120363
+JApAn
+Amphenol JAPAn
+471-1, Deba, ritto-City - Shiga 520 3041
++81 77 553 8501
+KOreA
+Amphenol DAeShin
+558 SongNae-Dong SoSa-Gu, Bucheon-city, Kyunggi-Do - 420-130
++81 32 610 3830/3845 
+singApOre
+Amphenol eAST ASiA
+26/F, railway Plaza, 39 Chatham road South, Tsim Sha Tsui, Kowloon, Hong Kong
++65 6294 2128
+Other Areas
+AfricA
+Amphenol AFricA
+30 impala rd - Sandton 2146
++27 82 410 5179
+ArgentinA
+Amphenol ArgenTinA
+Av. Callao 930 2do piso Oficina B "Plaza" c1023 - AAP Buenos Aires
++54 11 4815 6886
+AustrAliA
+Amphenol AuSTrAliA PTy
+2 Fiveways Blvd., Keysborough - Melbourne - Victoria 3173
++61 3 8796 8888
+brAzil
+Amphenol DO BrAzil
+rua Diogo Moreira, 132, 20 andar, rooms 2001-2-3
++55 11 3815 1003
+isrAel
+Amphenol BAr-TeC
+3 Hagavish Street, K fir-Barkan Bldg. east industrial zone - Kfar-Sava, 44102
++972 9 764 4100
+MexicO
+Amphenol OPTiMize
+Carretera internacional Km 6.5, Col. Parque industrial, Nogales, Sonora, C.P. 84094
++52 631 311 160
+neW zeAlAnD
+Amphenol PHiTeK
+level 4, 2 Kingdon Street, Newmarket, Auckland 1023
++64 9 524 2984
+russiA
+Amphenol ruSSiA
+yaroslavskaja Street 8 - 129164 Moscow
++7 495 937 6341
+turKeY
+Amphenol TUrKeY
+Sun Plaza 15 Kat: 15 Maslak Hah. Bilim Sok. No.5 - Sisli/istanbul, 34398
++90 212 367 92 19
+Due to technical modifications, all information provided is subject to change without prior notice
+Designed by Amphenol Socapex 
+15
+
+Amphenol Socapex
+948, promenade de l’Arve BP29
+74311 Thyez Cedex - France
+Phone: +33 (0)4 50 89 28 00
+contact@amphenol-socapex.fr
+www.amphenol-socapex.com
+For Technical Support
++33 (0)4 50 89 28 49
+technicalsupport@amphenol-socapex.fr
+www.amphenol-socapex.com/technical_support
+To buy our products
++33 (0)4 50 90 28 00
+contact@amphenol-socapex.fr
+www.amphenol-socapex.com/amphenol/sales
+Request a quote online at www.amphenol-socapex.com/quotation_request
+Documentation
+www.amphenol-socapex.com/documentation
+To order a paper version of our catalogs, send an e-mail to communication@amphenol-socapex.fr
+www.amphenol-socapex.com
+Follow Amphenol Socapex on social media : 
+This catalog uses paper from managed forests, PEFC & FSC labels, and is printed by a printer certified “Imprim’Vert®”
+We reserve the right to modify our products in any way we deem necessary. 
+Any duplication is prohibited, unless approved in writing.
+Designed by Amphenol Socapex 
+DOC-000994-ANG - February 2020
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  TV07RW13E4P  TV07RW17E6S  TV07RW25E6S  TV07RW13E4S  TV06RW13E4PA  TV06RW13E4S 
+TV06RW17E6PA  TV06RW17E6P  TV06RW13E4P  TV06RW17E6S  TV06RW25E6S  TV06RW25E6P 
+TV07RW25E6P  TV07RW17E6P  TV06ZN13E4P  TV06ZN13E4PA  TV06ZN13E4S  TV06ZN17E6P  TV06ZN17E6S 
+TV07ZN13E4S  TV07ZN25E6P  TV07ZN25E6PA  TV07ZN25E6S  TV07ZN25E6SA  TV07RW25E6PA 
+TV07RW25E6SA  TV07ZN13E4P  TV07ZN13E4PA  TV07ZN17E6PA  TV07ZN17E6SA  TV06ZN25E6S 
+TV06ZN25E6SA  TV07RW13E4PA  TV07RW13E4SA  TV07RW17E6PA  TV07RW17E6SA  TV06RW25E6SA 
+TV06ZN13E4SA  TV06ZN17E6PA  TV06ZN17E6SA  TV06ZN25E6P  TV06ZN25E6PA  TV07ZN13E4SA 
+TV07ZN17E6P  TV07ZN17E6S  TV06RW13E4SA  TV06RW17E6SA  TV06RW25E6PA

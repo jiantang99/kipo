@@ -1,0 +1,99 @@
+MKT-E-13026F_0.3
+HR41A Series 
+IP68 Small Plastic Power Connector
+Optimized for 
+Outdoor Use 
+Optimized for 
+Outdoor Use
+ Features
+1. IP68* weather-resistant waterproof connector for outdoor use 
+2. Higher lightning surge protection (15 kV) and withstanding voltage 
+3. Snap-in mating with user-friendly push-on bayonet lock 
+4. Bayonet assembly eliminates torque management and re-tightening of 
+screw
+*Our test condition: No water intrusion, while submerged in 2 m 
+water depth for 14 days in mated condition.
+5. Easy field assembly 
+6. UL, TÜV pending
+Component
+Material
+Finish / 
+Remarks
+ Small Size
+- Plug (HR41A-17WBP-5SC)
+Housing
+PBT
+UL94V-0, Black
+65.8
+Contact
+Phosphor Bronze
+Gold Plating
+Clamp
+Polyamide Resin
+UL94V-0, White
+ 16.8
+ 24.6
+O-ring, 
+Gasket
+Silicone Rubber
+-
+Cable Size:  10.7 to 11.5
+Washer
+Stainless Steel
+-
+ 9.0 to 9.8 (Under development)
+ 8.2 to 9.0 (Under development)
+Rated Voltage
+AC 250V, DC 350V
+- Receptacle (HR41A-17WBRA-5PC)
+Rated Current
+10 Amps
+41.2
+Operating 
+Temperature
+-40℃ to +105℃
+ 19.8
+ 21.0
+Contact 
+Resistance
+5mΩ Max. （1A）
+- Jack (HR41A-17WBJ-5PC)
+Insulation 
+Resistance
+5000MΩMin. （DC500V）
+74
+Withstanding 
+Voltage
+AC 2200V, 1 minute
+Durability
+500 times
+ 21.0
+Cable Size: Same as plug
+Water 
+Resistance
+IP68 (Our test condition: No water 
+intrusion, while submerged in 2 m 
+water depth for 14 days in mated 
+condition.)
+- Crimping Tool
+Part No.: HT802/HR41A-11-16(AWG#16)
+- Contact Extraction Tool
+Part No.: HR41A-TP
+HT802/HR41A-11-18(AWG#18)
+HT802/HR41A-11-20(AWG#20)
+Specifications herein are subject to change without notice.  Contact Hirose for latest specifications, drawings or availabilities. 
+© 2014 HIROSE ELECTRIC CO., LTD. All rights reserved.
+Issued: Sep. 12, 2014
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Hirose Electric:  
+ 
+  HR41A-17WBP-5SC

@@ -1,0 +1,16634 @@
+®
+Amphenol  Miniature Cylindrical
+Connectors
+12-070-15
+Meets MIL-C-26482, Series 1
+Specifications
+Amphenol Corporation
+Amphenol Industrial Operations
+Amphenol Aerospace
+40-60 Delaware Avenue, Sidney, New York 13838-1395
+Phone: 800-678-0141 or 607-563-5011  Fax: 607-563-5157
+www.amphenol-industrial.com
+Amphenol
+
+Table of Contents                                                                              Page No.
+Introduction, Amphenol® Miniature Cylindrical
+General Information, Design Flexibility  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .1, 2
+Connector Selection Guide  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Insert availability   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   4, 5
+Insert availability Breakaway Twist Pull.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Alternate positioning  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Insert arrangement patterns   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8-11
+PT, SP, MS/PT Proprietary/MIL-C-26482, Series 1 Bayonet Coupling,
+Solder Contacts
+Proprietary/MIL-C-26482 Series 1 connectors 
+covered in this catalog are widely used in gen-
+eral duty and environmental applications, 
+both industrial and military.
+Markets that use this family of connectors include:
+• Instrumentation
+• Monitoring Equipment
+• Machine Tool, Factory Automation
+• Communications
+• Geophysical
+• Industrial Controls and Robotics
+• Oil and Petrochemical Industries
+• Rail/Mass Transit
+• Military/Aerospace
+General Information, Specifications, Service Class .  .  .  .  .  .  .  .  .  .  .  12, 13
+PT00 (MS3110), SP00 wall mounting receptacle .  .  .  .  .  .  .  .  .  .  .  .  .  .  14
+PT01 (MS3111) cable connecting receptacle .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  15
+PT02 (MS3112) SP02 box mounting receptacle   .  .  .  .  .  .  .  .  .  .  .  .  .  .  16
+PT06 (MS3116) SP06 straight plug .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
+PT07 (MS3114) SP07 jam nut receptacle.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  18
+PT08E, SP08E 90 degree plug  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+PT Connectors with Printed Circuit Board Contacts -
+box mount receptacle, jam nut receptacle.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+PTB, SPB thru bulkhead receptacle.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  21
+General Information, Specifications - PT hermetic  .  .  .  .  .  .  .  .  .  .  .  .  .  22
+PTIH (MS3113H) hermetic solder mounting receptacle.  .  .  .  .  .  .  .  .  .  .  23
+PT02H hermetic box mounting receptacle   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  24
+PT07H (MS3114H) hermetic jam nut receptacle  .  .  .  .  .  .  .  .  .  .  .  .  .  .  25
+PT Breakaway twist pull plug  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  26
+PT, SP, MS/PT how to order   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  27
+PT-SE, SP-SE, MS/PT-SE Proprietary/MIL-C-26482, Series 1 Bayonet Coupling, 
+Crimp Contacts
+If more information is needed concerning the con-
+nectors covered in this publication, or if there are 
+special application needs, please contact:
+Amphenol Corporation
+Amphenol Aerospace
+Amphenol Industrial Operations
+40-60 Delaware Avenue
+Sidney, New York 13838-1395
+Telephone: 607-563-5011
+Fax: 607-563-5351
+Please go to the Amphenol websites to view, 
+download and save this catalog and most all of 
+Amphenol interconnection product literature.
+www.amphenol-industrial.com
+www.amphenol-aerospace.com
+h
+p
+e
+n
+m
+o
+A
+l
+General Information, Specifications, Service Class .  .  .  .  .  .  .  .  .  .  .  28, 29
+PT00SE (MS3120), SP00SE wall mounting receptacle .  .  .  .  .  .  .  .  .  .  .  30
+MF00SE (MS3128) wall mounting receptacle .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  31
+PT01SE (MS3121) SP01SE cable connecting receptacle   .  .  .  .  .  .  .  .  .  32
+PT02SE (MS3122) SP02SE box mounting receptacle  .  .  .  .  .  .  .  .  .  .  .  33
+MF02SE (MS3127) box mounting receptacle .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  34
+PT06SE (MS3126), SP06SE straight plug   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  35
+PT07SE (MS3124) SP07SE jam nut receptacle   .  .  .  .  .  .  .  .  .  .  .  .  .  .  36
+PT08SE, SP08SE 90 degree plug   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  37
+PT-SE Breakway twist pull plug .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  38
+PT-SE, SP-SE, MS/PT-SE how to order   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  39
+PT-CE, SP-CE Bayonet Coupling, Crimp Contacts
+S
+H
+o
+R
+C
+E
+E
+U
+/
+/
+5
+2
+9
+Some miniature connector styles 
+are available in RoHS Compliant 
+versions. Please contact Amphenol 
+Industrial Operations for more 
+information.
+0
+/
+0
+2
+Amphenol operates Quality Systems that are cer-
+tified to ISO9001: 2000 by third party registrars.
+General Information, Specifications, Service Class .  .  .  .  .  .  .  .  .  .  .  40, 41
+PT00CE, SP00CE wall mounting receptacle  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  42
+PT01CE, cable connecting receptacle   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  43
+PT02CE, SP02CE box mounting receptacle  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  44
+PT06CE, SP06CE straight plug .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  45
+PT07CE, SP07CE jam nut receptacle.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  46
+PT08CE, SP08CE 90 degree plug   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  47
+PT-CE Breakawat twist pull plug   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  48
+PT-CE, SP-CE how to order.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  49
+PC Threaded Coupling, Solder Contacts
+General Information, Specifications, Service Class .  .  .  .  .  .  .  .  .  .  .  50, 51
+PC00 wall mounting receptacle .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  52
+PC01 cable connecting receptacle  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  53
+PC02 box mounting receptacle  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  54
+PC06 straight plug.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  55
+PC07 jam nut receptacle   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  56
+General Information, Specifications - PC hermetic  .  .  .  .  .  .  .  .  .  .  .  .  .  57
+PCIH hermetic solder mounting receptacle .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  58
+PC02H hermetic box mounting receptacle  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  59
+PC07H hermetic jam nut receptacle.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  60
+PC how to order .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  61
+PC-SE, PC-CE Threaded Coupling, Crimp Contacts
+NOTE:
+The connector products in this brochure were formerly 
+known as Bendix® products. These products are now 
+manufactured and sold under the Amphenol® brand 
+name. The name “Amphenol” will replace the name 
+“Bendix” on products and literature in the future.
+NOTE:
+The Miniature MIL-C-26482, Series 2 connectors PTS-
+DR and MS/PTS-DR (formerly in this catalog) are no 
+longer supplied with these designations. Amphenol now 
+supplies the Amphenol®/Matrix® MIL-C-26482, Series 
+2. (Military numbers include MS3470 - MS3472, 
+MS3474, - MS3476).
+Please refer to page 78 for a brief description of the 
+Amphenol®/Matrix® MIL-C-26482, Series 2 bayonet 
+coupling connectors with crimp, rear insertable and rear 
+releasable contacts, and ask for catalog 12-071 for 
+detailed information on this series.
+General Information, Specifications, Service Class .  .  .  .  .  .  .  .  .  .  .  .  .  62
+PC-SE, PC-CE how to order   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  63
+Accessories .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  64-68
+Application tools   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  69
+Contacts, Power and Thermocouple Crimp.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  70
+Contacts, Shielded Coax  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  71-76
+Mounting Recommendations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  77
+Other Amphenol Miniature Cylindrical Connectors .  .  .  .  .  .  .  .  .  .  .  .  .  .  78, 79
+Amphenol Sales Office and Authorized Distributor Listing  .  .  .  .  .  .  .  .  .  .  .  .  80
+
+®
+Amphenol  Miniature Cylindrical Connectors
+Proprietary/MIL-C-26482, Series 1
+Amphenol® Miniature Cylindrical connectors offer twice the number of contacts in just half the size of a Standard connector. These 
+miniature connectors, are available in several series, each with varying design characteristics and customer options to meet cost con-
+siderations and provide maximum design flexibility. There are two styles within the family that are MS approved and qualified to MIL-
+C-26482, Series 1, and in addition there are several proprietary styles.
+Common features of all styles:
+• All are for general duty applications and environmental sealing is achieved with the grommet and clamp design.
+• Operating temperature is from –55°C to +125°; Operating voltage to 1000 VAC (RMS) at sea level.
+• Pin and socket contacts are machined from low loss copper alloy and gold plated to eliminate contact corrosion and provide an 
+indefinite shelf life.
+• All have resilient inserts which provide high dielectric strength and moisture barrier.
+• A variety of shell finishes (including non-cadmium) and a variety of backend accessories are available within the styles.
+Bayonet Coupling with Solder Contact Termination
+PT Solder
+jam nut receptacle and 
+mated straight plug
+PT, MS/PT (solder)
+• MS and proprietary versions
+• Factory installed solder contacts
+• 3 point bayonet coupling and 5 key/keyway mating.
+• Intermateable with all miniature series connectors except threaded 
+PC series.
+• MS/PT meets MIL-C-26482 Series 1, service classes E, F and P.
+• MS/PT is UL recognized.
+SP (solder)
+• SP Series is a modification of the PT with same features except a 
+wider flange for back panel mounting
+Options
+• 7 shell styles with 60 insert patterns
+• Hermetic seal (glass fusion) recepta-
+cle styles available
+• Pressurized thru bulkhead recepta-
+cle style available
+• Breakaway quick disconnect styles 
+• EMI filter protection styles
+• Pre-installed coax solder contacts 
+are available
+• Printed circuit board contacts are 
+available
+Bayonet Coupling with Crimp Contact Termination
+PT Solder
+wall mount receptacle
+Options
+• 6 shell styles with 47 insert patterns
+• Breakaway quick disconnect style 
+available
+• Coax and thermocouple contacts are 
+available
+PT-SE, MS/PT-SE (crimp)
+• MS and proprietary versions
+• Crimp rear insertable/front release contact termination. (closed entry 
+socket insert prevents probe damage).
+• 3 point bayonet coupling and 5 key/keyway mating.
+• Intermateable with all miniature series connectors except threaded 
+PC series.
+• MS/PT-SE meets MIL-C-26482 Series 1, service classes E, F, P.
+SP-SE (crimp)
+• Modification of the PT-SE with wider flange for back panel mounting
+PT-CE, SP-CE (crimp)
+• Incorporates a special one-piece insert and grommet assembly
+Threaded Coupling with Solder Contact Termination
+PT-SE Crimp 
+wall mount receptacle 
+and mated straight plug
+PC (solder) Proprietary
+• Double stub threaded coupling and single hole polarization.
+• Factory installed solder contacts
+Options
+• 5 shell styles with 60 insert patterns
+• Hermetic receptacles available
+• Pressurized thru bulkhead recepta-
+cle style available
+• Pre-installed coax solder contacts 
+are available.
+Threaded Coupling with Crimp Contact Termination
+Options
+• 5 shell styles (consult Amphenol for 
+availability of shell sizes and insert 
+patterns)
+Two threaded PC styles are offered in some shell sizes. Both have 
+crimp front release and front removable contacts, but they have differ-
+ent retention systems.
+PC-SE (crimp) Proprietary - with spring tower retention system
+• Spring tower retention system
+PC-CE (crimp) Proprietary - with nylon wafer dielectric system
+PC Threaded Crimp 
+straight plug and wall 
+mount receptacle
+1
+
+®
+Amphenol  Miniature Cylindrical
+design flexibility
+The large family of miniature proprietary and MS style connectors provides for 
+many optional features and designs. In addition to the choices of bayonet or 
+threaded shells, solder or crimp termination within the style variations, there are 
+additional options that are shown here.
+Hermetics
+Hermetically sealed receptacles have fused compression glass sealed 
+inserts which provide envionrmental moisture sealing. There are three 
+hermetic styles within the PT bayonet series and three hermetic styles 
+within the PC threaded series.
+26482 Connector with PC Tail
+Contacts
+26482 Connector with Hermetic 
+Seal Insert and Coax Contacts
+Coaxial Contacts
+Amphenol Miniature connectors can incorporate shielded coax
+contacts. Size 8 and 12 crimp coax contacts are available in PT-SE,
+SP-SE, MS/PT-SE. Factory installed size 8 and 12 solder type coax
+contacts are available in PT, SP,MS/PT connectors. See coax contact
+information pages at the end of this catalog.
+Printed Circuit Board Tail Contacts
+PT bayonet connectors in box mounting receptacle and jam nut receptacle styles are avail-
+able with printed circuit board contacts. Standard PCB tails for MIL-C-26482 connectors 
+have gold plating, .0050 inches over nickel. See page 20 and call Amphenol for further infor-
+mation.
+26482 Connector with Flex
+Flex Circuitry
+Flex termination assemblies for attaching cylindrical connectors to printed circuit boards are 
+available through the Amphenol division ACT, Advanced Circuit Technology. Flex can be 
+used with miniature 26482 connectors and it can be designed to meet specific length, current 
+carrying capacity and to fit the precise geometric shape of the connector to board package. 
+Flex circuity plugs into a printed circuit board and creates a self-locking terminal pad which 
+eliminates the need for an additional interconnect to the PCB.
+Breakaway, Twist Pull Miniatures
+Quick disconnect “breakaway” styles are shown in this catalogs. These are available in PT
+solder style plugs (page 26), PT-SE crimp style plugs (page 38) or PT-CE crimp style plugs 
+(page 48). Quick disconnect of the connector plug from the receptacle is accomplished with 
+axial pull on the lanyard. This instant decoupling and damage free separation is ideal for 
+weapons release and blind or difficult accessibility situations. Separation forces vary per 
+connector series. The plug and receptacle need to be fully mated before disengagement by 
+the lanyard pull.
+Breakaway Twist Pull 26482
+Filter Protection
+Amphenol offers the FPT Series which combines the miniature PT 
+series with an EMI filter. Designed to provide EMI protection for 
+sensitive circuits, each circuit is individually filtered within the con-
+nector, eliminating the need for costly and bulky exterior network
+filters. Filter contacts are available in MF, HF, VHF, and UHF 
+ranges and are intermateable and intermountable with MIL-C-
+26482 connectors. For further information see catalog 12-120, 
+Amphenol EMI Filter Transient Protection Connectors. (online at 
+www.amphenol-aerospace.com).
+26482 Connector with EMI
+Filter Protection
+26482 Connector with Overmolded 
+Cable
+Overmolded Cable
+Overmold seals and cables can be designed for almost any industrial application. A variety 
+of materials are available: neoprene, hypalon and others; and a variety of lengths can be 
+designed to meet customer specifications. Overmold seals to the rear of the connector and 
+to the cable jacket providing moisture sealing.
+2
+
+®
+Amphenol  Miniature Cylindrical
+connector selection guide
+The accompanying chart is provided to assist the user in selecting
+the appropriate type of miniature connector to meet the application
+requirements. Further information can be found in specific sections
+of this catalog.
+Solder
+Crimp
+CHARACTERISTICS
+PT
+MS/PT
+SP
+PC
+MS/
+PT-SE
+PT-SE
+SP-SE
+PC-SE
+PT-CE
+SP-CE PC-CE
+Intermateable†
+o
+o
+o
+X
+o
+o
+o
+X
+o
+o
+X
+Contacts
+Solder
+•
+•
+•
+•
+Crimp RI/FR
+•
+•
+•
+•
+•
+•
+•
+Contact Retention
+System
+Non-Removable
+•
+•
+•
+•
+Removable
+•
+•
+•
+•
+•
+•
+•
+Coupling
+Bayonet
+•
+•
+•
+•
+•
+•
+•
+•
+Threaded
+•
+•
+•
+Standard Finishes††
+Olive Drab Cadmium (003)
+•
+•
+•
+•
+•
+Anodic Coated (005)
+•
+•
+•
+Bright Cadmium (001)
+•
+•
+•
+Temperature Range
+Resilient Dielectric (–55°C to +125°C)
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Wide Mounting Flange
+•
+•
+•
+Hermetic Seal
+•
+•
+•
+•
+SHELL STYLE AVAILABILITY
+Wall Mounting Receptacle “00”
+•
+•
+•
+•
+•
+**•
+•
+•
+•
+•
+Cable Connecting Receptacle “01” ***
+•
+•
+•
+•
+•
+•
+•
+•
+Box Mounting Receptacle “02”
+*•
+•
+•
+*•
+•
+**•
+•
+•
+•
+•
+Straight Plug “06”
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Jam Nut Receptacle “07”
+*•
+*•
+•
+*•
+•
+•
+•
+•
+•
+•
+•
+Thru-bulkhead Receptacle “TB”
+•
+•
+Solder Mount Receptacle “I”
+*•
+*•
+*•
+90° Plug “08”
+•
+•
+•
+•
+•
+•
+•
+•
+RI/FR = Rear Insertion/Front Releasable
+†
+o intermates with o
+X intermates with X
+†† Optional finishes available. See “how to order” sections.
+*
+Available in hermetic version
+**
+Dual mounting holes
+*** This connector style is sometimes referred to as a cable connecting “plug.”
+It does, however, mate with either a straight or 90 degree plug.
+Amphenol®/Matrix® MIL-C-26482, Series 2 bayonet coupling connectors with rear insertable and rear releaseable
+contacts are covered in another catalog - See pageXX for a brief description and see complete details in catalog 12-071
+which is online at www.amphenol-aerospace.com.
+3
+
+®
+Amphenol  Miniature Cylindrical
+insert availability
+Solder Termination
+Crimp Termination
+Contact Size
+Coax
+Insert
+Arrangement
+MS/PT
+PT
+SP
+PC
+Hermetic
+PT
+MS-PT
+PC
+MS/PT-SE
+PT-SE
+SP-SE
+PC-SE
+Total
+Contacts
+PT-CE
+SP-CE
+PC-CE
+20
+16
+12
+Service
+Rating
+12
+8
+6-1
+X
+X
+X
+X*
+1
+1
+I
+8-2
+X
+X
+X
+X
+X
+X
+2
+2
+I
+8-3
+X
+X
+X
+X
+X
+X
+3
+3
+I
+8-4
+X
+X
+X
+X
+X
+X
+4
+4
+I
+8-33
+X
+X
+X
+X
+X
+3
+3
+I
+8-98
+X
+X
+X
+3
+3
+I
+10-2
+X
+X
+X
+2
+2
+I
+10-5
+X
+X
+X
+X*
+5
+5
+I
+10-6
+X
+X
+X
+X
+X
+X
+X
+6
+6
+I
+10-70
+X
+X
+X
+1
+1
+Coax
+10-98
+X
+X
+X
+X
+X*
+X
+6
+6
+I
+12-3
+X
+X
+X
+X
+X
+X
+X
+3
+3
+II
+12-4
+X
+X
+X
+X*
+4
+4
+I
+12-8
+X
+X
+X
+X
+X*
+X
+X
+8
+8
+I
+12-10
+X
+X
+X
+X
+X
+X
+X
+10
+10
+I
+12-14
+X
+X
+X
+14
+14
+I
+12-98
+X
+X
+X
+10
+10
+I
+14-2
+X
+X
+X
+2
+2
+II
+14-4
+S
+S
+S
+X
+4
+4
+I
+14-5
+X
+X
+X
+X
+X
+X
+X
+5
+5
+II
+14-8
+X
+X
+X
+8
+6
+2
+I
+14-12
+X
+X
+X
+X
+X
+X
+X
+12
+8
+4
+I
+14-15
+X
+X
+X
+X
+X
+X
+X
+15
+14
+1
+I
+14-18
+X
+X
+X
+X
+X*
+X
+X
+18
+18
+I
+14-19
+X
+X
+X
+X
+X
+X
+X
+19
+19
+I
+14-22
+X*
+5
+1
+4
+I
+14-71
+P
+X
+X
+(02CE)
+4
+3
+1
+I
+14-91 HV
+S
+X
+X
+X*
+3
+3
+**
+14-AA
+X
+X
+X
+X
+4
+4
+I
+16-8
+X
+X
+X
+X
+X
+X
+X
+8
+8
+II
+16-23
+X
+X
+X
+X
+X
+X
+23
+22
+1
+I
+16-26
+X
+X
+X
+X
+X
+X
+X
+26
+26
+I
+16-70
+X
+X
+X
+15
+14
+1
+N/A
+16-76†††
+X*
+14
+8
+1
+5
+***
+16-99
+X
+X
+X
+X
+X
+23
+21
+2
+I
+18-5
+X
+X
+X
+X*
+5
+5
+II
+18-8
+8
+8
+I
+18-11
+X
+X
+X
+X
+X
+X
+X
+11
+11
+II
+18-30
+X
+X
+X
+X
+X*
+X
+X
+30
+29
+1
+I
+*Not available in MS version
+ **Flashover voltage 5,000 VAC (RMS)
+***1500 VAC (RMS)
+Sdesignates Socket insert only.
+P designates Pin insert only.
+†Size 12 contacts for #10 wire
+††Not presently tooled
+†††Contacts must be ordered separately
+4
+
+®
+Amphenol  Miniature Cylindrical
+insert availability, cont.
+INSERT AVAILABILITY
+Solder Termination
+Crimp Termination
+Contact Size
+Coax
+Insert
+Arrangement
+MS/PT
+PT
+SP
+PC
+Hermetic
+PT
+MS-PT
+PC
+MS/PT-SE
+PT-SE
+SP-SE
+PC-SE
+Total
+Contacts
+PT-CE
+SP-CE
+PC-CE
+20
+16
+12
+Service
+Rating
+12
+8
+18-32
+X
+X
+X
+X
+X
+X
+X
+32
+32
+I
+18-71
+X*
+9
+8
+1
+Coax, II
+18-72
+X
+X
+X
+14
+10
+4
+N/A
+18-75
+X
+X
+X
+4
+4
+Coax
+18-76
+4
+3
+1
+II
+18-80
+X
+X
+X
+X
+8
+6
+2
+Coax, I
+18-91 HV
+X*
+X
+6
+6
+**
+20-16
+X
+X
+X
+X
+X
+X
+X
+16
+16
+II
+20-24
+X
+X
+X
+X
+X
+24
+24
+I
+20-25
+X
+X
+X
+25
+25
+I
+20-26
+X
+X
+X
+26
+20
+6
+I
+20-27
+X
+X
+X
+X
+X
+27
+27
+I
+20-39
+X
+X
+X
+X
+X
+X
+X
+39
+37
+2
+I
+20-41
+X
+X
+X
+X
+X
+X
+X
+41
+41
+I
+20-70
+14
+10
+4
+Coax
+20-90 HV
+X
+X
+X
+7
+7
+Hi-Voltage
+22-7
+X
+X
+X
+X*
+7
+7
+Coax
+22-21
+X
+X
+X
+X
+X
+X
+X
+21
+21
+II
+22-25
+X*
+25
+25
+I
+22-32
+X
+X
+X
+X
+X
+P
+32
+32
+I
+22-34
+X
+X
+X
+X
+34
+34
+I
+22-36
+X
+X
+X
+X
+36
+36
+I
+22-41
+X
+X
+X
+X
+X
+X
+X
+41
+27
+14
+I
+22-55
+X
+X
+X
+X
+X
+X
+X
+55
+55
+I
+22-70
+X
+X
+X
+19
+13
+6
+I, Coax
+22-71
+9
+2
+7
+I, Coax
+22-72
+X
+X
+X
+19
+12
+4
+3
+N/A
+22-78†††
+X*
+7
+7
+Coax
+22-96
+X*
+7
+7†
+II
+24-31
+X
+X
+X
+X
+31
+31
+I
+24-51
+X*
+51
+47
+4
+I
+24-61
+X
+X
+X
+X
+X
+X
+X
+61
+61
+I
+24-71
+X
+X
+X
+49
+45
+2
+2
+N/A
+24-79
+6
+1
+5
+Coax
+*Not available in MS version
+ **Flashover voltage 5,000 VAC (RMS)
+***1500 VAC (RMS)
+†Size 12 contacts for #10 wire
+††Not presently tooled
+†††Contacts must be ordered separately
+5
+
+®
+Amphenol  Miniature Breakaway Twist Pull
+insert availability
+Insert Availability - Breakway Twist Pull
+Contact Size
+Crimp
+Termination
+Solder
+Termination
+Total
+Contacts
+Insert
+Arrangement
+For further information regarding any additional 
+insert patterns available in Breakaway Miniature 
+connectors, please contact Amphenol Aerospace. 
+For availability of shielded coax contacts within 
+Breakaway Miniature connectors contact Amphe-
+nol.The Breakaway style pages are: PT (solder) 
+breakaway plug is on page 26, the PT-SE (crimp) 
+breakaway plug is on page 38, and the PT-CE 
+(crimp) breakaway plug is on page 48.
+PT-CE
+PT-SE
+PT
+20
+16
+12
+Service
+Rating
+8-2
+X
+X
+2
+2
+I
+8-3
+X
+X
+3
+3
+I
+8-4
+X
+X
+4
+4
+I
+10-2
+X
+2
+2
+I
+10-6
+X
+X
+X
+6
+6
+I
+10-98
+X
+X
+6
+6
+I
+10-99
+X
+X
+7
+7
+I
+12-3
+X
+X
+X
+3
+3
+II
+12-4
+X
+4
+4
+I
+12-8
+X
+X
+X
+8
+8
+I
+12-10
+X
+X
+X
+10
+10
+I
+12-98
+X
+10
+10
+I
+14-2
+X
+2
+2
+II
+14-5
+X
+X
+X
+5
+5
+II
+14-8
+X
+8
+6
+2
+I
+14-12
+X
+X
+X
+12
+8
+4
+I
+14-15
+X
+X
+X
+15
+14
+1
+I
+14-16
+X
+4
+2
+2
+II
+14-18
+X
+X
+X
+18
+18
+I
+14-19
+X
+X
+X
+19
+19
+I
+14-91
+X
+X
+3
+3*
+H.V.
+16-6
+X
+6
+6
+I
+16-8
+X
+X
+X
+8
+8
+II
+16-23
+X
+X
+X
+23
+22
+1
+I
+16-26
+X
+X
+X
+26
+26
+I
+16-99
+X
+X
+23
+21
+2
+I
+18-5
+X
+X
+5
+5
+II
+18-11
+X
+X
+X
+11
+11
+II
+18-28
+X
+X
+28
+26
+2
+I
+18-30
+X
+X
+X
+30
+29
+1
+I
+18-32
+X
+X
+X
+32
+32
+I
+18-91
+X
+X
+6
+6*
+H.V.
+20-8
+X
+8
+8
+I
+20-16
+X
+X
+X
+16
+16
+II
+20-24
+X
+X
+24
+24
+I
+20-25
+X
+25
+25
+I
+20-27
+X
+X
+27
+27
+I
+20-39
+X
+X
+X
+39
+37
+2
+I
+20-41
+X
+X
+X
+41
+41
+I
+22-8
+X
+8
+8
+II
+22-21
+X
+X
+X
+21
+21
+II
+22-25
+X
+25
+25
+I
+22-32
+X
+X
+X
+32
+32
+I
+22-34
+X
+X
+34
+34
+I
+22-36
+X
+X
+36
+36
+I
+22-41
+X
+X
+41
+27
+14
+I
+22-55
+X
+X
+X
+55
+55
+I
+22-96
+X
+7
+7†
+II
+22-97
+X
+16
+16
+II
+22-99
+X
+11
+11
+II
+24-31
+X
+31
+31
+I
+24-61
+X
+X
+X
+61
+61
+I
+6
+* 5KV Voltage Rating
+† Size 12 contact for #10 wire.
+
+®
+Amphenol  Miniature Cylindrical
+alternate positioning
+A
+B
+A
+B
+A
+B
+A
+B
+Position W
+Position X
+Position Y
+Position Z
+Views looking into front face of pin insert or rear of socket insert.
+Alternate Positioning
+To avoid cross-plugging problems in applications requiring 
+the use of more than one miniature cylindrical connector of 
+the same size and arrangement, alternate insert rotations 
+are available as indicated in the accompanying chart.
+As shown in the diagram at right, the front face of the pin 
+insert is rotated within the shell in a clockwise direction from 
+the normal shell key. The socket insert would be rotated 
+counterclockwise the same number of degrees in respect to 
+the normal shell key.
+Insert Rotation
+Insert Rotation
+Degrees
+Degrees
+Shell
+Size
+Insert
+Arrangement
+Shell
+Size
+Insert
+Arrangement
+W
+X
+Y
+Z
+18
+18-11*
+62
+119
+241
+340
+18
+18-30*
+180
+193
+285
+350
+18
+18-32*
+85
+138
+222
+265
+18
+18-71
+18
+108
+127
+215
+18
+18-72
+53
+102
+213
+293
+18
+18-75
+45
+–
+–
+–
+18
+18-76
+–
+–
+–
+–
+18
+18-80
+45
+90
+135
+160
+18
+18-91HV
+90
+180
+240
+270
+20
+20-16*
+238
+318
+333
+347
+20
+20-24
+70
+145
+215
+290
+20
+20-25
+72
+144
+216
+288
+20
+20-26
+13
+107
+210
+322
+20
+20-27
+72
+144
+216
+288
+20
+20-39*
+63
+144
+252
+333
+20
+20-41*
+45
+126
+225
+–
+20
+20-70
+63
+135
+222
+335
+20
+20-90
+45
+135
+225
+315
+22
+22-7
+19
+41
+–
+–
+22
+22-21*
+16
+135
+175
+349
+22
+22-25
+60
+125
+211
+336
+22
+22-32
+72
+145
+215
+288
+22
+22-34
+62
+142
+218
+298
+22
+22-36
+72
+144
+216
+288
+22
+22-41
+39
+135
+264
+–
+22
+22-55*
+30
+142
+226
+314
+22
+22-70
+30
+82
+218
+312
+22
+22-71
+33
+191
+236
+270
+22
+22-72
+42
+200
+277
+339
+22
+22-78
+19
+41
+–
+–
+22
+22-96*
+19
+41
+–
+–
+24
+24-31
+90
+225
+255
+–
+24
+24-51
+22
+171
+313
+–
+24
+24-61*
+90
+180
+270
+324
+24
+24-71
+39
+131
+205
+281
+24
+24-79
+–
+–
+–
+–
+W
+X
+Y
+Z
+6
+6-1
+–
+–
+–
+–
+8
+8-2*
+58
+122
+–
+–
+8
+8-3
+60
+210
+–
+–
+8
+8-4*
+45
+97
+184
+–
+8
+8-33*
+90
+–
+–
+–
+8
+8-98
+–
+–
+–
+–
+10
+10-2
+45
+90
+315
+–
+10
+10-5*
+45
+151
+180
+270
+10
+10-6*
+90
+–
+–
+–
+10
+10-70
+–
+–
+–
+–
+10
+10-98*
+90
+180
+240
+270
+12
+12-3*
+–
+–
+180
+–
+12
+12-4*
+38
+–
+–
+–
+12
+12-8
+90
+112
+203
+292
+12
+12-10*
+60
+155
+270
+295
+12
+12-14
+–
+–
+–
+–
+12
+12-98*
+61
+135
+189
+340
+14
+14-2
+58
+122
+–
+–
+14
+14-4*
+45
+–
+–
+–
+14
+14-5*
+40
+92
+184
+273
+14
+14-8
+48
+162
+189
+312
+14
+14-12*
+43
+90
+–
+–
+14
+14-15*
+17
+110
+155
+234
+14
+14-18*
+15
+90
+180
+270
+14
+14-19*
+30
+165
+315
+–
+14
+14-22
+45
+–
+–
+–
+14
+14-71
+–
+–
+–
+–
+14
+14-91HV
+–
+60
+–
+–
+14
+14-AA*
+45
+–
+–
+–
+16
+16-8*
+54
+152
+180
+331
+16
+16-23
+158
+270
+–
+–
+16
+16-26*
+60
+–
+275
+338
+16
+16-70
+41
+122
+216
+286
+16
+16-76
+–
+–
+–
+–
+16
+16-99*
+66
+156
+223
+340
+18
+18-5
+55
+97
+263
+315
+18
+18-8
+180
+–
+–
+–
+* Available in Hermetic Class
+7
+
+®
+Amphenol  Miniature Cylindrical
+insert arrangements
+front face of pin inserts illustrated
+C
+C
+A
+B
+A
+D
+A
+C
+A
+A
+B
+A
+B
+B
+B
+B
+C
+Insert Arrangement
+6-1
+8-2
+8-3
+8-4
+8-33
+8-98
+10-2
+Service Rating
+I
+I
+I
+I
+I
+I
+I
+Number of Contacts
+1
+2
+3
+4
+3
+3
+2
+Contact Size
+20
+20
+20
+20
+20
+20
+16
+A
+G
+A
+A
+A
+F
+E
+A
+F
+B
+F
+E
+B
+A
+C
+B
+H
+E
+D
+B
+D
+C
+B
+E
+C
+D
+C
+D
+C
+C
+D
+B
+Insert Arrangement
+10-5
+10-6
+10-70
+10-98
+12-3
+12-4
+12-8
+Service Rating
+I
+I
+Coax
+I
+II
+I
+I
+Number of Contacts
+5
+6
+1
+6
+3
+4
+8
+Contact Size
+20
+20
+8 Coax
+20
+16
+16
+20
+A
+C
+B
+A
+H
+B
+H
+B
+A
+A
+E
+B
+A
+D
+G
+K
+J
+C
+A
+B
+C
+G
+H
+H
+F
+E
+D
+M
+L
+G
+C
+B
+C
+J
+K
+D
+C
+K
+J
+R
+F
+D
+D
+E
+F
+F
+E
+D
+P
+N
+E
+Insert Arrangement
+12-10
+12-14
+12-98
+14-2
+14-4
+14-5
+14-8
+Service Rating
+I
+I
+I
+II
+I
+II
+I
+Number of Contacts
+10
+14
+10
+2
+4
+5
+6
+2
+Contact Size
+20
+20
+20
+12
+12
+16
+20
+12
+A
+A
+A
+H
+A
+L
+A
+D
+A
+A
+B
+L
+K
+M
+L
+J
+P
+N
+B
+M
+K
+B
+B
+M
+G
+B
+C
+C
+U
+V
+K
+B
+E
+J
+R
+N
+J
+P
+N
+U
+T
+C
+R
+M
+K
+C
+S
+R
+D
+D
+H
+D
+H
+D
+P
+J
+T
+S
+F
+C
+C
+B
+L
+E
+G
+F
+E
+E
+D
+C
+G
+F
+E
+H
+G
+F
+Insert Arrangement
+14-12
+14-15
+14-18
+14-19
+14-22
+14-71
+14-91HV
+Service Rating
+I
+I
+I
+I
+I
+I
+Flashover
+5,000 VAC (RMS)
+Number of Contacts
+8
+4
+14
+1
+18
+19
+1
+4
+3
+1
+3
+Contact Size
+20
+16
+20
+16
+20
+20
+20
+12
+16
+8 Coax
+20
+For contact legend see page 61.
+8
+
+®
+Amphenol  Miniature Cylindrical
+insert arrangements
+front face of pin inserts illustrated
+A
+A
+A
+P
+N
+B
+A
+T
+S
+R
+P
+B
+M
+C
+N
+S
+R
+G
+B
+A
+H
+B
+U
+G
+P
+a
+b
+C
+D
+Z
+Y
+L
+D
+J
+H
+X
+M
+T
+c
+F
+C
+V
+Z
+F
+N
+D
+C
+B
+K
+E
+R
+L
+K
+M
+E
+Y
+X
+W
+J
+W
+V
+U
+C
+E
+D
+L
+E
+D
+K
+J
+H
+G
+F
+H
+G
+F
+Insert Arrangement
+14-AA
+16-8
+16-23
+16-26
+16-70
+Service Rating
+I
+II
+I
+I
+N/A
+Number of Contacts
+4
+8
+22
+1
+26
+14
+1
+Contact Size
+12
+16
+20
+16
+20
+20
+12 Coax
+A
+J
+A
+A
+A
+B
+B
+G
+B
+R
+P
+A
+H
+B
+C
+L
+K
+T
+S
+J
+C
+K
+U
+P
+N
+E
+B
+N
+Z
+Y
+H
+D
+M
+D
+H
+L
+M
+E
+X
+W
+V
+L
+D
+C
+G
+F
+C
+C
+G
+E
+F
+K
+J
+H
+G
+F
+E
+D
+F
+E
+D
+Insert Arrangement
+16-76
+16-99
+18-5
+18-8
+18-11
+Service Rating
+I
+II
+I
+II
+Flashover
+1.500 VAC (RMS)
+Number of Contacts
+8
+1
+5
+21
+2
+5
+8
+11
+Contact Size
+20
+12*
+2 Coax*
+20
+16
+12
+12
+16
+*Contact Positions Optional
+A
+S
+A
+A
+H
+B
+B
+R
+T
+S
+R
+C
+B
+d
+T
+e
+A
+K
+L
+V
+U
+C
+P
+c
+J
+U
+P
+D
+e
+f
+B
+J
+d
+W
+G
+C
+b
+N
+D
+V
+j
+N
+g
+E
+M
+P
+X
+c
+f
+g
+a
+W
+M
+E
+M
+h
+F
+C
+H
+Y
+b
+Z
+Y
+X
+L
+F
+G
+L
+G
+a
+Z
+F
+N
+D
+E
+F
+E
+D
+K
+J
+H
+K
+J
+H
+G
+Insert Arrangement
+18-30
+18-32
+18-71
+18-72
+Service Rating
+I
+I
+II, Coax
+N/A
+Number of Contacts
+29
+1
+32
+8
+1
+10
+4
+Contact Size
+20
+16
+20
+16
+8 Coax
+20 12 Coax
+A
+A
+A
+B
+H
+B
+D
+A
+D
+F
+G
+C
+E
+B
+C
+C
+B
+F
+D
+D
+C
+E
+Insert Arrangement
+18-75
+18-76
+18-80
+18-91 HV
+Service Rating
+Coax
+II
+I, Coax
+Flashover
+5,000 VAC (RMS)
+Number of Contacts
+4
+3
+1
+6
+2
+6
+Contact Size
+8 Coax
+12 Coax
+8 Coax
+20
+8 Coax
+20
+9
+
+®
+Amphenol  Miniature Cylindrical
+insert arrangements
+front face of pin inserts illustrated
+A
+L
+A
+A
+R
+B
+A
+M
+L
+U
+V
+K
+X
+S
+B
+M
+D
+C
+N
+P
+N
+B
+X
+W
+K
+R
+S
+T
+B
+C
+D
+a
+N
+S
+W
+Y
+T
+W
+M
+E
+a
+Y
+C
+J
+V
+P
+b
+c
+P
+E
+b
+Z
+J
+C
+R
+P
+N
+F
+Z
+X
+Z
+L
+V
+U
+F
+a
+H
+R
+U
+D
+H
+G
+H
+L
+M
+D
+G
+T
+S
+Y
+J
+K
+K
+J
+H
+G
+F
+E
+G
+F
+E
+Insert Arrangement
+20-16
+20-24
+20-25
+20-26
+Service Rating
+II
+I
+I
+I
+Number of Contacts
+16
+24
+25
+20
+6
+Contact Size
+16
+20
+20
+20
+12
+A
+A
+R
+A
+A
+B
+C
+B
+B
+W
+V
+U
+P
+L
+K
+J
+B
+j
+D
+Y
+X
+W
+V
+C
+Y
+X
+a
+S
+C
+T
+k
+j
+i
+U
+N
+i
+Z
+E
+Z
+b
+D
+m
+k
+Z
+D
+T
+M
+S
+P
+m
+h
+T
+a
+r
+h
+a
+t
+s
+F
+M
+c
+d
+E
+E
+r
+R
+n
+Y
+U
+S
+G
+g
+b
+g
+L
+b
+q
+F
+p
+n
+p
+q
+P
+R
+H
+C
+F
+H
+G
+N
+K
+N
+X
+W
+V
+f
+e
+d
+c
+f
+e
+d
+c
+G
+F
+E
+D
+M
+L
+K
+J
+H
+P
+N
+M
+L
+K
+J
+J
+H
+G
+Insert Arrangement
+20-27
+20-39
+20-41
+20-70
+Service Rating
+I
+I
+I
+Coax
+Number of Contacts
+27
+37
+2
+41
+10
+4
+Contact Size
+20
+20
+16
+20
+20
+8 Coax
+A
+A
+A
+N
+R
+P
+B
+N
+M
+B
+B
+F
+P
+S
+A
+C
+M
+Z
+Y
+R
+W
+L
+G
+C
+T
+X
+X
+G
+B
+a
+b
+L
+D
+E
+C
+V
+S
+D
+K
+D
+W
+V
+U
+E
+K
+U
+T
+F
+E
+D
+C
+J
+E
+J
+F
+H
+G
+H
+G
+F
+Insert Arrangement
+20-90
+22-7
+22-21
+22-25
+Service Rating
+Hi-Voltage
+Coax
+II
+I
+Number of Contacts
+7
+7
+21
+25
+Contact Size
+20
+8 Coax
+16
+16
+A
+N
+A
+B
+A
+Z
+Y
+X
+C
+B
+T
+S
+a
+R
+P
+U
+C
+M
+B
+b
+W
+D
+m
+k
+A
+T
+S
+B
+V
+U
+R
+C
+f
+V
+j
+R
+b
+S
+a
+h
+c
+e
+d
+V
+n
+s
+E
+m
+h
+g
+e
+W
+P
+D
+c
+c
+t
+i
+W
+f
+P
+U
+l
+k
+Z
+T
+L
+C
+j
+g
+d
+n
+D
+F
+p
+E
+K
+l
+j
+d
+X
+N
+N
+b
+X
+T
+r
+q
+g
+D
+f
+e
+E
+G
+Y
+M
+h
+g
+e
+d
+j
+h
+F
+S
+c
+Y
+H
+M
+U
+E
+J
+f
+Y
+F
+k
+a
+X
+b
+Z
+R
+L
+G
+a
+Z
+L
+H
+W
+V
+H
+G
+P
+N
+M
+L
+K
+J
+K
+J
+H
+G
+F
+K
+J
+Insert Arrangement
+22-32
+22-34
+22-36
+22-41
+Service Rating
+I
+I
+I
+I
+Number of Contacts
+32
+34
+36
+27
+14
+Contact Size
+20
+20
+20
+20
+16
+10
+
+®
+Amphenol  Miniature Cylindrical
+insert arrangements
+front face of pin inserts illustrated
+A
+A
+A
+A
+H
+J
+U
+T
+S
+C
+B
+M
+B
+K
+B
+F
+B
+Y
+X
+W
+V
+k
+S
+L
+D
+R
+J
+C
+U
+N
+L
+C
+z
+G
+r
+q
+p
+n
+m
+CC
+BB
+AA
+Z
+V
+j
+HH
+GG
+E
+P
+s
+U
+T
+y
+V
+K
+D
+T
+P
+M
+R
+a
+FF
+EE
+DD
+F
+N
+i
+b
+P
+N
+J
+E
+H
+D
+R
+S
+x
+w
+v
+u
+t
+M
+G
+G
+F
+E
+E
+C
+F
+H
+h
+g
+f
+e
+d
+c
+G
+L
+K
+J
+H
+D
+Insert Arrangement
+22-55
+22-70
+22-71
+22-72
+Service Rating
+I
+I, Coax
+I, Coax
+N/A
+Number of Contacts
+55
+13
+6
+2
+7
+12
+4
+3
+Contact Size
+20
+20
+8 Coax
+20
+8 Coax
+20
+16
+8 Coax
+A
+A
+A
+N
+M
+L
+B
+B
+C
+Y
+Z
+a
+A
+b
+u
+c
+Z
+P
+D
+X
+F
+B
+t
+F
+B
+d
+AA
+Y
+a
+Q
+E
+W
+e
+s
+y
+K
+b
+C
+v
+G
+G
+F
+BB
+DD
+X
+g
+f
+R
+f
+V
+r
+z
+J
+e
+c
+D
+G
+E
+C
+CC
+g
+U
+q
+W
+d
+S
+w
+x
+h
+H
+p
+T
+E
+C
+H
+V
+U
+T
+E
+J
+S
+i
+j
+G
+F
+m
+n
+k
+K
+D
+L
+D
+M
+N
+P
+R
+Insert Arrangement
+22-78
+22-96
+24-31
+24-51
+Service Rating
+Coax
+II
+I
+I
+Number of Contacts
+7
+7
+31
+47
+4
+Contact Size
+8 Coax
+12 for
+16
+20
+12 Coax
+# 10 wire
+a
+B
+Z
+Y
+A
+F
+A
+Z
+Y
+C
+B
+a
+C
+s
+c
+b
+X
+t
+d
+c
+b
+X
+D
+w
+v
+u
+t
+z
+W
+y
+u
+e
+D
+d
+A
+D
+HH
+GG
+x
+W
+E
+JJ
+NN
+r
+AA
+BB
+E
+s
+f
+q
+e
+V
+FF
+PP
+y
+V
+F
+MM
+KK
+r
+F
+p
+g
+f
+EE
+LL
+U
+z
+U
+G
+q
+g
+n
+h
+E
+B
+C
+DD
+AA
+T
+T
+m
+G
+h
+H
+p
+v
+x
+w
+H
+CC
+BB
+S
+k
+i
+J
+j
+k
+j
+i
+n
+m
+S
+R
+P
+N
+M
+L
+K
+J
+R
+P
+N
+M
+L
+K
+Insert Arrangement
+24-61
+24-71
+24-79
+Service Rating
+I
+N/A
+Coax
+Number of Contacts
+61
+45
+2
+2
+1
+5
+Contact Size
+20
+20
+16
+8 Coax
+20
+8 Coax
+Contact Legend
+Symbol
+Contact Size
+20
+16
+12
+HV
+12 Coax
+8 Coax
+11
+
+®
+Amphenol  PT, SP, MS/PT
+Proprietary/MIL-C-26482, Series 1
+bayonet coupling and solder termination
+Amphenol® solder contact miniature cylindrical connectors 
+meet the most critical application needs. Design versatility 
+combined with high reliability performance makes these 
+series of Miniature Cylindrical Connectors ideal for environ-
+mental sealing or pressurized applications.
+wall mounting
+receptacle
+cable connecting 
+receptacle*
+box mounting 
+receptacle
+straight plug
+The MS/PT Series is qualified to MIL-C-26482, Series 1 and has 
+all the outstanding design characteristics and quality of the PT 
+Series. The SP Series is a modification of the PT, providing special 
+shells with a wide mounting flange for back panel mounting.
+A corrosion resistant electrically conductive finish of cadmium 
+plate with an olive drab chromate after-treatment is used on the PT 
+and MS/PT. The SP is given a durable non-conductive hard anodic 
+“Alumilite”® coating which provides abrasion protection and resis-
+tance to corrosion.
+Shell components for these series are aluminum. The dependable 
+5 key/keyway polarization with bayonet lock coupling assures pos-
+itive mating with no chance of cross plugging. Spring tension pro-
+vided by a wave washer in the coupling nut ensures maintenance 
+of interfacial seal between mating halves.
+Both the insert and main joint gasket are molded from resilient 
+neoprene. This provides excellent moisture sealing at the gasket 
+and superior electrical isolation of the contact in the insert.
+Both pins and sockets are machined from a copper alloy and are 
+gold plated. This gold plating eliminates contact corrosion and 
+offers an indefinite shelf life. Socket contacts for these series are a 
+closed entry design. A breakaway style plug is available in the PT 
+solder series. Hermetics receptacles are available in PT and MS/
+PT solder series. Receptacles with printed circuit board contacts 
+are also available. 
+PT Solder is UL recognized under file #E115497, Vol. 1, Sec. 5.
+The PT, SP and MS/PT Series are intermateable and intermount-
+able with all existing Miniature Cylindrical Series connectors 
+except for the threaded coupling PC Series.
+Refer to pages 4-11 for insert arrangement availability.
+jam nut
+receptacle
+PT, SP, MS/PT
+CONTACT DATA/CONNECTOR RATINGS
+Contact Specifications
+Contact
+Size
+Test
+Current
+Maximum
+Millivolt Drop†
+Solder Well 
+Diameter
+Solder Well 
+Depth
+thru bulkhead 
+receptacle
+20
+7.5
+55
+.046
+.125
++.004
+–.000
++.031
+–.000
+16
+13.0
+50
+.078
+.188
++.005
+–.003
++.031
+–.000
+12
+23.0
+42
+.116
+.188
++.004
+–.002
++.031
+–.000
+Service Rating
+Test Voltage AC (RMS), 60 cps
+breakaway 
+twist pull 
+plug
+Service
+Rating
+Recommended
+Operating
+AC Voltage
+at Sea Level
+Sea
+Level
+50,000
+ft.
+70,000
+ft.
+110,000
+ft.
+I
+600
+1,500
+500
+375
+200
+II
+1,000
+2,300
+750
+500
+200
+† Silver plated wire per MIL-C-26482
+* This connector style is sometimes referred to as a cable connecting 
+“plug.” It does, however, mate with a straight or 90 degree plug.
+12
+
+PT, SP Service Classes
+PT and SP connectors are available in the service 
+classes listed below. Each class, with the exception of 
+hermetic, offers one or more means of terminating or 
+supporting a cable or wire bundle. Class “W” is not 
+available in the SP Series.
+“A”
+General duty; back shell is threaded for con-
+duit attachment of MS3057 cable clamp
+“A”
+general duty
+PT, SP, MS/PT
+“A” (SR) General duty, with strain relief clamp for
+cable or wire bundle support
+“C”
+Pressurized receptacle; less than 1 cu. in.
+per hour leakage at 30 psi over a tempera-
+ture range of –65°F to +257°F
+BAYONET COUPLING
+WITH SOLDER CONTACTS
+“E”
+Environmental resistant connectors - sup-
+plied with a multi-holed grommet and clamp-
+ing nut for moisture-proofing individual open
+wires
+“E” (SR),
+MS / “F”
+strain relief
+“E” (SR) Environmental resistant strain relief clamp
+and grommet for moisture proofing individual
+wires; provides added wire bundle support
+“J”
+Same as “W” class except with strain relief
+“P”
+Translucent nylon boot for retaining cus-
+tomer-applied potting compounds; held in
+place by a threaded ring
+“P” (SR) Strain relief clamp suitable for retaining cus-
+tomer applied potting compounds, with pro-
+vision for wire support
+“E”,
+MS / “E”
+open wire seal
+“W” 
+Compressing clamp and neoprene gland for
+moisture proofing multi-conductor jacketed
+cables. Telescoping sleeves (MS 3420A)
+can be used to adapt to cables smaller than
+minimum close-down.
+“H”*
+Hermetically sealed with compression glass
+inserts (see pages 22-25)
+Style with printed circuit board contacts- see page 20.
+Breakaway style - see page 26.
+“P”,
+MS / “P”
+potting boot
+MS/PT Service Classes
+The MS/PT Miniature connector is available in the fol-
+lowing certified service classes:
+“E”
+Environmental resistant connectors - sup-
+plied with a multi-holed grommet and clamp-
+ing nut for moisture-proofing individual open
+wires
+“W”
+cable seal
+“F”
+Grommet seal with strain relief clamp
+“P”
+Translucent nylon boot for retaining cus-
+tomer-applied potting compounds; held in
+place by a threaded ring
+13
+
+PT00 (MS3110)
+SP00
+wall mounting receptacle
+S
+L
+Q
+M
+R
+(TP)
+PT
+.120 ± .005 Dia.
+(.147 ± .005 Dia., size 24)
+SP
+.150 ± .005 Dia.  
+4 Holes
+S
+A
+R
+(TP)
+“W” Cable Seal
+L
+K
+Z
+“E” Open Wire Seal
+“P” Potting Boot
+TERMINATION ASSEMBLIES
+“A” General Duty/
+“C” Pressurized“
+“A” (SR), “E” (SR), “P” (SR),
+MS / “F” Strain Relief
+N
+D
+L
+L
+L
+V
+L
+PT00W-XX-XXX
+G
+N
+D H
+D
+N
+N
+N
+D
+“J” Cable Seal
+XL
+C
+.375 MIN
+N
+D
+PT00A-XX-XXX
+SP00A-XX-XXX
+PT00C-XX-XXX
+PT00E-XX-XXX
+SP00E-XX-XXX
+MS3110E-XX-XXX
+PT00P-XX-XXX
+SP00P-XX-XXX
+MS3110P-XX-XXX
+PT00A-XX-XXX (SR)
+SP00A-XX-XXX (SR)
+PT00E-XX-XXX (SR)
+SP00E-XX-XXX (SR)
+PT00P-XX-XXX (SR)
+SP00P-XX-XXX (SR)
+MS3110F-XX-XXX
+PT00J-XX-XXX
+MS3110J-XX-XXX
+To complete part number see how to order on page 27.
+■ (MMC) located within .0025 of (TP)
+Receptacle Front View
+Receptacle Side View
+Class “A”, “C”
+R
+(TP)
+S
+Max.
+A
++.001
+–.005
+Shell 
+Size
+K +.020
+–.010
+L
+Max.
+M +.010
+–.000
+Q
+Thread
+Class 2A
+Z
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+V
+Thread
+Class A
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+6
+.469
+.641
+.688
+.953
+.348
+.493
+.524
+.906
+.431
+.462
+.3125-32 NEF
+.468
+.438
+.175
+1.553
+.462
+.3750-32 NEF
+8
+.594
+.734
+.812 1.047
+.473
+.493
+.524
+.906
+.431
+.462
+.4375-28 UNEF
+.468
+.438
+.297
+1.553
+.590
+.5000-28 UNEF
+10
+.719
+.812
+.938 1.125
+.590
+.493
+.524
+.906
+.431
+.462
+.5625-24 NEF
+.468
+.438
+.421
+1.553
+.717
+.6250-24 NEF
+12
+.812
+.938 1.031 1.250
+.750
+.493
+.524
+.906
+.431
+.462
+.6875-24 NEF
+.468
+.438
+.546
+1.553
+.834
+.7500-20 UNEF
+14
+.906 1.031 1.125 1.344
+.875
+.493
+.524
+.906
+.431
+.462
+.8125-20 UNEF
+.468
+.438
+.663
+1.553
+.970
+.8750-20 UNEF
+16
+.969 1.125 1.219 1.438
+1.000
+.493
+.524
+.906
+.431
+.462
+.9375-20 UNEF
+.468
+.438
+.787
+1.553
+1.088 1.0000-20 UNEF
+18
+1.062 1.203 1.312 1.516
+1.125
+.493
+.524
+.906
+.431
+.462 1.0625-18 NEF
+.531
+.438
+.879
+1.553
+1.216 1.1875-18 NEF
+20
+1.156 1.297 1.438 1.672
+1.250
+.650
+.650
+1.125
+.556
+.556 1.1875-18 NEF
+.531
+.531
+1.014
+1.703
+1.332 1.1875-18 NEF
+22
+1.250 1.375 1.562 1.750
+1.375
+.650
+.650
+1.125
+.556
+.556 1.3125-18 NEF
+.531
+.531
+1.134
+1.703
+1.460 1.4375-18 NEF
+24
+1.375 1.500 1.688 1.875
+1.500
+.683
+.683
+1.188
+.589
+.589 1.4375-18 NEF
+.498
+.498
+1.259
+1.765
+1.585 1.4375-18 NEF
+Class “A” (SR), “E” (SR), “P” (SR), MS / “F”
+Class “E”, MS / “E”
+Class “P”, MS / “P”
+Class “W”, “J”
+Shell 
+Size
+C
+Thread
+D
+Min.
+G
+Max.
+H
+Max.
+L
+Max.
+N
+Max.
+L
+Max.
+N
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+D
+L
+Max.
+N
+Max.
+XL
+Max.
+Closed
+Free
+6
+–
+–
+–
+–
+–
+–
+1.266
+.440
+.192
+1.438
+.484
+–
+–
+–
+–
+–
+8
+6-32
+.240
+.125
+.812
+1.922
+.550
+1.266
+.560
+.317
+1.438
+.608
+.168
+.230
+1.705
+.547
+2.271
+10
+6-32
+.302
+.188
+.875
+1.922
+.675
+1.266
+.685
+.434
+1.438
+.734
+.205
+.312
+1.705
+.675
+2.271
+12
+6-32
+.428
+.312
+1.000
+1.922
+.803
+1.266
+.813
+.548
+1.438
+.858
+.338
+.442
+1.848
+.812
+2.411
+14
+6-32
+.552
+.375
+1.125
+1.922
+.920
+1.266
+.930
+.673
+1.438
+.984
+.416
+.539
+2.040
+.940
+2.599
+16
+6-32
+.615
+.500
+1.188
+2.047
+1.047
+1.266
+1.057
+.798
+1.438
+1.110
+.550
+.616
+2.256
+1.067
+2.943
+18
+8-32
+.740
+.625
+1.438
+2.078
+1.165
+1.266
+1.175
+.899
+1.438
+1.234
+.600
+.672
+2.486
+1.194
+3.172
+20
+8-32
+.740
+.625
+1.438
+2.344
+1.290
+1.516
+1.301
+1.024
+1.656
+1.360
+.635
+.747
+2.922
+1.322
+3.610
+22
+8-32
+.928
+.750
+1.625
+2.344
+1.418
+1.516
+1.430
+1.149
+1.656
+1.484
+.670
+.846
+3.086
+1.449
+3.766
+24
+8-32
+.990
+.800
+1.719
+2.406
+1.543
+1.578
+1.555
+1.274
+1.717
+1.610
+.740
+.894
+3.310
+1.576
+3.985
+All dimensions for reference only.
+14
+
+PT01 (MS3111)
+cable connecting receptacle
+S
+M
+L
+Q
+S
+Y
+A
+“W” Cable Seal
+L
+K
+Z
+TERMINATION ASSEMBLIES
+“A” General Duty
+“E” Open Wire Seal
+“P” Potting Boot
+“A” (SR), “E” (SR), “P” (SR),
+MS / “F” Strain Relief
+N
+D
+L
+L
+L
+V
+L
+PT01W-XX-XXX
+N
+D
+D
+G
+N
+D H
+N
+N
+“J” Cable Seal
+XL
+C
+.375 MIN 
+PT01A-XX-XXX
+N
+D
+PT01E-XX-XXX
+MS3111E-XX-XXX
+PT01P-XX-XXX
+MS3111P-XX-XXX
+PT01A-XX-XXX (SR)
+PT01E-XX-XXX (SR)
+PT01P-XX-XXX (SR)
+MS3111F-XX-XXX
+PT01J-XX-XXX
+MS3111J-XX-XXX
+Note: This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+To complete part number see how to order on page 27.
+Recept. Front View
+Receptacle Side View
+Class “A”,
+Q
+Thread
+Class 2A
+Z
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+M
++.016
+–.000
+K
++.020
+–.010
+L
+Max.
+A
++.001
+–.005
+S
+±.020
+Y
+±.020
+Shell 
+Size
+V
+Thread
+Class A
+6
+.688
+.812
+.348
+.494
+.906
+.400
+.3125-32 NEF
+.948
+.175
+1.553
+.462
+.3750-32 NEF
+8
+.812
+.938
+.473
+.494
+.906
+.400
+.4375-28 UNEF
+.948
+.297
+1.553
+.590
+.5000-28 UNEF
+10
+.938
+1.062
+.590
+.494
+.906
+.400
+.5625-24 NEF
+.948
+.421
+1.553
+.717
+.6250-24 NEF
+12
+1.031
+1.156
+.750
+.494
+.906
+.400
+.6875-24 NEF
+.948
+.546
+1.553
+.834
+.7500-20 UNEF
+14
+1.125
+1.250
+.875
+.494
+.906
+.400
+.8125-20 UNEF
+.948
+.663
+1.553
+.970
+.8750-20 UNEF
+16
+1.219
+1.344
+1.000
+.494
+.906
+.400
+.9375-20 UNEF
+.948
+.787
+1.553
+1.088
+1.0000-20 UNEF
+18
+1.312
+1.438
+1.125
+.494
+.906
+.400
+1.0625-18 NEF
+.948
+.879
+1.553
+1.216
+1.1875-18 NEF
+20
+1.438
+1.562
+1.250
+.650
+1.125
+.535
+1.1875-18 NEF
+1.166
+1.041
+1.703
+1.332
+1.1875-18 NEF
+22
+1.562
+1.688
+1.375
+.650
+1.125
+.535
+1.3125-18 NEF
+1.166
+1.135
+1.703
+1.460
+1.4375-18 NEF
+24
+1.688
+1.812
+1.500
+.683
+1.188
+.568
+1.4375-18 NEF
+1.166
+1.259
+1.765
+1.585
+1.4375-18 NEF
+Class “A” (SR), “E” (SR), “P” (SR), MS / “F”
+Class “E”, MS / “E”
+Class “P”, MS / “P”
+Class “W”, “J”
+Shell 
+Size
+C
+Thread
+D
+Min.
+G
+Max.
+H
+Max.
+L
+Max.
+N
+Max.
+L
+Max.
+N
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+D
+L
+Max.
+N
+Max.
+XL
+Max.
+Closed
+Free
+6
+–
+–
+–
+–
+–
+–
+1.266
+.440
+.192
+1.438
+.484
+–
+–
+–
+–
+–
+8
+6-32
+.240
+.125
+.812
+1.922
+.550
+1.266
+.560
+.317
+1.438
+.608
+.168
+.230
+1.705
+.547
+2.271
+10
+6-32
+.302
+.188
+.875
+1.922
+.675
+1.266
+.685
+.434
+1.438
+.734
+.205
+.312
+1.705
+.675
+2.271
+12
+6-32
+.428
+.312
+1.000
+1.922
+.803
+1.266
+.813
+.548
+1.438
+.858
+.338
+.442
+1.848
+.812
+2.411
+14
+6-32
+.552
+.375
+1.125
+1.922
+.920
+1.266
+.930
+.673
+1.438
+.984
+.416
+.539
+2.040
+.940
+2.599
+16
+6-32
+.615
+.500
+1.188
+2.047
+1.047
+1.266
+1.057
+.798
+1.438
+1.110
+.550
+.616
+2.256
+1.067
+2.943
+18
+8-32
+.740
+.625
+1.438
+2.078
+1.165
+1.266
+1.175
+.899
+1.438
+1.234
+.600
+.672
+2.486
+1.194
+3.172
+20
+8-32
+.740
+.625
+1.438
+2.344
+1.290
+1.516
+1.301
+1.024
+1.656
+1.360
+.635
+.747
+2.922
+1.322
+3.610
+22
+8-32
+.928
+.750
+1.625
+2.344
+1.418
+1.516
+1.430
+1.149
+1.656
+1.484
+.670
+.846
+3.086
+1.449
+3.766
+24
+8-32
+.990
+.800
+1.719
+2.406
+1.543
+1.578
+1.555
+1.274
+1.717
+1.610
+.740
+.894
+3.310
+1.576
+3.985
+All dimensions for reference only.
+15
+
+PT02 (MS3112)
+SP02
+box mounting receptacle
+S
+L
+M
+PT
+.120 ± .005 Dia.
+(.147 ± .005 Dia., size 24)
+R
+(TP)
+SP
+.150 ± .005 Dia.  
+4 Holes
+A
+N
+S
+R
+(TP)
+K
+Z
+PT02A-XX-XXX
+SP02A-XX-XXX
+* PT02C-XX-XXX
+* SP02C-XX-XXX
+* PT02E-XX-XXX
+* SP02E-XX-XXX
+MS3112E-XX-XXX
+* PT02P-XX-XXX
+* SP02P-XX-XXX
+MS3112P-XX-XXX
+* PT02W-XX-XXX
+* SP02W-XX-XXX
+To complete part number see how to order on page 27.
+■ (MMC) located within .0025 of (TP)
+*
+The PT02 and SP02 box mounting receptacles are made only to complete a series;
+no provision is made for accessories or potting on the rear skirt.
+Receptacle Front View
+Receptacle Side View
+Z
+Max.
+Shell 
+Size
+R
+(TP)
+S
+A
++.001
+–.005
+K
++.020
+–.010
+L
+Max.
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+M
++.010
+–.000
+N
+Dia.
+Max.
+6
+.469
+.641
+.688
+.953
+.348
+.493
+.524
+.825
+.431
+.462
+.323
+.465
+.438
+8
+.594
+.734
+.812
+1.047
+.473
+.493
+.524
+.825
+.431
+.462
+.449
+.465
+.438
+10
+.719
+.812
+.938
+1.125
+.590
+.493
+.524
+.825
+.431
+.462
+.573
+.465
+.438
+12
+.812
+.938
+1.031
+1.250
+.750
+.493
+.524
+.825
+.431
+.462
+.699
+.465
+.438
+14
+.906
+1.031
+1.125
+1.344
+.875
+.493
+.524
+.825
+.431
+.462
+.823
+.465
+.438
+16
+.969
+1.125
+1.219
+1.438
+1.000
+.493
+.524
+.825
+.431
+.462
+.949
+.465
+.438
+18
+1.062
+1.203
+1.312
+1.516
+1.125
+.493
+.524
+.825
+.431
+.462
+1.073
+.465
+.438
+20
+1.156
+1.297
+1.438
+1.672
+1.250
+.650
+.650
+1.076
+.556
+.556
+1.199
+.526
+.531
+22
+1.250
+1.375
+1.562
+1.750
+1.375
+.650
+.650
+1.076
+.556
+.556
+1.323
+.526
+.531
+24
+1.375
+1.500
+1.688
+1.875
+1.500
+.683
+.683
+1.109
+.589
+.589
+1.449
+.493
+.497
+All dimensions for reference only.
+16
+
+PT06 (MS3116)
+SP06
+straight plug
+S
+L
+Z
+Q
+J
+“W” Cable Seal
+L
+TERMINATION ASSEMBLIES
+“A” General Duty
+“E” Open Wire Seal
+“P” Potting Boot
+“A” (SR), “E” (SR), “P” (SR),
+MS / “F” Strain Relief
+L
+L
+L
+N
+D
+V
+L
+D
+N
+D
+G
+N
+D H
+N
+N
+PT06W-XX-XXX
+SP06W-XX-XXX
+PTG06W-XX-XXX
+C
+“J” Cable Seal
+.375 MIN 
+XL
+PT06A-XX-XXX
+SP06A-XX-XXX
+PTG06A-XX-XXX
+PT06E-XX-XXX
+SP06E-XX-XXX
+PTG06E-XX-XXX
+MS3116E-XX-XXX
+PT06P-XX-XXX
+SP06P-XX-XXX
+PTG06P-XX-XXX
+MS3116P-XX-XXX
+N
+D
+PT06A-XX-XXX (SR)
+SP06A-XX-XXX (SR)
+PTG06A-XX-XXX (SR)
+PT06E-XX-XXX (SR)
+SP06E-XX-XXX (SR)
+PTG06E-XX-XXX (SR)
+PT06P-XX-XXX (SR)
+SP06P-XX-XXX (SR)
+PTG06P-XX-XXX (SR)
+MS3116F-XX-XXX
+PT06J-XX-XXX
+MS3116J-XX-XXX
+To complete part number see how to order on page 27.
+Shell 
+Size
+Plug Front View
+Plug Side View
+Class “A”
+S
+Max.
+J
+L
+Max.
+Q Thread
+Class 2A
+Z
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+V Thread
+Class A
+6
+.625
+.353
+.906
+.3125-32 NEF
+.594
+.175
+1.609
+.462
+.3750-32 NEF
+8
+.750
+.353
+.906
+.4375-28 UNEF
+.594
+.297
+1.609
+.590
+.5000-28 UNEF
+10
+.859
+.353
+.906
+.5625-24 NEF
+.594
+.421
+1.609
+.717
+.6250-24 NEF
+12
+1.013
+.353
+.906
+.6875-24 NEF
+.594
+.546
+1.609
+.834
+.7500-20 UNEF
+14
+1.156
+.353
+.906
+.8125-20 UNEF
+.594
+.663
+1.609
+.970
+.8750-20 UNEF
+16
+1.281
+.353
+.906
+.9375-20 UNEF
+.594
+.787
+1.609
+1.088
+1.0000-20 UNEF
+18
+1.319
+.353
+.906
+1.0625-18 NEF
+.594
+.879
+1.609
+1.216
+1.1875-18 NEF
+20
+1.531
+.415
+1.062
+1.1875-18 NEF
+.672
+1.014
+1.656
+1.332
+1.1875-18 NEF
+22
+1.656
+.415
+1.062
+1.3125-18 NEF
+.672
+1.135
+1.656
+1.460
+1.4375-18 NEF
+24*
+1.776
+.415
+1.125
+1.4375-18 NEF
+.672
+1.259
+1.750
+1.587
+1.4375-18 NEF
+Class “A” (SR), “E” (SR), “P” (SR), MS / “F”
+Class “E”, MS / “E”
+Class “P”, MS / “P”
+Class “W”, “J”
+Shell 
+Size
+C
+Thread
+D
+Min.
+G
+±.010
+H
+Max.
+L
+Max.
+N
+Max.
+L
+Max.
+N
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+D
+L
+Max.
+N
+Max.
+XL
+Max.
+Closed
+Free
+6
+–
+–
+–
+–
+–
+–
+1.266
+.440
+.192
+1.526
+.484
+–
+–
+–
+–
+–
+8
+6-32
+.240
+.125
+.812
+1.906
+.550
+1.266
+.560
+.317
+1.526
+.608
+.168
+.230
+1.705
+.547
+2.271
+10
+6-32
+.302
+.188
+.875
+1.906
+.675
+1.266
+.685
+.434
+1.526
+.734
+.205
+.312
+1.705
+.675
+2.271
+12
+6-32
+.428
+.312
+1.000
+1.906
+.803
+1.266
+.813
+.548
+1.526
+.858
+.338
+.442
+1.848
+.812
+2.411
+14
+6-32
+.552
+.375
+1.125
+1.906
+.920
+1.266
+.930
+.673
+1.526
+.984
+.416
+.539
+2.040
+.940
+2.599
+16
+6-32
+.615
+.500
+1.188
+2.047
+1.047
+1.266
+1.057
+.798
+1.526
+1.110
+.550
+.616
+2.256
+1.067
+2.943
+18
+8-32
+.740
+.625
+1.438
+2.078
+1.165
+1.266
+1.175
+.899
+1.526
+1.234
+.600
+.672
+2.486
+1.194
+3.172
+20
+8-32
+.740
+.625
+1.438
+2.250
+1.290
+1.438
+1.301
+1.024
+1.546
+1.360
+.635
+.747
+2.844
+1.322
+3.610
+22
+8-32
+.928
+.750
+1.625
+2.250
+1.418
+1.438
+1.430
+1.149
+1.546
+1.484
+.670
+.846
+3.000
+1.449
+3.766
+24*
+8-32
+.990
+.800
+1.750
+2.312
+1.543
+1.500
+1.555
+1.274
+1.656
+1.610
+.740
+.894
+3.210
+1.576
+3.985
+* Available in PT06 only
+All dimensions for reference only.
+17
+
+PT07 (MS3114)
+SP07
+jam nut receptacle
+M
+Z
+S
+H
+S
+J
+A
+“A” General Duty/
+“C” Pressurized Receptacle
+PT07A-XX-XXX
+PT07C-XX-XXX
+R
+P
+K
+TERMINATION ASSEMBLIES
+“E” Open Wire Seal
+“A” (SR), “E” (SR), “P” (SR), MS / “F” Strain Relief
+“P” Potting Boot
+M
+Z
+M
+Z
+M
+Z
+D
+N
+G D H
+J
+A
+J
+N
+A
+J
+A
+R
+P
+L
+R
+P
+L
+C
+R
+P
+L
+PT07P-XX-XXX
+MS3114P-XX-XXX
+PT07E-XX-XXX
+SP07E-XX-XXX
+MS3114E-XX-XXX
+PT07A-XX-XXX (SR)
+SP07A-XX-XXX (SR)
+PT07E-XX-XXX (SR)
+MS3114F-XX-XXX
+To complete part number see how to order on page 27.
+Recept. Front View
+Receptacle Side View
+Class “E”, MS / “E”
+K
++.011
+–.010
+M
+J Flat
++.000
+–.010
+A Dia.
++.001
+–.005
+H
+±.016
+S
+Shell 
+Size
+P Panel Thickness
+R
+Thread
+Class 2A UNEF
+Z
+L
+Max.
+M
+N
+Max.
+Z
+±.040
+Min.
+Max.
+6
+.625
+.812
+.348
+.405
+.125
+.696
+.062
+.125
+.4375-28
+.231
+.568
+.696
+.604
+.191
+8
+.750
+.938
+.473
+.530
+.125
+.696
+.062
+.125
+.5625-24
+.231
+.568
+.696
+.729
+.191
+10
+.875
+1.062
+.590
+.655
+.125
+.696
+.062
+.125
+.6875-24
+.231
+.568
+.696
+.854
+.191
+12
+1.062
+1.250
+.750
+.818
+.125
+.696
+.062
+.125
+.8750-20
+.231
+.568
+.696
+.979
+.191
+14
+1.188
+1.375
+.875
+.942
+.125
+.696
+.062
+.125
+1.0000-20
+.231
+.568
+.696
+1.104
+.191
+16
+1.312
+1.500
+1.000
+1.066
+.125
+.696
+.062
+.125
+1.1250-18
+.231
+.568
+.696
+1.229
+.191
+18
+1.438
+1.625
+1.125
+1.191
+.125
+.696
+.062
+.125
+1.2500-18
+.231
+.568
+.696
+1.354
+.191
+20
+1.562
+1.812
+1.250
+1.316
+.156
+.884
+.062
+.250
+1.3750-18
+.261
+.630
+.884
+1.510
+.221
+22
+1.688
+1.938
+1.375
+1.441
+.156
+.884
+.062
+.250
+1.5000-18
+.261
+.630
+.884
+1.635
+.221
+24
+1.816
+2.062
+1.500
+1.566
+.156
+.917
+.062
+.250
+1.6250-18
+.228
+.660
+.917
+1.760
+.188
+Shell
+Size
+Class “A” (SR), “P” (SR), MS / “F”
+Class “E” (SR)
+Class “P”, MS / “P”
+C
+Thread
+D
+Max.
+G
+H
+L
+M
+C
+Thread
+D
+Max.
+G
+H
+L
+M
+D
+Max.
+L +.010
+–.026
+M
+N
+Z
+6
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+.202
+.593
+.696
+.484
+.191
+8
+6-32
+.250
+.125
+.781
+1.062
+.696
+6-32
+.250
+.125
+.775
+1.029
+.696
+.327
+.593
+.696
+.608
+.191
+10
+6-32
+.312
+.188
+.844
+1.062
+.696
+6-32
+.312
+.188
+.837
+1.029
+.696
+.444
+.593
+.696
+.734
+.191
+12
+6-32
+.438
+.312
+.969
+1.062
+.696
+6-32
+.438
+.312
+.963
+1.029
+.696
+.558
+.593
+.696
+.858
+.191
+14
+6-32
+.562
+.375
+1.094
+1.062
+.696
+6-32
+.562
+.375
+1.087
+1.029
+.696
+.683
+.593
+.696
+.984
+.191
+16
+6-32
+.625
+.500
+1.156
+1.188
+.696
+6-32
+.625
+.500
+1.150
+1.161
+.696
+.808
+.593
+.696
+1.110
+.191
+18
+8-32
+.750
+.625
+1.406
+1.188
+.696
+8-32
+.750
+.625
+1.400
+1.161
+.696
+.909
+.593
+.696
+1.234
+.191
+20
+8-32
+.750
+.625
+1.406
+1.250
+.884
+8-32
+.750
+.625
+1.400
+1.224
+.884
+1.034
+.718
+.884
+1.360
+.221
+22
+8-32
+.938
+.750
+1.594
+1.250
+.884
+8-32
+.938
+.750
+1.587
+1.224
+.884
+1.159
+.718
+.884
+1.484
+.221
+24*
+8-32
+1.000
+.800
+1.594
+1.250
+.917
+8-32
+1.000
+.800
+1.681
+1.320
+.917
+1.284
+.718
+.917
+1.610
+.188
+* Size 24 strain relief available in PT only. 
+All dimensions for reference only.
+18
+
+PT08 E
+SP08 E
+90 degree plug
+G
+TERMINATION ASSEMBLIES
+“E” Open Wire Seal, “E” (SR) Strain Relief
+“P” Potting Boot 75 degrees
+L
+L
+E
+A
+B
+H
+PT08P-XX-XXX
+SP08P-XX-XXX
+D
+K
+PT08E-XX-XXX
+SP08E-XX-XXX
+PT08E-XX-XXX (SR)
+SP08E-XX-XXX (SR)
+C
+To complete part number see how to order on page 27.
+All lockwire holes are .044 Dia. Min.
+Plug Front View
+Plug Side View
+Class “E”, “E” (SR)
+Class “P”
+Shell
+Size
+G
+Dia. 
+Max.
+B
+±.031
+C
++.010
+–.025
+D
+±.062
+E
++.047
+–.025
+L
+±.057
+A
+±.025
+H
+±.015
+K
+±.015
+L
+Max.
+8
+.796
+.655
+.169
+.941
+.339
+1.786
+.469
+.312
+.438
+1.656
+10
+.921
+.749
+.170
+1.191
+.393
+1.880
+.547
+.438
+.562
+1.781
+12
+1.046
+.812
+.264
+1.191
+.450
+1.965
+.625
+.516
+.688
+1.843
+14
+1.171
+.905
+.310
+1.254
+.519
+2.113
+.734
+.625
+.781
+1.953
+16
+1.297
+1.030
+.330
+1.316
+.583
+2.315
+.750
+.656
+.890
+2.000
+18
+1.422
+1.015
+.444
+1.562
+.621
+2.423
+.781
+.703
+1.000
+2.046
+20
+1.562
+1.077
+.510
+1.625
+.683
+2.695
+.859
+.766
+1.125
+2.218
+22
+1.672
+1.139
+.515
+1.719
+.739
+2.742
+.906
+.812
+1.234
+2.265
+24
+1.797
+1.265
+.656
+1.751
+.797
+2.980
+1.169
+.918
+1.374
+2.624
+All dimensions for reference only.
+19
+
+PT Connectors with
+Printed Circuit Board Contacts
+S
+4 HOLES 
+L
+M
+.030 ± .001
+.120 ± .005 Dia.
+(.147 ± .005 Dia.,  size 24)
+R
+(TP)
+Box Mounting Receptacle (PT02)
+with PCB Contacts
+S
+A
+N
+R
+(TP)
+Order by applicable part number in chart below;
+add insert arrangement number. Refer to insert availability
+on pages 4-11.
+■ (MMC) located within .0025 of (TP)
+K
+Z
+Receptacle Front View
+Receptacle Side View
+Shell
+Size
+Part Number*
+PT02 with PCB 
+Contacts
+R
+(TP)
+S
++.011
+–.010
+A
++.001
+–.005
+K
++.021
+–.010
+L
+Max.
+M
++.010
+–.000
+N
+Dia.
+Max.
+Z
++.040
+–.050
+6
+71-570120-XXX
+.469
+.688
+.348
+.493
+.825
+.431
+.323
+.380
+8
+71-570121-XXX
+.594
+.812
+.473
+.493
+.825
+.431
+.449
+.380
+10
+71-570122-XXX
+.719
+.938
+.590
+.493
+.825
+.431
+.573
+.380
+12
+71-570123-XXX
+.812
+1.031
+.750
+.493
+.825
+.431
+.699
+.380
+14
+71-570124-XXX
+.906
+1.125
+.875
+.493
+.825
+.431
+.823
+.380
+16
+71-570125-XXX
+.969
+1.219
+1.000
+.493
+.825
+.431
+.949
+.380
+18
+71-570126-XXX
+1.062
+1.312
+1.125
+.493
+.825
+.431
+1.073
+.380
+20
+71-570127-XXX
+1.156
+1.438
+1.250
+.650
+1.076
+.556
+1.199
+.286
+22
+71-570128-XXX
+1.250
+1.562
+1.375
+.650
+1.076
+.556
+1.323
+.286
+24
+71-570129-XXX
+1.375
+1.688
+1.500
+.683
+1.109
+.589
+1.449
+.253
+All dimensions for reference only.
+M
+Z
+S
+H
+Jam Nut Receptacle (PT07)
+with PCB Contacts
+S
+J
+A
+.030 ± .001
+All lockwire holes are .044 Dia. Min.
+Order by applicable part number in chart below;
+add insert arrangement number. Refer to insert availability
+on pages 4-11.
+R
+P
+K
+Receptacle Front 
+View
+Receptacle Side View
+Shell
+Size
+Part Number*
+PT07 with PCB
+Contacts
+H
++.017
+–.016
+S
+±.010
+A Dia.
++.001
+–.005
+J Flat
++.000
+–.010
+K
++.011
+–.010
+M
+±.010
+Z
++.025
+–.035
+Min.
+Max.
+P Panel 
+Thickness
+R
+Thread
+Class 2A
+6
+71-533720-XXX
+.625
+.812
+.348
+.405
+.125
+.696
+.062
+.125
+.4375-28 UNEF
+.376
+8
+71-533721-XXX
+.750
+.938
+.473
+.530
+.125
+.696
+.062
+.125
+.5625-24 UNEF
+.376
+10
+71-533722-XXX
+.875
+1.062
+.590
+.655
+.125
+.696
+.062
+.125
+.6875-24 UNEF
+.376
+12
+71-533723-XXX
+1.062
+1.250
+.750
+.818
+.125
+.696
+.062
+.125
+.8750-20 UNEF
+.376
+14
+71-533724-XXX
+1.188
+1.375
+.875
+.942
+.125
+.696
+.062
+.125
+1.0000-20 UNEF
+.376
+16
+71-533725-XXX
+1.312
+1.500
+1.000
+1.066
+.125
+.696
+.062
+.125
+1.1250-18 UNEF
+.376
+18
+71-533726-XXX
+1.438
+1.625
+1.125
+1.191
+.125
+.696
+.062
+.125
+1.2500-18 UNEF
+.376
+20
+71-533727-XXX
+1.562
+1.812
+1.250
+1.316
+.156
+.884
+.062
+.250
+1.3750-18 UNEF
+.367
+22
+71-533728-XXX
+1.688
+1.938
+1.375
+1.441
+.156
+.884
+.062
+.250
+1.5000-18 UNEF
+.367
+24
+71-533729-XXX
+1.816
+2.062
+1.500
+1.566
+.156
+.917
+.062
+.250
+1.6250-18 UNEF
+.334
+All dimensions for reference only.
+* For RoHS compliance connectors with PCB contacts change “71”- to:
+“58” designates conductive black zinc cobalt plating
+“93” designates non-conductive black zinc cobalt plating
+20
+
+PTB
+SPB
+thru bulkhead receptacle
+S
+L
+M
+P
+R
+(TP)
+PTB
+.120 ± .005 Dia.
+(.147 ± .005 Dia., size 24)
+SPB
+.150 ± .005 Dia.
+4 Holes
+S
+A
+A
+R
+(TP)
+K
+* PTB-XX-XXX
+* SPB-XX-XXX
+* To complete part number add desired arrangement number (refer to pages 4 and 5 for insert availability) and add “PS”;
+Example: PTB-18-32PS. If a rotation is required, use PTB-18-32PS and add W, X, Y or Z. Example: PTB-18-32 PSW.
+The socket end of the insert always appears at the “P” dimension end of shell.
+■ (MMC) located within .0025 of (TP)
+Receptacle Front View
+Receptacle Side View
+P
+Max.
+Shell
+Size
+R
+(TP)
+S
+A
++.001
+–.005
+K
++.016
+–.000
+L
+±.005
+PTB
+SPB
+PTB
+SPB
+PTB
+SPB
+M
++.010
+–.000
+6
+.469
+.641
+.688
+.953
+.348
+.625
+1.050
+.562
+.125
+.188
+8
+.594
+.734
+.812
+1.047
+.473
+.625
+1.050
+.562
+.125
+.188
+10
+.719
+.812
+.938
+1.125
+.590
+.625
+1.050
+.562
+.125
+.188
+12
+.812
+.938
+1.031
+1.250
+.750
+.625
+1.050
+.562
+.125
+.188
+14
+.906
+1.031
+1.125
+1.344
+.875
+.625
+1.050
+.562
+.125
+.188
+16
+.969
+1.125
+1.219
+1.438
+1.000
+.625
+1.050
+.562
+.125
+.188
+18
+1.062
+1.203
+1.312
+1.516
+1.125
+.625
+1.050
+.562
+.125
+.188
+20
+1.156
+1.297
+1.438
+1.672
+1.250
+.781
+1.330
+.688
+.125
+.312
+22
+1.250
+1.375
+1.562
+1.750
+1.375
+.781
+1.330
+.688
+.125
+.312
+24
+1.375
+1.500
+1.688
+1.875
+1.500
+.781
+1.330
+.688
+.125
+.312
+All dimensions for reference only.
+21
+
+PT
+hermetic
+Three shell styles are available in the hermetic PT bayonet 
+series:
+•
+PTIH (MS3113H)
+•
+PT02H
+•
+PT07H (MS3114H)
+solder
+mounting 
+receptacle
+These hermetic connectors are only available with solder cup or 
+flat eyelet pin contacts in the MS/PT version. Socket contacts 
+are available in some proprietary PT versions. Other design 
+characteristics of the PT hermetic connector series are as fol-
+lows:
+Shell sizes: 8 through 24 (tin plated)
+Contact count:
+2 through 61. Refer to pages 4 and 5 for insert
+availability for hermetics.
+Current:
+5.0 amp each #20 contact
+10 amp each #16 contact
+17 amp each #12 contact
+Contacts are tin plated for PT; gold is optional
+Dielectric Withstanding Voltage (sea level):
+1500 volts (RMS) 60 cps, Service Rating I
+2300 volts (RMS) 60 cps, Service Rating II
+Compression glass inserts, permanently lettered
+Helium Leakage: Less than 1.0 X 10-6 cc/sec.
+at 15 psi differential
+Physical Shock:
+100 G’s
+Vibration:
+Exceeds MIL-E-5272 Procedure II
+box
+mounting 
+receptacle
+Thermal Shock:
+No deterioration or failure after 5 cycles
+at –55°F to +257°F
+Intermateability:
+Mates with MS3116 and PT06
+Refer to pages 4-11 for insert arrangement availability.
+jam nut 
+receptacle
+22
+
+PTIH (MS3113H)
+hermetic solder mounting receptacle
+W
+L
+G
+A
+N
+Z
+.031 +.006
+–.005
+*
+PTIH-XX-XXX
+**
+PTIY-XX-XXX
+**
+MS3113H-XXCXXX
+†
+PTIH-XX-XXX (100)
+†† PTIY-XX-XXX (100)
+†† MS3113H-XXYXXX
+To complete part number see how to order on page 27.
+*
+Solder cup pin contacts without interfacial seal
+** Solder cup pin contacts with interfacial seal
+† Flat eyelet pin contacts without interfacial seal
+†† Flat eyelet pin contacts with interfacial seal
+Recept.
+Front View
+Receptacle
+Side View
+W
++.011
+–.010
+Z
+Max.
+N Dia.
++.001
+–.005
+L
++.025
+–.016
+A Dia.
++.001
+–.005
+G
+Dia.
+Max.
+Shell
+Size
+6
+.511
+.348
+.447
+.438
+.094
+.386
+8
+.636
+.473
+.447
+.562
+.094
+.386
+10
+.761
+.590
+.447
+.672
+.094
+.386
+12
+.855
+.750
+.447
+.781
+.094
+.386
+14
+.980
+.875
+.447
+.906
+.094
+.386
+16
+1.105
+1.000
+.447
+1.031
+.094
+.386
+18
+1.229
+1.125
+.447
+1.156
+.094
+.386
+20
+1.323
+1.250
+.509
+1.250
+.094
+.386
+22
+1.449
+1.375
+.509
+1.375
+.125
+.418
+24
+1.574
+1.500
+.542
+1.500
+.125
+.418
+All dimensions for reference only.
+23
+
+PT02H
+hermetic box mounting receptacle
+S
+W
+L
+PT
+.120 ± .005 Dia.
+(.147 ± .005 Dia., size 24)
+R
+(TP)
+SP
+.150 ± .005 Dia. 
+4 Holes
+S
+A
+N
+R
+(TP)
+Z
+U
+*
+PT02H-XX-XXX
+**
+PT02Y-XX-XXX
+†
+PT02H-XX-XXX (100)
+†† PT02Y-XX-XXX (100)
+To complete part number see how to order on page 27.
+*
+Solder cup pin contacts without interfacial seal
+** Solder cup pin contacts with interfacial seal
+† Flat eyelet pin contacts without interfacial seal
+†† Flat eyelet pin contacts with interfacial seal
+■ (MMC) located within .0025 of (TP)
+Receptacle Front View
+Receptacle Side View
+U
++.011
+–.010
+Z
+Max.
+N Dia.
++.001
+–.005
+L
++.025
+–.015
+A Dia.
++.001
+–.005
+K
+±.015
+R
+(TP)
+S
+±.016
+Shell
+Size
+6
+.469
+.688
+.348
+.047
+.494
+.438
+.062
+.344
+8
+.594
+.812
+.473
+.047
+.494
+.562
+.062
+.344
+10
+.719
+.938
+.590
+.047
+.494
+.672
+.062
+.344
+12
+.812
+1.031
+.750
+.047
+.494
+.781
+.062
+.344
+14
+.906
+1.125
+.875
+.047
+.494
+.906
+.062
+.344
+16
+.969
+1.219
+1.000
+.047
+.494
+1.031
+.062
+.344
+18
+1.062
+1.312
+1.125
+.047
+.494
+1.156
+.062
+.344
+20
+1.156
+1.438
+1.250
+.047
+.556
+1.250
+.062
+.344
+22
+1.250
+1.562
+1.375
+.079
+.556
+1.375
+.062
+.377
+24
+1.375
+1.688
+1.500
+.079
+.588
+1.500
+.062
+.377
+All dimensions for reference only.
+24
+
+PT07H (MS3114H)
+hermetic jam nut receptacle
+M
+Z
+S
+H
+S
+A
+R
+P
+K
+*
+PT07H-XX-XXX
+**
+PT07Y-XX-XXX
+**
+MS3114H-XXCXXX
+†
+PT07H-XX-XXX (100)
+†† PT07Y-XX-XXX (100)
+†† MS3114H-XXYXXX
+To complete part number see how to order on page 27.
+*
+Solder cup pin contacts without interfacial seal
+** Solder cup pin contacts with interfacial seal
+† Flat eyelet pin contacts without interfacial seal
+†† Flat eyelet pin contacts with interfacial seal
+Receptacle Front 
+View
+Receptacle Side View
+Shell
+Size
+P Panel Thickness
+R
+Thread
+Class 2A
+Z
+Max.
+Max.
+Min.
+M
++.031
+–.000
+K
++.043
+–.016
+A
++.001
+–.005
+H Hex
++.017
+–.016
+S
++.016
+6
+.812
+.625
+.348
+.094
+.696
+.125
+.062
+.4375-28 UNEF
+.206
+8
+.938
+.750
+.473
+.094
+.696
+.125
+.062
+.5625-24 NEF
+.206
+10
+1.062
+.875
+.590
+.094
+.696
+.125
+.062
+.6875-24 NEF
+.206
+12
+1.250
+1.062
+.750
+.094
+.696
+.125
+.062
+.8750-20 UNEF
+.206
+14
+1.375
+1.188
+.875
+.094
+.696
+.125
+.062
+1.0000-20 UNEF
+.206
+16
+1.500
+1.312
+1.000
+.094
+.696
+.125
+.062
+1.1250-18 NEF
+.206
+18
+1.625
+1.438
+1.125
+.094
+.696
+.125
+.062
+1.2500-18 NEF
+.206
+20
+1.812
+1.562
+1.250
+.125
+.884
+.250
+.062
+1.3750-18 NEF
+.081
+22
+1.938
+1.688
+1.375
+.125
+.884
+.250
+.062
+1.5000-18 NEF
+.081
+24
+2.062
+1.812
+1.500
+.125
+.917
+.250
+.062
+1.6250-18 NEF
+.048
+All dimensions for reference only.
+25
+
+PT Breakaway
+twist pull plug
+4.500
+±.250
+L
+J
+.016
++.010
+–.025
+SOCKET INSERT
+.328
++.010
+–.025
+PIN INSERT
+H
+B
+The PT miniature breakaway connector has the follow-
+ing design features:
+• solder contacts, potted termination
+• instant decoupling of plug and receptacle with an 
+axial pull on the lanyard when they are fully mated
+• intermateable with standard receptacles
+• operating voltage to 900 VAC (RMS) at sea level
+• same quick positive bayonet coupling and 5 key/
+keyway polarization as other PT styles
+A
+LANYARD PULLED TAUT
+AGAINST A .200 ±.031 DIA MANDREL
+Breakaway Plug
+with PT Solder Contacts,
+Potted Termination
+71-3048XX-(
+)
+72-3048XX-(
+)
+Part
+Number*
+Shell 
+Size
+A Dia. 
+Max.
+B
+Max.
+H
+±.016
+J
+±.010
+L
+Max.
+71-304808
+8
+.875
+.984
+.327
+.353
+1.937
+71-304810
+10
+1.125
+1.125
+.444
+.353
+1.890
+71-304812
+12
+1.281
+1.406
+.558
+.353
+1.906
+71-304814
+14
+1.438
+1.562
+.683
+.353
+1.953
+71-304816
+16
+1.562
+1.688
+.808
+.353
+2.000
+71-304818
+18
+1.718
+1.844
+.909
+.353
+2.031
+71-304820
+20
+1.875
+2.000
+1.034
+.415
+2.234
+71-304822
+22
+2.031
+2.188
+1.159
+.415
+2.328
+71-304824
+24
+2.156
+2.312
+1.284
+.415
+2.359
+All dimensions for reference only.
+* See Finish information below to determine prefix 71 or 72 in part number.
+Drawing above shows standard lanyard length.
+Order by Amphenol Propriety number as follows (example part number shown):
+71 -
+3048
+18
+-
+32
+P
+1
+2
+3
+4
+1. Finish
+“71”designates corrosion resistant olive drab cadmium plate
+“72” designates anodic coated (electrically nonconductive-anodic) finish providing extreme wear and
+corrosion resistance, 500 hour extended salt spray.
+2. Connector Type Identification
+3048 designates PT plug, solder, potted termination style
+3. Shell Size and Insert Arrangement Number
+See insert arrangement availability for Miniature Breakaway connectors on page 6. The numbers in the insert 
+arrangement are hyphenated. The number preceding the hyphen is the shell size. The number following the hyphen is 
+the insert arrangement number.
+Pin Contacts
+Socket Contacts
+Amphenol 
+Letter
+Equates to 
+MS letter
+Amphenol 
+Letter
+Equates to 
+MS letter
+G
+PW
+H
+SW
+I
+PX
+J
+SX
+K
+PY
+L
+SY
+M
+PZ
+N
+SZ
+4. Contact Type/Alternate Insert Rotation
+P designates pin, S designates socket for normal 
+positioning of inserts. When an alternate position 
+of the insert is required to prevent cross-mating
+a different letter (other than P or S) is used. See 
+page 7 for description of alternate positions; then 
+convert to Amphenol proprietary coding by the 
+chart at right to complete the part number.
+26
+
+PT, SP, MS/PT
+how to order
+PT, SP
+MS/PT
+MIL-C-26482, Series 1
+To more easily illustrate ordering procedure, part number PT00A-20-41PW(SR) is 
+shown as follows:
+PT
+00
+A
+- 20 - 41
+P
+W
+(SR)
+Part number MS3110E20-41PW is shown as follows:
+MS
+311
+0
+E
+20 -
+41
+P
+W
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+For Hermetic connectors part number 
+MS3113H20Y41PW is shown as follows:
+MS
+311
+3
+H
+20 Y 41
+P
+W
+1
+2
+3
+4
+5, 6
+7
+8
+HOW TO ORDER
+PT, SP, MS/PT
+See code below:
+1. “MS” designates Military Standard
+2. Specification Number
+“311” designates basic family number for MIL-C-
+26482, Series 1 solder type
+3. Shell Style
+“0” designates wall mounting receptacle
+“1” designates cable connecting receptacle**
+“2” designates box mounting receptacle
+“3” designates solder mount receptacle (hermetic 
+only)
+“4” designates jam nut receptacle
+“6” designates straight plug
+4. Service Class
+“E” designates environmental resisting connector
+“F” designates environmental resisting connectors 
+with strain relief
+“J” designates clamp assembly for moisture proofing 
+multi-jacketed cables, with strain relief
+“P” designates potted type with potting boot
+“H” designates hermetic
+5. Shell Size
+“20” designates shell size. Shell sizes 8 through 24 
+available.
+6. Insert Arrangement - Refer to pages 4-11 for insert 
+availability.
+“20 - 41” designates arrangement. (The number fol-
+lowing the hyphen is the number only that is used in 
+the part number).
+Hermetic version
+“20Y41” designates insert arrangement; specify “Y” 
+for flat eyelet pin contacts, or “C” for solder cup pin 
+contacts
+7. Contact Configuration
+“P” designates pin contacts
+“S” designates socket contacts
+8. Insert Rotation- Refer to page 7.
+“W”, “X”, “Y”, “Z” designate that insert is rotated in it 
+shell from “normal” position. No letter require fo nor-
+mal (no rotation) position.
+*
+Hermetic connectors are supplied with tin plated shells.
+h
+p
+e
+n
+m
+o
+A
+l
+** This connector style is sometimes referred to as a cable connect-
+ing “plug”. It does, however, mate with either a straight or 90 
+degree plug.
+S
+H
+o
+R
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+For ordering Miniature Breakaway PT Solder connec-
+tors see pg. 26.
+See code below:
+1. Connector Type
+“PT”
+designates standard olive drab, electrically conductive cadmium plate 
+bayonet lock connector with solder contacts
+“SP”
+designates electrically non-conductive, hard anodic coated bayonet lock
+connector with solder contacts and larger flange and mounting holes for
+back panel mounting
+“PTG” designates plug with grounding fingers
+2. Shell Style
+“00”
+designates wall mounting receptacle
+“01”
+designates cable connecting receptacle**
+“02”
+designates box mounting receptacle
+“06”
+designates straight plug
+“07”
+designates jam nut receptacle
+“08”
+designates 90 degree plug cable support
+“B”
+designates thru bulkhead receptacle (pressurized)
+“I”
+designates solder mount receptacle (Hermetic only)
+3. Service Classes
+“A”
+designates general duty back shell
+“C”
+designates pressurized receptacle
+“E”
+designates environmental resisting open wire seal with grommet and nut
+“J”
+designates clamp assembly for moisture proofing multi-jacketed cables,
+with strain relief
+“P”
+designates assembly with potting boot
+W”
+designates clamp assembly for moisture proofing multi-jacketed cables
+“H”
+designates hermetic* without interfacial seal
+“Y”
+designates hermetic* with interfacial seal
+4. Shell Size
+“20” designates shell size. Shell sizes 6 through 24 available.
+5. Insert Arrangement - Refer to pages 4-11 for insert availability.
+“20 - 41” designates insert arrangement. (The number following the hyphen is
+the number only that is used in the part number).
+6. Contacts
+“P” designates pin contacts
+“S” designates socket contacts
+For ordering connectors with printed circuit board contacts, see pg. 20.
+7. Insert Rotation - Refer to page 7.
+“W”, “X”, “Y”, “Z” designate that insert is rotated in its shell from “normal position. 
+No letter required for normal (no rotation) position.
+8. “SR” designates a strain relief clamp.
+Indicate optional finishes as follows:
+(003)
+olive drab cadmium plate (standard on “PT”)
+(005)
+anodic coating - Alumilite® (standard on “SP”)
+(014)
+olive drab cadmium plate over nickel
+(023)
+electroless nickel
+(024)
+olive drab zinc cobalt plating
+(424)
+electroless nickel finish with strain relief
+(466)
+olive drab zinc cobalt plating with strain relief
+(100)
+Suffix added for flat eyelet pin contacts in hermetic versions
+OR
+RoHS Compliant finish suffix as follow:
+(025)
+non-conductive black zinc cobalt plating
+(027)
+conductive black zinc cobalt plating
+(470)
+non-conductive black zinc cobalt plating
+with strain relief
+27
+(476)
+conductive black zinc cobalt plating with strain relief
+
+®
+Amphenol PT-SE, SP-SE, MS/PT-SE
+Proprietary/MIL-C-26482, Series 1
+bayonet coupling and crimp termination
+Amphenol® SE crimp type miniature connectors provide 
+performance and versatility needed for applications 
+demanding high reliability and crimp removable contacts. 
+These crimp contacts are rear insertable/front release and 
+are held in position by an MS approved spring tower reten-
+tion system.
+wall mounting 
+receptacle
+cable
+connecting 
+receptacle*
+box mounting 
+receptacle
+straight plug
+The MS/PT-SE Series is qualified to MIL-C-26482, Series 1 and 
+has all the outstanding design characteristics and quality of the 
+PT Series.
+The SP-SE Series is a modification of the PT-SE, providing 
+special shells with a wide mounting flange for back panel 
+mounting.
+A corrosion resistant electrically conductive finish of cadmium 
+plate with an olive drab chromate after-treatment is used on the 
+PT-SE and MS/PT-SE. The SP-SE is given a durable non-con-
+ductive hard anodic “Alumilite”® coating which provides abra-
+sion protection and resistance to corrosion.
+Shell components for these series are aluminum. The depend-
+able 5 key/keyway polarization with bayonet lock coupling 
+assures positive mating with no chance of cross plugging. 
+Spring tension provided by a wave washer in the coupling nut 
+ensures maintenance of interfacial seal between mating halves.
+Both the insert and main joint gasket are molded from resilient 
+neoprene. This provides excellent moisture sealing at the gas-
+ket and superior electrical isolation of the contact in the insert.
+Both pins and sockets are machined from a copper alloy and 
+are gold plated. This gold plating eliminates contact corrosion 
+and offers an indefinite shelf life. Socket contacts for these 
+series are a closed entry design.
+Breakaway style plug is available in PT-SE crimp. 
+The PT-SE, SP-SE and MS/PT-SE Series are intermateable 
+and intermountable with all existing Miniature Cylindrical Series 
+connectors except for the threaded coupling PC Series.
+jam nut
+receptacle
+Refer to pages 4-11 for insert arrangement availability.
+*
+This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+breakaway
+twist pull
+plug
+28
+
+PT-SE. SP-SE, MS/PT-SE
+Contact Specifications
+Contact
+Size
+Test
+Current
+Maximum
+Millivolt 
+Drop†
+Crimp Well 
+Diameter
+Minimum
+Well Depth
+20
+7.5
+55
+.049 ±.001
+.267
+16
+13.0
+49
+.067 ±.001
+.236
+12
+23.0
+42
+.100 ±.002
+.236
+Service Rating
+“SE”, 
+MS / “E”
+open wire seal
+Test Voltage AC (RMS), 60 cps
+Service
+Rating
+Recommended
+Operating
+AC Voltage
+at Sea Level
+Sea
+Level
+50,000
+ft.
+70,000
+ft.
+110,000
+ft.
+PT-SE, SP-SE, MS/PT-SE
+BAYONET COUPLING
+WITH CRIMP CONTACTS
+I
+600
+1,500
+500
+375
+200
+II
+1,000
+2,300
+750
+500
+200
+† Silver plated wire per MIL-C-26482
+PT-SE and SP-SE Service Classes
+PT-SE and SP-SE connectors are available in the
+three service classes listed below.
+“SE” (SR),
+MS / “F”
+strain relief 
+clamp
+“SE”
+Open wire sealing - environmental resistant,
+with a nut and grommet for moisture proof-
+ing individual wires
+“SE” (SR)Strain relief clamp - environmental resistant
+strain relief clamp and grommet for moisture
+proofing individual wires; provides added
+wire bundle support
+“SP”
+Translucent nylon boot for retaining cus-
+tomer applied potting compounds; held in
+place by a threaded ring
+Breakaway style - see page 38.
+MS/PT-SE Service Classes
+“SP”,
+MS / “P”
+potting boot
+MS-SE series connectors are available in the following
+certified service classes:
+“E”
+Open wire sealing - environmental resisting
+connectors are supplied with a multi-hole
+grommet and clamping nut for moisture
+proofing individual open wires
+“F”
+Environmental resistant strain relief clamp
+and grommet for moisture proofing individual
+wires; provides added wire bundle support
+“P”
+Potting applications - these connectors are
+supplied with a translucent nylon boot for
+retention of customer applied potting com-
+pound
+29
+
+PT00 SE (MS3120)
+SP00 SE
+wall mounting receptacle
+S
+T Dia.
+4 Holes
+R
+(TP)
+S
+R
+(TP)
+TERMINATION ASSEMBLIES
+“SE” Open Wire Seal
+“SE” (SR), MS / “F” Strain Relief
+“SP” Potting Boot
+L
+L
+L
+K
+M
+A
+N
+A
+D
+N
+A
+G
+N
+M
+K
+K
+M
+PT00SP-XX-XXX
+SP00SP-XX-XXX
+PT00SE-XX-XXX
+SP00SE-XX-XXX
+MS3120E-XX-XXX
+PT00SE-XX-XXX (SR)
+SP00SE-XX-XXX (SR)
+MS3120F-XX-XXX
+To complete part number see how to order on page 39.
+■ (MMC) located within .005 of (TP)
+Receptacle Front View
+Receptacle Side View
+R
+(TP)
+S
+Max.
+T Dia.
+± .005
+A Dia.
++.001
+–.005
+K
+±.016
+Shell
+Size
+M
++.010
+–.000
+P*
+Max. Panel Thickness
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+8
+.594
+–
+.828
+–
+.120
+–
+.473
+.062
+.431
+–
+.094
+–
+10
+.719
+.812
+.954
+1.141
+.120
+.150
+.590
+.062
+.431
+.462
+.094
+.125
+12
+.812
+.938
+1.047
+1.266
+.120
+.150
+.750
+.062
+.431
+.462
+.094
+.125
+14
+.906
+1.031
+1.141
+1.360
+.120
+.150
+.875
+.062
+.431
+.462
+.094
+.125
+16
+.969
+1.125
+1.234
+1.453
+.120
+.150
+1.000
+.062
+.431
+.462
+.094
+.125
+18
+1.062
+1.203
+1.328
+1.532
+.120
+.150
+1.125
+.062
+.431
+.462
+.094
+.125
+20
+1.156
+1.297
+1.453
+1.688
+.120
+.150
+1.250
+.094
+.556
+.556
+.219
+.219
+22
+1.250
+1.375
+1.578
+1.766
+.120
+.150
+1.375
+.094
+.556
+.556
+.219
+.219
+24
+1.375
+1.500
+1.703
+1.891
+.147
+.150
+1.500
+.094
+.589
+.589
+.219
+.219
+Shell
+Size
+Class “SE”, MS / “E”
+Class “SE” (SR), MS / “F”
+Class “SP”, MS / “P”
+L
+Max.
+N Dia.
+Max
+G
+Dia.
+L
+Max.
+N
+Max.
+D Dia.
+Max.
+L
+Max.
+N Dia.
+Max.
+8
+1.328
+.560
+.125
+2.422
+.781
+–
+–
+–
+10
+1.328
+.704
+.188
+2.422
+.844
+.444
+1.656
+.734
+12
+1.328
+.825
+.312
+2.422
+.969
+.558
+1.656
+.858
+14
+1.328
+.954
+.375
+2.422
+1.094
+.683
+1.656
+.984
+16
+1.328
+1.080
+.500
+2.537
+1.156
+.808
+1.656
+1.110
+18
+1.328
+1.204
+.625
+2.537
+1.406
+.909
+1.656
+1.234
+20
+1.359
+1.330
+.625
+2.824
+1.406
+1.034
+1.750
+1.360
+22
+1.359
+1.454
+.750
+2.824
+1.594
+1.159
+1.750
+1.484
+24
+1.422
+1.580
+.800
+2.900
+1.688
+1.284
+1.782
+1.610
+* Back panel mounting
+All dimensions for reference only.
+30
+
+MF00 SE (MS3128)
+wall mounting receptacle
+T¹ Dia.
+4 Holes
+S
+R¹
+(TP)
+R
+(TP)
+S
+R
+(TP) R¹
+(TP)
+T Dia.
+4 Holes
+TERMINATION ASSEMBLIES
+MS / “E” Open Wire Seal
+MS / “F” Strain Relief
+L
+K
+M
+L
+N
+A
+A
+G F N
+M
+K
+MF00SE-XX-XXX
+MS3128E-XX-XXX
+MF00SE-XX-XXX (SR)
+MS3128F-XX-XXX
+To complete part number see how to order on page 39.
+■ (MMC) located within .0025 of (TP)
+Receptacle Front View
+Receptacle Side View
+Class MS / “E”
+Class MS / “F”
+M
++.010
+–.000
+L
+Max.
+N
+Max.
+F
+Min.
+G
+Dia.
+L
+Max.
+N
+Max.
+A Dia.
++.001
+–.005
+K
+±.016
+R
+R1
+S
+Max.
+T Dia.
+±.005
+T1 Dia.
+±.005
+Shell
+Size
+10
+.719
+.812
+1.141
+.120
+.150
+.590
+.062
+.462
+1.328
+.685
+.297
+.188
+1.906
+.891
+12
+.812
+.938
+1.266
+.120
+.150
+.750
+.062
+.462
+1.328
+.813
+.422
+.312
+1.906
+1.016
+14
+.906
+1.031
+1.360
+.120
+.150
+.875
+.062
+.462
+1.328
+.930
+.547
+.375
+1.906
+1.141
+16
+.969
+1.125
+1.453
+.120
+.150
+1.000
+.062
+.462
+1.328
+1.057
+.609
+.500
+2.000
+1.203
+18
+1.062
+1.203
+1.532
+.120
+.150
+1.125
+.062
+.462
+1.328
+1.175
+.734
+.625
+2.000
+1.469
+20
+1.156
+1.297
+1.688
+.120
+.150
+1.250
+.094
+.556
+1.359
+1.301
+.734
+.625
+2.172
+1.469
+22
+1.250
+1.375
+1.766
+.120
+.150
+1.375
+.094
+.556
+1.359
+1.428
+.922
+.750
+2.172
+1.656
+24
+1.375
+1.500
+1.891
+.147
+.150
+1.500
+.094
+.589
+1.422
+1.533
+.984
+.800
+2.234
+1.750
+All dimensions for reference only.
+31
+
+PT01 SE (MS3121)
+SP01 SE
+cable connecting receptacle
+S
+S
+TERMINATION ASSEMBLIES
+“SE”, MS / “E” Open Wire Seal
+“SE” (SR), MS / “F” Strain Relief
+“SP”, MS / “P” Potting Boot
+L
+L
+L
+A
+A
+G
+N
+D N
+N
+A
+K
+K
+K
+PT01SE-XX-XXX
+SP01SE-XX-XXX
+MS3121E-XX-XXX
+PT01SE-XX-XXX (SR)
+SP01SE-XX-XXX (SR)
+MS3121F-XX-XXX
+PT01SP-XX-XXX
+SP01SP-XX-XXX
+MS3121P-XX-XXX
+Note: This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+To complete part number see how to order on page 39.
+Receptacle
+Front View
+Receptacle
+Side View
+Class “SE”, MS / “E”
+Class “SE” (SR), MS / “F”
+Class “SP”, MS / “P”
+N
+Dia.
+Max.
+N
+Dia.
+Max.
+G
+Dia.
+L
+Max.
+N
+Max.
+D
+Dia.
+L
+Max.
+A Dia.
++.001
+–.005
+K
+±.018
+L
+Max.
+Shell
+Size
+S
+Max.
+8
+.812
+.473
+.094
+1.522
+.560
+.125
+2.422
+.828
+–
+–
+–
+10
+.955
+.590
+.094
+1.522
+.685
+.188
+2.422
+.891
+.444
+1.656
+.734
+12
+1.048
+.750
+.094
+1.522
+.813
+.312
+2.422
+1.016
+.558
+1.656
+.858
+14
+1.142
+.875
+.094
+1.522
+.930
+.375
+2.422
+1.141
+.683
+1.656
+.984
+16
+1.236
+1.000
+.094
+1.522
+1.057
+.500
+2.537
+1.203
+.808
+1.656
+1.110
+18
+1.329
+1.125
+.094
+1.522
+1.175
+.625
+2.537
+1.469
+.909
+1.656
+1.234
+20
+1.455
+1.250
+.115
+1.709
+1.301
+.625
+2.824
+1.469
+1.034
+1.750
+1.360
+22
+1.579
+1.375
+.115
+1.709
+1.428
+.750
+2.824
+1.656
+1.159
+1.750
+1.484
+24
+1.709
+1.500
+.115
+1.709
+1.555
+.800
+2.900
+1.750
+1.284
+1.782
+1.610
+All dimensions for reference only.
+32
+
+PT02 SE (MS3122)
+SP02 SE
+box mounting receptacle
+S
+L
+R
+(TP)
+K
+M
+S
+A
+N
+R
+(TP)
+D
+T Dia.
+4 Holes 
+PT02SE-XX-XXX
+SP02SE-XX-XXX
+MS3122E-XX-XXX
+To complete part number see how to order on page 39.
+■ (MMC) located within .0025 of (TP)
+Receptacle Front View
+Receptacle Side View
+R
+S
+Max.
+T
+Dia.
+±.005
+M
++.010
+–.000
+Shell
+Size
+A
+Dia. 
++.001
+–.005
+D
+Max.
+K
+±.016
+L
+Max.
+N
+Dia.
++.011
+–.000
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+8
+.594
+–
+.828
+–
+.120
+–
+.473
+.312
+–
+.062
+1.296
+.431
+–
+.438
+10
+.719
+.812
+.954
+1.141
+.120
+.150
+.590
+.312
+.219
+.062
+1.296
+.431
+.462
+.562
+12
+.812
+.938
+1.047
+1.266
+.120
+.150
+.750
+.312
+.219
+.062
+1.296
+.431
+.462
+.688
+14
+.906
+1.031
+1.141
+1.360
+.120
+.150
+.875
+.312
+.219
+.062
+1.296
+.431
+.462
+.812
+16
+.969
+1.125
+1.234
+1.453
+.120
+.150
+1.000
+.312
+.219
+.062
+1.296
+.431
+.462
+.938
+18
+1.062
+1.203
+1.328
+1.532
+.120
+.150
+1.125
+.312
+.219
+.062
+1.296
+.431
+.462
+1.062
+20
+1.156
+1.297
+1.453
+1.688
+.120
+.150
+1.250
+.406
+.344
+.094
+1.358
+.556
+.556
+1.188
+22
+1.250
+1.375
+1.578
+1.766
+.120
+.150
+1.375
+.406
+.344
+.094
+1.358
+.556
+.556
+1.312
+24
+1.375
+1.500
+1.703
+1.891
+.147
+.150
+1.500
+.406
+.344
+.094
+1.358
+.589
+.589
+1.438
+All dimensions for reference only.
+33
+
+MF02 SE (MS3127)
+box mounting receptacle
+T¹ Dia.
+4 Holes
+S
+L
+R¹
+(TP)
+K
+M
+R
+(TP)
+A
+N
+S
+R
+(TP) R¹
+(TP)
+D
+T Dia.
+4 Holes
+MF02SE-XX-XXX
+MS3127E-XX-XXX
+To complete part number see how to order on page 39.
+■ (MMC) located within .0025 of (TP)
+Receptacle Front View
+Receptacle Side View
+M
++.010
+–.000
+A
+Dia.
++.001
+–.005
+D
+Max.
+K
+±.016
+L
+Max.
+±.005
+N
+Dia.
++.011
+–.000
+R
+R1
+S
+Max.
+T
+±.005
+T1
+Shell
+Size
+10
+.562
+.719
+.812
+1.141
+.120
+.150
+.590
+.219
+.062
+1.266
+.462
+12
+.688
+.812
+.938
+1.266
+.120
+.150
+.750
+.219
+.062
+1.266
+.462
+14
+.812
+.906
+1.031
+1.360
+.120
+.150
+.875
+.219
+.062
+1.266
+.462
+16
+.938
+.969
+1.125
+1.453
+.120
+.150
+1.000
+.219
+.062
+1.266
+.462
+18
+1.062
+1.062
+1.203
+1.532
+.120
+.150
+1.125
+.219
+.062
+1.266
+.462
+20
+1.188
+1.156
+1.297
+1.688
+.120
+.150
+1.250
+.344
+.094
+1.328
+.556
+22
+1.312
+1.250
+1.375
+1.766
+.120
+.150
+1.375
+.344
+.094
+1.328
+.556
+24
+1.438
+1.375
+1.500
+1.891
+.147
+.150
+1.500
+.344
+.094
+1.328
+.589
+All dimensions for reference only.
+34
+
+PT06 SE (MS3126)
+SP06 SE
+straight plug
+S
+TERMINATION ASSEMBLIES
+“SE”, MS / “E” Open Wire Seal
+“SE” (SR), MS / “F” Strain Relief
+“SP”, MS / “P” Potting Boot
+L
+L
+L
+N
+N
+G
+N
+D
+Z pin contacts
+Z¹ socket contacts
+Z pin contacts
+Z¹ socket contacts
+Z pin contacts
+Z¹ socket contacts
+PT06SE-XX-XXX
+SP06SE-XX-XXX
+PTG06SE-XX-XXX
+MS3126E-XX-XXX
+PT06SE-XX-XXX (SR)
+SP06SE-XX-XXX (SR)
+PTG06SE-XX-XXX (SR)
+MS3126F-XX-XXX
+PT06SP-XX-XXX
+SP06SP-XX-XXX
+PTG06SP-XX-XXX
+MS3126P-XX-XXX
+To complete part number see how to order on page 39.
+Plug
+Front View
+Plug
+Side View
+Class “SE”, MS / “E”
+Class “SE” (SR), MS / “F”
+Class “SP”, MS / “P”
+±.045
+L
+Max.
+N
+Max.
+G
+Dia.
+L
+Max.
+N
+Max.
+D
+Dia.
+L
+Max.
+N Dia.
+Max.
+Shell
+Size
+S Dia.
+Max.
+Z
+±.045
+Z1
+8*
+.734
+.640
+.579
+1.328
+.540
+.125
+2.413
+.828
+.327
+1.750
+.578
+10
+.859
+.640
+.579
+1.328
+.685
+.188
+2.413
+.891
+.444
+1.750
+.734
+12
+1.031
+.640
+.579
+1.328
+.813
+.312
+2.413
+1.016
+.558
+1.750
+.858
+14
+1.156
+.640
+.579
+1.328
+.930
+.375
+2.413
+1.141
+.683
+1.750
+.984
+16
+1.281
+.640
+.579
+1.328
+1.057
+.500
+2.528
+1.203
+.808
+1.750
+1.110
+18
+1.391
+.640
+.579
+1.328
+1.175
+.625
+2.528
+1.469
+.909
+1.750
+1.234
+20
+1.531
+.640
+.579
+1.297
+1.301
+.625
+2.753
+1.469
+1.034
+1.750
+1.360
+22
+1.656
+.640
+.579
+1.297
+1.428
+.750
+2.753
+1.656
+1.159
+1.750
+1.484
+24
+1.777
+.640
+.579
+1.359
+1.533
+.800
+2.830
+1.750
+1.284
+1.766
+1.610
+* PT-SE, MS-SE and MS-SP only.
+All dimensions for reference only.
+35
+
+PT07 SE (MS3124)
+SP07 SE
+jam nut receptacle
+S
+H
+S
+TERMINATION ASSEMBLIES
+“SE”, MS / “E” Open Wire Seal
+“SE” (SR), MS / “F” Strain Relief
+“SP”, MS / “P” Potting Boot
+L
+L
+M
+L
+M
+M
+K
+K
+K
+R
+J
+N
+A
+J
+F N
+A
+J
+G N
+A
+R
+P
+P
+R
+P
+PT07SE-XX-XXX
+SP07SE-XX-XXX
+MS3124E-XX-XXX
+PT07SE-XX-XXX (SR)
+SP07SE-XX-XXX (SR)
+MS3124F-XX-XXX
+PT07SP-XX-XXX
+SP07SP-XX-XXX
+MS3124P-XX-XXX
+To complete part number see how to order on page 39.
+All lockwire holes are .044 Dia. Min.
+Receptacle Front 
+View
+Receptacle Side View
+Shell
+Size
+H Hex
+Max.
+S
+Max.
+A Dia.
++.001
+–.005
+J Flat
++.000
+–.010
+K
++.011
+–.010
+M
+±.005
+P
+Panel Thickness
+R
+Thread
+Class 2A
+Min.
+Max.
+8
+.767
+.954
+.473
+.530
+.125
+.696
+.062
+.125
+.5625-24 UNEF
+10
+.892
+1.078
+.590
+.655
+.125
+.696
+.062
+.125
+.6875-24 NEF
+12
+1.079
+1.266
+.750
+.818
+.125
+.696
+.062
+.125
+.8750-20 UNEF
+14
+1.205
+1.391
+.875
+.942
+.125
+.696
+.062
+.125
+1.0000-20 UNEF
+16
+1.329
+1.516
+1.000
+1.066
+.125
+.696
+.062
+.125
+1.1250-18 NEF
+18
+1.455
+1.641
+1.125
+1.191
+.125
+.696
+.062
+.125
+1.2500-18 NEF
+20
+1.579
+1.828
+1.250
+1.316
+.156
+.884
+.062
+.250
+1.3750-18 NEF
+22
+1.705
+1.954
+1.375
+1.441
+.156
+.884
+.062
+.250
+1.5000-18 NEF
+24
+1.829
+2.078
+1.500
+1.566
+.156
+.917
+.062
+.250
+1.6250-18 NEF
+Shell
+Size
+Class “SE”, MS / “E”
+Class “SE” (SR), MS / “F”
+Class “SP”, MS /”P”
+L
+Max.
+N
+Max.
+F
+Min.
+G Dia.
+Free
+L
+Max.
+N
+Max.
+G
+Dia.
+L
+Max.
+N Dia.
+Max.
+8
+1.438
+.749
+.234
+.125
+1.922
+.828
+–
+–
+–
+10
+1.438
+.874
+.297
+.188
+1.922
+.891
+.444
+1.656
+.734
+12
+1.438
+.999
+.422
+.312
+1.922
+1.016
+.558
+1.656
+.858
+14
+1.438
+1.124
+.547
+.375
+1.922
+1.141
+.683
+1.656
+.984
+16
+1.438
+1.249
+.609
+.500
+2.000
+1.203
+.808
+1.656
+1.110
+18
+1.438
+1.374
+.734
+.625
+2.000
+1.469
+.909
+1.656
+1.234
+20
+1.625
+1.530
+.734
+.625
+2.172
+1.469
+1.034
+1.922
+1.360
+22
+1.625
+1.655
+.922
+.750
+2.172
+1.656
+1.159
+1.922
+1.484
+24
+1.688
+1.780
+.984
+.800
+2.234
+1.750
+1.284
+1.951
+1.610
+All dimensions for reference only.
+36
+
+PT08 SE
+SP08 SE
+90 degree plug
+G
+TERMINATION ASSEMBLIES
+“SE” Open Wire Seal, “SE” (SR) Strain Relief
+“SP” Potting Boot 75 degrees
+L
+L
+E
+A
+B
+H
+PT08SP-XX-XXX
+SP08SP-XX-XXX
+D
+PT08SE-XX-XXX
+SP08SE-XX-XXX
+PT08SE-XX-XXX (SR)
+SP08SE-XX-XXX (SR)
+K
+C
+To complete part number see how to order on page 39.
+All lockwire holes are .044 Dia. Min.
+Plug
+Front View
+Plug
+Side View
+Class “SE”, “SE” (SR)
+Class “SP”
+E
++.047
+–.025
+L
+Max.
+A
+±.025
+H
+±.015
+K
+±.015
+L
+Max.
+C
++.010
+–.025
+D
+±.062
+B
+±.031
+Shell
+Size
+G
+Dia.
+Max.
+10
+.921
+.749
+.170
+1.191
+.393
+2.137
+.547
+.438
+.562
+2.031
+12
+1.046
+.812
+.264
+1.191
+.450
+2.222
+.625
+.516
+.688
+2.093
+14
+1.171
+.905
+.310
+1.254
+.519
+2.370
+.734
+.625
+.781
+2.203
+16
+1.297
+1.030
+.330
+1.316
+.583
+2.572
+.750
+.656
+.890
+2.250
+18
+1.422
+1.015
+.444
+1.562
+.621
+2.680
+.781
+.703
+1.000
+2.296
+20
+1.562
+1.077
+.510
+1.625
+.683
+2.753
+.859
+.766
+1.125
+2.343
+22
+1.672
+1.139
+.515
+1.719
+.739
+2.799
+.906
+.812
+1.234
+2.390
+24
+1.797
+1.250
+.656
+1.750
+.787
+3.037
+1.181
+.918
+1.374
+2.624
+All dimensions for reference only.
+37
+
+PT-SE Breakaway
+twist pull plug
+4.500
+ ±.250
+L
+J
+D
+SOCKET
+INSERT
+C
+PIN
+INSERT
+B
+The PT-SE miniature breakaway connector has the following 
+design features:
+• crimp front release, front removable contacts in “SE” spring
+tower retention system
+• 3 styles available: potted termination, environmental style
+and environment style with a strain relief
+• instant decoupling of plug and receptacle with an axial
+pull on the lanyard when they are fully mated
+• intermateable with standard receptacles
+• operating voltage to 900 VAC (RMS) at sea level
+• quick positive bayonet coupling and 5 key/keyway polarization
+A
+LANYARD PULLED TAUT
+AGAINST A .200 ±.031 DIA MANDREL
+4.500
+5.000
+ ±.250
+L 2
+ ±.250
+L1
+J
+J
+D
+D
+Breakaway PT-SE with Crimp Contacts,
+Environmental 
+71-3455XX-(
+)
+72-3455XX-(
+)
+SOCKET
+INSERT
+SOCKET
+INSERT
+C
+PIN
+INSERT
+C
+PIN
+INSERT
+H
+F
+Breakaway PT-SE with Crimp Contacts,
+Potted Termination
+71-4196XX-(
+)
+72-4196XX-(
+)
+Breakaway PT-SE with Crimp Contacts, 
+Environmental with Strain Relief
+71-2511XX-(
+)
+72-2511XX-(
+)
+Part
+Number*
+Part
+Number*
+Part
+Number*
+Shell 
+Size
+A Dia.
+Max.
+B
+Max.
+C +.020
+–.000
+D +.020
+–.000
+F Dia.
+±.016
+H Dia.
+±.016
+J
+±.010
+L
+Max.
+L1
+Max.
+L2
+Max.
+71-419646
+71-251181
+71-345510
+10
+1.125
+1.125
+.030
+.337
+.188
+.444
+.353
+1.875
+2.140
+2.156
+71-419647
+71-251182
+71-345512
+12
+1.281
+1.406
+.030
+.337
+.312
+.558
+.353
+1.875
+2.156
+2.406
+71-419648
+71-251183
+71-345514
+14
+1.438
+1.562
+.030
+.337
+.375
+.683
+.353
+1.906
+2.203
+2.406
+71-419649
+71-251184
+71-345516
+16
+1.562
+1.688
+.030
+.337
+.500
+.808
+.353
+1.969
+2.250
+2.531
+71-419650
+71-251185
+71-345518
+18
+1.718
+1.844
+.030
+.337
+.625
+.909
+.353
+2.000
+2.281
+2.531
+71-419651
+71-251186
+71-345520
+20
+1.875
+2.000
+.092
+.399
+.625
+1.034
+.415
+2.281
+2.359
+2.719
+71-419652
+71-251187
+71-345522
+22
+2.031
+2.188
+.092
+.399
+.750
+1.159
+.415
+2.344
+2.453
+2.844
+71-419653
+71-251188
+71-345524
+24
+2.156
+2.312
+.092
+.399
+.800
+1.284
+.415
+2.406
+2.453
+2.906
+All dimensions for reference only.
+* See Finish information below to determine prefix 71 or 72 in part number.
+Drawing above shows standard lanyard length.
+Order by Amphenol Propriety number as follows (example part number shown):
+71 -
+4196
+50
+-
+32
+P
+1
+2
+3
+4
+5
+1. Finish
+“71” designates corrosion resistant olive drab cadmium plate
+“72” designates anodic coated (electrically nonconductive-anodic) finish providing extreme wear and corrosion resistance, 500 hr. 
+extended salt spray.
+2. Connector Type Identification
+4196XX designates PT-SE plug, crimp, potted termination style
+2511XX designates PT-SE plug, crimp, environmental with strain relief style
+3455XX designates PT-SE plug, crimp, environmental
+3. Shell Size
+See part number columns in chart above for 2 digit number at end that correlates to the shell size. Example: ‘50’ correlates to shell size 18.
+4. Insert Arrangement Number
+See insert availability for Miniature Breakaway connectors on page 6. The number following the hyphen is the insert arrangement number.
+5. Contact Type/Alternate Insert Rotation
+P designates pin, S designates socket for normal positioning of inserts. When an 
+alternate position of the insert is required to prevent cross-mating a different letter 
+(other than P or S) is used. See page 7 for description of alternate positions; then con-
+vert to Amphenol proprietary coding by the chart at right to complete the part number.
+Pin Contacts
+Socket Contacts
+Amphenol 
+Letter
+Equates to 
+MS letter
+Amphenol 
+Letter
+Equates to 
+MS letter
+G
+PW
+H
+SW
+I
+PX
+J
+SX
+K
+PY
+L
+SY
+38
+M
+PZ
+N
+SZ
+
+PT-SE, SP-SE, MS/PT-SE
+how to order
+PT-SE, SP-SE
+MS/PT-SE
+MIL-C-26482, Series 1
+To more easily illustrate ordering procedure, part number PT00SE-20-
+41PW(SR) is shown as follows:
+PT
+00
+SE - 20 - 41
+P
+W
+(SR)
+To more easily illustrate ordering procedure, part number 
+MS3120E20-41PW is shown as follows:
+MS
+312
+0
+E
+20 – 41
+P
+W
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+HOW TO ORDER
+PT-SE, SP-SE, MS/PT-SE
+See code below:
+1. “MS” designates Military Standard
+2. Specification Number
+“312” designates basic family for MIL-C-26482, Series 1
+crimp type
+3. Shell Style
+“0”
+designates wall mounting receptacle
+“1”
+designates cable connecting receptacle*
+“2”
+designates box mounting receptacle
+“4”
+designates jam nut receptacle
+“6”
+designates straight plug
+“7”
+designates box mounting receptacle with dual
+mounting holes
+“8”
+designates wall mounting receptacle with dual
+mounting holes
+4. Service Class
+“E”
+designates environmental resisting connector
+“F”
+designates environmental resisting connector with
+strain relief
+“P”
+designates potted type with potting boot
+5. Shell Size
+“20” designates shell size. Shell sizes 8 through 24 available
+6. Insert Arrangement
+Refer to pages 4-11 for insert availability.
+“20 - 41” designates insert arrangement. (The number follow-
+ing the hyphen is the number only that is used in the part 
+number).
+7. Contacts
+“P” designates pin contacts
+“S” designates socket contacts
+8. Insert Rotation
+Refer to page 7.
+“W”, “X”, “Y”, “Z” designate that insert is rotated in its shell 
+from the “normal” position. No letter required for normal (no 
+rotation) position.
+*
+This connector style is sometimes referred to as a cable connecting 
+“plug”. It does, however, mate with either a straight or 90 degree plug.
+For ordering Miniature Breakaway PT-SE Crimp connectors 
+see pg. 38.
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+See code below:
+1. Connector Type
+“PT”
+designates standard olive drab, electrically conductive cadmium
+plated, bayonet lock connector with crimp contacts
+“MF”
+designates standard olive drab, electrically conductive cadmium
+plated, bayonet lock connector with dual mounting holes, and
+crimp contacts
+“SP”
+designates electrically non-conductive, hard anodic coated,
+bayonet lock connector with larger flange and mounting holes
+for back panel mounting, and crimp contacts
+“PTG” designates plug with grounding fingers
+2. Shell Style
+“00”
+designates wall mounting receptacle
+“01”
+designates cable connecting receptacle*
+“02”
+designates box mounting receptacle
+“06”
+designates straight plug
+“07”
+designates jam nut receptacle
+“08”
+designates 90 degree plug
+3. Service Classes
+“SE”
+designates environmental crimp
+“SP”
+designates potted type crimp
+Both of the above are Amphenol proprietary versions of the MIL-C-
+26482, Series 1 crimp contact connector and offer 15 lbs. contact reten-
+tion for size 20 contacts; 25 lbs. for size 16 contacts.
+4. Shell Size
+“20” designates shell size. Shell sizes 8 through 24 available.
+5. Insert Arrangement
+Refer to pages 4-11 for insert availability.
+“20 - 41” designates insert arrangement. (The number following the 
+hyphen is the number only that is used in the part number).
+6. Contacts
+“P” designates pin contacts
+“S” designates socket contacts
+7. Insert Rotation
+Refer to page 7.
+“W”, “X”, “Y”, “Z” designate that insert is rotated in its shell from “normal” 
+position. No letter required for normal (no rotation) position.
+8. “SR” designates a strain relief clamp.
+Indicate optional finishes as follows:
+(003)
+olive drab cadmium plate (standard on “PT”)
+(005)
+anodic coating - Alumilite® (standard on “SP”)
+(014)
+olive drab cadmium plate over nickel
+(023)
+electroless nickel
+(024)
+olive drab zinc cobalt plating
+(424)
+electroless nickel finish with strain relief
+(466)
+olive drab zinc cobalt plating with strain relief
+OR
+RoHS Compliant finish suffix as follow:
+(025)
+non-conductive black zinc cobalt plating
+(027)
+conductive black zinc cobalt plating
+(470)
+non-conductive black zinc cobalt plating with
+strain relief
+(476)
+conductive black zinc cobalt with strain relief
+39
+
+®
+Amphenol  PT-CE, SP-CE
+bayonet coupling, crimp termination
+Amphenol® CE crimp type miniature connectors provide 
+performance and versatility needed for applications 
+demanding high reliability and crimp removable contacts. 
+These crimp contacts are rear insertable/front release and 
+are held in position by a nylon wafer retention system.
+wall mounting 
+receptacle
+cable
+connecting 
+receptacle*
+box mounting 
+receptacle
+straight plug
+The SP-CE Series is a modification of the PT-CE, providing 
+special shells with a wide mounting flange for back panel 
+mounting.
+A corrosion resistant electrically conductive finish of cadmium 
+plate with an olive drab chromate after-treatment is used on the 
+PT-CE. The SP-CE is given a durable nonconductive hard 
+anodic “Alumilite”® coating which provides abrasion protection 
+and resistance to corrosion.
+Shell components for these versions are aluminum. The 
+dependable 5 key/keyway polarization with bayonet lock cou-
+pling assures positive mating with no chance of cross plugging. 
+Spring tension provided by a wave washer in the coupling nut 
+ensures maintenance of interfacial seal between mating halves.
+Both the insert and main joint gasket are molded from resilient 
+neoprene. This provides excellent moisture sealing at the gas-
+ket and superior electrical isolation of the contact in the insert.
+Both pins and sockets are machined form a copper alloy and 
+are gold plated. This gold plating eliminates contact corrosion 
+and offers an indefinite shelf life. Socket contacts for these 
+series are a closed entry design.
+Breakaway style plug is available in PT-CE crimp.
+The PT-CE and SP-CE Series are intermateable and inter-
+mountable with all existing Miniature Cylindrical Series connec-
+tors except for the threaded coupling PC Series.
+Refer to pages 4-11 for insert arrangement availability.
+*
+This connector style is sometimes referred to as a cable connecting “plug.” It 
+does, however, mate with a straight or 90 degree plug.
+jam nut
+receptacle
+breakaway
+twist pull
+plug
+40
+
+PT-CE, SP-CE
+Contact Specifications
+Contact
+Size
+Test
+Current
+Maximum
+Millivolt 
+Drop†
+Crimp Well 
+Diameter
+Minimum
+Well Depth
+20
+7.5
+55
+.045
+.359
++.002
+–.001
+16
+13.0
+49
+.063
+.234
++.004
+–.001
+PT-CE, SP-CE
+“CE”
+open wire seal
+Service Rating
+Test Voltage AC (RMS), 60 cps
+BAYONET COUPLING
+WITH CRIMP CONTACTS
+Service
+Rating
+Recommended
+Operating
+AC Voltage
+at Sea Level
+Sea
+Level
+50,000
+ft.
+70,000
+ft.
+110,000
+ft.
+I
+600
+1,500
+500
+375
+200
+II
+1,000
+2,300
+750
+500
+200
+† Silver plated wire per MIL-C-26482
+PT-CE, and SP-CE Service Classes
+“CE” (SR)
+strain relief
+PT-CE and SP-CE Connectors are available in the 
+three service classes listed below.
+“CE”
+Open wire sealing – environmental resistant,
+with a nut and grommet for moisture proof-
+ing individual wires.
+“CE” (SR)Strain relief clamp – environmental resistant
+strain relief clamp and grommet for moisture
+proofing individual wires; provides added
+wire bundle support.
+“CP”
+Translucent nylon boot for retaining cus-
+tomer applied potting compounds; held in
+place by a threaded ring.
+Breakaway style - see page 48.
+“CP”
+potting boot
+41
+
+PT00 CE
+SP00 CE
+wall mounting receptacle
+S
+R
+(TP)
+PT
+.120 ± .005 Dia.
+(.147 ± .005 Dia., size 24)
+SP
+.150 ± .005 Dia.  
+4 Holes
+S
+R
+(TP)
+TERMINATION ASSEMBLIES
+“CE” Open Wire Seal
+“CE” (SR) Strain Relief
+“CP” Potting Boot
+L
+L
+L
+K
+K
+K
+A
+D
+N
+A
+G
+H
+N
+A
+M
+M
+M
+PT00CE-XX-XXX
+SP00CE-XX-XXX
+PT00CE-XX-XXX (SR)
+SP00CE-XX-XXX (SR)
+PT00CP-XX-XXX
+SP00CP-XX-XXX
+To complete part number see how to order on page 49.
+■ (MMC) located within .005 Dia. of (TP)
+Receptacle Front View
+Receptacle Side View
+Class “CE”
+Class “CE” (SR)
+Class “CP”
+R
+(TP)
+S
+±.016
+K
++.025
+–.010
+M
++.010
+–.000
+Shell
+Size
+A
+Dia.
++.001
+–.005
+L
+Max.
+N
+Dia.
+Max.
+G
+Dia.
+H
+Max.
+L
+Max.
+D
+Dia.
+L
+Max.
+N
+Dia.
+Max.
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+6
+.469
+.641
+.688
+.953
+.348
+.493
+.524
+.431
+.462
+1.468
+.440
+–
+–
+–
+–
+–
+–
+8
+.594
+.734
+.812
+1.047
+.473
+.493
+.524
+.431
+.462
+1.468
+.560
+.125
+.797
+2.031
+.327
+1.683
+.608
+10
+.719
+.812
+.938
+1.125
+.590
+.493
+.524
+.431
+.462
+1.468
+.685
+.188
+.859
+2.031
+.444
+1.683
+.734
+12
+.812
+.938
+1.031
+1.250
+.750
+.493
+.524
+.431
+.462
+1.468
+.813
+.312
+.984
+2.031
+.558
+1.683
+.858
+14
+.906
+1.031
+1.125
+1.344
+.875
+.493
+.524
+.431
+.462
+1.468
+.930
+.375
+1.109
+2.031
+.683
+1.683
+.984
+16
+.969
+1.125
+1.219
+1.438
+1.000
+.493
+.524
+.431
+.462
+1.468
+1.057
+.500
+1.172
+2.156
+.808
+1.683
+1.110
+18
+1.062
+1.203
+1.312
+1.516
+1.125
+.493
+.524
+.431
+.462
+1.468
+1.175
+.625
+1.422
+2.156
+.909
+1.683
+1.234
+20
+1.156
+1.297
+1.438
+1.672
+1.250
+.650
+.650
+.556
+.556
+1.562
+1.301
+.625
+1.422
+2.266
+1.034
+1.750
+1.360
+22
+1.250
+1.375
+1.562
+1.750
+1.375
+.650
+.650
+.556
+.556
+1.562
+1.428
+.750
+1.609
+2.266
+1.159
+1.750
+1.484
+24
+1.375
+1.500
+1.688
+1.875
+1.500
+.683
+.683
+.589
+.589
+1.625
+1.555
+.800
+1.703
+2.328
+1.284
+1.782
+1.610
+All dimensions for reference only.
+42
+
+PT01 CE
+cable connecting receptacle
+S
+S
+TERMINATION ASSEMBLIES
+“CE” Open Wire Seal
+“CE” (SR) Strain Relief
+“CP” Potting Boot
+L
+L
+L
+A
+D
+H
+A
+G
+H
+N
+A
+K
+K
+K
+PT01CP-XX-XXX
+PT01CE-XX-XXX
+SP01CE-XX-XXX
+PT01CE-XX-XXX (SR)
+SP01CE-XX-XXX (SR)
+Note:This connector style is sometimes referred to as a cable connecting 
+“plug”. It does, however, mate with either a straight or 90 degree plug.
+To complete part number see how to order on page 49.
+Receptacle
+Front View
+Receptacle
+Side View
+Class “CE”
+Class “CE” (SR)
+Class “CP”
+Shell
+Size
+S
+±.016
+A Dia.
++.001
+–.005
+K
+±.016
+L
+Max.
+N
+Dia.
+G
+Dia.
+H
+Dia.
+L
+Max.
+D Dia.
+Min.
+L
+Max.
+N Dia.
+Max.
+6
+.688
+.348
+.094
+1.468
+.440
+–
+–
+–
+–
+–
+–
+8
+.812
+.473
+.094
+1.468
+.560
+.125
+.797
+1.982
+.327
+1.702
+.608
+10
+.938
+.590
+.094
+1.468
+.685
+.188
+.859
+1.982
+.444
+1.702
+.734
+12
+1.031
+.750
+.094
+1.468
+.813
+.312
+.984
+1.982
+.558
+1.702
+.858
+14
+1.125
+.875
+.094
+1.468
+.930
+.375
+1.109
+1.982
+.683
+1.702
+.984
+16
+1.219
+1.000
+.094
+1.468
+1.057
+.500
+1.172
+2.114
+.808
+1.702
+1.110
+18
+1.312
+1.125
+.094
+1.468
+1.175
+.625
+1.422
+2.114
+.909
+1.702
+1.234
+20
+1.438
+1.250
+.115
+1.562
+1.301
+.625
+1.422
+2.207
+1.034
+1.796
+1.360
+22
+1.562
+1.375
+.115
+1.562
+1.428
+.750
+1.609
+2.207
+1.159
+1.796
+1.484
+24
+1.688
+1.500
+.115
+1.625
+1.555
+.800
+1.703
+2.219
+1.284
+1.827
+1.610
+All dimensions for reference only.
+43
+
+PT02 CE
+SP02 CE
+box mounting receptacle
+L
+S
+M
+R
+(TP)
+S
+A
+N
+H
+R
+(TP)
+D
+T Dia.
+4 Holes
+K
+PT02CE-XX-XXX
+SP02CE-XX-XXX
+PT02CP-XX-XXX
+SP02CP-XX-XXX
+To complete part number see how to order on page 49.
+■ (MMC) located within .005 of (TP)
+Receptacle Front View
+Receptacle Side View
+R
+S
+±.016
+T
+Dia.
+±.005
+Shell
+Size
+A
+Dia
++.001
+–.005
+D
+H
+Dia.
+Max.
+K
++.025
+–.010
+L
+Max.
+M
++.010
+–.000
+N
+Dia.
+Max.
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+PT
+SP
+8
+.594
+.734
+.812
+1.047
+.120
+.150
+.473
+.344
+.312
+.317
+.493
+.524
+1.250
+.431
+.462
+.449
+10
+.719
+.812
+.938
+1.125
+.120
+.150
+.590
+.344
+.312
+.441
+.493
+.524
+1.250
+.431
+.462
+.573
+12
+.812
+.938
+1.031
+1.250
+.120
+.150
+.750
+.344
+.312
+.566
+.493
+.524
+1.250
+.431
+.462
+.699
+14
+.906
+1.031
+1.125
+1.344
+.120
+.150
+.875
+.344
+.312
+.683
+.493
+.524
+1.250
+.431
+.462
+.823
+16
+.969
+1.125
+1.219
+1.438
+.120
+.150
+1.000
+.344
+.312
+.808
+.493
+.524
+1.250
+.431
+.462
+.949
+18
+1.062
+1.203
+1.312
+1.516
+.120
+.150
+1.125
+.344
+.312
+.899
+.493
+.524
+1.250
+.431
+.462
+1.073
+20
+1.156
+1.297
+1.438
+1.672
+.120
+.150
+1.250
+.406
+.406
+1.034
+.650
+.650
+1.312
+.556
+.556
+1.199
+22
+1.250
+1.375
+1.562
+1.750
+.120
+.150
+1.375
+.406
+.406
+1.155
+.650
+.650
+1.312
+.556
+.556
+1.323
+24
+1.375
+1.500
+1.688
+1.875
+.147
+.150
+1.500
+.436
+.436
+1.279
+.683
+.683
+1.312
+.589
+.589
+1.449
+All dimensions for reference only.
+44
+
+PT06 CE
+SP06 CE
+straight plug
+S
+TERMINATION ASSEMBLIES
+“CE” Open Wire Seal
+“CE” (SR) Strain Relief
+“CP” Potting Boot
+L
+L
+L
+N
+N
+G
+N
+D
+Z pin contacts
+Z¹ socket contacts
+Z pin contacts
+Z¹ socket contacts
+Z pin contacts
+Z¹ socket contacts
+PT06CE-XX-XXX
+SP06CE-XX-XXX
+PT06CE-XX-XXX (SR)
+SP06CE-XX-XXX (SR)
+PT06CP-XX-XXX
+SP06CP-XX-XXX
+To complete part number see how to order on page 49.
+Plug
+Front View
+Plug
+Side View
+Class “CE”
+Class “CE” (SR)
+Class “CP”
+Z1
+Shell
+Size
++.035
+–.040
+L
+Max.
+N
+Dia.
+G
+Dia.
+H
+Max.
+L
+Max.
+D
+Dia.
+L
+Max.
+N Dia.
+Max.
+S
+Dia.
+Max.
+Z
++.035
+–.040
+6
+.609
+.772
+.631
+1.457
+.440
+–
+–
+–
+–
+–
+–
+8
+.734
+.772
+.631
+1.457
+.560
+.125
+.797
+2.019
+.327
+1.707
+.608
+10
+.844
+.772
+.631
+1.457
+.685
+.188
+.859
+2.019
+.444
+1.707
+.734
+12
+1.016
+.772
+.631
+1.457
+.813
+.312
+.984
+2.019
+.558
+1.707
+.858
+14
+1.141
+.772
+.631
+1.457
+.930
+.375
+1.109
+2.019
+.683
+1.707
+.984
+16
+1.266
+.772
+.631
+1.457
+1.057
+.500
+1.172
+2.144
+.808
+1.707
+1.110
+18
+1.375
+.772
+.631
+1.457
+1.175
+.625
+1.422
+2.144
+.909
+1.707
+1.234
+20
+1.516
+.710
+.569
+1.487
+1.301
+.625
+1.422
+2.175
+1.034
+1.707
+1.360
+22
+1.641
+.710
+.569
+1.487
+1.428
+.750
+1.609
+2.175
+1.159
+1.707
+1.484
+24
+1.761
+.710
+.569
+1.550
+1.555
+.800
+1.703
+2.237
+1.284
+1.832
+1.610
+All dimensions for reference only.
+45
+
+PT07 CE
+SP07 CE
+jam nut receptacle
+S
+H
+S
+TERMINATION ASSEMBLIES
+“CE” Open Wire Seal
+“CE” (SR) Strain Relief
+“CP” Potting Boot
+L
+M
+L
+M
+L
+M
+K
+K
+K
+R
+R
+R
+J
+G N
+A
+J
+D N
+A
+J
+N
+A
+P
+P
+P
+PT07CE-XX-XXX
+SP07CE-XX-XXX
+PT07CE-XX-XXX (SR)
+SP07CE-XX-XXX (SR)
+PT07CP-XX-XX
+SP07CP-XX-XXX
+To complete part number see how to order on page 49.
+All lockwire holes are .044 Dia. Min.
+Receptacle
+Front View
+Receptacle
+Side View
+Panel Thickness
+Class “CE”
+Class “CE” (SR)
+Class “CP”
+N
+Dia.
+Max.
+D
+Dia.
+Min.
+L
+Max.
+Shell
+Size
+H
+Hex.
++.017
+–.016
+S
+±.016
+A
+Dia.
++.001
+–.005
+J
+Flat
++.000
+–.010
+K
+±.016
+M
+±.005
+Min.
+Max.
+L
+Max.
+N
+Max.
+G
+Dia.
+L
+Max.
+N
+Max.
+8
+.750
+.938
+.473
+.530
+.125
+.696
+.062
+.125
+.827
+.730
+.125
+1.297
+.797
+.327
+.875
+.608
+10
+.875
+1.062
+.590
+.655
+.125
+.696
+.062
+.125
+.827
+.855
+.188
+1.297
+.859
+.444
+.875
+.734
+12
+1.062
+1.250
+.750
+.818
+.125
+.696
+.062
+.125
+.827
+.980
+.312
+1.297
+.984
+.558
+.875
+.858
+14
+1.188
+1.375
+.875
+.942
+.125
+.696
+.062
+.125
+.827
+1.105
+.375
+1.297
+1.109
+.683
+.875
+.984
+16
+1.312
+1.500
+1.000
+1.066
+.125
+.696
+.062
+.125
+.827
+1.230
+.500
+1.422
+1.172
+.808
+.875
+1.110
+18
+1.438
+1.625
+1.125
+1.191
+.125
+.696
+.062
+.125
+.827
+1.355
+.625
+1.422
+1.422
+.909
+.875
+1.234
+20
+1.562
+1.812
+1.250
+1.316
+.156
+.884
+.062
+.250
+.733
+1.511
+.625
+1.328
+1.422
+1.034
+.969
+1.360
+22
+1.688
+1.938
+1.375
+1.441
+.156
+.884
+.062
+.250
+.733
+1.636
+.750
+1.328
+1.609
+1.159
+.969
+1.484
+24
+1.812
+2.062
+1.500
+1.566
+.156
+.917
+.062
+.250
+.762
+1.761
+.800
+1.422
+1.703
+1.284
+.969
+1.610
+All dimensions for reference only.
+46
+
+PT08 CE
+SP08 CE
+90 degree plug
+G
+TERMINATION ASSEMBLIES
+“CE” Open Wire Seal, “CE” (SR) Strain Relief
+“CP” Potting Boot 75 ° 
+L
+L
+E
+A
+B
+H
+PT08CP-XX-XXX
+SP08CP-XX-XXX
+D
+PT08CE-XX-XXX
+SP08CE-XX-XXX
+PT08CE-XX-XXX (SR)
+SP08CE-XX-XXX (SR)
+K
+C
+To complete part number see how to order on page 49.
+All lockwire holes are .044 Dia. Min.
+Plug
+Front View
+Plug
+Side View
+Class “CE”, “CE” (SR)
+Class “CP”
+E
++.047
+–.025
+L
+±.057
+A
+±.025
+H
+±.015
+K
+±.015
+L
+Max.
+C
++.010
+–.025
+D
+±.062
+B
+±.031
+G
+Dia.
+Max.
+Shell
+Size
+8
+.796
+.655
+.169
+.941
+.339
+1.986
+.469
+.312
+.438
+1.906
+10
+.921
+.749
+.170
+1.191
+.393
+2.080
+.547
+.438
+.562
+2.031
+12
+1.046
+.812
+.264
+1.191
+.450
+2.165
+.625
+.516
+.688
+2.093
+14
+1.171
+.905
+.310
+1.254
+.519
+2.313
+.734
+.625
+.781
+2.203
+16
+1.297
+1.030
+.330
+1.316
+.583
+2.515
+.750
+.656
+.890
+2.250
+18
+1.422
+1.015
+.444
+1.562
+.621
+2.623
+.781
+.703
+1.000
+2.296
+20
+1.562
+1.077
+.510
+1.625
+.683
+2.739
+.859
+.766
+1.125
+2.343
+22
+1.672
+1.139
+.515
+1.719
+.739
+2.785
+.906
+.812
+1.234
+2.390
+24
+1.797
+1.265
+.656
+1.751
+.797
+3.024
+1.169
+.918
+1.374
+2.624
+All dimensions for reference only.
+47
+
+PT-CE Breakaway
+twist pull plug
+6.000
+± .250 
+L
+J
+.016
++.010
+–.025
+SOCKET INSERT
+.328
++.010
+–.025
+PIN INSERT
+H
+B
+A
+The PT-CE miniature breakaway connector has the 
+following design features:
+• crimp front release, front removable contacts in 
+“CE” nylon wafer retention system
+• 2 styles available: potted termination and environ-
+ment style with a strain relief
+• instant decoupling of plug and receptacle with an 
+axial pull on the lanyard when they are fully 
+mated
+• intermateable with standard receptacles
+• operating voltage to 900 VAC (RMS) at sea level
+• quick positive bayonet coupling and 5 key/key-
+way polarization
+LANYARD PULLED TAUT
+AGAINST A .200 ± .031 DIA. MANDREL
+Breakaway PT-CE with Crimp Contacts,
+Potted Termination
+71-2512XX-(
+)
+72-2512XX-(
+)
+6.000
+± .250 
+L1
+J
+.016
++.010
+–.025
+SOCKET INSERT
+.328
+Part
+Number*
+Part
+Number*
+Shell 
+Size
+A
+Dia.
+Max.
+B
+Max.
+F
+Dia.
+±.016
+H
+Dia.
+±.016
+J
+±.010
+L
+Max.
+L1
+Max.
+71-251209
+71-339508
+8
+.875
+.984
+.125
+.327
+.353
+1.937
+2.937
++.010
+–.025
+71-251210
+71-339510
+10
+1.125
+1.125
+.188
+.444
+.353
+1.890
+2.937
+PIN
+INSERT
+71-251211
+71-339512
+12
+1.281
+1.406
+.312
+.558
+.353
+1.906
+3.000
+F
+71-251212
+71-339514
+14
+1.438
+1.562
+.375
+.683
+.353
+1.953
+3.000
+71-251213
+71-339516
+16
+1.562
+1.688
+.500
+.808
+.353
+2.000
+3.187
+71-251214
+71-339518
+18
+1.718
+1.844
+.625
+.909
+.353
+2.031
+3.375
+71-251215
+71-339520
+20
+1.875
+2.000
+.625
+1.034
+.415
+2.234
+3.375
+71-251216
+71-339522
+22
+2.031
+2.188
+.750
+1.159
+.415
+2.328
+3.375
+71-251217
+71-339524
+24
+2.156
+2.312
+.800
+1.284
+.415
+2.359
+3.625
+Breakaway PT-CE with Crimp Contacts, 
+Environmental with Strain Relief
+71-3395XX-(
+)
+72-3395XX-(
+)
+All dimensions for reference only.
+* See Finish information below to determine prefix 71 or 72 in part number.
+Drawing above shows standard lanyard length.
+Order by Amphenol Propriety number as follows (example part number shown):
+71 -
+2512
+50
+-
+32
+P
+1
+2
+3
+4
+5
+1. Finish
+“71” designates corrosion resistant olive drab cadmium plate
+“72” designates anodic coated (electrically nonconductive-anodic) finish providing extreme wear and corrosion resistance, 500 hr. 
+extended salt spray.
+2. Connector Type Identification
+2512XX designates PT-CE plug, crimp, potted termination style
+3395XX designates PT-CE plug, crimp, environmental with strain relief style
+3. Shell Size
+See part number columns in chart above for 2 digit number at end that correlates to the shell size. Example: ‘50’ correlates to shell size 18.
+Pin Contacts
+Socket Contacts
+Amphenol 
+Letter
+Equates to 
+MS letter
+Amphenol 
+Letter
+Equates to 
+MS letter
+G
+PW
+H
+SW
+I
+PX
+J
+SX
+K
+PY
+L
+SY
+M
+PZ
+N
+SZ
+4. Insert Arrangement Number
+See insert availability for Miniature Breakaway connectors on page 6. The number 
+following the hyphen is the insert arrangement number.
+5. Contact Type/Alternate Insert Rotation
+P designates pin, S designates socket for normal positioning of inserts. When an 
+alternate position of the insert is required to prevent cross-mating a different letter 
+(other than P or S) is used. See page 7 for description of alternate positions; then 
+convert to Amphenol proprietary coding by the chart at right to complete the part 
+number.
+48
+
+PT-CE, SP-CE
+how to order
+PT-CE, SP-CE
+To more easily illustrate ordering procedure, part number 
+PT00CE-20-41PW (SR) is shown as follows:
+PT
+00
+CE – 20 – 41
+P
+W
+(SR)
+1
+2
+3
+4
+5
+6
+7
+8
+See code below:
+HOW TO ORDER
+PT-CE, SP-CE
+1. Connector Type
+“PT” designates standard electrically conductive olive drab cadmium plated 
+bayonet lock connector with crimp contacts
+“SP” designates electrically non-conductive, hard anodic coated bayonet 
+lock connector with large flange and mounting holes for back panel mount-
+ing, and crimp contacts.
+2. Shell Style
+“00”
+designates wall mounting receptacle
+“01”
+designates cable connecting receptacle*
+“02”
+designates box mounting receptacle
+“06”
+designates straight plug
+“07”
+designates jam nut receptacle
+“08” 
+designates 90° plug
+3. Service Class
+“CE”
+designates environmental crimp
+“CP”
+designates potted type crimp
+Both of the above are Amphenol ® proprietary versions of the MIL-C-
+26482, Series 1 crimp contact connector and offer 7 lbs. contact retention 
+for size 20 contacts; 9 lbs for size 16 contacts.
+4. Shell Size
+“20” designates shell size. Shell sizes 6 through 24 available.
+5. Insert Arrangement
+Refer to pages 4-11 for insert availability.
+“20 – 41” designates insert arrangement. (The number following the 
+hyphen is the number only that is used in the part number).
+6. Contacts
+“P” designates pin contacts.
+“S” designates socket contacts.
+7. Insert Rotation
+Refer to page 7.
+“W”, “X”, “Y”, “Z” designate that insert is rotated in its shell from the “nor-
+mal” position. No letter required for normal (no rotation) position.
+8. “(SR)” designates strain relief clamp.
+Indicate optional finishes as follows:
+(003)
+olive drab cadmium plate (standard on “PT”)
+(005)
+anodic coating - Alumilite® (standard on “SP”)
+(014)
+olive drab cadmium plate over nickel
+(023)
+electroless nickel
+(024)
+olive drab zinc cobalt plating
+(025)
+non-conductive black zinc cobalt plating
+(027)
+conductive black zinc cobalt plating
+(424)
+electroless nickel finish with strain relief
+(466)
+olive drab zinc cobalt plating with strain relief
+(470)
+non-conductive black zinc cobalt plating with strain relief
+(476)
+conductive black zinc cobalt with strain relief
+* This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+For ordering Miniature Breakaway PT-CE Crimp connectors see page 48.
+49
+
+®
+Amphenol  PC
+threaded coupling and solder termination
+Amphenol® PC Series threaded coupling miniature cylin-
+drical connectors incorporate solder contacts. The PC dou-
+ble stub threaded coupling system cannot be cross 
+threaded, and is mechanically assisted while engaging and 
+disengaging.
+wall mounting 
+receptacle
+cable
+connecting 
+receptacle*
+Shell components are aluminum. Bright cadmium plating to 
+QQ-P-416 with a clear chromate after-treatment provides a 
+golden colored conductive finish. Single key/keyway polariza-
+tion represents maximum simplicity in a design proven in mil-
+lions of AN connectors.
+Both pins and sockets are machined from a copper alloy and 
+are gold plated. This gold plating eliminates contact corrosion 
+and offers an indefinite shelf life. Socket contacts for these 
+series are a closed entry design.
+Both the insert and main joint gasket are molded from resilient 
+neoprene. This provides excellent moisture sealing at the gas-
+ket and superior electrical insulation of the contacts in the 
+insert.
+The PC is intermateable and intermountable within the PC 
+threaded coupling series.
+Refer to pages 4-11 for insert arrangement availability.
+box mounting 
+receptacle
+*
+This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+PC-SE and PC-CE, which are threaded coupling and incorporate crimp 
+contacts, are briefly covered on pages 62 and 63. It is necessary to 
+contact Amphenol for ordering information on these types.
+straight plug
+jam nut
+receptacle
+50
+
+PC
+Contact Specifications
+Contact
+Size
+Test
+Current
+Maximum
+Millivolt 
+Drop†
+Solder Well 
+Diameter
+Solder
+Well Depth
+20
+7.5
+55
+.046
+.125
++.004
+–.000
++.031
+–.000
+“A”
+general duty
+16
+13.0
+50
+.078
+.188
++.005
+–.003
++.031
+–.000
+Service Rating
+Test Voltage AC (RMS), 60 cps
+Service
+Rating
+Recommended
+Operating
+AC Voltage
+at Sea Level
+Sea
+Level
+50,000
+ft.
+70,000
+ft.
+110,000
+ft.
+I
+600
+1,500
+500
+375
+200
+II
+1,000
+2,300
+750
+500
+200
+“E” (SR)
+strain relief
+† Silver plated wire per MIL-C-26482
+PC Service Classes
+PC SERIES
+PC connectors are available in the service classes 
+listed below. Each class except the hermetic seal 
+receptacle has one or more means of terminating or 
+supporting a cable or wire bundle.
+“A”
+General duty; back shell is threaded for con-
+duit attachment of MS3057 cable clamp.
+“E” MS / “E” 
+open wire seal
+“A” (SR) General duty; with strain relief clamp for
+cable or wire bundle support.
+THREADED COUPLING
+WITH SOLDER CONTACTS
+“C”
+Pressurized receptacle; less than 1 cu. in.
+per hour leakage at 30 psi over a tempera-
+ture range of –65°F to +257°F in accor-
+dance with BSC-C1P specification.
+“E”
+Environment resistant; with nut and grom-
+met for moisture proofing individual wires.
+“P”, MS / “P” 
+potting boot
+“E” (SR) Environment resistant strain relief clamp and
+grommet for moisture proofing individual
+wires; provides added wire bundle support.
+“P”
+Translucent nylon boot for retaining cus-
+tomer applied potting compounds; held in
+place by a threaded ring.
+“P” (SR) Strain relief clamp suitable for retaining cus-
+tomer applied potting compounds, with pro-
+vision for wire support.
+“W”
+cable seal
+“W” 
+Compressing clamp and neoprene gland for
+moisture proofing multi-conductor jacketed
+cables. Telescoping sleeves (MS 3420A)
+can be used to adapt to cables smaller than
+minimum close down.
+“H”*
+Hermetically sealed with compression glass
+inserts.
+Refer to pages 57-60 for Hermetic Versions within the 
+PC solder series.
+51
+
+PC00 
+wall mounting receptacle
+S
+R
+.120 ± .005 Dia.
+4 Holes
+A
+M
+L
+Q
+R S
+Z
+K
+“E” Open Wire Seal
+“P” Potting Boot
+“W” Cable Seal
+TERMINATION ASSEMBLIES
+“A” General Duty/
+“C” Pressurized
+“A” (SR), “E” (SR), “P” (SR) 
+Strain Relief
+L
+L
+L
+L
+V
+L
+N
+D
+D
+N
+D
+G
+N
+D H
+N
+N
+C
+.375 MIN 
+PC00E-XX-XXX
+PC00P-XX-XXX
+PC00W-XX-XXX
+PC00A-XX-XXX
+PC00C-XX-XXX
+PC00A-XX-XXX (SR)
+PC00E-XX-XXX (SR)
+To complete part number see how to order on page 61.
+Receptacle 
+Front View
+Receptacle Side View
+Class “A”, “C”
+Shell 
+Size
+A
+Thread
+Class 2A
+K
+Max.
+L
+Max.
+M
++.000
+–.010
+R
+±.005
+S
+±.010
+D
+Min.
+L
+Max.
+N
+Max.
+Q
+Thread
+Class 2A
+Z
+Max.
+V
+Thread
+Class 2A
+6
+.469
+.688
+.3750 DS
+.490
+.875
+.416
+.3125-32 NEF
+.466
+.175
+1.528
+.462
+.3750-32 NEF
+8
+.594
+.812
+.5000 DS
+.490
+.875
+.416
+.4375-28 UNEF
+.466
+.297
+1.528
+.590
+.5000-28 UNEF
+10
+.719
+.938
+.6250 DS
+.490
+.875
+.416
+.5625-24 NEF
+.466
+.421
+1.528
+.717
+.6250-24 NEF
+12
+.812
+1.031
+.7500 DS
+.490
+.875
+.416
+.6875-24 NEF
+.466
+.546
+1.528
+.834
+.7500-20 UNEF
+14
+.906
+1.125
+.8750 DS
+.490
+.875
+.416
+.8125-20 UNEF
+.466
+.663
+1.528
+.970
+.8750-20 UNEF
+16
+.969
+1.219
+1.0000 DS
+.490
+.875
+.416
+.9375-20 UNEF
+.466
+.787
+1.528
+1.088
+1.0000-20 UNEF
+18
+1.062
+1.312
+1.1250 DS
+.490
+.875
+.416
+1.0625-18 UNEF
+.466
+.879
+1.528
+1.216
+1.1875-18 NEF
+20
+1.156
+1.438
+1.2500 DS
+.584
+1.031
+.479
+1.1875-18 NEF
+.527
+1.014
+1.588
+1.332
+1.1875-18 NEF
+22
+1.250
+1.562
+1.3750 DS
+.584
+1.031
+.479
+1.3125-18 NEF
+.527
+1.135
+1.588
+1.460
+1.4375-18 NEF
+Class “A” (SR), “E” (SR), “P” (SR)
+Class “E”
+Class “P”
+Class “W”
+Shell 
+Size
+C
+Thread
+D
+Min.
+G
+Dia.
+H
+Max.
+L
+Max.
+N
+Max.
+L
+Max.
+N
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+D
+L
+Max.
+N
+Max.
+Closed
+Free
+6
+–
+–
+–
+–
+–
+–
+1.250
+.440
+.192
+1.406
+.484
+–
+–
+–
+–
+8
+6-32
+.240
+.125
+.812
+1.922
+.550
+1.250
+.560
+.317
+1.406
+.608
+.168
+.230
+1.680
+.547
+10
+6-32
+.302
+.188
+.875
+1.922
+.675
+1.250
+.685
+.434
+1.406
+.734
+.205
+.312
+1.680
+.675
+12
+6-32
+.428
+.312
+1.000
+1.922
+.803
+1.250
+.813
+.548
+1.406
+.858
+.338
+.442
+1.823
+.812
+14
+6-32
+.552
+.375
+1.125
+1.922
+.920
+1.250
+.930
+.673
+1.406
+.984
+.416
+.539
+2.015
+.940
+16
+6-32
+.615
+.500
+1.188
+2.047
+1.047
+1.250
+1.057
+.798
+1.406
+1.110
+.550
+.616
+2.231
+1.067
+18
+8-32
+.740
+.625
+1.438
+2.078
+1.165
+1.250
+1.175
+.899
+1.406
+1.234
+.600
+.672
+2.461
+1.194
+20
+8-32
+.740
+.625
+1.438
+2.344
+1.290
+1.434
+1.301
+1.024
+1.562
+1.360
+.635
+.747
+2.835
+1.322
+22
+8-32
+.928
+.750
+1.719
+2.344
+1.418
+1.434
+1.430
+1.149
+1.562
+1.484
+.670
+.846
+2.999
+1.449
+All dimensions for reference only.
+52
+
+PC01
+cable connecting receptacle
+S
+A
+L
+Q
+Z
+TERMINATION ASSEMBLIES
+“A” General Duty
+“E” Open Wire Seal
+“P” Potting Boot
+“W” Cable Seal
+“A” (SR), “E” (SR), “P” (SR)
+Strain Relief
+L
+L
+L
+L
+V
+L
+N
+D
+D
+N
+D
+G
+N
+D H
+N
+N
+C
+.375 MIN 
+PC01A-XX-XXX
+PC01E-XX-XXX
+PC01P-XX-XXX
+PC01W-XX-XXX
+PC01A-XX-XXX (SR)
+PC01E-XX-XXX (SR)
+PC01P-XX-XXX (SR)
+Note: This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+To complete part number see how to order on page 61.
+Recept.
+Front View
+Receptacle
+Side View
+Class “E”
+D
+Min.
+L
+Max.
+N
+Max.
+Q
+Thread
+Class 2A
+Z
+Max.
+A
+Thread
+Class 2A
+L
+Max.
+S
+Max.
+Shell 
+Size
+V
+Thread
+Class 2A
+6
+.442
+.3750 DS
+.875
+.3125-32 NEF
+.924
+.175
+1.518
+.462
+.3750-32 NEF
+8
+.570
+.5000 DS
+.875
+.4375-28 UNEF
+.924
+.297
+1.518
+.590
+.5000-28 UNEF
+10
+.697
+.6250 DS
+.875
+.5625-24 NEF
+.924
+.421
+1.518
+.717
+.6250-24 NEF
+12
+.814
+.7500 DS
+.875
+.6875-24 NEF
+.924
+.546
+1.518
+.834
+.7500-20 UNEF
+14
+.950
+.8750 DS
+.875
+.8125-20 UNEF
+.924
+.663
+1.518
+.970
+.8750-20 UNEF
+16
+1.068
+1.0000 DS
+.875
+.9375-20 UNEF
+.924
+.787
+1.518
+1.088
+1.0000-20 UNEF
+18
+1.196
+1.1250 DS
+.875
+1.0625-18 NEF
+.924
+.879
+1.518
+1.216
+1.1875-18 NEF 
+20
+1.312
+1.2500 DS
+1.031
+1.1875-18 NEF
+1.081
+1.014
+1.578
+1.332
+1.1875-18 NEF
+22
+1.440
+1.3750 DS
+1.031
+1.3125-18 NEF
+1.081
+1.135
+1.578
+1.460
+1.4375-18 NEF
+Class “A” (SR), “E” (SR), “P” (SR)
+Class “E”
+Class “P”
+Class “W”
+Shell 
+Size
+C
+Thread
+D
+Min.
+G
+Dia.
+H
+Max.
+L
+Max.
+N
+Max.
+L
+Max.
+N
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+D
+L
+Max.
+N
+Max.
+Closed
+Free
+6
+–
+–
+–
+–
+–
+–
+1.250
+.440
+.192
+1.406
+.484
+–
+–
+–
+–
+8
+6-32
+.240
+.125
+.812
+1.922
+.550
+1.250
+.560
+.317
+1.406
+.608
+.168
+.230
+1.680
+.547
+10
+6-32
+.302
+.188
+.875
+1.922
+.675
+1.250
+.685
+.434
+1.406
+.734
+.205
+.312
+1.680
+.675
+12
+6-32
+.428
+.312
+1.000
+1.922
+.803
+1.250
+.813
+.548
+1.406
+.858
+.338
+.442
+1.823
+.812
+14
+6-32
+.552
+.375
+1.125
+1.922
+.920
+1.250
+.930
+.673
+1.406
+.984
+.416
+.539
+2.015
+.940
+16
+6-32
+.615
+.500
+1.188
+2.047
+1.047
+1.250
+1.057
+.798
+1.406
+1.110
+.550
+.616
+2.231
+1.067
+18
+8-32
+.740
+.625
+1.438
+2.078
+1.165
+1.250
+1.175
+.899
+1.406
+1.234
+.600
+.672
+2.461
+1.194
+20
+8-32
+.740
+.625
+1.438
+2.344
+1.290
+1.434
+1.301
+1.024
+1.562
+1.360
+.635
+.747
+2.835
+1.322
+22
+8-32
+.928
+.750
+1.719
+2.344
+1.418
+1.434
+1.430
+1.149
+1.562
+1.484
+.670
+.846
+2.999
+1.449
+All dimensions for reference only.
+53
+
+PC02
+box mounting receptacle
+L
+S
+R
+.120 ± .005 Dia.
+4 Holes
+A
+M
+N
+R S
+K
+Z
+PC02A-XX-XXX
+* PC02C-XX-XXX
+* PC02E-XX-XXX
+* PC02P-XX-XXX
+To complete part number see how to order on page 61.
+* The PC02 Box Mounting Receptacle is made only to complete a series and no provision
+is made for accessories or potting on the rear skirt.
+Receptacle
+Front View
+Receptacle
+Side View
+M
++.010
+–.000
+N
+Max.
+Z
+Max.
+K
++.020
+–.010
+L
+Max.
+A
+Thread
+Class 2A
+R
+±.005
+S
+±.010
+Shell
+Size
+6
+.469
+.688
+.3750 DS
+.469
+.801
+.406
+.323
+.466
+8
+.594
+.812
+.5000 DS
+.469
+.801
+.406
+.449
+.466
+10
+.719
+.938
+.6250 DS
+.469
+.801
+.406
+.573
+.466
+12
+.812
+1.031
+.7500 DS
+.469
+.801
+.406
+.699
+.466
+14
+.906
+1.125
+.8750 DS
+.469
+.801
+.406
+.823
+.466
+16
+.969
+1.219
+1.0000 DS
+.469
+.801
+.406
+.949
+.466
+18
+1.062
+1.312
+1.1250 DS
+.469
+.801
+.406
+1.073
+.466
+20
+1.156
+1.438
+1.2500 DS
+.562
+.988
+.469
+1.199
+.527
+22
+1.250
+1.562
+1.3750 DS
+.562
+.988
+.469
+1.323
+.527
+All dimensions for reference only.
+54
+
+PC06
+straight plug
+Z
+Q
+S
+A
+.333 MAX
+L
+TERMINATION ASSEMBLIES
+“A” General Duty
+“A” (SR), “E” (SR), “P” (SR) Strain Relief
+“E” Open Wire Seal
+“P” Potting Boot
+“W” Cable Seal
+L
+L
+L
+L
+V
+L
+N
+D
+D
+N
+D
+G
+N
+D H
+N
+N
+C
+.375 MIN 
+PC06A-XX-XXX
+PC06E-XX-XXX
+PC06P-XX-XXX
+PC06W-XX-XXX
+PC06A-XX-XXX (SR)
+PC06E-XX-XXX (SR)
+PC06P-XX-XXX (SR)
+To complete part number see how to order on page 61.
+Plug Front 
+View
+Plug
+Side View
+Class “A”
+D
+Min.
+L
+Max.
+N
+Max.
+Q
+Thread
+Class 2A
+Z
+Max.
+A
+Thread
+Class 2B
+L
+Max.
+S
+Max.
+Shell 
+Size
+V
+Thread
+Class 2A
+6
+.604
+.3750 DS
+.875
+.3125-32 NEF
+.627
+.175
+1.534
+.462
+.3750-32 NEF
+8
+.729
+.5000 DS
+.875
+.4375-28 UNEF
+.627
+.297
+1.534
+.590
+.5000-28 UNEF
+10
+.854
+.6250 DS
+.875
+.5625-24 NEF
+.627
+.421
+1.534
+.717
+.6250-24 NEF
+12
+.979
+.7500 DS
+.875
+.6875-24 NEF
+.627
+.546
+1.534
+.834
+.7500-20 UNEF
+14
+1.104
+.8750 DS
+.875
+.8125-20 UNEF
+.627
+.663
+1.534
+.972
+.8750-20 UNEF
+16
+1.229
+1.0000 DS
+.875
+.9375-20 UNEF
+.627
+.787
+1.534
+1.088
+1.0000-20 UNEF
+18
+1.354
+1.1250 DS
+.875
+1.0625-18 UNEF
+.627
+.879
+1.534
+1.216
+1.1875-18 NEF
+20
+1.478
+1.2500 DS
+1.031
+1.1875-18 NEF
+.783
+1.014
+1.613
+1.332
+1.1875-18 NEF
+22
+1.604
+1.3750 DS
+1.031
+1.3125-18 NEF
+.783
+1.135
+1.613
+1.460
+1.4375-18 NEF
+Class “A” (SR), “E” (SR), “P” (SR)
+Class “E”
+Class “P”
+Class “W”
+Shell 
+Size
+C
+Thread
+D
+Min.
+G
+Dia.
+H
+Max.
+L
+Max.
+N
+Max.
+L
+Max.
+N
+Max.
+D
+Min.
+L
+Max.
+N
+Max.
+D
+L
+Max.
+N
+Max.
+Closed
+Free
+6
+–
+–
+–
+–
+–
+–
+1.250
+.440
+.192
+1.406
+.484
+–
+–
+–
+–
+8
+6-32
+.240
+.125
+.812
+1.906
+.550
+1.250
+.560
+.317
+1.406
+.608
+.168
+.230
+1.680
+.547
+10
+6-32
+.302
+.188
+.875
+1.906
+.675
+1.250
+.685
+.434
+1.406
+.734
+.205
+.312
+1.680
+.675
+12
+6-32
+.428
+.312
+1.000
+1.906
+.803
+1.250
+.813
+.548
+1.406
+.858
+.338
+.442
+1.823
+.812
+14
+6-32
+.552
+.375
+1.125
+1.906
+.920
+1.250
+.930
+.673
+1.406
+.984
+.416
+.539
+2.015
+.940
+16
+6-32
+.615
+.500
+1.188
+2.047
+1.047
+1.250
+1.057
+.798
+1.406
+1.110
+.550
+.616
+2.231
+1.067
+18
+8-32
+.740
+.625
+1.438
+2.078
+1.165
+1.250
+1.175
+.899
+1.406
+1.234
+.600
+.672
+2.461
+1.194
+20
+8-32
+.740
+.625
+1.438
+2.250
+1.290
+1.434
+1.301
+1.024
+1.562
+1.360
+.635
+.747
+2.835
+1.322
+22
+8-32
+.928
+.750
+1.719
+2.250
+1.418
+1.434
+1.430
+1.149
+1.562
+1.484
+.670
+.846
+2.999
+1.449
+All dimensions for reference only
+55
+
+PC07
+jam nut receptacle
+S
+H
+M
+Z
+F
+P
+F
+S
+“A” General Duty/
+“C” Pressurized Receptacle
+PC07A-XX-XXX
+PC07C-XX-XXX
+R
+A
+K
+TERMINATION ASSEMBLIES
+“E” Open Wire Seal
+“A” (SR), “E” (SR) Strain Relief
+“P” Potting Boot
+M
+Z
+M
+Z
+M
+Z
+N
+G D H
+N
+D
+R
+A
+P
+L
+R
+A
+P
+L
+R
+A
+P
+L
+PC07P-XX-XXX
+PC07E-XX-XXX
+PC07A-XX-XXX (SR)
+PC07E-XX-XXX (SR)
+To complete part number see how to order on page 61.
+Receptacle Front View
+Receptacle Side View
+Class “A”, “C”
+Shell
+Size
+F
+±.010
+H
+Hex
+±.016
+S
+±.010
+A
+Thread
+Class 2A
+K
++.016
+–.010
+M
+±.010
+P
+Panel Thickness
+R
+Thread
+Class 2A
+Z
+Max.
+Min.
+Max.
+6
+.286
+.625
+.812
+.3750 DS
+.125
+.671
+.062
+.125
+.4375-28 UNEF
+.232
+8
+.331
+.750
+.938
+.5000 DS
+.125
+.671
+.062
+.125
+.5625-24 NEF
+.232
+10
+.375
+.875
+1.062
+.6250 DS
+.125
+.671
+.062
+.125
+.6875-24 NEF
+.232
+12
+.442
+1.062
+1.250
+.7500 DS
+.125
+.671
+.062
+.125
+.8750-20 UNEF
+.232
+14
+.486
+1.188
+1.375
+.8750 DS
+.125
+.671
+.062
+.125
+1.0000-20 UNEF
+.232
+16
+.530
+1.312
+1.500
+1.0000 DS
+.125
+.671
+.062
+.125
+1.1250-18 NEF
+.232
+18
+.573
+1.438
+1.625
+1.1250 DS
+.125
+.671
+.062
+.125
+1.2500-18 NEF
+.232
+20
+.641
+1.562
+1.812
+1.2500 DS
+.156
+.797
+.062
+.250
+1.3750-18 NEF
+.262
+22
+.685
+1.688
+1.938
+1.3750 DS
+.156
+.797
+.062
+.250
+1.5000-18 NEF
+.262
+Shell
+Size
+Class “E”
+Class “A” (SR), “E” (SR)
+Class “P”
+L
+Max.
+N
+Max.
+C
+Thread
+G
+Dia.
+H
+Max.
+L
+Max.
+P
+Min.
+D
+Min.
+L
+Max.
+N
+Max.
+6
+.692
+.605
+–
+–
+–
+–
+–
+.192
+.665
+.484
+8
+.692
+.730
+6-32
+.125
+.812
+1.096
+.240
+.317
+.665
+.608
+10
+.692
+.855
+6-32
+.188
+.875
+1.096
+.302
+.434
+.665
+.734
+12
+.692
+.980
+6-32
+.312
+1.000
+1.096
+.428
+.548
+.665
+.858
+14
+.692
+1.105
+6-32
+.375
+1.125
+1.096
+.552
+.673
+.665
+.984
+16
+.692
+1.230
+6-32
+.500
+1.188
+1.228
+.651
+.798
+.665
+1.110
+18
+.692
+1.355
+8-32
+.625
+1.438
+1.228
+.740
+.899
+.665
+1.234
+20
+.754
+1.511
+8-32
+.625
+1.438
+1.291
+.740
+1.024
+.790
+1.360
+22
+.754
+1.636
+8-32
+.750
+1.625
+1.291
+.928
+1.149
+.790
+1.484
+All dimensions for reference only
+56
+
+PC
+hermetic
+Three shell styles are available in the hermetic PC threaded 
+series:
+•
+PCIH
+•
+PC02H
+•
+PC07H
+These hermetic connectors are available with solder cup or flat 
+eyelet pin contacts. Socket contacts are available in some ver-
+sions. Other design characteristics of the PC hermetic connec-
+tor series are as follows:
+Shell Size: 6 thru 22. (tin plated)
+solder
+mounting 
+receptacle
+Contact count:
+2 through 65. Refer to pages 4 and 5 for insert 
+availability for hermetics.
+Current: 5.0 amp, each #20 contact;
+10 amp, each #16 contact;
+17 amp, each #12 contact.
+Contacts: Fabricated from high nickel alloy and tin plated.
+Dielectric Withstanding Voltage (sea level):
+1500 volts (RMS) 60 cps Service Rating I;
+2300 volts (RMS) 60 cps Service Rating II.
+Compression glass inserts, permanently lettered.
+Helium Leakage: Less than 1.0 X 10-6 cc/sec.
+at 15 psi differential.
+Physical Shock: 100 G’s.
+box
+mounting 
+receptacle
+Vibration: Exceeds MIL-E-5272 Procedure II.
+Thermal Shock:
+No deterioration or failure after
+5 cycles at –55°F to +257°F.
+Refer to pages 4-11 for insert arrangement availability.
+jam nut 
+receptacle
+57
+
+PCIH
+hermetic solder mounting receptacle
+S
+A
+L
+W
+N
+Z
+.031 +.006
+–.005
+* PCIH-XX-XXX
+** PCIY-XX-XXX
+To complete part number see how to order on page 61.
+* Solder cup pin contacts without interfacial seal.
+** Solder cup pin contacts with interfacial seal
+Receptacle
+Front View
+Receptacle
+Side View
+W
++.011
+–.010
+Z
+Max.
+N
+Dia.
++.000
+–.005
+L
++.025
+–.016
+A
+Thread
+Class 2A
+S
+Dia.
+Max.
+Shell
+Size
+6
+.511
+.3750 DS
+.422
+.438
+.094
+.387
+8
+.636
+.5000 DS
+.422
+.562
+.094
+.387
+10
+.761
+.6250 DS
+.422
+.672
+.094
+.387
+12
+.855
+.7500 DS
+.422
+.781
+.094
+.387
+14
+.980
+.8750 DS
+.422
+.906
+.094
+.387
+16
+1.105
+1.0000 DS
+.422
+1.031
+.094
+.387
+18
+1.229
+1.1250 DS
+.422
+1.156
+.094
+.387
+20
+1.323
+1.2500 DS
+.422
+1.250
+.094
+.387
+22
+1.439
+1.3750 DS
+.422
+1.375
+.125
+.418
+All dimensions for reference only.
+58
+
+PC02H
+hermetic box mounting receptacle
+R
+S
+.120 ± .005 Dia.
+4 Holes
+A
+L
+K
+N
+R S
+Z
+T
+* PC02H-XX-XXX
+** PC02Y-XX-XXX
+To complete part number see how to order on page 61.
+* Solder cup pin contacts without interfacial seal.
+** Solder cup pin contacts with interfacial seal
+Receptacle Front 
+View
+Receptacle Side View
+L
++.010
+–.000
+N
+Dia.
++.000
+–.005
+T
+±.010
+Z
+Max.
+A
+Thread
+Class 2A
+K
+±.016
+Shell
+Size
+R
+±.005
+S
+±.010
+6
+.469
+.688
+.3750 DS
+.047
+.469
+.438
+.062
+.344
+8
+.594
+.812
+.5000 DS
+.047
+.469
+.562
+.062
+.344
+10
+.719
+.938
+.6250 DS
+.047
+.469
+.672
+.062
+.344
+12
+.812
+1.031
+.7500 DS
+.047
+.469
+.781
+.062
+.344
+14
+.906
+1.125
+.8750 DS
+.047
+.469
+.906
+.062
+.344
+16
+.969
+1.219
+1.0000 DS
+.047
+.469
+1.031
+.062
+.344
+18
+1.062
+1.312
+1.1250 DS
+.047
+.469
+1.156
+.062
+.344
+20
+1.156
+1.438
+1.2500 DS
+.047
+.469
+1.250
+.062
+.344
+22
+1.250
+1.562
+1.3750 DS
+.078
+.469
+1.375
+.062
+.377
+All dimensions for reference only.
+59
+
+PC07H
+hermetic jam nut receptacle
+S
+M
+Z
+F
+P
+F
+S
+R
+A
+K
+H
+* PC07H-XX-XXX
+** PC07Y-XX-XXX
+To complete part number see how to order on page 61.
+* Solder cup pin contacts without interfacial seal.
+** Solder cup pin contacts with interfacial seal
+Receptacle Front View
+Receptacle Side View
+K
++.000
+–.016
+M
+±.020
+Panel
+Thickness
+R
+Thread
+Class 2A
+Z
++.010
+Min
+Max.
+A
+Thread
+Class 2A
+H
+Hex.
+±.016
+S
++.010
+Shell
+Size
+F
++.010
+6
+.286
+.625
+.812
+.3750 DS
+.094
+.671
+.062
+.125
+.4375-28 UNEF
+.129
+8
+.331
+.750
+.938
+.5000 DS
+.094
+.671
+.062
+.125
+.5625-24 NEF
+.129
+10
+.375
+.875
+1.062
+.6250 DS
+.094
+.671
+.062
+.125
+.6875-24 NEF
+.129
+12
+.442
+1.062
+1.250
+.7500 DS
+.094
+.671
+.062
+.125
+.8750-20 UNEF
+.129
+14
+.486
+1.188
+1.375
+.8750 DS
+.094
+.671
+.062
+.125
+1.0000-20 UNEF
+.129
+16
+.530
+1.312
+1.500
+1.0000 DS
+.094
+.671
+.062
+.125
+1.1250-18 NEF
+.129
+18
+.573
+1.438
+1.625
+1.1250 DS
+.094
+.671
+.062
+.125
+1.2500-18 NEF
+.129
+20
+.641
+1.562
+1.812
+1.2500 DS
+.125
+.797
+.062
+.250
+1.3750-18 NEF
+.034
+22
+.685
+1.688
+1.938
+1.3750 DS
+.125
+.797
+.062
+.250
+1.5000-18 NEF
+.034
+All dimensions for reference only.
+60
+
+PC
+how to order
+PC
+To more easily illustrate ordering procedure, part number 
+PC00A-20-41PW (SR) is shown as follows:
+PC
+00
+A
+– 20 – 41
+P
+W
+(SR)
+1
+2
+3
+4
+5
+6
+7
+8
+See code below:
+1. Connector Type
+“PC” designates bright cadmium plated with clear chromate after treat-
+ment, threaded coupling connector with solder contacts
+2. Shell Style
+“00”
+designates wall mounting receptacle
+“01”
+designates cable connecting receptacle†
+HOW TO ORDER
+PC SERIES
+“02”
+designates box mounting receptacle
+“06”
+designates straight plug
+“07”
+designates jam nut receptacle
+“I” 
+designates solder-mount receptacle (hermetic only)
+3. Service Class
+“A”
+designates general duty back shell
+“C”
+designates pressurized receptacle
+“E”
+designates environmental resisting open wire seal with
+grommet and nut
+“P”
+designates potted with potting boot
+“W”
+designates clamp assembly for moisture proofing, multi-
+jacketed cables
+“H”
+designates hermetic* seal (without interfacial seal)
+“Y”
+designates hermetic* seal (with interfacial seal)
+4. Shell Size
+“20”
+designates shell size. Shell sizes 6 through 24 available.
+5. Insert Arrangement
+Refer to pages 4-11 for insert availability.
+“20 – 41” designates insert arrangement. (The number following the 
+hyphen is the number only that is used in the part number).
+6. Contacts
+“P”
+designates pin contacts.
+“S”
+designates socket contacts.
+7. Insert Rotation
+Refer to page 7.
+“W”, “X”, “Y”, “Z” designate that insert is rotated in its shell from the “nor-
+mal” position. No letter required for normal (no rotation) position.
+8. “(SR)” designates strain relief clamp.
+Indicate optional finishes as follows:
+(001)
+bright cadmium (standard on “PC”)
+(003)
+olive drab cadmium plate
+(005)
+anodic coating - Alumilite®
+(011)
+chromate treated (Iridite 14-2)
+(014)
+olive drab cadmium plate over nickel
+(023)
+electroless nickel
+*
+Hermetic connectors are supplied with tin plated shells.
+† This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+61
+
+®
+Amphenol  PC-SE, PC-CE
+threaded coupling and crimp termination
+PC-SE. PC-CE
+Contact Specifications
+Contact
+Size
+Test
+Current
+Maximum
+Millivolt 
+Drop†
+Crimp Well 
+Diameter
+Minimum
+Well Depth
+20
+7.5
+55
+.049 ±.001
+.267
+16
+13.0
+49
+.067 ±.001
+.236
+12
+23.0
+42
+.100 ±.002
+.236
+Service Rating
+Test Voltage AC (RMS), 60 cps
+Service
+Rating
+Recommended
+Operating
+AC Voltage
+at Sea Level
+Sea
+Level
+50,000
+ft.
+70,000
+ft.
+110,000
+ft.
+I
+600
+1,500
+500
+375
+200
+II
+1,000
+2,300
+750
+500
+200
+† Silver plated wire per MIL-C-26482
+Amphenol® PC-SE Series threaded coupling miniature cylindri-
+cal connectors incorporate crimp contacts in a spring tower 
+retention system. 
+Amphenol® PC-CE Series threaded coupling miniature cylindri-
+cal connectors incorporate crimp contacts in a nylon wafer 
+retention system to maintain contact position.
+The PC double stub threaded coupling system cannot be cross 
+threaded, and is mechanically assisted while engaging and dis-
+engaging.
+PC-SE and PC-CE Service Classes
+PC-SE and PC-CE connectors are available in the
+three service classes listed below.
+“SE”
+Open wire sealing - environmental resistant,
+with a nut and grommet for moisture proof-
+ing individual wires
+“SE” (SR)Strain relief clamp - environmental resistant
+strain relief clamp and grommet for moisture
+proofing individual wires; provides added
+wire bundle support
+“SP”
+Translucent nylon boot for retaining cus-
+tomer applied potting compounds; held in
+place by a threaded ring
+Shell components are aluminum. Bright cadmium plating to QQ-P-
+416 with a clear chromate after-treatment provides a golden colored 
+conductive finish. Single key/keyway polarization represents maxi-
+mum simplicity in a design proven in millions of AN connectors.
+Both pins and sockets are machined from a copper alloy and are gold 
+plated. This gold plating eliminates contact corrosion and offers an 
+indefinite shelf life. Socket contacts for these series are a closed entry 
+design.
+Both the insert and main joint gasket are molded from resilient neo-
+prene. This provides excellent moisture sealing at the gasket and 
+superior electrical insulation of the contacts in the insert.
+The PC-SE and PC-CE are only intermateable and intermountable 
+within the PC threaded coupling series.
+“SE”
+open wire seal
+“SE” (SR)
+strain relief
+Shell style drawing pages are not shown in this catalog for the PC-SE 
+and PC-CE styles. If connector drawings are needed please contact 
+Amphenol for assistance. Shell styles are currently available in these 
+series as follows: 
+• PC00-SE, wall mounting receptacle
+• PC01-SE, cable connecting receptacle
+• PC02-SE, box mounting receptacle
+• PC06-SE, straight plug
+• PC08-SE, 90 degree plug
+• PC06-CE straight plug (will mate with PC-SE receptacles and PC 
+solder receptacles)
+Please contact Amphenol for complete information, as there may be 
+limitations in shell sizes within the PC-SE and PC-CE series.
+Refer to pages 4-11 for insert arrangement availability.
+* This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+“SP”
+potting boot
+62
+
+PC-SE, PC-CE
+how to order
+PC-SE, PC-CE
+To more easily illustrate ordering procedure, part number 
+PC-SE00A-20-41PW (SR) is shown as follows:
+PC-SE
+00
+SP
+–
+20 – 41
+P
+W
+(SR)
+1
+2
+3
+4
+5
+6
+7
+8
+See code below:
+1. Connector Type
+“PC-SE” designates bright cadmium plated with clear chromate after 
+treatment, threaded coupling connector with crimp contacts, incorporat-
+ing a spring tower retention system
+“PC-CE” designates bright cadmium plated with clear chromate after 
+treatment, threaded coupkling connector with crimp contacts, incorpo-
+rating a nylon waftr retention system to maintain contact postion
+2. Shell Styles PC-SE - consult Amphenol for availability.
+“00”
+designates wall mounting receptacle
+“01”
+designates cable connecting receptacle†
+PC-SE, PC-CE
+THREADED COUPLING
+WITH CRIMP CONTACTS
+“02”
+designates box mounting receptacle
+“06”
+designates straight plug
+“08”
+designates 90 degree plug
+2. Shell Style PC-CE - consult Amphenol for availability.
+“06”
+designates straight plug
+3. Service Class
+“SE”
+designates environmental crimp
+“SP”
+designates potted type crimp
+Both of the above are Amphenol ® proprietary versions of the MIL-C-
+26482, Series 1 crimp contact connector and offer 7 lbs. contact reten-
+tion for size 20 contacts; 9 lbs for size 16 contacts.)
+4. Shell Size
+“20”
+designates shell size. Please contact Amphenol for complete 
+information, as there may be limitations in shell sizes with the PC-SE 
+and PC-CE series.
+5. Insert Arrangement
+Refer to pages 4-11 for insert availability.
+“20 – 41” designates insert arrangement. (The number following the 
+hyphen is the number only that is used in the part number).
+6. Contacts
+“P”
+designates pin contacts.
+“S”
+designates socket contacts.
+7. Insert Rotation
+Refer to page 7.
+“W”, “X”, “Y”, “Z” designate that insert is rotated in its shell from the “nor-
+mal” position. No letter required for normal (no rotation) position.
+8. “(SR)” designates strain relief clamp.
+Indicate optional finishes as follows:
+(001)
+bright cadmium (standard on “PC”)
+(003)
+olive drab cadmium plate
+(005)
+anodic coating - Alumilite®
+(011)
+chromate treated (Iridite 14-2)
+(014)
+olive drab cadmium plate over nickel
+(023)
+electroless nickel
+† This connector style is sometimes referred to as a cable connecting “plug”.
+It does, however, mate with either a straight or 90 degree plug.
+63
+
+PT, SP, PC
+accessories – sealing plugs, flange gaskets,
+potting boots
+SEALING PLUGS – FOR PT, SP, PC
+C
+B
+DIA
+Contact
+Size
+Amphenol®
+Part
+Number
+MS
+Number
+A
+Dia.
+±.010
+.135 +.030
+–.025
+B
+Dia.
+±.005
+C
+±.010
+Color
+Code
+12
+10-405996-12
+MS27488-12
+.121
+.171
+.564
+Yellow
+16
+10-405996-16
+MS27488-16
+.083
+.133
+.564
+Blue
+20
+10-405996-20
+MS27488-20
+.060
+.090
+.564
+Red
+A
+DIA
+How to Order: Order by 10- (Proprietary) or MS part number as shown in chart above.
+SEALING PLUG
+MS27488-XX
+10-405996-XX
+MOUNTING FLANGE GASKETS – FOR PT, SP, PC
+S
+F
+.130 DIA SIZE 6 TO 22
+.156 DIA SIZE 24
+.160 DIA 10-150949
+PT, PC
+10-101949
+SP
+10-150949
+PT, SP, PC
+10-101949
+10-150949
+Shell
+Size
+R
+±.010
+S
+±.010
+R
+±.010
+S
+±.010
+S
+R
+T
+R
+MOUNTING FLANGE GASKET
+10-101949-XX
+10-150949-XX
+F
++.016
+–.000
+T
+±.008
+6
+.469
+.688
+.641
+.953
+.375
+.024
+8
+.594
+.812
+.734
+1.047
+.500
+.024
+10
+.719
+.938
+.812
+1.125
+.625
+.024
+12
+.813
+1.031
+.938
+1.250
+.750
+.024
+14
+.906
+1.125
+1.031
+1.344
+.875
+.024
+16
+.969
+1.219
+1.125
+1.438
+1.000
+.024
+18
+1.063
+1.312
+1.203
+1.516
+1.125
+.024
+20
+1.156
+1.438
+1.297
+1.672
+1.250
+.024
+22
+1.250
+1.563
+1.375
+1.750
+1.375
+.024
+24
+1.375
+1.688
+1.500
+1.875
+1.500
+.024
+How to Order: For PT, PC: 10-101949-XX (complete order number with desired shell size).
+For SP: 10-150949-XX (complete order number with desired shell size).
+75° POTTING BOOTS – FOR PT, SP, PC
+B
+E
+15º
+REF
+D
+L
+Shell
+Size
+B
+Max.
+D
+±.015
+E
+±.015
+L
+Max.
+8
+.433
+.312
+.438
+.766
+10
+.493
+.438
+.562
+.830
+12
+.552
+.516
+.688
+.861
+14
+.643
+.625
+.781
+.916
+16
+.658
+.656
+.890
+.936
+18
+.689
+.703
+1.000
+.959
+20
+.750
+.766
+1.125
+1.052
+22
+.794
+.812
+1.234
+1.073
+24
+1.070
+.918
+1.374
+1.310
+75° POTTING BOOT
+10-101988-XX
+How to Order: 10-101988-XX (complete order number with desired shell size).
+All dimensions for reference only.
+64
+
+PT, SP, PC
+accessories – clamps
+CLASS “E” STRAIN RELIEF CLAMP – FOR PT, SP, PC
+L
+B
+D
+G
+C
+Shell
+Size
+B
+Max.
+C Thread
+Class 2B
+D
+Min.
+G
+Max.
+L
+Max.
+8
+.550
+6-32 NC
+.240
+.812
+.930
+10
+.675
+6-32 NC
+.302
+.875
+.930
+12
+.803
+6-32 NC
+.428
+1.000
+.930
+14
+.920
+6-32 NC
+.552
+1.125
+.930
+16
+1.047
+6-32 NC
+.615
+1.188
+1.062
+18
+1.165
+8-32 NC
+.740
+1.438
+1.062
+20
+1.291
+8-32 NC
+.740
+1.438
+1.093
+22
+1.418
+8-32 NC
+.928
+1.719
+1.093
+24
+1.533
+8-32 NC
+.928
+1.719
+1.093
+CLASS “E” STRAIN RELIEF CLAMP
+10-101971-XX
+How to Order: 10-101971-XX X
+Add desired
+Add desired finish suffix†
+shell size
+“1”
+designates bright cadmium with clear chromate
+“3”
+designates olive drab cadmium
+“5”
+designates Alumilite®
+Not for use with jam nut style connectors.
+CLASSES “A” & “P” STRAIN RELIEF CLAMP – FOR PT, SP, PC
+L
+C
+Thread
+Class 2B
+D
+Min.
+G
+Max.
+Shell
+Size
+B
+Max.
+B
+D
+G
+C
+L
++.010
+–.020
+8
+.540
+6-32 NC
+.240
+.812
+.843
+10
+.665
+6-32 NC
+.302
+.875
+.843
+12
+.793
+6-32 NC
+.428
+1.000
+.843
+14
+.910
+6-32 NC
+.552
+1.125
+.843
+16
+1.037
+6-32 NC
+.614
+1.188
+.975
+18
+1.155
+8-32 NC
+.740
+1.438
+.975
+20
+1.281
+8-32 NC
+.740
+1.438
+1.007
+22
+1.408
+8-32 NC
+.928
+1.719
+1.007
+24
+1.533
+8-32 NC
+.938
+1.719
+1.007
+CLASSES “A” & “P” STRAIN
+RELIEF CLAMP
+10-101980-XX
+How to Order: 10-101980-XX X
+Add desired
+Add desired finish suffix†
+shell size
+“1”
+designates bright cadmium with
+clear chromate
+“3”
+designates olive drab cadmium
+“5”
+designates Alumilite®
+Not for use with jam nut style connectors.
+CLASS “A” CABLE CLAMPS – FOR PT, SP, PC
+V Thread
+B
+ACCESSORIES & TOOLS
+Shell 
+Size
+Amphenol®
+Part Number
+A
+±.031
+B
+Max.
+C
+Dia. Min.
+V
+Thread
+10
+97-3057-1004
+.795
+.842
+.3125
+.6250-24
+12
+97-3057-1007
+.850
+.995
+.4375
+.7500-20
+14
+97-3057-1008
+.920
+1.120
+.5625
+.8750-20
+16
+97-3057-1010
+.920
+1.216
+.6250
+1.0000-20
+18/20
+97-3057-1012
+.927
+1.403
+.7500
+1.1875-18
+22/24
+97-3057-1016
+1.015
+1.683
+.9375
+1.4375-18
+How to Order: Order by 97-3057-XXXX number listed above. Standard finish is olive 
+drab zinc alloy. Consult Amphenol, Sidney, NY for alternate finishes.
+C
+A
+CLASS “A” CABLE CLAMP
+97-3057-XXXX
+† Standard accessory finishes are “1” bright cadmium with clear chromate for PC 
+types, “3” olive drab cadmium for PT and MS/PT types, “5” Alumilite® for SP types. 
+Electroless nickel plating is also available on some items; consult Amphenol, Sid-
+ney, NY
+All dimensions for reference only.
+65
+
+PT, SP, MS/PT
+accessories – protection caps
+RECEPTACLE PROTECTION CAPS – FOR PT, SP, MS/PT
+C
+B
+Shell
+Size
+B Dia.
++.010
+–.000
+C Dia.
++.010
+–.000
+G
+Dia.
+Max.
+L
++.020
+–.000
+X
+Std. & MS
+RA, CA, NA
+L
+G
++.010
+–.005
+.140
+DIA
+X
+X
+X
+X
+MS only
+RAL/CAL/NAL
+6
+.328
+.454
+.577
+.563
+3.000
+5.000
+8
+.454
+.578
+.706
+.563
+3.000
+5.000
+10
+.578
+.703
+.816
+.563
+3.000
+5.000
+12
+.703
+.891
+1.000
+.563
+3.500
+5.000
+14
+.844
+1.016
+1.128
+.563
+3.500
+5.000
+16
+.969
+1.141
+1.257
+.563
+3.500
+5.000
+18
+1.094
+1.266
+1.367
+.563
+3.500
+5.000
+20
+1.219
+1.391
+1.496
+.563
+4.000
+5.000
+22
+1.343
+1.516
+1.624
+.563
+4.000
+5.000
+24
+1.453
+1.614
+1.747
+.603
+4.000
+5.000
+RECEPTACLE PROTECTION CAP
+FOR PT, SP, MS/PT CONNECTORS
+How to Order Proprietary Receptacle Caps:
+Wall Receptacle Caps:
+10-101960- XX X
+Cable Connecting Receptacle Caps:
+10-101961- XX X
+Jam Nut Receptacle Caps:
+10-101964- XX X
+10-101960-XXX
+10-101961-XXX
+10-101964-XXX
+MS3181-XXX
+(Cable Connecting
+MS3181-XXX
+(Wall Receptacle)
+Receptacle)
+(Jam Nut Receptacle)
+Add desired shell size
+Add desired finish suffix†
+“1” designates bright cadmium with clear chromate
+“3” designates olive drab cadmium
+“5” designates Alumilite®
+Proprietary caps are supplied with standard bead chains only (as shown in draw-
+ing at left). For other chain options, an MS version cap should be ordered.
+How to Order MS Version Receptacle Caps:
+Wall Receptacle Caps:
+MS3181- XX
+-CA for sash chain
+-CAL for long sash chain
+-RA for rope chain
+-RAL for long rope chain
+Jam Nut Recept. Caps:
+MS3181- XX
+-NA for sash chain
+-NAL for long sash chain
+Shell size
+MS versions are supplied with standard anodize finish only. For other finish 
+options a proprietary cap should be ordered.
+PLUG PROTECTION CAPS – FOR PT, SP, MS/PT
+L
+Shell
+Size
+N Dia.
++.001
+–.005
+L Dia.
++.025
+–.015
+X
+Std. & MS
+CA, RA
+.140 +.010
+DIA –.005
+FOR SIZE 24
+N
+.125 +.010
+DIA –.005
+FOR SIZE 6-22
+X
+X
+MS only
+CAL/RAL
+6
+.348
+.532
+3.000
+5.000
+8
+.473
+.532
+3.000
+5.000
+10
+.590
+.532
+3.000
+5.000
+12
+.750
+.532
+3.500
+5.000
+14
+.875
+.532
+3.500
+5.000
+16
+1.000
+.532
+3.500
+5.000
+18
+1.125
+.532
+3.500
+5.000
+20
+1.250
+.594
+4.000
+5.000
+22
+1.375
+.594
+4.000
+5.000
+24
+1.500
+.627
+4.000
+5.000
+PLUG PROTECTION CAP
+FOR PT, SP, MS/PT CONNECTORS
+MS3180-XXX
+10-101957-XXX
+How to Order Proprietary Plug Caps:
+10-101957-XX X
+Add desired shell size
+Add desired finish suffix†
+“1” designates bright cadmium with clear chromate
+“3” designates olive drab cadmium
+“5” designates Alumilite®
+Proprietary caps are supplied with standard bead chains only (as shown in draw-
+ing at left). For other chain options an MS version cap should be ordered.
+† Standard accessory finishes are “1” bright cadmium with clear chro-
+mate for PC types, “3” olive drab cadmium for PT and MS/PT types, 
+“5” Alumilite® for SP types. Electroless nickel plating is also available 
+on some items; consult Amphenol, Sidney, NY
+All dimensions for reference only.
+Shell size
+How to Order MS Version Plug Caps: MS3180- XX
+-CA for sash chain
+-CAL for long sash chain
+-RA for rope chain
+-RAL for long rope chain
+66
+MS versions are supplied with standard anodize finish only.
+For other finish options a proprietary cap should be ordered.
+
+PC
+accessories – protection caps
+RECEPTACLE PROTECTION CAPS – FOR PC
+C
+B
+Shell
+Size
+A Thread
+Class 2B
+B Dia.
++.010
+–.000
+A
+L
+G
++.010
+–.005
+.125 
+DIA
+X
+X
+X
+C Dia.
++.010
+–.000
+G
+Max.
+L
+Max.
+X
+±.250
+6
+.3750 DS
+.328
+.454
+.520
+.448
+3.000
+8
+.5000 DS
+.454
+.578
+.648
+.448
+3.000
+10
+.6250 DS
+.578
+.703
+.776
+.448
+3.000
+12
+.7500 DS
+.703
+.891
+.902
+.448
+3.500
+14
+.8750 DS
+.844
+1.016
+1.030
+.448
+3.500
+16
+1.0000 DS
+.969
+1.141
+1.157
+.448
+3.500
+18
+1.1250 DS
+1.094
+1.266
+1.284
+.448
+3.500
+20
+1.2500 DS
+1.219
+1.391
+1.412
+.448
+4.000
+22
+1.3750 DS
+1.343
+1.516
+1.507
+.448
+4.000
+RECEPTACLE PROTECTION CAP
+FOR PC CONNECTORS
+How to Order Proprietary Receptacle Caps for PC connectors only:
+Wall Receptacle Caps:
+10-101950- XX X
+Cable Connecting Receptacle Caps:
+10-101951- XX X
+Jam Nut Receptacle Caps:
+10-101956- XX X
+Add desired shell size
+10-101950-XXX
+10-101951-XXX
+10-101956-XXX
+(Wall Receptacle)
+(Cable Connecting
+(Jam Nut Receptacle)
+Receptacle)
+Add desired finish suffix†
+“1”
+designates bright cadmium with clear chromate (standard for PC)
+“3”
+designates olive drab cadmium
+“5”
+designates Alumilite®
+Caps for PC connectors are supplied only in proprietary versions with standard 
+bead chains only (as shown in drawing at left).
+PLUG PROTECTION CAPS – FOR PC
+B
+Shell
+Size
+A Thread
+Class 2A
+A
+L
+G
+X
+B
++.010
+–.000
+G
+Max.
+L
+Max.
+X
+±.250
+6
+.3750 DS
+.328
+.399
+.557
+3.000
+8
+.5000 DS
+.454
+.526
+.557
+3.000
+10
+.6250 DS
+.578
+.643
+.557
+3.000
+12
+.7500 DS
+.703
+.770
+.557
+3.500
+14
+.8750 DS
+.844
+.897
+.557
+3.500
+16
+1.0000 DS
+.969
+1.025
+.557
+3.500
+18
+1.250 DS
+1.094
+1.152
+.557
+3.500
+20
+1.2500 DS
+1.219
+1.279
+.557
+4.000
+22
+1.3750 DS
+1.343
+1.416
+.557
+4.000
+PLUG PROTECTION CAP
+FOR PC CONNECTORS
+10-101955-XXX
+How to Order Proprietary Plug Caps for PC only:
+10-101955-XX X
+Add desired shell size
+Add desired finish suffix†
+“1”
+designates bright cadmium with clear chromate (standard for (PC)
+“3”
+designates olive drab cadmium
+“5”
+designates Alumilite®
+Caps for PC connectors are supplied only in proprietary versions with standard 
+bead chains only (as shown in drawing at left).
+† Standard accessory finishes are “1” bright cadmium with clear chromate for PC 
+types, “3” olive drab cadmium for PT and MS/PT types, “5” Alumilite® for SP 
+types. Electroless nickel plating is also available on some items; consult Amphe-
+nol, Sidney, NY
+All dimensions for reference only.
+67
+
+PT, SP, PC
+accessories – dummy receptacles, “O” rings,
+plastic dust caps
+DUMMY RECEPTACLES – FOR PT, SP, MS/PT
+S
+S¹
+M
+.150 DIA. +.004
+–.002
+4 HOLES
+(TP)
+S1
+Shell
+Size
+K
+±.010
+M
++.030
+–.000
+N
++.001
+–.005
+Proprietary Version
+MS Version
+R
+±.005
+S
+±.010
+R1
+K
+R
+R¹
+N
+S
+S¹
+R
+R¹
+(TP)
+8
+.062
+.462
+.473
+.734
+1.047
+.594
+.828
+10
+.062
+.462
+.590
+.812
+1.125
+.719
+.954
+12
+.062
+.462
+.750
+.938
+1.250
+.812
+1.047
+14
+.062
+.462
+.875
+1.031
+1.344
+.906
+1.141
+16
+.062
+.462
+1.000
+1.125
+1.438
+.969
+1.234
+18
+.062
+.462
+1.125
+1.203
+1.516
+1.062
+1.328
+20
+.062
+.556
+1.250
+1.297
+1.672
+1.156
+1.453
+22
+.062
+.556
+1.375
+1.375
+1.750
+1.250
+1.578
+24
+.062
+.589
+1.500
+1.500
+1.875
+1.375
+1.703
+How to Order Proprietary Dummy Receptacles:
+10-150921-XX X
+Add desired shell size
+DUMMY RECEPTACLE
+FOR PT, SP, MS/PT CONNECTORS
+MS3115-XXX
+10-150921-XXX
+Add desired finish suffix†
+“1” designates bright cadmium with clear chromate
+“3” designates olive drab cadmium
+“5” designates Alumilite®
+How to Order MS Version Dummy Receptacles:
+MS3115-XX X
+Add desired shell size
+Add desired finish suffix†
+-A designates Alumilite®
+-L
+designates electroless nickel
+-W designates olive drab cadmium
+NEOPRENE “O” RINGS – FOR PC
+J
+T
+Shell
+Size
+Amphenol®
+Part Number
+J Dia.
+±.010
+T Dia.
+±.003
+6
+10-101937-6
+.172
+.031
+8
+10-101937-8
+.328
+.031
+10
+10-101937-10
+.406
+.031
+12
+10-101937-12
+.531
+.031
+14
+10-101937-14
+.641
+.031
+16
+10-101937-16
+.781
+.031
+18
+10-101937-18
+.906
+.031
+20
+10-101937-20
+.984
+.031
+22
+10-101937-22
+1.109
+.031
+NEOPRENE “O” RING
+FOR PC CONNECTORS
+10-101937-XX
+How to order “O” rings:
+Order by 10- (Proprietary) only as shown
+in chart above.
+PLASTIC DUST CAPS
+FOR PT, SP
+FOR PC
+How to Order Plastic Dust Caps:
+To the basic order number add the dust cap size to 
+match connector plug or receptacle shell size, as 
+shown in the tables above.
+Example: 10-70506-12 would be the correct order 
+number for a plastic dust cap for a PT00 receptacle, 
+shell size 10.
+All dimensions for reference only.
+Shell
+Size
+Plug
+Plastic Dust Cap
+Receptacle
+Plastic Dust Cap
+6
+10-70576-6
+10-70576-8
+8
+10-70576-8
+10-70500-8
+10
+10-70500-8
+10-70500-10
+12
+10-70500-10
+10-70500-12
+14
+10-70500-12
+10-70500-14
+16
+10-70500-14
+10-70500-16
+18
+10-70576-18
+10-70500-18
+20
+10-70576-20
+10-70500-20
+22
+10-70576-22
+10-70500-22
+Shell
+Size
+Plug
+Plastic Dust Cap
+Receptacle
+Plastic Dust Cap
+6
+10-70500-8
+10-70506-8S
+8
+10-70506-12
+10-70506-10
+10
+10-70500-12
+10-70506-12
+12
+10-70506-16
+10-70506-14
+14
+10-70506-18
+10-70506-16
+16
+10-70506-20
+10-70506-18
+18
+10-70506-22
+10-70506-20
+20
+10-70506-24
+10-79506-22
+22
+10-70524-1
+10-70506-24
+24
+10-70506-28
+10-70524-1
+68
+
+Application Tools
+“SE”, “CE”
+The following data includes information pertaining to the application tools for crimping, insert-
+ing and removing size 20, 16, and 12 contacts incorporated in Amphenol® Miniature Cylindri-
+cal Connectors.
+All crimping tools included are the “full cycling” type, and when used as specified by the manu-
+facturer, provide reliable crimped wire to contact termination.
+Tool frames and turret heads are available from approved tool manufacturers; consult Amphe-
+nol, Sidney, NY for listings.
+Assembly instructions are available online at www.amphenol-aerospace.com
+See the following:
+L-786 for SE assembly instructions
+L-658 for CE assembly instructions
+L-555 for solder type instructions
+CRIMPING TOOLS
+FOR PT-SE, SP-SE, PC-SE, MS/PT-SE
+(MIL-C-26482, Series 1) Connectors
+FOR PT-CE, SP-CE, PC-CE (Proprietary) 
+Connectors
+MS Tool Part Number
+MS Tool Part Number
+Contact
+Size
+Tool Frame
+Turret Head
+Contact
+Size
+Tool Frame
+Turret Head
+20
+M22520/1-01
+M22520/1-02
+20
+M22520/1-01*
+*
+16
+M22520/1-01
+M22520/1-02
+16
+M22520/1-01*
+*
+12
+M22520/1-01
+M22520/1-02
+* Use Daniels TH254 or equivalent
+INSERTION/REMOVAL TOOLS
+FOR PT-SE, SP-SE, PC-SE, MS/PT-SE
+(MIL-C-26482, Series 1) Connectors
+Insertion Tool
+Removal Tool
+Amphenol®
+Amphenol®
+Contact
+Size
+Contact 
+Insertion Pliers
+Contact 
+Insertion Tool
+MS
+Part Number 
+Contact 
+Insertion Tool
+Amphenol® 
+Contact 
+Removal Tool
+MS
+Part Number 
+Contact 
+Removal Tool
+20
+11-8107-20
+11-7401-20
+M81969/17-03
+11-7880-20
+M81969/19-07
+16
+11-8107-16
+11-7401-16
+M81969/17-04
+11-7880-16
+M81969/19-08
+12
+–
+–
+M81969/17-05
+–
+M81969/19-09
+FOR PT-CE, SP-CE, PC-CE (Proprietary)
+Connectors
+Insertion/Removal Tool
+Contact
+Size
+Contact Insertion 
+Pliers
+Contact Removal Tool 
+Kit
+20
+11-6782
+11-6900
+16
+11-6781
+11-6900
+69
+
+Contacts - Power and Thermocouple Crimp
+for miniature cylindrical connectors
+The following tables provide part number information for crimp contacts
+used in Amphenol® Miniature Cylindrical Connectors. For additional infor-
+mation, consult Amphenol, Sidney, NY.
+CRIMP CONTACTS for MIL-C-26482, Series 1
+(PT-SE, SP-SE) Connectors
+Pins
+Sockets
+Contact
+Size
+Accommodates 
+Wire Size
+MS Number
+Amphenol® 
+Proprietary
+Number
+MS Number
+Amphenol® 
+Proprietary 
+Number
+20
+20, 22 & 24 AWG M39029/31-240 10-314980-20P M39029/32-259 LP-597820-355
+16
+16, 18 & 20 AWG M39029/31-228 10-314980-16P M39029/32-247 10-257982-16F
+12
+12 & 14 AWG
+M39029/31-235 10-807100-125
+M39029/32-254 10-807103-125
+20-16
+16 AWG
+10-330930-20F
+10-807155-205
+16-20
+20 AWG
+10-330932-16F
+10-330933-16F
+12-10
+12 AWG
+10-330938-12F
+10-330939-12F
+CRIMP CONTACTS for PT-CE (Proprietary) Connectors
+Pins
+Sockets
+Amphenol®
+Proprietary Number
+Contact
+Size
+Accommodates 
+Wire Size
+Proprietary
+Number
+Amphenol®
+20
+20, 22 & 24 AWG 10-189000-20F
+10-597817-351
+20-16
+16 AWG
+10-195962-20F
+10-195963-20F
+16
+16, 18 & 20 AWG 10-189004-16F
+10-189006-16F
+THERMOCOUPLE CONTACTS for Miniature Connectors
+Pins
+Proprietary Part Number
+Sockets
+Proprietary Part Number
+Size
+Material
+CE
+SE
+CE
+SE
+Chromel
+10-252900-21P
+10-330940-21P
+10-252900-21S
+10-330940-21S
+Alumel
+10-252900-22P
+10-330940-22P
+10-252900-22S
+10-330940-22S
+Iron
+16
+Crimp
+Termination
+Constantan
+Chromel
+10-252900-1P
+10-330940-1P
+10-252900-1S
+10-330940-1S
+Alumel
+10-252900-2P
+10-330940-2P
+10-252900-2S
+10-330940-2S
+Iron
+10-252900-3P
+10-330940-3P
+10-252900-3S
+10-330940-3S
+20
+Crimp
+Termination
+Constantan
+10-252900-4P
+10-330940-4P
+10-252900-4S
+10-330940-4S
+Chromel
+10-314910-1P
+10-314910-1S
+Alumel
+10-314910-2P
+10-314910-2S
+Iron
+10-314910-3P
+10-314910-3S
+20
+Solder
+Termination††
+Constantan
+10-314910-4P
+10-314910-4S
+†† Listed are insertable/removable contacts; however, it is intended that contacts be terminated with solder.
+For additional thermocouple contact information, consult Amphenol, Sidney, NY.
+See L-776 for thermocouple contact termination instructions. These are online at www.amphenol-aerospace.com
+For PCB contacts for miniature connectors, see page 20.
+70
+
+Coaxial Contacts
+for miniature cylindrical connectors
+Amphenol® Miniature Connectors can incorporate shielded coax contacts. 
+The Miniature family is built around MIL-C-26482 specifications, with Mil-
+approved and proprietary styles offered. Normal operating voltage for Minia-
+ture cylindricals with power only contacts is up to 1,000 VAC (RMS) at sea 
+level.
+Solder Coax Contact
+for use in Miniature Solder Type Connectors
+Miniature Cylindricals offer these features for contact termination
+flexibility:
+•
+Several insert arrangements that can incorporate:
+• Size 8 & 12 Crimp Coax contacts for Crimp type
+• Size 8 & 12 Solder Coax contacts for Solder type
+•
+Wide selection of connector shell styles and sizes
+•
+Standard power contact options within the various connector styles 
+include: solder type, crimp front release, crimp rear release
+•
+Coax contacts are designed to the same high performance standards as 
+power contacts. Coax and power contacts may be intermixed with no deg-
+radation of connector reliability.
+•
+No mis-mating or cross-plugging with insert rotation and keyway
+polarization.
+Pin Crimp Coax Contact
+for use in Miniature Crimp SE Type Connectors
+Socket Crimp Coax Contact
+for use in Miniature Crimp SE Type Connectors
+GENERAL ORDERING INFORMATION
+Amphenol Miniature Cylindricals are normally supplied with a full complement 
+of power contacts, separately packaged. Coax contacts are ordered by part 
+number as referenced in the part number charts on the following pages of this 
+catalog, and are substituted for the power contacts at the time of the cable or 
+equipment assembly. If the application is for coax only, the connector may be 
+ordered less contacts and no power contacts will be supplied.
+Installation instructions for the coax contacts for Miniature Connectors are 
+provided in Amphenol documents as follows: L-633 for solder type; L-613 for 
+SE type; L-660 for CE type.
+CONTACTS
+HOW TO ORDER:
+A. Select the coax contacts designed for the cable being used from the appli-
+cable charts in this catalog for each Miniature type (solder, SE or CE).
+B. Select a connector insert from those shown on pages60-63 which will 
+accommodate the quantity and size of coaxial contacts needed plus any 
+power contacts required. Note: Size 8S and 12S contacts are used with 
+connector inserts through shell size 18 only. For larger connector shell 
+sizes, use size 8L contacts.
+C. Determine the Miniature Cylindrical type, shell style, finish, service class 
+and insert rotation required for your application.
+D. Consult Amphenol, Sidney NY with the pertinent cable, contact, insert 
+arrangement and connector style choices for complete connector part 
+number.
+71
+
+Coaxial Contacts
+for miniature cylindrical connectors, cont.
+Amphenol® Coaxial Contacts designed for use in Miniature Cylindrical Connectors 
+offer the same durability advantages and design benefits for reliable interconnection as the 
+Amphenol coax contacts used in high performance D38999 connectors. A variety of military 
+and commercial shielded cables are accommodated within the miniature cylindrical series. 
+Amphenol supplies coax contacts for solder, crimp SE and crimp CE connector styles.
+Other features of the coax for miniature cylindricals include:
+•
+Miniature coax design has an outside nut within the
+assembly for fast, reliable assembly of contact to cable.
+TYPICAL MINIATURE CRIMP COAX 
+SOCKET CONTACT has crimp socket outer 
+contact with a solder pin inner contact
+•
+All types feature solder style inner contacts and crimp 
+style outer contacts for reliable cable termination
+•
+Miniature coax crimp type contacts are designed for use
+in Miniature crimp series connectors
+•
+Miniature coax solder type contacts are designed for
+use in Miniature solder series connectors. These
+come pre-installed into the solder connector.
+TYPICAL MINIATURE CRIMP COAX PIN 
+CONTACT has crimp pin outer contact 
+with a solder socket inner contact
+TYPICAL ELECTRICAL PERFORMANCE
+Size 8 and 12 Coax Contacts
+Contact Resistance:
+Center @ 1 Amp, 170 millivolts max. voltage drop @ 25°C
+Outer @ 12 Amps, 150 millivolts max. voltage drop @ 25°C
+Dielectric Withstanding Voltage:
+Size 8: 1,300 VAC Rms @ sea level
+Size 12: 1,000 VAC Rms @ sea level
+Size 8 & 12: 250 VAC Rms @ 50,000 ft.
+Insulation Resistance
+5,000 megohms minimum @ 25°C
+Typical VSWR for size 8 & 12 PT-SE Types II & III only:
+1.2 + .12F (GHz) up to 10 GHz
+EXPLANATION OF TYPE CLASSIFICATIONS:
+PT-SE Type I is moisture seal design with internal O-ring.
+PT-SE Type II is 50 ohm impedance matched version. Contacts ter-
+minated to other than 50 ohm cables are therefore not matched.
+PT-SE Type III is 50 ohm contact, non-serviceable after assembly
+Solder and CE Types are non-impedance matched contacts.
+CONTACT FINISHES:
+Suffix
+Finish
+1
+0.00020 min. silver over copper flash
+2
+0.00005 min. gold (Knoop hardness 130-200) over silver
+3
+0.00010 min. gold (Knoop hardness 130-200) over silver
+4
+0.00010 min. gold (Knoop hardness 130-200) over copper
+5
+0.00005 min. gold (Knoop hardness 130-200) over nickel
+E
+0.00005 min. gold (Knoop hardness 90 max.) over copper
+F
+0.00005 min. gold (Knoop hardness 130-200) over copper
+H
+0.00010 min. gold (Knoop hardness 130-200) over copper
+72
+
+Coaxial Contacts
+for miniature cylindrical connectors, cont.
+solder (MIL-C-26482 Series 1 type) - application data
+MATING
+PIN DIA
+L
+H
+F
+G
+SOCKET
+L
+H
+F
+G
+MATING
+PIN DIA
+PIN
+NOTE: All contacts of the same size and the same inner and outer contact 
+diameters (G & H) will mate with each other.
+SOLDER COAX CONTACTS
+For use in Miniature Solder Type Connectors: PT, SP, MS/PT and PC Styles
+Contact Part Number
+Dimensional Data
+(See Drawings above)
+Crimp Ferrule Tools
+L
+Length Ref.
+Cable
+Contact 
+Size
+Retainer Nut 
+Wrench
+G
+Dia.
+H
+Dia.
+±0.001
+Pin
+Socket
+Pin
+Socket
+F
+Across 
+Flats 
+±0.004
+MIL-C-22520/5-01 
+Tool
+Use with Die Part 
+Number
+MIL-C-22520/10-01 
+Tool
+Use with Die Part 
+Number
+MIL-T-22910/7-1
+Tool
+Use with Die Part 
+Number
+RG-58C/U,
+RG-141A/U,
+RG-303/U
+21-33020-2
+21-33019-2
+8S
+0.040
+± 0.001
+0.219
+0.280
+1.114
+1.115
+M22910/7-15 (B)
+M22520/5-05 (B)
+M22520/5-41 (B)
+M22520/10-07 (B)
+11-8676-2
+RG-59B/U,
+RG-62A/U,
+RG-62B/U,
+RG-210/U
+21-33020-1
+21-33019-1
+8L
+0.040
+± 0.001
+0.219
+0.280
+1.176
+1.177
+M22910/7-18 (B)
+M22520/5-45 (B)
+11-8676-3
+21-33020-3
+21-33019-3
+8S
+0.040
+± 0.001
+0.219
+0.280
+1.114
+1.115
+RG-142B/U,
+Times MI51115
+21-33020-7*
+21-33019-7*
+8S
+0.040
+± 0.001
+0.219
+0.280
+1.114
+1.115
+M22910/7-16 (B)
+M22520/5-43 (B)
+11-8676-2
+21-33020-32*
+21-33019-32*
+12S
+0.0300
+± 0.0005
+0.140
+0.172
+1.092
+1.093
+M22910/7-12 (B)
+M22520/5-03 (A)
+M22520/5-08 (A)
+M22520/5-35 (B)
+M22520/10-05 (A)
+11-8676-1
+RG-161/U,
+RG-174A/U,
+RG-179B/U,
+RG-187A/U,
+RG-188A/U,
+RG-316/U
+RG-178B/U
+21-33020-4
+21-33019-4*
+8S
+0.040
+± 0.001
+0.219
+0.280
+1.114
+1.115
+M22910/7-11 (B)
+M22520/5-03 (B)
+M22520/5-33 (B)
+M22520/10-05 (B)
+11-8676-2
+RG-196A/U
+21-33020-31† 21-33061-31*†
+12S
+0.0300
+± 0.0005
+0.140
+0.172
+1.092
+1.093
+M22910/7-11 (B)
+M22520/5-03 (B)
+M22520/5-33 (B)
+M22520/10-05 (B)
+11-8676-1
+21-33020-5*
+21-33019-5*
+8S
+0.040
+± 0.001
+0.219
+0.280
+1.114
+1.115
+M22910/7-15 (B)
+M22520/5-05 (B)
+M22520/5-41 (B)
+M22520/10-07 (B)
+11-8676-2
+RG-180B/U,
+RG-195A/U,
+Raychem
+5022D1312-9
+Raychem
+5021D1331-9
+21-33020-6*
+21-33019-6*
+8S
+0.040
+± 0.001
+0.219
+0.280
+1.114
+1.115
+M22910/7-15 (B)
+M22520/5-05 (B)
+M22520/5-41 (B)
+M22520/10-07 (B)
+11-8676-2
+Thermatics
+2929-29
+21-33020-33
+21-33061-33
+12S
+0.0200
+± 0.0005
+0.140
+0.172
+1.092
+1.093
+M22910/7-13 (B)
+M22520/5-37 (B)
+11-8676-1
+*
+Consult Amphenol, Sidney NY for availability
+CRIMPING TOOLS: Italicized letters in parenthesis that follow positioner part numbers 
+indicate applicable die closure. Commercial equivalents with the same die closure 
+dimension may be used.
+† 21-33020-31 and 21-33061-31 only mate with each other
+NOTE: Contacts can be ordered by part numbers given in chart
+NOTE: Size 8S and 12S contacts are used with connector inserts through 
+shell size 18 only. For larger connector shell sizes, use size 8L contacts.
+CONTACT FINISH: For all contacts in this series feature 0.000050 minimum 
+gold (Knoop hardness 130-200).
+73
+
+Coaxial Contacts
+for miniature cylindrical connectors, cont.
+crimp SE (MIL-C-26482 Series 1 type) - application data
+L
+F
+L
+G
+H
+G
+H
+SOCKET
+MATING
+PIN DIA
+MATING
+PIN DIA
+PIN
+F
+NOTE: All contacts of the same size and the same inner and outer contact 
+diameters (G & H) will mate with each other.
+SE CRIMP COAX CONTACTS
+For use in Miniature Crimp Type Connectors: PT-SE, SP-SE, MS/PT-SE and PC-SE Styles
+Installation Tools
+Contact Part Number
+L
+Length Ref.
+Cable
+Contact 
+Size
+Type
+(See 
+Pg. 23)
+Dimensional Data
+(See Drawings above)
+Crimp Ferrule Tools
+Retainer 
+Nut 
+Wrench
+G
+Dia.
+H
+Dia.
+±0.001
+Finish
+on
+Mating 
+Parts 
+(See
+Pg. 23)
+Insertion 
+Removal
+Pin
+Socket
+Pin
+Socket
+F
+Across 
+Flats 
+±0.004
+MIL-T-22910/7-1
+Tool
+Use with Die Part 
+Number
+MIL-C-22520/5-01 
+Tool
+Use with Die Part 
+Number
+MIL-C-22520/10-0
+Tool
+Use with Die Part 
+Number
+21-33012-21
+21-33012-25
+21-33011-21
+21-33011-25
+8
+8
+I
+II
+2
+0.0355
+±0.0010
+0.218
+0.280
+1.156 1.144
+M22910/7-17 (B) M22520/5-05 (A)
+M22520/5-19 (B) M22520/10-07 (A) 11-8676-2 11-8369-5
+11-8660-5
+11-7880-8
+11-8154-1
+21-33038-21
+21-33038-25*
+21-33037-21
+21-33037-25
+8
+8
+I
+II
+4
+RG-55B/U,
+RG-142A/U,
+RG-142B/U,
+RG-223/U
+21-33138-21( )*
+21-33138-25( )*
+21-33137-21( )*
+21-33137-25( )*
+8
+8
+I
+II
+**
+21-33012-22
+21-33012-26
+21-33011-22
+21-33011-26
+8
+8
+I
+II
+2
+0.0355
+±0.0010
+0.218
+0.280
+1.156 1.144
+M22910/7-15 (B) M22520/5-05 (B)
+M22520/5-41 (B) M22520/10-07 (B) 11-8676-2 11-8369-4
+11-8660-4
+11-7880-8
+11-8154-1
+21-33038-22*
+21-33038-26*
+21-33037-22
+21-33037-26*
+8
+8
+I
+II
+4
+RG-58C/U,
+RG-141A/U,
+RG-303/U
+21-33138-22( )*
+21-33138-26( )*
+21-33137-22( )
+21-33137-26( )*
+8
+8
+I
+II
+**
+21-33012-36
+21-33011-36
+8
+II
+2
+0.0355
+±0.0010
+0.218
+0.280
+1.156 1.144
+M22910/7-18 (B) M22520/5-45 (B)
+11-8676-3 11-8369-5
+11-8660-5
+11-7880-8
+11-8154-1
+21-33038-36*
+21-33037-36
+8
+II
+4
+RG-59B/U,
+RG-62A/U,
+RG-62B/U,
+RG-210/U
+21-33138-36( )* 21-33137-36( )
+8 
+II
+**
+21-33012-37*
+21-33011-37*
+8
+II
+2
+0.0355
+±0.0010
+0.218
+0.280
+1.156 1.144
+M22910/7-17 (B) M22520/5-05 (A)
+M22520/5-19 (B) M22520/10-07 (A) 11-8676-2 11-8369-5
+11-8660-5
+11-7880-8
+11-8154-1
+21-33038-37*
+21-33037-37*
+8
+II
+4
+RG-140/U,
+RG-302/U
+21-33138-37( )* 21-33137-37( )*
+8
+II
+**
+21-33012-34
+21-33012-30
+21-33011-34
+21-33011-30
+8
+8
+I
+II
+2
+11-8676-2
+11-7880-8
+11-8154-1
+21-33038-34
+21-33038-30
+21-33037-34
+21-33037-30
+8
+8
+I
+II
+4
+0.0355
+±0.0010
+0.218
+0.280
+1.156 1.144
+21-33138-34( )*
+21-33138-30( )*
+21-33137-34( )*
+21-33137-30( )*
+8
+8
+I
+II
+**
+11-8369-2
+11-8660-2
+M22910/7-12 (B)
+M22520/5-03 (A)
+M22520/5-08 (A)
+M22520/5-35 (B)
+M22520/10-05 (A)
+21-33012-1
+21-33012-4
+21-33011-1
+21-33011-4
+12
+12
+I
+II
+2
+RG-161/U,
+RG-174A/U,
+RG-179B/U,
+RG-187A/U,
+RG-188A/U,
+RG-316/U
+0.0200
+±0.0005
+0.128
+0.172
+1.092 1.072
+11-8676-1
+11-7880-12
+11-8154-2
+21-33038-1*
+21-33038-4
+21-33037-1*
+21-33037-4*
+12
+12
+I
+II
+4
+21-33138-1( )*
+21-33138-4( )*
+21-33137-1( )
+21-33137-4( )*
+12
+12
+I
+II
+**
+11-8676-2
+21-33012-35
+21-33011-35
+8
+I
+2
+0.0355
+±0.0010
+0.218
+0.280
+1.156 1.144
+11-7880-8
+11-8154-1
+21-33038-35
+21-33037-35
+8
+I
+4
+21-33138-35( )* 21-33137-35( )*
+8
+I
+**
+21-33012-3*
+21-33012-5
+21-33011-3*
+21-33011-5
+12
+12
+I
+II
+2
+RG-178B/U,
+RG-196A/U
+M22910/7-11 (B) M22520/5-03 (B)
+M22520/5-33 (B) M22520/10-05 (A)
+11-8369-1
+11-8660-1
+0.0200
+± 0.0005
+0.128
+0.172
+1.092 1.072
+11-8676-1
+11-7880-12
+11-8154-2
+21-33038-3*
+21-33038-5
+21-33037-3*
+21-33037-5*
+12
+12
+I
+II
+4
+21-33138-3( )*
+21-33138-5( )*
+21-33137-3( )*
+21-33137-5( )*
+12
+12
+I
+II
+**
+74
+NOTE: Contacts can be ordered by part numbers given in chart
+** See finish options for SE crimp Miniature contacts listed on page 70. Replace the paren-
+thesis of the contact part number with the finish suffix number. However, you should con-
+sult Amphenol  Sidney  NY regarding the availability of all finish choices for each part 
+*
+Consult Amphenol, Sidney NY for availability
+CRIMPING TOOLS: Italicized letters in parenthesis that follow positioner part numbers indi-
+cate applicable die closure. Commercial equivalents with the same die closure dimension 
+may be used
+
+Coaxial Contacts
+for miniature cylindrical connectors, cont.
+crimp SE (MIL-C-26482 Series 1 type) - application data, cont.
+NOTE: All contacts of the same size and the same inner and outer contact 
+diameters (G & H) will mate with each other.
+SE CRIMP COAX CONTACTS
+For use in Miniature Crimp Type Connectors: PT-SE, SP-SE, MS/PT-SE and PC-SE Styles
+Installation Tools
+Contact Part Number
+L
+Length Ref.
+Cable
+Contact 
+Size
+Dimensional Data
+(See Drawings pg. 25)
+Crimp Ferrule Tools
+Retainer 
+Nut 
+Wrench
+Type
+(See 
+Pg. 23)
+G
+Dia.
+H
+Dia.
+±0.001
+Insertion 
+Removal
+Pin
+Socket
+Pin
+Socket
+Finish
+on
+Mating 
+Parts 
+(See
+Pg. 23)
+F
+Across 
+Flats 
+±0.004
+MIL-T-22910/7-1
+Tool
+Use with Die Part 
+Number
+MIL-C-22520/5-01 
+Tool
+Use with Die Part 
+Number
+MIL-C-22520/10-0
+Tool
+Use with Die Part 
+Number
+21-33012-24
+21-33012-46*
+21-33011-24
+21-33011-46*
+8
+8
+I
+II
+2
+RG-180B/U,
+RG-195A/U
+0.0355
+± 0.0010
+0.218
+0.280
+1.156 1.144
+M22520/7-15 (B) M22520/5-05 (B)
+M22520/5-41 (B) M22520/10-07 (B) 11-8676-2 11-8369-4
+11-8660-4
+11-7880-8
+11-8154-1
+21-33038-24
+21-33038-46*
+21-33037-24
+21-33037-46*
+8
+8
+I
+II
+4
+21-33138-24( )*
+21-33138-46( )*
+21-33137-24( )*
+21-33137-46( )*
+8
+8
+I
+II
+**
+21-33106-40( ) 21-33105-40( )
+12
+III
+**
+0.0200
+± 0.0005
+0.128
+0.899 0.879
+Daniels GS200 Tool with G2P330 or
+M22520/31-01 Tool with Positioner M22520/31-02
+11-8674-
+12
+11-7880-12
+11-8154-2
+Raychem
+9527E1118,
+RG-180B/U,
+RG-195A/U
+21-33012-6*
+21-33012-7*
+21-33011-6*
+21-33011-7*
+12
+12
+I
+II
+2
+11-8676-1 11-8369-2
+11-8660-2
+11-7880-12
+11-8154-2
+21-33038-6*
+21-33038-7*
+21-33037-6*
+21-33037-7*
+12
+12
+I
+II
+4
+0.0200
+± 0.0005
+0.128
+0.172
+1.092 1.072
+RG-188 or
+RG-316
+Double Braid
+M22910/7-13 (B) M22520/5-37 (B)
+21-33138-6( )*
+21-33138-7( )*
+21-33137-6( )*
+21-33137-7( )*
+12
+12
+I
+II
+**
+21-33012-44
+21-33011-44
+8
+II
+2
+0.0355
+± 0.0010
+0.128
+0.280
+1.156 1.144
+11-8676-2 11-8369-4
+11-8660-4
+11-7880-8
+11-8154-1
+21-33038-44*
+21-33037-44*
+8
+II
+4
+Thermax
+50C-25A-
+DS-1
+21-33138-44( )* 21-33137-44( )*
+8
+II
+**
+RG-195
+Double Braid
+21-33012-28
+21-33011-28
+8
+I
+2
+0.0355
+± 0.0010
+0.128
+0.280
+1.156 1.144
+M22910/7-16 (B) M22520/5-43 (B)
+11-8676-2 11-8369-4
+11-8660-4
+11-7880-8
+11-8154-1
+21-33038-28*
+21-33037-28*
+8
+I
+4
+21-33138-28( )* 21-33137-28( )*
+8
+I
+**
+21-33012-23
+21-33012-27
+21-33011-23
+21-33011-27
+8
+8
+I
+II
+2
+21-33038-23*
+21-33038-27
+21-33037-23*
+21-33037-27
+8
+8
+I
+II
+4
+RG-122/U,
+Raychem
+5022E5111
+0.0355
+± 0.0010
+0.218
+0.280
+1.156 1.144
+M22520/7-15 (B) M22520/5-05 (B)
+M22520/5-41 (B) M22520/10-07 (B) 11-8676-2 11-8369-4
+11-8660-4
+11-7880-8
+11-8154-1
+21-33138-23( )*
+21-33138-27( )*
+21-33137-23( )*
+21-33137-27( )*
+8
+8
+I
+II
+**
+21-33012-31
+21-33011-31
+8
+I
+2
+21-33038-31
+21-33037-31
+8
+I
+4
+Raychem
+9530D5314
+21-33138-31( )* 21-33137-31( )*
+8
+I
+**
+Raychem
+9527A1317
+21-33012-39
+21-33011-39
+8
+II
+2
+0.0355
+± 0.0010
+0.218
+0.280
+1.156 1.144
+M22910/7-15 (B) M22520/5-05 (B)
+M22520/5-41 (B) M22520/10-07 (B) 11-8676-2 11-8369-4
+11-8660-4
+11-7880-8
+11-8154-1
+21-33038-39*
+21-33037-39*
+8
+II
+4
+21-33138-39( )* 21-33137-39( )*
+8
+II
+**
+Raychem
+7527A1318
+21-33012-40*
+21-33011-40
+8
+II
+2
+0.0355
+± 0.0010
+0.218
+0.280
+1.156 1.144
+M22910/7-12 (B)
+M22520/5-03 (A)
+M22520/5-08 (A)
+M22520/5-35 (B)
+M22520/10-05 (A) 11-8676-2 11-8369-2
+11-8660-2
+11-7880-8
+11-8154-1
+21-33038-40*
+21-33037-40*
+8
+II
+4
+21-33138-40* 21-33137-40( )*
+8
+II
+**
+21-33012-43
+21-33011-43
+12
+II
+2
+0.0200
+± 0.0005
+0.128
+0.172
+1.092 1.072
+M22910/7-11 (B) M22520/5-03 (B)
+M22520/5-33 (B) M22520/10-05 (B) 11-8676-1 11-8369-1
+11-8660-1
+11-7880-12
+11-8154-2
+21-33038-43
+21-33037-43
+12
+II
+4
+21-33138-43( )* 21-33137-43( )*
+12
+II
+**
+Westrex
+ 199-49-1,
+Tensolite
+ 30850/87T-1
+*
+Consult Amphenol, Sidney NY for availability
+CRIMPING TOOLS: Italicized letters in parenthesis that follow positioner part numbers indi-
+cate applicable die closure. Commercial equivalents with the same die closure dimension 
+may be used.
+NOTE: Contacts can be ordered by part numbers given in chart
+** See finish options for SE crimp Miniature contacts listed on page 70. Replace the paren-
+thesis of the contact part number with the finish suffix number. However, you should con-
+sult Amphenol, Sidney, NY regarding the availability of all finish choices for each part 
+number.
+75
+
+Coaxial Contacts
+for miniature cylindrical connectors, cont.
+crimp CE (MIL-C-26482 Series 1 type) - application data
+MATING
+PIN DIA
+MATING
+PIN DIA
+H
+L
+L
+G
+F
+H
+F
+G
+SOCKET
+PIN
+NOTE: All contacts of the same size and the same inner and outer contact 
+diameters (G & H) will mate with each other.
+CE CRIMP COAX CONTACTS
+For use in Miniature Crimp Type Connectors: PT-CE, SP-CE and PC-CE Styles
+Installation Tools
+Contact Part Number
+L
+Length Ref.
+Cable
+Contact 
+Size
+Dimensional Data
+(See Drawings above)
+Crimp Ferrule Tools
+Retainer 
+Nut 
+Wrench
+H
+Dia.
+±0.001
+G
+Dia.
+± 0.001
+Pin
+Socket
+Pin
+Socket
+Insertion
+Removal
+F
+Across 
+Flats 
+±0.004
+MIL-C-22520/5-01 
+Tool
+Use with Die Part 
+Number
+MIL-C-22520/10-01 
+Tool
+Use with Die Part 
+Number
+MIL-T-22910/7-1
+Tool
+Use with Die Part 
+Number
+RG-58C/U,
+RG-141A/U,
+RG-303/U
+21-33024-1 21-33023-1
+8
+0.040
+0.219
+0.280
+1.239
+1.285
+M22910/7-15 (B)
+M22520/5-01 (B)
+M22520/5-41 (B)
+M22520/10-07 (B)
+11-8676-2 11-8369-4
+11-8660-4
+11-7310
+RG-178B/U,
+RG-196A/U
+21-33024-2 21-33023-2
+8
+0.040
+0.219
+0.280
+1.039
+1.085
+M22910/7-11 (B)
+M22520/5-03 (B)
+M22520/5-33 (B)
+M22520/10-05 (B)
+11-8676-2 11-8369-1
+11-8660-1
+11-7310
+NOTE: Contacts can be ordered by part numbers given in chart
+*
+Consult Amphenol, Sidney NY for availability
+CONTACT FINISH: for all contacts in this series feature 0.000050 minimum gold (Knoop hardness 130-200).
+CRIMPING TOOLS: Italicized letters in parenthesis that follow positioner part numbers indicate applicable die 
+closure. Commercial equivalents with the same die closure dimension may be used.
+76
+
+Mounting Recommendations
+for miniature cylindrical connectors
+FLANGE MOUNTED CONNECTORS
+4 HOLES
+R
+(TP)
+FLANGE MOUNTED CONNECTORS
+All flange mounting PC and PT connectors use standard MS 
+mounting dimensions. They cannot be back panel mounted 
+due to coupling clearance. The PTB (thru-bulkhead) type con-
+nector must also be back panel mounted on one side. Flange 
+gaskets are available for both series, see page 64.
+No. 4 Screw
+for PC & PT
+No. 6 Screw
+for SP and for
+Size 24 PT
+.120 Dia. for Shell Sizes 6-22
+ PC & PT
+.147 Dia. for
+ Size 24 PT
+.150 Dia. for
+ SP only
+R
+(TP)
+D
+Dia.
+D Dia. 
+Shell 
+Size
+R
+2
+CUT-OUT
+SECTION
+R
+2
+PC & PT
+SP
+PC & PT
+SP
+6
+.469
+.641
+.323
+.439
+8
+.594
+.734
+.449
+.563
+10
+.719
+.812
+.573
+.680
+12
+.812
+.938
+.699
+.859
+14
+.906
+1.031
+.823
+.984
+16
+.969
+1.125
+.949
+1.108
+18
+1.062
+1.203
+1.073
+1.233
+20
+1.156
+1.297
+1.199
+1.358
+22
+1.250
+1.375
+1.323
+1.483
+24
+1.375
+–
+1.449
+–
+JAM NUT MOUNTINGS
+F
+JAM NUT MOUNTINGS
+The jam nut design has become very popular because it allows 
+bench wiring of harness assemblies. The labor saving often off-
+sets the added cost of the jam nut receptacle which is due to 
+the self contained “O” ring and the extra nut. The PC series 
+mounts in a round hole and can be pinned to prevent rotation. 
+The PT series mounts in a “D” mounting hole and does not 
+require pinning. 
+F
+R
+B
+P
+Panel Thickness
+B
++.000
+–.010
+F
+±.010
+R
++.010
+–.000
+Shell 
+Size
+CUT-OUT FOR
+PT ONLY
+PIN LOCATION FOR PC ONLY
+SECTION
+HERMETIC RECEPTACLES
+Min.
+Max.
+6
+.447
+.420
+.286
+.062
+.125
+8
+.572
+.542
+.331
+.062
+.125
+10
+.697
+.669
+.375
+.062
+.125
+12
+.884
+.830
+.442
+.062
+.125
+14
+1.007
+.955
+.486
+.062
+.125
+16
+1.134
+1.084
+.530
+.062
+.125
+18
+1.259
+1.208
+.573
+.062
+.125
+20
+1.384
+1.333
+.641
+.062
+.250
+22
+1.507
+1.459
+.685
+.062
+.250
+24
+1.634
+1.575
+–
+.062
+.250
+N
+CONNECTOR MOUNTING
+RECOMMENDATIONS
+HERMETIC RECEPTACLE MOUNTINGS
+This series must be mounted in such a way as to preserve the 
+hermetic seal provided by the glass insert. Mounting data for 
+box and jam nut receptacles is given above. Cut-out required 
+for solder mounting receptacles (N) is given below.
+CUT-OUT
+SOLDER
+RECEPTACLE
+JAM NUT
+RECEPTACLE
+(See dimensions
+above)
+BOX
+RECEPTACLE
+(See dimensions
+above)
+77
+Shell 
+Size
+N
+Max.
+6
+.458
+8
+.582
+10
+.692
+12
+.801
+14
+.926
+16
+1.051
+18
+1.176
+20
+1.395
+22
+1.375
+The finish of each of these hermetic 
+receptacles is fused electro-deposited 
+tin for easy solderability, and protected 
+by a special lacquer for optimum shelf 
+life. The lacquer will not interfere with 
+any soldering operation.
+Low temperature solder should be used 
+and the addition of a solder fillet at 
+arrow points on drawing at right is rec-
+ommended. Care must be taken that 
+the operating temperature of the final 
+assembly does not rise above the melt-
+
+Other Amphenol Miniature Cylindrical
+Connectors
+MIL-C-26482, Series 2
+MIL-C-26482, Series 2 connectors are provided with the Amphe-
+nol®/Matrix® family of miniature cylindricals These are bayonet 
+coupling type, and they feature crimp contacts that are rear insert-
+able and rear releasable.
+There are six shell styles available and 34 insert arrangements. 
+Military part numbers of the Matrix MIL-C-26482 family include the 
+following:
+MS3470 wall mounting receptacle with narrow flange
+MS3472 wall mounting receptacle with wide flange
+MS3471 cable connecting receptacle
+MS3474 jam nut receptacle
+MS3476 straight plug
+MS3475 plug with RFI grounding fingers
+See catalog 12-071 for more information.
+MIL-C-26482
+Series 2
+Geophysical Miniature Cylindricals
+Designed for the Geophysical industry’s rugged environments, the 
+Amphenol® Geophysical Series connector has custom features 
+that provide reliability in extreme temperature and moisture condi-
+tions.
+The unique shell design provides stronger shells along with an 
+anodized (nonconductive) finish for greater salt, corrosion and 
+abrasion resistance. Coupling nuts are manufactured with round 
+detent holes and are sold separately for greater customer flexibil-
+ity. See product data sheet #146.
+Geophysical
+Miniature Cylindricals
+RJ Field Bayonet MIL-C-26482 Cylindricals
+Amphenol PCD division provides MIL-C-26482 bayonet coupling 
+cylindrical connectors with an RJ45 Ethernet interface*. These are 
+designed for use in all levels of harsh environments from industrial 
+to mil-aero applications providing IP67 protection from dust, fluids, 
+vibration, shock and traction. The Amphenol® RJ Field allows the 
+use of Ethernet Class D/Cat 5 and Cat 5e connections for 10 
+BaseT, 100 Base TX, or 1000 BaseT networks. It works with any 
+standard RJ45 cordset with no extra tooling. It also offers rein-
+forced EMI protection.
+For more information go online to www.rjfield.com or ask for the 
+Field Series brochure.
+*
+Other Field Series products are available through Amphenol PCD. These include 
+RJF TV within MIL-DTL-38999 Series III threaded coupling connectors, and RJF 
+544 within ECTA push-pull plastic shell coupling.
+RJ Field Bayonet
+MIL-C-26482 Cylindricals
+78
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  10-101949-014  MS3110E10-6P  MS3110E10-6S  MS3110E12-10S  MS3110E12-3S  MS3110E14-12P  MS3110E14-
+19P  MS3110E14-19S  MS3110E14-5P  MS3110E14-5S  MS3110E22-55S  MS3110E8-2P  MS3110E8-3P 
+MS3110E8-4P  MS3110E8-4S  MS3110F10-6P  MS3110F12-10S  MS3110F12-3P  MS3110F14-12P  MS3110F16-26S
+  MS3110F20-41S  MS3110F22-55P  MS3110F8-2P  MS3110F8-3P  MS3110F8-3S  MS3110F8-4P  MS3110F8-4S 
+MS3111E12-10P  MS3111E12-10S  MS3111E8-3P  MS3111E8-4P  MS3111E8-4S  MS3111F10-6P  MS3111F10-6S 
+MS3111F12-10P  MS3111F12-3P  MS3111F14-12P  MS3111F14-19P  MS3111F14-19S  MS3111F16-26P 
+MS3111F16-8P  MS3111F8-2P  MS3111F8-2S  MS3111F8-3P  MS3111F8-4P  MS3111F8-4S  MS3112E10-6P 
+MS3112E10-6S  MS3112E12-10P  MS3112E12-10S  MS3112E12-3P  MS3112E12-3S  MS3112E12-8P  MS3112E12-
+8S  MS3112E14-12P  MS3112E14-12S  MS3112E14-15P  MS3112E14-15S  MS3112E14-18P  MS3112E14-18S 
+MS3112E14-19P  MS3112E14-19S  MS3112E14-5P  MS3112E14-5S  MS3112E16-26P  MS3112E16-26S 
+MS3112E16-8P  MS3112E16-8S  MS3112E18-11P  MS3112E18-11S  MS3112E18-32P  MS3112E18-32S 
+MS3112E20-16P  MS3112E20-16S  MS3112E20-41P  MS3112E20-41S  MS3112E22-55P  MS3112E22-55S 
+MS3112E24-61P  MS3112E24-61S  MS3112E8-2P  MS3112E8-2S  MS3112E8-3P  MS3112E8-3S  MS3112E8-4P 
+MS3112E8-4S  MS3114E10-6P  MS3114E10-6S  MS3114E12-10P  MS3114E12-10S  MS3114E12-3P  MS3114E12-8P
+  MS3114E12-8S  MS3114E14-12P  MS3114E14-12S  MS3114E14-18P  MS3114E14-19P  MS3114E14-19S 
+MS3114E14-5P  MS3114E16-26S
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  PC06A14-5P-SR  PC06A-14-19P(SR)  PC06W10-6S-023

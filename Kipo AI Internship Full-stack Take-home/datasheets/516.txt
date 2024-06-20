@@ -1,0 +1,324 @@
+F
+D
+C
+H
+G
+E
+A
+B
+SIDE VIEW FOR EACH VERSION
+COMMON QUOTES FOR ALL VERSION
+UTGX7-----
+UTGX7--D---
+UTGX7--E---
+B.5; Validé
+8
+J
+G
+H
+Solder
+cup
+A
+(without marking)
+7
+0,1
+Insert
+B
+M
+L
+K
+6
+E
+Solder
+cup
+0.6 0.05 for contact #20
+1 0.05 for contact #16
+0.6 0.05 for contact #20
+1 0.05 for contact #16
+F
+O'RING
+C
+NUT
+5
+THREAD
+MATERIAL :
+ 
+- SHELL : PA UL94 V0, UL746C F1 Black color
+- 3 LOCKING PINS RING : Nickel plated Brass +
+stainless Steel
+- INSERT (UTGX7-----) : PA UL94 V0, UL746C F1
+- INSERT (UTGX7--D/E---) : Polychloroprene
+- NUT : Aluminium alloy + Anodic oxidation
+- O'RING : Nitril
+- CONTACTS : brass + coated depending on P/N
+ 
+PERFORMANCE CHARACTERISTICS :
+ 
+Operating temperature: -40
+C up to 105C
+Insulation resistance: 5000 M
+min
+Corrosion salt spray: 500 hours  
+Durability: 500 matings and unmatings
+Sealing conditions: SEE TABLE
+ 
+NOTA:
+1- Contact to be ordered separately for version
+UTGX7----- : refer to corresponding catalogue.
+2- Insert arrangement refer to:
+        UTO-CONTACT-L-C02 (Female insulator)
+        UTO-DHP-003-C01  (Female insulator #20)
+        UTO-DHP-002-C01 (Female insulator #16)
+        UTO-CONTACT-L-C01 (Male insulator)
+        UTO-DHP-003-C01  (Male insulator #20)
+        UTO-DHP-001-C01 (Male insulator #16)
+        C144-UTS1-A (HiSeal Version)
+D
+SHELL
+RECEPTACLE
+3 LOCKING
+PINS RING
+Sealing in MATED conditions with
+COUNTERPART:
+ 
+   -IP68 1 bar during 1 week: immersion
+    under 10 m of water. (IEC 60529)
+   -IP69K : exposure to high pressure water
+    of cleaning equipement(DIN 40050)
+Sealing in MATED conditions with COUNTERPART
+and UNMATED conditions:
+ 
+   -IP68 1 bar during 1 week: immersion
+    under 10 m of water. (IEC 60529)
+   -IP69K : exposure to high pressure water
+    of cleaning equipement(DIN 40050)
+Sealing in MATED conditions with COUNTERPART
+and UNMATED conditions:
+ 
+   -IP68 1 bar during 1 week: immersion
+    under 10 m of water. (IEC 60529)
+   -IP69K : exposure to high pressure water
+    of cleaning equipement(DIN 40050)
+UTGX7-----P
+UTGX7-----S
+SEALING
+CONDITION
+CONNECTOR FRONT VIEW : SPECIFICATION 32
+CountryJurisdiction 
+& Control List
+FR
+NOT LISTED
+PANEL THICKNESS
+Q
+4
+4,2
+R
+P
+SOURIAU shall not be liable for any non-conformity or damage due to a use of the Products
+which does not comply with the Specifications issued by either of the Parties or by a third party
+(professional recommendation, technical notice.)
+Hold on
+V : Drill diameter
+For hold down clip( x2)
+         P/N : CROSS REF TABLE 
+BASIC SERIES
+UTGX 7 14 D 19 P - --
+* P/N for example
+S
+HATTING AREA:
+Contact on PCB
+ECHELLE  2/1
+N
+SHELL TYPE   7
+   Jam nut
+   receptacle
+3
+SPECIFICATION
+ : Without Hold on
+32: With Hold on (see definition in table)
+SHELL SIZE
+10
+12
+14 
+T
+TYPE OF
+LAYOUT
+Standard layout (No digit)
+D : HISEAL Dispolder contacts
+E : HISEAL Handsolder contacts
+ORIENTATIONS
+Normal (no digit)
+W,X,Y,Z
+U
+INSERT
+ARRANGEMENT
+See NOTA 2 
+TYPE OF
+CONTACTS
+P: MALE
+S: FEMALE 
+PANEL CUT OUT and DRILLING
+PATTERN DEFINITION
+25253J
+14/02/2020 --
+B
+Update drawing
+2
+MOD N
+J.FEURPRIER
+Latest modification - by:
+DATE
+ISS
+0.2
+0.2
+MAX
+0.2
+0.3
+0.2
+MAX
+0.25 MIN /
+MAX
+MAX
+0.25 MIN /
+MAX
+0.1
+0.15
+2
+0.1
+0.1
+0.1
+0.1
+0.1 UNEF CLASS
+2A
+20% (g.)
+UTGX CONNECTOR
+TITLE
+JAM NUT RECEPTACLE - SIZE 10 12 & 14 - Standard and Hiseal version
+CUSTOMER DRAWING 
+PE.LANDAIS Date:10/05/2019
+Designed by:
+SHELL
+SIZE
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+Q
+R
+S
+T
+U
+V
+THREAD
+MASS
+Scale
+Dimensions in mm
+General linear
+Tolerances:
+0.2
+3/2
+15.20
+16.6
+17.9
+3.98
+9.85
+9.20
+5.31
+11/16 24
+10
+10
+27.00
+22.15
+ 
+NPRDS / PROJECT 
+GBB
+ 
+8
+7
+6
+5
+4
+3
+2
+1
+18.1
+3
+3.1
+1
+12
+31.75
+27.15
+19.15
+21.3
+22.7
+4.92
+12.17
+11.37
+6.56
+7/8 20
+15
+www.souriau.com
+2.2
+24.5
+15.2
+6.57 11.5/13.4
+*
+7.8
+6.5711.5/13.4
+*
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+14
+34.90
+30.20
+22.31
+24.4
+25.9
+5.29
+13.10
+12.23
+7.06
+1"20
+20
+SHEET
+SOURIAU DRG N° 
+FORMAT
+* -1mm FOR LAYOUT 12D14
+1 / 1
+UTGX-0002A-C
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  UTGX7102W2S  UTGX7103P  UTGX714E19P  UTGX714E5P  UTGX714E5S  UTGX714E7P  UTGX714E12P 
+UTGX7147P  UTGX71412P  UTGX71419P  UTGX7142G1P  UTGX712E4P  UTGX712E8P  UTGX7124P  UTGX7128P
+  UTGX710E7S  UTGX71210P  UTGX710E6P  UTGX7104P  UTGX7106P

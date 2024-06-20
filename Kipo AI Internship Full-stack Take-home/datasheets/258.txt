@@ -1,0 +1,84 @@
+GKAYAR-PD8WFG0-000L
+amc, type_gk
+General information
+Part number
+GKAYAR-PD8WFG0-000L
+Termination
+solder
+Size
+1,5
+Locking principle
+break , push
+Keying
+a_key_amc
+Cable Diameter
+cable_amc_A
+Contact insert description
+Number of contacts
+8
+Contact type
+sockets
+Contact diameter
+07mm
+Insulator material
+peek
+Wire cross section
+22_awg
+Termination
+solder
+Termination diameter
+085mm
+Data transmission
+ethernet_1
+reverse_gender_on_request
+Connection diagram
+con_ethernet_10
+Technical information
+Nominal current single contact
+07_a
+iec_60512_5_2
+Nominal current insert
+4,55 A
+vde_0298_4
+Test voltage
+12_kv_ac
+eia_364_20f
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ipsk8_ip6k9k
+Operating temperature
+51_125_c
+Mating cycles
+5000
+mated
+Material and surface treatments
+Housing
+ruthenium
+Contact
+cu_alloy_gold
+data_text
+GKAYAR-PD8WFG0-000L amc, type_gk
+230522
+1 / 2
+
+safety_text_2
+data_text
+ul_text
+illustrative_text
+GKAYAR-PD8WFG0-000L amc, type_gk
+230522
+2 / 2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  GKAYAR-PD8WFG0-000L

@@ -1,0 +1,2647 @@
+Amphenol
+Electrically conductive gaskets 
+according to VG96940-6 for 
+connectors & accessories
+Elektrisch leitende Dichtungen 
+nach VG96940-6 für  
+Steckverbinder & Zubehör
+
+2
+Summary / Inhaltsverzeichnis
+General description / Allgemeine Beschreibung 
+3
+Technical properties / Technische Eigenschaften 
+4
+Technical properties / Technische Eigenschaften 
+5
+Electrically conductive gaskets according to VG96940-6 / Elektrisch leitende Dichtungen gemäß VG96940-6:
+Form A - Gaskets for front panel mounting Ag/Al - Dichtungen für Vorderwandmontage Ag/Al 
+6
+Form A - Gaskets for front panel mounting Ni/C - Dichtungen für Vorderwandmontage Ni/C 
+7
+Form B - Gaskets for back panel mounting Ag/Al - Dichtungen für Hinterwandmontage Ag/Al  
+8
+Form B - Gaskets for back panel mounting Ni/C - Dichtungen für Hinterwandmontage Ni/C 
+9
+Form C - Gaskets for front and back panel mounting Ag/Al - Dichtungen für Vorder- & Hinterwandmontage Ag/Al 
+10
+Form C - Gaskets for front and back panel mounting Ni/C - Dichtungen für Vorder- & Hinterwandmontage Ni/C 
+11
+Form CA - Gaskets for front panel mounting Ag/Al - Dichtungen für Vorderwandmontage Ag/A 
+12
+Form CA - Gaskets for front panel mounting Ni/C - Dichtungen für Vorderwandmontage Ni/C 
+13
+Form CB - Gaskets for back panel mounting Ag/Al - Dichtungen für Hinterwandmontage Ag/Al 
+14
+Form CB - Gaskets for back panel mounting Ni/C - Dichtungen für Hinterwandmontage Ni/C 
+15
+Form D - Gaskets for connectors EN4165/VG96513 Ag/Al - Dichtungen für Steckverbinder EN4165/ VG96513 Ag/Al 
+16
+Form E - Gaskets for protective caps Ag/Al - Dichtungen für Schutzkappen Ag/Al 
+17
+Form F - Gaskets for jam nut receptacle Ni/C - Dichtungen für Einlochdosen Ni/C 
+18
+Form G - Gaskets for jam nut receptacle (large version) Ag/Al - Dichtungen für Einlochdosen (breite Ausführung) Ag/Al 
+19
+Form G - Gaskets for jam nut receptacle (large version) Ni/C - Dichtungen für Einlochdosen (breite Ausführung) Ni/C 
+20
+Gaskets for D-SUB connectors Ag/Al - Dichtungen für D-SUB Steckverbinder Ag/Al 
+21
+Gaskets for D-SUB connectors Ni/C - Dichtungen für D-SUB Steckverbinder Ni/C 
+22
+
+3
+General description / Allgemeine Beschreibung
+We offer a comprehensive range of electrically conductive gaskets for receptacles and accessories, which 
+are suitable for the highest standards such as military, aerospace and industrial applications. 
+Our range includes all variants from the VG96940-6 and is also approved according to this standard:
+• Gaskets for square flange receptacles for front and back panel mounting
+• Gaskets for jam nut receptacles
+• Gaskets for protective caps
+• Gaskets for D-SUB connectors
+Our gaskets are made of fluorosilicone and a homogeneous mixture of conductive materials such as  
+silver-coated aluminum particles (Version A) or nickel-carbon-particles (Version B).  
+In addition to the excellent shielding properties, our gaskets provide maximum protection against moisture 
+and dirt. They are also resistant to aggressive fluids such as oil, hydraulic or kerosene.
+Both material versions are subject to environmental testing in accordance with IEC 60068-2-52 / DIN EN 
+60068-2-52 (salt fog, cyclic).  
+Our electrically conductive seals approved according to VG96940-6 offer an increased frequency range 
+from 15 KHz to 4 GHz (according to VG, up to 100 MHz are required).
+Wir bieten ein umfangreiches Programm an elektrisch leitenden Dichtungen für Steckdosen und Zubehör, 
+die für hohe Ansprüche in Militär-, Luftfahrt- und Industrieanwendungen geeignet sind.  
+Unser Programm umfasst alle Varianten aus der VG96940-6 und ist auch nach dieser Norm zugelassen:
+• Dichtungen für Steckdosen mit Vierkantflansch für Montageart: Vorderwand und Hinterwand
+• Dichtungen für Steckdosen mit Einlochbefestigung
+• Dichtungen für Schutzkappen 
+• Dichtungen für D-SUB-Steckverbinder
+Unsere Dichtungen bestehen aus Fluorsilikon sowie einem homogenen Gemisch aus elektrisch leitenden 
+Füllstoffen wie versilberte Aluminiumpartikeln (Ausführung A), beziehungsweise Nickel-Carbon-Partikeln 
+(Ausführung B).  
+Neben den hervorragenden Abschirmeigenschaften bieten unsere Dichtungen höchsten Schutz vor 
+Feuchtigkeit und Schmutz. Zusätzlich sind sie beständig gegen aggressive Flüssigkeiten wie Öl, Hydraulik 
+oder Kerosin.
+Darüber hinaus unterliegen beide Werkstoffausführungen der Umweltprüfung nach IEC 60068-2-52 / DIN 
+EN 60068-2-52 (Salznebel, zyklisch).  
+Unsere nach VG96940-6 zugelassenen elektrisch leitenden Dichtungen bieten einen erhöhten Frequenz-
+bereich von 15 KHz bis 4 GHz (nach VG sind bis 100 MHz gefordert). 
+
+4
+Technical properties / Technische Eigenschaften
+Our gaskets are available in following material versions:
+Version A: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB
+Version B: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB
+Water tightness
+According to VG95319-2, Test 5.9.2
+1 Bar / 16h  
+Form A and B
+0,2 Bar / 48h 
+Form C, E, F and G
+Recommended closing force
+294 kPa to 588 kPa
+(3 kp/cm² to 6 kp/cm²)
+Shielding capacity
+According to VG95214-12, measurement method VG95214KS22B see graphics 1 and 2. 
+Frequency ranges
+Our seals according to VG96940-6 cover a frequency range from 15KHz to 4GHz. This exceed the requirements 
+according to VG (up to 100MHz).
+Unsere Dichtungen sind in folgenden Werkstoffausführungen erhältlich:
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ag/Al-Partikeln
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB
+Ausführung B: 
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB
+Wasserdichtheit
+Nach VG95319-2, Prüfung 5.9.2
+1 Bar / 16Std.  
+Form A und B
+0,2 Bar / 48Std. 
+Form C, CA, CB, E, F und G
+Empfohlener Anpressdruck
+294 kPa bis 588 kPa
+(3 kp/cm² bis 6 kp/cm²)
+Schirmdämpfungsmaß
+Nach VG95214-12, Messverfahren VG95214KS22B siehe Grafik 1 und 2. 
+Frequenzbereiche
+Unsere Dichtungen nach VG96940-6 decken einen Frequenzbereich von 15KHz bis 4GHz ab und übersteigen damit 
+die Anforderung nach VG (bis 100MHz). 
+
+5
+Technical properties / Technische Eigenschaften
+Schirmdämpfung / Shielding attenuation
+Dichtungen nach VG96940-6 / 15 KHz - 4 GHz
+Gaskets according to VG96940-6 / 15 KHz - 4 GHz
+
+6
+Form A - Gaskets for front panel mounting Ag/Al - Dichtungen für Vorderwandmontage Ag/Al
+These gaskets correspond to Form A of VG96940-6.
+They are suitable for the following connectors: 
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / 
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151
+Diese Dichtungen entsprechen der Form A der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder: 
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / 
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151 
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Version / 
+Ausführung
+VG-Number /  
+VG-Nummer 
+Colour / 
+Farbe 
+Partnumber /
+Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(+0,3)
+L1
+(max)
+L2
+E 
+(±0,20)
+A
+VG96940-06A001A
+AALB-FSPL-06A001A-0,51
+10SL
+15,88
+25,75
+18,26
+A
+VG96940-06A002A
+AALB-FSPL-06A002A-0,51
+12S
+19,05
+28,15
+20,65
+A
+VG96940-06A003A
+AALB-FSPL-06A003A-0,51
+14S
+22,23
+30,55
+23,01
+A
+VG96940-06A004A
+AALB-FSPL-06A004A-0,51
+16S/16
+25,40
+32,95
+24,61
+4,20
+0,51
+(+0,4/-0,1)
+A
+VG96940-06A005A
+AALB-FSPL-06A005A-0,51
+18
+28,58
+35,60
+27,00
+A
+VG96940-06A006A
+AALB-FSPL-06A006A-0,51
+20
+31,75
+39,00
+29,36
+A
+VG96940-06A007A
+AALB-FSPL-06A007A-0,51
+22
+34,93
+42,20
+31,75
+A
+VG96940-06A008A
+AALB-FSPL-06A008A-0,51
+24
+38,10
+45,70
+34,93
+A
+VG96940-06A009A
+AALB-FSPL-06A009A-0,81
+28
+44,30
+51,50
+39,70
+A
+VG96940-06A010A
+AALB-FSPL-06A010A-0,81
+32
+50,80
+58,20
+44,45
+5,20
+light green 
+/
+hellgrün
+A
+VG96940-06A011A
+AALB-FSPL-06A011A-0,81
+36
+57,00
+64,40
+49,23
+A
+VG96940-06A012A
+AALB-FSPL-06A012A-0,81
+10SL
+15,88
+25,75
+18,26
+A
+VG96940-06A013A
+AALB-FSPL-06A013A-0,81
+12S
+19,05
+28,15
+20,65
+A
+VG96940-06A014A
+AALB-FSPL-06A014A-0,81
+14S
+22,23
+30,55
+23,01
+0,81
+(±0,15)
+A
+VG96940-06A015A
+AALB-FSPL-06A015A-0,81
+16S/16
+25,40
+32,95
+24,61
+4,20
+A
+VG96940-06A016A
+AALB-FSPL-06A016A-0,81
+18
+28,58
+35,60
+27,00
+A
+VG96940-06A017A
+AALB-FSPL-06A017A-0,81
+20
+31,75
+39,00
+29,36
+A
+VG96940-06A018A
+AALB-FSPL-06A018A-0,81
+22
+34,93
+42,20
+31,75
+A
+VG96940-06A019A
+AALB-FSPL-06A019A-0,81
+24
+38,10
+45,70
+34,93
+
+7
+Form A - Gaskets for front panel mounting Ni/C - Dichtungen für Vorderwandmontage Ni/C
+These gaskets correspond to Form A of VG96940-6.
+They are suitable for the following connectors:
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / 
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151 
+Diese Dichtungen entsprechen der Form A der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder:
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / 
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151
+Version B: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Version / 
+Ausführung
+VG-Number / 
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber /
+Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(+0,3)
+L1
+(max)
+L2
+E 
+(±0,20)
+B
+VG96940-06A001B
+AALB-FSPL-06A001B-0,51
+10SL
+15,88
+25,75
+18,26
+B
+VG96940-06A002B
+AALB-FSPL-06A002B-0,51
+12S
+19,05
+28,15
+20,65
+B
+VG96940-06A003B
+AALB-FSPL-06A003B-0,51
+14S
+22,23
+30,55
+23,01
+B
+VG96940-06A004B
+AALB-FSPL-06A004B-0,51
+16S/16
+25,40
+32,95
+24,61
+4,20
+0,51
+(+0,4/-0,1)
+B
+VG96940-06A005B
+AALB-FSPL-06A005B-0,51
+18
+28,58
+35,60
+27,00
+B
+VG96940-06A006B
+AALB-FSPL-06A006B-0,51
+20
+31,75
+39,00
+29,36
+B
+VG96940-06A007B
+AALB-FSPL-06A007B-0,51
+22
+34,93
+42,20
+31,75
+B
+VG96940-06A008B
+AALB-FSPL-06A008B-0,51
+24
+38,10
+45,70
+34,93
+B
+VG96940-06A009B
+AALB-FSPL-06A009B-0,81
+28
+44,30
+51,50
+39,70
+B
+VG96940-06A010B
+AALB-FSPL-06A010B-0,81
+32
+50,80
+58,20
+44,45
+5,20
+dark green
+/
+dunkelgrün
+B
+VG96940-06A011B
+AALB-FSPL-06A011B-0,81
+36
+57,00
+64,40
+49,23
+B
+VG96940-06A012B
+AALB-FSPL-06A012B-0,81
+10SL
+15,88
+25,75
+18,26
+B
+VG96940-06A013B
+AALB-FSPL-06A013B-0,81
+12S
+19,05
+28,15
+20,65
+B
+VG96940-06A014B
+AALB-FSPL-06A014B-0,81
+14S
+22,23
+30,55
+23,01
+0,81
+(±0,15)
+B
+VG96940-06A015B
+AALB-FSPL-06A015B-0,81
+16S/16
+25,40
+32,95
+24,61
+4,20
+B
+VG96940-06A016B
+AALB-FSPL-06A016B-0,81
+18
+28,58
+35,60
+27,00
+B
+VG96940-06A017B
+AALB-FSPL-06A017B-0,81
+20
+31,75
+39,00
+29,36
+B
+VG96940-06A018B
+AALB-FSPL-06A018B-0,81
+22
+34,93
+42,20
+31,75
+B
+VG96940-06A019B
+AALB-FSPL-06A019B-0,81
+24
+38,10
+45,70
+34,93
+
+Form B - Gaskets for back panel mounting Ag/Al - Dichtungen für Hinterwandmontage Ag/Al 
+8
+These gaskets correspond to Form B of VG96940-6.
+They are suitable for the following connectors:
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / VG96929 /
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151
+Diese Dichtungen entsprechen der Form B der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder:
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / VG96929 /
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber /
+Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(+0,3)
+L1
+(max)
+L2
+E 
+(±0,20)
+A
+VG96940-06B001A
+AALB-FSPL-06B001A-0,51
+10SL
+18,20
+25,75
+18,26
+A
+VG96940-06B002A
+AALB-FSPL-06B002A-0,51
+12S
+21,40
+28,15
+20,65
+A
+VG96940-06B003A
+AALB-FSPL-06B003A-0,51
+14S
+24,60
+30,55
+23,01
+A
+VG96940-06B004A
+AALB-FSPL-06B004A-0,51
+16S/16
+27,40
+32,95
+24,61
+4,20
+0,51
+(+0,4/-0,1)
+A
+VG96940-06B005A
+AALB-FSPL-06B005A-0,51
+18
+30,80
+35,60
+27,00
+A
+VG96940-06B006A
+AALB-FSPL-06B006A-0,51
+20
+34,20
+39,00
+29,36
+A
+VG96940-06B007A
+AALB-FSPL-06B007A-0,51
+22
+37,40
+42,20
+31,75
+A
+VG96940-06B008A
+AALB-FSPL-06B008A-0,51
+24
+40,90
+45,70
+34,93
+A
+VG96940-06B009A
+AALB-FSPL-06B009A-0,81
+28
+46,70
+51,50
+39,70
+A
+VG96940-06B010A
+AALB-FSPL-06B010A-0,81
+32
+53,40
+58,20
+44,45
+5,20
+light green
+/
+hellgrün
+A
+VG96940-06B011A
+AALB-FSPL-06B011A-0,81
+36
+59,60
+64,40
+49,23
+A
+VG96940-06B012A
+AALB-FSPL-06B012A-0,81
+10SL
+18,20
+25,75
+18,26
+A
+VG96940-06B013A
+AALB-FSPL-06B013A-0,81
+12S
+21,40
+28,15
+20,65
+A
+VG96940-06B014A
+AALB-FSPL-06B014A-0,81
+14S
+24,60
+30,55
+23,01
+0,81
+(±0,15)
+A
+VG96940-06B015A
+AALB-FSPL-06B015A-0,81
+16S/16
+27,40
+32,95
+24,61
+4,20
+A
+VG96940-06B016A
+AALB-FSPL-06B016A-0,81
+18
+30,80
+35,60
+27,00
+A
+VG96940-06B017A
+AALB-FSPL-06B017A-0,81
+20
+34,20
+39,00
+29,36
+A
+VG96940-06B018A
+AALB-FSPL-06B018A-0,81
+22
+37,40
+42,20
+31,75
+A
+VG96940-06B019A
+AALB-FSPL-06B019A-0,81
+24
+40,90
+45,70
+34,93
+
+9
+Form B - Gaskets for back panel mounting Ni/C - Dichtungen für Hinterwandmontage Ni/C
+These gaskets correspond to Form B of VG96940-6.
+They are suitable for the following connectors:
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / VG96929 /
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151
+Diese Dichtungen entsprechen der Form B der VG96940-6. Sie eignen 
+sich für folgende Steckverbinder:
+GCA / GCB / GCA-B / GCB-B / VG95234 / VG95342 / VG96929 /
+MIL-DTL-5015 / MIL-DTL-83723 Serie II / SAE-AS50151
+Version B: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber /
+Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(+0,3)
+L1
+(max)
+L2
+E 
+(±0,20)
+B
+VG96940-06B001B
+AALB-FSPL-06B001B-0,51
+10SL
+18,20
+25,75
+18,26
+B
+VG96940-06B002B
+AALB-FSPL-06B002B-0,51
+12S
+21,40
+28,15
+20,65
+B
+VG96940-06B003B
+AALB-FSPL-06B003B-0,51
+14S
+24,60
+30,55
+23,01
+B
+VG96940-06B004B
+AALB-FSPL-06B004B-0,51
+16S/16
+27,40
+32,95
+24,61
+4,20
+0,51
+(+0,4/-0,1)
+B
+VG96940-06B005B
+AALB-FSPL-06B005B-0,51
+18
+30,80
+35,60
+27,00
+B
+VG96940-06B006B
+AALB-FSPL-06B006B-0,51
+20
+34,20
+39,00
+29,36
+B
+VG96940-06B007B
+AALB-FSPL-06B007B-0,51
+22
+37,40
+42,20
+31,75
+B
+VG96940-06B008B
+AALB-FSPL-06B008B-0,51
+24
+40,90
+45,70
+34,93
+B
+VG96940-06B009B
+AALB-FSPL-06B009B-0,81
+28
+46,70
+51,50
+39,70
+B
+VG96940-06B010B
+AALB-FSPL-06B010B-0,81
+32
+53,40
+58,20
+44,45
+5,20
+light green
+/
+hellgrün
+B
+VG96940-06B011B
+AALB-FSPL-06B011B-0,81
+36
+59,60
+64,40
+49,23
+B
+VG96940-06B012B
+AALB-FSPL-06B012B-0,81
+10SL
+18,20
+25,75
+18,26
+B
+VG96940-06B013B
+AALB-FSPL-06B013B-0,81
+12S
+21,40
+28,15
+20,65
+B
+VG96940-06B014B
+AALB-FSPL-06B014B-0,81
+14S
+24,60
+30,55
+23,01
+0,81
+(±0,15)
+B
+VG96940-06B015B
+AALB-FSPL-06B015B-0,81
+16S/16
+27,40
+32,95
+24,61
+4,20
+B
+VG96940-06B016B
+AALB-FSPL-06B016B-0,81
+18
+30,80
+35,60
+27,00
+B
+VG96940-06B017B
+AALB-FSPL-06B017B-0,81
+20
+34,20
+39,00
+29,36
+B
+VG96940-06B018B
+AALB-FSPL-06B018B-0,81
+22
+37,40
+42,20
+31,75
+B
+VG96940-06B019B
+AALB-FSPL-06B019B-0,81
+24
+40,90
+45,70
+34,93
+
+10
+Form C 
+Gaskets for front and back panel mounting Ag/Al - Dichtungen für Vorder- & Hinterwandmontage Ag/Al
+These gaskets correspond to Form C of VG96940-6.
+They are suitable for the following connectors:
+Diese Dichtungen entsprechen der Form C der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder: 
+PT / SJT / JT / VG95328 / VG96912 / MIL 26482 Serie I & II / 
+MIL-DTL-38999 Serie II / MIL-DTL-83723 Serie III (-/71, -/72, -/82, -/83) 
+MIL-DTL-26500 (MS24264, MS27613) / JN1003 
+PT / SJT / JT / VG95328 / VG96912 / MIL 26482 Serie I & II / 
+MIL-DTL-38999 Serie II / MIL-DTL-83723 Serie III (-/71, -/72, -/82, -/83)
+MIL-DTL-26500 (MS24264, MS27613) / JN1003 
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(-0,3)
+L1
+(±0,25)
+L2
+(±0,15)
+E 
+(±0,25)
+AALB-FSPL-06C001A-0,51
+8
+12,70
+20,62
+15,09
+A
+VG96940-06C001Aa
+A
+VG96940-06C002Aa
+AALB-FSPL-06C002A-0,51
+10
+15,88
+23,83
+18,26
+A
+VG96940-06C003Aa
+AALB-FSPL-06C003A-0,51
+12
+19,05
+26,19
+20,65
+A
+VG96940-06C004Aa
+AALB-FSPL-06C004A-0,51
+14
+22,23
+28,56
+23,01
+3,50
+0,51
+A
+VG96940-06C005Aa
+AALB-FSPL-06C005A-0,51
+16
+25,40
+30,96
+24,61
+A
+VG96940-06C006Aa
+AALB-FSPL-06C006A-0,51
+18
+30,16
+34,80
+27,00
+A
+VG96940-06C007Aa
+AALB-FSPL-06C007A-0,51
+20
+31,75
+36,53
+29,36
+A
+VG96940-06C008Aa
+AALB-FSPL-06C008A-0,51
+22
+34,93
+39,70
+31,75
+A
+VG96940-06C009Aa
+AALB-FSPL-06C009A-0,51
+24
+38,10
+4,50
+42,88
+34,93
+A
+VG96940-06C011A
+AALB-FSPL-06C011A-0,81
+8
+12,70
+22,40
+15,09
+light green
+/
+hellgrün
+A
+VG96940-06C012A
+AALB-FSPL-06C012A-0,81
+10
+15,88
+25,50
+18,26
+A
+VG96940-06C013A
+AALB-FSPL-06C013A-0,81
+12
+19,05
+27,90
+20,65
+A
+VG96940-06C014A
+AALB-FSPL-06C014A-0,81
+14
+22,23
+30,30
+23,01
+3,50
+A
+VG96940-06C015A
+AALB-FSPL-06C015A-0,81
+16
+25,40
+32,70
+24,61
+0,81
+A
+VG96940-06C016A
+AALB-FSPL-06C016A-0,81
+18
+28,58
+35,10
+27,00
+A
+VG96940-06C017A
+AALB-FSPL-06C017A-0,81
+20
+31,75
+38,20
+29,36
+A
+VG96940-06C018A
+AALB-FSPL-06C018A-0,81
+22
+34,93
+41,40
+31,75
+A
+VG96940-06C019A
+AALB-FSPL-06C019A-0,81
+24
+38,10
+4,50
+44,60
+34,93
+a Gesperrt für Neukonstruktionen / Not for new design
+
+11
+Form C
+Gaskets for front and back panel mounting Ni/C - Dichtungen für Vorder- & Hinterwandmontage Ni/C
+These gaskets correspond to Form C of VG96940-6.
+They are suitable for the following connectors: 
+Diese Dichtungen entsprechen der Form C der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder: 
+PT / SJT / JT / VG95328 / VG96912 / MIL 26482 Serie I & II / 
+MIL-DTL-38999 Serie II / MIL-DTL-83723 Serie III (-/71, -/72, -/82, -/83)  
+MIL-DTL-26500 (MS24264, MS27613) / JN1003
+PT / SJT / JT / VG95328 / VG96912 / MIL 26482 Serie I & II / 
+MIL-DTL-38999 Serie II / MIL-DTL-83723 Serie III (-/71, -/72, -/82, -/83)
+MIL-DTL-26500 (MS24264, MS27613) / JN1003
+Version B: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / Bestellnummer
+Size / 
+Größe 
+D1  
+(+0,4)
+D2 
+(-0,3)
+L1
+(±0,25)
+L2
+(±0,15)
+E 
+(±0,25)
+AALB-FSPL-06C001B-0,51
+8
+12,70
+20,62
+15,09
+B
+VG96940-06C001Ba
+B
+VG96940-06C002Ba
+AALB-FSPL-06C002B-0,51
+10
+15,88
+23,83
+18,26
+B
+VG96940-06C003Ba
+AALB-FSPL-06C003B-0,51
+12
+19,05
+26,19
+20,65
+B
+VG96940-06C004Ba
+AALB-FSPL-06C004B-0,51
+14
+22,23
+28,56
+23,01
+3,50
+0,51
+B
+VG96940-06C005Ba
+AALB-FSPL-06C005B-0,51
+16
+25,40
+30,96
+24,61
+B
+VG96940-06C006Ba
+AALB-FSPL-06C006B-0,51
+18
+30,16
+34,80
+27,00
+B
+VG96940-06C007Ba
+AALB-FSPL-06C007B-0,51
+20
+31,75
+36,53
+29,36
+B
+VG96940-06C008Ba
+AALB-FSPL-06C008B-0,51
+22
+34,93
+39,70
+31,75
+B
+VG96940-06C009Ba
+AALB-FSPL-06C009B-0,51
+24
+38,10
+4,50
+42,88
+34,93
+B
+VG96940-06C011B
+AALB-FSPL-06C011B-0,81
+8
+12,70
+22,40
+15,09
+light green
+/
+hellgrün
+B
+VG96940-06C012B
+AALB-FSPL-06C012B-0,81
+10
+15,88
+25,50
+18,26
+B
+VG96940-06C013B
+AALB-FSPL-06C003B-0,81
+12
+19,05
+27,90
+20,65
+B
+VG96940-06C014B
+AALB-FSPL-06C014B-0,81
+14
+22,23
+30,30
+23,01
+3,50
+B
+VG96940-06C015B
+AALB-FSPL-06C015B-0,81
+16
+25,40
+32,70
+24,61
+0,81
+B
+VG96940-06C016B
+AALB-FSPL-06C016B-0,81
+18
+28,58
+35,10
+27,00
+B
+VG96940-06C017B
+AALB-FSPL-06C017B-0,81
+20
+31,75
+38,20
+29,36
+B
+VG96940-06C018B
+AALB-FSPL-06C018B-0,81
+22
+34,93
+41,40
+31,75
+B
+VG96940-06C019B
+AALB-FSPL-06C019B-0,81
+24
+38,10
+4,50
+44,60
+34,93
+a Gesperrt für Neukonstruktionen / Not for new design
+
+12
+Form CA
+Gaskets for front panel mounting Ag/Al - Dichtungen für Vorderwandmontage Ag/Al
+These gaskets correspond to Form CA of VG96940-6.
+They are suitable for the following connectors:
+Diese Dichtungen entsprechen der Form CA der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder: 
+VG95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+VG95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(-0,3)
+L1
+(±0,25)
+L2
+(±0,15)
+E 
+(±0,25)
+A
+VG96940-06CA001A
+AALB-FSPL-06CA001A-0,81
+9
+12,50
+23,83
+18,26
+A
+VG96940-06CA002A
+AALB-FSPL-06CA002A-0,81
+11
+15,50
+26,19
+20,65
+A
+VG96940-06CA003A
+AALB-FSPL-06CA003A-0,81
+13
+18,50
+28,56
+23,01
+A
+VG96940-06CA004A
+AALB-FSPL-06CA004A-0,81
+15
+22,70
+30,96
+24,61
+3,50
+A
+VG96940-06CA005A
+AALB-FSPL-06CA005A-0,81
+17
+25,70
+34,80
+27,00
+0,81
+light green
+/
+hellgrün
+A
+VG96940-06CA006A
+AALB-FSPL-06CA006A-0,81
+19
+28,70
+36,53
+29,36
+A
+VG96940-06CA007A
+AALB-FSPL-06CA007A-0,81
+21
+32,00
+39,70
+31,75
+A
+VG96940-06CA008A
+AALB-FSPL-06CA008A-0,81
+23
+35,00
+4,50
+42,88
+34,93
+A
+VG96940-06CA009A
+AALB-FSPL-06CA009A-0,81
+25
+38,00
+46,50
+38,10
+
+13
+Form CA
+Gaskets for front panel mounting Ni/C - Dichtungen für Vorderwandmontage Ni/C
+These gaskets correspond to Form CA of VG96940-6.
+They are suitable for the following connectors: 
+Diese Dichtungen entsprechen der Form CA der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder: 
+G95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+G95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+Version B: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(-0,3)
+L1
+(±0,25)
+L2
+(±0,15)
+E 
+(±0,25)
+B
+VG96940-06CA001B
+AALB-FSPL-06CA001B-0,81
+9
+12,50
+23,83
+18,26
+B
+VG96940-06CA002B
+AALB-FSPL-06CA002B-0,81
+11
+15,50
+26,19
+20,65
+B
+VG96940-06CA003B
+AALB-FSPL-06CA003B-0,81
+13
+18,50
+28,56
+23,01
+B
+VG96940-06CA004B
+AALB-FSPL-06CA004B-0,81
+15
+22,70
+30,96
+24,61
+3,50
+B
+VG96940-06CA005B
+AALB-FSPL-06CA005B-0,81
+17
+25,70
+34,80
+27,00
+0,81
+light green
+/
+hellgrün
+B
+VG96940-06CA006B
+AALB-FSPL-06CA006B-0,81
+19
+28,70
+36,53
+29,36
+B
+VG96940-06CA007B
+AALB-FSPL-06CA007B-0,81
+21
+32,00
+39,70
+31,75
+B
+VG96940-06CA008B
+AALB-FSPL-06CA008B-0,81
+23
+35,00
+4,50
+42,88
+34,93
+B
+VG96940-06CA009B
+AALB-FSPL-06CA009B-0,81
+25
+38,00
+46,50
+38,10
+
+14
+Form CB
+Gaskets for back panel mounting Ag/Al - Dichtungen für Hinterwandmontage Ag/Al
+These gaskets correspond to Form CB of VG96940-6.
+They are suitable for the following connectors:
+Diese Dichtungen entsprechen der Form CB der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder: 
+VG95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+VG95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(-0,3)
+L1
+(±0,25)
+L2
+(±0,15)
+E 
+(±0,25)
+A
+VG96940-06CB001A
+AALB-FSPL-06CB001A-0,81
+9
+15,88
+23,83
+18,26
+A
+VG96940-06CB002A
+AALB-FSPL-06CB002A-0,81
+11
+19,05
+26,19
+20,65
+A
+VG96940-06CB003A
+AALB-FSPL-06CB003A-0,81
+13
+22,23
+28,56
+23,01
+A
+VG96940-06CB004A
+AALB-FSPL-06CB004A-0,81
+15
+25,40
+30,96
+24,61
+3,50
+A
+VG96940-06CB005A
+AALB-FSPL-06CB005A-0,81
+17
+30,16
+34,80
+27,00
+0,81
+light green
+/
+hellgrün
+A
+VG96940-06CB006A
+AALB-FSPL-06CB006A-0,81
+19
+31,75
+36,53
+29,36
+A
+VG96940-06CB007A
+AALB-FSPL-06CB007A-0,81
+21
+34,93
+39,70
+31,75
+A
+VG96940-06CB008A
+AALB-FSPL-06CB008A-0,81
+23
+38,10
+4,50
+42,88
+34,93
+A
+VG96940-06CB009A
+AALB-FSPL-06CB009A-0,81
+25
+41,50
+46,50
+38,10
+
+15
+Form CB
+Gaskets for back panel mounting Ni/C - Dichtungen für Hinterwandmontage Ni/C
+These gaskets correspond to Form CB of VG96940-6.
+They are suitable for the following connectors: 
+Diese Dichtungen entsprechen der Form CB der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder: 
+VG95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+VG95319-1006, MIL-DTL-38999 Serie I & III, EN3645, TV, LJT, JN1034
+Version B: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / Bestellnummer
+Size / 
+Größe
+D1  
+(+0,4)
+D2 
+(-0,3)
+L1
+(±0,25)
+L2
+(±0,15)
+E 
+(±0,25)
+B
+VG96940-06CB001B
+AALB-FSPL-06CB001B-0,81
+9
+15,88
+23,83
+18,26
+B
+VG96940-06CB002B
+AALB-FSPL-06CB002B-0,81
+11
+19,05
+26,19
+20,65
+B
+VG96940-06CB003B
+AALB-FSPL-06CB003B-0,81
+13
+22,23
+28,56
+23,01
+B
+VG96940-06CB004B
+AALB-FSPL-06CB004B-0,81
+15
+25,40
+30,96
+24,61
+3,50
+B
+VG96940-06CB005B
+AALB-FSPL-06CB005B-0,81
+17
+30,16
+34,80
+27,00
+0,81
+light green
+/
+hellgrün
+B
+VG96940-06CB006B
+AALB-FSPL-06CB006B-0,81
+19
+31,75
+36,53
+29,36
+B
+VG96940-06CB007B
+AALB-FSPL-06CB007B-0,81
+21
+34,93
+39,70
+31,75
+B
+VG96940-06CB008B
+AALB-FSPL-06CB008B-0,81
+23
+38,10
+4,50
+42,88
+34,93
+B
+VG96940-06CB009B
+AALB-FSPL-06CB009B-0,81
+25
+41,50
+46,50
+38,10
+
+16
+Form D
+Gaskets for connectors EN4165/VG96513 Ag/Al - Dichtungen für Steckverbinder EN4165/VG96513 Ag/Al
+These gaskets correspond to Form D of VG96940-6.
+They are suitable for the following connectors:
+SIM2 Series (SIM2D44*) / VG96513 / EN4165
+Diese Dichtungen entsprechen der Form D der VG96940-6. Sie eignen 
+sich für folgende Steckverbinder:
+SIM2 Series (SIM2D44*) / VG96513 / EN4165
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / 
+Bestellnummer
+Size / 
+Größe
+L1
+(-0,2)
+L2
+(±0,1)
+L3
+(±0,1)
+L4
+(±0,2)
+L5
+(±0,15)
+L6
+(±0,15)
+L7
+(±0,1)
+L8
+(±0,1)
+AALB-FSPL-06D0001A-0,51
+2 
+Modules
+44,4
+49,5
+50,5
+56,1
+15,3
+19,0
+0,51
+3,3
+A
+VG96940-06D001A
+light 
+green 
+/
+hellgrün
+A
+VG96940-06D002A
+AALB-FSPL-06D0002A-0,51
+4 
+Modules
+74,9
+80,0
+81,0
+86,6
+15,3
+19,0
+0,51
+3,3
+
+17
+Form E
+Gaskets for protective caps Ag/Al - Dichtungen für Schutzkappen Ag/Al
+These gaskets correspond to Form E of VG96940-6.
+They are suitable for the following protective caps: 
+Size 1: VG95319-1013D/F/H / MIL-DTL-38999 Serie III (Typ 32)
+Size 2: VG95319-1013C/E/G / MIL-DTL-38999 Serie III (Typ 33)
+Diese Dichtungen entsprechen der Form E der VG96940-6. 
+Sie eignen sich für folgende Schutzkappen:
+Größe 1: VG95319-1013D/F/H / MIL-DTL-38999 Serie III (Bauform 32)
+Größe 2: VG95319-1013C/E/G / MIL-DTL-38999 Serie III (Bauform 33)
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Important: The gasket will be inserted afterwards over the cap’s gasket
+Wichtig: Die Dichtung wird nachträglich, auf die Dichtung der Kappe eingelegt
+Version / 
+Ausführung
+VG number /
+VG-Nummer 
+Colour / 
+Farbe 
+Partnumber /
+Bestellnummer
+Size 1 / 
+Größe 1
+Size 2 / 
+Größe 2
+D1  
+(±0,2)
+L1
+(±0,1)
+A
+VG96940-06E001A
+AALB-FSPL-06E001A-0,80
+-
+9
+16,40
+A
+VG96940-06E002A
+AALB-FSPL-06E002A-0,80
+9
+-
+12,50
+A
+VG96940-06E003A
+AALB-FSPL-06E003A-0,80
+13
+11
+19,60
+A
+VG96940-06E004A
+AALB-FSPL-06E004A-0,80
+11
+-
+15,60
+A
+VG96940-06E005A
+AALB-FSPL-06E005A-0,80
+15
+13
+22,60
+A
+VG96940-06E006A
+AALB-FSPL-06E006A-0,80
+17
+15
+25,90
+A
+VG96940-06E007A
+AALB-FSPL-06E007A-0,80
+-
+17
+30,80
+A
+VG96940-06E008A
+AALB-FSPL-06E008A-0,80
+-
+19
+32,40
+0,8
+light green 
+/
+hellgrün
+A
+VG96940-06E009A
+AALB-FSPL-06E009A-0,80
+19
+-
+28,50
+A
+VG96940-06E010A
+AALB-FSPL-06E010A-0,80
+-
+21
+35,50
+A
+VG96940-06E011A
+AALB-FSPL-06E011A-0,80
+21
+-
+31,70
+A
+VG96940-06E012A
+AALB-FSPL-06E012A-0,80
+-
+23
+38,70
+A
+VG96940-06E013A
+AALB-FSPL-06E013A-0,80
+23
+-
+34,90
+A
+VG96940-06E014A
+AALB-FSPL-06E014A-0,80
+-
+25
+41,90
+A
+VG96940-06E015A
+AALB-FSPL-06E015A-0,80
+25
+-
+38,00
+
+18
+Form F
+Gaskets for jam nut receptacle Ni/C - Dichtungen für Einlochdosen Ni/C
+These gaskets correspond to Form F of VG96940-6.
+They are suitable for the following connectors:
+Size 1:
+PT  / SJT / VG95328 / VG96912 / MIL-C-26482 Serie I & II
+Size 2:
+TV / VG95319-1007 / MIL-DTL-38999 Serie III
+Dummy receptacle according to VG95319-1013 
+Size 3:
+VG 95319-1013
+Diese Dichtungen entsprechen der Form F der VG96940-6. 
+Sie eignen sich für folgende Steckverbinder:
+Größe 1:
+PT  / SJT / VG95328 / VG96912 / MIL-C-26482 Serie I & II
+Größe 2:
+TV / VG95319-1007 / MIL-DTL-38999 Serie III
+Blinddosen nach VG95319-1013 
+Größe 3:
+VG 95319-1013
+Version B:
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Important: The gasket provided with the connector will be replaced by this gasket
+Wichtig: Diese Dichtung ersetzt die beim Steckverbinder mitgelieferte Standard-Dichtung.
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / 
+Bestellnummer
+Size 1 / 
+Größe 1
+Size 2 / 
+Größe 2
+Size 3 / 
+Größe 3
+D1 
+D2
+L1
+(+0,1/-0,15)
+B
+VG96940-06F001B
+AALB-FSPL-06F001B-1,60
+8
+-
+8
+21,00
+17,00
+B
+VG96940-06F002B
+AALB-FSPL-06F002B-1,60
+10
+9
+9
+24,00
+20,00
+B
+VG96940-06F003B
+AALB-FSPL-06F003B-1,60
+12
+11
+11
+29,00
+25,00
+1,6
+B
+VG96940-06F004B
+AALB-FSPL-06F004B-1,60
+14
+13
+13
+32,00
+28,00
+B
+VG96940-06F005B
+AALB-FSPL-06F005B-1,60
+16
+15
+15
+35,00
+31,00
+B
+VG96940-06F006B
+AALB-FSPL-06F006B-1,60
+18
+17
+17
+38,50
+34,50
+dark green
+/
+dunkel-
+grün
+B
+VG96940-06F007B
+AALB-FSPL-06F007B-2,30
+20
+19
+19
+43,00
+37,00
+2,3
+B
+VG96940-06F008B
+AALB-FSPL-06F008B-2,30
+22
+21
+21
+46,00
+40,00
+B
+VG96940-06F009B
+AALB-FSPL-06F009B-2,30
+24
+23
+23
+50,00
+44,00
+B
+VG96940-06F010B
+AALB-FSPL-06F010B-2,30
+-
+25
+25
+53,00
+47,00
+
+19
+Form G
+Gaskets for jam nut receptacle (large version) Ag/Al - Dichtungen für Einlochdosen (breite Ausführung) Ag/Al
+These gaskets correspond to Form G (large version) of VG96940-6. 
+They are suitable for the following connectors:  
+Size 1:
+PT / SJT / VG95328 / VG96912 / MIL-C-26482 Serie I & II
+Size 2:
+TV / VG95319-1007 / MIL-DTL-38999 Serie III
+Diese Dichtungen entsprechen der Form G (breite Ausführung) der 
+VG96940-6. Sie eignen sich für folgende Steckverbinder:
+Größe 1:
+PT / SJT / VG95328 / VG96912 / MIL-C-26482 Serie I & II
+Größe 2:
+TV / VG95319-1007 / MIL-DTL-38999 Serie III
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Important: This gasket will be additionally inserted during the assembly 
+Wichtig: Diese Dichtung wird bei der Montage zusätzlich eingelegt
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber / 
+Bestellnummer
+Size 1 / 
+Größe 1
+Size 2 / 
+Größe 2
+D1 
+D2
+L1
+A
+VG96940-06G001A
+AALB-FSPL-06G001A-0,51
+8
+-
+27,2
+14,5
+A
+VG96940-06G002A
+AALB-FSPL-06G002A-0,51
+10
+9
+30,5
+17,7
+A
+VG96940-06G003A
+AALB-FSPL-06G003A-0,51
+-
+11
+35,2
+20,6
+A
+VG96940-06G004A
+AALB-FSPL-06G004A-0,51
+12
+-
+35,2
+22,5
+0,5
+A
+VG96940-06G005A
+AALB-FSPL-06G005A-0,51
+14
+13
+38,4
+25,6
+A
+VG96940-06G006A
+AALB-FSPL-06G006A-0,51
+16
+15
+41,6
+28,8
+bis
+light green
+/
+hellgrün
+A
+VG96940-06G007A
+AALB-FSPL-06G007A-0,51
+18
+17
+44,8
+32,2
+0,8
+A
+VG96940-06G008A
+AALB-FSPL-06G008A-0,51
+20
+19
+49,5
+35,2
+A
+VG96940-06G009A
+AALB-FSPL-06G009A-0,51
+22
+21
+52,7
+38,3
+A
+VG96940-06G010A
+AALB-FSPL-06G010A-0,51
+24
+23
+55,9
+41,5
+A
+VG96940-06G011A
+AALB-FSPL-06G011A-0,51
+-
+25
+59,0
+44,6
+
+20
+Form G 
+Gaskets for jam nut receptacle (large version) Ni/C - Dichtungen für Einlochdosen (breite Ausführung) Ni/C
+These gaskets correspond to Form G (large version) of VG96940-6. 
+They are suitable for the following connectors:
+Size 1:
+PT / SJT / VG95328 / VG96912 / MIL-C-26482 Serie I & II
+Size 2:
+TV / VG95319-1007 / MIL-DTL-38999 Serie III
+Diese Dichtungen entsprechen der Form G (breite Ausführung) der 
+VG96940-6. Sie eignen sich für folgende Steckverbinder:
+Größe 1:
+PT / SJT / VG95328 / VG96912 / MIL-C-26482 Serie I & II
+Größe 2:
+TV / VG95319-1007 / MIL-DTL-38999 Serie III
+Version B:
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Important: This gasket will be additionally inserted during the assembly
+Wichtig: Diese Dichtung wird bei der Montage zusätzlich eingelegt
+Version / 
+Ausführung
+VG number /
+VG-Nummer
+Colour / 
+Farbe 
+Partnumber /
+Bestellnummer
+Size 1 / 
+Größe1
+Size 2 / 
+Größe 2
+D1 
+D2
+L1
+B
+VG96940-06G001B
+AALB-FSPL-06G001B-0,51
+8
+-
+27,2
+14,5
+B
+VG96940-06G002B
+AALB-FSPL-06G002B-0,51
+10
+9
+30,5
+17,7
+B
+VG96940-06G003B
+AALB-FSPL-06G003B-0,51
+-
+11
+35,2
+20,6
+B
+VG96940-06G004B
+AALB-FSPL-06G004B-0,51
+12
+-
+35,2
+22,5
+0,5
+B
+VG96940-06G005B
+AALB-FSPL-06G005B-0,51
+14
+13
+38,4
+25,6
+B
+VG96940-06G006B
+AALB-FSPL-06G006B-0,51
+16
+15
+41,6
+28,8
+bis
+dark green
+/
+dunkelgrün
+B
+VG96940-06G007B
+AALB-FSPL-06G007B-0,51
+18
+17
+44,8
+32,2
+0,8
+B
+VG96940-06G008B
+AALB-FSPL-06G008B-0,51
+20
+19
+49,5
+35,2
+B
+VG96940-06G009B
+AALB-FSPL-06G009B-0,51
+22
+21
+52,7
+38,3
+B
+VG96940-06G010B
+AALB-FSPL-06G010B-0,51
+24
+23
+55,9
+41,5
+B
+VG96940-06G011B
+AALB-FSPL-06G011B-0,51
+-
+25
+59,0
+44,6
+
+21
+Gaskets for D-SUB connectors Ag/Al - Dichtungen für D-SUB Steckverbinder Ag/Al
+They are suitable for the following connectors:
+D-SUB Series / ASNE0237 / ABS1145  /MIL-DTL-24308
+EC807-3 / DIN 41652
+Sie eignen sich für folgende Steckverbinder:
+D-SUB Serie / ASNE0237 / ABS1145 / MIL-DTL-24308
+EC807-3 / DIN 41652
+Version A :
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 868 
+Colour: light green 
+Shielding effectiveness: ≥ 80 dB.
+Ausführung A :
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln 
+Härte (65 ± 10) Shore A nach DIN EN ISO 868  
+Farbe: hell grün 
+Abschirmeigenschaften: ≥ 80 dB.
+Version / 
+Ausführung
+Colour / Farbe 
+Partnumber / 
+Bestellnummer 
+Size / 
+Größe
+L1
+(±0,1)
+L2
+(±0,1)
+L3
+(±0,1)
+L4
+(±0,1)
+L5
+(±0,1)
+L6
+(±0,1)
+A
+D-SUB-09-Y3-A
+9
+30,7
+12,4
+24,99
+19,0
+10,0
+1,0
+A
+D-SUB-15-Y3-A
+15
+39,0
+12,4
+33,32
+27,0
+10,0
+1,0
+A
+D-SUB-25-Y3-A
+25
+52,9
+12,4
+47,04
+41,0
+10,0
+1,0
+light green 
+/
+hellgrün
+A
+D-SUB-37-Y3-A
+37
+69,2
+12,4
+63,5
+57,0
+10,0
+1,0
+A
+D-SUB-50-Y3-A
+50
+66,8
+15,25
+61,11
+55,0
+13,0
+1,0
+
+22
+Gaskets for D-SUB connectors Ni/C - Dichtungen für D-SUB Steckverbinder Ni/C
+They are suitable for the following connectors: 
+D-SUB Series / ASNE0237 / ABS1145 / MIL-DTL-24308
+EC807-3 / DIN 41652
+Sie eignen sich für folgende Steckverbinder: 
+D-SUB Series / ASNE0237 / ABS1145 / MIL-DTL-24308
+EC807-3 / DIN 41652
+Version B:
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 868 
+Colour: dark-green 
+Shielding effectiveness: ≥ 70 dB.
+Ausführung B:
+Zulässige Umgebungstemperatur: -55 °C bis 160 °C 
+Fluorsilikon gefüllt mit Ni/C-Partikeln  
+Härte (75 ± 7) Shore A nach DIN EN ISO 868  
+Farbe: dunkel-grün 
+Abschirmeigenschaften: ≥ 70 dB.
+Version / 
+Ausführung
+Colour / 
+Farbe 
+Partnumber / 
+Bestellnummer
+Size / 
+Größe
+L1
+(±0,1)
+L2
+(±0,1)
+L3
+(±0,1)
+L4
+(±0,1)
+L5
+(±0,1)
+L6
+(±0,2)
+B
+D-SUB-09-Y3-B
+9
+30,7
+12,4
+24,99
+19,0
+10,0
+1,0
+B
+D-SUB-15-Y3-B
+15
+39,0
+12,4
+33,32
+27,0
+10,0
+1,0
+B
+D-SUB-25-Y3-B
+25
+52,9
+12,4
+47,04
+41,0
+10,0
+1,0
+darkgreen 
+/
+dunkelgrün
+B
+D-SUB-37-Y3-B
+37
+69,2
+12,4
+63,5
+57,0
+10,0
+1,0
+B
+D-SUB-50-Y3-B
+50
+66,8
+15,25
+61,11
+55,0
+13,0
+1,0
+
+Amphenol Nexus Technologies
+www.nexus.com
+50 Sunnyside Avenue
+Stamford, CT 06902
++1 (203) 327-7300
+Amphenol Aerospace Operations
+www.amphenol-aerospace.com
+40-60 Delaware Avenue
+Sidney, NY 13838
++1 (800) 678-0141
+Amphenol Interconnect India
+www.amphenol-in.com
+105, Bhosari Industrial Area
+Pune – 411 026
+India
++91 20 27120363
+Amphenol Optimize
+www.amphenol-optimize.com
+Carretera Internacional Km 6.5
+Col. Parque Industrial
+Nogales, Sonora, México. C.P. 84094
++52 (631) 311-160
+Amphenol-Air LB GmbH
+www.amphenol-airlb.de
+Am Kleinbahnhof 4
+D-66740 Saarlouis
+Germany
++49 (0) 68 31/98 10 0
+Amphenol Invotec
+www.amphenol-invotec.com
+Unit 1-3, Hedging Lane Industrial 
+Estate
+Dosthill, Tamworth, B77 5HH
+United Kingdom
++44 (0) 1827 263000
+Amphenol PCD
+www.amphenolpcd.com
+72 Cherry Hill Drive
+Beverly, MA 01915
++1 (978) 624-3400
+Amphenol-Air LB SAS
+www.amphenol-airlb.fr
+2 Rue Clément Ader, Zac de Wé
+08110 Carignan
+France
++33 (0) 03 24 22 78 49
+Amphenol Ionix Systems
+www.ionix-systems.com
+Prospect House, Taylor Business Park
+Risley, Warrington, WA3 6HP
+United Kingdom
++44 (0) 1942 685200
+Amphenol Printed Circuits
+www.amphenol-apc.com
+91 Northeastern Boulevard
+Nashua, NH 03062
++1 (603) 324-4500
+Amphenol Bar-Tec Ltd
+www.bar-tec.com
+3 Hagavish st
+POB 2479 Kfar-Saba 44641
+Israel
++972-9-7644100
+Amphenol Ionix Systems OÜ
+www.ionix-systems.com
+Pikk Street 59b
+Kuressaare 93815 
+Estonia 
++372 4521 780
+Amphenol SEFEE
+www.sefee.com
+Z.I. des Cazes – BP243
+12402 Saint-Affrique Cedex
+France
++33 (0) 5 65 98 11 00
+Amphenol Borisch Technologies
+www.borisch.com
+4511 East Paris AVE
+Grand Rapids, MI 49512
++1 (616) 554-9820
+Amphenol Japan, Ltd.
+www.amphenol.co.jp
+471-1, Deba, Ritto-City
+Shiga, 520 3041
+Japan
++81 77 553 8501
+Amphenol Socapex
+www.amphenol-socapex.com
+948 Promenade De L’Arve – BP 29
+74311 Thyez
+France
++33 (0) 4 50 89 28 00
+Amphenol Canada
+www.amphenolcanada.com
+605 Milner Avenue
+Toronto, ON Canada M1B 5X6
++1 (416) 291-0647
+Amphenol Limited
+www.amphenol.co.uk
+Thanet Way
+Whitstable, Kent, CT5 3JF
+United Kingdom
++44 (0) 1227 773200
+Amphenol SV Microwave
+www.svmicrowave.com
+2400 Centrepark West Drive
+West Palm Beach, FL
++1 (561) 840-1800
+Amphenol Commercial Air Division
+www.amphenol-aerospace.com
+40-60 Delaware Avenue
+Sidney, NY 13838
++1 (800) 678-0141
+Amphenol Martec Limited
+www.martec.solutions
+St. Augustines Business Park
+Swalecliffe, Whitstable, Kent CT5 2QJ
+United Kingdom
++44 (0) 1227 793 733
+Amphenol Times Microwave, Inc.
+www.timesmicrowave.com
+358 Hall Avenue
+Wallingford, CT 06492
++1 (800) 867-2629
+Amphenol FSI
+www.fibersystems.com
+1300 Central Expressway North, 
+Suite 100
+Allen, TX 75013
++1 (214) 547-2400
+Phitek
+www.phitek.com
+Level 4, 2 Kingdon Street
+Newmarket, Auckland 1023
+New Zealand
++64 9 524 2984
+Amphenol Military & Aerospace 
+Operations – 
+European Sales Operations
+Via Barbaiana 5
+20020 Lainate
+Milano, Italy
++39 02 932 541
+Amphenol Griffith Enterprises
+www.griffithent.com
+6000 East Coury Drive
+Cottonwood, AZ 86326
++1 (928) 634-3685
+Amphenol-Air LB GmbH   Am Kleinbahnhof 4   D-66740 Saarlouis
+Telefon +49 (0)68 31 98 10 -0   Telefax +49(0)68 31 9810-20   E-mail: info@amphenol-airlb.de
+http://www.amphenol-airlb.de
+Leitende Dichtungen
+Gedruckt auf chlorfrei gebleichtem Papier. Änderungen vorbehalten.
+© 01/2018 V.06052021 by Amphenol-Air LB, Deutschland
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  VG96940-06C013A  VG96940-06CA002A  VG96940-06CA003A  VG96940-06CB002A  VG96940-06CB003A 
+VG96940-06G002A  VG96940-06G003A  VG96940-06G005A  VG96940-06G004A

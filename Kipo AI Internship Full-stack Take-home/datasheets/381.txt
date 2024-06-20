@@ -1,0 +1,306 @@
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Data connector, Ethernet CAT5 (1 Gbps), 8-position, shielded, Socket straight M12, Coding: A, Insulation
+displacement connection, knurl material: Zinc die-cast, nickel-plated, external cable diameter 4 mm ... 8 mm
+Your advantages
+ Safe use in the field, thanks to a high degree of protection
+ Flexible: connectors for on-site assembly
+ Insulation displacement connection: innovative and time-saving assembly without stripping the single wire
+ Reliable signal transmission - 360° shielding in environments with electromagnetic interference
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4046356158817
+Technical data
+Dimensions
+Diameter housing
+19 mm
+Length
+59 mm
+External cable diameter
+4 mm ... 8 mm
+Stripping length of the sheath
+≥ 35 mm
+Ambient conditions
+Ambient temperature (operation)
+-40 °C ... 85 °C (Plug / socket)
+Ambient temperature (assembly)
+-5 °C ... 50 °C
+Degree of protection
+IP67
+General
+Note
+NOTE: Observe the permissible bending radii when laying conductors,
+since the degree of protection may be put in jeopardy if the bending
+09/11/2020   Page 1 / 8
+
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Technical data
+General
+forces are too high. Alleviate mechanical loads upstream of the
+connector, e.g. by using cable ties.
+Rated current at 40°C
+2 A
+Rated voltage
+30 V AC
+30 V DC
+Number of positions
+8
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector according to IEC 61076-2-101
+Signal type/category
+Ethernet CAT5 (on the basis of IEC 11801), 1 Gbps
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Insulation displacement connection
+Conductor cross section
+0.14 mm² ... 0.34 mm²
+Conductor cross section AWG
+26 ... 22
+Wire diameter including insulation
+1 mm ... 1.6 mm
+Frequency of connections between conductors of the same cross
+section
+≥ 10
+Insertion/withdrawal cycles
+≥ 100
+Torque
+0.4 Nm (M12 knurl)
+0.8 Nm (Connector with coupling sleeve)
+3 Nm (Pressure nut with coupling sleeve)
+Transmission characteristics (category)
+CAT5
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuSn
+Contact surface material
+Ni/Au
+Contact carrier material
+PA6
+Material of grip body
+Zinc die-cast, nickel-plated
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+Neoprene
+Standards and Regulations
+Standards/specifications
+M12 connector according to IEC 61076-2-101
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+09/11/2020   Page 2 / 8
+
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Drawings
+Schematic diagram
+Pin assignment M12 socket, 8-pos., A-coded, view female side
+09/11/2020   Page 3 / 8
+
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Dimensional drawing
+M12 x 1 socket, straight, shielded
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440104
+eCl@ss 8.0
+27440104
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 3.0
+EC002062
+ETIM 4.0
+EC002062
+ETIM 5.0
+EC002062
+ETIM 6.0
+EC002062
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+09/11/2020   Page 4 / 8
+
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Classifications
+UNSPSC
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+EAC / EAC / EAC
+Ex Approvals
+Approval details
+ 
+ RU C-
+DE.AI30.B.01102
+EAC 
+
+ 
+ EAC-Zulassung
+EAC 
+
+ 
+ RU C-
+DE.BL08.B.00511
+EAC 
+
+Accessories
+Accessories
+Data cable by the meter
+Network cable - VS-OE-OE-94B/... - 1417333
+Network cable, Ethernet CAT5 (1 Gbps), 8-position, PUR halogen-free, water blue RAL 5021, shielded, free cable
+end, on free cable end, cable length: Free entry (0.5 ... 400 m)
+ 
+ 
+09/11/2020   Page 5 / 8
+
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Accessories
+Network cable - VS-OE-OE-94C/... - 1417346
+Network cable, Ethernet CAT5 (1 Gbps), 8-position, PUR halogen-free, water blue RAL 5021, shielded, free cable
+end, on free cable end, cable length: Free entry (0.5 ... 400 m), For drag chains
+ 
+ 
+Network cable - VS-OE-OE-94F/... - 1417359
+Network cable, Ethernet CAT6A (10 Gbps), 8-position, PUR halogen-free, water blue RAL 5021, shielded, free cable
+end, on free cable end, cable length: Free entry (0.5 ... 400 m)
+ 
+ 
+Electronics pliers
+Diagonal cutter - MICROFOX-SB - 1212489
+Electronic diagonal cutter, round head, without chamfer, with opening spring, mirror-polished and oiled, 2-component
+grip, cutting capacity: soft 0.2 - 2.0 mm; medium hard 1.2 mm; hard 0.5 mm diameter
+ 
+ 
+Plug for cable screw gland
+Screw plug - PROT-M12 MS-PA-CHAIN - 1430899
+M12 sealing cap with fixing band, for sensor cables, for free M12 sockets
+ 
+ 
+Screwdriver tools
+Tool - SACC BIT M12-D20 - 1208445
+Nut for assembling M12 connectors for assembly with a knurl diameter of 20 mm, for 4 mm hexagonal drive
+ 
+ 
+09/11/2020   Page 6 / 8
+
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Accessories
+Adapter insert - TSD-M SAC-BIT ADAPTER - 1212600
+Adapter bit for TSD-M...torque tools, E6.3-1/4" drive with 4 mm hexagon to accommodate SAC bits
+ 
+ 
+Shield connection
+Shielding foil - ALU-SB - 1404531
+Shielding foil, for fixing the braided shield of shielded cables. Length: 4 cm, width: 1.2 cm
+ 
+ 
+Stripping tool
+Stripping tool - WIREFOX-D 40 - 1212161
+Stripping tool, for stripping cables of 4.5 mm ‑ 40 mm‑Ø, insulation thickness of up to 4.5 mm, pivoting blade for
+round, lengthwise, and spiral cuts
+ 
+ 
+Torque tool
+Torque screwdriver - TSD 04 SAC - 1208429
+Torque screwdriver, with preset torque of 0.4 Nm and 4 mm hexagonal drive for M12 connectors
+ 
+ 
+Torque screwdriver - TSD-M 1,2NM - 1212224
+Torque screw driver, accuracy as per EN ISO 6789 standard, adjustable from 0.3 ‑ 1.2 Nm
+ 
+ 
+09/11/2020   Page 7 / 8
+
+https://www.phoenixcontact.com/pi/products/1553640
+Data connector - SACC-M12FS-8Q SH - 1553640
+Accessories
+Torque screwdriver - TSD 08 SAC - 1212597
+Torque screw driver with preset torque of 0.8 Nm, with 4 mm hexagon for accommodating SAC bits, two-component
+handle with non-slip grip
+ 
+ 
+Stripping tool - VS-CABLE-STRIP-VARIO - 1657407
+Stripping tool, for the multi-level stripping of shielded cables
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 8 / 8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1553640

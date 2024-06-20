@@ -1,0 +1,216 @@
+Amphenol Pcd
+NANO PEGASUS
+ Small, easy to use connectors that provide exceptional 
+performance in tight spaces.
+
+NANO PEGASUS
+Overview
+Nano-Pegasus & Nano-Luminus build upon APCD’s success in light weight, plastic circular connectors in the aerospace 
+market, in a very small way. Nano-Pegasus & Nano-Luminus are small, plastic, easy to use connectors designed 
+specifically for sensing, command and control applications where a Micro or Nano Dsub would be used. Nano-Pegasus & 
+Nano-Luminus provide exceptional performance in tight spaces, packing 11 high grade contacts in a shell size 5 housing 
+(0.325” outer diameter). That’s equivalent to 132 contacts per square inch! Contacts are rated for 1a, 350 Vdc operation. 
+With 0.050” spacing, this gives 500 Vdc insulation resistance, and 350 Vac dielectric withstanding at 70k feet.
+Scoop proof construction and enclosed contacts protect the small gauge contacts during mating. When mated, IP67 
+sealing is guaranteed by the interfacial seal, helping ensure the contacts are free from dust, moisture and corrosion. 
+And unlike many of the competitive connectors, which are multi-piece assemblies, Nano-Pegasus & Nano-Luminus shells 
+are a single piece housing, impervious to humidity and dust, further enhancing clean, crack free operations over the full 
+operating temperature and environmental conditions. Shells are a high grade polyethermide construction, providing a 
+temperature range of -65C to +175C, and high mating cycles, making Nano-Luminus suitable for man/machine interfaces. 
+Nano-Pegasus adds a copper & nickel overplate, providing 40db to 60db EMI shielding.
+Available in solder cup for user assembly or as a finished good pig tail assembly.
+Features & Benefits
+1⁄4 Turn Cam Lock
+Easy to use, blind mate with audible click and visual locking aids
+Interfacial & Wire sealing
+IP67 performance for use in human interface, wet and damp applications
+Polyethermide Single Piece Housing
+High temperature resistance, resistance to a large number of harsh fuels & chemicals, a long working life & 
+high mating cycles
+7.5 grams / mated pair
+Lighter weight means longer flight times, larger payloads, longer battery life in non-static applications
+28 awg wire barrel
+1a continuous over full voltage and temperature range
+0.050” Contact Spacing
+Very high density interconnect, equivalent to 132 contacts per sq inch
+30μ inch gold plated contacts
+Long working life & high mating cycles
+Nickel / Copper plating
+Up to 60db EMI shielding typical, depending on frequency of interest
+Materials & Specifications
+Shock
+300G, 3 Axis
+Vibration
+43.9G Random
+Flammability & Toxicity
+Meets FAR Par 25 Appendix F, Part 1
+Sealing
+IP67 when mated
+Fluid Resistance 
+Skydrol, Ethylene Glycol, Jet A, more
+DWV
+250VAC @ Sea-level; 100VAC @ 70k ft
+Salt Spray
+5% @ 95˚C for 48 Hours
+Temperature 
+-65°C to +175°C
+EMI Shielding
+50db typical
+Contact info@amphenolpcd.com
+
+NANO PEGASUS
+Cable Configurations & Drawings
+MCS XXXX B SS WW A P P C - VVV
+MCS: Standard size Luminus/pegasus
+MCN: Nano Luminus/Pegasus
+XXXX: Unique Alpha Numeric Identifier
+0001: Standard
+Connector Style
+A: Inline Receptacle
+B: Inline Plug
+C: Square Flange
+D: Circle Flange
+E: Jamnut Pcb
+F: Oval Flange
+G: Jamnut Flange Front Mount
+H: Jamnut Flange Rear Mount
+SS: Actual shell size
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+WW: Number of positions in connector
+Example 11: 11 Positions
+Key Field
+A/B/C/D/E/F
+N: Not plated
+P: Plated
+Contact Type
+P: Pins
+S: Sockets
+Termination Type
+C: Crimp
+S: Solder
+VVV: Cable Length
+Example 072: 72
+Visit amphenolpcd.com for more information 
+
+NANO PEGASUS
+Supported Contacts
+Integral Solder Cup or wire crimp. C54400 Bronze Alloy with 30 micro-inches gold plate. 28 awg pin barrel. Wire barrel 
+accepts 28 or 30 wire gauges. (0.126” / 0.32mm or 0.01” / 0.254mm)
+Existing Cable Assemblies
+Position
+Style
+Pigtail
+Plug/Receptacle
+Crimp/Solder
+Cable Type
+MCN0001A0511APPS-006
+11
+Nano Pegasus
+Pigtail
+Receptacle
+Solder
+M22759/11-28-x
+MCN0001B0511APSS-006
+11
+Nano Pegasus
+Pigtail
+Plug
+Solder
+M22759/11-28-x
+MCN0002A0511APPS-006
+11
+Nano Pegasus
+Pigtail
+Receptacle
+Solder
+M22759/32-30-x
+MCN0002B0511APSS-006
+11
+Nano Pegasus
+Pigtail
+Plug
+Solder
+M22759/32-30-x
+Configurations& Ordering Info
+Solder Cup Contacts
+Crimp Contacts (Available in pigtail configurations only)
+11 pin inline plug
+SJS0511110P
+SJS051111P
+11 pin inline receptacle
+SJS0511120P
+SJS051121P
+11 pin Jamnut panel mount
+TBD
+TBD
+11 pin Jamnut pcb mount
+TBD
+TBD
+11 pin Oval flange mount
+TBD
+TBD
+Contact info@amphenolpcd.com
+
+NANO PEGASUS
+Applications
+• 
+Communications via single and dual USB2.0, CAN Bus, 
+USB3.0, CAT5 & CAT6 ethernet, or user defined low and 
+medium speed requirements.
+• 
+Command and Control as typically found in subsystem 
+interconnects with user defined high density data and low 
+power signaling.
+• 
+Sensor connectivity, such as found in missile and munition guidance systems, infrared target acquisition and 
+tracking gimbels, angle of attack and inertial guidance systems.
+• 
+Low pin count Micro (M83513) & Nano (M32139) DSub alternative where a circular connector is more appropriate.
+More from Amphenol Pcd’s Pegasus Series
+Pegasus
+The Pegasus Series is Amphenol Pcd’s latest innovation in small, lightweight, rugged connectors.  Designed for use in 
+harsh environments, Pegasus builds on the successful Luminus Aerospace connector with the addition of EMI shielding.  
+EMI shielding is provided by electroless copper and nickel plate, with a copper alloy spring finger gasket to ensure 
+shell-to-shell conductivity. Tests show between 40db and 60db of attenuation, depending on frequency.  This 
+combination of light weight, small size, and EMI shielding makes Pegasus the ideal choice where protection against 
+ambient noise transients, or suppression of emitted noise is required, and space and weight are at a premium.
+Pegasus High Speed
+Amphenol Pcd has expanded the capability Pegasus to support industry standard TWINAX and QUADRAX style 
+contacts. Pegasus High Speed brings an easy to use, light weight, low cost connection solution to applications that 
+have typically relied on heavier, more complicated, and therefore more expensive, metal shell connectors.
+Supporting the AS39029/90, /91, /113, /114 Twinax and ARINC600, ARINC404, AS39029/119, /120 Quadrax rear 
+release, rear removable, size 8 style contacts, Pegasus High Speed provides exceptional performance in tight spaces, 
+with a svelte shell size 8 (0.512”) outer diameter. With the explosive growth in ethernet enabled devices (IOT,) this 
+is size and configuration is particularly suited for end point applications, such as individual avionics sensors, panel 
+mounted units, seat back and wall mounted displays and monuments.
+Scoop proof construction and molded in alignment keys help protect the small gauge contacts during mating. When 
+mated, IP67 sealing is guaranteed by the interfacial seal, helping ensure the contacts are free from dust, moisture and 
+corrosion. A triple riser grommet sealing boot provides back end sealing on the wire side.
+Compatibility with standard Pegasus shell sizes means many of the currently available tape and screw mount cradle 
+accessories are supported, easing installation and mounting tasks.
+Visit amphenolpcd.com for more information 
+
+Amphenol Pcd
+www.amphenolpcd.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  SJS0511110  SJS0511110P  SJS0511120  SJS0511120P

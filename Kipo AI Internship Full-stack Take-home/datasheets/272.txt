@@ -1,0 +1,74 @@
+GK1YBR-P16WCD0-000L
+amc, type_gk
+General information
+Part number
+GK1YBR-P16WCD0-000L
+Termination
+solder
+Size
+1
+Locking principle
+break , push
+Keying
+b_key_amc
+Cable Diameter
+cable_amc_1
+Contact insert description
+Number of contacts
+16
+Contact type
+sockets
+Contact diameter
+05mm
+Insulator material
+peek
+Wire cross section
+26_awg
+Termination
+solder
+Termination diameter
+065mm
+reverse_gender_on_request
+Technical information
+Nominal current single contact
+05_a
+iec_60512_5_2
+Nominal current insert
+2,5 A
+vde_0298_4
+Test voltage
+06_kv_ac
+eia_364_20f
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ipsk8_ip6k9k
+Operating temperature
+51_125_c
+Mating cycles
+5000
+mated
+Material and surface treatments
+Housing
+ruthenium
+Contact
+cu_alloy_gold
+safety_text_2
+ul_text
+illustrative_text
+GK1YBR-P16WCD0-000L amc, type_gk
+230522
+1 / 1
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  GK1YBR-P16WCD0-000L

@@ -1,0 +1,9505 @@
+Amphenol
+GCA
+Bayonet and threaded
+
+2
+List of contents
+General description 
+3
+Electrical properties 
+4
+Mechanical properties 
+5
+How to order 
+6-7
+Contact arrangements 
+8
+Insert arrangements 
+9–16
+Angular position of the contact insert 
+17
+Mounting dimensions 
+17-19
+Shell style 
+20-40
+GCA00E-B & GCA00E : Receptacle back panel mounting flange, cable clamp and bushing 
+20
+GCA00M-B & GCA00M : Receptacle back panel mounting flange, shielding braids and heat shrink 
+21
+GCA00E-B/-03/-06 & GCA00E-DN : Receptacle mounting flange, heat shrink 
+22
+GCA00PG-ME-B & GCA00PG-ME : Receptacle back panel mounting flange, PG or metrical backshell 
+23
+GCA00EGM-B & GCA00EGM : Receptacle back panel mounting flange, universal shielded backshell 
+24
+GCA01E-B & GCA01E : Cabel receptacle, cable clamp and bushing 
+25
+GCA01PG-ME-B & GCA01PG-ME : Cabel receptacle, PG or metrical backshell 
+26
+GCA01EGM-B & GCA01EGM : Cabel receptacle, universal shielded backshell 
+27
+GCA02-B & GCA02 : Receptacle front panel mounting 
+28
+GCA20-B & GCA20 : Receptacle back panel mounting 
+29
+GCA02L-B & GCA02L : Receptacle with PCB-Termination, front panel mounting 
+30
+GCA20L-B & GCA20L : Receptacle with PCB-Termination, back panel mounting 
+31 
+GCA06E-B & GCA06E : Plug, cable clamp and bushing 
+32
+GCA06F-B & GCA06F : Plug, conduit termination 
+33
+GCA06E/EG-B/-03/-06 & GCA06E/EG-DN : Plug, heat shrink / with grounding finger 
+34
+GCA06M-B & GCA06M : Plug with grounding finger, shielding, heat shrink 
+35
+GCA06PG-ME-B & GCA06PG-ME : Plug, PG or metrical backshell 
+36
+GCA06EGM-B & GCA06EGM : Plug with grounding finger, shielding, universal backshell 
+37
+GCA08E-B & GCA08E : Plug,  90° backshell, cable clamp and bushing 
+38
+GCA08F-B & GCA08F : Plug, 90° backshell, conduit termination 
+39
+GCA08EGM-B & GCA08EGM : Plug with grounding finger, 90° backshell and universal backshell 
+40
+Accessories 
+41–46
+Crimp-Contacts 
+47–48
+Wire size / Tools 
+49 
+EGM-Backshell 
+50
+
+General description
+3
+GCA
+These connectors with reverse bayonet coupling are compliant to the VG95234 standard. Offering a high 
+liability, they are coevally waterproof and resistant to vibrations and wear. They use the same  installation 
+ dimensions and contact arrangements as connectors according to MIL-C-5015, however they are 
+ provided  with reverse bayonet coupling and ondular washer, which guarantee a fast and  effortless locking/
+unlocking and avoid an unintentional unlatch due to heavy vibrations.
+This series comes standard with a nickel surface and solder contacts.
+Common applications include industrial plants and railway vehicles as well as propulsion technologies, 
+machine tools, measurement and robotics.
+The GCA-B connectors are fully interchangeable and intermateable with GCB-B  connectors. They also 
+offer a variety of additional arrangements. They have the same technical setup as GCB-B series.
+Bayonet
+Thread
+
+4
+Electrical properties
+Nominal current 20°C
+Contact resistance
+(See picture below for measuring conditions)
+Contact size
+Max. nominal current 
+(A)
+10
+8
+15S / 16S
+22
+15 / 16
+22
+25 / 12
+41
+60 / 100 / 8
+74
+160 / 4
+135
+500 / 0
+245
+Contact size
+Max. contact resistance 
+(mΩ)
+10
+12
+15S / 16S
+6
+Rated current
+15 / 16
+6
+(A)
+25 / 12
+3
+250
+60 / 100 / 8
+1
+240
+160 / 4
+0,5
+230
+220
+500 / 0
+0,2
+500/0
+500/0
+210
+200
+190
+180
+Dielectric withstanding voltage
+170
+empérature
+Contact 15 Contact 25
+Contact 60
+Contact 160
+20
+8
+22
+41
+73
+135
+245
+30
+7,5
+21
+39
+70
+130
+232
+40
+7,3
+20
+37
+66
+123
+218
+50
+7
+19
+35
+62
+115
+202
+60
+6,7
+18
+32
+58
+108
+188
+70
+6,4
+17
+30
+53
+98
+170
+80
+6
+16
+27
+47
+88
+153
+90
+5,6
+15
+23
+40
+75
+132
+100
+5
+13
+19
+32
+60
+110
+110
+4
+10
+14
+22
+42
+80
+115
+3
+8
+11
+17
+30
+60
+120
+2
+5
+7
+10
+18
+32
+125
+0
+0
+0
+0
+0
+0
+160
+150
+Voltage class
+Test voltage 
+Ueff (V)
+140
+1
+1050
+130
+160/4
+2
+1600
+120
+110
+3
+2500
+100
+4
+3000
+90
+80
+70
+60/100/8
+60
+Air creepage and creeping distance
+50
+25/12
+40
+Voltage class
+1
+2
+3
+4
+30
+15S/16S/15/16
+Value (mm)
+0,7
+1,1
+2,8
+4,8
+20
+10
+10
+0
+20
+40
+60
+80
+100
+120
+(°C)
+Rated voltage
+Insulation resistance
+≥ 1.000 MΩ
+If the connectors shown in this catalogue are used for voltage 
+> 50 V eff against earth, all accessible conductive parts have 
+to be included reliably into the preventive measures of the 
+equipment. These connectors must not be connected or 
+ disconnected under voltage.
+
+5
+Mechanical properties
+Operating temperature
+Coupling torques
+The admissible coupling torque has to be tested under harnessed 
+-55 / +125 °C
+condition.
+Admissible torque
+Mating cycles
+Min. 500
+Shell size
+Closing & Opening (Nm max.)
+Opening 
+(Nm min.)
+GCA
+GCA-B
+IP code
+10SL
+3,0
+1,7
+0,15
+12S
+3,8
+2,5
+0,23
+14S
+5,9
+3,6
+0,35
+16S / 16
+7,0
+5,5
+0,46
+All backshells with grommet are IP67 (only if all cavities are 
+used). For connectors with PG- or metrical backshell, the IP 
+code depends on the IP code of the adapter which will be 
+used.
+18
+8,0
+8,0
+0,58
+20
+9,0
+9,0
+0,70
+Vibration
+22
+10,6
+11,0
+0,80
+200 m/s² at 10 to 2000 Hz
+24
+12,9
+14,0
+0,80
+28
+16,7
+17,0
+0,92
+32
+18,1
+19,0
+1,02
+Contact retention force
+36
+23,9
+23,0
+1,05
+Contact size
+Test force (N)
+10
+30
+Wire Stripping
+15S / 16S
+35
+15 / 16
+35
+25 / 12
+55
+Either mechanical or hot stripping can be used. 
+Prevent conductors or insulators damage. 
+For solder contacts, conductors have to be pretinned. 
+60 / 100 / 8
+80
+160 / 4
+90
+500 / 0
+95
+Note: Do not twist conductors used with crimp contacts. Do not touch 
+uninsulated conductors before crimping, twisting of conductors and grease or 
+lubricants on the wires cause poor crimp quality.
+Materials
+Contact size
+Stripping lenght
+mm
+AWG
+Metric
+Shells 
+ Aluminium alloy – Nickel Plating / 
+-
+10
+4,0 + 0,4
+16S/15S
+16/15
+6,0 + 0,5
+12
+25
+6,0 + 0,5
+ 
+Other Platings see page 7
+Inserts 
+Neoprene
+Contacts 
+Standard finish: Copper alloy silver plated/Other  
+ 
+ 
+ 
+  plating
+8
+60/100
+11,0 + 0,8 - 0,4
+ 
+Special finish: A176 nickel and hard gold plating
+4
+160
+11,0 + 0,8 - 0,4
+0
+500
+13,0 + 0,8 - 0,4
+Harnessing 
+GCA connectors are designed for single wire harnessing, if 
+an individual wire sealing grommet is used. Wires have to 
+conform to wire and insulation diameters with the data given 
+in the following table:
+Contact size
+Crimp/Solder contacts
+Insulation ø
+AWG
+Metric 
+mm
+AWG
+Metric 
+mm²
+AWG
+Metric
+mm
+-
+10
+-
+0,75-1,0
+-
+1,45-2,5
+16S/15S
+16/15
+16
+0,75-1,5
+1,6-2,8
+1,60-2,8
+12
+25
+12
+2,5
+2,9-3,5
+2,9-3,5
+-
+60
+-
+6,0
+-
+3,5-4,9
+8
+100
+8
+10,0
+4,2-5,8
+5,5-6,5
+4
+160
+4
+16,0
+6,2-9,0
+7,1-9,0
+0
+500
+0
+50,0
+10,5-13,0
+10,5-13,0
+
+6
+How to order
+GCA
+06
+E – 
+18-1
+P
+W
+ 
+XX-XX
+GCA
+06
+E – 
+18-1
+P
+W
+B –
+XX-XX
+Series GCA – Amphenol Air-LB Connector
+ 
+Series
+ 
+ 
+00 – Wall Mount receptacle with backshell, rear mounting
+ 
+ 
+01 – Cable connecting plug with backshell
+ 
+ 
+02 – Box mounting receptacle, front mounting*
+ 
+ 
+20 – Box mounting receptacle, rear mounting*
+ 
+ 
+06 – Plug, straight
+ 
+ 
+08 – Plug, 90°
+ 
+ 
+Class 
+E – Backshell with cable clamp 
+F – Backshell for flex tube 
+ 
+PG / ME – Backshell for PG termination / Backshell for metric termination 
+M – Backshell for shielding braids and heatshrink 
+EGM11 - Backshell with integrated gland for screen termination (Cable min. 5,7 
+mm - max. 10,85 mm) 
+EGM21 – Backshell with integrated gland for screen termination (Cable min. 12,7 
+mm - max. 17,85 mm) 
+L – PCB solder termination (only Series 02 and 20) 
+Shell size + contact arrengements
+ 
+10SL , 12S , 14S , 16S , 16 , 18 , 20 , 22 , 24 , 28 , 32 , 36
+ 
+Contact arrengements see page 8 – 16 
+ 
+Contact type
+ 
+P – Pin 
+ 
+S – Socket 
+ 
+Angular insert position
+N – Normal (no suffix)
+Alternate positions: W , X , Y , and Z see page 8 – 16 
+Coupling
+B – Bayonet coupling
+Without designation – threaded coupling
+Modification
+01 – Metric crimp contacts
+ 
+F80 - AWG crimp contacts
+03 – Backshell for heat shrink and metric contacts (Bayonet only)
+ 
+06 – Backshell for heat shrink and solder pot contacts (Bayonet only)
+ 
+48 – Backshell F with O – Ring to the plug
+ 
+BM29 – Threaded flange holes, shell style 00/20 (threaded only)
+ 
+DN – Backshell for heat shrink (threaded only)
+ 
+F0 – Without contacts (to be ordered separately)
+ 
+F42 – Without backshell
+ 
+A176 – Gold plated contacts
+ 
+* = no backshells available
+
+7
+How to order
+GCA
+06
+E – 
+18-1
+P
+W
+ 
+XX-XX
+GCA
+06
+E – 
+18-1
+P
+W
+B –
+XX-XX
+Modification
+A232 – Zinc cobalt black plating
+A233 – Zinc cobalt green plating
+ 
+A240 – Zinc nickel black plating (only on request)
+A241 – Electrophoratic black non conductive plating
+A242 - Marine bronze
+A243 - Stainless steel 
+A244 - Black anodized
+A245 - Zinc-tin (J-Plating)
+FR - Fire resistant
+* = no backshells available
+
+8
+Contact arrangements
+Contact size
+Contact size
+Contact
+insert
+Contact
+insert
+500 
+0
+160 
+4
+500 
+0
+160 
+4
+25 
+12
+15 
+16
+10 
+20
+25 
+12
+15 
+16
+10 
+20
+Number  
+of 
+ contacts
+Number  
+of 
+ contacts
+60 
+100 
+8
+60 
+100 
+8
+16-12*
+1
+1
+14SA7
+7
+7
+20-2*
+1
+1
+16S-1
+7
+7
+10SL-4
+2
+2
+18-9
+7
+2
+5
+12S-3
+2
+2
+20-15
+7
+7
+16S-4
+2
+2
+22-28
+7
+7
+16A11
+2
+2
+24-2
+7
+7
+24-9*
+2
+2
+24-10*
+7
+7
+32-5*
+2
+2
+20-7
+8
+8
+10SL-3
+3
+3
+22-23
+8
+8
+14S-1
+3
+3
+32-15*
+8
+2
+6
+14S-7
+3
+3
+36A35*
+8
+4
+4
+16-7*
+3
+1
+2
+20A9
+9
+9
+16-10
+3
+3
+20-16
+9
+2
+7
+20-19*
+3
+3
+22-27*
+9
+1
+8
+22-2*
+3
+3
+24-11*
+9
+3
+6
+12SA10
+4
+4
+28A16*
+9
+4
+5
+14S-2
+4
+4
+32-3*
+9
+1
+2
+2
+4
+16-9
+4
+2
+2
+18-1
+10
+10
+18-4
+4
+4
+20-33
+11
+11
+18-10
+4
+4
+24-20
+11
+2
+9
+18-13*
+4
+1
+3
+28-9
+12
+6
+6
+20-4
+4
+4
+20-27
+14
+14
+22-22*
+4
+4
+22-19
+14
+14
+22B22*
+4
+4
+28-20
+14
+10
+4
+24-4
+4
+1
+3
+24-7
+16
+2
+14
+24-22*
+4
+4
+20-29
+17
+17
+32-17*
+4
+4
+20A48
+19
+19
+36-5*
+4
+4
+22-14
+19
+19
+14S-5
+5
+5
+28-11*
+22
+4
+18
+16S-8
+5
+5
+32-6*
+23
+2
+3
+2
+16
+18-11
+5
+5
+24-28
+24
+24
+22-12*
+5
+2
+3
+28-12
+26
+26
+24-12*
+5
+2
+3
+28A63
+28
+9
+19
+32-1*
+5
+2
+3
+28-15
+35
+35
+14S-6
+6
+6
+32-7
+35
+7
+28
+20-8*
+6
+2
+4
+28-21
+37
+37
+20-22*
+6
+3
+3
+36-10
+48
+48
+28-22*
+6
+3
+3
+32A10
+54
+54
+36-3*
+6
+3
+3
+32A55
+55
+55
+36-6*
+6
+2
+4
+32A69*
+61
+20
+41
+*No PCB version available
+
+Insert arrangements
+9
+Front face of pin  
+insert  illustrated
+Contact 
+ arrangement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+10SL-3
+3
+15S
+1600 V
+0
+10SL-4
+2
+15S
+1600 V
+0
+12S-3
+2
+15S
+1600V
+0
+70
+145
+215
+290
+12SA-10
+12SA-10
+4
+15S
+1600 V
+0
+14S-1
+14S-1
+3
+15S
+1600 V
+0
+14S-2
+4
+15S
+1050 V
+0
+120
+240
+14S-5
+5
+15S
+1050 V
+0
+110
+14S-6
+6
+15S
+1050 V
+0
+14S-7
+3
+15S
+1600 V
+0
+90
+180
+270
+14SA7
+7
+15S
+1050 V
+0
+14SA-7
+16S-1
+7
+15S
+1600 V
+0
+80
+280
+
+10
+Insert arrangements
+Front face of pin  
+insert  illustrated
+Contact 
+ arrangement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+16S-4
+2
+15S
+2500 V
+0
+35
+110
+250
+325
+16S-8
+5
+15S
+1600 V
+0
+170
+265
+2
+15
+16-7*
+1600 V
+0
+80
+110
+250
+280
+1
+100
+2
+15
+16-9
+1600 V
+0
+35
+110
+250
+325
+2
+25
+16-10
+3
+25
+1600 V
+0
+90
+180
+270
+2 Pin
+25A
+16A11
+1600 V
+0
+110
+250
+2 Socket
+25
+16-12*
+1
+160
+1600 V
+0
+B,C,F,G – 1600 V
+18-1
+10
+15
+0
+70
+145
+215
+290
+A,D,E,H,I,J –  
+1050 V
+18-4
+4
+15
+2500 V
+0
+35
+110
+250
+325
+5
+15
+18-9
+1050 V
+0
+80
+110
+250
+280
+2
+25
+*No PCB version available
+
+11
+Insert arrangements
+Front face of pin  
+insert  illustrated
+Contact 
+ arrangement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+18-10
+4
+25
+1600 V
+0
+120
+240
+18-11
+5
+25
+1600 V
+0
+170
+265
+3
+25
+18-13*
+1600 V
+0
+80
+110
+250
+280
+1
+60
+20-2*
+1
+AWG 0
+2500 V
+0
+20-4
+4
+25
+2500 V
+0
+45
+110
+250
+20-7
+8
+15
+A,B,G,H – 2500 V 
+C,D,E,F – 1600 V
+0
+80
+110
+250
+280
+4
+15
+20-8*
+1050 V
+0
+80
+110
+250
+280
+2
+100
+20A9
+9
+25
+J – 2500 V;  
+all other – 1050 V
+0
+110
+250
+20A48
+19
+15
+1050 V
+0
+80
+280
+20-15
+7
+25
+1600 V
+0
+80
+280
+*No PCB version available
+
+12
+Insert arrangements
+Front face of pin  
+insert  illustrated
+Contact 
+ arrengement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+7
+15
+20-16
+1600 V
+0
+80
+110
+250
+280
+2
+25
+20-19*
+3
+AWG 8
+1600 V
+0
+90
+180
+270
+3
+AWG 8
+20-22*
+1600 V
+0
+80
+110
+250
+280
+3
+15
+20-27
+14
+15
+1600 V
+0
+35
+110
+250
+325
+20-29
+17
+15
+1600 V
+0
+80
+280
+20-33
+11
+15
+1600 V
+0
+22-2*
+3
+AWG 8
+2500 V
+0
+70
+145
+215
+290
+3
+15
+22-12*
+2500 V
+0
+80
+110
+250
+280
+2
+100
+22-14
+19
+15
+1600 V
+0
+80
+110
+250
+280
+22-19
+14
+15
+1600 V
+0
+80
+110
+250
+280
+*No PCB version available
+
+13
+Insert arrangements
+Front face of pin  
+insert  illustrated
+Contact 
+ arrengement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+22-22*
+4
+100
+1600 V
+0
+110
+250
+22-23
+8
+25
+H – 2500 V;  
+all other – 1600 V
+0
+35
+250
+22B22*
+4
+60
+1600 V
+0
+110
+250
+8
+15
+22-27*
+J – 2500 V;  
+all other – 1600 V
+0
+80
+250
+280
+1
+60
+22-28
+7
+25
+1600 V
+0
+80
+280
+24-2
+7
+25
+2500 V
+0
+80
+280
+C
+3
+15
+B
+D
+24-4
+24-4
+2500 V
+0
+80
+110
+250
+280
+A
+1
+500
+14
+15
+24-7
+1050 V
+0
+80
+110
+250
+280
+2
+25
+24-9*
+2
+AWG 4
+1600 V
+0
+35
+110
+250
+325
+24-10*
+7
+100
+1600 V
+0
+80
+280
+*No PCB version available
+
+14
+Insert arrangements
+Front face of pin  
+insert  illustrated
+Contact 
+ arrengement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+6
+AWG12* Metr 25
+24-11*
+1600 V
+0
+35
+110
+250
+325
+3
+AWG8* Metr 100
+3
+AWG 12
+24-12*
+1600 V
+0
+80
+110
+250
+280
+2
+AWG 4
+9
+15
+24-20
+1600 V
+0
+80
+110
+250
+280
+2
+25
+24-22*
+4
+AWG 8
+2500 V
+0
+45
+110
+250
+24-28
+24
+15
+1050 V
+0
+80
+110
+250
+280
+6
+25
+28-9
+2500 V
+0
+80
+110
+250
+280
+6
+15
+18
+15
+28-11*
+1600 V
+0
+80
+110
+250
+280
+4
+25
+28-12
+26
+15
+1600 V
+0
+90
+180
+270
+28-15
+35
+15
+1600 V
+0
+80
+110
+250
+280
+4
+15
+28-20
+1600 V
+0
+80
+110
+250
+280
+10
+25
+*No PCB version available
+
+15
+Insert arrangements
+Front face of pin  
+insert  illustrated
+Contact 
+ arrengement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+28-21
+37
+15
+1600 V
+0
+80
+110
+250
+280
+3
+AWG 16*  
+Metr 15
+28-22**
+2500 V
+0
+70
+145
+215
+290
+3
+AWG 4*  
+Metr 160
+A
+B
+C
+5
+15
+D
+E
+F
+28A16**
+1600 V
+0
+Spec
+28-A16
+G
+H
+J
+4
+AWG 4
+19
+15
+28A63
+E – 1600 V;  
+all other – 1050 V
+0
+100
+260
+9
+25
+32-1**
+3
+AWG 12*  
+Metr 25
+A – 3000 V;  
+all other – 2500 V
+0
+80
+110
+250
+280
+2
+AWG 0*  
+Metr 500
+4
+AWG 16
+32-3**
+2500 V
+0
+80
+110
+250
+280
+2
+AWG 12
+2
+AWG 4
+1
+AWG 0
+A
+32-5
+32-5**
+2
+AWG 0
+2500 V
+0
+35
+110
+250
+325
+B
+16
+AWG16* Metr 15
+1600 V
+0
+80
+110
+250
+280
+2
+AWG 12* Metr 25
+32-6**
+3
+AWG 8* Metr 60
+2
+AWG 4* Metr 160
+28
+15
+32-7
+A,B,H,J – 1050 V;
+all other – 1600 V
+0
+80
+125
+235
+280
+7
+25
+32A10
+54
+15
+1600 V
+0
+80
+110
+250
+280
+*Not for new design
+**No PCB version available
+
+16
+Insert arrangements
+Front face of pin  
+insert  illustrated
+Contact 
+ arrengement
+Contacts
+Voltage class for 
+contacts
+Angular position of the contact insert
+Number
+Size
+N
+W
+X
+Y
+Z
+32A55
+55
+15
+1600 V
+0
+80
+110
+250
+280
+41
+10
+1050 V
+0
+110
+250
+32A69**
+20
+15
+A
+B
+C
+6
+25
+D
+E
+32-15
+32-15**
+2500 V
+0
+35
+110
+250
+325
+G
+F
+H
+2
+500
+32-17
+32-17**
+4
+AWG 4
+2500 V
+0
+45
+110
+250
+3
+AWG 12*  
+Metr 25
+36-3**
+2500 V
+0
+70
+145
+215
+290
+3
+AWG 0*  
+Metr 500
+36-5**
+4
+AWG 0*  
+Metr 500
+1600 V
+0
+120
+240
+4
+AWG 4
+36-6**
+1600 V
+0
+35
+110
+250
+325
+2
+AWG 0
+36-10
+48
+15
+1600 V
+0
+80
+125
+235
+280
+A
+H
+B
+4
+15
+G
+C
+36A35
+36A35**
+1600 V
+0
+F
+D
+E
+4
+0
+*Not for new design
+**No PCB version available for contact arrangement 32A69
+
+17
+Angular position of the contact insert
+The angular positions W, X, Y and Z are used when polarisation is required for connectors of the same size and same number of 
+poles. The following figures show the view on the front face of the pin insert or the termination face of the socket insert.
+Mounting dimensions
+d1
+d1
+d2
+d2
+e ± 0,15
+Applicable screws according to*
+GCA00 – 
+GCA20 – 
+Style
+GCA02 – 
+GCA00 – 
+GCA20 – 
+GCA02 – 
+GCA00 – 
+GCA20 – 
+DIN 84
+GCA00 – 
+GCA20 – 
+DIN 85
+GCA02 – 
+GCA00 – 
+GCA20 – 
+entry
+holes
+threaded
+holes
+entry
+holes
+threaded
+holes
+Shell size 
+10SL
+17,0
+19,1
+3,4
+4,5
+18,2
+M3
+M4
+12S
+17,0
+22,0
+3,4
+4,5
+20,6
+M3
+M4
+14S
+20,0
+25,5
+3,4
+4,5
+23,0
+M3
+M4
+16S/16
+23,0
+28,3
+3,4
+4,5
+24,6
+M3
+M4
+18
+26,5
+31,7
+3,4
+4,5
+27,0
+M3
+M4
+20
+30,0
+35,0
+3,4
+4,5
+29,4
+M3
+M4
+22
+33,0
+38,3
+3,4
+4,5
+31,8
+M3
+M4
+24
+36,0
+41,8
+3,9
+4,5
+34,9
+M3,5
+M4
+28
+42,0
+47,6
+3,9
+5,5
+39,7
+M3,5
+M5
+32
+48,5
+54,3
+4,5
+5,5
+44,5
+M4
+M5
+36
+55,0
+60,5
+4,5
+5,5
+49,2
+M4
+M5
+* For using safety elements care shall be taken that the external diameter of safety elements is no larger than the diameter of the screw head
+
+18
+Mounting dimensions
+Connector type 06 E
+Connector type 06 F
+Connector type 06-03
+Connector type 06-DN
+Connector type 06 M
+Connector type 06 PG/ME
+Connector type 06 EGM
+Shell size
+l1 min.
+l2 min.
+l3 min.
+l4 min.
+l5 min. 
+l6 min.
+l7 min
+l8 min
+l9 min
+l10 max.
+l11 max.
+10SL
+70
+70
+65
+70
+75
+80
+70
+70
+70
+8,0
+3,5
+12S
+70
+70
+65
+70
+75
+80
+75
+75
+75
+8,0
+3,5
+14S
+70
+70
+65
+70
+75
+80
+75
+75
+75
+8,0
+3,5
+16S
+70
+70
+65
+70
+75
+80
+80
+80
+80
+8,0
+3,5
+16
+80
+80
+75
+80
+85
+90
+90
+90
+90
+8,0
+3,5
+18
+90
+90
+85
+90
+95
+100
+90
+90
+90
+8,0
+3,5
+20
+90
+90
+85
+90
+95
+100
+95
+95
+95
+8,0
+3,5
+22
+90
+90
+85
+90
+95
+100
+95
+95
+95
+8,0
+3,5
+24
+110
+110
+100
+110
+115
+120
+105
+105
+105
+8,0
+5,0
+28
+110
+110
+100
+110
+115
+120
+105
+105
+105
+9,0
+5,0
+32
+110
+110
+100
+110
+115
+120
+115
+115
+115
+9,0
+6,0
+36
+110
+110
+100
+110
+115
+120
+120
+120
+120
+9,0
+6,0
+
+19
+Mounting dimensions
+Connector type 08 F
+Connector type 08 EGM 
+Connector type 08 E
+Shell size
+l1 min.
+l2 min.
+l3 min.
+l4 min.
+l5 min. 
+l6 min.
+l7 min
+l8 min
+l9 min
+l10 max.
+l11 max.
+10SL
+70
+70
+65
+70
+75
+80
+70
+70
+70
+8,0
+3,5
+12S
+70
+70
+65
+70
+75
+80
+75
+75
+75
+8,0
+3,5
+14S
+70
+70
+65
+70
+75
+80
+75
+75
+75
+8,0
+3,5
+16S
+70
+70
+65
+70
+75
+80
+80
+80
+80
+8,0
+3,5
+16
+80
+80
+75
+80
+85
+90
+90
+90
+90
+8,0
+3,5
+18
+90
+90
+85
+90
+95
+100
+90
+90
+90
+8,0
+3,5
+20
+90
+90
+85
+90
+95
+100
+95
+95
+95
+8,0
+3,5
+22
+90
+90
+85
+90
+95
+100
+95
+95
+95
+8,0
+3,5
+24
+110
+110
+100
+110
+115
+120
+105
+105
+105
+8,0
+5,0
+28
+110
+110
+100
+110
+115
+120
+105
+105
+105
+9,0
+5,0
+32
+110
+110
+100
+110
+115
+120
+115
+115
+115
+9,0
+6,0
+36
+110
+110
+100
+110
+115
+120
+120
+120
+120
+9,0
+6,0
+
+20
+Receptacle back panel mounting flange, cable clamp and bushing GCA00E – B 
+Fixed connector with mounting flange, 
+cable clamp and bushing.
+Shell size
+Thread
+d2
+d3
+(1)
+max.
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+l5
+max.
+l6
+max.
+10SL
+M4
+6,5
+18,2
+60
+18,2
+2,8
+25,4
+120
+22,7
+12S
+M4
+6,5
+20,6
+60
+18,2
+3,2
+28,0
+120
+22,7
+Example:
+GCA00E-18-1SB
+14S
+M4
+9,0
+23,0
+62
+18,2
+3,2
+30,0
+120
+27,5
+16S
+M4
+11,0
+24,6
+70
+18,2
+3,2
+32,5
+120
+30,0
+16
+M4
+11,0
+24,6
+70
+23,05
+3,2
+32,5
+125
+30,0
+18
+M4
+14,2
+27,0
+77
+23,05
+4,0
+35,0
+125
+33,0
+20
+M4
+15,8
+29,4
+77
+23,05
+4,0
+38,0
+125
+37,5
+22
+M4
+15,8
+31,8
+77
+23,05
+4,0
+41,0
+125
+37,5
+24
+M4
+21,4
+34,9
+85
+23,05
+4,0
+44,5
+125
+43,3
+28
+M5
+21,4
+39,7
+85
+24,05
+4,0
+50,8
+125
+48,0
+32
+M5
+26,7
+44,5
+85
+24,05
+4,0
+57,0
+125
+55,0
+36
+M5
+31,7
+49,2
+105
+24,05
+4,0
+63,5
+135
+58,0
+(1) For max. admissible cable diameter
+Receptacle back panel mounting flange, cable clamp and bushing GCA00E
+Shell 
+size
+d1
+Class 2A
+Ø 
+(H13)
+Fixed connector with mounting 
+flange, cable clamp and bushing. 
+Standard with 4 entry holes or 
+form BM29 with 4 threaded holes.
+d2
+d3
+(1)
+max.
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+l5
+max.
+l6
+max.
+Thread 
+Form  
+BM29
+10SL
+5/8-24 UNEF
+M4
+3,05
+6,5
+18,2
+60
+14,27
+2,17
+25,6
+120
+22,7
+12S
+3/4-20 UNEF
+M4
+3,05
+6,5
+20,6
+60
+14,27
+2,17
+28,0
+120
+22,7
+Example: 
+GCA00E-18-1S
+14S
+7/8-20 UNEF
+M4
+3,05
+9,0
+23,0
+62
+14,27
+2,17
+30,4
+120
+27,5
+16S
+1-20 UNEF
+M4
+3,05
+11,0
+24,6
+70
+14,27
+2,17
+32,8
+120
+30,0
+16
+1-20 UNEF
+M4
+3,05
+11,0
+24,6
+70
+19,05
+2,17
+32,8
+125
+30,0
+18
+1 1/8-18 UNEF
+M4
+3,05
+14,2
+27,0
+77
+19,05
+3,37
+35,1
+125
+33,0
+20
+1 1/4-18 UNEF
+M4
+3,05
+15,8
+29,4
+77
+19,05
+3,37
+38,1
+125
+37,5
+22
+1 3/8-18 UNEF
+M4
+3,05
+15,8
+31,8
+77
+19,05
+3,37
+41,5
+125
+37,5
+24
+1 1/2-18 UNEF
+M4
+3,73
+21,4
+34,9
+85
+20,62
+3,37
+44,7
+125
+43,3
+28
+1 3/4-18 UNS
+M5
+3,73
+21,4
+39,7
+85
+20,62
+3,37
+51,1
+125
+48,0
+32
+2 -18 UNS
+M5
+4,39
+26,7
+44,5
+85
+22,22
+3,37
+57,2
+125
+55,0
+36
+2 1/4-16 UN
+M5
+4,39
+31,7
+49,2
+105
+22,22
+3,37
+63,7
+135
+58,0
+(1) For max. admissible cable diameter
+
+21
+Receptacle back panel mounting flange, shielding braids and heat shrink GCA00M – B 
+Shell 
+size
+Thread 
+d2
+d4
+max.
+d6
+max.
+d7
++0,5
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+l6
++2
+l7
++1
+10SL
+M4
+8,6
+16,3
+18,5
+18,2
+55
+18,2
+2,8
+25,4
+7
+17
+Fixed connector with mounting flange 
+and backshell for mounting of shielding 
+braids by pressing with a nut and heat 
+shrinkable endshells.
+12S
+M4
+9,3
+17,0
+20,0
+20,6
+57
+18,2
+3,2
+28,0
+7
+17
+14S
+M4
+10,6
+20,0
+22,0
+23,0
+58
+18,2
+3,2
+30,0
+7
+17
+Example:
+GCA00M-18-1SB
+16S
+M4
+13,5
+23,0
+25,0
+24,6
+70
+18,2
+3,2
+32,5
+8
+18
+16
+M4
+13,5
+23,0
+25,0
+24,6
+70
+23,05
+3,2
+32,5
+8
+18
+18
+M4
+14,6
+24,5
+28,0
+27,0
+70
+23,05
+4,0
+35,0
+10
+18
+20
+M4
+18,5
+28,5
+32,0
+29,4
+70
+23,05
+4,0
+38,0
+10
+18
+22
+M4
+20,8
+30,5
+34,0
+31,8
+70
+23,05
+4,0
+41,0
+10
+18
+24
+M4
+24,6
+34,5
+38,0
+34,9
+70
+23,05
+4,0
+44,5
+10
+18
+28
+M5
+27,0
+37,5
+41,0
+39,7
+70
+24,05
+4,0
+50,8
+10
+18
+32
+M5
+33,3
+44,0
+48,0
+44,5
+75
+24,05
+4,0
+57,0
+10
+18
+36
+M5
+38,5
+51,0
+55,0
+49,2
+85
+24,05
+4,0
+63,5
+10
+18
+Receptacle back panel mounting flange, shielding braids and heat shrink GCA00M
+Shell 
+size
+d1
+Class 2A
+Ø 
+(H13)
+d2
+d4
+min.
+d6
+max.
+d7
++0,5
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+l6
++2
+l7
++1
+Thread 
+Form  
+MB29
+10SL
+5/8-24 UNEF
+M4
+3,05
+8,6
+16,3
+18,5
+18,2
+55
+14,27
+2,17
+25,6
+7
+17
+12S
+3/4-20 UNEF
+M4
+3,05
+9,3
+17,0
+20,0
+20,6
+57
+14,27
+2,17
+28,0
+7
+17
+Fixed connector with mounting 
+flange and backshell for  
+mounting of  shielding braids by 
+pressing with a nut and heat 
+shrinkable endshells. Standard 
+with 4 entry holes or form BM29 
+with 4 threaded holes. 
+14S
+7/8-20 UNEF
+M4
+3,05
+10,6
+20,0
+22,0
+23,0
+58
+14,27
+2,17
+30,4
+7
+17
+16S
+1-20 UNEF
+M4
+3,05
+13,5
+23,0
+25,0
+24,6
+70
+14,27
+2,17
+32,8
+8
+18
+Example:
+GCA00M-18-1S
+16
+1-20 UNEF
+M4
+3,05
+13,5
+23,0
+25,0
+24,6
+70
+19,05
+2,17
+32,8
+8
+18
+18
+1 1/8-18 UNEF
+M4
+3,05
+14,6
+24,5
+28,0
+27,0
+70
+19,05
+3,37
+35,1
+10
+18
+20
+1 1/4-18 UNEF
+M4
+3,05
+18,5
+28,5
+32,0
+29,4
+70
+19,05
+3,37
+38,1
+10
+18
+22
+1 3/8-18 UNEF
+M4
+3,05
+20,8
+30,5
+34,0
+31,8
+70
+19,05
+3,37
+41,5
+10
+18
+24
+1 1/2-18 UNEF
+M4
+3,73
+24,6
+34,5
+38,0
+34,9
+70
+20,62
+3,37
+44,7
+10
+18
+28
+1 3/4-18 UNS
+M5
+3,73
+27,0
+37,5
+41,0
+39,7
+70
+20,62
+3,37
+51,1
+10
+18
+32
+2 -18 UNS
+M5
+4,39
+33,3
+44,0
+48,0
+44,5
+75
+22,22
+3,37
+57,2
+10
+18
+36
+2 1/4-16 UN
+M5
+4,39
+38,5
+51,0
+55,0
+49,2
+85
+22,22
+3,37
+63,7
+10
+18
+
+22
+Receptacle mounting flange, heat shrink GCA00E-B/-03/-06 
+Shell 
+size
+Thread 
+d2
+d3
++0,2
+d4
++0,2
+d5
+max.
+d6
+min.
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
++0,3
+l5
+±0,5
+Fixed connector with mounting flange 
+and backshell for heat shrinkable 
+endshells.
+10SL
+M4
+17,0
+15,5
+13,3
+7,7
+18,2
+55
+18,2
+2,8
+25,4
+11,7
+12S
+M4
+17,0
+15,5
+13,3
+7,9
+20,6
+55
+18,2
+3,2
+28,0
+11,7
+14S
+M4
+20,1
+19,1
+17,0
+10,6
+23,0
+70
+18,2
+3,2
+30,0
+11,7
+Example:
+GCA00E-18-1SB-03
+16S
+M4
+23,5
+23,9
+21,9
+13,5
+24,6
+70
+18,2
+3,2
+32,5
+11,7
+16
+M4
+23,5
+23,9
+21,9
+13,5
+24,6
+70
+23,05
+3,2
+32,5
+11,5
+18
+M4
+26,5
+23,9
+21,9
+14,6
+27,0
+70
+23,05
+4,0
+35,0
+11,5
+20
+M4
+30,2
+29,6
+26,2
+18,7
+29,4
+70
+23,05
+4,0
+38,0
+12,7
+22
+M4
+33,6
+29,6
+26,2
+20,8
+31,8
+70
+23,05
+4,0
+41,0
+12,7
+24
+M4
+36,1
+37,8
+34,5
+24,6
+34,9
+70
+23,05
+4,0
+44,5
+12,7
+28
+M5
+41,4
+37,8
+34,5
+27,0
+39,7
+70
+24,05
+4,0
+50,8
+12,7
+32
+M5
+48,6
+47,8
+43,6
+33,3
+44,5
+75
+24,05
+4,0
+57,0
+15,2
+36
+M5
+54,8
+47,8
+43,6
+38,5
+49,2
+85
+24,05
+4,0
+63,5
+15,2
+Receptacle mounting flange, heat shrink GCA00E-DN
+Shell 
+size
+d1
+Class 2A
+Ø 
+(H13)
+d2
+d3
+±0,2
+d4
+±0,2
+d5
+max.
+d6
+min.
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+l5
+±0,3
+Thread 
+Form  
+BM29
+Fixed connector with mounting 
+flange and backshell for heat 
+shrinkable endshells. Stand-
+ard with 4 entry holes or form 
+BM29 with 4 threaded holes. 
+10SL
+5/8-24 UNEF
+M4
+3,05
+17,0
+15,5
+13,3
+7,7
+18,2
+55
+14,27
+2,17
+25,6
+7
+12S
+3/4-20 UNEF
+M4
+3,05
+17,0
+15,5
+13,3
+7,9
+20,6
+57
+14,27
+2,17
+28,0
+7
+14S
+7/8-20 UNEF
+M4
+3,05
+20,1
+19,1
+17,0
+10,6
+23,0
+58
+14,27
+2,17
+30,4
+7
+Example:
+GCA00E-18-1S-DN
+16S
+1-20 UNEF
+M4
+3,05
+23,5
+23,9
+21,9
+13,5
+24,6
+70
+14,27
+2,17
+32,8
+8
+16
+1-20 UNEF
+M4
+3,05
+23,5
+23,9
+21,9
+13,5
+24,6
+70
+19,05
+2,17
+32,8
+8
+18
+1 1/8-18 UNEF
+M4
+3,05
+26,5
+23,9
+21,9
+14,6
+27,0
+70
+19,05
+3,37
+35,1
+10
+20
+1 1/4-18 UNEF
+M4
+3,05
+30,2
+29,6
+26,2
+18,7
+29,4
+70
+19,05
+3,37
+38,1
+10
+22
+1 3/8-18 UNEF
+M4
+3,05
+33,6
+29,6
+26,2
+20,8
+31,8
+70
+19,05
+3,37
+41,5
+10
+24
+1 1/2-18 UNEF
+M4
+3,73
+36,1
+37,8
+34,5
+24,8
+34,9
+70
+20,62
+3,37
+44,7
+10
+28
+1 3/4-18 UNS
+M5
+3,73
+41,1
+37,8
+34,5
+27,0
+39,7
+70
+20,62
+3,37
+51,1
+10
+32
+2 -18 UNS
+M5
+4,39
+48,6
+47,8
+43,6
+33,3
+44,5
+75
+22,22
+3,37
+57,2
+10
+36
+2 1/4-16 UN
+M5
+4,39
+54,8
+47,8
+43,6
+38,5
+49,2
+85
+22,22
+3,37
+63,7
+10
+
+23
+Receptacle back panel mounting flange, PG or metrical backshell GCA00PG-ME – B 
+Fixed connector with PG or metrical 
+backshell ME, without grommet.
+Shell 
+size
+d1 Thread Type
+Thread 
+d2
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+PG
+ME
+10SL
+PG9
+M12x1,5
+M4
+18,2
+55
+18,20
+2,8
+25,4
+12S
+PG9
+–
+M4
+20,6
+55
+18,20
+3,2
+28,0
+14S
+PG11
+M16x1,5
+M4
+23,0
+55
+18,20
+3,2
+30,0
+Example:
+GCA00PG-18-1SB
+or
+GCA00ME-18-1SB
+16S
+PG13,5
+M20x1,5
+M4
+24,6
+60
+18,20
+3,2
+32,5
+16
+PG13,5
+M20x1,5
+M4
+24,6
+70
+23,05
+3,2
+32,5
+18
+PG13,5
+M20x1,5
+M4
+27,0
+75
+23,05
+4,0
+35,0
+20
+PG16
+M25x1,5
+M4
+29,4
+75
+23,05
+4,0
+38,0
+22
+PG16
+M25x1,5
+M4
+31,8
+85
+23,05
+4,0
+41,0
+24
+PG16
+M25x1,5
+M4
+34,9
+85
+23,05
+4,0
+44,5
+28
+PG21
+M32x1,5
+M5
+39,7
+90
+24,05
+4,0
+50,8
+32
+PG29
+M40x1,5
+M5
+44,5
+95
+24,05
+4,0
+57,0
+36
+PG29
+M40x1,5
+M5
+49,2
+100
+24,05
+4,0
+63,5
+Receptacle back panel mounting flange, PG or metrical backshell GCA00PG-ME
+Shell 
+size
+d1
+Class 2A
+Ø 
+(H13)
+PG
+ME
+Fixed connector with PG or metrical 
+backshell ME, without grommet. 
+Standard with 4 entry holes or form 
+BM29 with 4 threaded holes.  
+d2
+d3
+Thread Type
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+Thread 
+Form 
+BM29
+10SL
+5/8-24 UNEF
+M4
+3,05
+PG9
+M12x1,5
+18,2
+55
+14,27
+2,17
+25,6
+12S
+3/4-20 UNEF
+M4
+3,05
+PG9
+-
+20,6
+55
+14,27
+2,17
+28,0
+14S
+7/8-20 UNEF
+M4
+3,05
+PG11
+M16x1,5
+23,0
+55
+14,27
+2,17
+30,4
+Example:
+GCA00PG-18-1S
+or
+GCA00ME-18-1S
+16S
+1-20 UNEF
+M4
+3,05
+PG13,5
+M20x1,5
+24,6
+60
+14,27
+2,17
+32,8
+16
+1-20 UNEF
+M4
+3,05
+PG13,5
+M20x1,5
+24,6
+70
+19,05
+2,17
+32,8
+18
+1 1/8-18 UNEF
+M4
+3,05
+PG13,5
+M20x1,5
+27,0
+75
+19,05
+3,37
+35,1
+20
+1 1/4-18 UNEF
+M4
+3,05
+PG16
+M25x1,5
+29,4
+75
+19,05
+3,37
+38,1
+22
+1 3/8-18 UNEF
+M4
+3,05
+PG16
+M25x1,5
+31,8
+85
+19,05
+3,37
+41,5
+24
+1 1/2-18 UNEF
+M4
+3,73
+PG16
+M25x1,5
+34,9
+85
+20,62
+3,37
+44,7
+28
+1 3/4-18 UNS
+M5
+3,73
+PG21
+M32x1,5
+39,7
+90
+20,62
+3,37
+51,1
+32
+2 -18 UNS
+M5
+4,39
+PG29
+M40x1,5
+44,5
+95
+22,22
+3,37
+57,2
+36
+2 1/4-16 UN
+M5
+4,39
+PG29
+M40x1,5
+49,2
+100
+22,22
+3,37
+63,7
+
+24
+Receptacle back panel mounting flange, universal shielded backshell GCA00EGM – B
+Wall mount receptacle with EGM backshell 
+for shielded cable, without grommet. 
+Shell size
+Thread 
+d2
+e
+±0,1
+l1
+max
+l2
++0,4
+l3
+±0,2.
+l4
+±0,3
+10SL
+M4
+18,2
+95,6
+18,20
+2,8
+25,4
+12S
+M4
+20,6
+95,6
+18,20
+3,2
+28,0
+14S
+M4
+23,0
+95,6
+18,20
+3,2
+30,0
+Example:
+GCA00EGM11-18-1SB
+or
+GCA06EGM21-18-1SB
+16S
+M4
+24,6
+95,6
+18,20
+3,2
+32,5
+16
+M4
+24,6
+102,0
+23,05
+3,2
+32,5
+18
+M4
+27,0
+102,0
+23,05
+4,0
+35,0
+20
+ON REQUEST
+22
+ON REQUEST
+d3: 
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min. 
+12,7 mm – max. 17,85 mm
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+Receptacle back panel mounting flange, universal shielded backshell GCA00EGM
+Shell size
+d1
+Class 2A
+Ø 
+(H13)
+Wall mount receptacle with EGM backshell 
+for shielded cable.
+Standard with 4 entry holes or form BM29 
+with 4 threaded holes, without grommet.
+d2
+e
+±0,1
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+Thread 
+Form
+BM29
+10SL
+5/8-24 UNEF
+M4
+3,05
+18,2
+95,6
+14,27
+2,17
+25,6
+12S
+3/4-20 UNEF
+M4
+3,05
+20,6
+95,6
+14,27
+2,17
+28,0
+14S
+7/8-20 UNEF
+M4
+3,05
+23,0
+95,6
+14,27
+2,17
+30,4
+Example:
+GCA00EGM11-18-1S
+or
+GCA00EGM21-18-1S
+16S
+1-20 UNEF
+M4
+3,05
+24,6
+95,6
+14,27
+2,17
+32,8
+16
+1-20 UNEF
+M4
+3,05
+24,6
+102,0
+19,05
+2,17
+32,8
+18
+1 1/8-18 UNEF
+M4
+3,05
+27,0
+102,0
+19,05
+3,37
+35,1
+20
+ON REQUEST
+22
+ON REQUEST
+d3: 
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min. 
+12,7 mm – max. 17,85 mm
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+
+25
+Cabel receptacle, cable clamp and bushing GCA01E – B 
+Inline receptacle, straight type, backshell 
+with cable clamp and bushing.
+Shell size
+d1
+max
+d2
+(1)
+max.
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+max
+l5
+±0,2
+l7
+max.
+10SL
+25,2
+6,5
+60
+14,2
+2,8
+120
+20,6
+22,7
+12S
+27,6
+6,5
+60
+14,2
+3,2
+120
+23,6
+22,7
+Example:
+GCA01E-18-1SB
+14S
+29,8
+9,0
+62
+14,2
+3,2
+120
+25,4
+27,5
+16S
+32,3
+11,0
+70
+14,2
+3,2
+120
+28,6
+30,0
+16
+32,3
+11,0
+70
+19,0
+3,2
+125
+28,6
+30,0
+18
+34,8
+14,2
+77
+19,0
+4,0
+125
+31,7
+33,0
+20
+37,8
+15,8
+77
+19,0
+4,0
+125
+34,9
+37,5
+22
+41,1
+15,8
+77
+19,0
+4,0
+125
+38,1
+37,5
+24
+44,6
+21,4
+85
+20,6
+4,0
+125
+41,3
+43,3
+28
+50,9
+21,4
+85
+20,6
+4,0
+125
+47,6
+48,0
+32
+57,1
+26,7
+85
+22,2
+4,0
+125
+54,0
+55,0
+36
+63,6
+31,7
+105
+22,2
+4,0
+135
+60,6
+58,0
+(1) For max. admissible cable diameter
+Cabel receptacle, cable clamp and bushing GCA01E
+Inline receptacle, straight type, back-
+shell with cable clamp and bushing
+Shell size
+d1
+Class 2A
+d2
+max.
+d3
+(1)
+max.
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+max.
+l5
+±0,2
+l7
+max.
+10SL
+5/8-24 UNEF
+25,2
+6,5
+60
+14,27
+2,17
+120
+20,6
+22,7
+12S
+3/4-20 UNEF
+27,6
+6,5
+60
+14,27
+2,17
+120
+23,6
+22,7
+Example:
+GCA01E-18-1S
+14S
+7/8-20 UNEF
+29,8
+9,0
+62
+14,27
+2,17
+120
+25,4
+27,5
+16S
+1-20 UNEF
+32,3
+11,0
+70
+14,27
+2,17
+120
+28,6
+30,0
+16
+1-20 UNEF
+32,3
+11,0
+70
+19,05
+2,17
+125
+28,6
+30,0
+18
+1 1/8-18 UNEF
+34,8
+14,2
+77
+19,05
+3,37
+125
+31,7
+33,0
+20
+1 1/4-18 UNEF
+37,8
+15,8
+77
+19,05
+3,37
+125
+34,9
+37,5
+22
+1 3/8-18 UNEF
+41,1
+15,8
+77
+19,05
+3,37
+125
+38,1
+37,5
+24
+1 1/2-18 UNEF
+44,6
+21,4
+85
+20,62
+3,37
+125
+41,3
+43,3
+28
+1 3/4-18 UNS
+50,9
+21,4
+85
+20,62
+3,37
+125
+47,6
+48,0
+32
+2 -18 UNS
+57,1
+26,7
+85
+22,22
+3,37
+125
+54,0
+55,0
+36
+2 1/4-16 UN
+63,6
+31,7
+105
+22,22
+3,37
+135
+60,6
+58,0
+(1) For max. admissible cable diameter
+
+26
+Cabel receptacle, PG or metrical backshell GCA01PG-ME – B
+Inline receptacle, straight type, with PG or 
+metrical backshell ME, without grommet.
+Shell 
+size
+d1
+max.
+d2 Thread type
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,2
+PG
+ME
+10SL
+25,2
+PG9
+M12x1,5
+55
+14,2
+2,8
+20,6
+12S
+27,6
+PG9
+–
+55
+14,2
+3,2
+23,6
+14S
+29,8
+PG11
+M16x1,5
+55
+14,2
+3,2
+25,4
+Example:
+GCA01PG-18-1SB
+or
+GCA01ME-18-1SB
+16S
+32,3
+PG13,5
+M20x1,5
+60
+14,2
+3,2
+28,6
+16
+32,3
+PG13,5
+M20x1,5
+70
+19,0
+3,2
+28,6
+18
+34,8
+PG13,5
+M20x1,5
+75
+19,0
+4,0
+31,7
+20
+37,8
+PG16
+M25x1,5
+75
+19,0
+4,0
+34,9
+22
+41,1
+PG16
+M25x1,5
+85
+19,0
+4,0
+38,1
+24
+44,6
+PG16
+M25x1,5
+85
+20,6
+4,0
+41,3
+28
+50,9
+PG21
+M32x1,5
+90
+20,6
+4,0
+47,6
+32
+57,1
+PG29
+M40x1,5
+95
+22,2
+4,0
+54,0
+36
+63,6
+PG29
+M40x1,5
+100
+22,0
+4,0
+60,6
+Cable receptacle, PG or metrical backshell GCA01PG-ME 
+Shell 
+size
+d1
+Class 2A
+d2
+max.
+d3 Thread type
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,2
+PG
+ME
+Inline receptacle, straight type, with 
+PG or metrical backshell ME, without 
+grommet.
+10SL
+5/8-24 UNEF
+25,2
+PG9
+M12x1,5
+55
+14,27
+2,17
+20,6
+12S
+3/4-20 UNEF
+27,6
+PG9
+–
+55
+14,27
+2,17
+23,6
+14S
+7/8-20 UNEF
+29,8
+PG11
+M16x1,5
+55
+14,27
+2,17
+25,4
+16S
+1-20 UNEF
+32,3
+PG13,5
+M20x1,5
+60
+14,27
+2,17
+28,6
+Example:
+GCA01PG-18-1S
+or
+GCA01ME-18-1S 
+16
+1-20 UNEF
+32,3
+PG13,5
+M20x1,5
+70
+19,05
+2,17
+28,6
+18
+1 1/8-18 UNEF
+34,8
+PG13,5
+M20x1,5
+75
+19,05
+3,37
+31,7
+20
+1 1/4-18 UNEF
+37,8
+PG16
+M25x1,5
+75
+19,05
+3,37
+34,9
+22
+1 3/8-18 UNEF
+41,1
+PG16
+M25x1,5
+85
+19,05
+3,37
+38,1
+24
+1 1/2-18 UNEF
+44,6
+PG16
+M25x1,5
+85
+20,62
+3,37
+41,3
+28
+1 3/4-18 UNS
+50,9
+PG21
+M32x1,5
+90
+20,62
+3,37
+47,6
+32
+2 -18 UNS
+57,1
+PG29
+M40x1,5
+95
+22,22
+3,37
+54,0
+36
+2 1/4-16 UN
+63,6
+PG29
+M40x1,5
+100
+22,22
+3,37
+60,6
+
+27
+Cable receptacle, universal shielded backshell GCA01EGM – B
+Shell size
+d2
+max.
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+Cable connection receptacle with EGM 
+backshell for shielded cable, without 
+grommet. 
+10SL
+25,2
+95,6
+14,2
+2,8
+25,4
+12S
+27,6
+95,6
+14,2
+3,2
+28,0
+14S
+29,8
+95,6
+14,2
+3,2
+30,0
+16S
+32,3
+95,6
+14,2
+3,2
+32,5
+Example:
+GCA01EGM11-18-1SB
+or
+GCA01EGM21-18-1SB
+16
+32,3
+102,0
+19,0
+3,2
+32,5
+18
+34,3
+102,0
+19,0
+4,0
+35,0
+20
+ON REQUEST
+22
+ON REQUEST
+24
+ON REQUEST
+d3 is:
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min.  
+12,7 mm – max. 17,85 mm
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+Cable receptacle, universal shielded backshell GCA01EGM 
+Wall mount receptacle with EGM backshell 
+for shielded cable, without grommet. 
+Shell size
+d1
+Class 2A
+d2
+max.
+l1
+max.
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+5/8-24 UNEF
+25,2
+95,6
+14,27
+2,17
+20,6
+12S
+3/4-20 UNEF
+27,6
+95,6
+14,27
+2,17
+23,6
+14S
+7/8-20 UNEF
+29,8
+95,6
+14,27
+2,17
+25,4
+Example:
+GCA01EGM11-18-1S
+or
+GCA01EGM21-18-1S
+16S
+1-20 UNEF
+32,3
+95,6
+14,27
+2,17
+28,6
+16
+1-20 UNEF
+32,3
+102,0
+19,05
+2,17
+28,6
+18
+1 1/8-18 UNEF
+34,3
+102,0
+19,05
+3,37
+31,7
+20
+ON REQUEST
+22
+ON REQUEST
+d3 is:
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min.  
+12,7 mm – max. 17,85 mm
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+
+Receptacle front panel mounting GCA02 – B 
+28
+Fixed connector with mounting flange for 
+front panel mounting. 
+Shell size
+d1
+max.
+d2
+Ø (H13)
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+16,2
+3,2
+18,2
+24,7
+14,2
+2,8
+25,4
+12S
+17,6
+3,2
+20,6
+24,7
+14,2
+3,2
+28,0
+Example:
+GCA02-18-1SB
+14S
+19,2
+3,2
+23,0
+24,7
+14,2
+3,2
+30,0
+16S
+22,4
+3,2
+24,6
+24,7
+14,2
+3,2
+32,5
+16
+22,4
+3,2
+24,6
+33,8
+19,0
+3,2
+32,5
+18
+25,6
+3,2
+27,0
+33,8
+19,0
+4,0
+35,0
+20
+29,0
+3,2
+29,4
+33,8
+19,0
+4,0
+38,0
+22
+32,2
+3,2
+31,8
+33,8
+19,0
+4,0
+41,0
+24
+35,3
+3,7
+34,9
+33,8
+20,6
+4,0
+44,5
+28
+41,4
+3,7
+39,7
+33,8
+20,6
+4,0
+50,8
+32
+47,8
+4,3
+44,5
+33,8
+22,2
+4,0
+57,0
+36
+54,1
+4,3
+49,2
+33,8
+22,2
+4,0
+63,5
+Receptacle front panel mounting GCA02 
+Fixed connector with mounting flange for 
+front panel mounting.
+Shell size
+d1
+Class 2A
+d2
+max.
+d3
+Ø (H13)
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+5/8-24 UNEF
+15,8
+3,05
+18,2
+25,5
+14,27
+2,17
+25,6
+12S
+3/4-20 UNEF
+17,5
+3,05
+20,6
+25,5
+14,27
+2,17
+28,0
+Example:
+GCA02-18-1S
+14S
+7/8-20 UNEF
+18,9
+3,05
+23,0
+25,5
+14,27
+2,17
+30,4
+16S
+1-20 UNEF
+22,1
+3,05
+24,6
+25,5
+14,27
+2,17
+32,8
+16
+1-20 UNEF
+22,1
+3,05
+24,6
+33,7
+19,05
+2,17
+32,8
+18
+1 1/8-18 UNEF
+25,5
+3,05
+27,0
+34,4
+19,05
+3,37
+35,1
+20
+1 1/4-18 UNEF
+28,4
+3,05
+29,4
+33,7
+19,05
+3,37
+38,1
+22
+1 3/8-18 UNEF
+31,6
+3,05
+31,8
+33,7
+19,05
+3,37
+41,5
+24
+1 1/2-18 UNEF
+34,8
+3,73
+34,9
+33,7
+20,62
+3,37
+44,7
+28
+1 3/4-18 UNS
+41,1
+3,73
+39,7
+33,7
+20,62
+3,37
+51,1
+32
+2 -18 UNS
+47,5
+4,39
+44,5
+33,7
+22,22
+3,37
+57,2
+36
+2 1/4-16 UN
+53,9
+4,39
+49,2
+33,7
+22,22
+3,37
+63,7
+
+Receptacle back panel mounting GCA20 – B
+29
+Fixed connector with mounting flange for 
+back panel mounting.
+Shell size
+d1
+max.
+Thread 
+d2
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+16,2
+M4
+18,2
+24,7
+18,20
+2,8
+25,4
+12S
+17,6
+M4
+20,6
+24,7
+18,20
+3,2
+28,0
+Example:
+GCA20-18-1SB
+14S
+19,2
+M4
+23,0
+24,7
+18,20
+3,2
+30,0
+16S
+22,4
+M4
+24,6
+24,7
+18,20
+3,2
+32,5
+16
+22,4
+M4
+24,6
+33,8
+23,05
+3,2
+32,5
+18
+25,6
+M4
+27,0
+33,8
+23,05
+4,0
+35,0
+20
+29,0
+M4
+29,4
+33,8
+23,05
+4,0
+38,0
+22
+32,2
+M4
+31,8
+33,8
+23,05
+4,0
+41,0
+24
+35,3
+M4
+34,9
+33,8
+23,05
+4,0
+44,5
+28
+41,4
+M5
+39,7
+33,8
+24,05
+4,0
+50,8
+32
+47,8
+M5
+44,5
+33,8
+24,05
+4,0
+57,0
+36
+54,1
+M5
+49,2
+33,8
+24,05
+4,0
+63,5
+Receptacle back panel mounting GCA20 
+Shell size
+d1
+Class 2A
+d2
+max.
+Ø 
+(H13)
+Fixed connector with mounting 
+flange for back panel mounting. 
+Standard with 4 entry holes or form 
+BM29 with 4 threaded holes. 
+d3
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+Thread 
+Form 
+BM29
+10SL
+5/8-24 UNEF
+15,8
+M4
+3,05
+18,2
+24,7
+18,20
+2,17
+25,6
+12S
+3/4-20 UNEF
+17,5
+M4
+3,05
+20,6
+24,7
+18,20
+2,17
+28,0
+Example:
+GCA20-18-1S
+14S
+7/8-20 UNEF
+18,9
+M4
+3,05
+23,0
+24,7
+18,20
+2,17
+30,4
+16S
+1-20 UNEF
+22,1
+M4
+3,05
+24,6
+24,7
+18,20
+2,17
+32,8
+16
+1-20 UNEF
+22,1
+M4
+3,05
+24,6
+33,8
+23,05
+2,17
+32,8
+18
+1 1/8-18 UNEF
+25,5
+M4
+3,05
+27,0
+33,8
+23,05
+3,37
+35,1
+20
+1 1/4-18 UNEF
+28,4
+M4
+3,05
+29,4
+33,8
+23,05
+3,37
+38,1
+22
+1 3/8-18 UNEF
+31,6
+M4
+3,05
+31,8
+33,8
+23,05
+3,37
+41,5
+24
+1 1/2-18 UNEF
+34,8
+M4
+3,73
+34,9
+33,8
+23,05
+3,37
+44,7
+28
+1 3/4-18 UNS
+41,1
+M5
+3,73
+39,7
+33,8
+24,05
+3,37
+51,1
+32
+2 -18 UNS
+47,5
+M5
+4,39
+44,5
+33,8
+24,05
+3,37
+57,2
+36
+2 1/4-16 UN
+53,9
+M5
+4,39
+49,2
+33,8
+24,05
+3,37
+63,7
+
+30
+Receptacle with PCB-Termination, front panel mounting GCA02L-B
+Fixed connector with mounting flange for 
+front panel mounting.
+Shell 
+size
+d1
+max.
+d2
+Ø (H13)
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+16,2
+3,2
+18,2
+24,7
+14,2
+2,8
+25,4
+12S
+17,6
+3,2
+20,6
+24,7
+14,2
+3,2
+28,0
+Example:
+GCA02L-18-1SB
+14S
+19,2
+3,2
+23,0
+24,7
+14,2
+3,2
+30,0
+16S
+22,4
+3,2
+24,6
+24,7
+14,2
+3,2
+32,5
+16
+22,4
+3,2
+24,6
+33,8
+19,0
+3,2
+32,5
+18
+25,6
+3,2
+27,0
+33,8
+19,0
+4,0
+35,0
+20
+29,0
+3,2
+29,4
+33,8
+19,0
+4,0
+38,0
+22
+32,2
+3,2
+31,8
+33,8
+19,0
+4,0
+41,0
+24
+35,3
+3,7
+34,9
+33,8
+20,6
+4,0
+44,5
+28
+41,4
+3,7
+39,7
+33,8
+20,6
+4,0
+50,8
+32
+47,8
+4,3
+44,5
+33,8
+22,2
+4,0
+57,0
+36
+54,1
+4,3
+49,2
+33,8
+22,2
+4,0
+63,5
+Receptacle with PCB-Termination, front panel mounting GCA02L
+Fixed connector with mounting flange 
+for front panel mounting.
+Shell 
+size
+d1
+Class 2A
+d2
+max.
+d3
+Ø (H13)
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+5/8-24 UNEF
+15,8
+3,05
+18,2
+25,5
+14,27
+2,17
+25,6
+12S
+3/4-20 UNEF
+17,5
+3,05
+20,6
+25,5
+14,27
+2,17
+28,0
+Example:
+GCA02L-18-1S
+14S
+7/8-20 UNEF
+18,9
+3,05
+23,0
+25,5
+14,27
+2,17
+30,4
+16S
+1-20 UNEF
+22,1
+3,05
+24,6
+25,5
+14,27
+2,17
+32,8
+16
+1-20 UNEF
+22,1
+3,05
+24,6
+33,7
+19,05
+2,17
+32,8
+18
+1 1/8-18 UNEF
+25,5
+3,05
+27,0
+34,4
+19,05
+3,37
+35,1
+20
+1 1/4-18U NEF
+28,4
+3,05
+29,4
+33,7
+19,05
+3,37
+38,1
+22
+1 3/8-18 UNEF
+31,6
+3,05
+31,8
+33,7
+19,05
+3,37
+41,5
+24
+1 1/2-18 UNEF
+34,8
+3,73
+34,9
+33,7
+20,62
+3,37
+44,7
+28
+1 3/4-18 UNS
+41,1
+3,73
+39,7
+33,7
+20,62
+3,37
+51,1
+32
+2 -18 UNS
+47,5
+4,39
+44,5
+33,7
+22,22
+3,37
+57,2
+36
+2 1/4-16 UN
+53,9
+4,39
+49,2
+33,7
+22,22
+3,37
+63,7
+
+31
+Receptacle with PCB-Termination, back panel mounting GCA20L-B 
+Fixed connector with mounting flange 
+for back panel mounting. 
+Shell size
+d1
+max.
+Thread 
+d2
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+16,2
+M4
+18,2
+24,7
+18,20
+2,8
+25,4
+12S
+17,6
+M4
+20,6
+24,7
+18,20
+3,2
+28,0
+Example:
+GCA20L-18-1SB
+14S
+19,2
+M4
+23,0
+24,7
+18,20
+3,2
+30,0
+16S
+22,4
+M4
+24,6
+24,7
+18,20
+3,2
+32,5
+16
+22,4
+M4
+24,6
+33,8
+23,05
+3,2
+32,5
+18
+25,6
+M4
+27,0
+33,8
+23,05
+4,0
+35,0
+20
+29,0
+M4
+29,4
+33,8
+23,05
+4,0
+38,0
+22
+32,2
+M4
+31,8
+33,8
+23,05
+4,0
+41,0
+24
+35,3
+M4
+34,9
+33,8
+23,05
+4,0
+44,5
+28
+41,4
+M5
+39,7
+33,8
+24,05
+4,0
+50,8
+32
+47,8
+M5
+44,5
+33,8
+24,05
+4,0
+57,0
+36
+54,1
+M5
+49,2
+33,8
+24,05
+4,0
+63,5
+Receptacle with PCB-Termination, back panel mounting GCA20L
+Shell size
+d1
+Class 2A
+d2
+max.
+Ø 
+±0,1
+Fixed connector with mounting flange 
+for back panel mounting. Standard 
+with 4 entry holes or form BM29 with 4 
+threaded holes.
+d3
+e
+±0,1
+l1
+±0,3
+l2
++0,4
+l3
+±0,2
+l4
+±0,3
+Thread
+Form 
+BM29
+10SL
+5/8-24 UNEF
+15,8
+M4
+3,05
+18,2
+24,7
+18,20
+2,17
+25,6
+12S
+3/4-20 UNEF
+17,5
+M4
+3,05
+20,6
+24,7
+18,20
+2,17
+28,0
+Example:
+GCA20L-18-1S
+14S
+7/8-20 UNEF
+18,9
+M4
+3,05
+23,0
+24,7
+18,20
+2,17
+30,4
+16S
+1-20 UNEF
+22,1
+M4
+3,05
+24,6
+24,7
+18,20
+2,17
+32,8
+16
+1-20 UNEF
+22,1
+M4
+3,05
+24,6
+33,8
+23,05
+2,17
+32,8
+18
+1 1/8-18 UNEF
+25,5
+M4
+3,05
+27,0
+33,8
+23,05
+3,37
+35,1
+20
+1 1/4-18 UNEF
+28,4
+M4
+3,05
+29,4
+33,8
+23,05
+3,37
+38,1
+22
+1 3/8-18 UNEF
+31,6
+M4
+3,05
+31,8
+33,8
+23,05
+3,37
+41,5
+24
+1 1/2-18 UNEF
+34,8
+M4
+3,73
+34,9
+33,8
+23,05
+3,37
+44,7
+28
+1 3/4-18 UNS
+41,1
+M5
+3,73
+39,7
+33,8
+24,05
+3,37
+51,1
+32
+2-18 UNS
+47,5
+M5
+4,39
+44,5
+33,8
+24,05
+3,37
+57,2
+36
+2 1/4-16 UN
+53,9
+M5
+4,39
+49,2
+33,8
+24,05
+3,37
+63,7
+
+32
+Plug, cable clamp and bushing GCA06E – B
+Straight plug, backshell with cable clamp 
+and bushing.
+Shell size
+d1
+max.
+d2
+(1)
+max.
+l1
+max.
+l2
+max.
+l3
+max.
+10SL
+22,8
+6,5
+115
+58
+22,7
+12S
+25,6
+6,5
+115
+60
+22,7
+Example:
+GCA06E-18-1SB
+14S
+29,2
+9,0
+115
+60
+27,5
+16S
+32,0
+11,0
+115
+60
+30,0
+16
+32,0
+11,0
+120
+70
+30,0
+18
+36,5
+14,2
+120
+75
+33,0
+20
+39,9
+15,8
+120
+75
+37,5
+22
+43,1
+15,8
+120
+75
+37,5
+24
+46,6
+21,4
+120
+90
+43,3
+28
+53,4
+21,4
+120
+90
+48,0
+32
+60,1
+26,7
+120
+90
+55,0
+36
+66,3
+31,7
+130
+100
+58,0
+(1) For max. admissible cable diameter
+Plug, cable clamp and bushing GCA06E 
+Straight plug, backshell with cable clamp 
+and bushing.
+Shell size
+d1
+Class 2B
+d2
+max.
+d3
+(1)
+max.
+l1
+max.
+l2
+max.
+l3
+max.
+10SL
+5/8-24 UNEF
+22,0
+6,5
+115
+58
+22,7
+12S
+3/4-20 UNEF
+24,0
+6,5
+115
+60
+22,7
+Example:
+GCA06E-18-1S
+14S
+7/8-20 UNEF
+28,3
+9,0
+115
+60
+27,5
+16S
+1-20 UNEF
+31,4
+11,0
+115
+60
+30,0
+16
+1-20 UNEF
+31,4
+11,0
+120
+70
+30,0
+18
+1 1/8-18 UNEF
+33,7
+14,2
+120
+75
+33,0
+20
+1 1/4-18 UNEF
+36,8
+15,8
+120
+75
+37,5
+22
+1 3/8-18 UNEF
+40,0
+15,8
+120
+75
+37,5
+24
+1 1/2-18 UNEF
+43,5
+21,4
+120
+90
+43,3
+28
+1 3/4-18 UNS
+49,8
+21,4
+120
+90
+48,0
+32
+2 -18 UNS
+56,0
+26,7
+120
+90
+55,0
+36
+2 1/4-16 UN
+62,5
+31,7
+130
+100
+58,0
+(1) For max. admissible cable diameter
+
+33
+Plug, conduit termination GCA06F – B 
+F – Straight plug, backshell for conduit 
+termination.
+Shell size
+d1
+max.
+d2
+min.
+d3
+Class 2A
+l1
+max.
+l2
+min.
+10SL
+22,8
+8,2
+5/8-24 UNEF
+50
+9,5
+12S
+25,6
+8,2
+5/8-24 UNEF
+50
+9,5
+Example:
+GCA06F-18-1SB
+14S
+29,2
+11,1
+3/4-20 UNEF
+50
+9,5
+16S
+32,0
+14,3
+7/8-20 UNEF
+50
+9,5
+16
+32,0
+14,3
+7/8-20 UNEF
+60
+9,5
+18
+36,5
+16,7
+1-20 UNEF
+60
+9,5
+20
+39,9
+19,8
+1 3/16-18 UNEF
+60
+9,5
+22
+43,1
+19,8
+1 3/16-18 UNEF
+60
+9,5
+24
+46,6
+25,4
+1 7/16-18 UNEF
+65
+9,5
+28
+53,4
+27,0
+1 7/16-18 UNEF
+65
+9,5
+32
+60,1
+32,5
+1 3/4-18 UNS
+65
+11,0
+36
+66,3
+35,7
+2-18 UNS
+80
+11,8
+Plug, conduit termination GCA06F
+F – Straight plug, backshell for conduit 
+termination.
+Shell size
+d1
+Class 2B
+d2
+max.
+d3
+min.
+d4
+Class 2A
+l1
+max.
+l2
+min.
+10SL
+5/8-24 UNEF
+22,0
+8,2
+5/8-24 UNEF
+50
+9,5
+12S
+3/4-20 UNEF
+24,0
+8,2
+5/8-24 UNEF
+50
+9,5
+Example: 
+GCA06F-18-1S
+14S
+7/8-20 UNEF
+28,3
+11,1
+3/4-20 UNEF
+50
+9,5
+16S
+1-20 UNEF
+31,4
+14,3
+7/8-20 UNEF
+50
+9,5
+16
+1-20 UNEF
+31,4
+14,3
+7/8-20 UNEF
+60
+9,5
+18
+1 1/8-18 UNEF
+33,7
+16,7
+1-20 UNEF
+60
+9,5
+20
+1 1/4-18 UNEF
+36,8
+19,8
+1 3/16-18 UNEF
+60
+9,5
+22
+1 3/8-18 UNEF
+40,0
+19,8
+1 3/16-18 UNEF
+60
+9,5
+24
+1 1/2-18 UNEF
+43,5
+25,4
+1 7/16-18 UNEF
+65
+9,5
+28
+1 3/4-18 UNS
+49,8
+27,0
+1 7/16-18 UNEF
+65
+9,5
+32
+2 -18 UNS
+56,0
+32,5
+1 3/4-18 UNS
+65
+11,0
+36
+2 1/4-16 UN
+62,5
+35,7
+2-18 UNS
+80
+11,8
+
+34
+Plug, heat shrink / with grounding finger GCA06E / EG-B / -03 / -06 
+E- Straight plug with backshell for heat 
+shrinkable endshells
+Shell size
+d1
+max.
+d2
+±0,2
+d3
+±0,2
+d4
+max.
+d5
+min.
+l1
+max.
+l2
+±0,5
+10SL
+22,8
+17,0
+15,5
+13,3
+7,7
+50
+11,7
+12S
+25,6
+17,0
+15,5
+13,3
+7,9
+50
+11,7
+14S
+29,2
+20,1
+19,1
+17,0
+10,6
+50
+11,7
+EG- Straight plug with grounding fingers 
+and backshell for heat shrinkable end-
+shells.
+16S
+32,0
+23,5
+23,9
+21,9
+13,5
+50
+11,7
+16
+32,0
+23,5
+23,9
+21,9
+13,5
+60
+11,5
+18
+36,5
+26,5
+23,9
+21,9
+14,6
+60
+11,5
+Example:
+GCA06E-18-1SB-03
+GCA06EG-18-1SB-03
+20
+39,9
+30,2
+29,6
+26,2
+18,7
+65
+12,7
+22
+43,1
+33,6
+29,6
+26,2
+20,8
+65
+12,7
+24
+46,6
+36,1
+37,8
+34,5
+24,6
+65
+12,7
+28
+53,4
+41,4
+37,8
+34,5
+27,0
+65
+12,7
+32
+60,1
+48,6
+47,8
+43,6
+33,3
+70
+15,2
+36
+66,3
+54,8
+47,8
+43,6
+38,5
+80
+15,2
+Plug, heat shrink / with grounding finger GCA06E / EG - DN 
+E- Straight plug with backshell for heat 
+shrinkable endshells
+Shell size
+d1
+Class 2B
+d2
+max.
+d3
+±0,2
+d4
+±0,2
+d5
+max.
+d6
+min.
+l1
+max.
+l2
+±0,5
+10SL
+5/8-24 UNEF
+22,0
+17,0
+15,5
+13,3
+7,7
+50
+11,7
+12S
+3/4-20 UNEF
+24,0
+17,0
+15,5
+13,3
+7,9
+50
+11,7
+14S
+7/8-20 UNEF
+28,3
+20,1
+19,1
+17,0
+10,6
+50
+11,7
+EG- Straight plug with grounding fingers 
+and backshell for heat shrinkable end-
+shells.
+16S
+1-20 UNEF
+31,4
+23,5
+23,9
+21,9
+13,5
+50
+11,7
+16
+1-20 UNEF
+31,4
+23,5
+23,9
+21,9
+13,5
+60
+11,5
+18
+1 1/8-18 UNEF
+33,7
+26,5
+23,9
+21,9
+14,6
+60
+11,5
+Example:
+GCA06E-18-1S-DN
+GCA06EG-18-1S-DN 
+20
+1 1/4-18 UNEF
+36,8
+30,2
+29,6
+26,2
+18,7
+65
+12,7
+22
+1 3/8-18 UNEF
+40,0
+33,6
+29,6
+26,2
+20,8
+65
+12,7
+24
+1 1/2-18 UNEF
+43,5
+36,1
+37,8
+34,5
+24,6
+65
+12,7
+28
+1 3/4-18 UNS
+49,8
+41,4
+37,8
+34,5
+27,0
+65
+12,7
+32
+2 -18 UNS
+56,0
+48,6
+47,8
+43,6
+33,3
+70
+15,2
+36
+2 1/4-16 UN
+62,5
+54,8
+47,8
+43,6
+38,5
+80
+15,2
+
+35
+Plug with grounding finger, shielding, heat shrink GCA06M – B
+Shell size
+d1
+max.
+d4
+min.
+d6
+max.
+d7
+±0,5
+l1
+max.
+l6
++2
+l7
++1
+Straight plug with  grounding fingers and 
+backshell for  shielding and heat shrinkable 
+endshells.
+10SL
+22,8
+8,6
+16,3
+18,5
+55
+7
+17
+12S
+25,6
+9,3
+17,0
+20,0
+56
+7
+17
+14S
+29,2
+10,6
+20,0
+22,0
+57
+7
+17
+Example:
+GCA06M-18-1SB
+16S
+32,0
+13,5
+23,0
+25,0
+60
+8
+18
+16
+32,0
+13,5
+23,0
+25,0
+70
+8
+18
+18
+36,5
+14,6
+24,5
+28,0
+70
+10
+18
+20
+39,9
+18,5
+28,5
+32,0
+70
+10
+18
+22
+43,1
+20,8
+30,5
+34,0
+70
+10
+18
+24
+46,6
+24,6
+34,5
+38,0
+70
+10
+18
+28
+53,4
+27,0
+37,5
+41,0
+70
+10
+18
+32
+60,1
+33,3
+44,0
+48,0
+70
+10
+18
+36
+66,3
+38,5
+51,0
+55,0
+80
+10
+18
+Plug with grounding finger, shielding, heat shrink GCA06M 
+Shell size
+d1
+Class 2B
+d2
+max.
+d4
+min.
+d6
+max.
+d7
+±0,5
+l1
+max.
+l6
++2
+l7
++1
+Straight plug with  grounding fingers and 
+backshell for  shielding and heat shrinkable 
+endshells.
+10SL
+5/8-24 UNEF
+22,0
+8,6
+16,3
+18,5
+55
+7
+17
+12S
+3/4-20 UNEF
+24,0
+9,3
+17,0
+20,0
+56
+7
+17
+14S
+7/8-20 UNEF
+28,3
+10,6
+20,0
+22,0
+57
+7
+17
+Example:
+GCA06M-18-1S
+16S
+1-20 UNEF
+31,4
+13,5
+23,0
+25,0
+60
+8
+18
+16
+1-20 UNEF
+31,4
+13,5
+23,0
+25,0
+70
+8
+18
+18
+1 1/8-18 UNEF
+33,7
+14,6
+24,5
+28,0
+70
+10
+18
+20
+1 1/4-18 UNEF
+36,8
+18,5
+28,5
+32,0
+70
+10
+18
+22
+1 3/8-18 UNEF
+40,0
+20,8
+30,5
+34,0
+70
+10
+18
+24
+1 1/2-18 UNEF
+43,5
+24,6
+34,5
+38,0
+70
+10
+18
+28
+1 3/4-18 UNS
+49,8
+27,0
+37,5
+41,0
+70
+10
+18
+32
+2 -18 UNS
+56,0
+33,3
+44,0
+48,0
+70
+10
+18
+36
+2 1/4-16  UN
+62,5
+38,5
+51,0
+55,0
+80
+10
+18
+
+36
+Plug, PG or metrical backshell GCA06PG- ME – B
+Free connector with PG or metrical 
+backshell ME, without grommet.
+Shell size
+d1
+max.
+d2 Thread type
+l1
+max.
+PG
+ME
+10SL
+22,8
+PG9
+M12x1,5
+55
+12S
+25,6
+PG9
+–
+55
+14S
+29,2
+PG11
+M16x1,5
+55
+Example:
+GCA06PG-18-1SB
+or
+GCA06ME-18-1SB
+16S
+32,0
+PG13,5
+M20x1,5
+60
+16
+32,0
+PG13,5
+M20x1,5
+70
+18
+36,5
+PG13,5
+M20x1,5
+75
+20
+39,9
+PG16
+M25x1,5
+75
+22
+43,1
+PG16
+M25x1,5
+85
+24
+46,6
+PG16
+M25x1,5
+85
+28
+53,4
+PG21
+M32x1,5
+90
+32
+60,1
+PG29
+M40x1,5
+95
+36
+66,3
+PG29
+M40x1,5
+100
+Plug, PG or metrical backshell GCA06PG-ME 
+Free connector with PG or metrical 
+backshell ME, without grommet.
+Shell size
+d1
+Class 2B
+d2
+max.
+d3 Thread type
+l1
+max.
+PG
+ME
+10SL
+5/8-24 UNEF
+22,0
+PG9
+M12x1,5
+55
+12S
+3/4-20 UNEF
+24,0
+PG9
+–
+55
+14S
+7/8-20 UNEF
+28,3
+PG11
+M16x1,5
+55
+Example:
+GCA06PG-18-1S
+or
+GCA06ME-18-1S
+16S
+1-20 UNEF
+31,4
+PG13,5
+M20x1,5
+60
+16
+1-20 UNEF
+31,4
+PG13,5
+M20x1,5
+70
+18
+1 1/8-18 UNEF
+33,7
+PG13,5
+M20x1,5
+75
+20
+1 1/4-18 UNEF
+36,8
+PG16
+M25x1,5
+75
+22
+1 3/8-18 UNEF
+40,0
+PG16
+M25x1,5
+85
+24
+1 1/2-18 UNEF
+43,5
+PG16
+M25x1,5
+85
+28
+1 3/4-18 UNS
+49,8
+PG21
+M32x1,5
+90
+32
+2 -18 UNS
+56,0
+PG29
+M40x1,5
+95
+36
+2 1/4-16 UN
+62,5
+PG29
+M40x1,5
+100
+
+37
+Plug with grounding finger, shielding, universal backshell GCA06EGM – B 
+Free connector with grounding finger, EGM 
+backshell for shielded cable, without grommet.
+Shell size
+d1
+max.
+l1
+max.
+10SL
+22,8
+53,0
+12S
+25,6
+53,0
+14S
+29,2
+53,0
+Example:
+GCA06EGM11-18-1SB
+or
+GCA06EGM21-18-1SB
+16S
+32,0
+53,0
+16
+32,0
+61,0
+18
+36,5
+62,0
+20
+ON REQUEST
+22
+ON REQUEST
+d3: 
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min.  
+12,7 mm – max. 17,85 mm
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+Plug with grounding finger, shielding, universal backshell GCA06EGM 
+Free connector with grounding finger, EGM 
+backshell for shielded cable, without grommet.
+Shell size
+d1
+Class 2B
+d2
+max.
+l1
+max.
+10SL
+5/8-24 UNEF
+22,0
+53,0
+12S
+3/4-20 UNEF
+24,0
+53,0
+14S
+7/8-20 UNEF
+28,3
+53,0
+Example:
+GCA06EGM11-18-1S
+or
+GCA06EGM21-18-1S
+16S
+1-20 UNEF
+31,4
+53,0
+16
+1-20 UNEF
+31,4
+61,0
+18
+1 1/8-18 UNEF
+33,7
+62,0
+20
+ON REQUEST
+22
+ON REQUEST
+d3: 
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min.  
+12,7 mm – max. 17,85 mm
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+
+38
+Plug, 90° backshell, cable clamp and bushing GCA08E – B 
+Angular plug, with cable clamp and 
+bushing.
+Shell size
+d1
+max.
+d2
+(1)
+max.
+l1
+max.
+l2
+max.
+l3
+max.
+l4
+max.
+10SL
+22,8
+6,5
+45
+42
+100
+22,7
+12S
+25,6
+6,5
+45
+42
+100
+22,7
+Example:
+GCA08E-18-1SB
+14S
+29,2
+9,0
+47
+42
+100
+27,5
+16S
+32,0
+11,0
+48
+45
+100
+30,0
+16
+32,0
+11,0
+57
+45
+100
+30,0
+18
+36,5
+14,2
+58
+53
+100
+33,0
+20
+39,9
+15,8
+61
+53
+100
+37,5
+22
+43,1
+15,8
+61
+58
+100
+37,5
+24
+46,6
+21,4
+66
+58
+100
+43,3
+28
+53,4
+21,4
+66
+58
+100
+48,0
+32
+60,1
+26,7
+72
+66
+110
+55,0
+36
+66,3
+31,7
+75
+69
+110
+58,0
+(1) For max. admissible cable diameter
+Plug, 90° backshell, cable clamp and bushing GCA08E
+Angular plug, with cable clamp and 
+bushing.
+Shell size
+d1
+Class 2B
+d2
+max.
+d3
+(1)
+max.
+l1
+max.
+l2
+max.
+l3
+max.
+l4
+max.
+10SL
+5/8-24 UNEF
+22,0
+6,5
+45
+42
+100
+22,7
+12S
+3/4-20 UNEF
+24,0
+6,5
+45
+42
+100
+22,7
+Example:
+GCA08E-18-1S
+14S
+7/8-20 UNEF
+28,3
+9,0
+47
+42
+100
+27,5
+16S
+1-20 UNEF
+31,4
+11,0
+48
+45
+100
+30,0
+16
+1-20 UNEF
+31,4
+11,0
+57
+45
+100
+30,0
+18
+1 1/8-18 UNEF
+33,7
+14,2
+58
+53
+100
+33,0
+20
+1 1/4-18 UNEF
+36,8
+15,8
+61
+53
+100
+37,5
+22
+1 3/8-18 UNEF
+40,0
+15,8
+61
+58
+100
+37,5
+24
+1 1/2-18 UNEF
+43,5
+21,4
+66
+58
+100
+43,3
+28
+1 3/4-18 UNS
+49,8
+21,4
+66
+58
+100
+48,0
+32
+2 -18 UNS
+56,0
+26,7
+72
+66
+110
+55,0
+36
+2 1/4-16 UN
+62,5
+31,7
+75
+69
+110
+58,0
+(1) For max. admissible cable diameter
+
+39
+Plug, 90° backshell, conduit termination GCA08F – B 
+Angular plug with backshell for conduit 
+termination.
+Shell size
+d1
+max.
+d3
+Class 2A
+l1
+max.
+l2
+max.
+l5
+min.
+10SL
+22,8
+5/8-24 UNEF
+45
+30
+9,4
+12S
+25,6
+5/8-24 UNEF
+45
+30
+9,4
+Example:
+GCA08F-18-1SB 
+14S
+29,2
+3/4-20 UNEF
+47
+30
+9,4
+16S
+32,0
+7/8-20 UNEF
+48
+30
+9,4
+16
+32,0
+7/8-20 UNEF
+57
+35
+9,4
+18
+36,5
+1-20 UNEF
+58
+35
+9,4
+20
+39,9
+1 3/16-18 UNEF
+61
+35
+9,4
+22
+43,1
+1 3/16-18 UNEF
+61
+40
+9,4
+24
+46,6
+1 7/16-18 UNEF
+66
+40
+9,4
+28
+53,4
+1 7/16-18 UNEF
+66
+40
+9,4
+32
+60,1
+1 3/4-18 UNS
+72
+45
+11,0
+36
+66,3
+2-18 UNS
+75
+50
+12,6
+Plug, 90° backshell, conduit termination GCA08F
+Angular plug with backshell for conduit 
+termination.
+Shell size
+d1
+Class 2B
+d2
+max.
+d3
+Class 2A
+l1
+max.
+l2
+max.
+l3
+min.
+10SL
+5/8-24 UNEF
+22,0
+5/8-24 UNEF
+45
+30
+9,4
+12S
+3/4-20 UNEF
+24,0
+5/8-24 UNEF
+45
+30
+9,4
+Example:
+GCA08F-18-1S 
+14S
+7/8-20 UNEF
+28,3
+3/4-20 UNEF
+47
+30
+9,4
+16S
+1-20 UNEF
+31,4
+7/8-20 UNEF
+48
+30
+9,4
+16
+1-20 UNEF
+31,4
+7/8-20 UNEF
+57
+35
+9,4
+18
+1 1/8-18 UNEF
+33,7
+1-20 UNEF
+58
+35
+9,4
+20
+1 1/4-18 UNEF
+36,8
+1 3/16-18 UNEF
+61
+35
+9,4
+22
+1 3/8-18 UNEF
+40,0
+1 3/16-18 UNEF
+61
+40
+9,4
+24
+1 1/2-18 UNEF
+43,5
+1 7/16-18 UNEF
+66
+40
+9,4
+28
+1 3/4-18 UNS
+49,8
+1 7/16-18 UNEF
+66
+40
+9,4
+32
+2 -18 UNS
+56,0
+1 3/4-18 UNS
+72
+45
+11,0
+36
+2 1/4-16 UN
+62,5
+2 -18 UNS
+75
+50
+12,6
+
+40
+Plug with grounding finger, 90° backshell and universal backshell GCA08EGM – B 
+Angular plug with grounding finger,  EGM 
+backshell for shielded cable. 
+Shell size
+d1
+max.
+l1
+max.
+l2
+max.
+10SL
+22,8
+41
+91
+12S
+25,6
+41
+91
+14S
+29,2
+41
+91
+Example:
+GCA08EGM11-18-1SB
+or
+GCA08EGM21-18-1SB
+16S
+32,0
+43
+93
+16
+32,0
+53
+93
+18
+36,5
+55
+95
+20
+ON REQUEST
+22
+ON REQUEST
+d3: 
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min. 
+12,7 mm – max. 17,85 mm
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+Plug with grounding finger, 90° backshell and universal backshell GCA08EGM
+Angular plug with grounding finger,  EGM 
+backshell for shielded cable. 
+Shell size
+d1
+Class 2B
+d2
+max.
+l1
+max.
+l2
+max.
+10SL
+5/8-24 UNEF
+22,0
+41
+91
+12S
+3/4-20 UNEF
+24,0
+41
+91
+14S
+7/8-20 UNEF
+28,3
+41
+91
+Example:
+GCA08EGM11-18-1S
+or
+GCA08EGM21-18-1S
+16S
+1-20 UNEF
+31,4
+43
+93
+16
+1-20 UNEF
+31,4
+53
+93
+18
+1 1/8-18 UNEF
+33,7
+55
+95
+20
+ON REQUEST
+22
+ON REQUEST
+d3: 
+For EGM11 can accept cable min.  
+5,7 mm – max. 10,85 mm
+For EGM21 can accept cable min. 
+12,7 mm – max. 17,85 mm
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+
+41
+Protective cover for receptacle GCA-KRB / GCA-KAB
+Protective cover for receptacle. Style KR 
+with chain or style KA with rope.
+Shell size
+d1
+max.
+d2
++0,6
+l1
+max.
+l2
+max.
+10SL
+23,5
+4,3
+90
+20
+12S
+27,0
+4,3
+90
+20
+14S
+30,5
+4,3
+90
+20
+Example:
+GCA-KRBXX-X
+GCA-KABXX-X
+16S
+33,0
+4,3
+90
+20
+16
+33,0
+4,3
+100
+25
+X for plating
+XX for shell size 
+18
+37,5
+4,3
+100
+25
+20
+41,0
+4,3
+115
+25
+22
+44,0
+4,3
+115
+25
+24
+47,5
+4,3
+115
+25
+28
+54,5
+5,5
+160
+25
+32
+61,0
+5,5
+160
+25
+36
+67,5
+5,5
+160
+25
+Protective cover for receptacle GCA-KR / GCA-KA
+Protective cover for receptacle. Style KR 
+with chain or style KA with rope
+Shell size
+d1
+Class 2B
+d2
+max.
+d3
++0,6
+l1
+max.
+l2
+max.
+10SL
+5/8-24 UNEF
+20,7
+4,3
+90
+11,2
+12S
+3/4-20 UNEF
+25,4
+4,3
+90
+11,2
+14S
+7/8-20 UNEF
+28,6
+4,3
+90
+11,2
+Example:
+GCA-KRXX-X
+GCA-KAXX-X
+16S
+1-20 UNEF
+30,2
+4,3
+90
+11,2
+16
+1-20 UNEF
+30,2
+4,3
+100
+11,2
+X for plating
+XX for shell size
+18
+1 1/8-18 UNEF
+34,1
+4,3
+100
+11,2
+20
+1 1/4-18 UNEF
+37,3
+4,3
+115
+11,2
+22
+1 3/8-18 UNEF
+40,4
+4,3
+115
+11,2
+24
+1 1/2-18 UNEF
+43,6
+4,3
+115
+11,2
+28
+1 3/4-18 UNS
+50,0
+5,5
+160
+12,7
+32
+2 -18 UNS
+56,3
+5,5
+160
+12,7
+36
+2 1/4-16 UN
+62,7
+5,5
+160
+12,7
+
+42
+Protective cover for plug GCA-KBB / GCA-KCB
+Protective cover for plug shell. Style KB 
+with chain or style KC with rope.
+Shell size
+d1
+max.
+d2
++0,6
+l1
+max.
+l2
+max.
+10SL
+21,0
+4,3
+90
+29
+12S
+24,0
+4,3
+100
+29
+14S
+27,5
+4,3
+100
+29
+Example:
+GCA-KBBXX-X
+GCA-KCBXX-X
+16S
+30,0
+4,3
+100
+29
+16
+30,0
+4,3
+115
+37
+X for plating
+XX for shell size
+18
+33,5
+4,3
+115
+37
+20
+37,0
+4,7
+130
+37
+22
+40,0
+4,7
+130
+37
+24
+43,5
+4,7
+130
+37
+28
+49,5
+4,7
+190
+37
+32
+56,0
+5,5
+190
+37
+36
+62,5
+5,5
+190
+37
+Protective cover for plug GCA-KB / GCA-KC
+Protective cover for plug shell. Style KB 
+with chain or style KC with rope.
+Shell size
+d1
+Class 2B
+d2
+max.
+d3
++0,6
+l1
+max.
+l2
+max.
+10SL
+5/8-24 UNEF
+17,4
+4,3
+90
+16,7
+12S
+3/4-20 UNEF
+20,6
+4,3
+100
+21,4
+14S
+7/8-20 UNEF
+23,7
+4,3
+100
+21,4
+Example: 
+GCA-KBXX-X
+GCA-KCXX-X
+16S
+1-20 UNEF
+26,9
+4,3
+100
+21,4
+16
+1-20 UNEF
+26,9
+4,3
+115
+21,4
+X for plating
+XX for shell size
+18
+1 1/8-18 UNEF
+30,0
+4,3
+115
+21,4
+20
+1 1/4-18 UNEF
+33,0
+4,7
+130
+21,4
+22
+1 3/8-18 UNEF
+36,4
+4,7
+130
+21,4
+24
+1 1/2-18 UNEF
+39,6
+4,7
+130
+21,4
+28
+1 3/4-18 UNS
+46,0
+4,7
+190
+21,4
+32
+2 -18 UNS
+52,0
+5,5
+190
+21,4
+36
+2 1/4-16 UN
+58,7
+5,5
+190
+21,4
+
+43
+Plug, universal backshell GCA-KK
+Clamp for connector style E
+Size
+Order-No. MS
+d1
+±0,79
+d2
+Class 2B
+d3
+max.
+l1
+±0,79
+l2
+±0,79
+l3
+10SL / 12S
+MS3057-4A
+20,63
+5/8-24 UNEF
+8,0
+22,23
+20,63
+10,3
+Example:
+GCA-KKXX
+14S
+MS3057-6A
+24,61
+3/4-20 UNEF 
+11,2
+26,98
+22,23
+10,3
+16S / 16
+MS3057-8A
+27,79
+7/8-20 UNEF
+14,3
+29,36
+23,83
+10,3
+XX for shell size 
+18
+MS3057-10A
+30,18
+1-20 UNEF
+15,9
+31,75
+23,83
+10,3
+20 / 22
+MS3057-12A
+34,93
+1 3/16-18 UNEF
+19,1
+37,31
+23,83
+10,3
+24 / 28
+MS3057-16A
+42,06
+1 7/16-18 UNEF
+23,9
+42,88
+26,19
+10,3
+32
+MS3057-20A
+51,59
+1 3/4-18 UNS
+31,8
+51,59
+27,79
+11,9
+36
+MS3057-24A
+56,36
+2-18 UNS
+35,0
+57,94
+29,36
+13,5
+Plug, universal backshell GCA-KT
+Bushing
+Size
+Order-No. according to
+d1
+d2
+d3
+l
+VG95234
+MS
+10SL / 12S
+VG95234KT10SL
+MS3420-4 
+8,0
+6,6
+10,0
+70,0
+Example: 
+GCA-KTXX
+14S
+VG95234KT14S
+MS3420-6
+10,9
+9,1
+12,7
+67,0
+XX for shell size
+16S / 16
+VG95234KT16
+MS3420-8
+14,0
+11,1
+18,9
+63,5
+18
+VG95234KT18
+MS3420-10
+15,7
+14,3
+22,6
+60,3
+20 / 22
+VG95234KT20
+MS3420-12
+18,8
+15,9
+27,5
+57,0
+24 / 28
+VG95234KT24
+MS3420-16
+23,6
+21,5
+33,3
+54,0
+32
+VG95234KT32
+MS3420-20
+31,5
+26,8
+40,4
+51,0
+36
+VG95234KT36
+MS3420-24
+34,7
+31,8
+46,9
+47,6
+
+44
+Protective cover for plug / Dummy 
+Dummy, backs side open, for front 
+panel mounting.
+Shell size
+d1
+–0,15
+d2
+±0,2
+l1
+±0,3
+l2
+±0,1
+l3
+max.
+10SL
+18,2
+3,2
+25,4
+18,2
+17,5
+12S
+21,3
+3,2
+28,05
+20,6
+17,5
+Example:
+GCA-BODBXX
+14S
+24,6
+3,2
+30,0
+23,0
+18,0
+XX for shell size 
+16S
+27,4
+3,2
+32,5
+24,6
+18,0
+16
+27,4
+3,2
+32,5
+24,6
+23,5
+18
+30,8
+3,2
+35,0
+27,0
+23,5
+20
+34,2
+3,2
+38,0
+29,4
+23,5
+22
+37,4
+3,2
+41,0
+31,8
+23,5
+24
+40,9
+3,7
+44,5
+34,9
+25,5
+28
+46,7
+3,7
+50,8
+39,7
+25,5
+32
+53,4
+4,3
+57,0
+44,5
+27,0
+36
+59,6
+4,3
+63,5
+49,2
+27,0
+Protective cover for plug / Dummy
+Dummy, backs side open, for front 
+panel mounting.
+Shell size
+d1
+Class 2A
+e
+±0,1
+d2
+±0,2
+l2
+±0,4
+l3
+±0,2
+l4
+±0,3
+10SL
+5/8-24 UNEF
+18,2
+3,2
+14,27
+2,17
+25,6
+12S
+3/4-20 UNEF
+20,6
+3,2
+14,27
+2,17
+27,8
+Example: 
+GCA-BODXX
+14S
+7/8-20 UNEF
+23,0
+3,2
+14,27
+2,17
+30,4
+XX for shell size
+16S
+1-20 UNEF
+24,6
+3,2
+14,27
+2,17
+32,8
+16
+1-20 UNEF
+24,6
+3,2
+19,05
+2,17
+32,8
+18
+1 1/8-18 UNEF
+27,0
+3,2
+19,05
+3,37
+35,1
+20
+1 1/4-18 UNEF
+29,4
+3,2
+19,05
+3,37
+38,1
+22
+1 3/8-18 UNEF
+31,8
+3,2
+19,05
+3,37
+41,5
+24
+1 1/2-18 UNEF
+34,9
+3,7
+20,62
+3,37
+44,7
+28
+1 3/4-18 UNS
+39,7
+3,7
+20,62
+3,37
+51,1
+32
+2 -18 UNS
+44,5
+4,3
+22,22
+3,37
+57,2
+36
+2 1/4-16 UN
+49,2
+4,3
+22,22
+3,37
+63,7
+
+45
+Sealing Plug 
+Plug size
+For contact size
+d1
+±0,1
+d2
+±0,2
+l1
+±0,1
+l2
+±0,3
+Color
+Metrical
+AWG
+Grommet cavities without contacts 
+have to be equipped with sealing 
+plugs.
+20
+10
+20
+2,3
+3,0
+2,4
+9,7
+red
+16
+15S / 15
+16
+2,8
+3,7
+3,2
+11,9
+blue
+Example:
+GCA-BXX
+12
+25 / 25A
+12
+3,7
+4,6
+3,2
+11,9
+yellow
+8
+60 / 100
+8
+5,0
+5,8
+3,2
+11,9
+white
+XX for plug size 
+4
+160
+4
+7,6
+8,5
+3,2
+11,9
+green
+0
+500
+0
+12,8
+13,5
+3,2
+11,9
+black
+Gaskets 
+For front panel mounting
+Example:  
+GCB-DAXX-Y1
+ 
+ 
+GCB-DAXX-Y2-A oder B
+For back panel mounting
+Example:  
+GCB-DHXX-Y1
+ 
+ 
+GCB-DHXX-Y2-A oder B
+Meaning: 
+XX for shell size 
+Y1 for non conductive 
+Y2-A for conductive in fluor silicone with Ag/Al condu- 
+ctive filler 
+Y2-B for conductive in fluor silicone with Ni/C conductive 
+filler
+Version A: 
+Admissible ambient temperature: -55 °C to 160 °C  
+Fluor silicone with Ag/Al conductive filler  
+Hardness (65 ± 10) Shore A according to DIN EN ISO 
+868 Colour: blue-grey   
+Shielding effectiveness: 80 dB 
+Version B: 
+Admissible ambient temperature: -55 °C to 160 °C 
+Fluor silicone with Ni/C conductive filler  
+Hardness (75 ± 7) Shore A according to DIN EN ISO 
+868 Colour: dark-grey   
+Shielding effectiveness: 70 dB
+
+46
+Gaskets
+For front panel mounting
+S
+Size
+d1
++1
+d2
++0,5
+e
+±0,2
+l
+±0,5
+Version 1
+±0,4
+Version 2
+A and B
+±0,2
+10SL
+15,7
+4,2
+18,2
+25,4
+1
+0,5
+12S
+19,1
+4,2
+20,6
+27,8
+1
+0,5
+14S
+22,1
+4,2
+23,0
+30,0
+1
+0,5
+16S / 16
+25,3
+4,2
+24,6
+32,5
+1
+0,5
+18
+28,4
+4,2
+27,0
+35,0
+1
+0,5
+20
+31,6
+4,2
+29,4
+38,0
+1
+0,5
+22
+34,8
+4,2
+31,8
+41,0
+1
+0,5
+24
+38,0
+4,2
+34,9
+44,5
+1
+0,5
+28
+44,3
+5,1
+39,7
+50,8
+1
+0,8
+32
+50,7
+5,1
+44,5
+57,0
+1
+0,8
+36
+57,0
+5,1
+49,2
+63,5
+1
+0,8
+For back panel mounting
+S
+Size
+d1
++0,3
+d2
++0,5
+e
+±0,2
+l
+±0,5
+Version 1
+±0,4
+Version 2
+A and B
+±0,2
+10SL
+18,2
+4,2
+18,2
+25,4
+1
+0,5
+12S
+21,4
+4,2
+21,4
+28,0
+1
+0,5
+14S
+24,6
+4,2
+23,0
+30,0
+1
+0,5
+16S / 16
+27,4
+4,2
+24,6
+32,5
+1
+0,5
+18
+30,8
+4,2
+27,0
+35,0
+1
+0,5
+20
+34,2
+4,2
+29,4
+38,0
+1
+0,5
+22
+37,4
+4,2
+31,8
+41,0
+1
+0,5
+24
+40,9
+4,2
+34,9
+44,5
+1
+0,5
+28
+46,7
+5,1
+39,7
+50,8
+1
+0,8
+32
+53,4
+5,1
+44,5
+57,0
+1
+0,8
+36
+59,6
+5,1
+49,2
+63,5
+1
+0,8
+
+47
+Crimp-Contacts
+Pin contacts as per VG 95234
+Contact size
+Part-Number
+d1
+-0,05
+d2
+max.
+d3
+d4
+d5
+d6
+d7
+Metrical
+AWG
+VG95234
+silver plated
+gold plated
+10
+–
+VG95234P10
+GCB10M
+GCB10M-A176
+1,04
+0,4
+2,0 –0,05
+1,5 –0,05
+2,6 –0,10
+1,50 +0,05
+2,40 –0,05
+VG95234P10-001
+GCB10M-001
+GCB10M-001-A176
+0,90 +0,05
+VG95234P15S
+GCB15SM
+GCB15SM-A176
+15S
+–
+2,75 –0,05
+VG95234P15S-001
+GCB15SM-001
+GCB15SM-001-A176
+0,90 +0,05
+1,6
+0,4
+3,2 –0,10
+1,75 –0,10
+3,2 –0,10
+1,75 +0,08
+VG95234P15S-002
+GCB15SM-002
+GCB15SM-002-A176
+1,20 +0,10
+VG95234P15
+GCB15M
+GCB15M-A176
+15
+–
+1,6
+0,4
+3,2 –0,10
+1,75 –0,10
+3,2 –0,10
+1,75 +0,08
+2,75 –0,05
+VG95234P15-001
+GCB15M-001
+GCB15M-001-A176
+0,90 +0,05
+VG95234P15-002
+GCB15M-002
+GCB15M-002-A176
+1,20 +0,10
+25
+12
+VG95234P25
+GCB25M
+GCB25M-A176
+2,4
+0,4
+4,8 –0,10
+3,30 –0,15
+4,8 –0,10
+2,50 +0,10
+3,80 –0,10
+VG95234P25-001
+GCB25M-001
+GCB25M-001-A176
+1,75 +0,08
+3,40 –0,05
+25A
+–
+VG95234P25A
+GCB25AM
+GCB25AM-A176
+2,4
+0,4
+4,8 –0,10
+3,30 –0,15
+4,8 –0,10
+2,50 +0,10
+3,80 –0,10
+60
+–
+VG95234P60
+GCB60M
+GCB60M-A176
+3,6
+0,4
+7,6 –0,20
+6,25 –0,15
+7,6 –0,20
+3,50 +0,10
+6,80 –0,10
+VG95234P60-001
+GCB60M-001
+GCB60M-001-A176
+2,50 +0,05
+–
+8
+VG95234P8
+GCB8M
+GCB8M-A176
+3,6
+0,4
+7,6 –0,20
+6,25 –0,15
+7,6 –0,20
+4,55 +0,10
+6,80 –0,10
+100
+–
+VG95234P100
+GCB100M
+GCB100M-A176
+3,6
+0,4
+7,6 –0,20
+6,25 –0,15
+7,6 –0,20
+4,80 +0,10
+6,80 –0,10
+160
+–
+VG95234P160
+GCB160M
+GCB160M-A176
+5,75
+2,5
+11,2 –0,20
+9,55 –0,15
+11,2 –0,20
+6,20 +0,15
+9,55 –0,10
+VG95234P160-001
+GCB160M-001
+GCB160M-001-A176
+5,70 +0,10
+–
+4
+VG95234P4
+GCB4M
+GCB4M-A176
+5,75
+2,5
+11,2 –0,20
+9,55 –0,15
+11,2 –0,20
+7,10 +0,15
+9,55 –0,10
+VG95234P500
+GCB500M
+GCB500M-A176
+500
+–
+14,35 –0,10
+VG95234P500-001
+GCB500M-001
+GCB500M-001-A176
+7,60 +0,15
+9,1
+5,8
+15,15 –0,20
+13,55 –0,15
+15,15 –0,20
+10,70 +0,15
+VG95234P500-002
+GCB500M-002
+GCB500M-002-A176
+9,10 +0,15
+–
+0
+VG95234P0
+GCB0M
+GCB0M-A176
+9,1
+5,8
+15,15 –0,20
+13,55 –0,15
+15,15 –0,20
+11,50 +0,15
+14,35 –0,10
+Contact size
+Part-Number
+d8
+±0,1
+l1
+±0,2
+l2
+±0,15
+l3
+±0,1
+l5
+min.
+l6
+l7
+Metrical
+AWG
+VG95234
+silver plated
+gold plated
+l4
+0
+-0,2
+10
+–
+VG95234P10
+GCB10M
+GCB10M-A176
+0,7
+28,4
+11,3
+4,75
+3,4
+4,6
+1,3 ±0,10
+0,8 ±0,10
+VG95234P10-001
+GCB10M-001
+GCB10M-001-A176
+VG95234P15S
+GCB15SM
+GCB15SM-A176
+15S
+–
+1
+27,4
+13,9
+3,85
+5,6
+6,8
+2,4 ±0,20
+3,2 ±0,20
+VG95234P15S-001
+GCB15SM-001
+GCB15SM-001-A176
+VG95234P15S-002
+GCB15SM-002
+GCB15SM-002-A176
+VG95234P15
+GCB15M
+GCB15M-A176
+15
+–
+1
+31,4
+13,9
+7,9
+5,6
+6,8
+2,4 ±0,20
+3,2 ±0,20
+VG95234P15-001
+GCB15M-001
+GCB15M-001-A176
+VG95234P15-002
+GCB15M-002
+GCB15M-002-A176
+25
+12
+VG95234P25
+GCB25M
+GCB25M-A176
+1,8
+37
+18,3
+7,9
+5,6
+6,8
+2,4 ±0,20
+3,8 ±0,20
+VG95234P25-001
+GCB25M-001
+GCB25M-001-A176
+25A
+–
+VG95234P25A
+GCB25AM
+GCB25AM-A176
+1,8
+33,9
+15,2
+7,9
+5,6
+6,8
+2,4 ±0,20
+3,8 ±0,20
+60
+–
+VG95234P60
+GCB60M
+GCB60M-A176
+1,8
+39,6
+20
+6,35
+10,7
+12
+4,0 ±0,20
+1,2 ±0,20
+VG95234P60-001
+GCB60M-001
+GCB60M-001-A176
+–
+8
+VG95234P8
+GCB8M
+GCB8M-A176
+1,8
+39,6
+20
+6,35
+10,7
+12
+4,0 ±0,20
+1,2 ±0,20
+100
+–
+VG95234P100
+GCB100M
+GCB100M-A176
+1,8
+39,6
+20
+6,35
+10,7
+12
+4,0 ±0,20
+1,2 ±0,20
+160
+–
+VG95234P160
+GCB160M
+GCB160M-A176
+1,8
+39,6
+20
+6,35
+10,7
+12
+4,0 ±0,20
+1,2 ±0,20
+VG95234P160-001
+GCB160M-001
+GCB160M-001-A176
+–
+4
+VG95234P4
+GCB4M
+GCB4M-A176
+1,8
+39,6
+20
+6,35
+10,7
+12
+4,0 ±0,20
+1,2 ±0,20
+VG95234P500
+GCB500M
+GCB500M-A176
+500
+–
+1,8
+41
+20
+6,35
+12
+14
+4,0 ±0,20
+1,2 ±0,20
+VG95234P500-001
+GCB500M-001
+GCB500M-001-A176
+VG95234P500-002
+GCB500M-002
+GCB500M-002-A176
+–
+0
+VG95234P0
+GCB0M
+GCB0M-A176
+1,8
+41
+20
+6,35
+12
+14
+4,0 ±0,20
+1,2 ±0,20
+
+48
+Crimp-Contacts
+Socket contacts as per VG95234
+ Size
+60; 8; 100,
+160; 4; 500; 0
+Size
+10; 15S; 15; 25
+Contact size
+Part-Number
+d1
+d2
+d3
+d4
+d5
+d6
+l1
+Metrical
+AWG
+VG95234
+silver plated
+gold plated
+10
+–
+VG95234S10
+GCB10F
+GCB10F-A176
+1,50 +0,05
+2,40 –0,05
+2,6 –0,10
+1,50 –0,05
+2,0 –0,10
+1,07 +0,20
+36,8 ±0,30
+VG95234S10-001
+GCB10F-001
+GCB10F-001-A176
+0,90 +0,05
+VG95234S15S
+GCB15SF
+GCB15SF-A176
+1,75 +0,08
+15S
+–
+2,75 –0,05
+3,2 –0,15
+1,75 –0,10
+3,2 –0,15
+1,65 +0,30
+29,1 ±0,20
+VG95234S15S-001
+GCB15SF-001
+GCB15SF-001-A176
+0,90 +0,05
+VG95234S15S-002
+GCB15SF-002
+GCB15SF-002-A176
+1,20 +0,10
+VG95234S15
+GCB15F
+GCB15F-A176
+1,75 +0,08
+15
+–
+2,75 –0,05
+3,2 –0,15
+1,75 –0,10
+3,2 –0,15
+1,65 +0,30
+37,8 ±0,20
+VG95234S15-001
+GCB15F-001
+GCB15F-001-A176
+0,90 +0,05
+VG95234S15-002
+GCB15F-002
+GCB15F-002-A176
+1,20 +0,10
+25
+12
+VG95234S25
+GCB25F
+GCB25F-A176
+2,50 +0,10
+3,80 –0,10
+4,8 –0,10
+3,30 –0,10
+4,8 –0,10
+2,45 +0,30
+37,0 ±0,20
+VG95234S25-001
+GCB25F-001
+GCB25F-001-A176
+1,75 +0,08
+3,40 –0,05
+60
+–
+VG95234S60
+GCB60F
+GCB60F-A176
+3,50 +0,10
+6,80 –0,10
+7,6 –0,20
+6,25 –0,20
+6,5 –0,20
+3,65 ±0,05
+40,1 ±0,20
+VG95234S60-001
+GCB60F-001
+GCB60F-001-A176
+2,50 +0,05
+–
+8
+VG95234S8
+GCB8F
+GCB8F-A176
+4,55 +0,10
+6,80 –0,10
+7,6 –0,20
+6,25 –0,20
+6,5 –0,20
+3,65 ±0,05
+40,1 ±0,20
+100
+VG95234S100
+GCB100F
+GCB100F-A176
+4,80 +0,10
+6,80 –0,10
+7,6 –0,20
+6,25 –0,20
+6,5 –0,20
+3,65 ±0,05
+40,1 ±0,20
+160
+–
+VG95234S160
+GCB160F
+GCB160F-A176
+6,20 +0,15
+9,55 –0,10
+11,2 –0,20
+9,55 –0,20
+8,6 –0,20
+5,80 ±0,05
+40,1 ±0,20
+VG95234S160-001
+GCB160F-001
+GCB160F-001-A176
+5,70 +0,10
+–
+4
+VG95234S4
+GCB4F
+GCB4F-A176
+7,10 +0,15
+9,55 –0,10
+11,2 –0,20
+9,55 –0,20
+8,6 –0,20
+5,80 ±0,05
+40,1 ±0,20
+VG95234S500
+GCB500F
+GCB500F-A176
+10,70 +0,15
+500
+–
+14,35 –0,10 15,15 –0,20
+13,55 –0,20
+13,2 –0,20
+9,15 ±0,05
+41,6 ±0,20
+VG95234S500-001
+GCB500F-001
+GCB500F-001-A176
+7,60 +0,15
+VG95234S500-002
+GCB500F-002
+GCB500F-002-A176
+9,10 +0,15
+–
+0
+VG95234S0
+GCB0F
+GCB0F-A176
+11,50 +0,15
+5,8
+15,15 –0,20 13,55 –0,15 15,15 –0,20 11,50 +0,15 14,35 –0,10
+Contact size
+Part-Number
+l2
+l3
+±0,1
+l5
+min.
+l6
+min.
+l7
+l8
+±0,2
+Metrical
+AWG
+VG95234
+silver plated
+gold plated
+l4
+0
+-0,2
+10
+–
+VG95234S10
+GCB10F
+GCB10F-A176
+19,7 ±0,25
+4,75
+3,4
+4,6
+7,5
+0,8 ±0,30
+-
+VG95234S10-001
+GCB10F-001
+GCB10F-001-A176
+VG95234S15S
+GCB15SF
+GCB15SF-A176
+15S
+–
+15,1 ±0,20
+3,9
+5,6
+6,8
+10
+3,3 ±0,10
+-
+VG95234S15S-001
+GCB15SF-001
+GCB15SF-001-A176
+VG95234S15S-002
+GCB15SF-002
+GCB15SF-002-A176
+VG95234S15
+GCB15F
+GCB15F-A176
+15
+–
+19,8 ±0,20
+7,9
+5,6
+6,8
+10
+3,3 ±0,10
+-
+VG95234S15-001
+GCB15F-001
+GCB15F-001-A176
+VG95234S15-002
+GCB15F-002
+GCB15F-002-A176
+25
+12
+VG95234S25
+GCB25F
+GCB25F-A176
+19,0 ±0,15
+7,9
+5,6
+6,8
+15
+3,2 ±0,20
+-
+VG95234S25-001
+GCB25F-001
+GCB25F-001-A176
+60
+–
+VG95234S60
+GCB60F
+GCB60F-A176
+20,6 ±0,15
+6,35
+10,7
+12
+15
+1,2 ±0,20
+4
+VG95234S60-001
+GCB60F-001
+GCB60F-001-A176
+–
+8
+VG95234S8
+GCB8F
+GCB8F-A176
+20,6 ±0,15
+6,35
+10,7
+12
+15
+1,2 ±0,20
+4
+100
+VG95234S100
+GCB100F
+GCB100F-A176
+20,6 ±0,15
+6,35
+10,7
+12
+15
+1,2 ±0,20
+4
+160
+–
+VG95234S160
+GCB160F
+GCB160F-A176
+20,6 ±0,15
+6,35
+10,7
+12
+15
+1,2 ±0,20
+4
+VG95234S160-001
+GCB160F-001
+GCB160F-001-A176
+–
+4
+VG95234S4
+GCB4F
+GCB4F-A176
+20,6 ±0,15
+6,35
+10,7
+12
+15
+1,2 ±0,20
+4
+VG95234S500
+GCB500F
+GCB500F-A176
+500
+–
+20,6 ±0,15
+6,35
+12
+14
+15
+1,2 ±0,20
+4
+VG95234S500-001
+GCB500F-001
+GCB500F-001-A176
+VG95234S500-002
+GCB500F-002
+GCB500F-002-A176
+–
+0
+VG95234S0
+GCB0F
+GCB0F-A176
+20,6 ±0,15
+6,35
+12
+14
+15
+1,2 ±0,20
+4
+
+49
+Crimp-Contacts Wire Size 
+Contact size
+Part-Number
+Wire Size
+Color code
+Metrical
+AWG
+VG95234 (1)
+silver plated (2)
+gold plated (2)
+mm2
+AWG
+from
+to
+from
+to
+10
+–
+VG95234X10
+GCB10X
+GCB10X-A176
+–
+0,50
+1,00
+20
+18
+VG95234X10-001
+GCB10X-001
+GCB10X-001-A176
+Blue
+0,14
+0,38
+26
+22
+VG95234X15S
+GCB15SX
+GCB15SX-A176
+–
+0,75
+1,50
+18
+16
+15S
+–
+VG95234X15S-001
+GCB15SX-001
+GCB15SX-001-A176
+Blue
+0,14
+0,38
+26
+22
+VG95234X15S-002
+GCB15SX-002
+GCB15SX-002-A176
+Red
+0,30
+0,60
+22
+20
+VG95234X15
+GCB15X
+GCB15X-A176
+–
+0,75
+1,50
+18
+16
+15
+–
+VG95234X15-001
+GCB15X-001
+GCB15X-001-A176
+Blue
+0,14
+0,38
+26
+22
+VG95234X15-002
+GCB15X-002
+GCB15X-002-A176
+Red
+0,3
+0,60
+22
+20
+25
+12
+VG95234X25
+GCB25X
+GCB25X-A176
+–
+2,00
+3,00
+14
+12
+VG95234X25-001
+GCB25X-001
+GCB25X-001-A176
+Black
+0,75
+1,50
+18
+16
+25A
+–
+VG95234P25A
+GCB25AM
+GCB25AM-A176
+–
+2,00
+3,00
+14
+12
+60
+–
+VG95234X60
+GCB60X
+GCB60X-A176
+Yellow
+6,00
+10
+VG95234X60-001
+GCB60X-001
+GCB60X-001-A176
+Green
+2,00
+3,00
+14
+12
+–
+8
+VG95234X8
+GCB8X
+GCB8X-A176
+–
+–
+8
+100
+–
+VG95234X100
+GCB100X
+GCB100X-A176
+–
+10,0
+–
+160
+–
+VG95234X160
+GCB160X
+GCB160X-A176
+–
+16,0
+–
+VG95234X160-001
+GCB160X-001
+GCB160X-001-A176
+Brown
+–
+6
+–
+4
+VG95234X4
+GCB4X
+GCB4X-A176
+–
+–
+4
+VG95234X500
+GCB500X
+GCB500X-A176
+–
+50,0
+–
+500
+–
+VG95234X500-001
+GCB500X-001
+GCB500X-001-A176
+White
+25,0
+4
+VG95234X500-002
+GCB500X-002
+GCB500X-002-A176
+Grey
+35,0
+2
+–
+0
+VG95234X0
+GCB0X
+GCB0X-A176
+–
+–
+0
+(1) X – P or S
+ (2) X – M or F
+VG95234 / GCB-B – Tools
+Contact size
+Part-Number
+Pin contacts
+Socket contacts
+Metrical
+AWG
+VG95234 (1)
+Amphenol
+silver plate (2)
+Amphenol 
+gold plate (2)
+Crimp tool
+Crimp insert
+Crimp tool
+Crimp insert
+10
+–
+VG95234X10
+GCB10X
+GCB10X-A176
+M22520/1-01
+VG95236T25A0002
+M22520/1-01
+VG95236T25A0002
+VG95234X10-001
+GCB10X-001
+GCB10X-001-A176
+VG95234X15S
+GCB15SX
+GCB15SX-A176
+15S
+–
+M22520/1-01
+VG95236T25A0001
+M22520/1-01
+VG95236T25A0002
+VG95234X15S-001
+GCB15SX-001
+GCB15SX-001-A176
+VG95234X15S-002
+GCB15SX-002
+GCB15SX-002-A176
+VG95234X15
+GCB15X
+GCB15X-A176
+15
+–
+M22520/1-01
+VG95236T25A0001
+M22520/1-01
+VG95236T25A0002
+VG95234X15-001
+GCB15X-001
+GCB15X-001-A176
+VG95234X15-002
+GCB15X-002
+GCB15X-002-A176
+25
+12
+VG95234X25
+GCB25X
+GCB25X-A176
+M22520/1-01
+VG95236T25A0001
+M22520/1-01
+VG95236T25A0002
+VG95234X25-001
+GCB25X-001
+GCB25X-001-A176
+25A
+–
+VG95234P25A
+GCB25AM
+GCB25AM-A176
+M22520/1-01
+VG95236T25A0001
+-
+-
+60
+–
+VG95234X60
+GCB60X
+GCB60X-A176
+VG95236T11AB007
+VG95236T11AB007
+VG95234X60-001
+GCB60X-001
+GCB60X-001-A176
+–
+8
+VG95234X8
+GCB8X
+GCB8X-A176
+100
+–
+VG95234X100
+GCB100X
+GCB100X-A176
+160
+–
+VG95234X160
+GCB160X
+GCB160X-A176
+VG95236T11AB008
+VG95236T11AB008
+VG95234X160-001
+GCB160X-001
+GCB160X-001-A176
+–
+4
+VG95234X4
+GCB4X
+GCB4X-A176
+VG95234X500
+GCB500X
+GCB500X-A176
+VG95236T11A0001
+VG95236T11A0001
+500
+–
+VG95236T11AB009
+VG95236T11AB009
+VG95234X500-001
+GCB500X-001
+GCB500X-001-A176
+VG95234X500-002
+GCB500X-002
+GCB500X-002-A176
+–
+0
+VG95234X0
+GCB0X
+GCB0X-A176
+(1) X – P or S
+(2) X – M or F
+
+50
+EGM-Backshell 
+For straight connector
+For 90° R/A connector
+Shell
+size
+T Thread
+EGM / PHM 11
+EGM / PHM 21
+T Thread
+EGM / PHM 11
+EGM / PHM 21
+‘A’
+Max.
+‘L’
+Max.
+‘A’
+Max.
+‘L’
+Max.
+‘A’
+Max.
+‘L’
+Max.
+‘A’
+Max.
+‘L’
+Max.
+10SL
+5/8”- 24 NEF
+20.00
+39.00
+5/8”- 24 NEF
+20.00
+39.00
+12S
+5/8”- 24 NEF
+20.00
+39.00
+5/8”- 24 NEF
+20.00
+39.00
+14S
+3/4”- 20 UNEF
+22.70
+39.00
+3/4”- 20 UNEF
+22.70
+39.00
+16S/16
+7/8”- 20 UNEF
+25.40
+44.00
+7/8”- 20 UNEF
+25.40
+44.00
+18
+1”- 20 NEF
+30.20
+54.50
+30.20
+41.80
+1”- 20 NEF
+30.20
+54.50
+30.20
+41.80
+20
+ON REQUEST 
+22
+ON REQUEST
+24
+ON REQUEST
+28
+ON REQUEST
+32
+ON REQUEST
+36
+ON REQUEST
+Note: 
+Rubber Bush supplied in Packing 
+In case of PHM inner metal ferrule is not required/supplied 
+EGM/PHM11 can accept cable Min. 5.70 mm & Max. 10.85 mm
+EGM/PHM21 can accept cable Min. 12.70 mm & Max. 17.85 mm
+
+51
+Notes 
+
+Amphenol
+Please contact 
+Amphenol-Air LB GmbH
+Am Kleinbahnhof 4
+66740 Saarlouis
+Phone +49 6831 9810-0 
+Fax 
++49 6831 9810-20
+E-Mail info@amphenol-airlb.de
+GCA series
+Gedruckt auf chlorfrei gebleichtem Papier. Änderungen vorbehalten.
+© 03/2020 V.251121  by Amphenol-Air LB, Germany
+www.amphenol-airlb.de
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  GCA00M-22-28PB-01  GCA00M-22-28PB-01-A232  GCA00M-22-28P-BM29  GCA00M-22-28P-BM29-01  GCA00M-
+22-28S  GCA00M-22-28S-01  GCA00M-22-28SB  GCA00M-22-28SB-01  GCA00M-22-28SB-01-A232  GCA00M-22-
+28S-BM29  GCA00M-22-28S-BM29-01  GCA00M-22-2P  GCA00M-22-2P-01  GCA00M-22-2PB  GCA00M-22-2PB-01 
+GCA00M-22-2PB-01-A232  GCA00M-22-2PB-A232  GCA00M-22-2P-BM29  GCA00M-22-2P-BM29-01  GCA00M-22-2S
+  GCA00M-22-2S-01  GCA00M-22-2S-A232  GCA00M-22-2SB  GCA00M-22-2SB-01  GCA00M-22-2SB-01-A232 
+GCA00M-22-2SB-A232  GCA00M-22-2S-BM29  GCA00M-22-2S-BM29-01  GCA00M-22B22P  GCA00M-22B22P-01 
+GCA00M-22B22PB  GCA00M-22B22PB-01  GCA00M-22B22PB-01-A232  GCA00M-22B22P-BM29  GCA00M-22B22P-
+BM29-01  GCA00M-22B22S  GCA00M-22B22S-01  GCA00M-22B22SB  GCA00M-22B22SB-01  GCA00M-22B22SB-
+01-A232  GCA00M-22B22S-BM29  GCA00M-22B22S-BM29-01  GCA00M-24-10P  GCA00M-24-10P-01  GCA00M-24-
+10PB  GCA00M-24-10PB-01  GCA00M-24-10P-BM29  GCA00M-24-10P-BM29-01  GCA00M-24-10S  GCA00M-24-10S-
+01  GCA00M-24-10SB  GCA00M-24-10SB-01  GCA00M-24-10S-BM29  GCA00M-24-10S-BM29-01  GCA00M-24-11P 
+GCA00M-24-11P-01  GCA00M-24-11PB  GCA00M-24-11PB-01  GCA00M-24-11P-BM29  GCA00M-24-11P-BM29-01 
+GCA00M-24-11S  GCA00M-24-11S-01  GCA00M-24-11SB  GCA00M-24-11SB-01  GCA00M-24-11S-BM29  GCA00M-
+24-11S-BM29-01  GCA00M-24-12P  GCA00M-24-12P-01  GCA00M-24-12PB  GCA00M-24-12PB-01  GCA00M-24-12P-
+BM29  GCA00M-24-12P-BM29-01  GCA00M-24-12S  GCA00M-24-12S-01  GCA00M-24-12SB  GCA00M-24-12SB-01 
+GCA00M-24-12S-BM29  GCA00M-24-12S-BM29-01  GCA00M-24-20P  GCA00M-24-20P-01  GCA00M-24-20PB 
+GCA00M-24-20PB-01  GCA00M-24-20P-BM29  GCA00M-24-20P-BM29-01  GCA00M-24-20S  GCA00M-24-20S-01 
+GCA00M-24-20SB  GCA00M-24-20SB-01  GCA00M-24-20S-BM29  GCA00M-24-20S-BM29-01  GCA00M-24-22P 
+GCA00M-24-22P-01  GCA00M-24-22PB  GCA00M-24-22PB-01  GCA00M-24-22PB-01-A232  GCA00M-24-22P-BM29 
+GCA00M-24-22P-BM29-01  GCA00M-24-22S  GCA00M-24-22S-01  GCA00M-24-22SB

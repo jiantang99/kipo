@@ -1,0 +1,612 @@
+1
+2
+3
+4
+5
+6
+7
+8
+2
+3
+4
+5
+4
+5
+3
+4
+3
+4
+HS2  P   7   F 20  -   K 
+1
+2
+3
+6
+3
+6
+4
+2
+2
+3
+Dura-Pull Series
+5
+5
+2
+2
+2
+2
+7
+7
+Options:
+K - Kit Packaging (one unit/bag)
+[blank] - Bulk Packaging
+Consult factory for other options
+4
+5
+1
+3
+1
+1
+1
+1
+6
+8
+1
+1
+F
+F
+8
+9
+6
+7
+Connector Type:
+C - Cable-End
+P - Panel, Front-Mount
+L - Cable-to-Cable
+COUNTERCLOCKWISE COUNT
+FEMALE (SOCKETS) CONTACT ARRANGEMENTS
+REAR (WIRING SIDE) VIEW
+# of contacts:
+2-5  for #20
+6-9  for #26
+2
+3
+5
+4
+5
+4
+4
+3
+4
+3
+2
+1
+6
+6
+3
+3
+2
+4
+3
+2
+2
+5
+2
+5
+Gender:
+M  - Male (Pin)
+F   - Female (Socket)
+Contact Size:
+20 - 20, 22, 24, 26 AWG wires
+26 - 26,28, 30 AWG wires
+7
+7
+2
+2
+1
+1
+5
+1
+4
+3
+6
+6
+1
+Refer to HS2C SERIES drawing for mating Cable-End connectors.
+Refer to HS2L SERIES drawing for mating Cable-to-Cable connectors.
+1
+8
+8
+1
+9
+1
+7
+CLOCKWISE 
+COUNT
+MALE (PINS) CONTACT ARRANGEMENTS
+REAR (WIRING SIDE) VIEW
+E
+E
+CONNECTOR MATING VISUAL AID,
+STANDARD RED SHOWN
+D
+D
+ 0.71
+18.0
+ 
+ 0.67
+17.0
+ 
+ 
+0.71
+18.0
+ 0.49
+12.4
+ 
+ 0.496+
+-
+0.004
+0.000
+ 0.55
+14.0
+ 
+12.6+
+ 
+0.1
+0.0
+M14x1.0 THREAD
+SPECIFICATIONS:
+MECHANICAL
+Mating / Locking Type:
+Push-Pull automatic locking/unlocking
+Life
+5,000 cycles minimum
+Operating Forces
+10 lb. [44.5 N] maximum Insertion or Withdrawal
+Vibration
+Mil-Std 202G Method 201A
+Panel-Mount Hex Nut Tongue
+40 in-lb [4.5 Nm] maximum
+Cable Securing System:
+Threaded on metal Clamp
+ELECTRICAL
+Voltage Rating
+125 V AC/DC for 2-5 contact arrangements
+  30 V AC/DC for 6-9 contact arrangements
+Current Rating
+Refer to Current Carry Capacity Table
+Insulation Resistance
+1000 MΩ minimum
+Contact Resistance
+10 mΩ typical
+EMI Shielding
+360°
+ENVIRONMENTAL
+Temperature Limits
+-40ºC to +135ºC (-40ºF to +275°F)
+Operating Temperature Range
+Refer to  Current Carry Capacity Table
+Moisture Resistance
+Mil-Std 202G Method 106G
+Insulation Resistance
+Mil-Std 202G Method 302
+Thermal Shock
+Mil-Std 202G Method 107G
+Salt Atmosphere (Corrosion)
+Mil-Std 202G Method 101E
+Ingress Protection Ratings
+IP66, IP67, IP68 (6 ft. for 24 hours) per IEC60529,                            
+NEMA 250 6P
+MATERIAL
+Outer Shell Metal components
+Copper Alloy, electroless nickel plated
+Hex Nut & Inner Metal components
+Copper Alloy, nickel plated
+Ground Spring Washer
+Stainless Steel
+Electrical Insulator
+Medical Technology LCP, natural
+Seal O-rings
+Silicone, red
+Contacts
+Copper Alloy, gold plated
+0.555+
+-
+0.004
+0.000
+14.1+
+ 
+0.1
+0.0
+C
+C
+Contacts
+Wire     
+(awg)
+Current Rating (A) at Operating Temperature (°C) 
+Minimum 
+Test 
+Voltage      
+(V rms)
+Voltage           
+(V rms) 
+tested per 
+UL2238
+45°C max.
+65°C max.
+85°C max.
+100°C max. 110°C max.
+20
+10
+9
+8
+7*
+6
+0.49
+12.5
+0.43
+10.9
+2 #20
+22
+8.5
+7.5
+7.5
+5.5*
+4.5
+24
+7
+6
+5
+4.5*
+3.5
+26
+4
+4
+3.5
+3.5*
+2.5
+3 #20
+20
+9.5
+8.5
+7.5
+6.5*
+5
+22
+8
+7
+6
+5*
+4
+24
+6
+5.5
+4.5
+4*
+3
+26
+3.5
+3.5
+3
+3*
+2.5
+1400
+125
+RECOMMENDED PANEL CUT-OUT
+0.125±0.01
+3.2±0.3
+ TYP
+4 #20
+20
+9
+8
+7
+6*
+5
+22
+7.5
+6.5
+5.5
+4.5*
+3.5
+24
+5
+4.5
+4
+3.5*
+2.5
+26
+3
+3
+2.5
+2.5*
+2
+HS2P7F26B SHOWN HERE
+ALL DIMENSIONS FOR REFERENCE ONLY
+0.24 MAX
+6.0 MAX
+ PANEL THICKNESS
+5 #20
+B
+B
+20
+8
+7.5
+6.5
+5.5*
+4.5
+22
+6.5
+5.5
+5
+4*
+3
+24
+4.5
+4
+3.5
+3*
+2.5
+26
+2.5
+2.5
+2
+2*
+1.5
+6-7  #26
+26
+2.5
+2.5
+2
+2*
+1.5
+28
+2
+2
+1.5
+1.5*
+1
+30
+1.5
+1.5
+1
+1*
+.5
+1000
+30
+PRELIMINARY
+8-9 #26
+26
+2
+2
+1.5
+1.5*
+1
+28
+1.5
+1.5
+1
+1*
+.5
+30
+1
+1
+.5
+.5*
+.5
+*Temperature Rise does not exceed 30°C when tested according to UL2238. All other recommended current 
+ratings are based on the Relative Thermal Index of the insulating material.   
+TOOL
+TOOL TYPE
+POSITIONER
+CONTACT SIZE
+WIRE SIZES
+CUSTOMER DRAWING
+EN3CR
+HAND CRIMP TOOL
+EN2POS20
+20 and 22
+  20 and 22 AWG
+EN3POS26
+26
+  26, 28, and 30 AWG
+THIS DRAWING DESCRIBES A DESIGN CONSIDERED PROPRIETARY IN NATURE, DEVELOPED AND MANUFACTURED
+BY SWITCHCRAFT INC. AND IS RELEASED ON A CONFIDENTIAL BASIS FOR IDENTIFICATION PURPOSES ONLY.
+UNLESS OTHERWISE SPECIFIED
+TEMPER
+LBS/M
+MULT
+WIDTH
+SIZE
+EN3CRAUTO
+PNEUMATIC CRIMP TOOL
+EN2POS20
+20 and 22
+  20 and 22 AWG
+EN3POS26
+26
+  26, 28, and 30 AWG
+MATERIAL
+FINISH
+1. ALL DIMENSIONS IN INCHES  [mm]
+A
+A
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    - TWO PLACE DECIMALS     0.02    [0.5]
+SCALE
+FIRST USED ON
+SPEC No.
+SPEC No.
+    - THREE PLACE DECIMALS   0.005  [0.13]
+ 
+3:1
+APVD
+CHKD
+BY
+DATE DRAWN
+0A
+PRELIMINARY
+01/06/16
+PNK
+SRC
+APVD
+BY
+DATE
+ECO NUMBER
+REV
+REV
+PART No.
+NAME
+OF
+SHEET
+EN2CRL
+ HAND CRIMP TOOL                  
+LARGE FRAME
+EN2POS20L
+20 and 22
+  20, 22, 24, and 26 AWG
+EN2CRAUTOL
+PNEUMATIC CRIMP TOOL 
+LARGE FRAME
+EN3INS20
+ CONTACT INSERTION
+--
+20 and 22
+20, 22, 24, and 26 AWG
+EN3INS26
+--
+26
+26, 28, and 30 AWG
+REMTOOL20
+CONTACT EXTRUCTION
+--
+20
+20, 22, 24, and 26 AWG
+REMTOOL26
+--
+26
+26, 28, and 30 AWG
+DO NOT SCALE DRAWING
+REVISIONS
+01/06/16
+PNK
+PNK
+SRC
+01/06/16
+01/06/16
+1
+2
+CABLE-END
+HS2 SERIES CONNECTOR
+HS2C SERIES
+0A
+4
+5
+6
+7
+8
+C
+SolidWorks CAD File
+
+1
+2
+3
+4
+5
+6
+7
+8
+HS2 SERIES PANEL-MOUNT FIELD ASSEMBLY INSTRUCTIONS:
+1. STRIP THE CABLE END AND THE CONDUCTORS AS SHOWN HERE.
+F
+F
+0.51
+13.0
+MIN
+JACKET
+0.13±0.01
+3.2±0.3
+ BRAID SHIELD
+TYPICAL CABLE STRIPPING DETAIL
+0.18±0.008
+4.5±0.2
+CONDUCTOR
+SHELL
+E
+E
+CONTACT
+(ONLY ONE SHOWN
+FOR CLARITY) 
+2. CRIMP CONDUCTORS TO CONTACTS USING HAND OR PNEUMATIC CRIMP TOOL* WITH CRIMP POSITIONER*
+    SET PER CONTACT SIZE AND WIRE GAGE. IF SOLDERING, IT IS RECOMMENDED TO SOLDER CONDUCTORS
+    TO CONTACTS BEFORE INSERTING THEM INTO INSERT.
+D
+D
+3. GUIDE EACH WIRED CONTACT INTO INSERT HOLE AND PUSH UNTIL CONTACT SNAPS IN PLACE.
+    USE INSERTION TOOL* IF NECESSARY.
+    COLORED CONDUCTORS CAN BE ASSIGNED TO CONTACT POSITION NUMBERS AS DESIRED.
+    TO REMOVE A CONTACT, INSERT THE EXTRACTION TOOL* FROM THE FRONT OF INSERT AND LIGHTLY
+    PRESS THE SPRING LOADED PLUNGER INWARD TO PUSH THE CONTACT OUT.
+C
+C
+0.13
+3.2
+ WHEN CONTACT LOCKED INTO ISERT
+6. ALIGN AND INSTALL FINISHED CONNECTOR INTO PANEL CUT-OUT. TIGHTEN HEX NUT TO A MAXIMUM
+    OF 40 IN-LB [4.5 Nm].
+PANEL SEAL O-RING
+B
+B
+HEX NUT
+0.24
+6.1
+ MAX. PANEL THICKNESS
+FINISHED ASSEMBLY
+A
+A
+*REFER TO TOOLS TABLE  ON THIS DRAWING FOR SELECTION OF TOOLS PER CONTACT AND WIRE SIZE. 
+SCALE
+2:1
+DATE DRAWN
+01/06/16
+2
+2
+DRAWN BY
+REV
+PART No.
+OF
+SHEET
+PNK
+HS2P SERIES_CD
+0A
+3
+4
+5
+6
+7
+8
+SolidWorks CAD File
+C
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Switchcraft:  
+ 
+  HS2P3M20  HS2P2M20  HS2C5M20C  HS2C9M26C  HS2L5F20C  HS2C4F20C  HS2C2F20C  HS2P7M26 
+HS2P4F20  HS2C7F26C  HS2L2F20C  HS2PCAP  HS2L9F26C  HS2C7M26C  HS2C9F26C  HS2P9M26  HS2C5F20C
+  HS2P2F20  HS2P5M20  HS2P9F26  HS2C2M20C  HS2P3F20  HS2C3F20C  HS2C3M20C  HS2L4F20C  HS2LCAP 
+HS2L7F26C  HS2P5F20  HS2P7F26  HS2CCAP  HS2P4M20  HS2L3F20C  HS2C4M20C

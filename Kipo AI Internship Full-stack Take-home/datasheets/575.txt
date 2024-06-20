@@ -1,0 +1,80 @@
+G51ME7-P06QF00-0060
+medi_snap, type_g5
+General information
+Part number
+G51ME7-P06QF00-0060
+Termination
+pcb
+Size
+1
+Locking principle
+break , push
+Keying
+e_key_medi
+Contact insert description
+Number of contacts
+6
+Contact type
+sockets
+Contact diameter
+07mm
+Insulator material
+peek
+Termination
+pcb
+Termination diameter
+05mm
+reverse_gender_on_request
+Technical information
+Max. creepage and air clearance distance
+085_mm
+Nominal current single contact
+06_a
+iec_60512_5_2
+Nominal current insert
+4,5 A
+vde_0298_4
+Test voltage
+16_kv_dc
+sae_13441
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ip50
+Operating temperature
+50_120_c
+Mating cycles
+5000
+mated_unmated
+Insulator materials MEDI-SNAP®
+psu_peek
+Material and surface treatments
+Housing
+psu_gray
+Color option
+blue
+Contact
+cu_alloy_gold
+G51ME7-P06QF00-0060 medi_snap, type_g5
+230522
+1 / 2
+
+safety_text_2
+ul_text
+illustrative_text
+G51ME7-P06QF00-0060 medi_snap, type_g5
+230522
+2 / 2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  G51ME7-P06QF00-0060

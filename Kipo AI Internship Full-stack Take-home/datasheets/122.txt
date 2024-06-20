@@ -1,0 +1,17580 @@
+HERMETIC SOLUTIONS
+Amphenol Military & Aerospace Hermetic Products
+
+AMAO HERMETIC SOLUTIONS
+Hermetic connectors are essential to maintain system integrity in applications where the reliability and performance of electrical connectors 
+are critical, such as gas-tight barriers or areas with high-pressure differentials.  
+Amphenol Military Aerospace Operations (AMAO) uses a wide range of materials and manufacturing capabilities to provide standard and 
+custom products for glass-to-metal seals and lightweight epoxy backfilled solutions. 
+Hermetic seals can be supplied in multi-pin preforms or, for high pressure applications (up to 90,000 psi), in individual glass beads. 
+ 
+Such seals can be manufactured using a range of alternative shell and pin materials including; stainless steel, aluminum, titanium, inconel, 
+thermocouple materials, molybdenum, and more. AMAO also offers high speed hermetics with capabilities to manufacture impedance-
+matched, glass-sealed, coax hermetic interconnects. 
+Quality programs include advanced mechanical and electrical inspections, as well as nondestructive testing and 
+pressure testing. 100% leak testing can be carried out in house for fail-safe hermeticity. Customers can choose from our standard product 
+range or bespoke concept-to-supply solutions.
+MIL-SPEC-TYPE HERMETIC:
+LIGHTWEIGHT ALTERNATIVE FOR  
+SEALED CONNECTORS:
+Amphenol glass sealed hermetic connectors are  
+available in a wide variety of Mil-Spec configurations. 
+• Leakage rate of 
+ 
+1 x 10-7 cc of He/sec or less
+• Fused glass insert in steel shell
+• High volume manufacturing options 
+AMAO epoxy-sealed connectors are a lightweight  
+alternative to glass-sealed hermetic connectors for use in 
+avionics and other weight-sensitive applications where a 
+high level of sealing is required. Epoxy-sealed connectors 
+are an optimal solution when increasingly stringent sealing 
+requirements must be met. See our online Filter Catalog for 
+more information www.amphenol-aerospace.com. 
+Amphenol maintains the following QPLs 
+for hermetic products
+FEATURES AND BENEFITS:
+• Same epoxy as used in EMI filter connectors
+• MIL – DTL 38999 Series I, II, III
+• Less than 1 x 10-5 cc of He/sec leak rate
+• MIL – DTL 26482 Series I, II
+• MIL – DTL 83723 Series III, Pyle
+• Maintained after temperature cycling, 
+ 
+5 cycles -55 to +125°C
+• Commercial 26500 Type (Threaded or Bayonet)
+• Custom designs available with lower leak rates 
+ 
+upon request
+• All styles are also available in Non MIL – SPEC,  
+Commercial options that will meet the MIL – SPEC requirements
+• Aluminum shells with Electroless nickel 
+ 
+plating standard  
+ 
+- Also available in Durmalon and O.D. Cadmium      
+ 
+finishes. Steel available upon request
+• Accessory threads sized for standard backshells
+• Intermateable & inter-mountable with standard 38999  
+ 
+Series III plugs
+• Uses Amphenol’s standard “Filter Epoxy Compound” -  
+ 
+50 years of proven reliability and experience
+Visit amphenolmao.com for more information
+
+GLOBAL LOCATIONS
+Amphenol Aerospace Operations
+40-60 Delaware Avenue 
+Sidney, NY 13838 
+800-678-0141
+Amphenol Canada
+605 Milner Avenue 
+Toronto, ON Canada M1B 5X6 
+416-291-0647
+Amphenol Interconnect India
+105, Bhosari Industrial Area 
+Pune – 411 026 India 
++91 20 27120363
+Amphenol Commercial Air Division
+40-60 Delaware Avenue 
+Sidney, NY 13838 
+1-800-687-0141
+Amphenol Invotec
+Unit 1-3, Hedging Lane Industrial Estate 
+Dosthill, Tamworth, B77 5HH United Kingdom 
++44 (0) 1827 263250
+Amphenol Japan, Ltd.
+471-1, Deba, Ritto-City 
+Shiga, 520 3041 Japan 
++81 77 553 8501
+Amphenol Nexus Technologies
+50 Sunnyside Avenue 
+Stamford, CT 06902 
+203-327-7300
+Amphenol Ionix Systems
+Prospect House, Taylor Business Park 
+Risley, Warrington, WA3 6HP United Kingdom 
++44 (0) 1942 685200
+Amphenol Martec Limited
+St. Augustines Business Park 
+Swalecliffe, Whitstable, Kent 
+CT5 2QJ United Kingdom 
++44 (0) 1227 793 733
+Amphenol PCD
+72 Cherry Hill Drive 
+Beverly, MA 01915 
+978-624-3400
+Amphenol Limited
+Thanet Way 
+Whitstable, Kent, CT5 3JF United Kingdom 
++44 (0) 1227 773200
+Amphenol Optimize
+Carretera Internacional Km 6.5 
+Col. Parque Industrial 
+Nogales, Sonora, México. C.P. 84094 
++52 (631) 311-160
+Amphenol SV Microwave
+2400 Centrepark West Drive 
+West Palm Beach, FL 
+561-840-1800
+Amphenol Socapex
+948 Promenade De L’Arve – BP 29 
+74311 Thyez France 
++33 (0) 4 50 89 28 00
+Amphenol Ionix Systems OÜ 
+Pikk Street 59b  
+Kuressaare 93815 Estonia  
++372 4521 780
+Amphenol Times Microwave, Inc.
+358 Hall Avenue 
+Wallingford, CT 06492 
+800-867-2629
+Amphenol Air LB SAS
+2 Rue Clément Ader, Zac de Wé 
+08110 Carignan France 
++33 (0) 03 24 22 78 49
+AMAO – European Sales Operations
+Via Barbaiana 5 
+20020 Lainate Milano, Italy 
++39 02 932 541
+Amphenol Fiber Systems International
+1300 Central Expressway North, Suite 100 
+Allen, TX 75013 
+214-547-2400
+Amphenol AirLB GmbH
+Am Kleinbahnhof 4 
+D-66740 Saarlouis Germany 
++49 (0) 68 31/98 10 0
+Amphenol Bar-Tec Ltd.
+3 Hagavish st 
+POB 2479 Kfar-Saba 44641 
+Israel 
++972-9-7644100
+Amphenol Borisch Technologies
+4511 East Paris AVE 
+Grand Rapids, MI 49512 
+616-554-9820
+Amphenol SEFEE
+Z.I. des Cazes – BP243 
+12402 Saint-Affrique Cedex France 
++33 (0) 5 65 98 11 00
+Phitek
+Level 4, 2 Kingdon Street 
+Newmarket, Auckland 1023 
+New Zealand 
++64 9 524 2984
+Amphenol Printed Circuits
+91 Northeastern Boulevard 
+Nashua, NH 03062 
+603-324-4500
+Visit amphenolmao.com for more information
+
+Table of Contents
+Hermetic Capabilities 
+ 
+ 
+ 
+3
+SJT, How to Order, Alternate Rotations  
+ 
+40
+Hermetic Sealed Guide 
+ 
+ 
+ 
+4
+SJTIY – Hermetic, Solder Mounting Receptacle  
+ 
+41
+SJT07Y – Hermetic, Jam Nut Receptacle  
+ 
+41
+Hermetic MIL-DTL-38999, Series I LJT, II JT, III TV: 
+Insert Availability and Identification Chart  
+ 
+5-6
+Aquacon Series, Specifications, Alternate Positioning 
+43
+Insert Arrangements  
+ 
+ 
+ 
+7-9
+Insert Availability 
+ 
+ 
+ 
+ 
+44
+Thermocouple Contacts/Sealing Plugs/Finishing Data 
+10
+Insert Arrangements  
+ 
+ 
+ 
+45-46
+How to Order 
+ 
+ 
+ 
+ 
+47
+AJ7H / AS7H Hermetic Jam Nut Receptacle 
+ 
+48
+Hermetic MIL-DTL-38999, Series III TV 
+ 
+11
+Hermetic Military, How to Order  
+ 
+ 
+12
+AJ0H Hermetic Square Flange Receptacle 
+ 
+49
+How to Order (Commercial) 
+ 
+ 
+ 
+13
+Installation Instructions, Application Tools  
+ 
+50
+Hermetic Box Mounting Receptacle,  
+Military (D38999/21), Commercial (TVPS02) 
+ 
+14
+2M Series Selection Table 
+ 
+ 
+ 
+52
+2M801, 2M803, 2M804 and 2M805 
+ 
+ 
+52
+Hermetic Jam Nut Receptacle,  
+Military (D38999/23), Commercial (TVS07) 
+ 
+15
+Insert Arrangements  
+ 
+ 
+ 
+53-55
+Hermetic Solder Mounting Receptacle,  
+Military (D38999/25), Commercial (TVSI)  
+ 
+16
+2M805 Tri-Start Hermetic Receptacle  
+ 
+57
+Hermetic Wall Mounting Receptacle,  
+Military (D38999/27), Commercial (TVSHIY) 
+ 
+16
+Ordering Guide for 2M805-006  
+ 
+ 
+57
+PCB Hermetic Box Mounting Receptacle, Commercial 
+17
+2M805 Tri-Start Flange Mount Hermetic, 2M805-006-02 
+58
+PCB Hermetic Jam Nut Receptacle, Commercial 
+ 
+18
+2M805 Tri-Start Solder Mount Hermetic, 2M805-006-03 
+59
+PCB Hermetic Solder Mounting Receptacle, Commercial 
+19
+2M805 Tri-Start Jam Nut Hermetic, 2M805-006-07  
+60
+PCB Hermetic Weld Mounting Receptacle, Commercial 
+20
+2M804 Push-Pull Hermetic Receptacle  
+ 
+61
+MIL-DTL-38999/27599, Series II JT  
+ 
+ 
+21
+Ordering Guide for 2M804-006  
+ 
+ 
+62
+Military to Commercial Shell Style Conversion Table,  
+How to Order (Military) 
+ 
+ 
+ 
+22
+2M804 Push-Pull Rear Panel Jam Nut Hermetic,  
+2M804-006-07 
+ 
+ 
+ 
+ 
+63
+How to Order (Commercial) 
+ 
+ 
+ 
+23
+2M804 Front Panel Jam Nut Hermetic, 2M804-006-00 
+64
+Wall Mounting Receptacle,  
+Military (MS27475 & MS27482), Commercial (JT00 & JTS00) 24
+2M803 Hermetic   
+ 
+ 
+ 
+65
+Ordering Guide for 2M803-006 Receptacles 
+ 
+66
+Box Mounting Receptacle,  
+Military (MS27476), Commercial (JT02 & JTS02)  
+ 
+24
+2M803 Hermetic, Flange Mount and Jam Nut  
+2M803-006-02 and -07 
+ 
+ 
+ 
+67
+Jam Nut Receptacle, Military (MS27477 & MS27483),  
+Commercial (JT07 & JTS07) 
+ 
+ 
+ 
+25
+Solder Mounting Receptacle,  
+Military (MS27478 & MS27503), Commercial (JTI & JTSI)  
+25
+2M801 Hermetic   
+ 
+ 
+ 
+68
+PCB Wall Mounting Receptacle Hermetic, (JT00) 
+ 
+26
+Ordering Guide for Hermetic Receptacle 2M801-012 
+69
+PCB Box Mounting Receptacle, Commercial JT02  
+27
+2M801 Hermetic, Jam Nut Connector 2M801-012-07 
+70
+PCB Jam Nut Receptacle, Commercial (JT07) 
+ 
+28
+Hermetic Square Flange Connector 2M801-012-02  
+71
+PCB Solder Mounting Receptacle, Commercial (JTI)  
+29
+Hermetic Weld Mount Connector 2M801-012-03 
+ 
+72
+MIL-DTL-38999/ 27599, Series I LJT 
+ 
+ 
+30
+Military to Commercial Shell Style Conversion Table,  
+How to Order (Military) 
+ 
+ 
+ 
+31
+How to Order (Commercial) 
+ 
+ 
+ 
+32
+Wall Mounting Receptacle,  
+Military (MS27469), Commercial (LJT00)  
+ 
+33
+Jam Nut Receptacle,  
+Military (MS27470) Commercial (LJT07 & LJTS07)   
+34
+Solder Mounting Receptacle,  
+Military (MS27471), Commercial (LJTI & LJTSI) 
+ 
+35
+PCB Hermetic Wall Mounting Receptacle, (LJT00)   
+36
+PCB Hermetic Jam Nut Receptacle 
+ 
+ 
+37
+PCB Hermetic Solder Mounting Receptacle, (LJTI)  
+38
+1
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Table of Contents
+MIL-DTL-83723, Series III, Pyle® 
+ 
+ 
+ 
+74
+Manufacturer’s Specifications   
+ 
+ 
+ 
+74
+Hermetic Receptacles - Quick Reference  
+ 
+ 
+75-76
+Insert Availability and Identification, Alternate Keying Positions  
+77
+Insert Arrangements  
+ 
+ 
+ 
+ 
+78
+How to Order – Hermetic, Military or Pyle Commercial 
+ 
+79
+Hermetic Square Flange Mount, Threaded Coupling  
+ 
+80
+Military (MS83723/88), Commercial (BTY, BFY, BNY)  
+ 
+80
+Hermetic Jam Nut (D-Hole Mount), Threaded Coupling 
+ 
+81
+Military (MS83723/89), Commercial (BTY, BFY, BNY)  
+ 
+81
+Hermetic Solder/Weld Mount Receptacle, Threaded Coupling  
+82
+Military (M83723/90), Commercial (BTY, BFY, BNY)  
+ 
+82
+Hermetic MIL-DTL-26482, Series I  
+ 
+ 
+ 
+83
+Insert Availability Chart 
+ 
+ 
+ 
+ 
+84
+Insert Arrangements  
+ 
+ 
+ 
+ 
+85
+Alternate Positioning  
+ 
+ 
+ 
+ 
+86
+Hermetic MIL-DTL-26482, Series I, How to Order 
+ 
+ 
+87
+PTIH (MS3113H), Hermetic Solder Mounting Receptacle 
+ 
+88
+PT02H, Hermetic Solder Mounting Receptacle 
+ 
+ 
+89
+PT07H (MS3114H), Hermetic Jam Nut Receptacle  
+ 
+90
+Commercial 26500, Pyle, Insert Arrangements 
+ 
+ 
+92
+Pyle ZZL/ZZB, MIL-DTL-26500 TYPE 
+ 
+ 
+ 
+93
+Hermetic (three styles), Threaded or Bayonet 
+ 
+ 
+93
+2
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Capabilities
+Exceptional High Strength:
+Up to 90,000 psi/600 Mpa
+Exotic  
+Superior Leak  
+Material Options:
+Rate Performance:
+Titanium, Hastelloy, Inconel
+1x10-7/8/9/10 cc/sec
+Design Leaders in 
+Glass to Metal Seal 
+(GTMS) Technology
+High Temp Operations:
+Air & Gas  
+Impervious:
+From -55°C to 350°C 
+Maintain fluid separation
+fire wall capabilities to 1,000°C
+Mouldability:
+Custom form factors plus  
+Mil-Spec equivalents
+Custom Design Options
+CUSTOM CONNECTORS
+• Customise and add functionality  
+ 
+to hermetic Mil-Spec connectors 
+• Exotic material selection 
+VACUUM CONNECTORS
+• Standard flange forms (e.g. CF : KF) 
+• Minimal trapped volumes 
+ 
+ 
+ 
+ 
+RECTANGULAR HERMETICS
+• Micro-D and D-Sub 
+• Other form factors
+GTMS FEED-THROUGH AND HEADERS
+• Matched or Compression Seals 
+• Optimum, custom mounting  
+ 
+arrangements for system integration
+ 
+ 
+COAXIAL HERMETIC
+• Industry standard BNC, 
+ 
+SMA, SMB & N type 
+FILTERED INTERCONNECTS
+• EMI/RFI & lightning strike  
+ 
+protection 
+• 0, 75 or 90 Ω and other  
+ 
+impedance options
+• Space saving compact  
+ 
+design solutions
+ 
+ 
+ 
+ 
+HIGH SPEED HERMETICS
+• USB, ethernet & low resistivity  
+ 
+contacts options 
+SUB-SEA INTERCONNECTS
+• Pressure differentials  
+ 
+up to 90,000psi 
+• Low insertion loss and reflection coefficients
+• Booted and over moulded  
+ 
+custom designs
+3
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Sealed Guide 
+TIPS FOR CUSTOMIZING HERMETICS:
+1. How many Contacts?
+Consider including a number of redundant contacts to accommodate  
+any system developments you have planned for the future, or to comply 
+with specified growth provisions.
+7. What are your plating requirements?
+We offer a wide range of in-house plating options, including tin, 
+nickel, and hard and soft gold. We can also customize the plating 
+to meet any special requirements. Note that gold-plated solder 
+contacts should either be desoldered before installation,  
+or appropriate plating thickness specified, to avoid  
+solder embrittlement.
+2. What are the electrical requirements?
+Work out a steady state and peak requirement for both the current  
+and voltage.
+8. Are there any environmental factors?
+If your application will be operating in a harsh or hostile 
+environment (exposed to shock, vibration, thermal changes or 
+extreme temperatures, for example) these will need to be factored 
+into the design.
+3. Will your Glass-to-Metal Sealing be under  
+any pressure?
+Depending on the medium (for example, oil, water, or a vacuum) there may 
+be a pressure differential to consider. Glass-to-Metal Sealing (GTMS) can be 
+supplied in multi-pin preforms or, for high pressure applications in individual 
+glass beads.
+9. What are the qualification requirements?
+If qualification tests are required, these should be discussed and 
+specified during the design phase. We are able to perform most 
+qualification tests on the appropriate levels of assembly.
+4. How will your GTMS be attached?
+Will it be secured with a standard O-ring, for example, or welded in place?
+10. What testing will you need?
+Examples include leak testing, pressure testing, and geometrical 
+and electrical testing; including breakdown, voltage, and insulation 
+resistance of finished parts.
+5. What are your cable interface requirements?
+Be sure to include any instructions for screen termination, potting 
+requirements, and/or cable strain relief.
+Cabling and wiring too?
+If you would like to extend your brief to include your cabling and 
+wiring requirements, we can address those as well.
+6. Do you require custom functionality?
+If you have any specific requirements, such as electromagnetic compatibility 
+(EMC) filters or printed circuit board (PCB) mounting, make sure they are 
+included in your design specification.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+4
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-38999, Series I LJT, II JT, III TV
+Insert Availability and Identification Chart
+Hermetic
+ Series    Series     Series   Military
+Class
+TV* Service 
+Total 
+22D 22M
+22
+20
+16
+12
+P Available with Pin contacts only
+JT II
+LJT I
+TV III
+ III
+Class
+H
+Y
+Rating
+Contacts
+8-3n
+P
+P
+M
+3
+3
+n� Not Mil-Qualified. 
+* Hermetic inserts - solder termination  
+ 
+standard. (Contact Amphenol Aerospace  
+8-6
+P
+P
+M
+6
+6
+9-6
+P
+P
+ 
+for optional PCB or eyelet termination).
+8-35
+P
+P
+M
+6
+6
+9-35
+9-35
+A35
+P
+P
+P
+8-44
+P
+P
+M
+4
+4
+H� Ground plane proprietary option available. 
+(2) Pin inserts only, not tooled for RP or 02RE 
+(Consult Amphenol Aerospace for availability)
+8-98
+P
+P
+I
+3
+3
+9-98
+9-98
+A98
+P
+P
+P
+11-2H
+11-2H
+B2
+P**
+I
+2
+2
+10-4
+I
+4
+4
+11-4
+11-4
+10-5
+P
+P
+I
+5
+5
+11-5
+11-5
+B5
+P
+10-13
+P
+P
+M
+13
+13
+11-13
+P
+P
+10-35
+P
+P
+M
+13
+13
+11-35
+11-35
+B35
+P
+P
+P
+10-98
+P
+P
+I
+6
+6
+11-98
+11-98
+B98
+P
+P
+P
+10-99
+P
+P
+I
+7
+7
+11-99
+11-99
+B99
+P
+12-3
+P
+P
+II
+3
+3
+12-4
+P
+P
+I
+4
+4
+13-4H
+13-4H
+C4
+P
+P
+P
+12-8
+P
+P
+I
+8
+8
+13-8
+13-8
+C8
+P
+P
+P
+12-22
+P
+P
+M
+22
+22
+13-22
+P
+P
+12-35
+P
+P
+M
+22
+22
+13-35
+13-35
+C35
+P
+P
+P
+12-98
+P
+P
+I
+10
+10
+13-98
+13-98
+C98
+P
+P
+P
+14-5
+II
+5
+5
+15-5
+14-15
+P
+P
+I
+15
+14
+1
+15-15
+15-15
+D15
+P
+P
+P
+I
+15
+14
+1
+14-18
+P
+P
+I
+18
+18
+15-18
+15-18
+D18
+P
+P
+P
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+15-19
+15-19
+D19
+P
+P
+P
+I
+19
+19
+14-35
+P
+P
+M
+37
+37
+15-35
+15-35
+D35
+P
+P
+P
+14-37
+P
+P
+M
+37
+37
+15-37
+P
+P
+14-68n
+P
+P
+1
+8
+8
+14-97
+P
+P
+I
+12
+8
+4
+15-97
+15-97
+D97
+P
+P
+P
+16-6
+P
+P
+I
+6
+6
+17-6
+17-6
+E6
+P
+P
+P
+16-8
+P
+P
+II
+8
+8
+17-8H
+17-8H
+E8
+P
+P
+P
+16-13
+I
+13
+13
+17-13
+16-26
+P
+P
+I
+26
+26
+17-26
+17-26
+E26
+P
+P
+P
+16-35
+P
+P
+M
+55
+55
+17-35
+17-35
+E35
+P
+P
+P
+16-55
+P
+P
+M
+55
+55
+17-55
+P
+P
+16-99
+P
+P
+I
+23
+21
+2
+17-99
+17-99
+E99
+P
+P
+18-11
+P
+P
+II
+11
+11
+19-11H 19-11H
+F11
+P
+P
+P
+18-32
+P
+P
+I
+32
+32
+19-32
+19-32
+F32
+P
+P
+P
+18-35
+P
+P
+M
+66
+66
+19-35
+19-35
+F35
+P
+P
+P
+18-66
+P
+P
+M
+66
+66
+19-66
+P
+P
+   
+5
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-38999, Series I LJT, II JT, III TV
+Insert Availability and Identification Chart
+P Available with Pin contacts only
+ 
+Hermetic
+ Series    Series     Series      Military
+Class
+Total 
+22D 22M 22
+20
+16
+12
+JT II
+LJT I
+TV III
+III
+Class 
+H
+Y
+TV*
+Service 
+Rating
+Contacts
+n Not Mil-Qualified. 
+* Hermetic inserts - solder termination  
+ 
+standard. (Contact Amphenol Aerospace for  
+ 
+optional PCB or eyelet termination).
+20-1
+P
+P
+M
+79
+79
+21-1
+P
+P
+H Ground plane proprietary option available. 
+(2) Pin inserts only, not tooled for RP or 02RE  
+(Consult Amphenol Aerospace for availability)
+20-11
+I
+11
+11
+21-11H 21-11H
+G11
+20-16
+P
+P
+II
+16
+16
+21-16H 21-16H
+G16
+P
+P
+P
+20-35
+P
+P
+M
+79
+79
+21-35
+21-35
+G35
+P
+P
+P
+20-39
+P
+P
+I
+39
+37
+2
+21-39
+21-39
+G39
+P
+P
+P
+20-41
+P
+P
+I
+41
+41
+21-41
+21-41
+G41
+P
+P
+P
+22-1
+P
+P
+M
+100
+100
+23-1
+P
+P
+22-2
+P
+P
+M
+85
+85
+23-2
+P
+P
+22-21
+P
+P
+II
+21
+21
+23-21H 23-21H
+H21
+P
+P
+P
+22-32
+P
+P
+I
+32
+32
+22-35
+P
+P
+M
+100
+100
+23-35
+23-35
+H35
+P
+P
+P
+22-53n
+I
+53
+53
+23-53
+23-53
+H53
+P
+P
+P
+22-55
+P
+P
+I
+55
+55
+23-55
+23-55
+H55
+P
+24-1
+P
+P
+M
+128
+128
+25-1
+P
+P
+24-4
+P
+P
+I
+56
+48
+8
+25-4
+25-4
+J4
+P
+24-19n
+P
+P
+I
+19
+19
+25-19H 25-19H
+J19
+P
+24-24
+P
+P
+I
+24
+12 12
+25-24H
+25-24H
+J24
+P
+P
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+24-35
+P
+P
+New
+128
+128
+25-35
+25-35
+J35
+P
+P
+P
+M
+24-61
+P
+P
+I
+61
+61
+25-61
+25-61
+J61
+P
+P
+P
+6
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-38999, Series I LJT, II JT, III TV
+Insert Arrangements
+Front face of pin inserts illustrated
+A
+1
+2
+9
+10
+D
+A
+E
+11
+1
+5
+1
+A
+A
+B
+4
+C A
+3
+2
+12
+13
+8
+B
+B
+C
+1
+2
+3
+4
+5 6
+2
+3
+4 6
+3
+B
+C
+D
+B
+C
+4
+5
+6
+7
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+8-3
+8-6
+8-35
+8-44
+8-98
+10-4
+10-5
+10-13
+Series I LJT
+9-3
+9-6
+9-35
+9-44
+9-98
+11-2
+11-4
+11-5
+11-13
+Series III TV
+9-35
+9-98
+11-2
+11-4
+11-5
+Service Rating
+M
+M
+M
+M
+I
+I
+I
+I
+M
+# of Contacts
+3
+6
+6
+4
+3
+2
+4
+5
+13
+Contact Size
+20
+22M
+22D
+22
+20
+16
+20
+20
+22M
+1
+1
+F
+A
+A
+1
+2
+A
+9
+10
+11
+A
+B
+F
+G
+E
+20
+21
+22
+E
+F
+B
+B
+D
+3
+H
+22
+G
+A
+12
+13
+C
+8
+B
+C
+D
+C
+C
+D
+E
+B
+C
+D
+4
+5
+6
+7
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+10-35
+10-98
+10-99
+12-3
+12-4
+12-8
+12-22
+12-35
+Series I LJT
+11-35
+11-98
+11-99
+13-3
+13-4
+13-8
+13-22
+13-35
+Series III TV
+11-35
+11-98
+11-99
+13-4
+13-8
+13-35
+Service Rating
+M
+I
+I
+II
+I
+I
+M
+M
+# of Contacts
+13
+6
+7
+3
+4
+8
+22
+22
+Contact Size
+22D
+20
+20
+16
+16
+20
+22M
+22D
+1
+1
+A
+A
+B
+A
+B
+L
+M
+K
+L
+M N
+N
+P
+A
+B
+21
+31
+21
+31
+B
+H
+C
+A
+B
+E
+A
+B
+C
+R
+K
+L
+M
+N
+K
+J
+T U
+G
+H
+U
+V
+P
+R
+J
+G
+C
+C
+P
+D
+J
+J
+K
+C
+F
+R
+S
+S
+T
+C
+D
+D
+E
+F
+G
+H
+D
+E
+F
+G
+H
+D
+E
+F
+D
+E
+11
+E
+F
+G
+H
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+12-98
+14-5
+14-15
+14-18
+14-19
+14-35
+14-37
+14-68
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Series I LJT
+13-98
+15-5
+15-15
+15-18
+15-19
+15-35
+15-37
+15-68
+Series III TV
+13-98
+15-5
+15-15
+15-18
+15-19
+15-35
+Service Rating
+I
+II
+I
+I
+I
+M
+M
+I
+# of Contacts
+10
+5
+14
+1
+18
+19
+37
+37
+8
+Contact Size
+20
+16
+20
+16
+20
+20
+22D
+22M
+16
+17
+17
+32
+10
+40
+K
+10
+25
+32
+A
+4
+25
+A
+4
+47
+40
+47
+A
+B
+J
+A
+B
+C
+1
+E
+J
+K
+1
+53
+53
+P
+R
+S
+T
+U
+G
+B
+L
+a
+b
+H
+B
+C
+D
+N
+A
+B
+C
+L
+N
+M
+H
+H
+Z
+c
+F
+D
+E
+M
+M
+D
+55
+D
+3
+G
+F
+C
+55
+3
+V
+W
+X
+Y
+52
+C
+52
+E
+F
+G
+9
+D
+E
+E
+F
+9
+16
+46
+31
+16
+24 31
+39
+46
+G F
+H
+J
+K
+L
+24
+39
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+14-97
+16-6
+16-8
+16-13
+16-26
+16-35
+16-55
+Series I LJT
+15-97
+17-6
+17-8
+17-13
+17-26
+17-35
+17-55
+Series III TV
+15-97
+17-6
+17-8
+17-26
+17-35
+Service Rating
+I
+I
+II
+I
+I
+M
+M
+# of Contacts
+8
+4
+6
+8
+13
+26
+55
+55
+Contact Size
+20
+16
+12
+16
+16
+20
+22D
+22M
+HD: High Density HD38999 (use size 23 contacts only)
+CONTACT LEGEND 
+ 
+ 
+12 
+16 
+20 
+22 
+22M 22D 
+23
+7
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-38999, Series I LJT, II JT, III TV 
+Insert Arrangements
+Front face of pin inserts illustrated
+1
+34
+25
+34
+17 25
+43
+43
+17
+51
+10
+10
+51
+A
+B
+A
+J
+4
+R
+58
+31
+58
+4
+51
+C
+S
+T
+U
+V
+R
+P
+H
+A
+B
+C
+B
+64
+1
+S
+T
+U
+64
+1
+K
+e
+f
+d
+D
+P
+W
+j
+Y
+Z
+N
+D
+79
+21
+2
+2
+G
+C
+X
+M
+L
+V
+W
+X
+E
+E
+N
+b
+c
+g
+h
+3
+66
+66
+3
+61
+71
+F
+D
+M
+63
+F
+9
+9
+63
+Y
+Z
+a
+41
+F
+G
+H
+J
+K
+L
+11
+57
+57
+16
+E
+50
+24
+16
+50
+24
+33
+42
+G
+H
+J
+K
+L
+33
+42
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+16-99
+18-11
+18-32
+18-35
+18-66
+20-1
+Series I LJT
+17-99
+19-11
+19-32
+19-35
+19-66
+21-1
+Series III TV
+17-99
+19-11
+19-32
+19-35
+Service Rating
+I
+II
+1
+M
+M
+M
+# of Contacts
+21
+2
+11
+32
+66
+66
+79
+Contact Size
+20
+16
+16
+20
+22D
+22M
+22M
+1
+A
+J
+A
+B
+C
+U
+V
+W
+L
+A
+A
+B
+C
+31
+T
+U
+V
+W
+X
+Y
+D
+51
+H
+M
+K
+T
+D
+B
+i
+S
+i
+j
+X
+Y
+Z
+Z
+k
+B
+E
+S
+N
+j
+k
+m
+S
+a
+E
+s
+t
+J
+79
+h
+a
+21
+C
+G
+C
+r
+R
+K
+L
+F
+g
+h
+q
+r
+m
+n
+P
+R
+R
+g
+n
+p
+q
+H
+61
+71
+D
+G
+F
+D
+N
+P
+P
+p
+b
+c
+d
+e
+f
+b
+c
+d
+e
+f
+41
+11
+E
+F
+G
+E
+F
+G
+H
+J
+K
+L
+M
+H
+J
+K
+L
+M
+N
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+20-11
+20-16
+20-35
+20-39
+20-41
+Series I LJT
+21-11
+21-16
+21-35
+21-39
+21-41
+Series III TV
+21-11
+21-16
+21-35
+21-39
+21-41
+Service Rating
+I
+II
+M
+1
+I
+# of Contacts
+11
+16
+79
+37
+2
+41
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Contact Size
+12
+16
+22D
+20
+16
+20
+29
+N
+67
+25
+46
+46
+25
+67
+A
+20
+16
+39
+58
+56
+56
+35
+35
+77
+48
+77
+16
+A
+B
+12
+67
+8
+M
+N
+P
+R
+86
+86
+8
+M
+P
+B
+5
+94
+1
+75
+94
+C
+L
+a
+b
+2
+R
+S
+c
+1
+82
+95
+h
+3
+L
+C
+W
+X
+Z
+T
+d
+j
+96
+97
+98
+4
+5
+g
+K
+D
+6
+99
+U
+V
+1
+2
+3
+4
+5
+6
+S
+K
+Y
+D
+4
+100
+85
+e
+f
+7
+9596
+97
+98
+99
+100
+11
+7
+81
+T
+U
+19
+74
+J
+93
+15
+V
+W
+X
+47
+E
+24
+85
+15
+93
+66
+34
+28
+55
+76
+38
+57
+66
+66
+45
+24
+45
+85
+76
+55
+34
+E
+F
+G
+H
+F
+G
+H
+J
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+22-1
+22-2
+22-21
+22-32
+22-35
+Series I LJT
+23-1
+23-2
+23-21
+23-32
+23-35
+Series III TV
+23-21
+23-35
+Service Rating
+M
+M
+II
+I
+M
+Number # Contacts
+100
+85
+21
+32
+100
+Contact Size
+22M
+22
+16
+20
+22D
+CONTACT LEGEND 
+12 16 20 
+22 22M 22D 23
+8
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-38999, Series I LJT, II JT, III TV 
+Insert Arrangements
+Front face of pin inserts illustrated
+59
+94
+71
+25
+48
+A
+B
+C
+15
+8
+105
+115
+D
+1
+Y
+Z
+a
+b
+c
+A
+B
+C
+G
+G
+u
+v
+w
+X
+A
+B
+C
+P
+E
+S
+d
+FF
+R
+S
+T
+U
+V W
+T
+U
+V
+W
+X
+Y
+x
+y
+D
+A
+B
+N
+HH
+t
+W
+D
+z
+A
+B
+k
+m
+n
+p
+q
+r
+F
+k
+m
+n
+p
+q
+r
+Z
+X
+E
+E
+L
+L
+C
+C
+h
+R
+125
+E
+M
+z
+s
+JJ
+e
+f
+GG
+HH
+V
+j
+y
+E
+s
+y
+z
+AA
+BB
+C
+C
+G
+G
+HH
+a
+Y
+g
+L
+KK
+F
+P
+AA
+D
+D
+i
+r
+DD
+EE
+FF
+F
+t
+G
+DD
+EE
+FF
+g
+U
+s
+t
+7
+BB
+C
+C
+u
+q
+N
+u
+v
+w
+x
+v
+w
+x
+K
+H
+T
+G
+14
+121
+Z
+a
+b
+c
+d
+e
+f
+b
+c
+d
+e
+f
+g
+h
+24
+h
+k
+m
+n
+p
+G
+H
+J
+114
+35
+104
+70
+58
+81
+H
+J
+K
+L
+M
+N
+P
+R
+S
+J
+K
+L
+M
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+22-53
+22-55
+24-1
+24-4
+Series I LJT
+23-53
+23-55
+25-1
+25-4
+Series III TV
+23-53
+23-55
+25-4
+Service Rating
+I
+I
+M
+I
+# of Contacts
+53
+55
+128
+48
+8
+Contact Size
+20
+20
+22M
+20
+16
+59
+48
+71
+36
+82
+25
+M
+A
+B
+94
+8
+15
+105
+115
+A
+B
+A
+B
+P
+1
+C
+X
+C
+L
+N
+P
+C
+N
+w
+t
+u
+v
+R
+S
+D
+Y
+Z
+a
+b
+c
+d
+GG
+HH
+W
+x
+F
+F
+E
+JJ
+s
+NN
+e
+125
+V
+Y
+Z
+K
+U
+V
+R
+D
+4
+D
+PP
+y
+EE
+KK
+M
+MM
+F
+r
+T
+U
+f
+X
+LL
+z
+G
+g
+q
+DD
+T
+J
+S
+T
+E
+E
+a
+L
+U
+7
+AA
+H
+BB
+CC
+128
+J
+F
+121
+14
+F
+G
+H
+V
+W
+h
+i
+k j
+m
+n
+p
+24
+114
+70
+104
+35
+58
+81
+K
+L
+M
+N
+P
+R
+S
+47
+93
+G
+H
+J
+K
+Shell Size &  
+Insert Arrg. for:
+Series II JT
+24-19
+24-24
+24-35
+24-61
+Series I LJT
+25-19
+25-24
+25-35
+25-61
+Series III TV
+25-19
+25-24
+25-35
+25-61
+Service Rating
+I
+I
+M
+I
+# of Contacts
+19
+12
+12
+128
+61
+Contact Size
+12
+16
+12
+22D
+20
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+HD: High Density HD38999 (use size 23 contacts only)
+Note: MS connector 21-75 is supplied with four size 8 twinax contacts.  
+Commercial connector 21-75 is supplied with four size 8 coax contacts.
+MS connector 21-79 has provision for two size 8 coax contacts. 
+Coax contacts are not supplied unless specified by customers.
+CONTACT LEGEND 
+12 16 20 
+22 22M 22D 23
+9
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-38999, Series I LJT, II JT, III TV
+Thermocouple Contacts/Sealing Plugs/Finishing Data
+SERVICE RATING**
+Suggested Oper. Voltage  
+Test Voltage 
+Service
+Rating
+(Sea Level)
+Test Voltage 
+(Sea Level)
+50,000 Ft.
+Test Voltage 70,000 Ft
+Test Voltage 110,000 Ft.
+AC (RMS)
+DC
+M
+400
+500
+1300 VRMS
+550 VRMS
+350 VRMS
+200 VRMS
+N
+300
+450
+1000 VRMS
+400 VRMS
+260 VRMS
+200 VRMS
+I
+600
+850
+1800 VRMS
+600 VRMS
+400 VRMS
+200 VRMS
+II
+900
+1250
+2300 VRMS
+800 VRMS
+500 VRMS
+200 VRMS
+** Please note that the establishment of electrical safety factors is left entirely in the designer’s hands, since they are in the best position to know  
+what peak voltage, switching surges, transients, etc. can be expected in a particular circuit.
+HERMETIC SHELL COMPONENTS
+Material/Finish
+Service Class
+Military
+Commercial
+Stainless Steel
+Y
+Y
+Stainless Steel with Nickel Plate
+N
+YN
+HERMETIC CONNECTORS
+Finish
+Suffix
+Indicated Finish  
+Indicated Finish  
+Standard for 
+Standard for 
+LJT Types Listed Below
+Military
+Commercial
+JT Types Listed Below
+LJT(  )Y 
+LJT(  )H
+Carbon Steel Shell 
+Tin Plated Shell and Contacts
+  JT(  )H /   JT(  )Y 
+JTL(  )H / JTL(  )Y
+MS (D)
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Carbon Steel Shell Tin Plated Shell and  
+Gold Plated Contacts
+LJTS(   )Y
+Stainless Steel Shell Gold Plated Contacts
+MS (E)
+(162)
+  JTS(  )Y 
+JTLS(  )Y
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+10
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Series III
+MIL-DTL-38999
+TRI-START, MIL-DTL-38999, SERIES III  
+WITH STAINLESS STEEL SHELLS
+FEATURES:
+• EMI Shielding  
+ 
+Solid metal-to-metal coupling,  
+ 
+grounding fingers, electroless  
+ 
+nickel plating, and thicker wall  
+Amphenol ®  Tri-Start MIL-DTL-38999* Series III Connec tors offer the highest 
+performance capabilities for both general duty and severe environment 
+applications meeting or exceeding MIL-DTL-38999 Series III require ments.
+ 
+sec tions provide superior EMI  
+ 
+shielding capability of 65dB  
+ 
+minimum at 10 GHz
+• Contact Protection  
+ 
+ 
+Recessed pins in this 100%  
+ 
+scoop-proof connector  
+ 
+ 
+minimize potential contact   
+High reliability and increased versatility best describe Amphenol  
+MIL-DTL-38999, Series III circular connectors. Originally designed for the 
+harshest of environments and most demanding of applications, Amphenol 
+MIL-DTL-38999 Series III, Tri-Start connectors continue to evolve in pace 
+withthe needs of an ever-changing market.
+ 
+damage
+• Moisture Resistance  
+ 
+ 
+Improved interfacial seal  
+ 
+ 
+design helps prevent  
+ 
+ 
+electrolytic erosion of contacts
+• Corrosion Resistance  
+ 
+ 
+Shells of stainless steel with  
+ 
+nickel plating withstand a   
+ 
+500 hour salt spray exposure
+• Vibration/Shock  
+ 
+Operates under severe high  
+ 
+tempera ture vibration,  
+ 
+through 200°C
+PASSIVATED  
+STAINLESS STEEL
+• Lockwiring Eliminated  
+ 
+STAINLESS STEEL 
+WITH NICKEL 
+PLATING 
+ 
+Unique, self-locking, quick   
+ 
+cou pling connector eliminates  
+ 
+lockwiring
+• Quick Coupling  
+ 
+Completely mates and  
+ 
+ 
+self-locks in a 360°  
+ 
+ 
+turn of the coupling nut
+• Hermetic- air leakage limited  
+ to 1 X 10-7 cm3 per second
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+11
+
+Hermetic Military 
+How to Order
+MILITARY
+DESCRIPTION
+COMMERCIAL
+D38999/21
+Hermetic Box Mounting Receptacle
+TVPS02Y, TVPS02YN
+D38999/23
+Hermetic Jam Nut Receptacle
+TVS07Y, TVS07YN
+D38999/25
+Hermetic Solder Mount Receptacle
+TVSI
+D38999/27
+Hermetic Weld Mounted Receptacle
+TVSHI
+1.
+2.
+3.
+4.
+5.
+6.
+HOW TO ORDER: MILITARY
+Connector 
+Shell Size– Insert 
+Contact 
+Alternate Keying 
+Type
+Shell 
+Style
+Service 
+Class
+Arrangement
+Type
+Position
+1. CONNECTOR TYPE
+D38999/
+21
+Y
+G35
+P
+N
+38999/
+MIL-DTL-38999 III
+2. SHELL STYLE
+3. SERVICE CLASS
+Military
+Finish
+RoHS
+Material
+Material/ Description
+21
+Box Mount Receptacle 
+Hermetic
+Hermetic connectors, 
+corrosion resistant steel, 
+N
+Stainless Steel w/  
+Nickel Plate
+•
+Stainless Steel
+200°C
+23
+Jam Nut Receptacle 
+Hermetic
+Y
+Stainless Steel
+•
+Stainless Steel
+Hermetic seal, 200°C 
+passivated stainless steel
+25
+Solder Mount   
+Receptacle Hermetic
+27
+Weld Mounted  
+Receptacle Hermetic
+4. SHELL SIZE & INSERT ARRANGEMENTS
+TRIPLE START THREADS
+A
+B
+C
+D
+E
+F
+G
+H
+J
+Mil Shell Size
+Shell Size & Insert Arrangements are on pages 5-6. First 
+number represents Shell Size, second number is the 
+Insert Arrangement. 
+9
+11
+13
+15
+17
+19
+21
+23
+25
+Amphenol  
+Shell size
+5. CONTACT TYPE
+AR° 
+P
+500 Cycle Pin Contacts
+Key & 
+Keyway 
+or AP° 
+BSC
+X
+Pin Contacts - Eyelet
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Shell 
+Size
+Arrangement 
+Identification 
+BR° 
+or 
+BP° 
+BSC
+CR° 
+or 
+CP° 
+BSC
+DR° 
+or  
+DP° 
+BSC
+C
+PC Tail
+Letter
+N*
+105
+140
+215
+265
+A
+102
+132
+248
+320
+6. ALTERNATE KEYING POSITION
+B
+80
+118
+230
+312
+A (9)
+C
+35
+140
+205
+275
+D
+64
+155
+234
+304
+E
+91
+131
+197
+240
+N*
+95
+141
+208
+236
+A
+113
+156
+182
+292
+A plug with a given rotation letter will mate with 
+a receptacle with the same rotation letter. The 
+angles for a given connector are the same whether 
+it contains pins or sockets. Master key stays 
+fixed, minor keys rotate. Inserts are not rotated in 
+conjunction with the master key/keyway.
+B
+90
+145
+195
+252
+C
+53
+156
+220
+255
+B (11) 
+C (13) 
+D (15)
+RECEPTACLE 
+D
+119
+146
+176
+298
+E
+51
+141
+184
+242
+(FRONT FACE SHOWN)
+N*
+80
+142
+196
+293
+A
+135
+170
+200
+310
+MAIN
+KEYWAY
+B
+49
+169
+200
+244
+E (17) 
+F (19)
+C
+66
+140
+200
+257
+AR
+BSC˚
+D
+62
+145
+180
+280
+BR
+BSC˚
+E
+79
+153
+197
+272
+N*
+80
+142
+196
+293
+A
+135
+170
+200
+310
+DR
+BSC˚
+CR
+BSC˚
+B
+49
+169
+200
+244
+C
+66
+140
+200
+257
+G (21) 
+H (23) 
+J (25)
+D
+62
+145
+180
+280
+E
+79
+153
+197
+272
+12
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-38999, Series III TV 
+How to Order (Commercial)
+1.
+2.
+3.
+4.
+Type & Class
+Shell Size-Insert Arrg.
+Contact  Type
+Alternate Position
+TVS07Y
+11-4
+P
+N
+1. SELECT A TYPE & CLASS
+Passivated 
+2. SHELL SIZE & INSERT ARRANGEMENTS
+(Non-
+Firewall)
+Nickel 
+Plated 
+(Non-
+Firewall)
+See table on page 5-6. First number represents Shell 
+Size, second number is the Insert Arrangement. 
+Temperature
+200˚C
+200˚C
+Salt Spray
+500 Hrs
+500 Hrs
+3. CONTACT TYPE
+P
+500 Cycle Pin Contacts
+RATES
+EMI Shielding
+-65dB @ 
+10GHz
+-50dB @ 
+10GHz
+X
+Pin Contacts - Eyelet
+h
+h
+p
+p
+e
+e
+n
+n
+m
+m
+o
+o
+A
+A
+l
+l
+S
+S
+H
+H
+o
+o
+R
+R
+RoHS
+C
+C
+E
+E
+E
+E
+U
+U
+/
+/
+/
+/
+5
+5
+2
+2
+9
+9
+0
+0
+/
+/
+0
+0
+2
+2
+See pages 16-20 for PCB Hermetic Connector options
+Box Mounting Receptacle
+TVPS02Y-
+TVPS02YN-
+Jam Nut Receptacle
+TVS07Y-
+TVS07YN-
+Solder Mount 
+TVSIY-
+TVSIYN-
+Hermetic
+Weld Mounting Receptacle
+TVSHIY-
+TVSHIYN-
+AR° 
+4. ALTERNATE KEYING POSITION
+Key & 
+Keyway 
+or AP° 
+BSC
+Shell 
+Size
+Arrangement 
+Identification 
+BR° 
+or 
+BP° 
+BSC
+CR° 
+or 
+CP° 
+BSC
+DR° 
+or  
+DP° 
+BSC
+Letter
+N*
+105
+140
+215
+265
+A
+102
+132
+248
+320
+B
+80
+118
+230
+312
+9
+A plug with a given rotation letter will mate 
+with a receptacle with the same rotation 
+letter. The angles for a given connector 
+are the same whether it contains pins or 
+sockets. Master key stays fixed, minor keys 
+rotate. Inserts are not rotated in conjunction 
+with the master key/keyway.
+C
+35
+140
+205
+275
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+D
+64
+155
+234
+304
+E
+91
+131
+197
+240
+RECEPTACLE 
+N*
+95
+141
+208
+236
+(FRONT FACE SHOWN)
+A
+113
+156
+182
+292
+B
+90
+145
+195
+252
+MAIN
+KEYWAY
+C
+53
+156
+220
+255
+11, 
+13, 
+and 
+15
+D
+119
+146
+176
+298
+AR
+BSC˚
+E
+51
+141
+184
+242
+BR
+BSC˚
+N*
+80
+142
+196
+293
+A
+135
+170
+200
+310
+B
+49
+169
+200
+244
+DR
+BSC˚
+CR
+BSC˚
+C
+66
+140
+200
+257
+17 
+and 
+19
+D
+62
+145
+180
+280
+E
+79
+153
+197
+272
+N*
+80
+142
+196
+293
+A
+135
+170
+200
+310
+B
+49
+169
+200
+244
+C
+66
+140
+200
+257
+21, 
+23, 
+and 
+25
+D
+62
+145
+180
+280
+E
+79
+153
+197
+272
+13
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Box Mounting Receptacle 
+Military (D38999/21), Commercial (TVPS02)
+PART NUMBER BUILDER Page 12 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+MILITARY
+D38999/21
+COMMERCIAL SS
+TVPS02Y 
+TVPS02YN
+S
+2 PLACES
+1
+R
+.913 +.011
+–.000
+2 PLACES
+R2
+2 PLACES
+23.19 +.28
+–.00
+.093 +.006
+–.000
+2.36 +.15
+–.00
+1
+B THREAD
+.250 MAX
+6.35 MAX
+T
+4 PLACES
+RED
+BAND†
+M
+TT
+4 PLACES
+.005
+.13
+M
+† Red band indicates fully mated
+NOTE: Consult Amphenol Aerospace for availability of non-glass-sealed versions 
+with printed circuit tail contacts.
+Inches
+B Thread 
+MS Shell 
+0.1P-0.3L-TS 
+R1
+R2
+S 
+T 
+TT 
+Shell Size
+Size Coded
+(Plated)
+±.010
+±.008
+±.008
+9
+A
+  .6250
+  .719
+  .594
+  .938
+.128
+.216
+11
+B
+  .7500
+  .812
+  .719
+1.031
+.128
+.194
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+13
+C
+  .8750
+  .906
+  .812
+1.125
+.128
+.194
+15
+D
+1.0000
+  .969
+  .906
+1.219
+.128
+.173
+17
+E
+1.1875
+1.062
+  .969
+1.312
+.128
+.194
+19
+F
+1.2500
+1.156
+1.062
+1.438
+.128
+.194
+21
+G
+1.3750
+1.250
+1.156
+1.562
+.128
+.194
+23
+H
+1.5000
+1.375
+1.250
+1.688
+.154
+.242
+25
+J
+1.6250
+1.500
+1.375
+1.812
+.154
+.242
+Millimeters
+MS Shell 
+R1
+R2
+S 
+T 
+Shell Size
+Size Coded
+±.25
+±.20
+TT 
+±.20
+ 9
+A
+18.26
+15.09
+23.83
+3.25
+5.49
+11
+B
+20.62
+18.26
+26.19
+3.25
+4.93
+13
+C
+23.01
+20.62
+28.58
+3.25
+4.93
+15
+D
+24.61
+23.01
+30.96
+3.25
+4.39
+17
+E
+26.97
+24.61
+33.32
+3.25
+4.93
+19
+F
+29.36
+26.97
+36.53
+3.25
+4.93
+21
+G
+31.75
+29.36
+39.67
+3.25
+4.93
+23
+H
+34.93
+31.75
+42.88
+3.91
+6.15
+25
+J
+38.10
+34.93
+46.02
+3.91
+6.15
+All dimensions for reference only 
+ 
+     Designates true position dimensioning
+14
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Jam Nut Receptacle 
+Military (D38999/23), Commercial (TVS07)
+HOW TO ORDER Page 12 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+MILITARY
+D38999/23
+COMMERCIAL SS
+TVS07Y 
+TVS07YN
+C
+PANEL HOLE 
+DIMENSIONS
+L
+PANEL THICKNESS
+.062 MIN  .125 MAX
+1.57 MIN  3.18 MAX
+D1
+D2
+KK
+RED
+BAND†
+B THREAD
+JAM NUT
+D-HOLE
+MOUNTING
+H
+.200 MAX
+5.08 MAX
+K REF
+S
+2 PLACES
+SHELL SIZES 9/11 – .871  22.12
+SHELL SIZES 13/25 – .878  22.30
+†Red band indicates fully mated
+H.059 dia min. 1.5 dia. min. 3 lockwire holes Formed lockwire hole design (6 holes) is optional.
+Inches
+B Thread 
+Class 2A 
+0.1P-0.3L-
+TS 
+D
+D
+KK +.011 
+Shell 
+Size
+MS Shell 
+Size code
+(Plated)
+C Max
+1 +.010 
+–.000 
+2 +.000 
+–.010
+H Hex 
++.017 
+–.016
+L Max
+S ±.010
+–.000
+  9
+A
+  .6250
+1.199
+ .693
+ .657
+  .875
+.357
+1.062
+  .642
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+11
+B
+  .7500
+1.386
+ .825
+ .770
+1.000
+.357
+1.250
+  .766
+13
+C
+  .8750
+1.511
+1.010
+ .955
+1.188
+.357
+1.375
+  .892
+15
+D
+1.0000
+1.636
+1.135
+1.085
+1.312
+.357
+1.500
+1.018
+17
+E
+1.1875
+1.761
+1.260
+1.210
+1.438
+.357
+1.625
+1.142
+19
+F
+1.2500
+1.949
+1.385
+1.335
+1.562
+.381
+1.812
+1.268
+21
+G
+1.3750
+2.073
+1.510
+1.460
+1.688
+.381
+1.938
+1.392
+23
+H
+1.5000
+2.199
+1.635
+1.585
+1.812
+.381
+2.062
+1.518
+25
+J
+1.6250
+2.323
+1.760
+1.710
+2.000
+.381
+2.188
+1.642
+Millimeters
+KK +.28 
+Shell 
+Size
+MS Shell 
+Size code
+C Max
+D
+1 +.25 –.00 
+D
+2 +.00 –.25
+H Hex 
++.43  
+–.41
+L Max
+S ±.25
+–.00
+ 9
+A
+30.45
+17.60
+16.70
+22.23
+9.07
+26.97
+16.31
+11
+B
+35.20
+20.96
+19.59
+25.40
+9.07
+31.75
+19.46
+13
+C
+38.38
+25.65
+24.26
+30.18
+9.07
+34.93
+22.66
+15
+D
+41.55
+28.83
+27.56
+33.32
+9.07
+38.10
+25.86
+17
+E
+44.73
+32.01
+30.73
+36.53
+9.07
+41.28
+29.01
+19
+F
+49.50
+35.18
+33.91
+39.67
+9.68
+46.02
+32.21
+21
+G
+52.65
+38.35
+37.08
+42.80
+9.68
+49.23
+35.36
+23
+H
+55.85
+41.53
+40.26
+46.02
+9.68
+52.37
+38.56
+25
+J
+59.00
+44.70
+43.43
+50.80
+9.68
+55.58
+41.71
+All dimensions for reference only 
+15
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Solder Mounting Receptacle
+Military (D38999/25), Commercial (TVSI)
+L
+M
+HOW TO ORDER Page 12 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+.031+.006
+–.005
+.79 +.15
+–.13
+MILITARY
+D38999/25
+COMMERCIAL SS
+TVSIY 
+TVSIYN
+KK
+B THREAD
+GG
+.375 MAX
+9.53 MAX
+RED BAND †
+† Red band indicates fully mated
+Millimeters
+Inches
+L
+M
+KK Dia
+L
+M
+GG Dia.
+Shell 
+Size
+MS 
+Shell 
+Size 
+Code
++.28
+–.00
++.15
+–.13
+GG 
+Dia.
++.28
+–.25
++.03
+–.13
+Shell 
+Size
+MS 
+Shell 
+Size 
+Code
+B Thread 
+Class 2A 
+0.1P-0.3L-
+TS (Plated)
++.011
+–.005
++.006
+–.005
++.011
+–.010
+KK Dia
++.011
+–.005
+ 9
+A
+20.47
+3.18
+19.05
+17.07
+  9
+A
+  .6250
+.806
+.125
+  .750
+  .672
+11
+B
+20.47
+3.18
+21.44
+19.84
+11
+B
+  .7500
+.806
+.125
+  .844
+  .781
+13
+C
+20.47
+3.18
+24.61
+23.01
+13
+C
+  .8750
+.806
+.125
+  .969
+  .906
+15
+D
+20.47
+3.18
+27.79
+26.19
+15
+D
+1.0000
+.806
+.125
+1.094
+1.031
+17
+E
+20.47
+3.18
+30.94
+29.36
+17
+E
+1.1875
+.806
+.125
+1.218
+1.156
+19
+F
+20.47
+3.18
+33.32
+31.75
+19
+F
+1.2500
+.806
+.125
+1.312
+1.250
+21
+G
+20.47
+3.18
+36.53
+34.93
+21
+G
+1.3750
+.806
+.125
+1.438
+1.375
+23
+H
+21.29
+3.96
+39.70
+38.10
+23
+H
+1.5000
+.838
+.156
+1.563
+1.500
+25
+J
+21.29
+3.96
+42.88
+41.28
+25
+J
+1.6250
+.838
+.156
+1.688
+1.625
+Hermetic Wall Mounting Receptacle
+Military (D38999/27), Commercial (TVSHIY)
+L
+GG
+M
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+HOW TO ORDER Page 12 
+ONLINE CONFIGURATOR 
+www.amphenol-aerospace.com
+.375 MAX
+9.53 MAX
+MILITARY
+D38999/27
+COMMERCIAL SS
+TVSHIY 
+TVSHIYN
+B THREAD
+RED BAND †
+Millimeters
+Inches
+† Red band indicates fully mated
+L
+M
+GG Dia.
+L
+M
+GG Dia.
+Shell 
+Size
+MS 
+Shell 
+Size 
+Code
++.28
+–.00
++.15
+–.13
++.25
+–.00
+Shell 
+Size
+MS 
+Shell 
+Size 
+Code
+B Thread 
+Class 2A 
+0.1P-0.3L-
+TS (Plated)
++.011
+–.000
++.006
+–.005
++.011
+–.010
+ 9
+A
+20.47
+3.18
+24.71
+9
+A
+  .6250
+.806
+.125
+ .973
+11
+B
+20.47
+3.18
+27.81
+11
+B
+  .7500
+.806
+.125
+1.095
+13
+C
+20.47
+3.18
+31.01
+13
+C
+  .8750
+.806
+.125
+1.221
+15
+D
+20.47
+3.18
+34.21
+15
+D
+1.0000
+.806
+.125
+1.347
+17
+E
+20.47
+3.18
+36.42
+17
+E
+1.1875
+.806
+.125
+1.434
+19
+F
+20.47
+3.18
+40.11
+19
+F
+1.2500
+.806
+.125
+1.579
+21
+G
+20.47
+3.18
+43.71
+21
+G
+1.3750
+.806
+.125
+1.721
+23
+H
+21.29
+3.96
+47.90
+23
+H
+1.5000
+.838
+.156
+1.886
+25
+J
+21.29
+3.96
+50.11
+25
+J
+1.6250
+.838
+.156
+1.973
+All dimensions for reference only
+16
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Box Mounting Receptacle 
+Commercial
+S
+2 PLACES
+R
+.913+.011
+–.000
+1
+2 PLACES
+R2
+2 PLACES
+.093+.006
+–.000
+Size 22 Ø.030±.0005
+        20 Ø.040±.001
+        16 Ø.0625±.001
+B .100±.03
+D .200±.03
+F .300±.03
+T
+4 PLACES
+.005 M
+B THREAD
+RED
+BAND †
+PCB TAIL STICKOUT
+TT
+4 PLACES
+1.
+2.
+3.
+4.
+5.
+6.
+Base 
+Coded 
+Number
+Shell Size Insert Arrg.
+Contact 
+Type/Alt. 
+Keying
+Shell 
+Finish
+Tail Length
+PART #
+See chart below
+10-626
+501
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+See chart below 501-509, designates  
+size 9-25 shell size.
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Designates Insert Arrangement Number
+P
+Designates Pin Contacts in Normal Position
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Refer to insert availability chart on page 5-6.
+Refer to page 12 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+† Red band indicates  
+ 
+fully mated 
+B Thread 
+0.1P-0.3L-TS 
+R1
+R2
+S 
+T 
+TT 
+Shell 
+Size
+Part Number
+(Plated)
+±.010
+±.008
+±.008
+9
+10-626501-XXX
+  .6250
+  .719
+  .594
+  .938
+.128
+.216
+11
+502-XXX
+  .7500
+  .812
+  .719
+1.031
+.128
+.194
+13
+503-XXX
+  .8750
+  .906
+  .812
+1.125
+.128
+.194
+15
+504-XXX
+1.0000
+  .969
+  .906
+1.219
+.128
+.173
+17
+505-XXX
+1.1875
+1.062
+  .969
+1.312
+.128
+.194
+19
+506-XXX
+1.2500
+1.156
+1.062
+1.438
+.128
+.194
+21
+507-XXX
+1.3750
+1.250
+1.156
+1.562
+.128
+.194
+23
+508-XXX
+1.5000
+1.375
+1.250
+1.688
+.154
+.242
+25
+509-XXX
+1.6250
+1.500
+1.375
+1.812
+.154
+.242
+All dimensions for reference.
+    Designates true position dimensioning
+17
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Jam Nut Receptacle 
+Commercial
+C
+T•
+PCB TAIL 
+STICKOUT
+L
+PANEL THICKNESS
+.062 MIN  .125 MAX
+PANEL HOLE 
+DIMENSIONS
+D1
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+A•
+D2
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+RED
+BAND†
+B THREAD
+H
+JAM NUT
+D-HOLE
+MOUNTING
+K REF
+SHELL SIZES 9/11 – .871
+S
+2 PLACES
+SHELL SIZES 13/25 – .878  
+1.
+2.
+3.
+4.
+5.
+6.
+Base 
+Coded 
+Number
+Shell Size Insert Arrg.
+Contact 
+Type/Alt. 
+Keying
+Shell 
+Finish
+Tail Length
+PART #
+See chart below
+10-626
+471
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+See chart below 471-479, designates  
+size 9-25 shell size.
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Designates Insert Arrangement Number
+P
+Designates Pin Contacts in Normal Position
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Refer to insert availability chart on page 5-6.
+Refer to page 12 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+† Red band indicates fully mated         
+��H� .059 dia. min. (1.5 dia. min.) 3 lockwire holes. Formed 
+ 
+lockwire hole design (6 holes) is optional.
+A+
+D1 
+D1 
+T+
+C 
+L 
+S 
+KK +.011 
+Shell 
+Size
+Part Number
+ +.000 
+–.010
+B Thread 
+Class 2A 
+0.1P-0.3L-
+TS (Plated)
+Max
++.010 
+–.000 
++.000 
+–.010
+H Hex 
++.017 
+–.016
+Max
+±.010
+ +.010 
+–.000
+–.000
+  9
+10-626471-XXX
+  .669
+  .6250
+1.199
+ .700
+ .670
+  .875
+.357
+1.062
+  .697
+  .642
+11
+472-XXX
+  .769
+  .7500
+1.386
+ .825
+ .770
+1.000
+.357
+1.250
+  .822
+  .766
+13
+473-XXX
+  .955
+  .8750
+1.511
+1.010
+ .955
+1.188
+.357
+1.375
+1.007
+  .892
+15
+474-XXX
+1.084
+1.0000
+1.636
+1.135
+1.085
+1.312
+.357
+1.500
+1.134
+1.018
+17
+475-XXX
+1.208
+1.1875
+1.761
+1.260
+1.210
+1.438
+.357
+1.625
+1.259
+1.142
+19
+476-XXX
+1.333
+1.2500
+1.949
+1.385
+1.335
+1.562
+.381
+1.182
+1.384
+1.268
+21
+477-XXX
+1.459
+1.3750
+2.073
+1.510
+1.460
+1.688
+.381
+1.938
+1.507
+1.392
+23
+478-XXX
+1.575
+1.5000
+2.199
+1.635
+1.585
+1.812
+.381
+2.062
+1.634
+1.518
+25
+ 479-XXX
+1.709
+1.6250
+2.323
+1.760
+1.710
+2.000
+.381
+2.188
+1.759
+1.642
+All dimensions for reference only. 
+18
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Solder Mounting Receptacle 
+Commercial
+L
+M
+PCB TAIL 
+STICKOUT
+.031
++.006
+ 
+–.005
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+B THREAD
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+GG
+RED BAND†
+1.
+2.
+3.
+4.
+5.
+6.
+Base 
+Coded 
+Number
+Shell Size Insert Arrg.
+Contact 
+Type/Alt. 
+Keying
+Shell 
+Finish
+Tail Length
+PART #
+See chart below
+10-626
+481
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+See chart below 481-489, designates  
+size 9-25 shell size.
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Designates Insert Arrangement Number
+P
+Designates Pin Contacts in Normal Position
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Refer to insert availability chart on page 5-6.
+Refer to page 12 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+†  Red band indicates fully mated
+L
+M
+GG Dia.
+B Thread Class 
+2A 0.1P-0.3L-
+Shell 
+Size
+Part Number
+TS (Plated)
++.011
+–.005
++.006
+–.005
++.011
+–.010
+KK Dia
++.011
+–.005
+  9
+10-626481-XXX
+  .6250
+.806
+.125
+  .750
+  .672
+11
+482-XXX
+  .7500
+.806
+.125
+  .844
+  .781
+13
+483-XXX
+  .8750
+.806
+.125
+  .969
+  .906
+15
+484-XXX
+1.0000
+.806
+.125
+1.094
+1.031
+17
+485-XXX
+1.1875
+.806
+.125
+1.218
+1.156
+19
+486-XXX
+1.2500
+.806
+.125
+1.312
+1.250
+21
+487-XXX
+1.3750
+.806
+.125
+1.438
+1.375
+23
+488-XXX
+1.5000
+.838
+.156
+1.563
+1.500
+25
+489-XXX
+1.6250
+.838
+.156
+1.688
+1.625
+19
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Weld Mounting Receptacle 
+Commercial
+L
+GG
+M
+PCB TAIL 
+STICKOUT
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+B THREAD
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+RED BAND†
+†  Red band indicates fully mated
+1.
+2.
+3.
+4.
+5.
+6.
+Base 
+Coded 
+Number
+Shell Size Insert Arrg.
+Contact 
+Type/Alt. 
+Keying
+Shell 
+Finish
+Tail Length
+PART #
+See chart below
+10-626
+491
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+See chart below 491-499, designates  
+size 9-25 shell size.
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Designates Insert Arrangement Number
+P
+Designates Pin Contacts in Normal Position
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Refer to insert availability chart on page 5-6.
+Refer to page 12 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+B Thread Class 2A 
+L
+M
+GG Dia.
+0.1P-0.3L-TS 
+Shell 
+Size
+Part Number
+(Plated)
++.011
+–.000
++.006
+–.005
++.011
+–.010
+9
+10-626491-XXX
+  .6250
+.806
+.125
+ .973
+11
+492-XXX
+  .7500
+.806
+.125
+1.095
+13
+493-XXX
+  .8750
+.806
+.125
+1.221
+15
+494-XXX
+1.0000
+.806
+.125
+1.347
+17
+495-XXX
+1.1875
+.806
+.125
+1.434
+19
+496-XXX
+1.2500
+.806
+.125
+1.579
+21
+497-XXX
+1.3750
+.806
+.125
+1.721
+23
+498-XXX
+1.5000
+.838
+.156
+1.886
+25
+499-XXX
+1.6250
+.838
+.156
+1.973
+* Not available for weld mount. All dimensions for reference only. 
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+20
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Series II
+MIL-DTL-38999
+Amphenol® JT Series subminiature cylindrical connectors are qualified 
+to MIL-DTL-38999 Series II. These con nectors were developed to 
+meet the needs of the aerospace industry, and provided the impetus 
+for development of the MIL-C-38999 specifications, which has been 
+superseded by MIL-DTL-38999.
+FEATURES:
+• Lightweight, Space Saving   
+ 
+Design
+• Contact Protection - 100%   
+ 
+scoop-proof LJT design  
+ 
+ 
+prevents bent pins and short  
+ 
+circuits dur ing mating
+• Quick Positive Coupling - 3   
+ 
+point bayonet lock system
+• Mismating Eliminated - with  
+ 
+5 key/keyway design
+• Error Proof Alternate  
+ 
+ 
+Positioning - insured by  
+ 
+ 
+different key/ keyway  
+ 
+ 
+locations
+• Hermetic - air leakage limited  
+ 
+to 1 X 10-7 cm3 per second 
+• Inventory Support  
+ 
+Commonality - uses  
+ 
+ 
+stan dard   
+ 
+ 
+ 
+MIL-DTL-38999 contacts,   
+ 
+insert arrangements and  
+ 
+ 
+application tools.
+• RoHS Compliant Product   
+ 
+Available -Consult Amphenol  
+ 
+Aerospace Operations.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+21
+
+Military to Commercial Shell Style Conversion Table 
+How to Order (Military)
+MILITARY
+DESCRIPTION
+COMMERCIAL
+MS27475
+Hermetic Wall Mounting Receptacle 
+JT00
+MS27476
+Hermetic Box Mounting Receptacle
+JT02, JTS02
+MS27477
+Hermetic Jam Nut Receptacle
+MS27478
+Hermetic Solder Mounting Receptacle
+JTSIY
+HOW TO ORDER - MILITARY SERIES II
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+MS Number
+Service Class
+Shell Size
+Finishes
+Insert  
+Contact Style 
+Alternate Keying 
+Arrangement
+Position
+MS27475
+Y
+14
+A
+18
+P
+A
+1. MS NUMBER SERIES II JT
+2. HERMETIC SERVICE CLASS
+MS27475
+Hermetic Wall Mounting Receptacle 
+Y
+Hermetic with interfacial seal
+MS27476
+Hermetic Box Mounting Receptacle
+MS27477
+Hermetic Jam Nut Receptacle
+MS27478
+Hermetic Solder Mounting Receptacle
+3. SHELL SIZE &  
+5. INSERT ARRANGEMENT
+Shell Size & Insert Arrangement are on pages 5-6. First number represents Shell 
+Size, second number is the Insert Arrangement. Place Shell Size in box 3 and Insert 
+Arrangement in box 5.
+See table on page 5-6
+NORMAL
+B
+A
+D
+C
+4. HERMETIC FINISHES
+6. CONTACTS
+ROTATION
+LETTERS
+AB
+Finish
+Military  
+P
+Pin Contacts - Solder
+Finish Data
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+X
+Pin Contacts - Eyelet
+Carbon steel shell tin plated & 
+contacts
+D
+10˚ JT REF
+Stainless steel shell passivated
+E
+Stainless steel nickel plated
+N
+RELATIVE POSSIBLE POSITION
+OF ROTATED MASTER KEYWAY
+ (front face of receptacle shown)
+JT Key/Keyway Rotation
+AB ANGLE OF ROTATION (Degrees)
+7. ALTERNATE KEYING POSITION
+Shell Size
+Normal
+A
+B
+C
+D
+8
+100°
+82°
+-
+-
+118°
+“A” designates Alternate keying connector assembly. 
+Other basic alternate keys are “B”, “C” and “D”. No 
+letter required for normal rotation (no rotation) position.
+10
+100°
+86°
+72°
+128°
+114°
+12
+100°
+80°
+68°
+132°
+120°
+14
+100°
+79°
+66°
+134°
+121°
+16
+100°
+82°
+70°
+130°
+118°
+A plug with a given rotation letter will mate with a receptacle with the same rotation letter. 
+The AB angle for a given connec tor is the same whether it contains pins or sockets. Only 
+the master key/keyway rotates in the shell, and the minor keys are fixed.
+18
+100°
+82°
+70°
+130°
+118°
+20
+100°
+82°
+70°
+130°
+118°
+22
+100°
+85°
+74°
+126°
+115°
+AB angles shown are viewed from the front face of the connec tor, a receptacle is shown 
+below. The angles for the plug are exactly the same except the direction of rotation is 
+opposite of that shown for the receptacle.
+24
+100°
+85°
+74°
+126°
+115°
+The “N” designation is not referenced in part number, it is omitted.
+22
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999/27599, Series II JT
+How to Order (Commercial)
+1.
+2.
+3.
+4.
+5.
+6.
+Type & Style
+Service Class
+Shell Size-Insert 
+Arrg.
+Contact Style 
+Alternate Keying 
+Position
+Finish Variation Suffix
+JT00
+Y
+9-35
+P
+A
+(SR)
+4. CONTACTS
+3. SHELL SIZE & INSERT ARRANGEMENTS
+2. HERMETIC SERVICE CLASS
+P
+Pin Contacts - Solder
+Y
+Hermetic with interfacial seal
+See table on page 5-6. First number represents Shell 
+Size, second number is the Insert Arrangement. 
+H
+Hermetic applications- Fused 
+compression glass sealed 
+inserts. Leakage rate less than 
+.01 micron cu. ft./hr. (1 x 10-7 
+cc/sec.) at 15 psi differential.
+JT Key/Keyway Rotation
+AB ANGLE OF ROTATION (Degrees)
+NORMAL
+5. ALTERNATE KEYING POSITION
+B
+A
+D
+C
+Shell Size
+Normal
+A
+B
+C
+D
+ROTATION
+LETTERS
+AB
+8
+100°
+82°
+-
+-
+118°
+“A” designates Alternate keying connector assembly. 
+Other basic alternate keys are “B”, “C” and “D”. No 
+letter required for normal rotation (no rotation) position.
+10
+100°
+86°
+72°
+128°
+114°
+12
+100°
+80°
+68°
+132°
+120°
+10˚ JT REF
+14
+100°
+79°
+66°
+134°
+121°
+16
+100°
+82°
+70°
+130°
+118°
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+18
+100°
+82°
+70°
+130°
+118°
+RELATIVE POSSIBLE POSITION
+OF ROTATED MASTER KEYWAY
+ (front face of receptacle shown)
+20
+100°
+82°
+70°
+130°
+118°
+A plug with a given rotation letter will mate with a 
+receptacle with the same rotation letter. The AB angle for 
+a given connec tor is the same whether it contains pins 
+or sockets. Only the master key/keyway rotates in the 
+shell, and the minor keys are fixed.
+22
+100°
+85°
+74°
+126°
+115°
+Series II JT
+24
+100°
+85°
+74°
+126°
+115°
+AB angles shown are viewed from the front face of the 
+connec tor, a receptacle is shown below. The angles for 
+the plug are exactly the same except the direction of 
+rotation is opposite of that shown for the receptacle.
+The “N” designation is not referenced in part number, it 
+is omitted.
+6. HERMETIC FINISHES
+Finish
+Finish Suffix
+(468)
+Carbon steel shell tin 
+plated & contacts
+(162)
+Stainless steel shell 
+passivated
+( )
+Stainless steel nickel 
+plated
+23
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Wall Mounting Receptacle -Hermetic
+Military (MS27475 & MS27482), Commercial (JT00 & JTS00)
++.016
+–.005
+.375
++.016
+–.005
+.375
+PART NUMBER BUILDER Page 22-23
+S
+±.005
+.317
+.308 
+S
+R (TP)
+±.005
+.317
+.308 MAX
+R (TP)
+MILITARY
+MS27475Y 
+MS27482Y
+COMMERCIAL  
+JT00H, JT00Y 
+JTS00Y
+R
+(TP)
+S
+R
+(TP)
+S
+V
+V
+T
+ 
+ 
+.005 DIA M
+L
+(4 HOLES)
+T
+L
+(4 HOLES)
+N 
+COMMERCIAL  
+MILITARY
+L 
+T 
+V Thread Class 
+Shell 
+Size
+Max.
++.001 
+–.005
+R (TP)
+S ±.016
+ ±.005
+2A
+8
+.234
+  .473
+  .594
+  .812
+.120
+  .5625-24UNEF
+* JT00H-XX-XXX 
+** JT00Y-XX-XXX  
+MS27475YXXDXXX 
+*** JTS00Y-XX-XXX  
+MS27482YXXEXXX
+10
+.234
+  .590
+  .719
+  .938
+.120
+  .6875-24UNEF
+12
+.234
+  .750
+  .812
+1.031
+.120
+  .8125-20UNEF
+14
+.234
+  .875
+  .906
+1.125
+.120
+  .9375-20UNEF
+16
+.234
+1.000
+  .969
+1.219
+.120
+1.0625-18UNEF
+18
+.234
+1.125
+1.062
+1.312
+.120
+1.1875-18UNEF
+ 
+* 
+Standard Junior Tri-Lock 
+ 
+** 
+Interfacial seal wafer 
+20
+.234
+1.250
+1.156
+1.438
+.120
+1.3125-18UNEF
+ 
+*** 
+High temperature version, interfacial seal   
+ 
+ 
+wafer with stainless steel shell
+22
+.234
+1.375
+1.250
+1.562
+.120
+1.4375-18UNEF
+24
+.313
+1.500
+1.375
+1.688
+.147
+1.5625-18UNEF
+Box Mounting Receptacle - Hermetic
+Military (MS27476), Commercial (JT02 & JTS02) 
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+S
+S
+PART NUMBER BUILDER Page 22-23
+R (TP)
+R (TP)
++.016
+–.005
+.375
+L
++.016
+–.005
+.375
+L
+MILITARY
+MS27476Y
+COMMERCIAL 
+JT02H, JT02Y 
+JTS02Y
+N
+N
+KK
+KK
+R
+(TP)
+S
+R
+(TP)
+S
+ 
+ 
+.005 DIA M
+T
+T
+(4 HOLES)
+(4 HOLES)
+.317
+±.005
+.308 MAX
+.317
+±.005
+.308 MA
+L 
+N 
+KK 
+T 
+Shell 
+Size
++.006 
+–.015
++.001 
+–.005
+R (TP)
+S ±.016
+ ±.005
++.001 
+–.005
+8
+.051
+  .473
+  .594
+  .812
+.120
+  .562
+COMMERCIAL 
+MILITARY
+10
+.051
+  .590
+  .719
+  .938
+.120
+  .672
+*JT02H-XX-XXX 
+** JT02Y-XX-XXX  
+MS27476YXXDXXX 
+12
+.051
+  .750
+  .812
+1.031
+.120
+  .781
+*** JTS02Y-XX-XXX  
+MS27476YXXEXXX
+14
+.051
+  .875
+  .906
+1.125
+.120
+  .906
+16
+.051
+1.000
+  .969
+1.219
+.120
+1.031
+ 
+* 
+Standard Junior Tri-Lock 
+18
+.051
+1.125
+1.062
+1.312
+.120
+1.156
+ 
+** 
+Interfacial seal wafer 
+ 
+*** 
+High temperature version, interfacial seal 
+20
+.051
+1.250
+1.156
+1.438
+.120
+1.250
+ 
+ 
+wafer with stainless steel shell
+22
+.080
+1.375
+1.250
+1.562
+.120
+1.375
+24
+.080
+1.500
+1.375
+1.688
+.147
+1.500
+All dimensions for reference only.
+24
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Jam Nut Receptacle - Hermetic
+Military (MS27477 & MS27483), Commercial (JT07 & JTS07)
+C
+M
+Z
+C
+M
+Z
+ S (2 PLACES)
+ S (2 PLACES)
+PART NUMBER BUILDER Page 22-23
+H
+.062 MIN.**
+.109 MAX
+H
+.062 MIN.**
+.109 MAX
+O  RIN
+O  RING
+MILITARY
+MS27477Y 
+MS27483Y
+COMMERCIAL  
+JT07H, JT07Y 
+JTS07Y
+A
+N
+A
+N
+RR
+RR
+T
+T
+COMMERCIAL 
+MILITARY
+* JT07H-XX-XXX 
+*** JT07Y-XX-XX   
+MS27477YXXDXXX 
+*  Standard Junior Tri-Lock 
+H��.059 Dia. Min. 3 lockwire holes. Formed lockwire hole design (6 holes) is optional. 
++  “D” shaped mounting hole dimensions. 
+**  Panel Thickness 
+***  Interfacial seal wafer 
+**** High temperature version, interfacial seal wafer with stainless steel shell
+****JTS07Y-XX-XXX  
+MS27483YXXEXXX
+A+ 
+H 
+N 
+T+ 
+C 
+M 
+S 
+Shell 
+Size
++.000 
+–.010
+Max.
++.017 
+–.016
+±.005
++.001 
+–.005
+±.016
++.010 
+–.000
+Z Max.
+RR Thread 
+Class 2A
+  8
+  .830
+1.390
+1.062
+.438
+  .473
+1.250
+  .884
+.244
+  .8750-20UNEF
+10
+  .955
+1.515
+1.188
+.438
+  .590
+1.375
+1.007
+.244
+1.0000-20UNEF
+12
+1.084
+1.640
+1.312
+.438
+  .750
+1.500
+1.134
+.244
+1.1250-18UNEF
+14
+1.208
+1.765
+1.438
+.438
+  .875
+1.625
+1.259
+.244
+1.2500-18UNEF
+16
+1.333
+1.953
+1.562
+.438
+1.000
+1.781
+1.384
+.244
+1.3750-18UNEF
+18
+1.459
+2.031
+1.688
+.438
+1.125
+1.890
+1.507
+.244
+1.5000-18UNEF
+20
+1.576
+2.156
+1.812
+.464
+1.250
+2.016
+1.634
+.218
+1.6250-18UNEF
+22
+1.701
+2.280
+2.000
+.464
+1.375
+2.140
+1.759
+.218
+1.7500-18UNS
+24
+1.826
+2.405
+2.125
+.464
+1.500
+2.265
+1.884
+.218
+1.8750-16UN
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Solder Mounting Receptacle - Hermetic 
+Military (MS27478 & MS27503), Commercial (JTI & JTSI) 
+COMMERCIAL  
+MILITARY 
+ 
+ 
+PART NUMBER BUILDER Page 22-23
+* JTIH-XX-XXX 
+** JTIY-XX-XX   
+MS27478YXXDXXX 
+*** JTSIY-XX-XXX  
+MS27503YXXEXXX
+MILITARY
+MS27478Y 
+MS27503Y
+COMMERCIAL  
+JTIH, JTIY 
+JTSIY
++.011
+–.010
+GG
+.348
+L
+L 
+N 
+GG 
+KK 
+Shell 
+Size
++.011 
+–.010
++.001 
+–.005
++.011 
+–.010
++.001 
+–.005
+8
+.078
+  .473
+  .687
+  .562
+KK
+N
+10
+.078
+  .590
+  .797
+  .672
+12
+.078
+  .750
+  .906
+  .781
+14
+.078
+  .875
+1.031
+  .906
+±.005
+.317
+.340 MAX
+16
+.078
+1.000
+1.156
+1.031
+18
+.078
+1.125
+1.281
+1.156
+20
+.078
+1.250
+1.375
+1.250
+22
+.107
+1.375
+1.500
+1.375
+* Standard Junior Tri-Lock 
+** Interfacial seal wafer 
+*** High temperature version,  
+ 
+interfacial seal wafer with stainless steel shell
+All dimensions for reference 
+only. Weld mounting hermetic 
+receptacle also available.  
+Consult Amphenol Aerospace 
+for availability and dimensions.
+24
+.107
+1.500
+1.625
+1.500
+25
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Wall Mounting Receptacle Hermetic
+Commercial (JT00)
++.016
+–.005
+.375
+S
+±.005
+.317
+PCB TAIL 
+STICKOUT
+R (TP)
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+R
+(TP) S
+V
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+T
+L
+(4 HOLES)
+1.
+2.
+3.
+4.
+5.
+6.
+Base 
+Contact Type/
+Tail 
+Number
+Insert 
+Arrg.
+Alt. Keying 
+Shell 
+Finish
+Length
+Coded 
+Shell 
+Size
+Position
+PART #
+See chart below
+10-626
+431
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+10-626
+Base Number for MIL-DTL-38999 Series II 
+Hermetic with PCB Tail
+See chart below 431-439, designates size 9-25 shell 
+size. Example: 431 = Size 9 Shell
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Insert Arrangement Number. Refer to insert 
+availability chart on page 5-6.
+P
+Designates Pin Contacts in Normal Position. Refer 
+to page 22 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+ 
+ 
+.005 DIA M
+N 
+L 
+S 
+T 
+ 
+Max.
++.001 
+–.005
+R (TP)
+±.016
+±.005
+V Thread  
+Class 2A
+Shell 
+Size
+Part Number
+8
+10-626431-XXX
+.234
+  .473
+  .594
+  .812
+.120
+  .5625-24UNEF
+10
+432-XXX
+.234
+  .590
+  .719
+  .938
+.120
+  .6875-24UNEF
+12
+433-XXX
+.234
+  .750
+  .812
+1.031
+.120
+  .8125-20UNEF
+14
+434-XXX
+.234
+  .875
+  .906
+1.125
+.120
+  .9375-20UNEF
+16
+435-XXX
+.234
+1.000
+  .969
+1.219
+.120
+1.0625-18UNEF
+18
+436-XXX
+.234
+1.125
+1.062
+1.312
+.120
+1.1875-18UNEF
+20
+437-XXX
+.234
+1.250
+1.156
+1.438
+.120
+1.3125-18UNEF
+22
+438-XXX
+.234
+1.375
+1.250
+1.562
+.120
+1.4375-18UNEF
+24
+439-XXX
+.313
+1.500
+1.375
+1.688
+.147
+1.5625-18UNEF
+26
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Box Mounting Receptacle Hermetic
+Commercial JT02
+S
+PCB TAIL 
+STICKOUT
+R (TP)
++.016
+–.005
+.375
+L
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+N
+R
+(TP)
+S
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+T
+(4 HOLES)
+.317
+±.005
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type/
+Base 
+Coded 
+Alt. Keying 
+Tail 
+Number
+Shell Size
+Insert 
+Arrg.
+Position
+Shell 
+Finish
+Length
+PART #
+See chart below
+10-626
+461
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+10-626
+Base Number for MIL-DTL-38999 Series II 
+Hermetic with PCB Tail
+See chart below 461-469, designates size 9-25 shell 
+size. Example: 461 = Size 9 Shell
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Insert Arrangement Number. Refer to insert 
+availability chart on page 5-6.
+P
+Designates Pin Contacts in Normal Position. Refer 
+to page 22 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+ 
+ 
+.005 DIA M
+L 
+N 
+KK 
+S 
+T 
+Shell 
+Size
+Part Number
++.006 
+–.015
++.001 
+–.005
+R (TP)
+±.016
+ ±.005
++.001 
+–.005
+8
+10-626461-XXX
+.051
+  .473
+  .594
+  .812
+.120
+  .562
+10
+462-XXX
+.051
+  .590
+  .719
+  .938
+.120
+  .672
+12
+463-XXX
+.051
+  .750
+  .812
+1.031
+.120
+  .781
+14
+464-XXX
+.051
+  .875
+  .906
+1.125
+.120
+  .906
+16
+465-XXX
+.051
+1.000
+  .969
+1.219
+.120
+1.031
+18
+466-XXX
+.051
+1.125
+1.062
+1.312
+.120
+1.156
+20
+467-XXX
+.051
+1.250
+1.156
+1.438
+.120
+1.250
+22
+468-XXX
+.080
+1.375
+1.250
+1.562
+.120
+1.375
+24
+469-XXX
+.080
+1.500
+1.375
+1.688
+.147
+1.500
+All dimensions for reference only.
+27
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Jam Nut Receptacle Hermetic
+Commercial (JT07)
+C
+ S (2 PLACES)
+M
+.062 MIN.**
+.109 MAX
+H
+O  RING
+PCB TAIL 
+LENGTH
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+A
+N
+Size 22 DIA .030 ±.0005
+        20 DIA .040 ±.001
+        16 DIA .0625 ±.001
+RR
+T
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type/
+Base 
+Coded 
+Alt. Keying 
+Tail 
+Number
+Shell Size
+Insert 
+Arrg.
+Position
+Shell 
+Finish
+Length
+PART #
+See chart below
+10-626
+441
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+10-626
+Base Number for MIL-DTL-38999 Series II 
+Hermetic with PCB Tail
+See chart below 441-449, designates size 9-25 shell 
+size. Example: 441 = Size 9 Shell
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+-35
+Designates Insert Arrangement Number. Refer 
+to insert availability chart on page 5-6.
+P
+Designates Pin Contacts in Normal Position. Refer 
+to page 22 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+A+ 
+H 
+T+ 
+H .059 Dia. Min. 3   
+ 
+lockwire 
+C 
+M 
+N +.001 
+S 
+ 
+holes. Formed  
+ 
+Shell 
+Size
+Part Number
++.000 
+–.010
+Max.
++.017 
+–.016
+±.005
+–.005
+±.016
++.010 
+–.000
+RR Thread 
+Class 2A
+ 
+lockwire  
+ 
+  8
+10-626441-XXX
+  .830
+1.390
+1.062
+.438
+  .473
+1.250
+  .884
+  .8750-20UNEF
+ 
+hole design (6 holes)  
+ 
+is optional. 
+10
+442-XXX
+  .955
+1.515
+1.188
+.438
+  .590
+1.375
+1.007
+1.0000-20UNEF
+12
+443-XXX
+1.084
+1.640
+1.312
+.438
+  .750
+1.500
+1.134
+1.1250-18UNEF
++ “D” shaped mounting  
+ 
+hole dimensions. 
+14
+444-XXX
+1.208
+1.765
+1.438
+.438
+  .875
+1.625
+1.259
+1.2500-18UNEF
+** Panel Thickness
+16
+445-XXX
+1.333
+1.953
+1.562
+.438
+1.000
+1.781
+1.384
+1.3750-18UNEF
+18
+446-XXX
+1.459
+2.031
+1.688
+.438
+1.125
+1.890
+1.507
+1.5000-18UNEF
+20
+447-XXX
+1.576
+2.156
+1.812
+.464
+1.250
+2.016
+1.634
+1.6250-18UNEF
+22
+448-XXX
+1.701
+2.280
+2.000
+.464
+1.375
+2.140
+1.759
+1.7500-18UNS
+24
+449-XXX
+1.826
+2.405
+2.125
+.464
+1.500
+2.265
+1.884
+1.8750-16UN
+All dimensions for reference only.
+28
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Solder Mounting Receptacle Hermetic
+Commercial (JTI)
+GG
+.348
++.011
+–.010
+L
+PC TAIL
+LENGTH
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+N
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+.317
+±.005
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type/
+Base 
+Coded 
+Alt. Keying 
+Tail 
+Number
+Shell Size
+Insert 
+Arrg.
+Position
+Shell 
+Finish
+Length
+PART #
+See chart below
+10-626
+451
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+10-626
+Base Number for MIL-DTL-38999 Series II 
+Hermetic with PCB Tail
+See chart below 451-459, designates size 9-25 shell 
+size. Example: 451 = Size 9 Shell
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+-35
+Insert Arrangement Number. Refer to insert 
+availability chart on page 5-6.
+P
+Designates Pin Contacts in Normal Position. Refer 
+to page 22 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+L 
+N 
+GG 
+KK 
+Shell 
+Size
+Part Number
++.011 
+–.010
++.001 
+–.005
++.011 
+–.010
++.001 
+–.005
+All dimensions for reference only. 
+Weld mounting hermetic receptacle also available.  
+Consult Amphenol Aerospace for availability and  
+dimensions.
+8
+10-626451-XXX
+.078
+  .473
+  .687
+  .562
+10
+452-XXX
+.078
+  .590
+  .797
+  .672
+12
+453-XXX
+.078
+  .750
+  .906
+  .781
+14
+454-XXX
+.078
+  .875
+1.031
+  .906
+16
+455-XXX
+.078
+1.000
+1.156
+1.031
+18
+456-XXX
+.078
+1.125
+1.281
+1.156
+20
+457-XXX
+.078
+1.250
+1.375
+1.250
+22
+458-XXX
+.107
+1.375
+1.500
+1.375
+24
+459-XXX
+.107
+1.500
+1.625
+1.500
+29
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Series I
+MIL-DTL-38999
+FEATURES:
+• Lightweight, Space  
+ 
+Amphenol® LJT Series subminiature cylindrical connectors are qualified to  
+MIL-DTL-38999 Series I. These con nectors were developed to meet the needs of the 
+aerospace industry, and provided the impetus for development of the MIL-C-38999 
+specifications, which has been superseded by MIL-DTL-38999. 
+ 
+Saving Design
+• Contact Protection  
+ 
+100% scoop-proof LJT  
+ 
+ 
+design prevents bent pins   
+ 
+and short circuits  
+ 
+dur ing mating
+• Quick Positive Coupling   
+ 
+3 point bayonet lock system
+• Mismating Eliminated  
+ 
+ 
+With 5 key/keyway design
+• Error Proof Alternate  
+ 
+ 
+Positioning  
+ 
+insured by different key/  
+ 
+ 
+keyway locations
+• Fixed Solder Contacts  
+ 
+ 
+Amphenol MIL-DTL-38999   
+ 
+Series I LJT are available in   
+ 
+solder versions as both  
+ 
+ 
+Commercial and Military  
+ 
+qualified to MIL-DTL-27599  
+• Hermetic  
+ 
+Air leakage limited  
+ 
+ 
+to 1 X 10-7 cm3 per second 
+• Inventory Support  
+ 
+Commonality  
+ 
+Uses stan dard  
+ 
+MIL-DTL-38999  
+ 
+contacts, insert  
+ 
+arrangements and  
+ 
+application tools.
+• RoHS Compliant Product  
+ 
+Available 
+ 
+Consult Amphenol  
+ 
+ 
+Aerospace Operations.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+30
+
+Military to Commercial Shell Style Conversion Table  
+How to Order (Military)
+MILITARY
+DESCRIPTION
+COMMERCIAL
+MS27469
+Hermetic Wall Mounting Receptacle
+LJT00, LJTS00
+MS27470
+Hermetic Jam Nut Receptacle
+LJT07, LJTS07
+MS27471
+Hermetic Solder Mounting Receptacle
+LJTIH, LJTIY, LJTSIY
+HOW TO ORDER - Military Series I
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+MS Number
+Service Class
+Shell Size
+Finishes
+Insert  
+Contact Style 
+Alternate Keying 
+Arrangement
+Position
+MS27469
+Y
+14
+N
+18
+P
+A
+1. MS NUMBER SERIES I LJT
+3. SHELL SIZE
+2. HERMETIC SERVICE CLASS
+See table on page 5-6
+MS27469
+Hermetic Wall Mounting Receptacle 
+Y
+Hermetic with interfacial seal
+MS27470
+Hermetic Jam Nut Receptacle
+MS27471
+Hermetic Solder Mounting 
+Receptacle
+Shell Size & Insert Arrangement 
+are on pages 5-6. First number 
+represents Shell Size, second 
+number is the Insert Arrangement. 
+Place Shell Size in box 3 and Insert 
+Arrangement in box 5.
+5. INSERT ARRANGEMENT
+4. HERMETIC FINISHES
+6. CONTACTS
+Finish
+Military  
+See table on page 5-6
+Finish Data
+P
+Pin Contacts-
+Solder
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+D
+Carbon steel shell tin plated & 
+contacts
+X
+Pin Contacts - 
+Eyelet
+Stainless steel shell passivated
+E
+Stainless steel nickel plated
+N
+NORMAL
+B
+A
+D
+C
+ROTATION
+LETTERS
+AB
+7. ALTERNATE KEYING POSITION
+LJT Key/Keyway Rotation
+5° LJT REF
+AB ANGLE OF ROTATION (Degrees)
+“A” designates Alternate keying connector 
+assembly. Other basic alternate keys are “B”, “C” 
+and “D”. No letter required for normal rotation (no 
+rotation) position.
+Shell Size
+Normal
+A
+B
+C
+D
+9
+95°
+77°
+-
+-
+113°
+11
+95°
+81°
+67°
+123°
+109°
+13
+95°
+75°
+63°
+127°
+115°
+15
+95°
+74°
+61°
+129°
+116°
+17
+95°
+77°
+65°
+125°
+113°
+19
+95°
+77°
+65°
+125°
+113°
+RELATIVE POSSIBLE POSITION
+OF ROTATED MASTER KEYWAY
+ (front face of receptacle shown)
+A plug with a given rotation letter will mate with a 
+receptacle with the same rotation letter. The AB angle 
+for a given connec tor is the same whether it contains 
+pins or sockets. Only the master key/keyway rotates 
+in the shell, and the minor keys are fixed. AB angles 
+shown are viewed from the front face of the connec tor, 
+a receptacle is shown below. The angles for the plug 
+are exactly the same except the direction of rotation is 
+opposite of that shown for the receptacle.
+21
+95°
+77°
+65°
+125°
+113°
+23
+95°
+80°
+69°
+121°
+110°
+25
+95°
+80°
+69°
+121°
+110°
+The “N” designation is not referenced in part number, 
+it is omitted.
+31
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999/ 27599, Series I LJT 
+How to Order (Commercial)
+1.
+2.
+3.
+4.
+5.
+6.
+Table & Style
+Service Class
+Shell Size 
+Contact Style 
+Alternate Keying 
+Finish Variation Suffix**
+-Insert Arrg.
+Position
+LJT00
+Y
+9-35
+P
+B
+(162)
+** If Required
+1. SERIES AND STYLE
+Long Junior  
+High  
+Chemical and Fuel 
+Tri-Lock
+Temperature
+Resistant
+Wall Mounting Receptacle
+LJT00
+LJTS00
+LJTN00
+Jam Nut Receptacle
+LJT07
+LJTS07
+LJTN07
+Hermetic
+Solder Mounting Receptacle
+LJTI
+LJTSI
+LJTNI
+2. SERVICE CLASS HERMETIC
+3. SHELL SIZE & INSERT ARRANGEMENTS
+4. CONTACTS
+See table on page 5-6
+Y
+Same as “H” with interfacial seal.
+P
+Pin Contacts - 
+Solder
+First number represents Shell Size,  
+second number is the Insert Arrangement. 
+H
+Hermetic applications- Fused 
+compression glass sealed inserts. 
+Leakage rate less than .01 micron 
+cu. ft./hr. (1 x 10-7 cc/sec.) at 15 
+psi differential.
+5. ALTERNATE KEYING POSITION
+“A” designates Alternate keying connector assembly. 
+Other basic alternate keys are “B”, “C” and “D”. No 
+letter required for normal rotation (no rotation) position.
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+6. Hermetic FINISHES
+A plug with a given rotation letter will mate with a receptacle with 
+the same rotation letter. The AB angle for a given connec tor is the 
+same whether it contains pins or sockets. Only the master key/
+keyway rotates in the shell, and the minor keys are fixed.
+Finish
+Finish Suffix
+(468)
+AB angles shown are viewed from the front face of the connec tor, 
+a receptacle is shown below. The angles for the plug are exactly 
+the same except the direction of rotation is opposite of that shown 
+for the receptacle.
+Carbon steel shell tin 
+plated & contacts
+(162)
+Stainless steel shell 
+passivated
+The “N” designation is not referenced in part number, it is omitted.
+( )
+Stainless steel nickel 
+plated
+LJT Key/Keyway Rotation
+AB ANGLE OF ROTATION (Degrees)
+Shell Size
+Normal
+A
+B
+C
+D
+NORMAL
+9
+95°
+77°
+-
+-
+113°
+B
+A
+D
+C
+11
+95°
+81°
+67°
+123°
+109°
+ROTATION
+LETTERS
+AB
+13
+95°
+75°
+63°
+127°
+115°
+15
+95°
+74°
+61°
+129°
+116°
+17
+95°
+77°
+65°
+125°
+113°
+19
+95°
+77°
+65°
+125°
+113°
+5° LJT REF
+21
+95°
+77°
+65°
+125°
+113°
+23
+95°
+80°
+69°
+121°
+110°
+RELATIVE POSSIBLE POSITION
+OF ROTATED MASTER KEYWAY
+ (front face of receptacle shown)
+25
+95°
+80°
+69°
+121°
+110°
+32
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Wall Mounting Receptacle - Hermetic
+Military (MS27469), Commercial (LJT00)
+PART NUMBER BUILDER Page 31-32
+MILITARY
+MS27469Y
+COMMERCIAL  
+LJT00H, LJT00Y 
+LJTS00Y
+1.047±.005
+±.005
+S
+.741
++.010
+–.000
+±.025
+.659
+.258
+R
+(TP)
+N
+S
+R
+(TP)
+RR
+T          
+(4 HOLES)
+COMMERCIAL   
+MILITARY
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+* LJT00H-XX-XXX 
+** LJT00Y-XX-XXX  
+MS27469YXXD 
+*** LJTS00Y-XX-XXX  
+MS27469YXXE
+ 
+ 
+.005 DIA M
+ 
+* 
+Long Junior Tri-Lock 
+ 
+** 
+Interfacial seal wafer 
+ 
+*** 
+High temperature version, interfacial seal wafer with stainless steel shell
+N Dia. +.001 
+S 
+Shell 
+Size
+–.005
+R (TP)
+±.016
+T Dia. 
+±.005
+RR Thread  
+Class 2A
+  9
+  .572
+  .719
+  .938
+.128
+  .6875-24 UNEF
+11
+  .700
+  .812
+1.031
+.128
+  .8125-20 UNEF
+13
+  .850
+  .906
+1.125
+.128
+  .9375-20 UNEF
+15
+  .975
+  .969
+1.219
+.128
+1.0625-18 UNEF
+17
+1.100
+1.062
+1.312
+.128
+1.1875-18 UNEF
+19
+1.207
+1.156
+1.438
+.128
+1.3125-18 UNEF
+21
+1.332
+1.250
+1.562
+.128
+1.4375-18 UNEF
+23
+1.457
+1.375
+1.688
+.147
+1.5625-18 UNEF
+25
+1.582
+1.500
+1.812
+.147
+1.6875-18 UNEF
+All dimensions for reference only.
+33
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Jam Nut Receptacle - Hermetic
+Military (MS27470) Commercial (LJT07 & LJTS07) 
+PART NUMBER BUILDER Page 31-32
+MILITARY
+MS27470Y
+COMMERCIAL  
+LJT07H, LJT07Y 
+LJTS07Y
+L
+C
+L
+±.025
+C
+.084
+±.025
+.084
+N
+A
+KK
+N
+A
+KK
+RR
+RR
+T
+.062 MIN.
+.125 MAX.
+±.005
+T
+.915
+PANEL THICKNESS
+.062 MIN.
+.125 MAX.
+±.005
+H
+.915
+PANEL THICKNESS
+H
+S
+S
+COMMERCIAL   
+MILITARY 
+ 
+ 
+* LJT07H-XX-XXX 
+** LJT07Y-XX-XXX  
+MS27470YXXD 
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+*** LJTS07Y-XX-XXX  
+MS27470YXXE
+ 
+H 
+.059 Dia. Min. 3 lockwire holes. 
+ 
+ 
+Formed lockwire hole design  
+ 
+ 
+(6 holes) is optional. 
+ 
++ 
+“D” shaped mounting hole dimensions. 
+ 
+* 
+*Long Junior Tri-Lock 
+ 
+** 
+Interfacial seal wafer 
+ 
+*** 
+High temperature version, interfacial seal wafer with stainless steel shell
+A+ 
+N 
+T+ 
+KK 
+S 
+RR Thread 
+Shell 
+Size
++.000 
+–.010
+C Max.
+H Hex 
++.017 
+–.016
+L Max.
++.000 
+–.005
+±.016
++.010 
+–.000
++.011 
+–.000
+Class 2A (Plated)
+  9
+  .669
+1.199
+  .875
+.297
+  .572
+1.062
+  .697
+  .642
+  .6875-24 UNEF
+11
+  .769
+1.386
+1.000
+.297
+  .700
+1.250
+  .822
+  .766
+  .8125-20 UNEF
+13
+  .955
+1.511
+1.188
+.297
+  .850
+1.375
+1.007
+  .892
+1.0000-20 UNEF
+15
+1.084
+1.636
+1.312
+.297
+  .975
+1.500
+1.134
+1.018
+1.1250-18 UNEF
+17
+1.208
+1.761
+1.438
+.297
+1.100
+1.625
+1.259
+1.142
+1.2500-18 UNEF
+19
+1.333
+1.949
+1.562
+.328
+1.207
+1.812
+1.384
+1.268
+1.3750-18 UNEF
+21
+1.459
+2.073
+1.688
+.328
+1.332
+1.938
+1.507
+1.392
+1.5000-18 UNEF
+23
+1.580
+2.199
+1.812
+.328
+1.457
+2.062
+1.634
+1.518
+1.6250-18 UNEF
+25
+1.709
+2.328
+2.000
+.328
+1.582
+2.188
+1.759
+1.642
+1.7500-18 UNS
+All dimensions for reference only.
+34
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Solder Mounting Receptacle - Hermetic
+Military (MS27471), Commercial (LJTI & LJTSI)
+PART NUMBER BUILDER Page 31-32
+COMMERCIAL 
+MILITARY
+MS27471Y
+LJTIH, LJTIY 
+LJTSIY
+L
+L
+M
+M
++.006
+–.005
++.006
+–.005
+.031
+.031
+.304
++.030
+–.040
+.304
++.030
+–.040
+KK
+N
+KK
+N
+SS
+SS
+GG
+GG
+COMMERCIAL  
+MILITARY 
+ 
+* LJTIH-XX-XXX 
+** LJTIY-XX-XXX  
+MS27471YXXD 
+*** LJTSIY-XX-XXX  
+MS27471YXXE
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+ 
+* 
+Long Junior Tri-Lock 
+ 
+** 
+Interfacial seal wafer 
+ 
+*** 
+High temperature version, interfacial seal wafer with stainless steel shell
+M  
+GG Dia. 
+SS Dia. 
+Shell 
+Size
+N Dia. 
++.001 
+–.005
++.000 –.016
+L +.011 
+–.000
++.006 
+–.005
++.011 
+–.010
+KK Dia. 
++.001 
+–.005
+9
+  .572
+  .662
+.789
+.125
+  .750
+  .672
+11
+  .700
+  .810
+.789
+.125
+  .844
+  .781
+13
+  .850
+  .960
+.789
+.125
+  .969
+  .906
+15
+  .975
+1.085
+.789
+.125
+1.094
+1.031
+17
+1.100
+1.210
+.789
+.125
+1.218
+1.156
+19
+1.207
+1.317
+.789
+.125
+1.312
+1.250
+21
+1.332
+1.442
+.789
+.125
+1.438
+1.375
+23
+1.457
+1.567
+.821
+.156
+1.563
+1.500
+25
+1.582
+1.692
+.821
+.156
+1.688
+1.625
+All dimensions for reference only. Weld mounting hermetic receptacle also available.  
+Consult Amphenol Aerospace for availability and dimensions.
+35
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Wall Mounting Receptacle
+Commercial (LJT00) 
+1.047±.005
+±.005
+S
+.741
++.010
+–.000
+.659
+PCB TAIL 
+STICKOUT
+R
+(TP)
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+N
+S
+R
+(TP)
+RR
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+T          
+(4 HOLES)
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type/
+Base 
+Coded 
+Alt. Keying 
+Tail 
+Number
+Shell Size
+Insert 
+Arrg.
+Position
+Shell 
+Finish
+Length
+PART #
+See chart below
+10-626
+401
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+See chart below 401-409, designates size 9-25 shell 
+size. Example: 401 = Size 9 Shell
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Designates Insert Arrangement Number. Refer 
+to insert availability chart on page 5-6.
+P
+Designates Pin Contacts in Normal Position. Refer 
+to page 31 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+All dimensions for reference only.
+ 
++ .005 DIA  M
+Shell Size
+Part Number
+N Dia. 
++.001 
+–.005
+R 
+TP)
+S ±.016
+T Dia. 
+±.005
+RR Thread  
+Class 2A
+  9
+10-626401-XXX
+  .572
+  .719
+  .938
+.128
+  .6875-24 UNEF
+11
+402-XXX
+  .700
+  .812
+1.031
+.128
+  .8125-20 UNEF
+13
+403-XXX
+  .850
+  .906
+1.125
+.128
+  .9375-20 UNEF
+15
+404-XXX
+  .975
+  .969
+1.219
+.128
+1.0625-18 UNEF
+17
+405-XXX
+1.100
+1.062
+1.312
+.128
+1.1875-18 UNEF
+19
+406-XXX
+1.207
+1.156
+1.438
+.128
+1.3125-18 UNEF
+21
+407-XXX
+1.332
+1.250
+1.562
+.128
+1.4375-18 UNEF
+23
+408-XXX
+1.457
+1.375
+1.688
+.147
+1.5625-18 UNEF
+25
+409-XXX
+1.582
+1.500
+1.812
+.147
+1.6875-18 UNEF
+36
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Jam Nut Receptacle
+ 
+L
+C
+PCB TAIL 
+LENGTH
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+N
+A
+RR
+ 
+Size 22 DIA .030±.0005
+         20 DIA .040±.001
+         16 DIA .0625±.001
+T
+.062 MIN.
+.125 MAX.
+±.005
+.915
+PANEL THICKNESS
+H
+S
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type/
+Base 
+Coded 
+Alt. Keying 
+Tail 
+Number
+Shell Size
+Insert 
+Arrg.
+Position
+Shell 
+Finish
+Length
+PART #
+See chart below
+10-626
+411
+-35
+P
+1
+B
+HOW TO ORDER
+1. BASE NUMBER
+2. CODED SHELL SIZE
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+See chart below 411-419, designates size 9-25 shell 
+size. Example: 411 = Size 9 Shell
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Designates Insert Arrangement Number. Refer 
+to insert availability chart on page 5-6.
+P
+Designates Pin Contacts in Normal Position. Refer 
+to page 31 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+A+ 
+T+ 
+KK 
+L 
+N +.000 
+S 
+RR Thread 
+Shell 
+Size
+Part Number
++.000 
+–.010
+C Max.
+H Hex 
++.017 
+–.016
+Max.
+–.005
+±.016
++.010 
+–.000
++.011 
+–.000
+Class 2A (Plated)
+  9
+10-626411-XXX
+  .669
+1.199
+  .875
+.297
+  .572
+1.062
+  .697
+  .642
+  .6875-24 UNEF
+11
+412-XXX
+  .769
+1.386
+1.000
+.297
+  .700
+1.250
+  .822
+  .766
+  .8125-20 UNEF
+13
+413-XXX
+  .955
+1.511
+1.188
+.297
+  .850
+1.375
+1.007
+  .892
+1.0000-20 UNEF
+15
+414-XXX
+1.084
+1.636
+1.312
+.297
+  .975
+1.500
+1.134
+1.018
+1.1250-18 UNEF
+17
+415-XXX
+1.208
+1.761
+1.438
+.297
+1.100
+1.625
+1.259
+1.142
+1.2500-18 UNEF
+19
+416-XXX
+1.333
+1.949
+1.562
+.328
+1.207
+1.812
+1.384
+1.268
+1.3750-18 UNEF
+21
+417-XXX
+1.459
+2.073
+1.688
+.328
+1.332
+1.938
+1.507
+1.392
+1.5000-18 UNEF
+23
+418-XXX
+1.580
+2.199
+1.812
+.328
+1.457
+2.062
+1.634
+1.518
+1.6250-18 UNEF
+25
+419-XXX
+1.709
+2.328
+2.000
+.328
+1.582
+2.188
+1.759
+1.642
+1.7500-18 UNS
+All dimensions for reference only. 
+Weld mounting hermetic  
+receptacle also available.  
+Consult Amphenol for availability  
+and dimensions.
+All dimensions for reference only.
+37
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Solder Mounting Receptacle
+Commercial (LJTI)
+L
+M
++.006
+–.005
+PCB TAIL 
+STICKOUT
+.031
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+N
+SS
+GG
+DIA. Size 22 .030 ±.0005
+                20 .040 ±.001
+                16 .0625 ±.001
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type/
+Base 
+Coded 
+Alt. Keying 
+Tail 
+Number
+Shell Size
+Insert 
+Arrg.
+Position
+Shell 
+Finish
+Length
+PART #
+See chart below
+10-626
+421
+-35
+P
+1
+B
+HOW TO ORDER
+2. CODED SHELL SIZE
+1. BASE NUMBER
+See chart below 421-429, designates size 9-25 shell 
+size. Example: 421 = Size 9 Shell
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+3. INSERT ARRANGEMENT
+4. CONTACT TYPE/ALTERNATE KEYING
+-35
+Designates Insert Arrangement Number. Refer 
+to insert availability chart on page 5-6.
+P
+Designates Pin Contacts in Normal Position. Refer 
+to page 31 for alternate rotation letters to use.
+5. SHELL FINISH
+6. TAIL LENGTH
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+B
+.100±.03
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+D
+.200±.03
+3
+Carbon Steel w/reflowed tin plate
+F
+.300±.03
+M  
+GG Dia. 
+Shell 
+Size
+Part Number
+N Dia. 
++.001 
+–.005
+SS Dia. 
++.000 
+–.016
+L +.011 
+–.000
++.006 
+–.005
++.011 
+–.010
+KK Dia. 
++.001 
+–.005
+9
+10-626421-XXX
+  .572
+  .662
+.789
+.125
+  .750
+  .672
+11
+422-XXX
+  .700
+  .810
+.789
+.125
+  .844
+  .781
+13
+423-XXX
+  .850
+  .960
+.789
+.125
+  .969
+  .906
+15
+424-XXX
+  .975
+1.085
+.789
+.125
+1.094
+1.031
+17
+425-XXX
+1.100
+1.210
+.789
+.125
+1.218
+1.156
+19
+426-XXX
+1.207
+1.317
+.789
+.125
+1.312
+1.250
+21
+427-XXX
+1.332
+1.442
+.789
+.125
+1.438
+1.375
+23
+428-XXX
+1.457
+1.567
+.821
+.156
+1.563
+1.500
+25
+429-XXX
+1.582
+1.692
+.821
+.156
+1.688
+1.625
+All dimensions for reference only. 
+Weld mounting hermetic receptacle also available.  
+Consult Amphenol for availability and dimensions.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+38
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+SJT
+Amphenol® SJT connectors combine unique  
+design fea tures of the scoop-proof LJT series within 
+standard mount ing dimensions of JT types. Available in a 
+wide range of shell sizes, finishes, insert arrangements and 
+accessories.
+FEATURES:
+• 100% scoop-proof design  
+ 
+Basic MIL-DTL-38999  
+ 
+Series I* lengths 
+COMPONENTS:
+Serrated and threaded shells, with a moisture  
+sealing pilot for back shells, accept a wide range of  
+accessories. Hermetic seal receptacles are  
+available in carbon steel or stainless steel shells.  
+• Standard mounting  
+ 
+dimensions  
+ 
+MIL-DTL-38999,   
+ 
+ 
+Series II** dimensions 
+• Compliance with European  
+ 
+Specifications  
+ 
+PAN6433-2, LN29729,  
+ 
+ 
+VG96912
+CONTACT RATING 
+Contact 
+Test Current
+Maximum 
+Maximum 
+Size
+Millivolt 
+Millivolt Drop 
+Standard
+Hermetic
+Drop Crimp*
+Hermetic
+22M
+3
+2
+45
+60
+22D
+5
+3
+73
+85
+22
+5
+3
+73
+85
+20
+  7.5
+5
+55
+60
+16
+13
+10
+49
+85
+12
+23
+17
+42
+85
+* When using silver plated wire
+SERVICE RATING**
+Suggested Operating Voltage 
+Test Voltage 
+Test Voltage 
+Service 
+Rating
+(Sea Level)
+Test Voltage 
+(Sea Level)
+50,000 Ft.
+70,000 Ft.
+Test Voltage 
+110,000 Ft.
+AC (RMS)
+DC
+M
+400
+ 550
+1300 VRMS
+550 VRMS
+350 VRMS
+200 VRMS
+N
+300
+ 450
+1000 VRMS
+400 VRMS
+260 VRMS
+200 VRMS
+I
+600
+ 850
+1800 VRMS
+600 VRMS
+400 VRMS
+200 VRMS
+II
+900
+1250
+2300 VRMS
+800 VRMS
+500 VRMS
+200 VRMS
+** Please note that the establishment of electrical safety factors is left entirely in the designer’s hands,  
+since he is in the best possible position to know what peak voltage, switching surges, transients, etc.,  
+can be expected in a particular circuit.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+39
+
+SJT
+How to Order, Alternate Rotations 
+1.
+2.
+3.
+4.
+5.
+Connector Type SJT, Shell 
+Shell Size- 
+Contact Type
+Alternate Keying 
+ Finish  
+Style, Service Class
+Insert Arrangement.
+Position
+Variations Suffix
+SJT07Y
+12-98
+P
+A
+(XXX)
+1. CONNECTOR TYPE AND STYLE
+SJT07Y
+Jam Nut Receptacle
+SJTIY
+Solder Mounting Receptacle
+Fused compression glass sealed inserts. Leakage rate less than 
+1.0x10-6 cc/sec at 15 psi differential; with interfacial seal.
+2. SHELL SIZE & INSERT ARRANGEMENT SEE CHART BELOW
+First number represents Shell Size,  
+second number is the Insert Arrangement. 
+Contact Size
+Crimp
+Hermetics* 
+Total 
+22D
+22M
+22
+20
+16
+12
+12 
+10 
+8 
+8††† 
+Shell 
+Size
+Class Y
+Service 
+Rating
+Contacts
+(Coax)
+(Power)
+(Coax)
+(Twinax)
+12-98
+X
+X
+I
+10
+10
+14-19
+X
+X
+I
+19
+19
+14-35
+X
+X
+M
+37
+37
+14-37
+X
+X
+M
+37
+37
+16-99
+X
+X
+I
+23
+21
+2
+18-35
+X
+X
+M
+66
+66
+18-66
+X
+X
+M
+66
+66
+20-1
+X
+X
+M
+79
+79
+20-35
+X
+X
+M
+79
+79
+22-1
+X
+X
+M
+100
+100
+22-35
+X
+X
+M
+100
+100
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+3. CONTACT TYPE
+4. ALTERNATE KEYING POSITION 
+P
+Pin Contacts - 
+Solder
+5. FINISH VARIATION SUFFIX
+Finish
+Suffix
+Indicated 
+Finish 
+Standard for 
+A plug with a given rotation letter will mate with a receptacle with 
+the same rotation letter. The AB angle for a given connector is the 
+same whether it contains pins or sockets. Inserts are not rotated 
+in conjunction with the master key/keyway. AB angles shown are 
+viewed from the front face of the connector. A recep tacle is shown 
+below. The angles for the plug are exactly the same, except the 
+direction of rotation is opposite of that shown for the receptacle.
+SJT Types
+KEY/KEYWAY ROTATION 
+Hermetic Connectors
+AB ANGLE OF ROTATION (DEGREES)
+SJT( )Y
+Shell Size
+Normal
+A
+B
+C
+D
+Carbon Steel Shell, Tin Plated Shell and 
+Contacts
+ 8
+95
+Consult 
+10
+95
+81
+67
+123
+109
+Amphenol
+Stainless Steel Shell, Gold Plated 
+Contacts
+12
+95
+75
+63
+127
+115
+14
+95
+74
+61
+129
+116
+16
+95
+77
+65
+125
+113
+RELATIVE POSSIBLE 
+18
+95
+77
+65
+125
+113
+POSITION OF ROTATED 
+20
+95
+77
+65
+125
+113
+MASTER KEYWAY  
+(front face of  
+22
+95
+80
+69
+121
+110
+receptacle shown)
+24
+95
+80
+69
+121
+110
+40
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+SJTIY – Hermetic
+Solder Mounting Receptacle 
+PART NUMBER BUILDER Page 40 
+COMMERCIAL 
+SJTIY
+G 
+K 
+L 
+M 
+N 
+Shell 
+Size
++.011 
+–.000
++.006 
+–.005
+Dia. 
++.011 
+–.010
+Dia. 
++.001 
+–.005
++.001 
+–.005
+ 8
+.789
+.125
+ .687
+ .562
+ .473
+10
+.789
+.125
+ .797
+ .672
+ .590
+12
+.789
+.125
+ .906
+ .781
+ .750
+14
+.789
+.125
+1.031
+ .906
+ .875
+16
+.789
+.125
+1.156
+1.031
+1.000
+18
+.789
+.125
+1.281
+1.156
+1.125
+20
+.789
+.125
+1.375
+1.250
+1.250
+22
+.821
+.156
+1.500
+1.375
+1.375
+24
+.821
+.156
+1.625
+1.500
+1.500
+SJT07Y – Hermetic
+Jam Nut Receptacle
+PART NUMBER BUILDER Page 40 
+COMMERCIAL 
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+SJT07Y
+• “D” shaped panel cut-out dimensions
+H 
+RR 
+N 
+A• 
+KK 
+T• 
+C 
+L 
+S 
+Thread 
+Class 2A 
+Shell 
+Size
++.001 
+–.005
+Max.
++.000 
+–.010
+Max.
+Hex 
++.017 
+–.016
+±.016
++.011 
+–.000
+UNEF (Plated)
++.010 
+–.000
+ 8
+ .473
+1.078
+ .542
+.297
+ .750
+ .938
+ .642
+ .5625-24
+ .572
+10
+ .590
+1.203
+ .669
+.297
+ .875
+1.062
+ .766
+ .6875-24
+ .697
+12
+ .750
+1.391
+ .830
+.297
+1.062
+1.250
+ .892
+ .8750-20
+ .884
+14
+ .875
+1.515
+ .955
+.297
+1.188
+1.375
+1.018
+1.0000-20
+1.007
+16
+1.000
+1.641
+1.084
+.297
+1.312
+1.500
+1.142
+1.1250-18
+1.134
+18
+1.125
+1.766
+1.208
+.328
+1.438
+1.625
+1.268
+1.2500-18
+1.259
+20
+1.250
+1.953
+1.333
+.328
+1.562
+1.812
+1.392
+1.3750-18
+1.384
+22
+1.375
+2.078
+1.459
+.328
+1.688
+1.938
+1.518
+1.5000-18
+1.507
+24
+1.500
+2.203
+1.580
+.328
+1.812
+2.062
+1.642
+1.6250-18
+1.634
+All dimensions for reference only.
+41
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+HERMETIC 
+JAM NUT  
+RECEPTACLE 
+AJ7H/AS7H
+HERMETIC 
+SQUARE FLANGE 
+RECEPTACLE 
+AJ0H
+AQUACON
+FEATURES:
+•  1500 PSI Capability
+The Amphenol® Aquacon Series of connectors  
+has been designed to provide maximum service in oceanic or fluid  
+immersion applications.
+•  “O” Ring Sealing,  
+ 
+ Thread
+•  Threaded Coupling
+•  Visual Mating Indication
+Specially designed type 316 stainless steel shells resist corrosion and provide a pressure 
+withstanding connector. Positive threaded coupling. “O” rings, and a color band visual  
+indicator assure sealing and proper mating. 
+•  Design Flexibility
+Aquacon Connectors are available in two receptacle styles, with numerous  
+MIL-DTL-38999 insert patterns.
+DESIGN FEATURES  
+OF AQUACON  
+SERIES CONNECTORS
+2
+2
+ 
+2.  Hermetic inserts in MIL-DTL-38999 patterns.
+5
+ 
+3.  Visual  mating indicator
+ 
+4.  1500 PSI sealing capability assured by  
+ 
+ 
+threaded coupling and “O” ring
+ 
+5.  Pin contacts in receptacle
+4
+3
+5
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+42
+
+Aquacon Series
+Specifications, Alternate Positioning
+AQUACON CONTACT RATINGS
+Contact 
+Test Current
+Maximum Millivolt Drop
+Crimp Well Data
+Solder Well Data
+Size
+Standard
+Hermetic
+Crimp
+Solder
+Solder 
+Diameter
+Depth
+Diameter
+Depth
+Hermetic
+22M
+3
+2
+30
+20
+60
+.029 ±.001
+.141
+  .029
++.004 
+–.000
+.094
+22D
+5
+–
+40
+–
+–
+.0345 ±.001
+.141
+–
+–
+22
+5
+3
+40
+20
+85
+.0365 ±.001
+.141
+  .036
++.004 
+–.000
+.094
+20
+7.5
+5
+35
+20
+60
+.047 ±.001
+.209
+  .044
++.004 
+–.000
+.125
+16
+13
+10
+25
+20
+85
+.067 ±.001
+.209
+  .078
++.004 
+–.002
+.141
+12
+23
+17
+25
+20
+85
+.100 ±.002
+.209
+  .116 ±.004
+.151
+AQUACON SERVICE RATINGS
+Suggested Operating Voltage 
+Service  
+Rating
+(Sea Level)
+AC (RMS)
+DC
+M
+400
+550
+I
+600
+850
+II
+900
+1250
+The establishment of electrical safety factors is left entirely in the designer’s hands,  
+as he can best determine what peak voltage, switching surges, transients, etc.  
+can be expected in a particular circuit.
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+ALTERNATE POSITIONING
+Alternate positioning of connectors allows connectors with identical insert arrangements to be mounted 
+side by side by providing a positive means of eliminating inadvertent cross-mating or cross- plugging.
+Alternate positioning of Aquacon Series is achieved by a rotation of the master key/keyway, relative to 
+the insert, as part of the shell manufacturing operation.
+Recommended practice is to use alternate position inserts only when necessary.
+AQUACON MASTER KEY/KEYWAY ROTATION
+AB Angle of Rotation (Degrees)
+NORMAL
+Shell 
+Size
+Normal
+A
+B
+C
+D
+8
+100
+82
+118
+B
+A
+D
+C
+ROTATION
+LETTER
+AB
+10
+100
+86
+72
+128
+114
+12
+100
+80
+68
+132
+120
+14
+100
+79
+66
+134
+121
+16
+100
+82
+70
+130
+118
+10°  AJ or AS Ref
+18
+100
+82
+70
+130
+118
+20
+100
+82
+70
+130
+118
+RELATIVE POSSIBLE POSITION OF
+ROTATED MASTER KEYWAY
+22
+100
+85
+74
+126
+115
+(FRONT FACE OF AJ or AS RECEPTACLE SHOWN)
+24
+100
+85
+74
+126
+115
+43
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Aquacon Series
+Insert Availability
+Contact Size
+Total 
+Aquacon 
+Shell Size
+Hermetic*
+Service 
+Rating**
+Contacts
+22D
+22M
+22
+20
+16
+12
+8-3
+X
+M
+3
+3
+8-6
+X
+M
+6
+6
+8-35
+X
+M
+6
+6
+8-98
+X
+I
+3
+3
+10-5
+X
+I
+5
+5
+10-13
+X
+M
+13
+13
+10-35
+X
+M
+13
+13
+10-98
+X
+I
+6
+6
+12-3
+X
+II
+3
+3
+12-8
+X
+I
+8
+8
+12-35
+X
+M
+22
+22
+12-98
+X
+I
+10
+10
+14-5
+X
+II
+5
+5
+14-18
+X
+I
+18
+18
+14-35
+X
+M
+37
+37
+14-37
+X
+M
+37
+37
+16-6†
+X
+I
+6
+6
+16-8
+X
+II
+8
+8
+16-26
+X
+I
+26
+26
+16-35
+X
+M
+55
+55
+16-55
+X
+M
+55
+55
+18-32
+X
+I
+32
+32
+18-35
+X
+M
+66
+66
+18-66
+X
+M
+66
+66
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+20-16
+X
+II
+16
+16
+20-41
+X
+I
+41
+41
+22-21
+X
+II
+21
+21
+22-55
+X
+I
+55
+55
+24-19†
+X
+I
+19
+19
+* Tooled for pin inserts only (contact Amphenol for socket availability).
+** See specifications
+† AS Aquacon version - these arrangements use SJT (38999 type) patterns that incorporate size 12 contacts.  
+See how to order page 47.
+Additional insert arrangements may be made available upon request.
+44
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Aquacon Series
+Insert Arrangements
+Front face of pin inserts illustrated
+1
+2
+1
+2
+9
+10
+9
+10
+11
+A
+E
+11
+3
+3
+12
+13
+12
+13
+5
+1
+C A
+8
+A
+8
+2
+B
+C
+D
+B
+B
+C
+1
+2
+3
+4
+5 6
+4 6
+3
+4
+5
+6
+7
+4
+5
+6
+7
+Insert Arrangement
+8-3
+8-6
+8-35
+8-98
+10-5
+10-13
+10-35
+Service Rating
+M
+M
+M
+I
+I
+M
+M
+Number of Contacts
+3
+6
+6
+3
+5
+13
+13
+Contact Size
+20
+22M
+22D
+20
+20
+22M
+22D
+K
+L
+M N
+1
+A
+B
+E
+A
+B
+A
+T U
+P
+H
+A
+B
+A
+B
+J
+F
+G
+C
+B
+21
+22
+E
+F
+A
+C
+H
+R
+S
+G
+C
+C
+D
+J
+K
+D
+C
+D
+B
+C
+D
+E
+E
+F
+G
+H
+D
+E
+F
+Insert Arrangement
+10-98
+12-3
+12-8
+12-35
+12-98
+14-5
+14-18
+Service Rating
+I
+II
+I
+M
+I
+II
+I
+Number of Contacts
+6
+3
+8
+22
+10
+5
+18
+Contact Size
+20
+16
+20
+22D
+20
+16
+20
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+A
+A
+A
+B
+C
+E
+1
+1
+P
+R
+S
+T
+U
+G
+B
+a
+b
+B
+D
+N
+Z
+H
+21
+31
+21
+31
+c
+F
+E
+D
+F
+C
+V
+W
+X
+Y
+C
+D
+E
+G F
+H
+J
+L K
+M
+11
+Insert Arrangement
+14-35
+14-37
+16-6†
+16-8
+16-26
+Service Rating
+M
+M
+I
+II
+I
+Number of Contacts
+37
+37
+6
+8
+26
+Contact Size
+22D
+22M
+12
+16
+20
+See page 43 for service ratings and contact sizes.
+† AS Aquacon version - uses an SJT (38999 type) pattern with size 12 contacts. 
+See how to order page 47.
+8
+12
+16
+20
+22
+22M
+22D
+CONTACT LEGEND
+45
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+AJ Aquacon
+Insert Arrangements
+Front face of pin inserts illustrated
+17
+34
+25
+34
+17
+17 25
+32
+43
+10
+40
+43
+17
+10
+25
+32
+10
+51
+4
+10
+25
+51
+A
+B
+4
+4
+47
+58
+40
+47
+58
+4
+1
+C
+1
+S
+T
+U
+V
+R
+53
+53
+64
+1
+64
+1
+e
+f
+d
+D
+P
+W
+j
+2
+2
+X
+55
+55
+E
+3
+3
+N
+b
+c
+g
+h
+3
+66
+3
+66
+52
+52
+9
+9
+M
+63
+F
+9
+16
+31
+46
+16
+Y
+Z
+a
+46
+9
+63
+24
+39
+24 31
+39
+57
+16
+57
+24
+50
+50
+24
+16
+G
+H
+J
+K
+L
+33
+42
+33
+42
+Insert Arrangement
+16-35
+16-55
+18-32
+18-35
+18-66
+Service Rating
+M
+M
+I
+M
+M
+Number of Contacts
+55
+55
+32
+66
+66
+Contact Size
+22D
+22M
+20
+22D
+22M
+N
+A
+A
+B
+C
+L
+A
+B
+C
+U
+V
+W
+A
+M
+P
+B
+X
+Y
+S
+D
+M
+K
+T
+U
+V
+W
+X
+Y
+B
+T
+i
+R
+D
+Z
+E
+k
+S
+N
+j
+k
+m
+m
+n
+p
+q
+r
+Z
+S
+L
+R
+s
+t
+J
+W
+X
+C
+h
+a
+GG
+HH
+j
+E
+C
+r
+y
+z
+AA
+BB
+C
+C
+F
+a
+P
+R
+R
+P
+g
+i
+DD
+EE
+FF
+n
+p
+q
+V
+F
+S
+K
+H
+D
+D
+G
+s
+t
+u
+N
+b
+c
+d
+e
+f
+v
+w
+x
+T
+U
+G
+E
+E
+F
+G
+b
+c
+d
+e
+f
+g
+h
+H
+J
+K
+L
+M
+N
+P
+F
+G
+H
+J
+H
+J
+K
+L
+M
+Insert Arrangement
+20-16
+20-41
+22-21
+22-55
+Service Rating
+II
+I
+II
+I
+Number of Contacts
+16
+41
+21
+55
+Contact Size
+16
+20
+16
+20
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+M
+A
+B
+L
+N
+P
+C
+K
+U
+V
+R
+D
+J
+S
+T
+E
+F
+G
+H
+Insert Arrangement
+24-19†
+Service Rating
+I
+Number of Contacts
+19
+Contact Size
+12
+See page 43 for service ratings and contact sizes.
+† AS Aquacon version - uses an SJT (38999 type) pattern with size 12 
+contacts. See how to order page 47.
+8
+12
+16
+20
+22
+22M
+22D
+CONTACT LEGEND
+46
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+AJ Aquacon
+How to Order
+1.
+2.
+3.
+4.
+5.
+Connector & Shell Style
+Contact 
+Shell Size – 
+Contact 
+Insert 
+Type
+Insert 
+Configuration
+Rotation
+Arrangement
+AJ7
+H
+20-41
+P
+A
+AQUACON IMMERSIBLE CONNECTORS
+Aquacon with JT (38999 
+Aquacon with SJT (38999 Type) 
+Type) Inserts
+inserts- size 12 contacts only
+Fused compression glass sealed inserts. Leakage rate less than 1.0x10-6 cc/sec at 15 psi differential; with interfacial 
+seal.
+Jam Nut Receptacle
+AJ7
+AS7
+Square Flange
+AJ0
+Hermetic
+2. CONTACT TYPE
+3. INSERT ARRANGEMENT
+Receptacle
+Shell Size & Insert Arrangements are on pages 44. First 
+number represents Shell Size, second number is the  
+Insert Arrangement. 
+H
+Hermetic (Glass Seal) Solder Termination  
+(Receptacles only)
+4. CONTACTS
+P
+Pin Contacts - Solder
+5. ALTERNATE KEYING POSITION
+Alternate positioning of Aquacon Series is achieved by a rotation of the master key/keyway, 
+relative to the insert, as part of the shell manufacturing operation.
+Recommended practice is to use alternate position inserts only when necessary.
+AQUACON MASTER KEY/KEYWAY ROTATION
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Hermetics are available only in pin contacts.
+AB Angle of Rotation (Degrees)
+Shell 
+Size
+NORMAL
+Normal
+A
+B
+C
+D
+8
+100
+82
+118
+B
+A
+D
+C
+ROTATION
+LETTER
+AB
+10
+100
+86
+72
+128
+114
+12
+100
+80
+68
+132
+120
+14
+100
+79
+66
+134
+121
+16
+100
+82
+70
+130
+118
+10°  AJ or AS Ref
+18
+100
+82
+70
+130
+118
+20
+100
+82
+70
+130
+118
+RELATIVE POSSIBLE POSITION OF
+ROTATED MASTER KEYWAY
+22
+100
+85
+74
+126
+115
+(FRONT FACE OF AJ or AS RECEPTACLE SHOWN)
+24
+100
+85
+74
+126
+115
+Consult Amphenol Aerospace for other options and special variations available.
+47
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+AJ7H / AS7H Aquacon
+Hermetic Jam Nut Receptacle
+PART NUMBER BUILDER Page 47 
+AJ7H-
+AS7H-
+S
+X
+AJ7H-XX-XXX(XXX) 
+G
+H
+A
+THREAD
+M
+L
+S
+X 1
+G
+H
+AS7H-XX-XXX(XXX) 
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+A
+THREAD
+M
+L1
+AJ Aquacon use JT (38999 type) inserts that incorporate contact sizes 22D, 22M, 22, 20 or 16. AS Aquacon use  
+SJT (38999 type) inserts that incorporate size 12 contacts
+X 
+X1 
+L1 
+H 
+L 
+Bulkhead 
+Thickness
+Bulkhead 
+Thickness
+G 
+±.010 
++.000 
+–.010 
+Shell 
+Size
+A Thread 
+Class 2A
+Dia.
++.000 
+–.000
+(Hermetic AJ)
+(Hermetic AS)
+M
+S Hex 
+±.016
+(AJ)
+(AS)
+ 8
+  .750-20 UNEF
+1.125
+.700
+1.125
+1.500
+.125
+.938
+.03 – .31
+.06 – .72
+10
+  .875-20 UNEF
+1.250
+.825
+1.125
+1.500
+.125
+1.062
+.03 – .31
+.06 – .72
+12
+1.000-20 UNEF
+1.406
+.950
+1.125
+1.500
+.125
+1.188
+.03 – .31
+06 – .72
+14
+1.125-18 UNEF
+1.531
+1.075
+1.125
+1.500
+.125
+1.312
+.03 – .31
+06 – .72
+16
+1.250-18 UNEF
+1.654
+1.200
+1.125
+1.500
+.125
+1.438
+.03 – .31
+06 – .72
+18
+1.375-18 UNEF
+1.844
+1.325
+1.125
+1.500
+.125
+1.562
+.03 – .31
+06 – .72
+20
+1.500-18 UNEF
+2.000
+1.450
+1.250
+1.500
+.188
+1.688
+.03 – .38
+06 – .65
+22
+1.625-18 UNEF
+2.125
+1.575
+1.250
+1.500
+.188
+1.812
+.03 – .38
+06 – .65
+24
+1.750-18 UNS
+2.250
+1.700
+1.250
+1.500
+.188
+2.000
+.03 – .38
+06 – .65
+All dimensions for reference only.
+48
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+AJ0H Aquacon
+Hermetic Square Flange Receptacle
+PART NUMBER BUILDER Page 47 
+ AJOH-
+S
+R
+PACKING
+(POS I)
+PACKING
+(POS II)
+S
+R
+F
+AJ0H-XX-XXX(XXX) 
+T
+4 HOLES
+A
+THREAD
+M
+G
+L
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+The Aquacon Hermetic Square Flange Receptacle is available in AJ style only which incorporates contact sizes  
+22D, 22M, 22, 20 or 16. 
+Packing 
+Packing 
+G 
+T 
+Pos I 
+Pos II 
+Shell 
+Size
+A Thread 
+Class 2A
+F Dia. 
++.000 
+–.001
+±.030
+L
+M
+R
+S
+±.005
+Part Number
+Part Number
+ 8
+  .750-20 UNEF
+.685
+.344
+1.125
+.125
+.719
+  .938
+.128
+10-90351-15
+10-90351-14
+10
+  .875-20 UNEF
+.810
+.344
+1.125
+.125
+.812
+1.031
+.128
+10-90351-17
+10-90351-16
+12
+1.000-20 UNEF
+.935
+.344
+1.125
+.125
+.906
+1.125
+.128
+10-90351-19
+10-90351-18
+14
+1.125-18 UNEF
+1.060
+.344
+1.125
+.125
+.969
+1.219
+.128
+10-90351-21
+10-90351-20
+16
+1.250-18 UNEF
+1.185
+.344
+1.125
+.125
+1.062
+1.312
+.128
+10-90351-23
+10-90351-22
+18
+1.375-18 UNEF
+1.248
+.344
+1.125
+.125
+1.156
+1.438
+.128
+10-90351-24
+10-90351-24
+20
+1.500-18 UNEF
+1.373
+.375
+1.219
+.188
+1.250
+1.562
+.128
+10-90351-26
+10-90351-26
+22
+1.625-18 UNEF
+1.498
+.375
+1.219
+.188
+1.375
+1.688
+.147
+10-90351-28
+10-90351-28
+24
+1.750-18 UNS
+1.623
+.375
+1.219
+.188
+1.500
+1.812
+.147
+10-90351-29
+10-90351-29
+All dimensions for reference only.
+49
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Aquacon Series
+Installation Instructions, Application Tools
+MOLDING
+Suggested method of assembly to cable for Aquacon plugs and 
+cable connecting receptacles is molding. The mold sealing diameter 
+has been designed to use a common mold for both plug and 
+receptacle in a given shell size.
+RECEPTACLE “O” RING RACKING REQUIREMENTS
+ARP 568 UNIFORM DASH NUMBER
+Main Joint 
+Shell to Mounting 
+Shell 
+Size
+Seal
+Surface Seal
+Jam Nut
+ 8
+ARP-014
+ARP-019
+10
+ARP-016
+ARP-021
+12
+ARP-018
+ARP-023
+14
+ARP-020
+ARP-025
+16
+ARP-022
+ARP-027
+SEALING
+In a mated condition, the red visual mating 
+indicator band must be fully concealed by 
+the plug coupling nut to assure to reliable, 
+pressure rated sealed joint. Failure to fully 
+tighten the coupling nut may allow leakage 
+through the main joint seal. The red visual 
+mating indicator is so located that only a full 
+and proper mating of the plug and receptacle will 
+cause the indicator to be fully hidden by the plug 
+coupling nut.
+Red Visual Mating 
+Indicator Band
+18
+ARP-024
+ARP-029
+20
+ARP-026
+ARP-030
+22
+ARP-028
+ARP-031
+24
+ARP-029
+ARP-032
+MOUNTING SURFACES
+The integrity of an “O” ring hydrostatic shell is dependent upon the 
+flatness of the surface on which the receptacle is mounted. Surface 
+finishes of 23 microns or less are recommended for “O” ring sealing 
+areas when jam nut or through bulkhead receptacles are mounted.
+MOUNTING CUTOUTS
+B 
+R 
+Shell 
+Size
++.010 
+–.000
++.010 
+–.000
+R
+8
+  .705
+  .759
+10
+  .830
+  .884
+12
+  .955
+1.007
+B
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+14
+1.080
+1.134
+16
+1.205
+1.259
+18
+1.330
+1.384
+20
+1.455
+1.507
+Rear mount jam nut
+22
+1.580
+1.634
+24
+1.705
+1.759
+SOLDER CONTACT TERMINATION
+1.  Clean conductors and pre-tin with a good grade 60/40  
+ 
+WIRE AND CABLE PREPARATION
+1. Cut wire or cable to desired length. Strip insulation from end   
+ 
+of wire in accordance with the following table. Hot wire  
+ 
+ 
+ tin-lead solder to 1/16 inch.
+ 
+stripping methods are recommended. Avoid nicking or  
+ 
+2.  Pre-tin contact solder well.
+ 
+cutting wire strands.
+3.  With connector in a suitable holding device, solder  
+ 
+ 
+ wells facing operator, and the cutaway portion of the  
+ 
+ 
+ wells up, insert pre-tinned conductor into contact well.  
+ 
+WIRE STRIP LENGTH IN INCHES
+ 
+ Apply heat to closed side of wire well to make joint.  
+ 
+ 
+ Remove heat and allow joint to cool.
+Contact 
+Contact Size
+Type
+4.  A resistance soldering unit of approximately 125 watts  
+ 
+22M
+22D
+22
+20
+16
+12
+ 
+ is recommended. If a soldering iron is used, do not  
+ 
+Solder
+1/8
+–
+1/8
+5/32
+5/32
+ 
+ exceed 20 watts for size 22M, 22D and 22 contacts; 80  
+ 
+ 
+ watts for size 20: and 150 watts for size 16 and 12  
+ 
+Crimp
+1/8 – 5/32
+7/32 – 1/4
+ 
+ contacts.
+5.  Wipe or brush excess flux from terminations.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+50
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M801 
+2M805 
+Tri-Start
+2M804 
+Push-Pull
+2M803 
+Bayonet
+Dual-Start
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Micro38999
+The New Aerospace Standard
+The New Circular Connector Standard.  Smaller, lighter, higher contact density, and just as 
+durable as D38999 Mil-spec connectors.
+ 
+FEATURES:
+• 4 Coupling Styles
+• Integral Backshells 
+• PC Tail Termination Available
+• 60% Weight Reduction from 38999
+• 50% Size Reduction from 38999
+51
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M Series Selection Table
+2M801, 2M803, 2M804 and 2M805
+SERIES
+2M805
+2M804
+2M803
+2M801
+Pages
+Pages 56-60
+Pages 61-64
+Pages 65-67
+Page 68-72
+TYPE
+Tri-Start ACME Thread
+Push-Pull
+Bayonet
+Dual-Start ACME Thread
+DESCRIPTION
+More rugged keys and 
+threads. Faster mating.
+"Anti-Decoupling" ratchet 
+mechanism and ground 
+spring for military airframes 
+and avionics boxes. Fast 
+mating. 
+Breakaway connector 
+for headsets and tactical 
+equipment. Gold-plated 
+spring for long mating life 
+and superior EMI shielding.
+Quick-mating, light duty, 
+general purpose. Not rated 
+for immersion, 50 milliohms 
+shell-to-shell  
+resistance.
+CONTACTS
+1 to 130
+1 to 85
+1 to 55
+1 to 130
+COUPLING
+Tri-Start Thread
+Push, Pull  
+Quick-Disconnect
+1/4 turn lock Bayonet
+Threaded Coupling with 1 
+1/2 Turns to Full Mate
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+WATER  
+IMMERSION, MATED
+MIL-STD-810 Method 512 
+1 Meter for 1 Hour
+MIL-STD-810 Method 512 1 
+Meter for 1 Hour
+Splash proof
+MIL-STD-810 Method 512 
+1 Meter for 1 Hour
+EMI  
+SHIELDING
+Excellent
+Excellent
+Fair
+Very Good
+VIBRATION AND 
+SHOCK
+37 g's Random  
+Vibration; 300 g's Shock
+37 g's Random  
+Vibration; 300 g's Shock
+43.9 g's Random  
+Vibration, Sine Vibration 60 
+g; 300 g's Shock
+43.9 g's Random 
+Vibration, Sine Vibration 
+60 g; 300 g's Shock
+2000 Cycles (-16 Plugs)
+MATING CYCLES
+500 Cycles
+2000 Cycles
+1000 Cycles Aluminum 
+2000 Cycles Stainless Steel
+500 Cycles (-26 Plugs)
+ELECTRICAL  
+PERFORMANCE
+#12: 23 AMP, 1800 VAC 
+#16: 13 AMP, 1800 VAC 
+#20: 7.5 AMP, 750 VAC 
+#23: 5 AMP, 500 VAC
+#12: 23 AMP, 1800 VAC 
+#16: 13 AMP, 1800 VAC 
+#20: 7.5 AMP, 750 VAC 
+#23: 5 AMP, 500 VAC
+#12: 23 AMP, 1800 VAC 
+#16: 13 AMP, 1800 VAC 
+#20: 7.5 AMP, 750 VAC 
+#23: 5 AMP, 500 VAC
+#12: 23 AMP, 1800 VAC 
+#16: 13 AMP, 1800 VAC 
+#20: 7.5 AMP, 750 VAC 
+#23: 5 AMP, 500 VAC
+52
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M Series Technical Information
+Insert Arrangements
+Front face of pin inserts illustrated (Socket Reversed)
+CONTACT LEGEND 12 
+16 
+20 
+20HD 
+20 
+23
+2
+1
+3
+2
+1
+2
+1
+2
+1
+4
+7
+B
+A
+7
+3
+4
+5
+6
+2
+1
+3
+4
+5
+6
+3
+4
+3
+C
+8
+9
+10
+2M801 2M803 2M804
+5-3
+6-1*
+6-4
+6-6
+6-7
+6-23
+7-1*
+7-10
+2M805
+NA
+8-1*
+8-4
+8-6
+8-7
+8-23
+9-1*
+9-10
+No. of Contacts
+3
+1
+4
+6
+7
+3
+1
+10
+Contact Size
+#23
+#16
+#23
+#23
+#23
+#20HD
+#12
+#23
+DWV Voltage (VAC)
+500
+1800
+500
+500
+500
+750
+1800
+500
+Current Rating (Amps)
+5
+13
+5
+5
+5
+7.5
+23
+5
+8
+2
+2
+1
+2
+1
+1
+2
+1
+9
+2
+1
+2
+1
+7 13
+7
+3
+8
+6
+3
+3
+3
+4
+5
+10
+12
+4
+6
+4
+4
+3
+4
+5
+5
+6
+11
+5
+2M801 2M803 2M804
+7-25
+8-2
+8-13
+8-28
+8-200*
+9-4
+2M805
+9-25
+10-2
+10-13
+10-28
+10-200*
+11-4
+No. of Contacts
+5
+2
+13
+8
+2
+4
+4
+Contact Size
+#20HD
+#16
+#23
+#20HD
+#20
+#23
+#16
+DWV Voltage (VAC)
+750
+1800
+500
+750
+1000
+500
+1800
+Current Rating (Amps)
+7.5
+13
+5
+7.5
+7
+5
+13
+2
+2
+1
+1
+4 3
+2 1
+3
+4
+7
+2
+1
+2
+1
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+5
+6
+8
+12
+4
+3
+16
+3
+10
+4
+7
+9
+8
+7
+13
+17
+10 9
+8
+19 18
+5
+6
+5
+6
+2M801 2M803 2M804
+9-19
+9-200
+9-201
+9-210
+10-2
+2M805
+11-19
+11-200
+11-201
+11-210
+12-2
+No. of Contacts
+19
+2
+4
+2
+8
+10
+2
+Contact Size
+#23
+#16
+#23
+#20
+#23
+#20HD
+#12
+DWV Voltage (VAC)
+500
+1800
+500
+1000
+500
+750
+1800
+Current Rating (Amps)
+5
+13
+5
+7.5
+5
+7.5
+23
+2
+1
+2
+1
+3
+2
+1
+2
+1
+4
+3
+4
+10
+11
+12
+6
+5
+3
+4
+7
+5
+3
+6
+5
+8
+9
+6
+5
+8
+10
+9
+7
+4
+2M801 2M803 2M804
+10-5
+10-201
+10-202*
+10-200*
+2M805
+12-5
+12-201
+12-202*
+12-200*
+No. of Contacts
+5
+2
+4
+2
+8
+1
+12
+Contact Size
+#16
+#12
+#23
+#16
+#23
+#12
+#23
+DWV Voltage (VAC)
+1800
+1800
+500
+1800
+500
+1800
+500
+Current Rating (Amps)
+13
+23
+5
+13
+5
+23
+5
+53
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M Series Technical Information
+Insert Arrangements
+Front face of pin inserts illustrated (Socket Reversed)
+CONTACT LEGEND 12 
+16 
+20 
+20HD 
+20 
+23
+1
+1
+1
+6 3
+2
+1
+2
+6
+7
+3
+5
+2
+3
+4
+2 4
+9
+12
+16
+25 26 24 21
+23
+18
+15
+11
+2M801
+10-26
+13-2
+13-3*
+13-7
+2M803 2M804
+10-26
+12-2
+12-3*
+12-7
+2M805
+12-26
+15-2
+15-3*
+15-7
+No. of Contacts
+26
+2
+3
+7
+Contact Size
+#23
+#12
+#12
+#16
+DWV Voltage (VAC)
+500
+1800
+1800
+1800
+Current Rating (Amps)
+5
+23
+23
+13
+2
+1
+1
+4
+5
+1
+2
+3
+1
+2
+3
+3
+14
+15
+12
+13
+16
+19
+20
+4
+7
+6
+4
+5
+11
+5
+17
+18
+23
+16
+10
+29
+8
+6
+4
+5
+9
+15
+22
+28
+33
+37
+34
+6
+7
+8
+9
+10
+8
+7
+12 9 11
+10
+2M801
+13-37
+13-200*
+13-201
+13-220
+2M803 2M804
+12-37
+12-200
+12-201
+12-220
+2M805
+15-37
+15-200*
+15-201
+15-220
+No. of Contacts
+37
+2
+6
+2
+10
+20
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Contact Size
+#23
+#12
+#23
+#12
+#23
+#20HD
+DWV Voltage (VAC)
+500
+1800
+500
+1800
+500
+750
+Current Rating (Amps)
+5
+23
+5
+23
+5
+7.5
+1
+1
+2
+1
+2
+1
+4
+18
+30
+20
+2
+3
+9
+16
+5
+3
+5
+4
+15
+35
+7
+8
+9
+6
+5
+3
+12
+10
+24
+31
+39
+46
+52
+55 54 53
+47
+40
+32
+25
+17
+10
+10
+25
+11
+4
+2M801
+16-5
+16-55
+16-12
+16-235
+2M803 2M804
+14-5
+14-55
+14-12
+14-235
+2M805
+18-5
+18-55
+18-12
+18-235
+No. of Contacts
+5
+55
+12
+35
+Contact Size
+#12
+#23
+#16
+#20HD
+DWV Voltage (VAC)
+1800
+500
+1800
+750
+Current Rating (Amps)
+23
+5
+13
+7.5
+*Not tooled for every insert pattern
+54
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M Series Technical Reference
+Insert Arrangements
+Front face of pin inserts illustrated (Socket Reversed)
+CONTACT LEGEND 12 
+16 
+20 
+20HD 
+20 
+23
+1
+2
+1
+4
+1
+2
+5
+5
+12
+3
+38 28
+19 11
+20
+29
+6
+7
+3
+9
+39
+6
+48
+12
+10
+75 67
+58
+74 81
+66
+57
+47
+4
+5
+13
+14
+82
+85
+2M801
+17-7
+17-14*
+17-85
+2M803 2M804
+15-7
+15-14
+15-85
+2M805
+19-7
+19-14*
+19-85
+No. of Contacts
+7
+14
+85
+Contact Size
+#12
+#16
+#23
+DWV Voltage (VAC)
+1800
+1800
+500
+Current Rating (Amps)
+23
+13
+5
+1
+2
+4
+1
+1
+20
+5
+3
+9
+5
+2
+3
+4
+5
+18
+19
+21
+22
+33 34
+17
+6
+32
+23
+35
+36
+13
+10
+16
+7
+40
+41
+31
+24
+37
+9
+6
+30
+26
+38
+39
+25
+8
+14
+18
+14
+27
+28
+29
+15
+9
+11
+12
+13
+12
+10
+19
+22
+10
+11
+2M801
+17-241*
+21-12
+21-22*
+2M805
+19-241*
+23-12
+23-22*
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+No. of Contacts
+41
+12
+22
+Contact Size
+#20HD
+#12
+#16
+DWV Voltage (VAC)
+750
+1800
+1800
+Current Rating (Amps)
+7.5
+23
+13
+1
+6
+1
+5
+2
+3
+4
+25 15
+25
+6
+26
+27
+28
+29
+30
+24
+7
+45
+46
+47
+48
+49
+31
+23
+8
+44
+59
+60 61
+62
+50
+32
+7 16
+26
+37
+49
+58
+43
+59
+48 36
+22
+9
+63
+67
+68
+69
+51
+33
+60
+42
+57
+71
+21
+34
+64
+65
+66
+82
+41
+10
+11
+52
+53
+54
+55
+56
+94
+12
+72
+83
+95
+20
+35
+36
+37
+38
+39
+40
+13
+14
+16
+17
+18
+19
+115 124
+105
+15
+116 106
+125
+130
+2M801
+21-130
+21-269
+2M805
+23-130
+23-269
+No. of Contacts
+130
+69
+Contact Size
+#23
+#20HD
+DWV Voltage (VAC)
+500
+750
+Current Rating (Amps)
+5
+7.5
+*Not tooled for every insert pattern
+55
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M805 
+Tri-Start
+FEATURES:
+• Low profile shells for  
+ 
+minimum box protrusion 
+• Shell Standoffs for PC  
+ 
+2M805 Series of Hermetic Receptacles provide superior  
+sealing of 1x10-8 cc/second helium leak rate and are  
+100% tested prior to shipping. This superior sealing is  
+accomplished through the use of glass insulator fused  
+to stainless steel shells and iron alloy contacts.
+ 
+Board washout 
+• Non-removable PC and/or   
+ 
+Solder cup contacts
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+56
+
+2M805 Tri-Start Hermetic Receptacle
+Ordering Guide for 2M805-006
+1.
+2.
+3.
+4.
+5.
+6.
+Series
+Shell Size
+Service Class
+Shell Size-Insert Aggmt
+Contacts
+Keying
+2M805-006
+-07
+Z1
+12-26
+C
+A
+Example Part Number
+1. SERIES
+2. SHELL SIZE
+3. SERVICE CLASS
+Part #
+Description
+Part #
+Description
+Material
+Part #
+Description
+RoHS
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+-02
+Square Flange
+2M805-006
+Hermetic Receptacle
+C
+E
+Z1
+Passivated
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+h
+p
+e
+n
+m
+o
+A
+l
+Steel
+S
+H
+o
+R
+-03
+Weld Mount (only 
+available in Z1 Finish)
+Stainless 
+C
+E
+E
+U
+ZL
+Electrolytic Nickel
+/
+/
+5
+2
+9
+0
+/
+0
+2
+-07
+Jam Nut for Rear 
+Panel Mounting  
+Receptacle
+5. CONTACTS
+6. KEYING
+4. SHELL SIZE-INSERT 
+ARRANGEMENT
+Part #
+Description
+Part #
+A°
+B°
+See Table on pages 53-55
+A
+150°
+210°
+P
+Pin- Solder Cup
+C
+Pin-PC Tail
+B
+75°
+210°
+B°
+A°
+C
+95°
+230°
+H
+D
+140°
+275°
+Pin, Solder Cup-  
+Without Interfacial 
+Seal
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M805
+83723
+26482
+26500
+Receptacle View
+Y
+Pin, PC Tail- Without 
+Interfacial Seal
+Note: Please contact the factory directly for a listing of tooled interfacial seals for the hermetically 
+sealed connectors.
+Please note, Amphenol standard 2M hermetic connector are provided less the interfacial seal.
+Please contact the factory for availability on the interfacial seal.
+57
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M805 Tri-Start Flange Mount Hermetic
+2M805-006-02
+.820 
+22.61 MAX
+MASTER 
+KEYWAY
+.280 
+7.11
+MAX 
+B BSC
+C DIA.
+PC TAIL CONTACT
+.060 
+1.52
+.125 3.18 MIN
+A SQ
+F DIA.
+G DIA.
+4X D DIA.
+.025
+0.64
+SOLDER CUP CONTACT
+E THREAD 
+.100 2.54 MAX PANEL 
+THICKNESS
+RED BAND
+INDICATES
+FULL MATE
+Inches-Millimeters
+A Sq.
+B BSC.
+C Dia.
+D Dia.
+F Dia.
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M805
+83723
+26482
+26500
+Shell 
+Size
+in.
+mm.
+in.
+mm.
+in.
+mm.
+in. 
+in.
+mm.
+±.003
+mm. 
+±.08
+E Threads
+G PC Tail Dia. 
+8
+.853
+21.67
+.660
+16.76
+1.153
+29.29
+.091
+2.31
+.5000-.1P-.3L-TS-2A
+.330
+8.38
+#23 
+9
+.916
+23.27
+.723
+18.36
+1.233
+31.32
+.091
+2.31
+.5625-.1P-.3L-TS-2A
+.432
+10.97
+.018/.022  
+0.46/0.56
+10
+.978
+24.84
+.785
+19.94
+1.333
+33.86
+.091
+2.31
+.6250-.1P-.3L-TS-2A
+.493
+12.52
+11
+1.042
+26.47
+.848
+21.54
+1.413
+35.89
+.091
+2.31
+.6875-.1P-.3L-TS-2A
+.551
+14.00
+#20/20HD 
+.024/.028  
+0.64/0.69
+12
+1.102
+27.99
+.909
+23.09
+1.503
+38.18
+.091
+2.31
+.7500-.1P-.3L-TS-2A
+.622
+15.80
+#16 
+15
+1.291
+32.79
+1.058
+26.87
+1.753
+44.53
+.125
+3.18
+.9375-.1P-.3L-TS-2A
+.703
+17.86
+.060/.064  
+1.521/1.63
+18
+1.478
+37.54
+1.255
+31.88
+2.003
+50.88
+.125
+3.18
+1.1250-.1P-.3L-TS-2A
+.863
+21.92
+#12  
+19
+1.540
+39.12
+1.327
+33.71
+2.097
+53.26
+.125
+3.18
+1.1875-.1P-.3L-TS-2A
+.912
+23.16
+.092/.096  
+2.34/2.44
+23
+1.790
+45.47
+1.570
+39.88
+2.443
+62.05
+.125
+3.18
+1.4375-.1P-.3L-TS-2A
+1.163
+29.54
+58
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M805 Tri-Start Solder Mount Hermetic
+2M805-006-03
+.827 
+22.61 MAX
+.280 7.11
+MASTER 
+KEYWAY
+MAX 
+PC TAIL 
+CONTACT
+.039
+0.99
+A DIA.
+.125 3.18 MIN
+C DIA.
+D DIA.
+0.64
+B THREAD 
+SOLDER CUP 
+CONTACT
+.025
+.100 2.54 MAX 
+PANEL THICKNESS
+RED BAND
+INDICATES 
+FULL MATE
+Inches-Millimeters
+A Dia.
+C Dia.
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M805
+83723
+26482
+26500
+Shell 
+Size
+D PC Tail Dia.
+in.
+mm.
+in.
+mm.
+B Threads
+8
+.625
+15.88
+.5000-.1P-.3L-TS-2A
+.330
+8.38
+#23 
+9
+.688
+17.48
+.5625-.1P-.3L-TS-2A
+.432
+10.97
+.018/.022  
+0.46/0.56 
+10
+.750
+19.75
+.6250-.1P-.3L-TS-2A
+.493
+12.52
+11
+.812
+20.62
+.6875-.1P-.3L-TS-2A
+.551
+14.00
+#20/20HD 
+.025/.027  
+0.64/0.69 
+12
+.875
+22.23
+.7500-.1P-.3L-TS-2A
+.620
+15.78
+#16 
+15
+1.062
+26.97
+.9375-.1P-.3L-TS-2A
+.703
+17.86
+.060/.064  
+1.521/1.63 
+18
+1.250
+31.75
+1.1250-.1P-.3L-TS-2A
+.863
+21.92
+#12  
+19
+1.312
+33.32
+1.1875-.1P-.3L-TS-2A
+.912
+23.16
+23
+1.563
+39.70
+1.4375-.1P-.3L-TS-2A
+1.162
+29.51
+.092/.096  
+2.34/2.44
+59
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M805 Tri-Start Jam Nut Hermetic
+2M805-006-07
+2M805-006-07
+.905 22.99
+MAX
+.175 4.45 MAX 
+PC TAIL 
+CONTACT
+.060 1.52
+MASTER 
+KEYWAY
+.125 3.18 MIN
+B FLAT
+E DIA.
+G DIA.
+.025 0.64
+A DIA.
+D THREAD
+F THREAD
+SOLDER CUP
+CONTACT 
+C FLAT
+TYP
+.100 2.54 MAX
+PANEL THICKNESS
+RED BAND 
+INDICATES 
+FULL MATE
+Inches-Millimeters
+A Dia.
+B Flat
+C Flat
+E Dia.
+Shell 
+Size
+F Threads 
+G PC Tail Dia.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+D Threads 
+8
+.760
+19.30
+.535
+13.59
+.730
+18.54
+.5000-.1P-.3L-TS-2A
+.330
+8.38
+.5625-28 UN-2A
+#23 
+.018/.022 0.46/0.56
+9
+.880
+22.35
+.661
+16.79
+.850
+21.59
+.5625-.1P-.3L-TS-2A
+.432
+10.97
+.6875-28 UN-2A
+10
+.880
+22.35
+.661
+16.79
+.850
+21.59
+.6250-.1P-.3L-TS-2A
+.493
+12.52
+.6875-28 UN-2A
+#20/20HD 
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M805
+83723
+26482
+26500
+.024/.028 0.64/0.69
+11
+.955
+24.26
+.721
+18.31
+.925
+23.50
+.6875-.1P-.3L-TS-2A
+.551
+14.00
+.7500-28 UN-2A
+12
+1.060
+26.92
+.784
+19.91
+1.035
+26.29
+.7500-.1P-.3L-TS-2A
+.620
+15.78
+.8125-28 UN-2A
+#16 
+15
+1.203
+30.56
+.970
+24.64
+1.173
+29.79
+.9375-.1P-.3L-TS-2A
+.703
+17.86
+1.0000-28 UN-2A
+.060/.064 1.521/1.63
+18
+1.389
+35.28
+1.147
+29.13
+1.359
+34.52
+1.1250-.1P-.3L-TS-2A
+.863
+21.92
+1.1875-28 UN-2A
+#12  
+19
+1.450
+36.83
+1.221
+31.01
+1.420
+36.07
+1.1875-.1P-.3L-TS-2A
+.912
+23.16
+1.2500-28 UN-2A
+.092/.096 2.34/2.44
+23
+1.705
+43.31
+1.470
+37.34
+1.675
+42.55
+1.4375-.1P-.3L-TS-2A
+1.162
+29.51
+1.5000-28 UN-2A
+PANEL CUTOUT FOR JAM NUT
+A Flat
+B Dia
+Shell 
+Size
+in. 
+in. 
+±.002
+mm.  
+± 0.05
+±.005
+mm.  
+± 0.13
+8
+.543
+13.79
+.572
+14.53
+9
+.669
+16.99
+.698
+17.73
+10
+.669
+16.99
+.698
+17.73
+B DIA.
+11
+.729
+18.51
+.760
+19.30
+12
+.792
+20.17
+.822
+20.88
+A  FLAT
+15
+.978
+24.84
+1.010
+25.65
+18
+1.155
+29.34
+1.198
+30.43
+19
+1.231
+31.27
+1.260
+32.00
+23
+1.480
+37.59
+1.510
+38.35
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+60
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M804
+Push-Pull
+FEATURES:
+• Push-pull coupling
+• Excellent EMI shielding
+2M804 Series of Hermetic Receptacles provide superior sealing of  
+1x10-8 cc/second helium leak rate and are 100% tested prior to shipping.  
+This superior sealing is accomplished through the use of glass insulator  
+fused to stainless steel shells and iron alloy contacts.
+• Rated to 38999  
+ 
+immersions
+• Quick-disconnect
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+61
+
+2M804 Push-Pull Hermetic Receptacle
+Ordering Guide for 2M804-006
+1.
+2.
+3.
+4.
+5.
+6.
+Series
+Shell Size
+Service Class
+Shell Size-Insert Aggmt
+Contacts
+Keying
+2M804-006
+-07
+Z1
+9-19
+P
+A
+Example Part Number
+1. SERIES
+2. SHELL SIZE
+3. SERVICE CLASS
+Part #
+Description
+Part #
+Description
+Material
+Part #
+Description
+RoHS
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+C
+E
+Z1
+Passivated
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+-00
+Jam Nut for Front 
+Panel Mounting
+h
+p
+e
+n
+m
+o
+A
+l
+S
+2M804-006
+Hermetic Receptacle with Printed 
+Circuit Board Contacts or Solder 
+Cup Contacts.
+H
+o
+R
+Stainless 
+Steel
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+ZL
+Electrolytic Nickel
+-07
+Jam Nut for Rear Panel 
+Mounting Receptacle
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M804
+83723
+26482
+26500
+4. SHELL SIZE-INSERT ARRANGEMENT
+5. CONTACTS
+6. KEYING
+See Table pg 53-55
+Part #
+Description
+Part #
+A°
+B°
+A
+150°
+210°
+P
+Pin- Solder Cup
+C
+Pin-PC Tail
+B
+75°
+210°
+C
+95°
+230°
+H
+Pin, Solder Cup- Without 
+Interfacial Seal
+D
+140°
+275°
+Y
+Pin, PC Tail- Without 
+Interfacial Seal
+B°
+A°
+Receptacle View
+Note: Please contact the factory directly for a listing of tooled interfacial seals for the hermetically sealed connectors.
+Please note, Amphenol standard 2M hermetic connector are provided less the interfacial seal.
+Please contact the factory for availability on the interfacial seal.
+62
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M804 Push-Pull Rear Panel Jam Nut Hermetic
+2M804-006-07
+Micro38999
+ 
+.957 24.31 MAX
+.682 
+17.32 MAX
+.125 3.18 MIN
+MASTER 
+KEYWAY
+G DIA.
+PC TAIL 
+CONTACT
+F 
+DIA.
+E
+DIA.
+C
+FLAT
+SOLDER 
+CUP
+A DIA.
+.025 0.64
+D THREAD
+.125 3.18 MAX
+PANEL THICKNESS
+.817 ± .015
+E Dia.
+F Dia.
+A Dia.
+C Flat
+D Thread
+Shell 
+Size
+G PC Tail Dia.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+UN-2A
+5
+.773 
+19.63
+.414
+10.52
+.4375-32 
+.274
+6.96
+.448
+11.38
+#23 
+6
+.833
+21.16
+.468
+11.89
+.5000-32 
+.329
+8.36
+.513
+13.03
+.018/.022  
+0.46/0.56
+7
+.903
+22.94
+.593
+15.06
+.6250-28 
+.431
+10.95
+.573
+14.55
+8
+.958
+24.33
+.593
+15.06
+.6250-28 
+.493
+12.52
+.596
+15.14
+#20/20HD 
+.025/.027 
+0.64/0.69 
+9
+.998
+25.35
+.653
+16.59
+.6875-28 
+.551
+14.00
+.691
+17.55
+10
+1.083
+27.51
+.721
+18.31
+.7500-28 
+.619
+15.72
+.728
+18.49
+#16 
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M804
+83723
+26482
+26500
+12
+1.183
+30.05
+.843
+21.41
+.8750-28 
+.703
+17.86
+.883
+22.43
+.060/.064 
+1.52/1.63
+14
+1.323
+33.60
+.968
+24.59
+1.0000-28 
+.863
+21.92
+1.003
+25.48
+#12 
+15
+1.373
+34.87
+1.036
+26.31
+1.0625-20
+.913
+23.19
+1.063
+27.00
+.092/.096 
+2.34/2.44
+JAM NUT PANEL CUTOUT
+A Flat
+B Dia.
+in.  
+in.  
+±.002
+mm. 
+± 0.05
+±.005
+mm. 
+± 0.13
+Shell 
+Size
+5
+.423
+10.74
+.448
+11.38
+B DIA.
+6
+.475
+12.07
+.510
+12.95
+7
+.602
+15.29
+.635
+16.13
+A  FLAT
+8
+.602
+15.29
+.635
+16.13
+9
+.663
+16.84
+.698
+17.73
+10
+.729
+18.82
+.760
+19.30
+12
+.851
+21.62
+.885
+22.48
+14
+.976
+24.79
+1.010
+25.65
+63
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M804 Front Panel Jam Nut Hermetic
+2M804-006-00
+.935 23.75 MAX
+.803 
+PC TAIL CONTACT
+20.40 MAX 
+.125 3.18 MIN
+F DIA.
+MASTER
+KEYWAY
+C 
+DIA.
+ E
+FLAT
+SOLDER 
+CUP
+.025 0.64
+A DIA.
+B THREAD
+.300 7.62 MAX
+PANEL THICKNESS
+ 
+A Dia.
+C Dia.
+E Flat.
+B Thread 
+Shell 
+Size
+F PC Tail Dia.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+UN-2A
+5
+.830
+21.08
+.5000-32 
+.274
+6.96
+.470
+11.94
+#23 
+6
+.884
+22.45
+.5625-32
+.329
+8.36
+.529
+13.44
+.018/.022  
+0.46/0.56
+7
+.994
+25.25
+.6875-28
+.431
+10.95
+.663
+16.84
+8
+.994
+25.25
+.6875-28 
+.493
+12.52
+.663
+16.84
+#20/20HD 
+.025/.027  
+0.64/0.69
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M804
+83723
+26482
+26500
+9
+1.073
+27.25
+.7500-28 
+.551
+14.00
+.719
+18.26
+#16 
+10
+1.138
+28.91
+.8125-28
+.619
+15.72
+.778
+19.76
+.060/.064  
+1.52/1.63
+12
+1.338
+33.99
+1.0000-28 
+.703
+17.86
+.969
+24.61
+#12 
+14
+1.388
+35.26
+1.0625-20 
+.863
+21.92
+1.019
+25.88
+.092/.096  
+2.34/2.44
+15
+1.453
+36.91
+1.1250-28
+.913
+23.19
+1.113
+28.27
+JAM NUT PANEL CUTOUT
+A Flat
+B Dia.
+in.  
+in.  
+±.002
+mm. 
+± 0.05
+±.005
+mm. 
+± 0.13
+Shell 
+Size
+5
+.477
+12.12
+.510
+12.95
+6
+.537
+13.64
+.635
+16.13
+B DIA.
+7
+.670
+17.02
+.635
+16.13
+8
+.670
+17.02
+.698
+17.73
+A  FLAT
+9
+.727
+18.47
+.760
+19.30
+10
+.787
+19.81
+.885
+22.48
+12
+.977
+24.82
+1.010
+25.65
+14
+1.027
+26.09
+1.073
+27.25
+15
+1.120
+28.45
+1.135
+28.83
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+64
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M803
+Bayonet
+FEATURES:
+• Low profile shells for  
+ 
+minimum box protrusion
+• Shell Standoffs for PC  
+ 
+2M803 Series of Hermetic Receptacles provide superior sealing of 1x10-8 cc/
+second helium leak rate and are 100% tested prior to shipping. This superior 
+sealing is accomplished through the use of glass insulator fused to stainless steel 
+shells and iron alloy contacts.
+ 
+Board washout
+• Non-removable PC and/or   
+ 
+Solder cup contacts
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+65
+
+2M803 Hermetic
+Ordering Guide for 2M803-006 Receptacles
+1.
+2.
+3.
+4.
+5.
+6.
+Series
+Shell Size
+Service Class
+Shell Size-Insert Aggmt
+Contacts
+Keying
+2M803-006
+-07
+Z1
+6-7
+P
+A
+Example Part Number
+1. SERIES
+2. SHELL SIZE
+3. SERVICE CLASS
+Part #
+Description
+Material
+Part #
+Description
+Part #
+Description
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+-02
+Flange Mount
+R
+C
+E
+Z1
+Passivated
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+2M803-006
+Hermetic Receptacles with PCB 
+Contacts or Solder Cup Contacts
+-07
+Jam Nut
+h
+p
+e
+n
+m
+o
+A
+l
+Stainless 
+Steel
+S
+H
+o
+R
+C
+E
+ZL
+Electrolytic Nickel
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+4. SHELL SIZE-INSERT ARRANGEMENT
+5. CONTACTS
+6. KEYING
+See Table pg 53-55
+Part #
+Description
+Part #
+A°
+B°
+P
+Pin- Solder Cup
+N (NORMAL)
+150°
+210°
+C
+Pin-PC Tail
+X
+75°
+210°
+Note: Please contact the factory directly for a 
+listing of tooled interfacial seals for the  
+hermetically sealed connectors.
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M803
+83723
+26482
+26500
+Y
+95°
+230°
+H
+Pin, Solder Cup- 
+Without Interfacial Seal
+Z
+140°
+275°
+Please note, Amphenol standard 2M hermetic 
+connector are provided  less the interfacial seal.
+Please contact the factory for availability on the 
+interfacial seal.
+Y
+Pin, PC Tail- Without 
+Interfacial Seal
+B°
+A°
+Receptacle View
+66
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M803 Hermetic
+Flange Mount and Jam Nut 2M803-006-02 and -07
+Micro38999
+2M803-006-02
+.700 17.78 
+MAX
+MASTER KEYWAY 
+.260 6.60
+A MAX
+.125 3.18 MIN
+.110/.103 
+2.79/2.62 
+2 PLCS 
+D DIA.
+J DIA.
+SOLDER CUP
+B BSC
+C REF
+4 X .025 0.64
+STANDOFF
+.370 ± .015
+45º
+2M803-006-07
+.860 21.84
+MAX 
+.125 3.18 MIN
+.275 6.99 MAX
+MASTER 
+KEYWAY
+G DIA.
+J DIA.
+D DIA.
+F
+FLAT
+SOLDER CUP
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M803
+83723
+26482
+26500
+H THREAD
+4 X .025 0.64
+STANDOFF
+E
+FLATS
+.100 2.54 MAX
+PANEL THICKNESS
+.405 ± .015
+A Max.
+B BSC.
+C Ref.
+D Dia.
+E Flats
+F Flat
+G Dia.
+J PC  
+Shell 
+Size
+Tail Dia.
+in.
+mm
+in.
+mm.
+in.
+mm
+in.
+mm.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+H Thread 
+5
+.710
+18.03
+.513
+13.03
+.460
+11.68
+.300
+7.62
+.545
+13.84
+.350
+8.89
+.575
+14.61
+.3750-32 UNEF-2A
+#23 
+6
+.788
+20.02
+.598
+15.19
+.522
+13.26
+.362
+9.19
+.595
+15.11
+.410
+10.42
+.635
+16.13
+.4375-28 UNEF-2A
+.018/.022 
+0.46/0.56
+7
+.895
+22.73
+.708
+17.98
+.590
+14.99
+.436
+11.07
+.723
+18.36
+.536
+13.61
+.755
+19.18
+.5625-32 UN-2A
+8
+1.154
+29.31
+.964
+24.49
+.665
+16.98
+.500
+12.70
+.790
+20.07
+.593
+15.10
+.830
+21.08
+.6250-28 UN-2A
+#20/20HD 
+.025/.027 
+0.64/0.69
+9
+1.210
+30.73 1.017 25.83
+.721
+18.31
+.561
+14.25
+.790
+20.07
+.596
+15.14
+.830
+21.08
+.6250-28 UN-2A
+#16 
+10
+1.291
+32.79 1.101 27.97
+.795
+20.19
+.635
+16.13
+.925
+23.51
+.721
+.721
+.955
+24.26
+.7500-28 UN-2A
+.060/.064 
+1.52/1.63
+12
+1.395
+35.43 1.204 30.58
+.874
+22.20
+.714
+18.14 1.044
+26.52
+.845
+21.46 1.078
+27.38
+.8750-28 UN-2A
+#12 
+14
+1.550
+39.37 1.280 32.51
+1.050
+26.67
+.865
+21.97 1.230
+31.24
+1.022
+25.96 1.264
+32.11
+1.0625-20 UN-2A
+.092/.096 
+2.34/2.44
+15
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A    .924
+23.47 1.287
+32.69
+1.093
+27.76 1.322
+33.58
+1.1250-28 UN-2A
+67
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M801 
+Dual-Start
+FEATURES: 
+• Low profile shells for  
+ 
+minimum box protrusion
+2M801 Series of Hermetic Receptacles provide superior sealing of 1x10-8 cc/second 
+helium leak rate and are 100% tested prior to shipping. This superior sealing is 
+accomplished through the use of glass insulator fused to stainless steel shells and 
+iron alloy contacts. 
+• Shell Standoffs for PC  
+ 
+ 
+Board washout
+• Non-removable PC and/or   
+ 
+Solder cup contacts
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+68
+
+2M801 Hermetic
+Ordering Guide for Hermetic Receptacle 2M801-012
+Micro38999
+1.
+2.
+3.
+4.
+5.
+6.
+Series
+Shell Size
+Service Class
+Shell Size-Insert Aggmt
+Contacts
+Keying
+2M801-012
+-02
+Z1
+6-7
+P
+A
+Example Part Number
+1. SERIES
+2. SHELL SIZE
+3. SERVICE CLASS
+Part #
+Description
+Part #
+Description
+Material
+Part #
+Description
+RoHS
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+Stainless 
+R
+-02
+Flange Mount
+Z1
+Passivated
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+2M801-012
+Steel
+h
+p
+e
+n
+m
+o
+A
+l
+S
+Hermetic Receptacles with 
+Printed Circuit Board Contacts or 
+Solder cup contacts
+H
+o
+R
+ZL
+Electrolytic Nickel
+-03
+Weld Mount (only 
+available is Z1 finish)
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+-07
+Jam Nut
+ZB
+Stainless Steel 
+with Olive Drab 
+Cadmium Finish
+4. SHELL SIZE-INSERT ARRANGEMENT
+5. CONTACTS
+6. KEYING
+See Table pg 53-55
+Part #
+Description
+Part #
+A°
+B°
+A (NORMAL)
+150°
+210°
+P
+Pin- Solder Cup
+C
+Pin-PC Tail
+B
+75°
+210°
+C
+95°
+230°
+H
+Pin, Solder Cup- 
+Without Interfacial Seal
+D
+140°
+275°
+E
+75°
+275°
+Y
+Pin, PC Tail- Without 
+Interfacial Seal
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M801
+83723
+26482
+26500
+F
+95°
+210°
+Note: Please contact the factory 
+directly for a listing of tooled 
+interfacial seals for the  
+hermetically sealed connectors.
+B°
+A°
+Receptacle View
+69
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M801 Hermetic
+Hermetic Jam Nut Connector 2M801-012-07
+.925 23.5
+MAX
+.100 25.4 MAX
+PANEL THICKNESS
+.280 7.1 MAX
+MASTER
+KEYWAY
+.060 1.5
+.125 3.18 MIN
+PC TAIL
+F DIA.
+B FLAT
+G DIA. 
+SOLDER 
+CUP
+.025
+D THREAD
+C FLAT
+A DIA.
+E THREAD
+RED BAND INDICATES FULL MATE
+A Dia.
+B Flat
+C Flat
+F Dia.
+UN-2A 
+G Dia. Tail 
+Shell 
+Size
+Dia.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+D Thread
+E Thread 
+5
+.575
+14.61
+.350
+8.89
+.545
+13.84
+.3125-.05P-.1L-2A
+.3750-28
+.244
+6.20
+#23 
+6
+.635
+16.13
+.410
+10.41
+.595
+15.11
+.3750-.05P-.1L-2A
+.4375-28
+.330
+8.38
+.018/.022 
+0.46/0.56
+7
+.755
+19.18
+.536
+13.61
+.723
+18.36
+.4375-.05P-.1L-2A
+.5625-32
+.432
+10.97
+8
+.755
+19.18
+.536
+13.61
+.723
+18.36
+.5000-.05P-.1L-2A
+.5625-32
+.493
+12.52
+#20/20HD 
+.024/.028 
+0.64/0.69 
+9
+.830
+21.08
+.596
+15.14
+.790
+20.07
+.5625-.05P-.1L-2A
+.6250-28
+.551
+14.00
+ 
+10
+.890
+22.61
+.658
+16.71
+.855
+21.72
+.6250-.05P-.1L-2A
+.6875-28
+.620
+15.75
+#16 
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M801
+83723
+26482
+26500
+13
+1.078
+27.38
+.845
+21.46
+1.044
+26.52
+.8125-.1P-.2L-2A
+.8750-28
+.703
+17.86
+.060/.064 
+1.52/1.63
+16
+1.264
+32.11
+1.022
+25.96
+1.230
+31.24
+1.0000-.1P-.2L-2A
+1.0625-20
+.863
+21.92
+#12 
+17
+1.325
+33.66
+1.096
+27.84
+1.290
+32.77
+1.0625-.1P-.2L-2A
+1.125-28
+.912
+23.16
+.092/.096 
+2.34/2.44
+21
+1.625
+41.28
+1.345
+34.16
+1.577
+40.06
+1.3125-.1P-.2L-2A
+1.375-28
+1.170
+29.72
+PANEL CUTOUT
+A Flat
+B Dia.
+in.  
+in.  
+Shell 
+Size
+±.002
+mm. 
+± 0.05
+±.002
+mm. 
+± 0.05
+5
+.356
+9.04
+.385
+9.78
+6
+.416
+10.57
+.447
+11.35
+7
+.542
+13.77
+.572
+14.53
+B DIA.
+8
+.542
+13.77
+.572
+14.53
+9
+.602
+15.29
+.635
+16.13
+A  FLAT
+10
+.666
+16.92
+.697
+17.70
+13
+.851
+21.62
+.885
+22.48
+16
+1.028
+26.11
+1.075
+27.31
+17
+1.102
+27.99
+1.135
+28.83
+21
+1.354
+34.39
+1.385
+35.18
+70
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M801 Dual-Start ACME Threads
+Hermetic Square Flange Connector 2M801-012-02
+Micro38999
+.752 
+19.10 MAX
+B BSC
+.280 7.1 MAX
+.060 1.5
+C DIA.
+.125 3.18 MIN
+PC TAIL
+A SQ 
+F DIA.
+G DIA. 
+SOLDER CUP
+.025
+E THREAD
+4X D DIA. 
+.100 (2.54) MAX PANEL
+THICKNESS 
+RED BAND
+INDICATES
+FULL MATE
+.360 ± .015
+A SQ.
+B BSC
+C Dia.
+D Dia.
+F Dia.
+in. 
+G. Dia. Tail 
+Shell 
+Size
+Dia.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+±.003
+mm. ± 
+0.08
+in.
+mm.
+ E Thread
+5
+.530
+13.46
+.363
+9.22
+.680
+17.27
+.093
+2.36
+.3125-.05P-.1L-2A
+.244
+6.20
+#23 
+6
+.590
+14.99
+.423
+10.74
+.750
+19.05
+.093
+2.36
+.3750-.05P-.1L-2A
+.330
+8.38
+.018/.022 
+0.46/0.56
+7
+.650
+16.51
+.483
+12.27
+.850
+21.59
+.093
+2.36
+.4375-.05P-.1L-2A
+.432
+10.97
+8
+.712
+18.08
+.545
+13.84
+.938
+23.83
+.093
+2.36
+.5000-.05P-.1L-2A
+.493
+12.52
+#20/20HD 
+.025/.027 
+0.64/0.69
+9
+.850
+21.56
+.607
+15.42
+1.125
+28.58
+.128
+3.25
+.5625-.05P-.1L-2A
+.551
+14.00
+#16 
+10
+.890
+22.61
+.670
+17.02
+1.188
+30.18
+.128
+3.25
+.6250-.05P-.1L-2A
+.620
+15.75
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M801
+83723
+26482
+26500
+13
+1.030
+26.16
+.812
+20.62
+1.375
+34.93
+.128
+3.25
+.8125-.1P-.2L-2A
+.703
+17.86
+.060/.064 
+1.52/1.63
+16
+1.219
+31.96
+.981
+24.92
+1.625
+41.28
+.128
+3.25
+1.0000-.1P-.2L-2A
+.863
+21.92
+#12 
+17
+1.280
+32.51
+1.060
+26.92
+1.700
+43.18
+.128
+3.25
+1.0625-.1P-.2L-2A
+.912
+23.16
+.092/.096 
+2.34/2.44
+21
+1.430
+36.32
+1.205
+30.61
+1.940
+49.28
+.128
+3.25
+1.3125-.1P-.2L-2A
+1.170
+29.72
+PANEL CUTOUT
+A Dia.
+B BSC
+C Dia.
+Shell 
+Size
+in. 
+mm.
+in.
+mm.
+in.
+mm.
+5
+.330
+8.38
+.363
+9.22
+.093
+2.36
+6
+.390
+9.91
+.423
+10.74
+.093
+2.36
+C DIA. 
+± .003 0.08
+7
+.450
+11.43
+.483
+12.27
+.093
+2.36
+8
+.510
+12.95
+.545
+13.84
+.093
+2.36
+9
+.575
+14.61
+.607
+15.42
+.128
+3.25
+B BSC
+10
+.640
+16.26
+.670
+17.02
+.128
+3.25
+13
+.825
+20.96
+.812
+20.65
+.128
+3.25
+16
+1.015
+25.78
+.981
+24.92
+.128
+3.25
+17
+1.075
+27.31
+1.060
+26.92
+.128
+3.25
+A DIA.
+21
+1.325
+33.66
+1.205
+30.61
+.128
+3.25
+71
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+2M801 Dual-Start ACME Threads
+Hermetic Weld Mount Connector 2M801-012-03
+ 
+.760
+19.10 MAX
+. 013 0.33
+.280 7.11 MAX
+VIEW A
+D
+  
+.125 3.18 MIN
+A DIA.
+MASTER
+KEYWAY
+30°
+PC TAIL
+C DIA.
+E DIA.
+SOLDER CUP
+B THREAD
+VIEW A 
+(SIZE 5 AND 6 ONLY)
+PANEL
+.025 0.64
+.039 1.00
+.100 2.54 MAX PANEL THICKNESS
+RED BAND
+INDICATES 
+FULL MATE
+ 
+.760
+19.10 MAX
+. 013 0.33
+.280 7.11 MAX
+VIEW A
+D DIA. +.005 .13/-.000 
+       
+.125 3.18 MIN
+30°
+PC TAIL
+C DIA.
+E DIA.
+SOLDER CUP
+THREAD
+VIEW A 
+(SIZE 5 AND 6 ONLY)
+PANEL CUTOUT
+.025 0.64
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M801
+83723
+26482
+26500
+.039 1.00
+.100 2.54 MAX PANEL THICKNESS
+RED BAND
+NDICATES 
+ULL MATE
+D Dia. Panel 
+Shell 
+Size
+A Dia
+C Dia.
+Cutout
+G. PC 
+ Tail Dia.
+in.
+mm.
+in.
+mm.
+in.
+mm.
+B Thread
+5
+.395
+10.03
+.3125-.05P-.1L-2A
+.244
+6.20
+.319
+8.10
+#23 
+6
+.455
+11.56
+.3750-.05P-.1L-2A
+.330
+8.38
+.379
+9.55
+.018/.022 
+0.46/0.56
+7
+.520
+13.21
+.4375-.05P-.1L-2A
+.432
+11.97
+.438
+11.13
+8
+.580
+14.73
+.5000-.05P-.1L-2A
+.493
+12.52
+.502
+11.13
+#20/20HD 
+.024/.028 
+0.64/0.69
+9
+.645
+16.38
+.5625-.05P-.1L-2A
+.551
+14.00
+.563
+14.30
+#16 
+10
+.705
+18.01
+.6250-.05P-.1L-2A
+.620
+15.75
+.627
+11.13
+.060/.064 
+1.52/1.63
+13
+.895
+22.73
+.8125-.1P-.2L-2A
+.703
+17.86
+.814
+20.68
+ 
+#12 
+16
+1.080
+27.43
+1.0000-.1P-.2L-2A
+.863
+21.92
+1.007
+25.58
+17
+1.145
+29.08
+1.0625-.1P-.2L-2A
+.912
+23.16
+1.067
+27.10
+.092/.096 
+2.34/2.44
+21
+1.395
+35.43
+1.3125-.1P-.2L-2A
+1.170
+29.72
+1.320
+33.53
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+72
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+83723 
+Pyle
+FEATURES:
+• Hermetic  
+ 
+Hermetic styles are  
+ 
+ 
+available in threaded  
+ 
+ 
+receptacles with solderwell   
+ 
+or flat eyelet termination. PC  
+The Amphenol MIL-DTL-83723, Series III family of connectors includes styles from 
+Pyle National. These have proven technology for severe environments and are 
+widely used in commercial and military aerospace markets. Amphenol/Pyle 83723 
+connectors incorporate many advantageous features, such as a unique threaded 
+coupling mechanism that provides greater resistance to decoupling. This coupling 
+mechanism eliminates the need for safety wiring and tends to couple during 
+vibration - thus offering the user added assurance and a margin of safety.
+ 
+Tail Designs are available on  
+ 
+request.
+• Environmental 
+ 
+Designed for environmental  
+ 
+moisture sealing with fused   
+ 
+compression glass sealed   
+ 
+inserts
+• High Temperature  
+ 
+ 
+Hermetics  
+ 
+ 
+ 
+200°C and 260°C  Firewall
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+73
+
+MIL-DTL-83723, Series III, Pyle®
+Manufacturer’s Specifications 
+The Amphenol/Pyle® Product line of MIL-DTL-83723*, Series III Connectors was developed for the higher operating temperatures 
+inherent in today’s high performance aircraft and aircraft engines.
+THESE CONNECTORS MEET THE PERFORMANCE REQUIREMENTS OF THE FOLLOWING  
+MANUFACTURER’S SPECIFICATIONS:
+•  European: ASD† EN2997
+•  Rolls Royce/SBAC: ESC10 
+HERMETIC CONNECTOR PERFORMANCE CHARACTERISTICS
+Thermal Shock
+No damage detrimental to the operation of the connector occurs when subjected to 10 cycles of 
+thermal shock from 0°C to 90°C and back to 0°C.
+Physical Shock (Mated)
+300 G’s
+Moisture Resistance (Mated)
+500 Megohms
+500 Megohms
+Insulation Resistance, High 
+Temp. (Mated)
+Corrosion (Unmated)
+Complies with MIL-DTL-83723 Req.
+Temperature Life
+Fully functional for 1000 hours at 200°C (392°F) ambient. Internal temperature 238°C (460°F).
+Air Leakage (Unmated)
+Less than .01 micron per cubic feet per hour on application of 15 PDS pressure differential across the 
+connector.
+Altitude Immersion (Mated)
+After 3 cycles immersed in salt water with pressure reduced to 1 in. Hg (75,000 ft. altitude) for 30 
+minutes and returned to atmosphere pressure. While connectors submerged insulation resistance 
+should remain 1000 megohms minimum and support 1500 volts RMS applied without flash-over or 
+breakdown.
+High Potential Voltage Altitude 
+(Unmated)
+When tested in accordance with MIL-STD-202, Method 301, no flash-over or breakdown under simu-
+lated altitude conditions as shown:
+Altitude/Service Rating I  
+50,000 .......... 500 AC-RMS 
+70,000 .......... 375 AC-RMS 
+110,000 ........ 200 AC-RMS
+* BACC63CM supersedes BACC63BR and BACC63CN supersedes BACC63BT.
+† ASD supersedes AECMA
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+AMPHENOL AEROSPACE OFFERS THE PYLE® 
+PRODUCT LINE OF MIL-DTL-83723*, SERIES III 
+CONNECTORS.
+Threaded 
+Coupling
+DESIGN FEATURES
+(THREADED STYLE SHOWN)
+Static Dynamic 
+‘O’ Ring Seal
+Accessory 
+Orientation Teeth (Op-
+tional 360° 
+also available)
+The Amphenol MIL-DTL-83723, Series III family of connectors 
+includes styles from Pyle National. These have proven 
+technology for severe environments and are widely used in 
+commercial and military aerospace markets.
+Amphenol/Pyle 83723 Series III high temperature styles are 
+capable of operation at 260° C/500°F. 
+The Pyle 83723 family provides hermetic class that exceed the 
+most stringent specification requirements.
+Full Mating 
+Indicator Band
+SERVICE RATINGS
+Test Voltage AC (RMS), 60 cps
+HERMETIC STYLE CONNECTORS
+Service 
+Rating
+Recommended 
+Operating AC 
+Voltage 
+50,000 
+70,000 
+110,000 
+at Sea Level
+Sea 
+Level
+ft.
+ft.
+ft.
+•  Hermetic styles are available in threaded receptacles with  
+ 
+ solderwell or flat eyelet termination. PC Tail Designs are available  
+I
+600
+1,500
+500
+375
+200
+ 
+ on request.
+•  Designed for environmental moisture sealing with fused compression  
+ 
+ glass sealed inserts
+Please note that the electrical data given is not an establishment of 
+electrical safety factors. This is left entirely in the designer’s hands as 
+he can best determine which peak voltage, switching surges, transients, 
+etc. can be expected in a partic ular circuit.
+•  High temperature hermetics 200°C and 260°C  Firewall
+74
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-83723, Series III, Pyle®
+Hermetic Receptacles, cont. - Quick Reference
+SERVICE CLASSES HERMETIC 
+MILITARY AND COMMERCIAL
+HERMETIC
+MIL-DTL-83723, SERIES III 
+HERMETIC SOLDER MOUNT/WELD MOUNT 
+RECEPTACLE, THREADED COUPLING
+MILITARY 
+Y
+Stainless steel, 200°C, hermetic with 
+solderwell contacts
+M83723/90Y
+Stainless Steel, Class Y, Solderwell 
+contacts
+P
+Stainless steel, 200°C, hermetic with 
+eyelet contacts
+M83723/90P
+Stainless Steel, Class P, Eyelet contacts
+YE
+Stainless steel, high temp. (260°C) 
+firewall capability, hermetic with  
+solderwell contacts
+COMMERCIAL
+BTY-14
+Stainless Steel, ‘O’ ring Seal, 
+Solderwell or Eyelet contacts, 
+200°C or 260°C
+Stainless Steel, Static Dynamic Seal, 
+Solderwell or Eyelet   
+ 
+BFY-14
+contacts, 200°C or 260°C
+BNY-14
+Stainless Steel, Static Dynamic Seal, 
+Electro-deposited Nickel, 
+Solderwell or Eyelet contacts, 200°C 
+or 260°C
+COMMERCIAL ASD
+EN2997YI/
+YE1
+Meets ASD Specifications, Stainless 
+Steel, Class Y (200°C) / Class YE 
+(260°C), Solderwell contacts
+COMMERCIAL ROLLS ROYCE STANDARDS
+HERMETIC 
+SOLDER MOUNT/WELD 
+MOUNT RECEPTACLE, 
+THREADED
+ESC10YE1
+260°C Firewall, Stainless Steel, Class 
+YE, Solderwell contacts
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+ESC11YE1
+260°C Firewall, Stainless Steel, Class 
+YE, Solderwell contacts, 
+Scoop-proof Recessed pins
+PCB Tails available upon request
+Commercial BTY, BFY and BNY meet European specifications and General Electric  spec. GEM50TF3564, Classes A & B.
+Shell sizes 20, 24 and 28, consult Amphenol Aerospace for availability. Hermetic style receptacles are not included in Boeing designations.
+75
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-83723, Series III, Pyle®
+Hermetic Receptacles - Quick Reference
+MIL-DTL-83723, SERIES III, HERMETIC 
+SQUARE FLANGE RECEPTACLE, THREADED 
+COUPLING
+MILITARY 
+SERVICE CLASSES 
+HERMETIC 
+MILITARY AND COMMERCIAL
+HERMETIC
+M83723/88Y
+Stainless Steel, Class Y, Solderwell contacts
+M83723/88P
+Stainless Steel, Class P, Eyelet contacts
+Y
+Stainless Steel, 200°C, hermetic 
+with solderwell contacts
+COMMERCIAL
+P
+Stainless steel, 200°C, hermetic 
+with eyelet contacts
+BTY-17
+Stainless Steel, ‘O’ ring Seal, Solderwell or Eyelet 
+contacts, 200°C or 260°C
+YE
+Stainless steel, high temp. (260°C) 
+firewall capability, hermetic with 
+solderwell contacts
+BFY-17
+Stainless Steel, Static Dynamic Seal, Solderwell or 
+Eyelet contacts, 200°C or 260°C
+BNY-17
+Stainless Steel, Static Dynamic Seal, Electro-
+deposited Nickel, Solderwell or Eyelet contacts, 
+200°C or 260°C
+COMMERCIAL ASD
+EN2997Y0 / YE0
+Meets ASD Specifications, Stainless Steel, Class Y 
+(200°C) / Class YE (260°C), Solderwell contacts 
+COMMERCIAL ROLLS ROYCE STANDARDS
+ESC10YE2
+260°C Firewall, Stainless Steel, Class YE, Solderwell 
+contacts
+ESC10YE2
+HERMETIC 
+SQUARE FLANGE 
+RECEPTACLE, 
+THREADED
+260°C Firewall, Stainless Steel, Class YE, Solderwell 
+contacts, 
+Scoop-proof Recessed pins
+PCB Tails available upon request
+MIL-DTL-83723, SERIES III, HERMETIC JAM NUT  
+RECEPTACLE, THREADED COUPLING
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+MILITARY 
+M83723/89Y
+Stainless Steel, Class Y, Solderwell contacts
+M83723/89P
+Stainless Steel, Class Y, Eyelet contacts
+COMMERCIAL
+BTY-19
+Stainless Steel, ‘O’ ring Seal, Solderwell or Eyelet 
+contacts, 200°C or 260°C
+BFY-19
+Stainless Steel, Static Dynamic Seal, Electro-
+deposited Nickel, Solderwell  
+or Eyelet contacts, 200°C or 260°C
+BNY-19
+HERMETIC 
+JAM NUT 
+RECEPTACLE, 
+THREADED
+Stainless Steel, Static Dynamic Seal, Electro-
+deposited Nickel, Solderwell  
+or Eyelet contacts, 200°C or 260°C
+COMMERCIAL ASD
+EN2997Y7 / YE7
+Meets ASD Specifications, Stainless Steel, Class Y 
+(200°C) / Class YE (260°C), Solderwell contacts 
+COMMERCIAL ROLLS ROYCE STANDARDS
+Commercial BTY, BFY and BNY meet  
+European specifications and General Electric  
+spec. GEM50TF3564, Classes A & B.
+ESC10YE3
+260°C Firewall, Stainless Steel, Class YE, Solderwell 
+contacts
+ESC11YE3
+260°C Firewall, Stainless Steel, Class YE, Solderwell 
+contacts, Scoop-proof Recessed pins
+Shell sizes 20, 24 and 28, consult Amphenol 
+Aerospace for availability. 
+Hermetic style receptacles are not included in 
+Boeing designations.
+PCB Tails available upon request
+76
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-83723, Series III, Pyle®
+Insert Availability and Identification, 
+Alternate Keying Positions
+ALTERNATE KEYING POSITIONS  
+(ROTATION OF KEY/KEYWAY OF SHELL)
+INSERT ARRANGEMENTS
+Contact Size
+Shell Size/ 
+Total 
+Insert 
+Service 
+Rating
+Contacts
+8
+12
+16
+20
+Arrangement
+08-03
+I
+3
+3
+08-98
+I
+3
+3
+To avoid cross-plugging problems in applications requiring the use of 
+more than one connector of the same size and arrange ment, alternate 
+keying positions are available as indicated in the chart below. The 
+diagram shows the engaging view of a receptacle shell with keyways. 
+The insert is rotated counter-clockwise relative to the center-line. Plug 
+shells would be the opposite of this diagram.
+10-02**
+I
+2
+2
+10-05
+I
+5
+5
+Keying Positions
+10-06
+I
+6
+6
+10-20
+I
+2
+2
+Master Polarizing
+Keyway
+12-03***
+I
+3
+3
+A
+°
+12-12
+I
+12
+12
+14-04***
+I
+4
+4
+B
+°
+14-07***
+I
+7
+7
+14-12
+I
+12
+3
+9
+D
+C
+°
+°
+In the “Normal insert position” 
+(position N), the insert center 
+line coincides with the center-
+line of the master key/keyway 
+of the shell. In the “alternate 
+keying positions” (positions 
+6, 7, 8, 9 and Y), the minor 
+keys/keyways are positioned 
+with reference to mas ter key/
+keyway as indicated in the 
+keying  
+position table.
+14-15
+I
+15
+15
+Shown is Engaging Face View of
+Receptacle Shell with Keyways
+(Plug Shell Keys would be Opposite)
+16-10***
+I
+10
+10
+16-24
+I
+24
+24
+ALTERNATE KEYING POSITIONS OF SHELL
+18-08
+I
+8
+8
+Key/Keyway Positions
+18-14***
+I
+14
+14
+Shell 
+Size
+Polarizing 
+Position
+A°
+B°
+C°
+D°
+18-31
+I
+31
+31
+8 thru 24
+N
+105
+140
+215
+265
+8 & 10
+6
+102
+132
+248
+320
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+7
+80
+118
+230
+312
+8
+35
+140
+205
+275
+9
+64
+155
+234
+304
+† Not an MS layout.
+* Special - consult Amphenol for availability.
+** Special Pyle with Matrix 83723 insert (ESC10 type, EN2997 Spec); 
+consult Amphenol Aerospace for availability. Size 8 and Size 12 cavities 
+can accommodate Twinax or Coax contacts; consult Amphenol for  
+information. Sizes 20, 24 and 28 Hermetic; consult Amphenol Aerospace 
+for availability.
+10 only
+Y††
+25
+115
+220
+270
+6
+18
+149
+192
+259
+7
+92
+152
+222
+342
+8
+84
+152
+204
+334
+12, 14, 
+16, 18, 
+20, 22, 
+24 and 
+28
+9
+24
+135
+199
+240
+Y††
+98
+152
+268
+338
+ESC 11 (HTK SERIES) ONLY
+Key/Keyway Positions
+Shell 
+Size
+Polarizing 
+Position
+A°
+B°
+C°
+D°
+N
+95
+145
+220
+255
+6
+101
+168
+211
+342
+14 thru 
+7
+18
+138
+208
+268
+24
+8
+26
+156
+208
+276
+9
+120
+161
+225
+336
+†† Position Y supersedes inactive positions 10 and Z designations. 
+Ref. MIL-STD-1554.
+77
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-83723, Series III, Pyle®
+Insert Arrangements
+Front face of pin insert or rear face of socket insert illustrated
+1
+1
+6
+1
+1
+5
+1
+3
+1
+1
+2
+1
+2
+3
+4
+5
+2
+3
+2
+12
+3
+2
+Insert Arrangement
+08-03
+08-98
+10-02**
+10-05
+10-06
+10-20
+12-03***
+12-12
+Service Rating
+I
+I
+I
+I
+I
+I
+I
+I
+Number of Contacts
+3
+3
+2
+5
+6
+2
+3
+12
+Contact Size
+20
+20
+20
+20
+20
+16
+16
+20
+7
+4
+10
+1
+1
+1
+1
+15
+1
+1
+12
+24
+Insert Arrangement
+14-04***
+14-07***
+14-12**
+14-15
+16-10***
+16-24
+Service Rating
+I
+I
+I
+I
+I
+I
+Number of Contacts
+4
+7
+9
+3
+15
+10
+24
+Contact Size
+12
+16
+20
+16
+20
+16
+20
+14
+8
+31
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+1
+1
+1
+Insert Arrangement
+18-08
+18-14***
+18-31
+Service Rating
+I
+I
+I
+Number of Contacts
+8
+14
+31
+Contact Size
+12
+16
+20
+†Not an MS layout.
+*Special - consult Amphenol Aerospace for availability.
+** Special Pyle with Matrix 83723 insert (ESC10 type, EN2997 Spec); consult Amphenol Aerospace  for availability.
+Size 8 and Size 12 cavities can accommodate Twinax or Coax contacts; consult Amphenol Aerospace for information.
+Sizes 20, 24 and 28 Hermetic; consult Amphenol Aerospace for availability.
+CONTACT LEGEND 
+20 
+16 
+12 
+8
+78
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-83723, Series III, Pyle®
+How to Order – Hermetic, Military or Pyle Commercial
+1.
+2.
+3.
+4.
+5.
+Connector Style 
+Shell Size/ 
+Connector 
+and 
+Insert 
+Type
+Service 
+Class
+Alternate Keying 
+Position of Shell 
+Contact Type (Crimp) 
+Arrangement
+M83723
+/88
+Y
+16-24
+6
+MILITARY  
+HERMETIC
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Shell Size/ 
+Alternate 
+Connector 
+Contact 
+Contact 
+Alternate Contact 
+Insert 
+Keying Position 
+Style
+Shell 
+Style
+Type
+Style
+Finish
+Varia- 
+tions
+Arrangement
+of Shell
+BTY
+-17
+16-24
+P
+1
+D
+06
+XXXX
+COMMERCIAL
+HERMETIC
+1. COMMERCIAL HERMETIC CONNECTOR STYLE
+1. MILITARY CONNECTOR TYPE
+M83723
+Designates MIL-DTL-83723 Series III Connectors
+BTY
+Hermetic, Threaded, Stainless Steel, with ‘O’ ring seal
+BFY
+Hermetic, Threaded, Stainless Steel, Static/Dynamic Seal
+2. MILITARY HERMETIC CONNECTOR STYLE
+BNY
+Hermetic, Threaded, Stainless Steel, Electro-deposited 
+Nickel plated, with Static/Dynamic Seal
+/88
+Hermetic, Threaded Square Flange Receptacle
+/89
+Hermetic, Threaded Jam Nut (D-Hole Mount) 
+Receptacle
+2. SHELL STYLE
+/90
+Hermetic, Threaded Solder Mounted Receptacle
+-17
+Square Flange Receptacle
+-19
+Jam Nut (D-Hole Mount) Receptacle
+3. SERVICE CLASS
+-14
+Solder Mounted Receptacle
+(Refer to military specification slash sheet number.) 
+Y
+Hermetic, Stainless Steel, 200°C, with Solderwell 
+Contacts
+H
+Hermetic, Tin Plated Carbon Steel, 150° C
+3. SHELL SIZE & INSERT ARRANGEMENT
+Page 
+For availability of a Plated Steel Shell, consult  
+Amphenol Aerospace. 
+78
+First number represents Shell Size, second number is the 
+Insert Arrangement
+4. SHELL SIZE & INSERT ARRANGEMENT
+4. CONTACT TYPE
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+First number represents Shell Size, second  
+ 
+Page 
+P
+Pin Contacts
+78
+number is the Insert Arrangement
+5. ALTERNATE KEYING POSITION - ROTATION
+5. CONTACT STYLE
+Page 
+1
+Solderwell Contacts (Mil-Spec Type)
+77
+Use N for normal. Use 6, 7, 8, 9 or Y for alternate 
+keying positions. See page 77 for descriptions.
+4
+Eyelet Contacts
+6. ALTERNATE CONTACT FINISH
+D
+.000050 (per MIL-DTL-83723, III) Gold
+V
+.000100 Gold
+7. ALTERNATE KEYING POSITION - ROTATION
+Page 
+77
+Use N for normal. Use 6, 7, 8, 9 or Y for alternate keying 
+positions. See page 77 for descriptions.
+8. VARIATIONS
+Y144
+260°C Capability (Euro Market)
+Y163
+200°C Capability (Euro Market)
+Y186
+260°C Capability per G.E. M50TF3564, Class B
+Y188
+200°C Capability per G.E. M50TF3564, Class A
+79
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Square Flange Mount Receptacle, 
+Threaded Coupling
+Military (MS83723/88), Commercial (BTY, BFY, BNY)
+QUICK REFERENCE Page 75-76
+PART NUMBER BUILDER Page 79
+MILITARY 
+M83723/88Y
+M83723/88P
+COMMERCIAL 
+BTY/BFY/BNY-17 
+EN2997Y0 / YE0 
+ESC10YE2 
+ESC11YE2
+.904 Max.
+22.96 Max.
+A
+.728 Max.
+18.49 Max.
+B
+Fully Mated 
+Band†
+N
+Contact
+Stickout
+N
+Contact
+Stickout
+A
+B
+F Dia.
+Rear
+Max.
+X Dia.
+Panel
+Min.
+P Dia.
+Front
+Max.
+D Dia.
+Panel
+Min.
+Solderwell
+Contacts
+Optional
+Eyelet Contacts 
+4 Mounting Holes
+J Coupling
+Thread
+.125 Max.
+3.17 Max.
+.250 Max.
+6.35 Max.
+Shell Sizes 8 to 22 –
+   .125/.116 3.17/2.94
+Shell Sizes 24 & 28 –
+   .154/.145 3.91/3.68
+† When fully mated with plug, this band will be covered.  
+ 
+(Band is red on military types; can be red or blue on commercial types).
+Inches
+N 
+J 
+A 
+Coupling Thread 
+Size 12 & 
+Shell 
+Size
+±.010
+B 
+±.005
+D Dia. 
+Panel 
+Min.
+F Dia. 
+Rear 
+Max.
+Class 2A
+Contact Stickout
+P Dia. 
+Front 
+Max.
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+16 
+X Dia. 
+Panel 
+Min.
+Size 20 
+Contacts
+Contacts
+ 8
+  .812
+  .594
+  .510
+  .500
+  .5625-24 UNF
+.194 / .134
+.224 / .164
+  .562
+  .572
+10
+  .937
+  .719
+  .635
+  .625
+  .6875-24 UNEF
+.194 / .134
+.224 / .164
+  .696
+  .706
+12
+1.031
+  .812
+  .760
+  .750
+  .8750-20 UNEF
+.194 / .134
+.224 / .164
+  .875
+  .885
+14
+1.125
+  .906
+  .885
+  .875
+  .9375-20 UNEF
+.194 / .134
+.224 / .164
+  .936
+  .946
+16
+1.250
+  .969
+1.010
+1.000
+1.0625-18 UNEF
+.194 / .134
+.224 / .164
+1.062
+1.072
+18
+1.343
+1.062
+1.072
+1.062
+1.1875-18 UNEF
+.194 / .134
+.224 / .164
+1.187
+1.197
+22
+1.562
+1.250
+1.322
+1.312
+1.4375-18 UNEF
+.194 / .134
+.224 / .164
+1.437
+1.447
+Millimeters
+A 
+Shell 
+Size
+±.25
+B 
+±.13 
+D Dia. 
+Panel 
+Min.
+F Dia. 
+Rear 
+Max.
+P Dia. 
+Front 
+Max.
+X Dia. 
+Panel 
+Min.
+ 8
+20.62
+15.09
+12.95
+12.70
+14.27
+15.75
+10
+23.80
+18.26
+16.13
+15.88
+17.68
+18.99
+12
+26.19
+20.62
+19.30
+19.05
+22.23
+23.19
+14
+28.58
+23.01
+22.48
+22.23
+23.77
+24.89
+16
+31.75
+24.61
+25.65
+25.40
+26.97
+28.12
+18
+34.11
+26.97
+27.23
+26.97
+30.15
+30.71
+Commercial hermetics meet some 
+European and GE specifications.
+Hermetic styles are threaded coupling only.
+Shell sizes 20, 24 and 28, consult  
+Amphenol for availability.
+All dimensions for reference only.
+22
+39.67
+31.75
+33.58
+33.32
+36.50
+36.88
+80
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Jam Nut (D-Hole Mount) Receptacle, 
+Threaded Coupling
+Military (MS83723/89), Commercial (BTY, BFY, BNY)
+QUICK REFERENCE Page 75-76
+PART NUMBER BUILDER Page 79
+MILITARY 
+M83723/89Y
+M83723/89P
+COMMERCIAL  
+BTY, BFY, BNY-19 
+EN2997Y7, YE7 
+ESC10YE3 
+ESC11YE3
+.781/ .761 Max.
+19.83/19.32 Max.
+Fully Mated 
+Band†
+G Dia.
+N
+Contact
+Stickout
+N
+Contact
+Stickout
+.281
+7.13
+Z Flats
+B
+Y Dia.
+P Dia.
+Front
+Max.
+J Coupling Thread
+Panel Cutout Hole
+(Panel Thickness .125/.062  3.18/1.57)
+Solderwell
+Contacts
+Optional
+Eyelet
+Contacts 
+C
+V Thread
+.125 Max. Panel
+3.17 Max. Panel
+B
+.137/ 097
+3.47/2.46
+† When fully mated with plug,this band will be covered.  
+ 
+(Band is red on military types; can be red or blue on commercial types).
+Inches
+N 
+J 
+V 
+Coupling Thread 
+Shell 
+Size
+B Flats 
+Max.
+C Hex 
+Max.
+G Dia. 
+Max.
+Y Dia. 
+±.005
+Size 12 & 16 
+Class 2A
+Contact Stickout
+P Dia. 
+Front 
+Max.
+Thread 
+Class 2A
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Z Flats 
+±.005
+Size 20 
+Contacts
+Contacts
+ 8
+  .980
+  .828
+1.068
+  .5625-24 UNF
+.180 / .120
+.210 / .150
+  .562
+  .6250-20 UNF
+  .635
+  .605
+10
+1.104
+  .953
+1.192
+  .6875-24 UNEF
+.180 / .120
+.210 / .150
+  .696
+  .7500-20 UNEF
+  .760
+  .730
+12
+1.291
+1.140
+1.380
+  .8750-20 UNEF
+.180 / .120
+.210 / .150
+  .875
+  .9380-20 UNEF
+  .947
+  .917
+14
+1.391
+1.205
+1.505
+  .9375-20 UNEF
+.180 / .120
+.210 / .150
+  .936
+1.0000-20 UNEF
+1.010
+  .980
+16
+1.516
+1.329
+1.630
+1.0625-18 UNEF
+.180 / .120
+.210 / .150
+1.062
+1.1250-18 UNEF
+1.135
+1.105
+18
+1.641
+1.455
+1.756
+1.1875-18 UNEF
+.180 / .120
+.210 / .150
+1.187
+1.2500-18 UNEF
+1.260
+1.225
+22
+1.954
+1.705
+2.068
+1.4375-18 UNEF
+.180 / .120
+.210 / .150
+1.437
+1.5000-18 UNEF
+1.510
+1.475
+Millimeters
+N 
+Z Flats 
+C Hex 
+Max.
+G Dia. 
+Max.
+Y Dia. 
+±.13
+Shell 
+Size
+B Flats 
+Max.
+Contact Stickout
+P Dia. 
+Front 
+Max.
+Size 12 &16 
+±.13
+Size 20 
+Contacts
+Contacts
+ 8
+24.89
+21.03
+27.13
+4.57 / 3.05
+5.33 / 3.81
+14.27
+16.13
+15.37
+Commercial hermetics meet some  
+European and GE specifications.
+Hermetic styles are threaded  
+coupling only.
+ 
+Shell sizes 20, 24 and 28, consult  
+Amphenol for availability.
+All dimensions for reference only.
+10
+28.04
+24.21
+30.28
+4.57 / 3.05
+5.33 / 3.81
+17.68
+19.30
+18.54
+12
+32.79
+28.96
+35.05
+4.57 / 3.05
+5.33 / 3.81
+22.23
+24.05
+23.29
+14
+35.33
+30.61
+38.23
+4.57 / 3.05
+5.33 / 3.81
+23.77
+25.65
+24.89
+16
+38.51
+33.76
+41.40
+4.57 / 3.05
+5.33 / 3.81
+26.97
+28.83
+28.07
+18
+41.68
+36.96
+44.60
+4.57 / 3.05
+5.33 / 3.81
+30.15
+32.00
+31.12
+22
+49.63
+43.31
+52.53
+4.57 / 3.05
+5.33 / 3.81
+36.47
+38.35
+37.47
+81
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic Solder/Weld Mount Receptacle,  
+Threaded Coupling
+Military (M83723/90), Commercial (BTY, BFY, BNY)
+QUICK REFERENCE Page 75-76
+PART NUMBER BUILDER Page 79
+Hermetically sealed receptacles have fused compression glass sealed inserts which 
+provide envionrmental moisture sealing. There are three hermetic styles within the PT 
+bayonet series. 
+MILITARY 
+M83723/90Y
+M83723/90P
+COMMERCIAL 
+BTY/BFY/BNY-14
+EN2997Y1 / YE1
+ESC10YE1
+ESC11YE1
+.904 Max.
+22.96 Max.
+.109/.079
+2.76/2.00
+A
+.062/.047
+1.57/1.19
+N
+Contact
+Stickout
+N
+Contact
+Stickout
+.281
+7.13
+D Dia.
+Panel
+Min.
+P Dia.
+Front
+Max.
+F Dia.
+Rear
+Max.
+J Coupling Thread
+Solderwell
+Contacts
+Optional
+Eyelet
+Contacts 
+Fully Mated Band†
+.031/.016
+.78/.40
+† When fully mated with plug this band will be covered.  
+ 
+(Band is red on military types; can be red or blue on commercial types).
+Inches
+N 
+J 
+Coupling Thread 
+Shell 
+Size
+A Dia. 
+±.010
+Size 12 & 16 
+D Dia. 
+Panel 
+Min.
+F Dia. 
+Rear 
+Max.
+Class 2A
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Contact Stickout
+P Dia. 
+Front 
+Max.
+Size 20 
+Contacts
+Contacts
+ 8
+  .713
+  .510
+  .500
+  .5625-24 UNF
+.194 / .134
+.224 / .164
+  .562
+10
+  .840
+  .572
+  .562
+  .6875-24 UNEF
+.194 / .134
+.224 / .164
+  .696
+12
+1.045
+  .760
+  .750
+  .8750-20 UNEF
+.194 / .134
+.224 / .164
+  .875
+14
+1.090
+  .822
+  .812
+  .9375-20 UNEF
+.194 / .134
+.224 / .164
+  .936
+16
+1.210
+  .947
+  .937
+1.0625-18 UNEF
+.194 / .134
+.224 / .164
+1.062
+18
+1.340
+1.072
+1.062
+1.1875-18 UNEF
+.194 / .134
+.224 / .164
+1.187
+22
+1.562
+1.322
+1.312
+1.4375-18 UNEF
+.194 / .134
+.224 / .164
+1.437
+Millimeters
+Shell 
+Size
+A Dia. 
+±.25
+D Dia. 
+Panel 
+Min.
+F Dia. 
+Rear 
+Max.
+P Dia. 
+Front 
+Max.
+Commercial hermetics meet some  
+European and GE specifications.
+Hermetic styles are threaded  
+coupling only.
+ 8
+18.11
+12.95
+12.70
+14.27
+10
+21.34
+14.53
+14.27
+17.68
+Shell sizes 20, 24 and 28, consult  
+Amphenol for availability.
+All dimensions for reference only.
+12
+26.54
+19.30
+19.05
+22.23
+14
+27.69
+20.88
+20.62
+23.77
+16
+30.73
+24.05
+23.80
+26.97
+18
+34.04
+27.23
+26.97
+30.15
+22
+39.67
+33.58
+33.32
+36.50
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+82
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+26482
+Series I
+FEATURES: 
+• All styles are for general duty  
+ 
+applications and  
+ 
+environmental sealing is  
+ 
+achieved with the grommet  
+ 
+and clamp design.
+Amphenol® Miniature Circular connectors offer twice the  
+number of contacts in just half the size of a standard 
+connector. These miniature connectors, are available in 
+several series, each with varying design characteristics and 
+customer options to meet cost con siderations and provide 
+maximum design flexibility. 
+• Operating temperature is  
+ 
+from –55°C to +125°;  
+ 
+Operating voltage to  
+ 
+1000 VAC (RMS) at sea level.
+Hermetically sealed receptacles have fused compression glass sealed inserts which 
+provide environmental moisture sealing. There are three hermetic styles within the PT 
+bayonet series.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+83
+
+Hermetic MIL-DTL-26482, Series I
+Insert Availability Chart
+Insert  
+Total  
+Arrangement
+Hermetic PT 
+MS-PT PC
+Contacts
+20
+16
+12
+Service 
+Rating
+6-1
+X
+1
+1
+I
+8-2
+X
+2
+2
+I
+8-3
+X
+3
+3
+I
+8-4
+X
+4
+4
+I
+8-33
+X
+3
+3
+I
+10-5
+X
+5
+5
+I
+10-6
+X
+6
+6
+I
+10-98
+X
+6
+6
+I
+12-3
+X
+55
+55
+I
+12-4
+X
+61
+61
+I
+12-8
+X
+32
+32
+I
+12-10
+X
+10
+10
+I
+14-4
+X
+4
+4
+I
+14-5
+X
+41
+I
+14-12
+X
+21
+21
+21
+II
+14-15
+X
+41
+27
+14
+14
+I
+14-18
+X
+55
+55
+I
+14-19
+X
+61
+61
+I
+14-AA
+X
+55
+55
+I
+16-8
+X
+55
+55
+I
+16-26
+X
+55
+55
+I
+18-11
+X
+55
+55
+I
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+18-30
+X
+55
+55
+I
+18-32
+X
+32
+32
+I
+20-16
+X
+16
+16
+16
+II
+20-39
+X
+39
+37
+2
+2
+I
+20-41
+X
+41
+41
+I
+22-21
+X
+21
+21
+21
+II
+22-41
+X
+41
+27
+14
+14
+I
+22-55
+X
+55
+55
+I
+24-61
+X
+61
+61
+I
+84
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-26482, Series I
+Insert Arrangements
+A
+A
+F
+C
+A
+E
+A
+F
+E
+B
+A
+C
+D
+A
+C
+B
+A
+E
+B
+D
+C
+B
+A
+B
+D
+C
+B
+D
+C
+B
+B
+C
+Insert Arrangement
+6-1
+8-2
+8-3
+8-4
+8-33
+10-5
+10-6
+10-98
+12-3
+Service Rating
+I
+I
+I
+I
+I
+I
+I
+I
+II
+Number of Contacts
+1
+2
+3
+4
+3
+5
+6
+6
+3
+Contact Size
+20
+20
+20
+20
+20
+20
+20
+20
+16
+A
+L
+A
+A
+A
+H
+A
+H
+B
+L
+K
+B
+K
+M
+G
+A
+J
+B
+M
+G
+B
+A
+E
+B
+A
+D
+G
+K
+J
+C
+C
+J
+P
+C
+N
+U
+T
+F
+B
+J
+R
+N
+M
+K
+D
+B
+H
+S
+R
+B
+C
+H
+D
+D
+H
+D
+C
+P
+F
+C
+E
+C
+L
+C
+E
+D
+G
+F
+E
+F
+E
+D
+D
+G
+F
+E
+Insert Arrangement
+12-4
+12-8
+12-10
+14-4
+14-5
+14-12
+14-15
+14-18
+Service Rating
+I
+I
+I
+I
+II
+I
+I
+I
+Number of Contacts
+4
+8
+10
+4
+5
+8
+4
+14
+1
+18
+Contact Size
+16
+20
+20
+12
+16
+20
+16
+20
+16
+20
+A
+S
+A
+A
+J
+A
+A
+B
+A
+A
+R
+C
+B
+d
+T
+S
+R
+T
+e
+B
+B
+V
+U
+T
+S
+R
+P
+M
+L
+P
+c
+C
+U
+P
+N
+P
+D
+e
+C
+H
+f
+B
+N
+G
+B
+d
+C
+D
+W
+U
+K
+a
+b
+b
+N
+U
+V
+K
+V
+D
+j
+R
+E
+D
+N
+g
+H
+M
+f
+g
+X
+c
+a
+c
+F
+C
+D
+W
+V
+Z
+M
+E
+L
+B
+F
+M
+J
+T
+S
+h
+E
+G
+C
+L
+Y
+b
+E
+Z
+Y
+X
+L
+G
+F
+L
+Y
+X
+W
+a
+Z
+H
+G
+F
+K
+C
+E
+D
+J
+H
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+K
+J
+H
+G
+K
+J
+H
+G
+F
+F
+E
+D
+Insert Arrangement
+14-19
+14-AA
+16-8
+16-26
+18-11
+18-30
+18-32
+Service Rating
+I
+I
+II
+I
+II
+I
+I
+Number of Contacts
+19
+4
+8
+26
+11
+29
+1
+32
+Contact Size
+20
+12
+16
+20
+16
+20
+16
+20
+A
+N
+A
+A
+Z
+Y
+X
+C
+B
+A
+C
+B
+M
+a
+A
+Z
+Y
+L
+B
+A
+C
+B
+a
+P
+B
+W
+V
+U
+W
+D
+d
+c
+b
+j
+D
+m
+k
+j
+Y
+X
+W
+V
+X
+b
+D
+Y
+X
+K
+w
+v
+u
+t
+C
+R
+W
+B
+V
+T
+M
+n
+s
+E
+U
+e
+L
+k
+j
+C
+i
+i
+E
+Z
+Z
+HH
+GG
+x
+W
+m
+k
+E
+c
+t
+i
+JJ
+NN
+X
+D
+U
+N
+S
+S
+s
+m
+f
+T
+F
+h
+p
+h
+a
+t
+s
+a
+r
+F
+FF
+PP
+y
+V
+F
+C
+J
+V
+S
+MM
+KK
+E
+r
+r
+T
+r
+q
+K
+D
+n
+g
+R
+G
+S
+EE
+R
+P
+G
+h
+g
+LL
+e
+d
+z
+U
+g
+S
+b
+G
+g
+b
+q
+H
+q
+F
+p
+q
+p
+n
+h
+f
+R
+U
+T
+P
+J
+DD
+AA
+E
+H
+R
+T
+D
+H
+H
+p
+G
+N
+CC
+BB
+f
+e
+d
+c
+f
+e
+d
+c
+S
+J
+P
+N
+M
+L
+K
+J
+n
+m
+k
+j
+i
+H
+G
+F
+P
+N
+M
+L
+K
+J
+M
+L
+K
+J
+H
+G
+F
+E
+R
+P
+N
+M
+L
+K
+Insert Arrangement
+20-16
+20-39
+20-41
+22-21
+22-41
+24-61
+Service Rating
+II
+I
+I
+II
+I
+I
+Number of Contacts
+16
+37
+2
+41
+21
+27
+14
+61
+Contact Size
+16
+20
+16
+20
+16
+20
+16
+20
+20
+16
+12
+HV
+12 
+8  
+CONTACT 
+LEGEND
+Coax
+Coax
+85
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-26482, Series I
+Alternate Positioning
+ALTERNATE POSITIONING
+To avoid cross-plugging problems in applications requiring the use of more than one miniature circular connector 
+of the same size and arrangement, alternate insert rotations are available as indicated in the accompanying chart. 
+As shown in the diagram, the front face of the pin insert is rotated within the shell in a clockwise direction from the 
+normal shell key. The socket insert would be rotated counterclockwise the same number of degrees in respect to the 
+normal shell key.
+KEYWAY ROTATION
+Insert 
+Insert Rotation
+Shell 
+Size
+Arrangement
+W
+X
+Y
+Z
+6
+6-1
+-
+-
+-
+-
+8
+8-2*
+86
+72
+128
+114
+8
+8-3
+80
+68
+132
+120
+8
+8-4*
+79
+66
+134
+121
+8
+8-33*
+82
+70
+130
+118
+10
+10-5*
+85
+74
+126
+115
+10
+10-6*
+90
+-
+-
+-
+10
+10-98*
+90
+180
+240
+270
+12
+12-3
+-
+-
+180
+-
+12
+12-4*
+38
+-
+-
+-
+12
+12-8
+90
+112
+203
+292
+12
+12-10*
+60
+155
+270
+295
+14
+14-4*
+45
+-
+-
+-
+14
+14-5
+40
+92
+184
+273
+14
+14-12
+43
+90
+-
+-
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+14
+14-15
+17
+110
+155
+234
+14
+14-18
+15
+90
+180
+270
+14
+14-19
+30
+165
+315
+-
+14
+14-AA
+45
+-
+-
+-
+16
+16-8
+54
+152
+180
+331
+16
+16-26
+60
+-
+275
+338
+18
+18-11
+62
+119
+241
+340
+18
+18-30
+180
+193
+285
+350
+18
+18-32
+85
+138
+222
+265
+20
+20-16
+238
+318
+333
+347
+20
+20-39
+63
+144
+252
+333
+20
+20-41
+45
+126
+225
+-
+22
+22-21
+16
+135
+175
+349
+22
+22-41
+39
+135
+264
+-
+22
+22-55
+30
+142
+226
+314
+24
+24-61
+90
+180
+270
+324
+86
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Hermetic MIL-DTL-26482, Series I
+How to Order
+1.
+2.
+3.
+4.
+5.
+6.
+Shell Size/ 
+Alternate 
+Connector 
+Contact 
+Insert 
+Keying Position 
+Style
+Shell 
+Style
+Service Class
+Type
+Arrangement
+of Shell
+PT
+02
+H
+6-1
+P
+06
+COMMERCIAL
+HERMETIC
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Shell Size/ 
+Connector 
+Contact 
+Insert 
+Type
+Specific Number
+Shell 
+Style
+Service 
+Class
+Type
+Alternate Keying 
+Position of Shell 
+Arrangement
+MS
+311
+3
+H
+16-24
+P
+6
+MILITARY  
+HERMETIC
+1. COMMERCIAL HERMETIC CONNECTOR STYLE
+1. MILITARY CONNECTOR TYPE
+MS
+Designates Military Standard
+PT
+Standard Bayonet lock connector with Solder Contacts.
+2. SHELL STYLE
+2. MILITARY SPECIFIC NUMBER
+02
+Square Flange Receptacle
+311
+Designates Family number for MIL-DTL-26482, 
+Series 1 Solder Type
+07
+Jam Nut (D-Hole Mount) Receptacle
+I
+Solder Mounted Receptacle
+3. SERVICE CLASS
+3. MILITARY SHELL STYLE
+2
+Box Mount Receptacle
+H
+Hermetic without interfacial Seal
+3
+Solder Mount Receptacle
+(Refer to military specification slash sheet number.) 
+Y
+Hermetic with interfacial Seal
+4
+Jam Nut Receptacle
+4. SHELL SIZE & INSERT ARRANGEMENT
+4. SERVICE CLASS
+H
+Hermetic with interfacial Seal
+Page 84
+Shell Size and Insert Arrangement are together.
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+5. CONTACT
+5. SHELL SIZE & INSERT ARRANGEMENT
+P
+Pin Contacts
+Page 84
+Adding a "Y" designates flat eyelet pin contacts 
+example: 20Y41, or "C" designates solder cup pin 
+contacts example: 20C41.
+6. ALTERNATE KEYING POSITION - ROTATION
+6. CONTACT
+Page 
+P
+Pin Contacts
+86
+W, X, Y, Z designate that insert is rotated in its shell from 
+normal position. No letter required for normal (no rotation 
+position)
+7. ALTERNATE KEYING POSITION - ROTATION
+Page 86
+W, X, Y, Z designate that insert is rotated in its shell 
+from normal position. No letter required for normal 
+(no rotation position)
+Hermetic connectors are supplied with tin plated shells.
+87
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PTIH (MS3113H)
+Hermetic Solder Mounting Receptacle
+S
+W
+A
+L
+N
+Z
+.031 +.006
+–.005
+PTIH-XX-XXX - Solder cup pin contacts without interfacial seal
+PTIY-XX-XXX - Solder cup pin contacts with interfacial seal
+MS3113H-XXCXXX - Solder cup pin contacts with interfacial seal
+PTIH-XX-XXX (100) - Flat eyelet pin contacts without interfacial seal
+PTIY-XX-XXX (100) - Flat eyelet pin contacts with interfacial seal
+MS3113H-XXYXXX - Flat eyelet pin contacts with interfacial seal
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Recept. 
+Front View
+Receptacle Side View
+L  
+W 
+Z
+Shell 
+Size
+G Dia. Max.
+A Dia.  
++.001  
+-.005
++.025  
+-.016
+N Dia.
++.001
+-.005
++.011
+-.010
+Max.
+6
+.511
+.348
+.447
+.438
+.094
+.386
+8
+.636
+.473
+.447
+.562
+.094
+.386
+10
+.761
+.590
+.447
+.672
+.094
+.386
+12
+.855
+.750
+.447
+.781
+.094
+.386
+14
+.980
+.875
+.447
+.906
+.094
+.386
+16
+1.105
+1.000
+.447
+1.031
+.094
+.386
+18
+1.229
+1.125
+.447
+1.156
+.094
+.386
+20
+1.323
+1.250
+.509
+1.250
+.094
+.386
+22
+1.449
+1.375
+.509
+1.375
+.125
+.418
+24
+1.574
+1.500
+.542
+1.500
+.125
+.418
+88
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PT02H
+Hermetic Solder Mounting Receptacle
+S
+W
+L
+PT
+.120 ± .005 Dia.
+(.147 ± .005 Dia., size 24)
+R
+(TP)
+SP
+.150 ± .005 Dia. 
+4 Holes
+S
+A
+N
+R
+(TP)
+Z
+U
+PT02H-XX-XXX - Solder cup pin contacts without interfacial seal
+P02Y-XX-XXX - Solder cup pin contacts with interfacial seal
+PT02H-XX-XXX (100) - Flat eyelet pin contacts without interfacial seal
+PT02Y-XX-XXX (100) - Flat eyelet pin contacts with interfacial seal
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Recept. Front View
+Receptacle Side View
+L  
+U 
+K
+Z
+Shell 
+Size
+R (TP)
+S ±.016
+A Dia.  
++.001  
+-.005
+±.015
++.025  
+-.015
+N Dia.
++.001
+-.005
++.011
+-.010
+Max.
+6
+.511
+.688
+.348
+.047
+.494
+.438
+.062
+.344
+8
+.636
+.812
+.473
+.047
+.494
+.562
+.062
+.344
+10
+.761
+.938
+.590
+.047
+.494
+.672
+.062
+.344
+12
+.855
+1.031
+.750
+.047
+.494
+.781
+.062
+.344
+14
+.980
+1.125
+.875
+.047
+.494
+.906
+.062
+.344
+16
+1.105
+1.219
+1.000
+.047
+.494
+1.031
+.062
+.344
+18
+1.229
+1.312
+1.125
+.047
+.494
+1.156
+.062
+.344
+20
+1.323
+1.438
+1.250
+.047
+.556
+1.250
+.062
+.344
+22
+1.449
+1.562
+1.375
+.079
+.556
+1.375
+.062
+.377
+24
+1.574
+1.688
+1.500
+.079
+.588
+1.500
+.062
+.377
+89
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+PT07H (MS3114H)
+Hermetic Jam Nut Receptacle
+M
+Z
+S
+H
+S
+A
+R
+P
+K
+PT07H-XX-XXX - Solder cup pin contacts without interfacial seal
+PT07Y-XX-XXX - Solder cup pin contacts with interfacial seal
+MS3114H-XXCXXX - Solder cup pin contacts with interfacial seal
+PT07H-XX-XXX (100) - Flat eyelet pin contacts without interfacial seal
+PT07Y-XX-XXX (100) - Flat eyelet pin contacts with interfacial seal
+MS3114H-XXYXXX - Flat eyelet pin contacts with interfacial seal
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Recept. Front View
+Receptacle Side View
+K
+M 
+P Panel Thickness
+R Thread Class 
+Z
+Shell 
+Size
+S ±.016
+H Hex
++.001  
+-.005
+A Dia.  
++.001  
+-.005
++.043  
+-.016
++.031  
+-.000
+Max.
+Max.
+Min.
+2A
+6
+.812
+.625
+.348
+.094
+.696
+.125
+.062
+.4375-28 UNEF
+.206
+8
+.938
+.750
+.473
+.047
+.696
+.125
+.062
+.5625-24 NEF
+.206
+10
+1.062
+.875
+.590
+.047
+.696
+.125
+.062
+.6875-24 NEF
+.206
+12
+1.250
+1.062
+.750
+.047
+.696
+.125
+.062
+.8750-20 UNEF
+.206
+14
+1.375
+1.188
+.875
+.047
+.696
+.125
+.062
+1.0000-20 UNEF
+.206
+16
+1.500
+1.312
+1.000
+.047
+.696
+.125
+.062
+1.1250-18 NEF
+.206
+18
+1.625
+1.438
+1.125
+.047
+.696
+.125
+.062
+1.2500-18 NEF
+.206
+20
+1.812
+1.562
+1.250
+.047
+.884
+.250
+.062
+1.3750-18 NEF
+.081
+22
+1.938
+1.688
+1.375
+.079
+.884
+.250
+.062
+1.5000-18 NEF
+.081
+24
+2.062
+1.812
+1.500
+.079
+.917
+.250
+.062
+1.6250-18 NEF
+.048
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+90
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Amphenol®/Pyle Commercial 26500 Connectors are qualified to Military Specification 
+MIL-DTL-26500, as well as numerous high performance customer specifications. 
+26500
+Pyle
+These connectors are available in stainless steel shells, with bayonet or threaded coupling,  
+and are qualified to meet the specifications of the following MIL-DTL-26500 classes:
+MIL-DTL-26500 
+Finish
+Classes
+Amphenol/
+Pyle Series 
+Hardware 
+Description
+Classes
+Class H Hermetic
+HC
+CRS/Stainless 
+Steel
+Various
+Amphenol®/Pyle® is an experienced supplier of highly reliable her metic connectors 
+for the aircraft industry. Amphenol’s ZZL and ZZB series of hermetic receptacles are 
+designed to the requirements of MIL-DTL-26500, they are available in stainless steel 
+shells with gold-plated, nickel-iron alloy contacts. 
+Hermetic receptacles are available in shell sizes 8, 10, 12, 14, 16, 18, 22, 24 and 
+28. The hermetic series is offered in a variety of receptacle shell styles, which include 
+solder mount, square flange and “D” hole mount. These connectors can be ordered 
+with either eyelet, solder-well or printed circuit tail pin contacts.
+Consult Amphenol Aerospace for more information on hermetic con nectors, and for 
+optional connector designs.
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+91
+
+Commercial 26500, Pyle
+Insert Arrangements
+FRONT FACE OF PIN INSERT OR REAR FACE OF SOCKET INSERT ILLUSTRATED
+Contact cavities are identified with a spiral guide line 
+indicating cavity sequence. The first and last cavities are 
+numbered and every tenth cavity is bracketed.
+Symmetrical about center line.
+7
+1
+1
+1
+15
+1
+3
+1
+5
+1
+1
+12
+2
+2
+3
+2
+Insert Arrangement
+08-03
+10-05
+10-20
+12-03
+12-12
+14-07
+14-15
+Service Rating
+I
+I
+I
+I
+I
+I
+I
+Number of Contacts
+3
+5
+2
+3
+12
+7
+15
+Contact Size
+20
+20
+16
+16
+20
+16
+20
+14
+8
+31
+10
+1
+1
+1
+1
+1
+24
+Insert Arrangement
+16-10
+16-24
+18-08
+18-14
+18-31
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+Service Rating
+I
+I
+I
+I
+I
+Number of Contacts
+10
+24
+8
+14
+31
+Contact Size
+16
+20
+12
+16
+20
+19
+55
+1
+1
+Insert Arrangement
+22-19
+22-55
+Service Rating
+I
+I
+Number of Contacts
+19
+55
+Contact Size
+16
+20
+ 
+CONTACT LEGEND 
+20   
+16 
+12
+92
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Pyle ZZL/ZZB, MIL-DTL-26500 TYPE
+Hermetic (three styles), Threaded or Bayonet
+HOW TO ORDER COMMERCIAL HERMETIC CONNECTORS
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+Insert  
+Contact 
+Alternate 
+Variations
+Series
+Service 
+Class
+Shell Style
+Shell 
+Size
+Arrangement
+Type
+Keying
+Contact 
+Plating
+ZZL
+HC
+14
+8
+55
+P
+6
+E
+H45
+3. SHELL STYLE
+1. SERIES
+2. SERVICE CLASS
+HC
+Hermetic Class
+14
+Solder Mount Receptacle
+ZZL
+Threaded Coupling
+ZZB
+Bayonet Coupling
+15
+Single Hole Mounting Receptacle
+17
+Square Flange Receptacle
+6. CONTACT TYPE
+4. SHELL SIZE
+5. INSERT 
+ARRANGEMENT
+P
+Pin Contacts with standard gold plate
+8 10 12 14 16 18 22 24 28
+See page 92
+8. CONTACT STYLE
+9. VARIATION
+7. ALTERNATE KEYING 
+POSITION
+E
+Eyelet
+H45
+304L Stainless Steel Shell
+W
+Solderwell
+H52
+Tinned Termination Tails
+6, 7, 8, 9, 10 (Omit for Normal)  
+See below
+H56
+Same as standard; gold contacts
+Consult Amphenol Aerospace 
+for ordering information of 
+printed circuit tail contacts.
+H77
+304L Stainless Steel Shell, Inconel 
+Contacts
+H127
+Same as H125 except 304L Stainless 
+Steel Shell
+38999 III
+38999 II
+38999 I
+SJT
+Aquacon
+2M
+83723
+26482
+26500
+H146
+303 Stainless Steel Shell,  
+100 Micro-inch Gold
+ALTERNATE  
+KEYING POSITIONS OF SHELLS
+ALTERNATE POLARITY KEYWAY ARRANGEMENTS (Shell sizes 12, 14, 
+16, 18, 20, 22, 24, 28) View of front face of receptacle shell. Angles are 
+counter-clock wise from “N” keyway. For plug shell, the key locations are 
+clock wise when viewed from front of plug.
+H152
+304L Stainless Steel Shell with  
+Individual Beads, Loose Seals
+H177
+303 Stainless Steel Shell, Loose Seals
+For Connectors Size 8 and 
+For Connectors Size 
+H181
+Tin Plated Contacts
+10
+12, 14, 16, 18, 20, 22, 24 and 28
+A
+B
+C
+D
+A
+B
+C
+D
+Position
+Keying Positions
+Normal
+105°
+140°
+215°
+265°
+105°
+140°
+215°
+265°
+Master Polarizing
+Keyway
+6
+102°
+132°
+248°
+320°
+18°
+149°
+192°
+259°
+A
+°
+7
+80°
+118°
+230°
+312°
+92°
+152°
+222°
+342°
+8
+35°
+140°
+205°
+275°
+84°
+152°
+204°
+334°
+B
+°
+9
+64°
+155°
+234°
+304°
+24°
+135°
+199°
+240°
+D
+C
+°
+°
+Y or 10*
+25°
+115°
+220°
+270°
+98°
+152°
+268°
+338°
+Shown is Engaging Face View of
+Receptacle Shell with Keyways
+(Plug Shell Keys would be Opposite)
+93
+Contact Us: 800-678-0141  •  www.amphenol-aerospace.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  D38999/23NC35PN  D38999/23YA98PN  PT02H-12-8P  PT07H-10-6P  D38999/21YF35PN  PT02H-8-2P  PT07H-12-
+8P  D38999/23YD35PN  PTIH-8-4P  D38999/23YC35PN  D38999/21YC35PN  D38999/23YB35PN  D38999/21NC35PN
+  D38999/27YD35PN  D38999/23NB35PN  D38999/23NE35PN  D38999/23YE35PN  D38999/23YH35PN 
+D38999/25NA98PN  D38999/25YA98PN  BTY-1412-03P1D  BTY-1414-15P1D  BTY-1710-05P1D  BFY-1710-05P1D 
+BFY-1712-12P1D  BFY-1714-15P1D  BNY-1408-03P1D  BNY-1708-03P1D  BTY-1410-05P1D  D38999/27YF35PN 
+BFY-1408-03P1D  BFY-1410-05P1D  BFY-1412-12P1D  BFY-1414-15P1D  BFY-1708-03P1D  D38999/25YH35PN 
+D38999/27NA98PN  D38999/27ND35PN  D38999/27NE35PN  D38999/27NF35PN  D38999/27NH35PN  BTY-1714-
+07P1D  BTY-1714-15P1D  D38999/25NF35PN  D38999/25NH35PN  D38999/25YD35PN  D38999/25YE35PN  BTY-
+1408-03P1D  BTY-1412-12P1D  BTY-1414-07P1D  BTY-1708-03P1D  BTY-1712-03P1D  BTY-1712-12P1D 
+D38999/27YB98PN  D38999/27YC35PN  D38999/27NA35PN  D38999/27NB35PN  D38999/27NB98PN 
+D38999/27NC35PN  D38999/23NA98PN  D38999/23NB98PN  D38999/23ND35PN  D38999/23NF35PN 
+D38999/23NH35PN  D38999/27YA35PN  D38999/21NF35PN  D38999/21NH35PN  D38999/25NB35PN 
+D38999/25NC35PN  D38999/25ND35PN  D38999/25NE35PN  D38999/23YF35PN  D38999/21NA35PN 
+D38999/21NA98PN  D38999/21NB35PN  D38999/21ND35PN  D38999/21NE35PN  D38999/21YH35PN 
+D38999/25YA35PN  D38999/25YB35PN  D38999/25YB98PN  D38999/25YC35PN  D38999/25YF35PN  PTIH-12-8P 
+D38999/27YE35PN  D38999/27YH35PN  D38999/21YA98PN  D38999/21YB35PN  D38999/21YE35PN  PT07H-8-2P 
+PT07H-8-4P  PT07H-8-33P  PT07H-14-19P  PTIH-8-33P  PTIH-12-3P  D38999/21YD35PN  D38999/23NA35PN 
+D38999/21YB98PN  D38999/25NA35PN  D38999/25NB98PN

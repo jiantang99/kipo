@@ -1,0 +1,1099 @@
+Amphenol
+Amphenol-Tuchel Electronics GmbH
+Radsok®
+High Power Connectors
+www.industrial-amphenol.com
+
+Note from the CEO
+Ladies and Gentlemen,
+For over 75 years Amphenol has enjoyed success as the interconnection technology
+provider of choice to industry-leading companies around the world. One of our key stra-
+tegic areas of focus has been and is the Industrial market. Our organization works with
+leading manufacturers across a wide range of applications - including Energy Generation
+& Distribution, Transportation, Heavy Equipment, Factory Automation, Wireless Outdoor,
+ChipCard Readers - enabling smarter, faster and better technologies to connect pro-
+ducts to customer solutions.
+The Industrial market footprint of Amphenol covers over facilities in more than 12
+different European countries and more than 30 countries worldwide. Our successful
+expansion into new regions as well as new industrial applications is a direct reflection of
+our agile, entrepreneurial management team and our unwavering commitment to execu-
+te Amphenol‘s strategies for the benefit of our customers, shareholders and employees.
+Thank you for partnering with Amphenol. Our entire organization is at your service.
+R. Adam Norwitt
+President and CEO, Amphenol Corporation
+2
+
+Radsok
+Make use of the best
+Use our global resources
+“Think global, act local!” Independently from where you are in Europe, we offer
+you our global expertise and great variety of products and technologies. And in
+comfort with your personal contact. Our numerous European offices are your
+access to our global resources.
+ OUR OFFICES IN EUROPE AND WORLDWIDE
+FRANCE  
+CHINA  
+AUSTRALIA  
+SOUTH AFRICA
+GERMANY  
+KOREA  
+MEXICO  
+INDIA
+UNITED KINGDOM  
+TAIWAN  
+USA  
+ITALY
+3
+
+Radsok
+SECURITY, RELIABILITY AND COMFORTABLE SERVICE FROM ONE SOURCE.
+4
+
+More time for important things:
+benefit from our service and diversity
+Enjoy security, reliability and comfortable service from one source.
+INDUSTRIAL@AMPHENOL offers one of the most individual and most diversified service
+programmes in the market – exclusively for industrial customers. Access all possibilities of
+the Amphenol group through your personal expert adviser.
+ 
+WIDE PRODUCT RANGE
+ 
+EXCLUSIVENESS AND FLEXIBILITY
+Take advantage of a choice of Amphenol products. Our broad
+product portfolio offers individual solutions from more than 85
+member companies in the global Amphenol group.
+One face to the customer: every inquiry is handled on an individual
+service level by your personal key account service partner. This
+ensures maximum transparency and best-in-class flexibility in the
+whole process.
+ 
+QUALITY
+ 
+INDIVIDUAL SOLUTIONS
+Interconnect systems need reliability, speed and flawless data
+transmission. We continuously test and guarantee the required
+standard in our products – and also in our personal services.
+Your project requires an individual solution that is not available off-
+the-shelf? As your think tank and discussion partner we provide
+engineering support and solution-oriented development for your
+tailor-made Amphenol product.
+ 
+SPEED AND AVAILABILITY
+ 
+GLOBAL KEY ACCOUNT SERVICE
+Smart and intelligent processes are the secret behind our service
+programme. Flexible planning and distribution, perfect logistics and 
+highest availability are our key factors for best customer service.
+Our key account service is your individual entrance to global
+know-how, products and services. More than 85 Amphenol
+companies around the world offer an extensive range of
+technologies and products. We offer access to our worldwide
+resources through one individual contact person.
+5
+
+Radsok®   Content
+Content
+Page
+1 - Radsok basics
+06
+2 - Sub series
+08
+2.1 busbar|mate
+High Power Connectors for busbar. 6.0 mm, 8.0 mm and 10.0 mm Radsok
+08
+2.2 board|mate
+High Power Connectors for PCB-Applications. 3.6 mm, 6.0 mm and 8.0 mm Radsok
+10
+2.3 ground|mate
+High Power contacts for grounding or potential equalisation (PE).3.6 mm, 6.0 mm and 8.0 mm Radsok
+12
+2.4 Radsok contacts and housings
+High Power contacts and touch-proof housings. 3.6 mm, 6.0 mm and 8.0 mm Radsok
+14
+2.5 Wallbushing Connector family
+Feed-through-power Connector. 6.0 mm and 8.0 mm Radsok IP65/IP67 against the wall IP20 in mated condition
+16
+2.6 Tools
+Eletro hydraulic crimping unit and crimping dies.
+18
+2.7 Radsok industrial solutions
+20
+2.8 press|mate
+Radsok can be integrated in Standard cable lugs. 3.6 mm up to 16.0 mm Radsok
+22
+3 - Deratings 
+24
+performance compared to standard pin and socket connectors. In the 
+RADSOK  terminal, multiple contacting elements are hyperbolically ar-
+rayed around the inner diameter of the socket. In addition, each of the 
+contact elements is skewed with respect to the axial direction of the 
+terminal. The result is the multiple contact surfaces, comprising what 
+is referred to as the “grid.”  See also the picture on the next page.
+More and more electrical and electronic components require higher 
+amounts of energy.  Conventional connection technology is not always 
+able to meet such requirements. Pluggable connections are often no 
+longer able to be applied. Amphenol offers a new generation of power 
+contacts: Radsok. The hyperbolic construction offers many advan-
+tages such as contact coverage of up to 65 %, absorption of vibrations 
+as well as durable stability of the contact elements. Current transfer of 
+several hundred Ampere in addition to a high number of mating cycles 
+is not a problem.
+When viewing the grid profile, a hyperbola shape is seen that is the 
+basis of the unique RADSOK contact. The hyperbolic configuration 
+results in a mechanical interference between an inserted pin and the 
+contact elements. When a pin is inserted into the socket, the contact-
+ing elements of the grid mechanically wrap around the pin providing 
+pressure (normal force) necessary for a superior electrical connection.
+RADSOK means Radial Socket. The RADSOK terminal is a patented 
+high performance hyperboloid socket style electrical contact system 
+for applications >30 amps.. Hyperboloid connectors offer superior 
+Key Features
+LOW CONTACT RESISTANCE AND  
+HIGH CURRENT CAPACITY
+ 
+EXCELLENT DURABILITY
+Certain applications require repeated insertion/extraction cycles. 
+Due to its unique design and used materials the RADSOK contact 
+is ideally fitted for applications with a high number of mating cycles 
+while maintaining ability to carry high current capacity and withstand 
+vibrations.
+The grid provides a greater surface area of electrical contact per 
+contacting element than standard contacts. RADSOK contacts do 
+not relax as a result of repeated insertion, which occurs in standard 
+terminals. The associated millivolt loss that is common in standard 
+terminals due to repeated insertion relaxation does not occur with 
+RADSOK. The result is superior electrical transfer that does not deteri-
+orate from repeated insertion.
+VIBRATION RESISTANCE/OFF AXIS INSERTION 
+TOLERANCE
+SELF CLEANING LOW CONTACT RESISTANCE AND  
+HIGH CURRENT
+The hyperbolic grid of the RADSOK terminal assures full contact 
+with an inserted pin. Tests have confirmed that when subjected to 
+vibration, this hyperbolic elastic grid maintains electrical continuity. 
+This unique feature also provides for some axial misalignment without 
+sacrifice of electrical contact.
+When talking about connectors it should be taken care to assure 
+that the contact remain clean and free of contaminates to prevent 
+voltage loss and heating. The design of the RADSOK contact provides 
+a degree of self-cleaning. As the pin is inserted into the socket, the 
+grid elements provide a wiping action that remove minor contaminants 
+from the pin. The spaces between the grid elements provide space for 
+contaminates.
+6
+
+Radsok®   Electrical Characteristics
+All electrical measurements have been performed with RADSOK-terminals in standard configuration
+RADSOK
+Attribute
+3,6
+6,0
+8,0
+Transition resistance
+< 0,2 mΩ
+< 0,1 mΩ
+< 0,1 mΩ
+Typical Transition resistance  
+(for information only)
+(0,15 mΩ)
+(0,09 mΩ)
+(0,06 mΩ)
+Continuous current carrying capacity
+cross section
+Parameter
+6, 10, 16 mm2
+10, 16, 25 mm2
+35, 50 mm2
+20 °C
+125 A
+190 A
+300 A
+85 °C
+88 A
+135 A
+210 A
+Ambient temperature
+125 °C
+60 A
+85 A
+130 A
+Max transmission duration for high power
+Ambient temperature
+power
+200 A
+40 s
+500 s
+cont.
+40 °C
+500 A
+2 s
+25 s
+100 s
+1000 A
+0,2 s
+3 s
+15 s
+200 A
+10 s
+120 s
+600 s
+500 A
+0,9 s
+10 s
+40 s
+100 °C
+1000 A
+0,1 s
+1 s
+8 s
+Radsok
+Mechanical Characteristics
+Mating Force and Mating Cycles
+RADSOK
+Attribute
+3,6
+6,0
+8,0
+Mating Force
+9 N (±3)
+21 N (±10)
+30 N (±12)
+Mating Cycles
+1000
+1000
+1000
+inside sleeve
+outside sleeve
+grid
+7
+
+busbar|mate
+• screw version
+•  available in 6 mm, 8 mm and 10 mm
+• great solution for busbar
+ •  maximum operating temperature  
+(incl. selfheating) +150 °C
+
+Radsok®   busbar|mate
+Description
+Part number
+Drawing
+Picture
+Radsok 6 mm with thread M6
+N 02 060 6601 001
+Radsok 8 mm with thread M8
+N 02 080 6601 001
+Radsok 10 mm with thread M10
+N 02 100 6601 001
+Size
+6,0
+8,0
+10,0
+Mating partner
+diameter
+Ø 5,95 
+Ø 8,0 
+Ø 10,0 
++0,05 
+−0
++0 
+−0,05
++0 
+−0,05
+surface roughness
+Ra=0,8 
+material
+brass
+surface contact area
+silver-plated min 6 µm
+minimum length
+22 mm*1
+26 mm*1
+28 mm*1
+busbar
+through hole
+Ø 6,2 ±0,1 mm
+Ø 8,2 ±0,1 mm
+Ø 10,2 ±0,1 mm
+cross-section at contact area
+12 mm
+16 mm
+20 mm
+thickness
+2,8 mm min*2
+3,2 mm min*2
+3,6 mm min*2
+material
+copper
+Size
+6,0
+8,0
+10,0
+torque
+8 Nm
+12 Nm
+15 Nm
+Thread
+M6
+M8
+M10
+Current carrying capacity  
+at 85 °C ampient temperture*1
+134 A
+197 A
+230 A
+Current carrying capacity  
+at 85 °C ampient temperture*1
+112 A
+164 A
+190 A
+The screw-in Radsok contact has to be tightened in the busbar with a nut according to DIN EN24 032/ISO 4032 and a washer.  
+At assembly the nut has to be hold an the screw-in Radsok contact hat bo be tightened with a torque according to table above.
+*1  The current carrying capacity is depending on the ambient temperature, a potentially used cable (insulation, conductance/cross section, 
+length, laying), used mating partner, busbar (contact area, material, cross-section) external heat sources, housing, supply air/cooling and 
+quality of crimping. 
+*2  For mechanical stability the screw-in Radsok contact has to be tightened by a nut.
+9
+
+Radsok
+board|mate
+• High Power for PCB
+• available in 3.6 mm, 6 mm and and 8 mm Radsok
+• up to 75% quicker than screw connection
+• compact design – requires less space
+• Board-to-board and board-to-cable solutions
+
+Radsok®   board|mate
+Amphenol board|mate connectors combine high power contact technology from Amphenol and PCB blocks from Wuerth Elektronik. Instead of 
+soldering they are pressed in into the circuit board so the board is no exposed to high temperature during soldering.
+description
+Part number
+drawing
+housing
+Solutions for 3.6 mm Radsok
+board|mate pressfit pin -  
+Radsok 3,6 mm
+N 01 036 6501 001
+–
+board|mate pressfit socket -  
+Radsok 3,6mm
+N 02 036 6501 001
+–
+crimp socket 3,6 mm
+4-6 mm² cable diameter
+N 02 036 6126 001
+C360 G01 041 E1Z
+crimp socket 3,6 mm with click|fit
+4 mm²-6 mm² cable diameter
+N 02 036 6136 002
+C360 G01 141 E1Z
+crimp socket 3,6 mm with Isola
+6 mm-10 mm² cable diameter
+N 02 036 6109 002
+C360 G01 241 E1Z
+crimp socket 3,6 mm with click|fit
+6 mm²-10 mm² cable diameter
+N 02 036 6137 002
+C360 G01 341 E1Z
+Solutions for 6 mm Radsok
+board|mate pressfit pin -  
+Radsok 6,0 mm
+N 01 060 6501 001
+–
+crimp socket contact 6 mm
+10 mm²-16 mm² cable diameter
+N 02 060 6121 002
+C360 G01 041 E2Z
+Crimpcontact for male contact 
+Ø6 mm click|fit  
+10-16 mm² cable diameter
+N 02 060 6164 002
+C360 G01 141 E2Z
+crimp socket contact 6 mm
+25 mm² cable diameter
+N 02 060 6120 002
+C360 G01 241 E2Z
+crimp socket contact 6 mm with 
+Isola-Crimp
+25 mm² cable diameter
+N 02 060 6165 002
+C360 G01 341 E2Z
+Solutions for 8 mm Radsok
+board|mate pressfit pin -  
+Radsok 8,0 mm
+N 01 080 6501 001
+–
+board|mate pressfit socket -  
+Radsok 8,0 mm
+N 02 080 6501 001
+–
+crimp socket contact 8 mm
+35 mm²-50 mm² cable diameter
+N 02 080 6121 002
+C360 G01 041 E3Z (35 mm) 
+C360 G01 241 E3Z (35 mm) or 
+C380 10E004 241 2L (50 mm) 
+C380 G09 241 E3 (50 mm)
+crimp socket click|fit 8 mm
+35-50 mm² cable diameter
+N 02 080 6182 002 L
+C360 G01 141 E3Z (35 mm)
+C360 G01 341 E3Z (50 mm)
+Current Carrying Capacity
+The current carrying capacity of a connection using a boadmate connector needs to be seen in the context of the overall system. 
+General Information
+Especially when talking about high current carrying capacity a lot of factors have to be considered, e.g. layout of the PCB or cooling system. The 
+Press Fit zone has very low electrical contact resistance of 100 – 200 µOhm. The limiting factor therefor usually lies in the circuit board layout or 
+in the connection of a feed line. The plugging elements have an electrial contact resistance of 0.2 mOhm at Ø 3.6 mm, 0.095 mOhm  
+at Ø 6.0 mm, 0.075 mOhm Ø 10.3 mm and 0.028 mOhm at Ø 14.0 mm. 
+11
+
+Radsok
+ground|mate
+• For grounding systems or Potential equalisation (PE)
+• For power applications 
+• fast and easy mating
+• secure and reliable contact system
+• vibration-proof solution
+
+Radsok®   ground|mate
+description
+Part number
+drawing
+housing
+Solutions for 3.6 mm Radsok
+crimp socket 3,6 mm with click|fit
+4 mm²-6 mm² cable diameter
+N 02 036 6136 002
+C360 G01 141 E1Z
+crimp socket 3,6 mm with click|fit
+6 mm²-10 mm² cable diameter
+N 02 036 6137 002
+C360 G01 341 E1Z
+Solutions for 6 mm Radsok
+crimp socket contact 6 mm  
+10-16 mm² cable diameter
+N 02 060 6164 002
+C360 G01 141 E2Z
+Crimpcontact for male contact 
+Ø6 mm click|fit
+25 mm² cable diameter
+N 02 060 6165 002
+C360 G01 341 E2Z
+Solutions for 8 mm Radsok
+crimp socket click|fit 8 mm
+35-50 mm² cable diameter
+N 02 080 6182 002 L
+C360 G01 141 E3Z (35 mm)
+C360 G01 341 E3Z (50 mm)
+• no tooling
+• quick and easy assembly by plugging
+• standard bolt or thread (for grounding)
+• hidden assembly possible
+• easy maintenance
+• axial assembly (e.g. in line) possible
+SAVE 50-60% ASSEMBLY TIME  
+COMPARED TO BOLTED RING  
+TERMINAL SOLUTIONS
+YOUR BENEFITS
+ 
+• optional touch proof housing available
+• secure an reliable contact system
+• fast and easy moting sares time and assembly rost
+• optical and haptic feedback
+• no torque control necessary
+• Locking on pins with nut or on threads
+• compatible to M6 an M8 threads
+13
+
+contacts & housings
+• Touch proof housings
+• available in 3.6 mm, 6 mm, 8 mm
+• vibration proof
+
+Radsok®   contacts and housings
+There are three categories of housings for Radsok contacts. Each housing fits to a 
+specific contact so please check for additional information when choosing the contact.
+HOUSINGS WITH INTEGRATED LOCKING
+ 
+• for 3.6 mm Radsok, 6 mm radsok and 8 mm Radsok
+Part number
+cable diameter
+for 3.6 mm Radsok
+C360 G01 041 E1Z
+4–6 mm2
+C360 G01 241 E1Z
+6–10 mm2
+for 6 mm Radsok
+C360 G01 041 E2Z
+10–16 mm2
+C360 G01 241 E2Z
+25 mm2
+for 8 mm Radsok
+C360 G01 041 E3Z
+35 mm2
+C360 G01 241 E3Z
+50 mm2
+"Z" stands for 400 pcs per packing unit. Please consider when ordering. 
+HOUSINGS FOR CLICK|FIT
+ 
+• for 3.6 mm Radsok, 6 mm radsok and 8 mm Radsok
+Part number
+cable diameter
+for 3.6 mm Radsok
+C360 G01 141 E1Z
+4–6 mm2
+C360 G01 341 E1Z
+6–10 mm2
+for 6 mm Radsok
+C360 G01 141 E2Z
+10–16 mm2
+C360 G01 341 E2Z
+25 mm2
+for 8 mm Radsok
+C360 G01 141 E3Z
+35 mm2
+C360 G01 341 E3Z
+50 mm2
+"Z" stands for 400 pcs per packing unit. Please consider when ordering. 
+HOUSINGS WITH ACTIVE PINLOCK CONNECTOR
+ 
+• for 8 mm Radsok
+• Mating- / unmating force: < 45N
+• Pullout force: 
+≥ 500N (once only)
+• Mating cycles: 
+min. 1000
+• Voltage level: 
+≤ 60V DC/AC (higher level on request)
+• Temperature range: 
+-40 °C to 125 °C, short time 150 °C
+• Accepted wire range: 
+35 and 50 mm2
+• Material: 
+housing, cover and locking slider: PBT GF30
+description
+Part number
+Housing black without coding
+C380 10E004 241 2L
+Cover for cable 35 mm2
+C380 10E004 241 E3L / C380 G09 241 E3L
+Cover for cable 50 mm2
+C380 10E004 341 E3L / C380 G09 341 E3L
+Crimp contact Radsok
+N02 080 6121 002L
+"L" stands for 50 pcs per packing unit. Please consider when ordering. 
+15
+
+wallbushing connector
+• Power distribution connector
+• available for 6 mm and 8 mm Radsok
+• easy and fast assembling from one side! 
+• fast mating an unmating without any tool
+
+Radsok®   wallbushing connector
+description
+Part number
+drawing
+6 mm Radsok - wallbushing connector
+6 mm Wallbushing Connector
+C360 10D001 001 2
+6 mm Wallbushing Connector 
+universal port
+C360 10D001 002 2
+6 mm Radsok - sockets and housings
+Housing black for 10 mm2 –16 mm2 cable
+C360 G01 141 E2
+Housing black for 25 mm2 cable
+C360 G01 341 E2
+Crimp contact Radsok for 10 mm2 –16 mm2 cable
+N02 060 6164 002
+Crimp contact Radsok for 25 mm2 cable
+N02 060 6165 002
+8 mm Radsok - wallbushing connector
+Wall bushing Connector
+C360 10D001 001 3
+8 mm Radsok - sockets and housings
+Housing black without coding
+C380 10E004 241 2L
+Cover for 35 mm2 cable
+C380 G09 241 E3L
+Cover for 50 mm2 cable
+C380 G09 341 E3L
+Crimp contact Radsok for 35 mm2 –50 mm2 cable
+N02 080 6121 002L
+17
+
+• Tools needed to crimp Radsok contacts
+tools
+
+Radsok®   tools
+FOR CRIMPING RADSOK CONTACTS YOU NEED:
+ 
+• Electro Hydraulic Crimping Unit 
+• Crimping dies
+ 
+Amphenol p/n TE 0500 or  
+ 
+Regarding on contact
+ 
+KLAUKE p/n EK12042L 
+ 
+ 
+(see below)
+ 
+NEKO p/n: APHW400C
++
+Crimping dies
+Contacts
+Part number
+comment
+Part number
+comment
+for 3.6 mm Radsok
+N 02 036 6126 001
+crimp socket 3,6 mm 
+4-6 mm² cable diameter
+TE 0500-101 
+Radsok 3,6 mm for cable  
+4 - 6 mm²
+N 02 036 6136 002
+crimp socket 3,6 mm with click|fit 
+4 mm²-6 mm² cable diameter
+N 02 036 6109 002
+crimp socket 3,6 mm with Isola 
+6 mm²-10 mm² cable diameter
+TE 0500-082
+Radsok 3,6 mm with isola-crimp  
+for AWG 8
+N 02 036 6137 002
+crimp socket 3,6 mm with Isola 
+6 mm²-10 mm² cable diameter click|fit
+for 6 mm Radsok
+TE 0500-081 
+Radsok 6 mm for cable 10 mm²
+N 02 060 6121 002
+crimp socket contact 6 mm 
+10 mm²-16 mm² cable diameter
+TE 0500-061
+Radsok 6 mm for cable 16 mm²
+TE 0500-041
+Radsok 6 mm for cable 25 mm²
+N 02 060 6120 002
+crimp socket contact 6 mm 
+25 mm² cable diameter
+TE 0500-081 
+Radsok 6 mm for cable 10 mm²
+N02 060 6164 002
+Crimpcontact for male contact Ø6 mm click|fit 
+10-16 mm² cable diameter
+TE 0500-061
+Radsok 6 mm for cable 16 mm²
+TE 0500-041
+Radsok 6 mm for cable 25 mm²
+N02 060 6165 002
+Crimpcontact for male contact Ø6 mm click|fit 
+25 mm² cable diameter
+for 8 mm Radsok
+N 02 080 6121 002
+crimp socket contact 8 mm 
+35 mm²-50 mm² cable diameter
+TE 0500-011
+Radsok 8 mm for cable  
+35 - 50 mm²
+N 02 080 6103 002
+crimp socket contact 8 mm 
+35 mm²-50 mm² cable diameter
+TE 0500-011
+Radsok 8 mm for cable  
+35 - 50 mm²
+N02 080 6182 002 L
+crimp socket click|fit 8 mm 
+35-50 mm² cable diameter
+19
+
+Industrial Solutions
+•  Industrial@Amphenol product series  
+using Radsok technology
+
+Radsok®   Industrial Solutions
+As mentioned before Radsok is not only a product but a contact technology. Within INDUSTRIAL@AMPHENOL this technology is used within 
+following product series:
+HEAVY|MATE
+ 
+Heavy duty rectangular connectors that are using monoblock or modular inserts. By using the modular system 6 mm and 10 mm Radsok can be 
+used in combination with IP65, IP67 or IP68 housings. For further information please see our homepage or contact your sales contact person.
+ECOMATE RM
+ 
+Circular metal connectors that are also using Radsok contacts. The subseries ecomate RM high amperage connectors enables using almost 
+all major Radsok sizes: 3,6 mm, 8 mm and 10 mm Radsok. Housings can go up to IP67. For further information please see our homepage or 
+contact your sales contact person.
+21
+
+press|mate
+• brand new patented technology
+• Radsok can be integrated in Standard cable lugs
+• available from 3 up to 16 mm Radsok  
+ (enables solutions with more than 400A at 45°C)
+AVAILABLE
+Q3 2015
+
+Radsok®   press|mate
+By using our brand new patented technology we can integrate Radsok contacts in standard cable lugs. As a result of this also standard tools for 
+cable lugs can used – by using 16 mm Radsok we can go over 400 A.
+• reliable an secure contact system
+• vibration proof
+•  can be used for power and grounding 
+applications
+• no special tooling required
+• 360° rotatable
+CUSTOMIZE
+ 
+Customizing possible at a certain volume.
+optional click|fit locking 
+system available
+flexible positioning 
+of the Radsok
+huge variety of 
+cable lugs
+Contact your sales representative for additional information!
+23
+
+Radsok®   Technical information
+Derating 3,6 mm Radsok
+100,00
+100,00
+90,00
+90,00
+3.6 mm terminated to 6 mm²
+3.6 mm terminated to 10 mm²
+80,00
+80,00
+70,00
+70,00
+60,00
+60,00
+50,00
+50,00
+40,00
+40,00
+30,00
+30,00
+20,00
+20,00
+10,00
+10,00
+0,00
+0,00
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+0 
+15 
+30 
+45 
+60 
+75 
+90 
+105 
+120 
+135 
+150
+Ambient Temperature [°C]
+Derating 6 mm Radsok
+180,00
+180,00
+160,00
+160,00
+6 mm terminated to 10 mm²
+6 mm terminated to 16 mm²
+6 mm terminated to 25 mm²
+140,00
+140,00
+120,00
+120,00
+100,00
+100,00
+Current [A]
+Current [A]
+80,00
+80,00
+60,00
+60,00
+40,00
+40,00
+20,00
+20,00
+0,00
+0,00
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+0 
+15 
+30 
+45 
+60 
+75 
+90 
+105 
+120 
+135 
+150
+Ambient Temperature [°C]
+Remark: The given electrical values correspond to a single contact. With the addition of a housing, an increased number of poles or other
+modifications the values must be adjusted downwards accordingly
+24
+
+Radsok®   Technical information
+Derating 8 mm Radsok
+300,00
+300,00
+250,00
+250,00
+8 mm terminated to 16 mm²
+8 mm terminated to 25 mm²
+8 mm terminated to 35 mm²
+8 mm terminated to 50 mm²
+200,00
+200,00
+150,00
+150,00
+100,00
+100,00
+50,00
+50,00
+0,00
+0,00
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+0 
+15 
+30 
+45 
+60 
+75 
+90 
+105 
+120 
+135 
+150
+Ambient Temperature [°C]
+Derating 10 mm Radsok
+600,00
+600,00
+500,00
+500,00
+10 mm terminated to 50 mm²
+10 mm terminated to 70 mm²
+10 mm terminated to 95 mm²
+10 mm terminated to 120 mm²
+400,00
+400,00
+300,00
+300,00
+Current [A]
+Current [A]
+200,00
+200,00
+100,00
+100,00
+0,00
+0,00
+0 
+15 
+30 
+45 
+60 
+75 
+90 
+105 
+120 
+135 
+150
+0
+15
+30
+45
+60
+75
+90
+105
+120
+135
+150
+Ambient Temperature [°C]
+25
+
+Radsok®   
+26
+
+Radsok®   
+27
+
+International
+Germany
+Amphenol-Tuchel Electronics GmbH
+August-Haeusser-Str. 10 
+74080 Heilbronn 
+Phone +49 7131 929 0 
+www.amphenol.de 
+Argentina
+Amphenol Argentina
+Av. Callao 930
+2nd Floor Office B “Plaza“
+C1023 AAP Buenos Aires
+Phone +54 11 4815 68 86
+www.amphenol.com.ar
+Singapore
+Asia Pacific Sales Operations
+72 Bendemeer Rd, No.03-32/33
+Hiap Huat House, Luzerne, 339941
+Singapore
+Phone +65 6294 2128
+www.amphenol.com
+Turkey
+Amphenol Turkey
+Sun Plaza Kat: 15 
+Maslak Mah. Bilim Sok.No:15 
+34398 Sisli - Istanbul 
+Phone: +90 2123 679 220 
+www.amphenol.com.tr
+India
+Amphenol Interconnect India Pvt Ltd
+105, Bhosari Industrial Area
+Pune – 411 026
+Phone +91 20 2712 04 81
+www.amphenol-in.com
+United Kingdom
+Amphenol Limited
+Thanet Way, Whitstable
+Kent, CT53JF
+Phone +44 1227 773 200
+www.amphenol.co.uk
+Australia
+Amphenol Australia Pty. Ltd.
+2 Fiveways Blvd
+Keysborough
+Victoria 31 73
+Phone +61 3 8796 88 88
+www.amphenol.com.au
+South Africa
+Amphenol International Ltd
+Chislehurston
+30 Impala Road
+2196 Chislehurston
+Sandton, 2146
+Phone +27 11 7839 517
+www.amphenol.co.za
+Brazil
+Amphenol do Brasil Ltda.
+Rua Diogo Moreira 132, 20th Floor
+CEP 05423-101 Sao Paulo SP
+Phone +55 11 3815 10 03
+www.amphenol.com.br
+Italy
+Amphenol-Tuchel Italy
+Via Barbaiana n. 5
+20020 Lainate (MI)
+Phone +39 02 9325 41
+www.amphenol.info
+Spain
+Amphenol Espana
+Edificio Burgosol, Oficina 55
+C/Comunidad de Madrid, 35 bis
+Las Rozas (Madrid), 28230
+Phone +34 91 6407 302
+www.amphenol.com
+USA
+Amphenol-Tuchel Electronics /
+Amphenol Sine Systems
+44724 Morley Drive
+48036 Clinton Township, MI
+Phone +1 586 913 8630
+www.amphenol.info
+China
+Amphenol-Tuchel Electronics
+China Branch
+20 Tianshan Road
+Changzhou 213022
+Phone +86 519 85 11 03 01
+www.amphenol.info
+Taiwan
+Amphenol East Asia Limited-Taiwan
+5F, No. 361, Fusing 1st Rd
+Gueishan Township, 
+Taoyuan County 333
+Phone +886 3 2647 200
+www.amphenol.com
+Amphenol Corporation
+Corporate Headquarters
+358 Hall Avenue
+Wallingford, CT 06492
+Phone +1 877 2674 366
+Phone +1 203 2658 900
+www.amphenol.com
+Korea
+Amphenol DaeShin Elect and 
+Precision Co.,Ltd
+558 Songnae-Dong, Sosa-Gu
+Bucheon-City, Kyunggi-Do
+Korea 422-130
+Phone +82 32 6103 800
+www.amphenol.co.kr
+France
+Amphenol Socapex S.A.S.
+948, Promenade de l’Arve, BP 29
+Thyez Cedex, 74311
+Phone +33 4 5089 28 00
+www.amphenol-socapex.com 
+Amphenol LTW Technology Co., Ltd.
+9F, No. 657-12, Zhongzheng Road
+Xinzhuang Dist., New Taipei City
+242 Taiwan
+Phone +886 2 2908 5626
+sales@ltw-tech.com
+www.amphenolltw.com
+Mexico
+Amphenol Mexico
+Prolongacion Reforma 61 - 6 B2
+Col. Paseo de las Lomas
+C.P. 01330 Mexico D.F.
+Phone +52 55 5258 99 84
+www.amphenolmexico.com
+More Amphenol companies can be 
+found here: www.amphenol.com
+ATE 3040 A 0515 / XXXX 0515 Printed on chlorin-free bleached paper, specifications may be changed without notice. Copyright by Amphenol-Tuchel Electronics GmbH, Germany
+               Important Notice
+All technical data have been measured in a laboratory environment and can be different during practical usage of the product. Any product information is for descriptive usage only and not legally 
+binding; particularly the information does not constitute or provide any legal guaranties (“Beschaffenheitsgarantie” or “Haltbarkeitsgarantie”). 
+We reserve the right to change the design due to improvement in quality, development or production requirements. This catalogue must not be used in any form or manner without our prior approval 
+in writing (Copyright Law, Fair Trading Law, Civil Code).
+Your engineering sales representative:
+Amphenol-Tuchel Electronics GmbH | August-Haeusser Strasse 10 | 74080 Heilbronn, Germany
+Telephone: +49 (0)7131 929-0 | Fax: +49 (0)7131 929-486 | www.amphenol.info

@@ -1,0 +1,399 @@
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user 
+documentation. Our general terms of use for downloads are valid.
+Cable connector, straight long, Screw locking mechanism, M23, number of positions: 5+PE, 
+contact connection type: Socket, shielded: yes, degree of protection: IP67, cable diameter range: 
+12 mm ... 15 mm, number of positions: 6, connection method: Crimp connection, series: SF, 
+Alternative product in accordance with RoHS II without Exemption 6c (Pb <0.1%) item no.: 
+1241912
+Your advantages
+Consistent EMC protection for reliable connection solutions in the industrial environment
+•
+Crimping connection: vibration- and temperature-resistant assembly
+•
+Flexible use: reliably connect various cable diameters
+•
+Molded designs with preassembled cables on one or both sides
+•
+Commercial data
+Item number
+1605545
+Packing unit
+1 pc
+Minimum order quantity
+1 pc
+Sales key
+AB35
+Product key
+ABRBFA
+Catalog page
+Page 154 (C-2-2019)
+GTIN
+4046356253536
+Weight per piece (including packing)
+138.867 g
+Weight per piece (excluding packing)
+129.8 g
+Customs tariff number
+85366990
+Country of origin
+DE
+Aug 25, 2023, 5:21 AM     Page 1 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Technical data
+Notes
+General
+Order crimp contacts 6 x Ø 2 mm separately
+Safety note
+Safety note
+WARNING: The connectors may not be plugged in or 
+disconnected under load. Ignoring the warning or improper use 
+may damage persons and/or property.
+• WARNING: Commission properly functioning products only. 
+The products must be regularly inspected for damage. 
+Decommission defective products immediately. Replace 
+damaged products. Repairs are not possible.
+• WARNING: Only electrically qualified personnel may install and 
+operate the product. They must observe the following safety 
+notes. The qualified personnel must be familiar with the basics of 
+electrical engineering. They must be able to recognize and 
+prevent danger. The relevant symbol on the packaging indicates 
+that only personnel familiar with electrical engineering are 
+allowed to install and operate the product.
+• The products are suitable for applications in plant, controller, 
+and electrical device engineering.
+• When operating the connectors in outdoor applications, they 
+must be separately protected against environmental influences.
+• Assembled products may not be manipulated or improperly 
+opened.
+• Only use mating connectors that are specified in the technical 
+data of the standards listed (e.g. the ones listed in the product 
+accessories online at phoenixcontact.com/products).
+• When using the product in direct connection with third-party 
+manufacturers, the user is responsible.
+• For operating voltages > 50 V AC, conductive connector 
+housings must be grounded
+• Ensure that the protective or functional ground has been 
+properly connected.
+• VDE 0100/1.97 § 411.1.3.2 and DIN EN 60 204/11.98 § 14.1.3 
+are applicable when combining several circuits in a cable and/or 
+connector
+• Only use tools recommended by Phoenix Contact
+• The installation notes/Design In documents online on the 
+download page at phoenixcontact.com/products must be 
+observed for this product.
+• Operate the connector only when it is fully plugged in and 
+interlocked.
+• Ensure that when laying the cable, the tensile load on the 
+connectors does not exceed the upper limit specified in the 
+standards.
+• Observe the minimum bending radius of the cable. Lay the 
+cable without twisting it.
+• The connector warms up in normal operation. Depending on the 
+ambient conditions, the surface of the connector can continue to 
+warm up. In this case, the user is responsible for posting 
+Aug 25, 2023, 5:21 AM     Page 2 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+warnings (e.g. DIN EN ISO 13732-1:2008-12).
+Mounting
+Connection method
+Crimp connection
+Product properties
+Product type
+Circular connector (cable-side)
+Number of positions
+6
+Connection profile
+5+PE
+Application
+Power
+Series
+SF
+Shielded
+yes
+Coding
+N
+Thread type
+M23
+Material specifications
+Seal material
+FPM
+Housing material
+Turned parts: copper zinc alloy (CuZn), die-cast parts: zinc (GD-
+Zn)
+Insulator material
+PA 6.6
+Gasket and O-ring material
+FPM
+Housing material
+Metal
+Connection data
+Conductor connection
+Connection method
+Crimp connection
+Electrical properties
+Contact
+Contact diameter
+2 mm
+Max. current
+30 A
+Nominal voltage UN
+630 V
+Overvoltage category
+III
+Degree of pollution
+3
+Rated surge voltage
+6 kV
+Contact
+Contact diameter
+2 mm
+Max. current
+30 A
+Nominal voltage UN
+630 V
+Overvoltage category
+III
+Degree of pollution
+3
+Rated surge voltage
+6 kV
+Connector
+Aug 25, 2023, 5:21 AM     Page 3 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Type
+straight long
+Connection 1
+Head design
+Socket
+Cable/line
+External cable diameter
+12 mm ... 15 mm
+Environmental and real-life conditions
+Ambient conditions
+Degree of protection
+IP67
+Ambient temperature (operation)
+-40 °C ... 125 °C
+Altitude
+3000 m
+Aug 25, 2023, 5:21 AM     Page 4 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Drawings
+Dimensional drawing
+75,6
+Ø28
+Dimensional drawing
+Schematic diagram
+2
+4
+6
+1
+5
+Connector pin assignment
+Aug 25, 2023, 5:21 AM     Page 5 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Diagram
+I [A]
+40
+45
+50
+2
+20
+25
+30
+35
+0
+5
+10
+15
+0
+10 20 30 40 50 60 70 80 90 100 110 120130
+ [°C]
+Aug 25, 2023, 5:21 AM     Page 6 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Approvals
+To download certificates, visit the product detail page: https://www.phoenixcontact.com/us/products/1605545
+
+cUL Recognized 
+Approval ID: E153698-20041116
+Nominal voltage UN
+Nominal current IN
+Cross section AWG
+Cross section mm2
+600 V
+18 A
+- 12
+-
+
+UL Recognized 
+Approval ID: E153698-20041116
+Nominal voltage UN
+Nominal current IN
+Cross section AWG
+Cross section mm2
+600 V
+27 A
+- 12
+-
+
+EAC 
+Approval ID: B.01687
+cULus Recognized
+Aug 25, 2023, 5:21 AM     Page 7 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Classifications
+ECLASS
+ECLASS-11.0
+27440102
+ECLASS-12.0
+27440116
+ECLASS-13.0
+27440116
+ETIM
+ETIM 8.0
+EC002635
+UNSPSC
+UNSPSC 21.0
+39121400
+Aug 25, 2023, 5:21 AM     Page 8 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Environmental product compliance
+REACh SVHC
+Lead 7439-92-1
+Environmentally Friendly Use Period = 50 years
+China RoHS
+For information on hazardous substances, refer to the 
+manufacturer’s declaration available under “Downloads”
+Aug 25, 2023, 5:21 AM     Page 9 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+Accessories
+SF-7PS2000 - Crimp contact
+1605636
+https://www.phoenixcontact.com/us/products/1605636
+Crimp contact, Socket, turned, Single contact, contact diameter: 2 mm, crimp 
+range: 0.25 mm2 ... 1 mm2, Alternative product in accordance with RoHS II 
+without Exemption 6c (Pb <0.1%) item no.: 1241952
+SF-7NS2000 - Crimp contact
+1605631
+https://www.phoenixcontact.com/us/products/1605631
+Crimp contact, Socket, turned, Single contact, contact diameter: 2 mm, crimp 
+range: 0.75 mm2 ... 1.5 mm2, Alternative product in accordance with RoHS II 
+without Exemption 6c (Pb <0.1%) item no.: 1237431
+Aug 25, 2023, 5:21 AM     Page 10 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+SF-7QS2000 - Crimp contact
+1605643
+https://www.phoenixcontact.com/us/products/1605643
+Crimp contact, Socket, turned, Single contact, contact diameter: 2 mm, crimp 
+range: 1 mm2 ... 2.5 mm2, Alternative product in accordance with RoHS II without 
+Exemption 6c (Pb <0.1%) item no.: 1237431
+SF-7MS2000 - Crimp contact
+1605628
+https://www.phoenixcontact.com/us/products/1605628
+Crimp contact, Socket, turned, Single contact, contact diameter: 2 mm, crimp 
+range: 4 mm2 ... 4 mm2, Alternative product in accordance with RoHS II without 
+Exemption 6c (Pb <0.1%) item no.: 1241949
+Aug 25, 2023, 5:21 AM     Page 11 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+RC-Z2058 - Protective cap
+1604223
+https://www.phoenixcontact.com/us/products/1604223
+Plastic protection cap for connectors with M23 knurled nut
+RC-Z2468 - Protective cap
+1611796
+https://www.phoenixcontact.com/us/products/1611796
+Plastic protection cap, antistatic, for connectors with M23 knurled nut
+Aug 25, 2023, 5:21 AM     Page 12 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+SC-Z2322 - Metal protective cap
+1605459
+https://www.phoenixcontact.com/us/products/1605459
+Metal dust protection cap with steel wire for power plugs with M23 knurled nuts
+SF-Z0064 - Color-coding
+1620585
+https://www.phoenixcontact.com/us/products/1620585
+Color-coding, color: green
+Aug 25, 2023, 5:21 AM     Page 13 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+SF-Z0065 - Color-coding
+1620586
+https://www.phoenixcontact.com/us/products/1620586
+Color-coding, color: orange
+SF-Z0066 - Color-coding
+1620587
+https://www.phoenixcontact.com/us/products/1620587
+Color-coding, color: black
+Aug 25, 2023, 5:21 AM     Page 14 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+SF-Z0028 - Torque screwdriver
+1607456
+https://www.phoenixcontact.com/us/products/1607456
+Torque screwdriver, series: RC
+SF-Z0027 - Hook wrench
+1607455
+https://www.phoenixcontact.com/us/products/1607455
+Hook wrench, series: RC
+Aug 25, 2023, 5:21 AM     Page 15 (16)
+
+SF-5ES1N8A8LB2 - Cable connector
+1605545
+https://www.phoenixcontact.com/us/products/1605545
+SF-Z0068 - Square mounting flange
+1620927
+https://www.phoenixcontact.com/us/products/1620927
+Square mounting flange, 4xM3, flange dimensions: 38 mm x 38 mm, series: SF, 
+Alternative product in accordance with RoHS II without Exemption 6c (Pb <0.1%) 
+item no.: 1244326
+Phoenix Contact 2023 © - all rights reserved 
+https://www.phoenixcontact.com
+Phoenix Contact USA 
+586 Fulling Mill Road 
+Middletown, PA 17057, United States 
+(+717) 944-1300 
+info@phoenixcon.com
+Aug 25, 2023, 5:21 AM     Page 16 (16)

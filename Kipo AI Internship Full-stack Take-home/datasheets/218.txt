@@ -1,0 +1,3485 @@
+an Amphenol company
+Catalog C-015 Rev. E2
+
+Positronic Provides Complete Capability
+Experience
+Mission Statement
+ 
+“To utilize product flexibility and application 
+ assistance to present quality  interconnect solutions 
+which represent value to customers worldwide.”
+• Founded in 1966
+•  Involvement in the development of international connector 
+speciﬁ cations through EIA®, IEC and ISO as well as PICMG®.
+• Introduction of new and unique connector products to the electronics industry.
+• Patent holder for many unique connector features and manufacturing techniques.
+• Vertically integrated manufacturing – raw materials to ﬁ nished connectors.
+Technology
+•  Expertise with solid machined contacts provides a variety of high reliability 
+connectors including high current density power connectors.
+•  Quality Assurance lab is capable of testing to IEC, EIA, UL, CUL, military 
+and customer-speciﬁ ed requirements.
+•  In-house design and development of connectors based on market need or 
+individual customer requirements.
+•  Internal manufacturing capabilities include automatic precision contact machining,
+injection molding,  stamping, plating operations and connector assembly.
+•  Manufacturing locations in southwest Missouri, U.S.A. (headquarters); 
+Puerto Rico, France, China, Singapore, and India. Total square footage: 407,441.
+Support
+•  Quality Systems: Select locations qualiﬁ ed to ISO 9001, ISO 14001, 
+AS9100, MIL-STD-790 and customer “dock to stock” programs. Applicable 
+products qualiﬁ ed to MIL-DTL-24308, SAE AS39029, DSCC 85039, 
+MIL-DTL-28748, Space D32, GSFC S-311-P-4 and GSFC S-311-P-10.
+•  Compliance to a variety of international and customer speciﬁ c 
+environmental requirements.
+•  Large in-house inventory of ﬁ nished connectors. Customer 
+speciﬁ c stocking programs.
+• Factory direct technical sales support in major cities worldwide.
+• One-on-one customer support from worldwide factory locations.
+• World class web site.
+•  Value-added solutions and willingness to develop custom products with reasonable price and delivery.
+Regional Headquarters
+Springfield, MO
+Auch, France
+Singapore
+Products described within this catalog may be 
+protected by one or more of the following US patents: 
+Positronic Industries’ FEDERAL SUPPLY CODE (Cage Code) 
+FOR MANUFACTURERS is 28198
+#4,900,261†    #5,255,580    #5,329,697
+#6,260,268    #6,835,079    #7,115,002
+†Patented in Canada, 1992     Other Patents Pending
+POSITRONIC® IS AN ITAR REGISTERED COMPANY 
+   Unless otherwise specifi ed, dimensional tolerances are:
+ 
+1) 
+±0.001 inches [0.03 mm] for male contact mating diameters.
+ 
+2) 
+±0.003 inches [0.08 mm] for contact termination diameters.
+ 
+3) 
+±0.005 inches [0.13 mm] for all other diameters.
+ 
+4) 
+±0.015 inches [0.38 mm] for all other dimensions.
+Information in this catalog is proprietary to Positronic and its subsidiaries. Positronic believes the data contained herein to be reliable. Since the technical information is given free of charge, the user 
+employs such information at his own discretion and risk. Positronic Industries assumes no responsibility for results obtained or damages incurred from use of such information in whole or in part.
+The following trademarks are registered to Positronic Industries, Inc. in the United States and many other countries: Positronic Industries, Inc.®, Positronic®, Connector Excellence®, P+ logo®, 
+PosiBand®, PosiShop®, Positronic Global Connector Solutions®, Global Connector Solutions®. The color blue as it appears on various connectors is a trademark of Positronic Industries, Inc., 
+Registered in U.S. Patent and Trademark Ofﬁ ce.
+
+TABLE OF CONTENTS
+FRONT-RUNNER SERIES
+CIRCULAR CONNECTORS
+Front
+Runner
+Positronic
+connectpositronic.com
+HIGH PERFORMANCE, LIGHTWEIGHT,
+COMPOSITE CONSTRUCTION
+ 
+n SIZES 11 AND 19 connector diameters.
+ 
+n  16 CONTACT ARRANGEMENTS  from 3 to 29 contacts.
+ 
+n  EASY CONTACT SERVICING:  Rear insertion/front release of 
+removable contacts.
+ 
+n  TWO LEVEL SEQUENTIAL MATING OF CONTACTS.
+ 
+n  NON-CORRODIBLE/LIGHTWEIGHT COMPOSITE MATERIALS.
+ 
+n  ENVIRONMENTAL VERSION features dust and water ingress 
+ 
+ 
+protection to IEC IP67 (1 meter immersion for 30 minutes) in mated 
+         condition.
+ 
+n  EMI/RFI SHIELDED VERSION, electroless nickel plated plastic.
+   
+    n THERMOCOUPLE CONTACTS.
+i
+i
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+GENERAL INFO
+TECH INFO
+DIMENSIONS
+ORDERING INFO
+ACCESSORIES
+CONTACTS
+ APPL  TOOLING
+
+TABLE OF CONTENTS
+Front
+Runner
+Positronic
+connectpositronic.com
+G E N E R A L  I N F O R M A T I O N
+General Product Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+1
+Typical Connector Assemblies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+2
+Contact Arrangements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+T E C H N I C A L  I N F O R M A T I O N
+Technical Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+4
+“Large Surface Area” Contact Mating System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5
+Temperature Rise Curves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5
+D
+I
+M
+E
+N
+S
+I
+O
+N
+S
+Housing Dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+6-7
+Straight and 90° Printed Board Mount Connectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+8-9
+Straight Printed Board Contact Hole Patterns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+10
+90° Printed Board Contact Hole Patterns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+11
+O R D E R I N G  I N F O R M A T I O N
+Ordering Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+12
+Special Options  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+13
+A
+C
+C
+E
+S
+S
+O
+R
+I
+E
+S
+Non-Environmental Version Accessories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+14-15
+Accessories and Panel Cutouts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+15
+Environmental Version Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+16
+EMI/RFI Shielded Version Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+C
+O
+N
+T
+A
+C
+T
+S
+Removable Contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+18-19
+Thermocouple Contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+20
+Crimp Shielded Contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+21-22
+A
+P
+P
+L
+I
+C
+A
+T
+I
+O
+N
+ 
+T
+O
+O
+L
+S
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+23
+Contact Application Tools Cross Reference List . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+24
+ii
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+GENERAL INFO
+TECH INFO
+DIMENSIONS
+ORDERING INFO
+ACCESSORIES
+CONTACTS
+ APPL  TOOLING
+
+GENERAL PRODUCT INFORMATION
+Front
+Runner
+Positronic
+connectpositronic.com
+GENERAL INFO
+The Front Runner Series offers a 
+ multiplicity of connector features which 
+makes it a first choice to meet the 
+high  performance and high reliability 
+requirements of Medical, Transportation, 
+Industrial 
+Control, 
+and 
+Avionics 
+applications. Front Runner features 
+include:
+  1.  Composite components: 
+Lightweight and non-corrodible.  
+Contacts machined from  
+solid  copper alloy.
+  2.  Sixteen (16) contact arrangements 
+from 3 to 29 contacts.
+  3.  Hot pluggable capabilities to  
+25 amperes.
+  4.  Two level sequential mating of contacts.
+  5.  A mix of power and signal contacts in Sizes 12, 16, 20, and 22.  Crimp removable 
+ contacts and printed board straight and right angle terminations.
+  6.  Mounting options include flange and jam nut or printed circuit board mount.
+  7.  Environmental version provides dust and water ingress protection to I.E.C. IP67  
+(1 meter immersion for 30  minutes in mated condition).
+  8.  EMI/RFI shielded version, electroless nickel  plated plastic.
+  9.  Easy contact servicing - rear insertion/front release contact retention system.
+  10.  Threaded coupling nut system.
+Contact Technical Sales for additional information.
+1
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+TYPICAL CONNECTOR ASSEMBLIES
+Front
+Runner
+Positronic
+connectpositronic.com
+GENERAL INFO
+In-line Female Contacts,
+Plug Housing with Cable Adapter
+Part Number FR11FP316K1
+with FC116N2 Contacts
+Fixed Flange Mount,
+Male Contacts
+with Receptacle Housing
+Part Number 
+FR11MF316K0
+with MC116N Contacts
+In-line Male Contacts,
+Plug Housing with Cable Adapter
+Part Number FR11MP520K1
+with MC720N Contacts
+In-line Female Contacts,
+Receptacle Housing
+with Cable Adapter
+Part Number FR11FR520K1
+with FC720N2 Contacts
+Fixed Flange Mount,
+Male Contacts,
+Receptacle Housing with Jam Nut
+Part Number FR11MJ922K0
+with MC422N Contacts
+In-line Female Contacts,
+Plug Housing
+with Cable Adapter
+Part Number FR11FP922K1
+with FC422N6 Contacts
+2
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+CONTACT
+ARRANGEMENTS
+Positronic
+connectpositronic.com
+GENERAL INFO
+CONTACT ARRANGEMENTS FOR SIZE 11 HOUSING 
+VOLTAGE RATINGS PER EN60950 * INSULATION RESISTANCE OF 5 G OHMS
+CONTACT ARRANGEMENTS ARE SHOWN APPROXIMATELY ACTUAL SIZE 
+MATING FACE OF MALE OR REAR VIEW OF FEMALE CONNECTOR SHOWN
+316 
+520 
+822 
+Three (3) Size 16 Contacts
+0.063 inch [1.6 mm] minimum creepage 
+for operation at 300V RMS
+Five (5) Size 20 Contacts
+0.039 inch [1.0 mm] minimum creepage 
+for operation at 200V RMS
+Eight (8) Size 22 Contacts
+0.028 inch [0.7 mm]  minimum creepage 
+for operation at 100V RMS
+420
+722
+922
+Four (4) Size 20 Contacts
+0.059 inch [1.5 mm] minimum creepage 
+for operation at 250V RMS
+Seven (7) Size 22 Contacts
+0.063 inch [1.6 mm] minimum creepage 
+for operation at 300V RMS
+Nine (9) Size 22 Contacts
+0.028 inch [0.7 mm] minimum creepage 
+for operation at 100V RMS
+CONTACT ARRANGEMENTS FOR SIZE 19 HOUSING 
+VOLTAGE RATINGS PER EN60950 * INSULATION RESISTANCE OF 5 G OHMS
+CONTACT ARRANGEMENTS ARE SHOWN APPROXIMATELY ACTUAL SIZE 
+MATING FACE OF MALE OR REAR VIEW OF FEMALE CONNECTOR SHOWN
+312
+512
+712
+716
+916
+Three (3) Size 12 Contacts
+0.197 inch [5.0 mm] 
+minimum creepage for 
+ operation at 600V RMS
+Five (5) Size 12 Contacts
+0.091 inch [2.3 mm] 
+minimum creepage for 
+operation at 400V RMS
+Seven (7) Size 12 Contacts
+0.071 inch [1.8 mm] 
+minimum creepage for 
+ operation at 300V RMS
+Seven (7) Size 16 Contacts
+0.189 inch [4.8 mm] 
+minimum creepage for 
+ operation at 600V RMS
+Nine (9) Size 16 Contacts
+0.118 inch [3.0 mm] 
+minimum creepage for 
+ operation at 400V RMS
+920
+1220
+1920
+1822
+2922
+Nine (9) Size 20 Contacts
+0.154 inch [3.9 mm] 
+Minimum Creepage for 
+Operation at 600V RMS
+Twelve (12) Size 20 Contacts
+0.102 inch [2.6 mm] 
+minimum creepage for 
+ operation at 400V RMS
+Nineteen (19) Size 20 Contacts
+0.059 inch [1.5 mm] 
+minimum creepage for  
+ operation at 250V RMS
+Eighteen (18) Size 22 Contacts
+0.086 inch [2.2 mm] 
+minimum creepage for   
+operation at 400V RMS
+Twenty-nine (29) 
+Size 22 Contacts
+0.051 inch [1.3 mm] 
+minimum creepage for 
+ operation at 250V RMS
+* NOTE:  Contact Technical Sales for availability of other contact arrangements.
+3
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+3
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+TECHNICAL INFORMATION
+Front
+Runner
+Positronic
+connectpositronic.com
+TECH INFO
+TECHNICAL CHARACTERISTICS
+Printed Board
+Contact Terminations: 
+ Straight and 90° solder terminations.  
+MATERIALS AND FINISHES:
+Insulator Inserts: 
+ Glass-filled DAP, Type SDG-F, black 
+color, UL 94V-0.
+Mechanical Operations: 
+500 operations.
+Non-Environmental Connectors:
+ 
+Housings: 
+Glass-filled polyester, black color,  
+UL 94V-0.
+ELECTRICAL CHARACTERISTICS:
+Nominal Contact Current Rating:
+ 
+Size 12: 
+25 amperes.
+ 
+Coupling Nut: 
+Glass-filled polyester, black color,  
+UL 94V-0.
+ 
+Size 16: 
+13 amperes.
+ 
+Size 20: 
+7.5 amperes.
+ 
+Cable Adapters: 
+Glass-filled polyester, black color,  
+UL 94V-0.
+ 
+Size 22: 
+5 amperes.
+Environmental Connectors:
+ 
+Interfacial O-Rings: 
+T.P.E.
+Initial Contact Resistance, Maximum:
+ 
+Size 12: 
+0.001 ohms per IEC 60512-2, Test 2b.
+ 
+Cable Adapters: 
+Glass-filled polyester with T.P.E. boot.
+ 
+Size 16: 
+0.0016 ohms per IEC 60512-2, Test 2b.
+ 
+Size 20: 
+0.007 ohms per IEC 60512-2, Test 2b.
+ 
+Size 22: 
+0.012 ohms per IEC 60512-2, Test 2b.
+ 
+Dust Cover: 
+Glass-filled polyester, black color, or low 
+density polyethylene, black color,  
+UL 94V-0.
+Size 16 Micro-Coaxial Contacts:
+ 
+ 
+See page 22 for technical information.
+EMI/RFI Shielded Connectors:
+ 
+Housings: 
+Thermoplastic, electroless nickel over 
+ copper plated.
+Insulation Resistance: 
+ 5 G ohms per IEC 60512-2, Test 3a, 
+Method A.
+ 
+Cable Adapters: 
+Thermoplastic, electroless nickel over 
+ copper plated.
+Contacts: 
+ Copper alloy with gold flash over nickel 
+or 0.000030 inch [0.76 microns] gold 
+plate over nickel plate.
+Creepage and
+Clearance Distance: 
+ See values given with the specific 
+ contact arrangements on page 3.
+Working Voltage: 
+ See values given with the specific 
+ contact arrangements on page 3.
+Jam Nuts: 
+Aluminum, black anodized.
+Hot Pluggable 
+(50 couplings per 
+UL 1977, paragraph 15):
+ 
+Size 12 Contacts: 
+250 VAC at 25 amperes.
+ 
+Size 16 Contacts: 
+120 VAC at 4.5 amperes.
+MECHANICAL CHARACTERISTICS:
+Polarization: 
+ Plug and receptacle housings are  molded 
+with integral polarization system.
+CLIMATIC CHARACTERISTICS:
+Working Temperature: 
+-55˚C to +125˚C.
+Removable Contacts: 
+ Rear insertion/Front release removal.  
+Female contact features “Closed Entry 
+Design“ for highest reliability.
+Dust and Water Ingress: 
+ Per IEC IP67 (1 meter immersion for 30 
+minutes) in mated condition.
+Contact Retention in Insulator:
+ 
+Size 22: 
+6 lbs. [27 N] per IEC 60512-8, Test 15a.
+ 
+Size 20: 
+10 lbs. [44 N] per IEC 60512-8. Test 15a.
+ 
+Size 16: 
+20 lbs. [89 N] per IEC 60512-8, Test 15a.
+EMI/RFI SHIELDING CHARACTERISTICS:
+Surface Conductivity: 
+< 0.5 ohm per square.
+ 
+Size 12: 
+20 lbs. [89 N] per IEC 60512-8, Test 15a.
+Attenuation: 
+ 70-80 dB at most frequencies.
+Sequential Contact
+Mating Systems: 
+ One and two level systems.  Contact 
+Technical Sales for ordering information.
+THERMOCOUPLE CONTACTS:
+Size 20 and 22 crimp contacts are available. See page 20 for details.
+Coupling System:
+ 
+Size 11 Housing: 
+M19 coupling nut.
+PCB mount contacts are available please contact Technical Sales for 
+details.
+ 
+Size 19 Housing: 
+M32 coupling nut.
+4
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+4
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+“LARGE SURFACE AREA” 
+CONTACT MATING SYSTEM
+Positronic
+connectpositronic.com
+FRONT RUNNER HIGH PERFORMANCE CONTACTS
+“LARGE SURFACE AREA CONTACT MATING SYSTEM”
+HIGH RELIABILITY “CLOSED ENTRY” DESIGN
+PRECISION MACHINED SOLID COPPER ALLOY
+Insulation Support
+Closed Crimp Barrel
+Spring retention member provides uniform 
+retention of male contact when mated.
+A
+TECH INFO
+A
+Male Contact
+Inspection Hole
+Female Contact
+Large Surface Area Contact Mating Surface
+Contact Insulator Retention Clip
+Spring Retention Member
+ 
+All Front Runner Series contacts are precision machined 
+from solid copper alloy barstock.  They are durable, smooth 
+in construction, and have greater amperage capacities than 
+hollow, sheet metal-style contacts.
+ 
+Front Runner Series contacts, having a large contact 
+SECTION A-A
+ENLARGED
+ surface area, produce less heat at the contact surface, 
+ thereby permitting the connector to operate at high  amperage 
+ levels continuously and still maintain lower  connector 
+ temperatures.
+ 
+All contacts of Positronic’s Front Runner Series utilize the 
+“Large Surface Area (L.S.A.) Contact Mating System.”  The 
+“L.S.A. Contact Mating System” insures the lowest level 
+of contact resistance during mechanical endurance tests of 
+1000 coupling cycles or more.  Contact insertion/withdrawal 
+forces remain substantially the same during the life of the 
+connector.
+ 
+Front Runner Series use only “Closed Entry” design 
+female contacts.  The “Closed Entry” design prevents probe 
+damage to the female contacts, and will not allow the female 
+contact to accept misaligned or bent male contacts.
+CONNECTOR TEMPERATURE RISE CURVES
+Tested per IEC Publication 60512-5-2, Test 5a
+Size 16 Contact / Size 20 Contacts / Size 11 Housing
+Size 12 Contact / Size 16 Contacts / Size 19 Housing
+15
+30
+25
+12
+NOTE 3
+NOTE 1
+20
+9
+15
+6
+NOTE 2
+10
+NOTE 4
+3
+RATED CURRENT (AMPS)
+RATED CURRENT (AMPS)
+5
+0
+0
+5
+10
+15
+20
+25
+30
+35
+0
+0
+5
+10
+15
+20
+25
+30
+35
+TEMPERATURE RISE (°C)
+TEMPERATURE RISE (°C)
+NOTE 3:
+NOTE 1:
+Curve developed using FR19MF312K0 and FR19FP312K0 
+connectors, MC612N and FC612N2 crimp contacts and 
+12 AWG [4.0 mm2] size wire.  All contacts under load.
+Curve developed using FR11MP316K0 and FR11FF316K0 
+connectors, MC116N and FC116N2 crimp contacts and 
+16 AWG [1.5 mm2] size wire.  All contacts under load.
+NOTE 4:
+NOTE 2:
+Curve developed using FR19MF716K0 and FR19FP716K0 
+connectors, MC116N and FC116N2 crimp contacts and 
+16 AWG [1.5 mm2] size wire.  All contacts under load.
+Curve developed using FR11MP520K0 and FR11FF520K0 
+connectors, MC720N and FC720N2 crimp contacts and 
+20 AWG [0.5 mm2] size wire.  All contacts under load.
+5
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+5
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+HOUSING
+DIMENSIONS
+Positronic
+connectpositronic.com
+FIXED FLANGE-MOUNT HOUSING
+RECEPTACLE HOUSING, MALE OR FEMALE CONTACTS
+DIMENSION
+SIZE 11 HOUSING
+SIZE 19 HOUSING
+A
+0.719 [18.26]
+1.062 [26.97]
+DIMENSIONS
+B
+0.938 [23.83]
+1.438 [36.53]
+C Thread
+M19
+M32
+D Thread
+M15
+M28
+MATERIALS:
+ 
+Insert: Glass-filled DAP.
+ 
+Housing: Glass-filled polyester.
+FREE IN-LINE HOUSINGS
+PLUG HOUSING,
+MALE OR FEMALE CONTACTS
+RECEPTACLE HOUSING,
+MALE OR FEMALE CONTACTS
+* Note
+C thread
+B
+B
+D thread
+D thread
+A
+A
+DIMENSION
+SIZE 11 HOUSING
+SIZE 19 HOUSING
+DIMENSION
+SIZE 11 HOUSING
+SIZE 19 HOUSING
+A
+1.165 [29.59]
+1.165 [29.59]
+A
+1.165 [29.59]
+1.165 [29.59]
+B
+0.890 [22.61]
+1.435 [36.45]
+B
+ø 0.750 [19.05]
+ø 1.181 [30.00]
+C Thread
+M19
+M32
+D Thread
+M15
+M28
+D Thread
+M15
+M28
+* NOTE:
+This connector may be ordered without the coupling nut.
+MATERIALS:
+ 
+Insert: Glass-filled DAP.
+ 
+Housing & Coupling Nut: Glass-filled polyester.
+6
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+HOUSING
+DIMENSIONS
+Positronic
+connectpositronic.com
+FIXED JAM NUT MOUNTING
+RECEPTACLE HOUSING, MALE OR FEMALE CONTACTS
+DIMENSION
+SIZE 11 HOUSING
+SIZE 19 HOUSING
+A
+0.719 [18.26]
+1.062 [26.97]
+DIMENSIONS
+B
+0.938 [23.83]
+1.438 [36.53]
+C Thread
+M19
+M32
+D Thread
+M15
+M28
+MATERIALS AND FINISHES:
+ 
+Insert: Glass-filled DAP.
+ 
+Housing: Glass-filled polyester.
+ 
+Jam Nut: Aluminum, black anodize.
+IN-LINE TO IN-LINE MOUNTING
+LENGTH OF MATED PAIR
+CONTACT HOLE DIAMETER
+TERMINATION SIDE OF INSULATOR
+Ø A
+CONTACT SIZE
+Ø D
+MATERIALS:
+12
+0.195 [4.95]
+ 
+Insert: Glass-filled DAP.
+ 
+Housing & Coupling Nut: Glass-filled polyester.
+16
+0.125 [3.18]
+20
+0.097 [2.46]
+* NOTE:
+This connector may be ordered without the coupling nut.
+22
+0.079 [2.01]
+7
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+STRAIGHT AND 90° PRINTED
+BOARD CONNECTORS
+Positronic
+connectpositronic.com
+STRAIGHT PRINTED BOARD MOUNT CONNECTOR
+RECEPTACLE HOUSING, MALE OR FEMALE CONTACTS
+CONTACT SIZE
+Ø D
+0.990 [25.15]
+Push-on fastener,
+phosphor bronze
+12
+0.094 [2.39]
+Push-on fastener,
+0.990 [25.15]
+receptacle housing only
+phosphor bronze
+16
+0.035 [0.89]
+receptacle housing only
+Typical Part Number:
+FR11FF316K0-1554.0
+20
+0.028 [0.71]
+Ø D
+22
+0.025 [0.64]
+0.125 [3.18] Nominal
+Ø D
+0.125 [3.18] Nominal
+DIMENSIONS
+90° PRINTED BOARD MOUNT CONNECTOR
+1.001 [25.43]
+1.001 [25.43]
+1.001 [25.43]
+1.001 [25.43]
+1.001 [25.43]
+1.001 [25.43]
+0.063
+0.063
+0.063
+[1.60]
+[1.60]
+[1.60]
+0.063
+0.063
+0.063
+0.125
+0.125
+0.125
+[1.60]
+[1.60]
+[1.60]
+[3.18]
+[3.18]
+[3.18]
+TYP.
+TYP.
+0.125
+0.125
+TYP.
+0.125
+[3.18]
+[3.18]
+[3.18]
+TYP.
+TYP.
+TYP.
+ø0.035 [0.89] 
+ø0.028 [0.71] TYP.
+0.250 [6.35]
+ø0.028 [0.71] TYP.
+0.250 [6.35]
+0.250 [6.35]
+TYP.
+0.278 [7.06]
+0.164 [4.17]
+0.138 [3.51]
+0.260 [6.60]
+0.305 [7.75]
+0.164 [4.17]
+ø0.035 [0.89] 
+0.223 [5.66]
+ø0.028 [0.71] TYP.
+0.250 [6.35]
+ø0.028 [0.71] TYP.
+0.250 [6.35]
+0.250 [6.35]
+TYP.
+0.278 [7.06]
+0.164 [4.17]
+0.138 [3.51]
+0.260 [6.60]
+Typical Part Number:
+FR11FF316K0-1553.0
+Typical Part Number:
+FR11FF420K0-1553.0
+Typical Part Number:
+FR11FF520K0-1553.0
+0.305 [7.75]
+0.164 [4.17]
+1.001 [25.43]
+1.001 [25.43]
+1.001 [25.43]
+0.223 [5.66]
+0.063
+0.063
+0.063
+1.001 [25.43]
+1.001 [25.43]
+1.001 [25.43]
+[1.60]
+[1.60]
+[1.60]
+0.125
+0.125
+0.063
+0.063
+0.125
+0.063
+[3.18]
+[3.18]
+[3.18]
+[1.60]
+[1.60]
+[1.60]
+TYP.
+TYP.
+TYP.
+0.125
+0.125
+0.125
+[3.18]
+[3.18]
+[3.18]
+TYP.
+TYP.
+ø0.025 [0.64] TYP.
+ø0.025 [0.64] TYP.
+0.250 [6.35]
+0.250 [6.35]
+TYP.
+ø0.025 [0.64] TYP..
+0.250 [6.35]
+0.241 [6.12]
+0.119 [3.02] TYP.
+0.223 [5.66]
+0.137 [3.48] TYP.
+0.137 [3.48] TYP.
+0.223 [5.66]
+0.097 [2.46] TYP.
+0.097 [2.46] TYP.
+ø0.025 [0.64] TYP.
+ø0.025 [0.64] TYP.
+0.250 [6.35]
+0.250 [6.35]
+ø0.025 [0.64] TYP..
+0.250 [6.35]
+0.241 [6.12]
+0.119 [3.02] TYP.
+0.223 [5.66]
+0.137 [3.48] TYP.
+0.137 [3.48] TYP.
+0.223 [5.66]
+Typical Part Number:
+FR11FF722K0-1553.0
+Typical Part Number:
+FR11FF822K0-1553.0
+Typical Part Number:
+FR11FF922K0-1553.0
+0.097 [2.46] TYP.
+0.097 [2.46] TYP.
+8
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+90° PRINTED BOARD CONNECTORS
+Front
+Runner
+Positronic
+connectpositronic.com
+1.438
+1.438
+[36.53]
+[36.53]
+0.125
+0.125
+[3.18]
+[3.18]
+TYP.
+TYP.
+ø0.094 [2.39] TYP.
+0.250 [6.35]
+ø0.094 [2.39] TYP.
+0.250 [6.35]
+0.343 [8.71]
+0.430 [10.92]
+0.285 [7.24] TYP.
+0.246 [6.25]
+Typical Part Number:
+FR19FF512K0-1553.0
+Typical Part Number:
+FR19FF312K0-1553.0
+1.438
+1.438
+[36.53]
+[36.53]
+DIMENSIONS
+0.125
+0.125
+[3.18]
+[3.18]
+TYP.
+TYP.
+ø0.094 [2.39] TYP.
+0.250 [6.35]
+0.250 [6.35]
+ø0.035 [0.89] TYP.
+0.234 [5.94] TYP.
+0.297 [7.54]
+0.277 [7.04] TYP.
+0.254 [6.45]
+Typical Part Number:
+FR19FF716K0-1553.0
+Typical Part Number:
+FR19FF712K0-1553.0
+1.438
+1.438
+1.438
+[36.53]
+[36.53]
+[36.53]
+0.125
+0.125
+0.125
+[3.18]
+[3.18]
+[3.18]
+TYP.
+TYP.
+TYP.
+0.250 [6.35]
+ø0.035 [0.89]
+ø0.028 [0.71] TYP.
+0.250 [6.35]
+0.250 [6.35]
+ø0.028 [0.71] TYP.
+0.319 [8.10] TYP.
+0.212 [5.38]
+0.336 [8.53] TYP.
+0.195 [4.95]
+0.198 [5.03] TYP.
+0.215 [5.46]
+0.226 [5.74] TYP.
+0.237 [6.02] TYP.
+Typical Part Number:
+FR19FF1220K0-1553.0
+Typical Part Number:
+FR19FF920K0-1553.0
+Typical Part Number:
+FR19FF916K0-1553.0
+1.438
+1.438
+1.438
+[36.53]
+[36.53]
+[36.53]
+0.125
+0.125
+0.125
+[3.18]
+[3.18]
+[3.18]
+TYP.
+TYP.
+TYP.
+ø0.028 [0.71] 
+0.250 [6.35]
+0.250 [6.35]
+0.250 [6.35]
+ø0.025 [0.64] TYP.
+ø0.025 [0.64] TYP.
+TYP.
+0.150 [3.81] TYP.
+0.231 [5.87]
+0.145 [3.68] TYP.
+0.286 [7.26]
+0.074 [1.88] TYP.
+0.235 [5.97]
+Typical Part Number:
+FR19FF1920K0-1553.0
+Typical Part Number:
+FR19FF1822K0-1553.0
+Typical Part Number:
+FR19FF2922K0-1553.0
+9
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+STRAIGHT PRINTED BOARD
+CONTACT HOLE PATTERN
+Positronic
+connectpositronic.com
+2X 0.117 [2.97]
+0.085 [2.16]
+0.109 [2.77]
+SUGGESTED PRINTED
+BOARD HOLE SIZES:
+2X 0.082 
+0.223 [5.66]
+[2.08]
+4X 0.360 [9.14]
+4X 0.360 [9.14]
+Suggest Ø 0.114 [2.90] plated through 
+hole for size 12 contact termination 
+positions.
+0.164 [4.17]
+4X 0.360 [9.14]
+0.123 [3.12]
+2X 0.095 [2.41]
+2X 0.082 [2.08]
+2X 0.072 [1.83]
+Suggest Ø 0.052 [1.32] plated through 
+hole for size 16 contact termination 
+positions.
+4X 0.360 [9.14]
+4X 0.360 [9.14]
+4X 0.360 [9.14]
+316
+420
+520
+2X 0.119
+2X 0.137 [3.48]
+4X 0.097 [2.46]
+4X 0.097 [2.46]
+Suggest Ø 0.045 [1.14] plated through 
+hole for size 20 contact termination 
+positions.
+4X 0.097
+2X 0.137
+[3.02]
+2X 0.137
+4X 0.097
+[2.46]
+[3.48]
+[3.48]
+[2.46]
+Suggest Ø 0.040 [1.02] plated through 
+hole for size 22 contact termination 
+positions.
+4X 0.360 [9.14]
+4X 0.360 [9.14]
+4X 0.360 [9.14]
+Suggest Ø 0.123±0.003 [3.12±0.08] 
+hole for mounting connector with 
+push-on fasteners.
+4X 0.069 [1.75]
+2X 0.137 [3.48]
+2X 0.137 [3.48]
+4X 0.360 [9.14]
+4X 0.360 [9.14]
+4X 0.360 [9.14]
+DIMENSIONS
+922
+822
+722
+4X 0.135 [3.43]
+4X 0.160 [4.06]
+4X
+0.277
+0.242 [6.15]
+4X 0.234 [5.94]
+[7.04]
+2X 0.285 [7.24]
+4X
+4X
+4X
+4X 0.531 [13.49]
+2X 0.101 [2.57]
+0.531 [13.49]
+0.531 [13.49]
+0.531 [13.49]
+2X 0.198 [5.03]
+2X 0.285 [7.24]
+2X 0.270 [6.86]
+2X 0.319 [8.10]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+712
+716
+512
+312
+4X 0.226 [5.74]
+4X 0.237 [6.02]
+4X 0.205 [5.21]
+3X 0.278 [7.06]
+4X 0.080 [2.03]
+2X 0.319 [8.10]
+3X 0.118 [3.00]
+2X 0.336 [8.53]
+4X 0.226 [5.74]
+4X 0.237 [6.02]
+2X 0.316 [8.03]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+2X 0.319 [8.10]
+2X 0.336 [8.53]
+4X 0.102 [2.59]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+2X 0.307 [7.80]
+4X 0.531 [13.49]
+916
+920
+1220
+4X 0.248 [6.30]
+6X 0.164 [4.17]
+6X 0.166 [4.22]
+4X 0.247 [6.27]
+6X 0.222 [5.64]
+10X 0.209 [5.31]
+3X 0.190 [4.83]
+4X 0.045 [1.14]
+6X 0.074 [1.88]
+2X 0.335 [8.51]
+5X 0.100 [2.54]
+0.370 [9.40]
+6X 0.300 [7.62]
+8X 0.150 [3.81]
+8X 0.148 [3.76]
+4X 0.245 [6.22]
+4X 0.296 [7.52]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+4X 0.531 [13.49]
+0.083
+0.083
+0.104
+[2.11]
+[2.11]
+[2.64]
+4X 0.531 [13.49]
+2X 0.331 [8.41]
+4X 0.531 [13.49]
+6X 0.313 [7.95]
+2X 0.329 [8.36]
+4X 0.531 [13.49]
+1920
+1822
+2922
+10
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+90° PRINTED BOARD
+CONTACT HOLE PATTERN
+Positronic
+connectpositronic.com
+0.085 [2.16]
+2X 0.117 [2.97]
+0.109 [2.77]
+0.223 [5.66]
+2X 0.082 
+SUGGESTED PRINTED
+BOARD HOLE SIZES:
+[2.08]
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+0.123 [3.12]
+0.164 [4.17]
+Suggest Ø 0.114 [2.90] plated through 
+hole for size 12 contact termination 
+positions.
+2X 0.095 [2.41]
+2X 0.082 [2.08]
+2X 0.072 [1.83]
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+Suggest Ø 0.052 [1.32] plated through 
+hole for size 16 contact termination 
+positions.
+316
+420
+520
+2X 0.119
+2X 0.137 [3.48]
+4X 0.097 [2.46]
+4X 0.097 [2.46]
+4X 0.097
+2X 0.137
+Suggest Ø 0.045 [1.14] plated through 
+hole for size 20 contact termination 
+positions.
+[3.02]
+2X 0.137
+4X 0.097
+[2.46]
+[3.48]
+[3.48]
+[2.46]
+Suggest Ø 0.040 [1.02] plated through 
+hole for size 22 contact termination 
+positions.
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+Suggest Ø 0.123±0.003 [3.12±0.08] 
+hole for mounting connector with 
+push-on fasteners.
+4X 0.069 [1.75]
+2X 0.137 [3.48]
+2X 0.137 [3.48]
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+2X 0.360 [9.14]
+DIMENSIONS
+822
+722
+922
+4X
+4X 0.135 [3.43]
+4X 0.160 [4.06]
+0.277
+0.242 [6.15]
+4X 0.234 [5.94]
+[7.04]
+2X 0.285 [7.24]
+2X
+2X
+2X
+2X 0.531 [13.49]
+2X 0.101 [2.57]
+0.531 [13.49]
+0.531 [13.49]
+0.531 [13.49]
+2X 0.198 [5.03]
+2X 0.285 [7.24]
+2X 0.270 [6.86]
+2X 0.319 [8.10]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+712
+716
+512
+312
+4X 0.226 [5.74]
+4X 0.237 [6.02]
+4X 0.205 [5.21]
+3X 0.278 [7.06]
+4X 0.080 [2.03]
+2X 0.319 [0.810]
+3X 0.118 [3.00]
+2X 0.336 [8.53]
+2X 0.226 [5.74]
+2X 0.237 [6.02]
+2X 0.316 [8.03]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+2X 0.319 [8.10]
+2X 0.336 [8.53]
+4X 0.102 [2.59]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+2X 0.307 [7.80]
+2X 0.531 [13.49]
+916
+920
+1220
+4X 0.248 [6.30]
+6X 0.164 [4.17]
+6X 0.166 [4.22]
+4X 0.247 [6.27]
+6X 0.222 [5.64]
+10X 0.209 [5.31]
+3X 0.190 [4.83]
+4X 0.045 [1.14]
+6X 0.074 [1.88]
+2X 0.335 [8.51]
+5X 0.100 [2.54]
+0.370 [9.40]
+6X 0.300 [7.62]
+8X 0.150 [3.81]
+8X 0.148 [3.76]
+4X 0.245 [6.22]
+4X 0.296 [7.52]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+2X 0.531 [13.49]
+0.083
+0.083
+0.104
+[2.11]
+[2.11]
+[2.64]
+2X 0.531 [13.49]
+2X 0.331 [8.41]
+2X 0.531 [13.49]
+6X 0.313 [7.95]
+2X 0.329 [8.36]
+2X 0.531 [13.49]
+1920
+1822
+2922
+11
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+ORDERING INFORMATION
+Front
+Runner
+Positronic
+connectpositronic.com
+ORDERING INFORMATION - CODE NUMBERING SYSTEM
+Specify Complete Connector By Selecting An Option From Step 1 Through 6
+8
+1
+2
+3
+4
+5
+6
+7
+STEP
+-1554.0
+FR
+11
+MF
+922
+K
+0
+/AA
+EXAMPLE
+STEP 8 - SPECIAL OPTIONS
+STEP 1 - BASIC SERIES
+FR - Front Runner Series
+FOR SPECIAL OPTIONS, SEE SPECIAL 
+OPTIONS APPENDIX ON PAGE 13.
+STEP 2 - HOUSING SIZE
+11 - Size 11 Housing
+19 - Size 19 Housing
+ 
+C
+I
+I
+N
+N
+D
+STEP 3 - HOUSING STYLE AND GENDER
+O
+U
+R
+STEP 7 -  ENVIRONMENTAL  
+COMPLIANCE OPTIONS
+S
+T
+T
+I
+R
+S
+I
+E
+O
+S
+P
+  
+•
+•
+ 
+ 
+ 
+p
+C
+e
+r
+E
+ 
+RoHS
+RoHS
+Compliant
+/
+E
+5
+U
+ 
+9
+D
+/
+i
+r
+2
+e
+0
+c
+t
+0
+i
+v
+2
+ 
+e
+/AA -  Compliant per EU Directive 
+2002/95/EC (RoHS)
+Note: If compliance to environmental 
+ legislation is not required, this step will 
+not be used. Example: FR11MP922K1
+ MP - Free In-line, Male Contacts with Plug Housing
+ FP - Free In-line, Female Contacts with Plug Housing
+ MF - Fixed Flange Mount, Male Contacts with Receptacle Housing
+ FF - Fixed Flange Mount, Female Contacts with Receptacle Housing
+ MJ - Fixed Jam Nut, Male Contacts with Receptacle Housing
+ FJ - Fixed Jam Nut, Female Contacts with Receptacle Housing
+ MR - Free In-line, Male Contacts with Receptacle Housing
+ FR - Free In-line, Female Contacts with Receptacle Housing
+STEP 4 - CONTACT ARRANGEMENTS AND SIZE
+SIZE 11 HOUSING
+STEP 6 - CABLE ADAPTERS (HOOD)
+ORDERING INFO
+316 - Three (3) Size 16 Contacts
+420 - Four (4) Size 20 Contacts
+520 - Five (5) Size 20 Contacts
+722 - Seven (7) Size 22 Contacts
+822 - Eight (8) Size 22 Contacts
+922 - Nine (9) Size 22 Contacts
+SIZE 19 HOUSING
+0 - None
+1 - Long, Straight, Non-Environmental
+2 - Short, Straight, Non-Environmental
+4 - Long, Straight, Environmental
+41-  Long, Straight, Environmental with single cable  seal.  
+ 
+ (Size 11 - 0.150 [3.81] ID, size 19 - 0.345 [8.76] ID)
+42-  Long, Straight, Environmental with single cable seal.  
+(Size 11 - 0.200 [5.08] ID, size 19 - 0.420 [10.67] ID)
+43-  Long, Straight, Environmental with single cable seal.  
+(Size 11 - 0.250 [6.35] ID, size 19 - 0.495 [12.57] ID)
+44-  Long, Straight, Environmental with single cable seal.  
+(Size 11 - 0.300 [7.62] ID, size 19 - 0.570 [14.48] ID)
+5 - Long, Straight, EMI/RFI
+6 - Short, Straight, EMI/RFI 
+ 312 - Three (3) Size 12 Contacts
+ 512 - Five (5) Size 12 Contacts
+ 712 - Seven (7) Size 12 Contacts
+ 716 - Seven (7) Size 16 Contacts
+ 916 - Nine (9) Size 16 Contacts
+ 920 - Nine (9) Size 20 Contacts
+ 1220 - Twelve (12) Size 20 Contacts
+ 1822 - Eighteen (18) Size 22 Contacts
+ 1920 - Nineteen (19) Size 20 Contacts
+ 2922 - Twenty-nine (29) Size 22 Contacts
+STEP 5 - SERVICE CLASS
+K - Non-Environmental
+L - Environmental
+M - EMI/RFI Shielded
+LM - Environmental and EMI/RFI Shielded
+NOTE: Once you have made a connector selection,  contact 
+Technical Sales if you would like to receive a drawing in DXF, PDF 
+format or a 3-dimensional IGES, STEP, or SOLIDWORKS file.
+ Note:  Crimp contacts must be ordered separately. 
+Select desired contact size and wire gauge 
+size from pages 18 - 19.
+ 
+  Order thermocouple contacts from page 20.
+ 
+  Order size 16 micro-coaxial contacts from 
+page 22.
+2-dimensional drawing
+3-dimensional model
+12
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+SPECIAL OPTIONS
+APPENDIX
+Positronic
+connectpositronic.com
+MODIFICATIONS (MOS)
+Specify complete connector by selecting a base part number from the Ordering Information Page. 
+Once base part number is selected, add desired modification (MOS) number below to the end of the part number.
+Example part number: FR19FR916K0-14-1553.0
+DESCRIPTION OF MODIFICATION
+HOUSING
+SIZE
+GENDER
+HOUSING
+STYLE
+MODIFICATION
+OF STANDARD 
+(MOS)
+NUMBER
+11 & 19
+M / F
+PLUG
+-1512.0
+Allows for connector to be supplied without the coupling nut and 
+ associated retainer ring.
+11 & 19
+M / F
+FIXED FLANGE 
+MOUNT 
+RECEPTACLE 
+-1553.0
+Allows for connector be to suppled with right angle (90°) 
+printed board mount termination contacts that allow for a 
+0.125 [3.18] tail length.
+11 & 19
+M / F
+FIXED FLANGE 
+MOUNT 
+RECEPTACLE
+-1554.0
+Allows for connector to be supplied with straight printed board mount 
+termination contacts that allow for a 0.125 [3.18] tail length. 
+Push-on fasteners included.
+ORDERING INFO
+11 & 19
+M / F
+ALL
+-14
+Allows connector with signal contacts installed, for signal 
+contacts only to be plated 0.000030 [0.76µ] gold over nickel.
+11 & 19
+M / F
+ALL
+-15
+Allows connector with signal contacts installed, for signal 
+contacts only to be plated 0.000050 [1.27µ] gold over nickel.
+MANY OTHER SPECIAL OPTIONS ARE AVAILABLE. 
+Find out more about Sequential Mating System, 
+Straight and Right Angle Thermocouple Printed Circuit Board mount contacts.
+CONSULT TECHNICAL SALES OR VISIT OUR WEBSITE AS WWW.CONNECTPOSITRONIC.COM
+13
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+NON-ENVIRONMENTAL
+VERSION ACCESSORIES
+Positronic
+connectpositronic.com
+CABLE ADAPTERS
+A
+Long Cable Adapter
+C
+B
+Short Cable Adapter
+A
+C
+MATERIALS:
+B
+Cable Adapter & Cable Clamp:  Glass-filled polyester.
+LONG CABLE ADAPTER
+SHORT CABLE ADAPTER
+DIMENSIONS
+A
+B
+C
+Cable Range
+A
+B
+C
+Cable Range
+1.350
+[34.29]
+0.750
+[19.05]
+0.975
+[24.77]
+0.750
+[19.05]
+Size 11 
+Housing
+0.300
+[7.62]
+Maximum
+0.300
+[7.62]
+Maximum
+1.350
+[34.29]
+1.285
+[32.64]
+0.975
+[24.77]
+1.285
+[32.64]
+Size 19 
+Housing
+0.570
+[14.48]
+Maximum
+0.570
+[14.48]
+Maximum
+MOLDED CABLE ASSEMBLY
+CONTACT TECHNICAL SALES FOR ORDERING INFORMATION.
+Shell size 11 shown 
+in drawing.  Size 19 
+also available.
+Ø 0.807±0.030
+[20.50±0.75]
+ACCESSORIES
+Ø 0.807±0.030
+[20.50±0.75]
+1.250±0.030
+[31.75±0.75]
+1.683±0.030
+[42.75±0.75]
+14
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+ACCESSORIES
+AND PANEL CUTOUTS
+Positronic
+connectpositronic.com
+KEYING PLUGS
+CONTACT SIZE
+KEYING PLUG
+PART NUMBER
+SIZE 12
+5123-1-0-0
+SIZE 16
+5123-2-0-0
+MATERIAL:  Nylon.
+SIZE 20
+5123-3-0-0
+SIZE 22
+5123-4-0-0
+Keying Plug
+THREADED DUST COVERS
+PRESS-ON DUST COVERS
+PART NUMBER
+THREAD
+PART NUMBER
+5125-11-0-0
+for Size 11 Connector
+M19
+5125-11-2-0
+for Size 11 Connector
+5125-19-0-0
+for Size 19 Connector
+M32
+5125-19-2-0
+for Size 19 Connector
+Use with Plug Shell
+MATERIAL:  Glass-filled polyester.
+Use with Receptacle Shell
+MATERIAL:  Low density polyethylene.
+PART NUMBER
+5125-11-1-0
+for Size 11 Connector
+ACCESSORIES
+5125-19-1-0
+for Size 19 Connector
+Use with Receptacle Shell
+PANEL MOUNTING CUTOUTS
+4X
+A
+ø0.130 [3.30]
+ØB
+ØB
+Suggest 0.092 [2.34] maximum panel thickness if 
+using environmental flange gasket or 0.122 [3.10] 
+maximum panel thickness without gasket.
+DIMENSION
+SIZE 11
+HOUSING
+SIZE 19
+HOUSING
+C
+A
+A
+0.719 [18.26]
+1.062 [26.97]
+Ø B
+0.760 ±0.003
+[19.30 ±0.08]
+1.275 ±0.003
+[32.39 ±0.08]
+C
+0.715 ±0.003
+[18.16 ±0.08]
+1.227 ±0.003
+[31.17 ±0.08]
+Flange Mounting
+Jam Nut
+15
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+ENVIRONMENTAL
+VERSION
+Positronic
+connectpositronic.com
+ENVIRONMENTAL DESIGN FEATURES
+PANEL
+ENVIRONMENTAL GASKET
+CABLE SEAL
+COUPLING NUT
+SPACER
+ENVIRONMENTAL HOOD
+O-RING SEAL
+CABLE CLAMP
+Fixed Female Flange Mounted Connector
+Free Male In-line Connector
+MATERIALS:
+O-Ring:  Thermoplastic elastomer.
+ENVIRONMENTAL VERSION ACCESSORIES
+Environmental Cable Adapter Assembly
+Male or Female, Free In-Line Connectors
+Screw
+In-line Shell, Receptacle
+Spacer
+Cable Clamp
+Cable
+Seal
+ACCESSORIES
+* NOTE:  
+Environmental 
+flange gaskets 
+supplied with 
+flange mount 
+ environmental 
+ connectors.  
+Part numbers 
+are shown for 
+replacement 
+parts only.
+Environmental Flange Gasket
+Long Cable Adapter
+Cable
+MATERIALS:
+ 
+Cable Seal: Thermoplastic elastomer.
+ 
+Spacer: Nylon.
+PART NUMBER:
+5124-11-0-0 for Size 11 Connector
+5124-19-0-0 for Size 19 Connector
+MATERIAL:  Neoprene sheet, 0.030 thick.
+ Cable Adapter: Glass-filled polyester.
+ Cable Clamp: Glass-filled polyester.
+16
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+EMI/RFI SHIELDED VERSION
+Front
+Runner
+Positronic
+connectpositronic.com
+TECHNICAL DATA
+ MATERIAL: Electroless nickel over copper.  Electroless plating 
+offers surface conductivity of < 0.5 ohm per square and 
+attenuation of 70-80 dB at most frequencies.  Due to 
+differences in cable construction and termination, results 
+may vary and should be tested under actual operating 
+conditions to determine exact values.
+* NOTE:  Dimensions are consistent with non-shielded versions.
+ACCESSORIES
+17
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+REMOVABLE
+CONTACTS
+Positronic
+connectpositronic.com
+SIZE 12 REMOVABLE CONTACTS
+0.749 [20.18]
+0.789 [19.96]
+0.311 [7.90]
+0.311 [7.90]
+0.094 [2.39]
+ Ø"B"
+ Ø"A"
+Ø"B"
+Ø"A"
+MALE
+FEMALE
+0.757 [19.23]
+0.764 [19.41]
+0.255 [6.48]
+FEMALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+MALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+ Ø"A"
+0.255 [6.48]
+FC612N2
+12
+[4.0]
+0.100
+[2.54]
+0.170
+[4.32]
+MC612N
+12
+[4.0]
+0.100
+[2.54]
+0.170
+[4.32]
+ Ø"B"
+0.062 [1.57]
+Ø"B"
+MATERIALS AND FINISHES:
+Ø"A"
+ 
+Material: Copper Alloy.
+ 
+Finish: Gold flash over nickel.
+0.749 [20.18]
+0.789 [19.96]
+0.311 [7.90]
+0.311 [7.90]
+ 
+  0.000030 inch [0.76 µ] gold over nickel available by adding “-14” suffix onto the part num-
+ber.  Example:  MC612N-14.
+0.094 [2.39]
+ Ø"B"
+ Ø"A"
+Ø"A"
+Ø"B"
+SIZE 16 REMOVABLE CONTACTS
+0.757 [19.23]
+0.764 [19.41]
+0.255 [6.48]
+0.255 [6.48]
+ Ø"A"
+ Ø"B"
+0.062 [1.57]
+Ø"B"
+Ø"A"
+MALE
+FEMALE
+MALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+FEMALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+MC114N
+14 / 16
+[2.5 / 1.5]
+0.081
+[2.06]
+0.105
+[2.67]
+FC114N2
+14 / 16
+[2.5 / 1.5]
+0.081
+[2.06]
+0.105
+[2.67]
+MC116N
+16 / 18
+[1.5 / 1.0]
+0.067
+[1.70]
+0.093
+[2.36]
+FC116N2
+16 / 18
+[1.5 / 1.0]
+0.067
+[1.70]
+0.093
+[2.36]
+CONTACTS
+MC120N
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+0.045
+[1.14]
+0.065
+[1.65]
+FC120N2
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+0.045
+[1.14]
+0.065
+[1.65]
+MATERIALS AND FINISHES:
+ 
+Material: Copper Alloy.
+ 
+Finish: Gold flash over nickel.
+ 
+  0.000030 inch [0.76 µ] gold over nickel available by adding “-14” suffix onto the part num-
+ber.  Example:  FC612N-14.
+18
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+REMOVABLE
+CONTACTS
+Positronic
+connectpositronic.com
+SIZE 20 REMOVABLE CONTACTS
+0.764 [19.41]
+0.649 [16.48]
+0.255 [6.48]
+0.255 [6.48]
+Ø"A"
+ø0.040 [1.02]
+Ø"B"
+Ø"B"
+Ø"A"
+MALE
+FEMALE
+FEMALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+MALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+0.729 [18.52]
+0.610 [15.49]
+FC720N2
+20 / 22 / 24 
+[0.5 / 0.3 / 0.25]
+0.045
+[1.14]
+0.068
+[1.73]
+MC720N3
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+0.045
+[1.14]
+0.068
+[1.73]
+0.132 [3.35]
+Ø"A"
+0.132 [3.35]
+MATERIALS AND FINISHES:
+ø0.030 [0.72]
+ 
+Material: Copper Alloy.
+Ø"B"
+Ø"B"
+ 
+Finish: Gold flash over nickel.
+Ø"A"
+ 
+  0.000030 inch [0.76 µ] gold over nickel available by adding “-14” suffix onto the part num-
+ber.  Example:  FC720N2-14.
+SIZE 22 REMOVABLE CONTACTS
+0.774 [19.66]
+0.610 [15.49]
+0.132 [3.35]
+Ø"A"
+0.132 [3.35]
+ø0.030 [0.72]
+Ø"B"
+Ø"B"
+Ø"A"
+MALE
+FEMALE
+FEMALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+MALE CONTACT
+PART NUMBER
+WIRE SIZE
+AWG [mm2]
+Ø “A”
+Ø “B”
+0.035
+[0.89]
+0.056
+[1.42]
+FC422N6
+22 / 24 / 26 
+[0.3 / 0.25 / 0.12]
+MC422N
+22 / 24 / 26 
+[0.3 / 0.25 / 0.12]
+0.035
+[0.89]
+0.056
+[1.42]
+MATERIALS AND FINISHES:
+ 
+Material: Copper Alloy.
+ 
+Finish: Gold flash over nickel.
+ 
+  0.000030 inch [0.76 µ] gold over nickel available by adding “-14” suffix onto the part num-
+ber.  Example:  MC422N-14.
+ADVANTAGES OF REAR INSERTION-FRONT RELEASE
+CONTACT RETENTION SYSTEM
+CONSIDERATION
+FRONT RELEASE ADVANTAGE
+  1.  Size
+Will accept a wire with oversized insulation diameter.
+CONTACTS
+  2.  Connector Wiring
+Less open wiring is required between the connector and the lacing or between the connector and the 
+cable jacket.  Minimum service time is required for repairs.
+  3.  Shielded Wires
+Provides the most effective RFI shielding as the shielding can be brought closer to the grommet surface 
+for terminations to the connector shell.
+  4.  Contact Servicing
+Since the removal tool is inserted from the front, finding the correct position is relatively simple.
+  5.  Wire Breakage
+The standard removal tool can be used to remove a contact which has a broken wire at the contact 
+crimp joint.
+ 
+ 6.  Service Tools
+Metal tools are available for inserting and removing contacts.
+19
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+THERMOCOUPLE 
+Front
+Runner
+CONTACTS
+Positronic
+connectpositronic.com
+SIZE 20 CRIMP THERMOCOUPLE CONTACTS
+0.764 [19.41]
+0.649 [16.48]
+0.045 [1.14]
+0.255 [6.48]
+0.255 [6.48]
+ø0.040 [1.02]
+0.068 [1.73]
+0.068 [1.73]
+0.045 [1.14]
+MALE
+FEMALE
+0.774 [19.66]
+0.610 [15.49]
+TYPE
+MATERIAL
+MALE
+PART NUMBER
+FEMALE
+PART NUMBER
+COLOR
+CODE
+WIRE SIZE
+AWG [mm2]
+0.035 [0.89]
+0.132 [3.35]
+0.132 [3.35]
+CHROMEL (+)
+MC720N3CH
+FC720N2CH
+WHITE
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+For more information on 
+the availability of Type J 
+ thermocouple contacts,  
+please  contact Technical Sales.
+ø0.030 [0.72]
+K
+0.056 [1.42]
+0.056 [1.42]
+ALUMEL (-)
+MC720N3AL
+FC720N2AL
+GREEN
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+COPPER (+)
+MC720N3CU
+FC720N2CU
+RED
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+0.035 [0.89]
+T
+For more information about 
+thermocouple contacts with 
+PCB solder termination, please 
+contact Technical Sales.
+CONSTANTAN (-)
+MC720N3CO
+FC720N2CO
+YELLOW
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+See page 24 for  
+Crimp Tool information.
+CHROMEL (+)
+MC720N3CH
+FC720N2CH
+WHITE
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+0.764 [19.41]
+0.649 [16.48]
+E
+0.045 [1.14]
+0.255 [6.48]
+0.255 [6.48]
+ø0.040 [1.02]
+CONSTANTAN (-)
+MC720N3CO
+FC720N2CO
+YELLOW
+20 / 22 / 24
+[0.5 / 0.3 / 0.25]
+Chromel® and Alumel® are registered trademarks of Hoskins Manufacturing Company
+0.068 [1.73]
+0.068 [1.73]
+0.045 [1.14]
+SIZE 22 CRIMP THERMOCOUPLE CONTACTS
+0.774 [19.66]
+0.610 [15.49]
+0.035 [0.89]
+0.132 [3.35]
+0.132 [3.35]
+ø0.030 [0.72]
+0.056 [1.42]
+0.056 [1.42]
+0.035 [0.89]
+MALE
+FEMALE
+TYPE
+MATERIAL
+MALE
+PART NUMBER
+FEMALE
+PART NUMBER
+COLOR
+CODE
+WIRE SIZE
+AWG [mm2]
+For more information on the 
+availability of Type J ther-
+mocouple contacts, please 
+CHROMEL (+)
+MC422NCH
+FC422N6CH
+WHITE
+22 / 24 / 26
+[ 0.3 / 0.25 / 0.12]
+ contact Technical Sales.
+K
+ALUMEL (-)
+MC422NAL
+FC422N6AL
+GREEN
+22 / 24 / 26
+[ 0.3 / 0.25 / 0.12]
+COPPER (+)
+MC422NCU
+FC422N6CU
+RED
+22 / 24 / 26
+[ 0.3 / 0.25 / 0.12]
+CONTACTS
+T
+For more information about 
+thermocouple contacts with 
+PCB solder termination, please 
+contact Technical Sales.
+CONSTANTAN (-)
+MC422NCO
+FC422N6CO
+YELLOW
+22 / 24 / 26
+[ 0.3 / 0.25 / 0.12]
+See page 24 for  
+Crimp Tool information.
+CHROMEL (+)
+MC422NCH
+FC422N6CH
+WHITE
+22 / 24 / 26
+[ 0.3 / 0.25 / 0.12]
+E
+CONSTANTAN (-)
+MC422NCO
+FC422N6CO
+YELLOW
+22 / 24 / 26
+[ 0.3 / 0.25 / 0.12]
+Chromel® and Alumel® are registered trademarks of Hoskins Manufacturing Company
+20
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+CRIMP SHIELDED
+CONTACTS
+Positronic
+connectpositronic.com
+SIZE 12 CRIMP SHIELDED CONTACTS
+A
+A
+Ø B
+Ø B
+ø0.094 [2.38]
+MALE
+FEMALE
+CONTACT
+DESIGNATION
+PART
+NUMBER
+A
+Ø B
+CABLE SIZE
+MALE
+MC601D
+0.936
+[23.77]
+0.041
+[1.04]
+RG 178 B/U
+RG 196 B/U
+FEMALE
+FC601D
+0.984
+[24.99]
+0.041
+[1.04]
+RG 178 B/U
+RG 196 B/U
+MALE
+MC602D
+0.936
+[23.77]
+0.070
+[1.78]
+RG 179 B/U
+RG 316 /U
+FEMALE
+FC602D
+0.984
+[24.99]
+0.070
+[1.78]
+RG 179 B/U
+RG 316 /U
+TECHNICAL CHARACTERISTICS
+CLIMATIC CHARACTERISTICS:
+Temperature Range: 
+-55˚C to +125˚C.
+MATERIALS AND FINISHES:
+Insulating Material: 
+(Dielectric)  PTFE, Teflon.
+Inner Contacts: 
+ Brass & Phosphor bronze, 0.000030 
+inch [0.76 microns] gold over nickel and 
+0.000050 inch  
+[1.27 microns] gold over nickel.
+Contact Body: 
+ Brass and Phosphor bronze, gold 
+flash over nickel.
+CRIMP TOOL
+Use 9504-0-0-0 Crimp Tool
+MECHANICAL CHARACTERISTICS:
+Removable Contacts: 
+Rear insertion, front release.
+Durability: 
+100 cycles minimum.
+Vibration: 
+20g from 10 HZ to 500 HZ.
+Shock: 
+30g - 11rms.
+SHIELDED CABLE STRIP LENGTH
+0.275 [6.99]
+0.225 [5.72]
+ELECTRICAL CHARACTERISTICS:
+Initial Contact 
+Resistance: 
+0.010 ohms maximum.
+Nominal Impedance: 
+50 ohms.
+Insertion Loss: 
+0.35 dB at 1 GHz
+CONTACTS
+ 
+ 
+1.35 dB at 2 GHz
+0.125 [3.18]
+ 
+ 
+1.53 dB at 3 GHz 
+ 
+VSWR: 
+1.20 average at 1 GHz
+Insulation
+ 
+ 
+1.45 average at 2 GHz
+Braid
+Dielectric
+ 
+ 
+1.63 average at 3 GHz
+Proof Voltage: 
+600 V r.m.s.
+Center Conductor
+Above values measured using frequency domain techniques.
+21
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Front
+Runner
+CRIMP SHIELDED
+CONTACTS
+Positronic
+connectpositronic.com
+SIZE 16 CRIMP SHIELDED CONTACTS
+A
+A
+Ø0.078 [1.98]
+Ø B
+Ø B
+MALE
+FEMALE
+CONTACT
+DESIGNATION
+PART
+NUMBER
+A
+Ø B
+CABLE SIZE
+MALE
+MCS126N
+0.993
+[25.22]
+0.045
+[1.14]
+RG 178 B/U
+RG 196 A/U
+FCS126N2
+FEMALE
+FCS126N2
+0.967
+[24.56]
+0.045
+[1.14]
+RG 178 B/U
+RG 196 B/U
+MALE
+MCS226N
+1.048
+[26.62]
+0.070
+[1.78]
+RG 179 B/U
+RG 316  /U
+MCS126N
+FEMALE
+FCS226N2
+1.022
+[25.96]
+0.070
+[1.78]
+RG 179 B/U
+RG 316  /U
+TECHNICAL CHARACTERISTICS
+ELECTRICAL CHARACTERISTICS:
+CONTACT/WIRE COMBINATIONS
+126N
+226N
+MICRO-COAXIAL
+CONTACTS
+RG178 RG196 RG179
+RG316
+MATERIALS AND FINISHES:
+Insulating Material: 
+(Dielectric) Teflon.
+Inner Contacts: 
+ Phosphor 
+bronze, 
+0.000030 
+inch  
+[0.76 microns] gold over nickel.
+Outer Contacts: 
+ Brass and beryllium copper, gold  flash 
+over nickel.
+Characteristic Impedance (ohms)
+50
+50
+75
+50
+Frequency Range
+0-500 MHz
+VSWR
+0 to 200 MHz
+1.25
+200 to 500 MHz
+1.70
+2.25
+Insertion Loss @ 500 MHz
+0.2 dB
+1.0 dB
+Dielectric Strength
+at Sea Level: 
+600 V rms.
+Initial Contact Resistance: 0.012 ohms maximum.
+Insulator Resistance: 
+5 G ohms.
+MECHANICAL CHARACTERISTICS:
+Contact Retention in 
+Insulator: 
+20 lbs. [89N].
+Removable Contacts: 
+Rear insertion, front removable.
+Insertion Force
+per Contact: 
+8 oz. [2.2 N] per contact maximum.
+Durability: 
+100 cycles minimum.
+Vibration: 
+20g from 10 HZ to 500 HZ.
+Shock: 
+30g - 11rms.
+CLIMATIC CHARACTERISTICS:
+Temperature Range: 
+-55˚C to +125˚C
+SHIELDED CABLE STRIP LENGTH
+0.190 [4.83]
+CONTACTS
+0.160 [4.06]
+0.175 [4.45]
+Insulation
+Braid
+9506-0-0-0 CRIMP TOOL
+Dielectric
+Center Conductor
+22
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+APPLICATION TOOLS
+Front
+Runner
+Positronic
+connectpositronic.com
+A P P L I C A T I O N  T O O L S  S E C T I O N
+Front Runner connectors are offered with removable crimp contacts.
+Positronic Industries recognizes the importance of  
+supplying application tooling to support our  
+customers’ use of our products.
+Information on application tooling is  
+available on our web site at
+http://www.connectpositronic.com/products/157/ApplicationTooling
+There you will find downloadable PDF cross reference  
+charts for removable contacts. These charts will supply  
+part numbers for insertion, removal and crimping tools,  
+along with information regarding use of tools and techniques.
+Connectors Designed To Customer Specifications
+P o si t ro n i c  F ro nt  R unne r c o n n e c t o rs  
+c a n  b e  mo d i f i e d  t o  c u st o me r sp e c i f i c a t i o n s. 
+Examples: select loading of contacts for cost savings or to gain creepage and  
+clearance distances; longer printed circuit board terminations; customer specified hardware. 
+Contact Technical Sales with your particular requirements.
+23
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+ APPL  TOOLING
+
+APPLICATION TOOLS
+Front
+Runner
+Positronic
+connectpositronic.com
+CONTACT APPLICATION TOOLS CROSS REFERENCE LIST
+USE INDICATED POSITRONIC TOOLS FOR BEST RESULTS
+Mfg. 
+Cross
+Mil  
+Equiv
+Positioner
+Mfg. 
+Cross
+Mil  
+Equiv
+Insertion 
+Tool
+Mfg. 
+Cross
+Mil  
+Equiv
+Removal 
+Tool
+Mfg. 
+Cross
+Mil  
+Equiv
+Hand  
+Crimp  
+Tool
+P/N
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-1-0-0
+TH4
+M22520/1-03
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-20-0-0
+K1197
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-3-0-0
+RNG2103
+---
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-27-0-0
+K1506
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-22-0-0
+K1196
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-1-0-0
+TH4
+M22520/1-03
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-12-0-0
+K187
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-1-0-0
+RTCO 2061
+---
+9504-0-0-0
+9504-1-0-0
+HX4
+M22520/5-01
+9504-2-0-0
+Y322
+---
+9099-3-0-0
+ITP 1168
+---
+2711-0-0-0
+P+
+---
+9504-0-0-0
+9504-1-0-0
+HX4
+M22520/5-01
+9504-2-0-0
+Y322
+---
+9099-3-0-0
+ITP 1168
+---
+2711-0-0-0
+P+
+---
+Handle &
+Positioner
+P/N
+16
+12
+22
+20
+12
+20
+16
+22
+For more listings see visit our web site  to download a PDF file at https://www.connectpositronic.com/tooling
+FC114N2
+MC601D
+FC116N2
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-1-0-0
+TH4
+M22520/1-03
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+MC602D
+9504-0-0-0
+9504-1-0-0
+HX4
+M22520/5-01
+9504-2-0-0
+Y322
+---
+9099-3-0-0
+ITP 1168
+---
+2711-0-0-0
+P+
+---
+FC120N2
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-1-0-0
+TH4
+M22520/1-03
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+MC612N
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-19-0-0
+TP1199
+---
+9099-3-0-0
+ITP 1168
+---
+2711-0-0-0
+P+
+---
+FC422N6
+MC720N3
+FC422N6AL
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-20-0-0
+K1197
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-3-0-0
+RNG2103
+---
+MC720N3AL
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-21-0-0
+K1195
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FC422N6CH
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-20-0-0
+K1197
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-3-0-0
+RNG2103
+---
+MC720N3CH
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-21-0-0
+K1195
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FC422N6CO
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-20-0-0
+K1197
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-3-0-0
+RNG2103
+---
+MC720N3CO
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-21-0-0
+K1195
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FC422N6CU
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-20-0-0
+K1197
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-3-0-0
+RNG2103
+---
+MC720N3CU
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-21-0-0
+K1195
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FC601D
+MCS126N
+16
+9506-0-0-0
+9506-1-0-0
+HX3
+---
+9506-2-0-0
+X530
+---
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+FC602D
+9504-0-0-0
+9504-1-0-0
+HX4
+M22520/5-01
+9504-2-0-0
+Y322
+---
+9099-3-0-0
+ITP 1168
+---
+2711-0-0-0
+P+
+---
+MCS226N
+20
+9506-0-0-0
+9506-1-0-0
+HX3
+---
+9506-2-0-0
+X530
+---
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+FC612N2
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-19-0-0
+TP1199
+---
+9099-3-0-0
+ITP 1168
+---
+2711-0-0-0
+P+
+---
+FC720N2
+FC720N2AL
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-22-0-0
+K1196
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FC720N2CH
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-22-0-0
+K1196
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FC720N2CO
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-22-0-0
+K1196
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FC720N2CU
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-22-0-0
+K1196
+---
+9099-4-0-0
+ITP 1076
+---
+9081-2-0-0
+RNG2103
+---
+FCS126N2
+16
+9506-0-0-0
+9506-1-0-0
+HX3
+---
+9506-2-0-0
+X530
+---
+9099-0-0-0
+ITH 1094
+---
+9081-4-0-0
+RTG 2103
+M81969/20-01
+FCS226N2
+20
+9506-0-0-0
+9506-1-0-0
+HX3
+---
+9506-2-0-0
+X530
+---
+9099-0-0-0
+ITH 1094
+---
+9081-4-0-0
+RTG 2103
+M81969/20-01
+MC114N
+MC116N
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-1-0-0
+TH4
+M22520/1-03
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+MC120N
+---
+9501-0-0-0
+AF8
+M22520/1-01
+9502-1-0-0
+TH4
+M22520/1-03
+9099-0-0-0
+ITH 1094
+M81969/18-01
+9081-4-0-0
+RTG 2103
+M81969/20-01
+MC422N
+MC422NAL
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-12-0-0
+K187
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-1-0-0
+RTCO 2061
+---
+MC422NCH
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-12-0-0
+K187
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-1-0-0
+RTCO 2061
+---
+MC422NCO
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-12-0-0
+K187
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-1-0-0
+RTCO 2061
+---
+MC422NCU
+---
+9507-0-0-0
+AFM8
+M22520/2-01
+9502-12-0-0
+K187
+---
+9099-1-0-0
+ITH 1056
+M81969/18-02
+9081-1-0-0
+RTCO 2061
+---
+Positronic
+Contact P/N
+Contact
+Size
+24
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+ APPL  TOOLING
+
+POSITRONIC CABLIZED CONNECTORS
+S A V E  T I M E  A N D  M O N E Y !  
+Let Positronic support you by cablizing your 
+Front Runner connector selection.  
+Cable Assembly Design Support
+We work closely with customers to:
+1. 
+ Design assemblies in accordance  
+with  customer specifications.
+2. 
+ Prepare cablized  connector 
+ configuration and performance 
+ specifications.
+Technical Sales Support
+3. 
+ Design each system in accordance  
+with  applicable  customer, domestic,  
+and international standards.
+4. 
+ Define and conduct performance and 
+ verification testing.
+Engineering Support
+Puerto Rico Cable Assembly
+FOR MORE DETAILS CONTACT TECHNICAL SALES 
+OR VISIT OUR WEB SITE AT:
+HTTP://WWW.CONNECTPOSITRONIC.COM/ 
+PRODUCTS/47/CABLEASSEMBLIES
+Quality Assurance
+25
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+OTHER CIRCULAR PRODUCTS
+Positronic Industries offers a range of circular connectors in a variety of contact variants and 
+package sizes with compliant press-in, solder and cable terminations. All Positronic connec-
+tor products provide high quality, reliability and flexibility.
+KING COBRA SERIES CONNECTORS
+Offer the performance of  high reliability machined contacts  
+at a price you might expect from lower performance products.
+ 
+• Lightweight, non-corrodible, composite material
+ 
+• Right angle and straight PCB mount terminations
+ 
+• Size 16, 20 and 22 machined contact options
+ • Power contact current ratings to 20 amperes each
+ 
+• Environmental options to IP65
+ 
+• Secured using unique one quarter turn locking system
+BABY KING COBRA CONNECTORS
+Miniature, rugged, economical
+• Smaller package size than King Cobra
+• Solder cup terminations
+• Size 20 machined contacts
+• Cable or panel mount options
+• Environmental options to IP65
+• Secured using unique one quarter turn locking system
+CIRCLE HEX SERIES CONNECTORS
+ Ideal for use in industrial and instrumentation
+  applications where light weight, miniature, 
+ high reliability interconnections are necessary. 
+ 
+• “Twist Spring” locking device
+ 
+• Large, miniature, and microminiature sizes available
+ 
+• Solid machined contacts for high reliability
+ 
+• Available in straight solder and solder cup terminations
+ 
+• Variety of cable adapters and contact variants 
+ 
+• Contact current ratings to 7.5 amperes nominal
+26
+DIMENSIONS ARE IN INCHES [MILLIMETERS].
+ALL DIMENSIONS ARE SUBJECT TO CHANGE.
+
+Positronic HIGH RELIABILITY Products
+P
+O
+W
+E
+R
+FEATURES: 
+D
+-
+S
+U
+B
+M
+I
+N
+I
+A
+T
+U
+R
+E
+FEATURES: 
+•  Four performance levels available for  
+best cost/performance ratio:  professional, 
+industrial, military and  space-flight quality
+•  Options include high voltage, coax,  
+thermocouple and air coupling contacts; 
+ environmentally sealed  and dual port  
+connector packages including mixed density 
+• High current density • Energy saving -  
+low contact  resistance • Hot swap capability  
+• AC/DC  operation in a single  connector  
+• Signal  contacts for hardware manage-
+ment  • Blind mating • Sequential mating  
+• Large surface area contact  mating 
+ system • Wide variety of accessories  
+• Customer-specified contact arrange-
+ments • Modular tooling which  produces  
+a single piece  connector insert
+• Broad  selection of accessories 
+•  Size 20 and 22 contacts suitable for  
+use in carrying power
+Contact Sizes:  
+8, 16, 20 and 22 
+•  IP65, IP67
+Current Ratings:  
+To 100 amperes
+Contact Sizes:  
+0, 8, 12, 16, 20, 22 and 24 
+Current Ratings:  
+To 200 amperes per contact
+Terminations:  
+ Crimp and panel mount, straight solder, right angle (90°) solder, 
+straight compliant press-in and right angle (90°) compliant press-in
+Terminations:  
+ Crimp, wire solder, straight solder, right angle (90°) solder, straight 
+compliant press-in and right angle (90°) compliant press-in
+Configurations:  
+Multiple  variants in a variety of  package sizes
+Configurations:  
+Multiple  variants in both standard and high densities, seven shell sizes
+Qualifications:   
+ MIL-DTL-24308, GSFC S-311-P-4, GSFC S-311-P-10,  
+SAE AS39029, DESC
+Compliance:  
+ PICMG 2.11, PICMG 3.0, VITA 41, DESC, GSFC S-311-P-4,  
+GSFC S-311-P-10
+C
+I
+R
+C
+U
+L
+A
+R
+R
+E
+C
+T
+A
+N
+G
+U
+L
+A
+R
+FEATURES: 
+•  Non-corrodible / lightweight composite 
+FEATURES: 
+ construction 
+•  Two performance levels available:  
+industrial  quality and military quality 
+• A wide variety of accessories 
+•  Broad selection of contact  variants and 
+package sizes  
+• EMI/RFI shielded versions 
+• Thermocouple contacts 
+• Environmentally sealed versions 
+•  Rear insertion/ front release of removable 
+contacts 
+•  Connector keying options
+• Two level sequential mating 
+• Overmolding available on full assemblies
+Contact Sizes:  
+16, 20 and 22 
+Current Ratings:  
+To 13 amperes nominal
+Contact Sizes:  
+12, 16, 20 and 22 
+Terminations:  
+ Crimp, wire solder, straight solder, right angle (90°) solder, and  
+straight compliant press-in
+Current Ratings:  
+To 25 amperes nominal
+Terminations:  
+ Crimp, wire solder, straight solder, and right angle (90°) solder
+Configurations:  
+ Multiple  variants in both standard and high densities,  
+thirty package sizes
+Configurations:  
+Multiple  variants in four package sizes
+Qualifications:  
+Environmental protection to IP67
+Qualifications:   
+ MIL-DTL-28748, SAE AS39029, CCITT V.35 
+C
+A
+B
+L
+E
+FEATURES: 
+H
+E
+R
+M
+E
+T
+I
+C
+FEATURES: 
+•  Shorten the supply chain and reduce  
+additional costs and delays by “cablizing” 
+your Positronic connector selection 
+•  Intended for use as an electrical feed-
+through in high  vacuum applications 
+• Overmolding available
+•  Shielded and environmentally sealed 
+•  Leakage rate: 5 x 10-9 mbar.l/s @ vacuum 
+1.5 x 10-5 atm 
+ versions available 
+•  Signal, power, coax and high  voltage ver-
+sions available 
+•  Power cables and access boxes which 
+meet the SAE J2496 specification
+•  Connectors can be mounted on flange 
+assembly per  customer specification
+Contact Sizes:  
+8, 12, 16, 20 and 22 
+Current Ratings:  
+To 40 amperes nominal
+Terminations:  
+ Feedthrough is standard; flying leads and board mount available 
+upon request
+3 Design assemblies in accordance with  customer specifications.
+3 Prepare cablized  connector  configuration and performance specifications.
+3 Design each system in accordance with  applicable  customer, domestic, and inter-
+national standards.
+Compliance:  
+Space-D32
+Configurations:  
+See D-subminiature and circular configurations above
+3Define and conduct performance and  verification testing.
+For more information, visit www.connectpositronic.com or call your nearest 
+Positronic sales office listed on the back of this catalog.
+
+an Amphenol company
+Regional Headquarters
+Positronic | Americas
+423 N Campbell Ave 
++1 800 641 4054
+Springfield MO 65806 USA 
+info@connectpositronic.com 
+Positronic | Europe
+Z.I. d’Engachies
+46, route d’Engachies 
++33 5 6263 4491
+F-32020 Auch Cedex 9 France 
+contact@connectpositronic.com
+Positronic | Asia
+3014A Ubi RD 1 #07-01 
++65 6842 1419
+Singapore 408703 
+singapore@connectpositronic.com
+Sales Offices
+Positronic has local sales representation all over the world. To find the nearest 
+sales office, please visit www.connectpositronic.com/locations
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Positronic:  
+ 
+  FR110001  FR11FF316K0  FR11FF316K0/AA  FR11FF316K2  FR11FF316L0  FR11FF420K0  FR11FF420K2 
+FR11FF420L0  FR11FF520K0  FR11FF520K0/AA  FR11FF520K2  FR11FF520L0  FR11FF520L0/AA  FR11FF722K0 
+FR11FF722K0/AA  FR11FF822K0  FR11FF822K0-1554.0  FR11FF822L0/AA  FR11FF922K0/AA  FR11FF922L0 
+FR11FJ420K0/AA  FR11FJ520K0-1554.0  FR11FP316K0/AA  FR11FP316K1  FR11FP316K2  FR11FP316K2/AA 
+FR11FP316L4/AA  FR11FP420L4/AA  FR11FP520K0  FR11FP520K0/AA  FR11FP520L4/AA  FR11FP722L0 
+FR11FP922K0/AA  FR11FP922K2/AA  FR11FR316K1  FR11FR316K1/AA  FR11FR316K2  FR11FR316K2/AA 
+FR11FR420K1/AA  FR11FR420K2  FR11FR420L4/AA  FR11FR520K2  FR19FF1220L4  FR19FF1822K0 
+FR19FF1920K0/AA  FR19FF1920L4  FR19FF2922K0  FR19FF2922K0/AA  FR19FF2922L0/AA  FR19FF2922L4 
+FR19FF312K0  FR19FF312K0/AA  FR19FF512K0  FR19FF512K0/AA  FR19FF712K0  FR19FF712L0/AA 
+FR19FF716K0  FR19FF716K2  FR19FF916K0  FR19FF916K0/AA  FR19FJ916K0-1554.0  FR19FP1220K0/AA 
+FR19FP1220K1  FR19FP1822L4/AA  FR19FP1920K0/AA  FR19FP1920K1  FR19FP1920L0  FR19FP1920L4 
+FR19FP2922K1  FR19FP2922K2  FR19FP2922L4/AA  FR19FP312K0/AA  FR19FP312K1/AA  FR19FP312K2 
+FR19FP312K2/AA  FR19FP512K0  FR19FP512K1  FR19FP512K1/AA  FR19FP712L4/AA  FR19FP716K2/AA 
+FR19FP916K2/AA  FR19FP916L4/AA  FR19FP920L4/AA  FR19FR1920K0  FR19FR1920L0  FR19FR1920L4 
+FR19FR512K1  FR19FR716K2  FR19FR916K2  FR19FR920K1/AA  FR19MF1220K0/AA  FR19MF1920K0/AA 
+FR19MF2922K0/AA  FR19MF312K0/AA  FR19MF312L0  FR19MF512K0  FR19MF512K0/AA  FR19MF712L4/AA 
+FR19MF716K0/AA  FR19MF716L0/AA

@@ -1,0 +1,149 @@
+SACC-BP-F-FIX/NUT-GN-SMD - Fixing sleeve
+1419566
+https://www.phoenixcontact.com/us/products/1419566
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user 
+documentation. Our general terms of use for downloads are valid.
+Fixing sleeve for M12 housing screw connection with tolerance-compensating function, for SMD-
+solderable M12 socket contact inserts.
+Your advantages
+Tolerance-compensating function between PCB and housing
+•
+Prevents force being applied to soldering spots
+•
+Easy integration thanks to tool-free mounting
+•
+Optional port sealing without protective cap
+•
+Commercial data
+Item number
+1419566
+Packing unit
+1 pc
+Minimum order quantity
+10 pc
+Sales key
+AB23
+Product key
+ABQBDG
+GTIN
+4055626207018
+Weight per piece (including packing)
+2.1 g
+Weight per piece (excluding packing)
+2.1 g
+Customs tariff number
+39269097
+Country of origin
+DE
+Aug 25, 2023, 5:14 AM     Page 1 (6)
+
+SACC-BP-F-FIX/NUT-GN-SMD - Fixing sleeve
+1419566
+https://www.phoenixcontact.com/us/products/1419566
+Technical data
+Notes
+General
+The electrical and mechanical data specified assume that the 
+connector pair is correctly locked and mounted. If the connector 
+is unlocked and if there is a danger of contamination, the 
+connector must be sealed using a protective cap > IP54. 
+Influences arising from litz wires, cables or PCB assembly must 
+also be taken into consideration.
+Product properties
+Product type
+Panel mounting base
+Material specifications
+Color
+green (Fixing sleeve)
+Material 
+PA 6.6
+Flammability rating according to UL 94
+V0
+Seal material 
+FKM
+Connector
+Connection 1
+Head design
+Socket
+Head thread type
+M12
+Environmental and real-life conditions
+Ambient conditions
+Degree of protection (when plugged in)
+IP67 (correctly plugged in and locked)
+IP67 (correctly plugged in and locked)
+Degree of protection
+IP67, when in locked state
+-25 °C ... 85 °C (Plug / socket)
+Ambient temperature (operation)
+-40 °C ... 85 °C (without mechanical actuation)
+Standards and regulations
+M12
+Standard designation
+M12 connector
+Standards/specifications
+IEC 61076-2-101
+Note
+In line with
+Mounting
+Mounting type
+Rear mounting 2-section, lockable
+Assembly instructions
+2-section, lockable
+Aug 25, 2023, 5:14 AM     Page 2 (6)
+
+SACC-BP-F-FIX/NUT-GN-SMD - Fixing sleeve
+1419566
+https://www.phoenixcontact.com/us/products/1419566
+Drawings
+Dimensional drawing
+12,9
+Ø21
+8,8
+Dimensional drawing
+Aug 25, 2023, 5:14 AM     Page 3 (6)
+
+SACC-BP-F-FIX/NUT-GN-SMD - Fixing sleeve
+1419566
+https://www.phoenixcontact.com/us/products/1419566
+Approvals
+To download certificates, visit the product detail page: https://www.phoenixcontact.com/us/products/1419566
+
+EAC 
+Approval ID: B.01687
+Aug 25, 2023, 5:14 AM     Page 4 (6)
+
+SACC-BP-F-FIX/NUT-GN-SMD - Fixing sleeve
+1419566
+https://www.phoenixcontact.com/us/products/1419566
+Classifications
+ECLASS
+ECLASS-11.0
+27440224
+ECLASS-12.0
+27440224
+ECLASS-13.0
+27440224
+ETIM
+ETIM 8.0
+EC002635
+UNSPSC
+UNSPSC 21.0
+39121400
+Aug 25, 2023, 5:14 AM     Page 5 (6)
+
+SACC-BP-F-FIX/NUT-GN-SMD - Fixing sleeve
+1419566
+https://www.phoenixcontact.com/us/products/1419566
+Environmental product compliance
+Environmentally friendly use period: unlimited = EFUP-e
+China RoHS
+No hazardous substances above threshold values
+Phoenix Contact 2023 © - all rights reserved 
+https://www.phoenixcontact.com
+Phoenix Contact USA 
+586 Fulling Mill Road 
+Middletown, PA 17057, United States 
+(+717) 944-1300 
+info@phoenixcon.com
+Aug 25, 2023, 5:14 AM     Page 6 (6)

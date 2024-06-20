@@ -1,0 +1,2290 @@
+UP TO
+SMALLER
+CAPABILITIES
+UP TO
+20%
+Higher
+Voltage
+50%  
+LIGHTER
+Than 38999 Series III
+The World’s Most Advanced
+C O N N E C T O R
+MILITARY • AEROSPACE • HARSH ENVIRONMENT • GENERAL DUTY
+
+TABLE OF CONTENTS
+Table of Contents  
+ 
+About
+Evolution ........................................................... 3
+Technical Data
+Isolated Features ............................................... 4-5
+Small • Lighter • Superior  .................................. 6
+Contact Ratings, Contacts, Sealing Plugs, Tools . 7
+Voltage Rating and Test Data .............................. 8
+Insert Availability and Identification ...................... 9
+Insert Arrangements  .......................................... 10
+Series V
+How to Order ..................................................... 11
+Keyway Rotations .............................................. 12
+Plug with Accessory ........................................... 13
+Wall Mount Receptacle ...................................... 14
+Wall Mount Receptacle with Clinch Nuts ............. 15 
+Jam Nut with Integral Banding Platform .............. 16
+S-5 Mini-Band Termination ................................. 17
+PCB Contacts Information
+Board Layout for PCB- Termination .................... 18-22
+Plating
+AP-93 Rating ..................................................... 23
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+2
+
+EVOLUTION
+MIL-DTL-38999  
+Series II
+1964
+The MIL-DTL-38999 series of connectors 
+was born in the 1960’s to provide a 
+ruggedized military solution featuring 
+smaller contacts and higher density 
+insert patterns than the already popular 
+MIL-DTL-5015.  In the decades since, 
+D38999 connectors have increased in 
+popularity and have become the 
+standard in Mil-Spec connectors for 
+military and aerospace applications.
+1966
+MIL-DTL-38999  
+Series I
+MIL-DTL-38999  
+Series III
+1976
+Along the way, continuous evolutions have 
+brought about new shell styles, new coupling 
+methods, new derivatives and new capabilities, all 
+while remaining as popular as ever.  Amphenol’s 
+new Series V connector is the next evolutionary 
+step in that impressive lineage, combining all of 
+the capabilities of the traditional 38999 style 
+connector in a lighter, smaller and more compact 
+package to support the ever changing demands 
+of the aerospace industry.
+2021
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+3
+
+ISOLATED FEATURES
+38999-QUALIFIED  
+INSULATOR
+NO DIELECTRIC  
+BOND JOINT
+TRIPLE WEB WIRE SEAL
+AS39029-QUALIFIED  
+GOLD-PLATED CONTACTS
+FULL METAL CLIP  
+CONTACT RETENTION
+STANDARD  
+ACCESSORY THREAD
+RADIAL  
+INTERFACIAL SEAL
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+4
+
+SCOOP PROOF
+38999- 
+QUALIFIED EMI SPRING
+NO-MESS DRY FILM  
+THREAD LUBRICANT
+OPTIMIZED  
+RATCHETING TORQUE
+NO “BIRD BATH”
+“NO-SLOP” TOLERANCE  
+INTERFACE
+QUICK COUPLING 
+“DIAMOND-GRIP”  
+DOUBLE  
+NUT DESIGN
+START THREAD
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+5
+
+SMALLER • LIGHTER • SUPERIOR
+SIZE COMPARISION USING SHELLS 
+WITH THE SAME CONTACT COUNT 
+20% BIGGER
+15% BIGGER
+SMALLEST
+SERIES V
+2M805
+D38999, SERIES III
+25 - 50% LIGHTER
+SERIES V
+2M805
+D38999, SERIES III
+PLUG WEIGHTS*
+Plug Weights (oz.)
+Shell Size
+38999 Series III Plug 
+Series V Plug
+Weight Savings
+Size 8
+0.463
+0.244
+47%
+Size 10
+0.639
+0.336
+47%
+Size 12
+0.847
+0.556
+34%
+Size 14
+1.318
+0.716
+46%
+*Corresponding 22D insert arrangement, with socket contacts included
+WALL MOUNT RECEPTACLE WEIGHTS*
+Receptacle Weights (oz.)
+Shell Size
+38999 Series III Wall Mount 
+Series V Wall Mount
+Weight Savings
+Size 8
+0.325
+0.188
+42%
+Size 10
+0.363
+0.273
+25%
+Size 12
+0.486
+0.371
+24%
+Size 14
+0.646
+0.490
+24%
+*Corresponding 22D insert arrangement, with pin contacts included
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+6
+
+SERIES V
+Contact Ratings, Contacts, Sealing Plugs, and Crimping Tools
+SERIES V CONTACT RATING
+Test Current 
+Crimp Well Data
+(Amps)
+Maximum Millivolt 
+Contact Size
+Contact Size
+Current with 
+High Current 
+Drop Crimp*
+Well Diameter
+Normal Well Depth
+Pins (HCP)
+Crimp
+23
+.0345 ± .0010
+.141
+23
+5
+73
+7.5
+22D
+.0345 ± .0010
+.141
+22D
+5
+73
+8
+20
+.047 ± .001
+.209
+20
+7.5
+55
+11
+16
+.067 ± .001
+.209
+16
+13
+49
+16
+12
+.100 ± .002
+.209
+12
+23
+42
+25
+*When tested using silver plated wire.
+SERIES V CRIMP CONTACTS
+SERIES V SEALING PLUGS
+Contact Size
+Pins Military No.
+ Socket Military No.
+Contact Size
+Commercial No. 
+Military No.
+22D
+M39029/58-360
+M39029/57-354
+22D
+10-405996-222
+MS27488-22-2
+20
+M39029/58-363
+M39029/57-357
+20
+10-405996-202
+MS27488-20-2
+16
+10-405996-162
+MS27488-16-2
+16
+M39029/58-364
+M39029/57-358
+12
+10-405996-122
+MS27488-12-2
+12
+M39029/58-365
+M39029/57-359
+Partial Listing. If you do not see the contact for your application, 
+consult Amphenol Aerospace.
+Above part numbers include standard finish 
+designation - gold plating over suitable underplate in 
+accordance with MIL-DTL-39029. For other finishes, 
+consult Amphenol Aerospace. 
+SERIES V CRIMP TOOLS
+SERIES V INSERTION TOOLS
+Contact Size
+Pins Military No.
+ Socket Military No.
+Contact Size
+Pins Military No.
+ Color Code
+22D
+M81969/14-01*
+(Green) White
+22D Socket
+M22520/2-01
+M22520/7-01
+M22520/2-06 
+M22520/7-06
+20
+M81969/14-10*
+(Red) Orange
+22D Pin
+M22520/2-01
+M22520/7-01
+M22520/2-09
+M22520/7-04
+16
+M81969/14-03*
+(Blue) White
+20 Pin and 
+12
+M81969/14-04*
+(Yellow) White
+Socket
+M22520/1-01
+M22520/2-01
+M22520/7-01
+M22520/1-04 
+M22520/2-10 
+M22520/7-08
+16 Pin and 
+Socket
+M22520/1-01
+M22520/7-01
+M22520/1-04 
+M22520/7-04
+SERIES V REMOVAL TOOLS
+12 Pin and 
+Contact Size
+Pins Military No.
+ Color Code
+Socket
+M22520/1-01
+M22520/1-04
+22D
+M81969/14-01*
+(Green) White
+20
+M81969/14-10*
+(Red) Orange
+16
+M81969/14-03*
+(Blue) White
+12
+M81969/14-04*
+(Yellow) White
+*Double ended insertion/removal tool
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+7
+
+SERIES V
+Voltage Rating and Test Data
+VOLTAGE COMPARISON CHART
+D38999 Series III
+Series 5
+Test Voltage 
+(Unmated)
+Qualification Voltage (Mated)
+Suggested Oper. 
+Voltage Sea Level 
+Test Voltage 
+(Unmated) 
+Suggested Oper. 
+Voltage (D38999)-
+(Unmated)
+Sea Level
+Service 
+Rating
+Service 
+Rating
+(VRMS)
+Insulation 
+Resistance
+50,000 
+75,000 
+100,000 
+Sea Level
+Sea 
+Level
+FT.
+FT
+FT
+AC (RMS)
+DC
+Sea Level
+AC (RMS)
+DC
+N
+300
+450
+1000
+N
+1000
+400
+260
+200
+300
+450
+1000
+5,000 MΩ
+M
+400
+500
+1300
+X
+2500
+1800
+1200
+1200
+825
+1000
+2000
+5,000 MΩ
+I
+600
+850
+1800
+Y
+3000
+2500
+2000
+1800
+1000
+1300
+2500
+5,000 MΩ
+II
+900
+1250
+2300
+Z
+3500
+2500
+2000
+1800
+1150
+1500
+2500
+5,000 MΩ 
+Please note that the establishment of electrical safety factors is left entirely in the designer’s hands, since they are in the best 
+position to know what peak voltage, switching surges, transients, etc. can be expected in particular circuit.
+ 
+TYPICAL SHIELDING EFFECTIVENESS TEST DATA
+EMI/EMP SHIELDING EFFECTIVENESS dB 
+TESTING BY TRIAXIAL METHOD
+140
+120
+100
+80
+LEAKAGE dB
+60
+40
+NICKEL CLASS F
+TYPICAL SHIELD EFFECTIVENESS DATA
+20
+NICKEL CLASS F
+MIL-DTL-38999 REQUIREMENTS
+ 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+VIBRATION CRITERIA
+FREQUENCY MEGAHERTZ
+10.
+ 
+TYPICAL SHIELDING EFFECTIVENESS TEST DATA
+2 axes @ ambient
+1.
+6dB/octave
+EMI/EMP SHIELDING EFFECTIVENESS dB 
+TESTING BY MODE STIRRING METHOD
+˚
+2 axes @
+200  C *
+(Fail Safe:
+2 axes @
+ambient)
+140
+.1
+10in/sec
+120
+.06 in DA.
+100
+.01
+80
+˚˚
+POWER SPECTRAL DENSITY G2/HZ
+LEAKAGE dB
+60
+3 axes @  – 55  C
+  ambient + 200  C*
+    60 G's
+        (Fail Safe: 3 axes
+@ ambient
+  30 G's)
+.001
+40
+NICKEL CLASS F
+TYPICAL SHIELD EFFECTIVENESS DATA
+20
+.0001
+NICKEL CLASS F
+MIL-DTL-38999 REQUIREMENTS
+5
+50
+500
+5000
+HERTZ
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+FREQUENCY GIGAHERTZ
+DOUBLE AMPLITUDE
+(IN) SINE VIBRATION
+POWER SPECTRAL
+DENSITY (G2/HZ)
+RANDOM VIBRATION
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+8
+
+SERIES V
+Insert Availability and Identification Chart
+Total 
+Contacts
+Service 
+Rating
+23
+22D
+20
+16
+12
+Series V
+8-35
+6
+X
+6
+8-98
+3
+Y
+3
+8-9
+9
+N
+9
+10-2
+2
+Y
+2
+10-4
+4
+Y
+4
+10-5
+5
+Y
+5
+10-19
+19
+N
+19
+10-35
+13
+X
+13
+10-98
+6
+Y
+6
+10-99
+7
+Y
+7
+12-3
+3
+Z
+3
+12-4
+4
+Y
+4
+12-8
+8
+Y
+8
+12-32
+32
+N
+32
+12-35
+22
+X
+22
+12-98
+10
+Y
+10
+14-4
+4
+Y
+4
+14-5
+5
+Z
+5
+14-15
+15
+Y
+14
+1
+14-18
+18
+Y
+18
+14-19
+19
+Y
+19
+14-35
+37
+X
+37
+14-55
+55
+N
+55
+14-68
+8
+Y
+8
+14-97
+12
+Y
+8
+4
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+9
+
+SERIES V 
+Insert Arrangements
+Front face of pin inserts illustrated
+A
+D
+A
+E
+C A
+5
+1
+A
+B
+2
+B
+8
+1 2
+9
+7
+3
+5
+4
+6
+4 6
+3
+B
+C
+D
+B
+C
+8-9
+8-35
+8-98
+10-2
+10-4
+10-5
+X
+Y
+N
+Y
+Y
+Y
+9
+6
+3
+2
+4
+5
+23
+22D
+20
+16
+20
+20
+Shell Size &  
+Insert Arrg. for:
+Series V
+Service Rating
+Number of Contacts
+Contact Size
+1
+2
+F
+A
+A
+1
+2
+A
+9
+10
+11
+13 14
+12
+11
+3
+E
+19
+18
+E
+F
+B
+B
+D
+3
+G
+A
+12
+13
+C
+15
+4
+8
+B
+C
+D
+C
+B
+C
+D
+4
+5
+6
+7
+5
+6
+7
+8
+9
+10 17
+16
+10-19
+10-35
+10-98
+10-99
+12-3
+12-4
+N
+X
+Y
+Y
+Z
+Y
+19
+13
+6
+7
+3
+4
+23
+22D
+20
+20
+16
+16
+Shell Size &  
+Insert Arrg. for:
+Series V
+Service Rating
+Number of Contacts
+Contact Size
+1
+1
+A
+B
+H
+A
+B
+D
+A
+E
+A
+B
+18
+29
+C
+A
+B
+R
+K
+L
+M
+N
+F
+G
+J
+21
+22
+H
+G
+C
+32
+P
+J
+K
+B
+C
+C
+D
+C
+D
+E
+D
+E
+F
+G
+H
+D
+E
+F
+12-8
+12-32
+12-35
+12-98
+14-4
+14-5
+14-15
+Y
+N
+X
+Y
+Y
+Z
+Y
+8
+32
+22
+10
+4
+5
+14
+1
+20
+23
+22D
+20
+12
+16
+20
+16
+Shell Size &  
+Insert Arrg. for:
+Series V
+Service Rating
+Number of Contacts
+Contact Size
+1
+A
+B
+10
+41
+A
+3 9
+16
+L
+M
+J
+K
+K
+L
+M N
+N
+P
+A
+B
+L
+21
+31
+B
+C
+K
+T U
+G
+H
+U
+V
+P
+A
+B
+C
+R
+H
+J
+24
+17
+31
+25
+39
+32
+C
+D
+J
+C
+F
+R
+S
+S
+T
+M
+D
+D
+E
+F
+G
+H
+46
+52
+47
+40
+D
+E
+55
+53
+E
+F
+G
+H
+E
+F
+G
+14-18
+14-19
+14-35
+14-55
+14-68
+14-97
+Y
+Y
+X
+N
+Y
+Y
+18
+19
+37
+55
+8
+8
+4
+20
+20
+22D
+23
+16
+20
+16
+Shell Size &  
+Insert Arrg. for:
+Series V
+Service Rating
+Number of Contacts
+Contact Size
+CONTACT LEGEND 
+12 
+16 
+20 
+22D 23
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+10
+
+HOW TO ORDER: S506DS-14-35PN
+        
+1. Connector  
+3. Service  
+5. Contact  
+7. Mod 
+Type
+2. Shell  
+Style
+Class
+4. Shell Size -  
+Insert Arrg.
+Type
+6. Alternate  
+Positions
+(Optional)
+06
+S5
+DS
+14-35
+P
+N
+(453)  Space Grade
+(HCP) High Current  
+Pin (Increased Amperage)* 
+1. Connector Type
+S5
+Series 5
+(V25)  PCB contacts  
+installed, .250” stickout
+(V25AD) PCB contacts  
+installed, .250” stickout  
+w. alignment disk
+2. Shell Style*
+06
+Straight Plug 
+pg 13
+00   
+Wall Mount 
+Receptacle pg 14
+(V25T) PCB contacts  
+installed, .250” stickout,  
+pre-tinned
+10
+Wall Mount with 
+Clinch Nuts pg 15
+87
+(V25ADT)  PCB contacts  
+installed, .250” stickout,  
+pre-tinned, w. alignment disk
+Jam Nut/ 
+w Integral 
+Banding 
+Platform pg 16
+*Other shell styles available consult Amphenol  
+for more intormation
+* See page 7 for current rating
+Contact factory for more  
+options & custom solutions
+6. Alternate Positions
+3. 175ºC Service Class
+3. 200ºC Service Class
+N
+Normal Rotation
+h
+p
+e
+n
+A
+A Rotation
+m
+o
+A
+l
+S
+H
+o
+R
+DR
+C
+E
+E
+U
+h
+p
+e
+/
+/
+n
+m
+5
+2
+9
+0
+o
+/
+0
+2
+A
+l
+S
+H
+o
+B
+B Rotation
+R
+DT
+Electroless nickel 
+plated aluminum, 
+48 hour salt 
+spray
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+C
+C Rotation
+Durmalon 
+plated, 
+alternative 
+to cadmium. 
+Corrosion 
+resistant, 500 
+hour extended 
+salt spray
+h
+p
+e
+n
+m
+o
+A
+l
+S
+D
+D Rotation
+H
+o
+R
+h
+p
+e
+n
+m
+o
+C
+E
+A
+l
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+DS*
+S
+H
+o
+R
+C
+E
+E
+U
+/
+/
+AP-93 Tri-Nickel 
+Alloy, Aluminum, 
+1000 Hr., 200°C, 
+-65dB@100Hz*  
+5
+2
+9
+0
+/
+0
+2
+E
+E Rotation
+DZ
+*See page 19 for more info
+See pages 12 for more information
+Black Zinc-
+Nickel alternative 
+to cadmium. 500 
+hour salt spray, 
+conductive
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+5. Contact Type
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+RK
+DW
+P
+* Pin (Recommended 
+for receptacles)
+Corrosion 
+resistant 
+stainless 
+steel, firewall 
+capability, plus 
+500 hour salt 
+spray resistance
+Corrosion 
+resistant 
+olive drab 
+cadmium plated 
+aluminum, 1,000 
+hour extended 
+salt spray
+S
+Socket 
+(Recommended for 
+plugs)
+*Scoop proof in this configuration
+RS
+Nickel plated, 
+corrosion 
+resistant 
+steel, firewall 
+capability, 500 
+hour salt spray
+4. Shell Size/ Insert Arrangement
+See pages 9-10
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+11
+
+SERIES V 
+Keyway Rotation Table
+KEY/KEYWAY POSITION
+A plug with a given rotation letter will mate with a receptacle 
+with the same rotation letter. The angles for a given connector 
+are the same whether it contains pins or sockets. Master key 
+stays fixed, minor keys rotate. Inserts are not rotated in  
+conjunction with the master key/keyway.
+6. ALTERNATE KEYING
+RECEPTACLE 
+(FRONT FACE SHOWN)
+PLUG 
+(FRONT FACE SHOWN)
+AR° 
+Key & 
+Keyway 
+MAIN
+KEYWAY
+or AP° 
+BSC
+Shell 
+Size
+MAIN
+KEYWAY
+Arrangement 
+Identification 
+BR° 
+or 
+BP° 
+BSC
+CR° 
+or 
+CP° 
+BSC
+DR° 
+or  
+DP° 
+BSC
+Letter
+N
+105
+140
+215
+265
+˚
+AP
+BSC
+AR
+BSC˚
+A
+102
+132
+248
+320
+˚
+BP
+BSC
+BR
+BSC˚
+B
+80
+118
+230
+312
+8
+C
+35
+140
+205
+275
+D
+64
+155
+234
+304
+˚
+˚
+DP
+BSC
+CP
+BSC
+DR
+BSC˚
+CR
+BSC˚
+E
+91
+131
+197
+240
+N
+95
+141
+208
+236
+A
+113
+156
+182
+292
+B
+90
+145
+195
+252
+C
+53
+156
+220
+255
+10 
+12 
+14
+D
+119
+146
+176
+298
+E
+51
+141
+184
+242
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+12
+
+SERIES V PLUG WITH ACCESSORY THREADS
+S506
+(.579)
+(.888)
+Shell Size
+BB Thread
+V Thread*
+(ØE)
+8
+.5600 - .1P - .2L - DS 
+.4375 - 28 - UNEF
+.682
+10
+.6800 - .1P - .2L - DS
+.5625 - 24 - UNEF
+.803
+12
+.8000 - .1P- .2L - DS  
+.6875 - 24 - UNEF
+.923
+14
+.9200 - .1P - .2L - DS 
+.8125 - 20 - UNEF
+1.043
+*Compatible with all D38999 Series II Accessories
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+13
+
+SERIES V WALL MOUNTING RECEPTACLE 
+S500
+(.969)
+Shell Size
+BB Thread
+V Thread*
+(M)
+R
+(S)
+(ØT)
+(KF)
+(ZZ)
+8
+.5600 - .1P - .2L - DS 
+.4375 - 28 - UNEF
+.5475
+.594
+.812
+.131
+.610
+.250
+10
+.6800 - .1P - .2L - DS
+.5625 - 24 - UNEF
+.5475
+.719
+.938
+.131
+.610
+.250
+12
+.8000 - .1P - .2L - DS
+.6875 - 24 - UNEF
+.5475
+.812
+1.031
+.131
+.610
+.250
+14
+.9200 - .1P - .2L - DS
+.8125 - 20 - UNEF
+.5475
+.906
+1.125
+.131
+.610
+.250
+*Compatible with all D38999 Series II Accessories
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+14
+
+SERIES V WALL MOUNTING RECEPTACLE WITH  
+CLINCH NUTS 
+S510
+(.969)
+Shell Size
+BB Thread
+V Thread*
+(M)
+R
+(S)
+T Thread
+(KF)
+(ZZ)
+8
+.5600 - .1P - .2L - DS 
+.4375 - 28 - UNEF
+.5475
+.594
+.916
+.112-40UNC-3B
+.610
+.250
+10
+.6800 - .1P - .2L - DS
+.5625 - 24 - UNEF
+.5475
+.719
+1.041
+.112-40UNC-3B
+.610
+.250
+12
+.8000 - .1P - .2L - DS
+.6875 - 24 - UNEF
+.5475
+.812
+1.134
+.112-40UNC-3B
+.610
+.250
+14
+.9200 - .1P - .2L - DS
+.8125 - 20 - UNEF
+.5475
+.906
+1.228
+.112-40UNC-3B
+.610
+.250
+*Compatible with all D38999 Series II Accessories
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+15
+
+SERIES V JAM NUT - INTEGRAL BANDING PLATFORM
+S587
+(1.025)
+(.305)
+(.094)
+(.250)
+(.070)
+(.043)
+(.100)
+Shell 
+Size
+(ØA)
+(ØE)
+(ØF)
+(M)
+BB Thread
+(ØGG)
+(KF)
+RR Thread
+8
+.825
+.425
+.425
+.605
+.5600 - .1P - .2L - DS 
+.822
+.675
+.6250 - 24 - UNEF - 2A
+10
+.975
+.606
+.546
+.605
+.6800 - .1P - .2L - DS
+.947
+.675
+.7500 - 20 - UNEF - 2A
+12
+1.096
+.731
+.671
+.605
+.8000 - .1P - .2L - DS
+1.072
+.675
+.8750 - 20 - UNEF - 2A
+14
+1.275
+.865
+.805
+.605
+.9200 - .1P - .2L - DS
+1.252
+.675
+1.000 - 20 - UNEF - 2A
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+16
+
+S5 MINI-BAND TERMINATION
+Mini-band Termination: For assembling cables to overmolded style S5 connectors or backshells, the Mini-band 
+system offers quick termination of cable shields and flexibility to be utilized on a wide range of parts with just one 
+band size. These rugged straps have passed numerous hazadous environmental testing. Including shock and 
+vibration. Approved for use in military and aerospace applications.
+MATERIALS:
+Mini-band installation tool. Use with .120” (3.05 mm) wide 
+bands, 6.75 inches (172 mm.) length, 1.2 pounds (0.6 Kg.)
+Mini-band, .120” (3.05 mm) wide. Available in two lengths, flat 
+or pre-coiled. Stainless steel.
+Description
+DMC Part Number
+Military Part 
+Number
+Mini-Band Installation Tool
+DBS-2200
+M81306/1B
+Length
+Accommodates Diameter
+DMC Part Number
+Military Part 
+Number
+Inches
+mm
+inches
+mm
+8.125
+206.38
+.88
+22.35
+DBS-1287
+M85049/128-7
+Step 1: Prepare the Connector and Cable Braid
+Prepare the connector and cable braid for band termination process (see DMC Website).
+Step 2: Prepare Band
+Using an appropriate size band, feed the end of the band through the narrow slot on the buckle 
+twice. This will create a double-looped band. Never use a single-looped band. To hasten the 
+termination process on smaller adapters, pull on the end of the band to reduce the diameter of 
+the loop.
+Step 3: Insert Looped Band into Tool
+Squeeze the release lever and insert the end of the band into the nose of the tool. Ensure the 
+orientation of the band matches the graphic on the body of the tool (coil down when the tool is 
+held upright).
+Step 4: Positioning
+Position the connector and the shield assembly through the band.
+Step 5: Tighten Band around Braid/Connector
+Repeatedly squeeze the tensioning handle until the band closes around the assembly. Once the 
+band is closed around the assembly, use half strokes of the handle until the band is tight against 
+the braided cable. Release the tensioning handle and allow it to open fully. With one final stroke, 
+close the tensioning handle until it locks against the tool body. This indicates that the band has 
+been tightened to the pre-set tension.
+Step 6: Cut Off
+Once the tensioning handle is locked in place, squeeze the cut-off handle to finish the termination 
+process. Both handles will open up on their own. (If shrinkable tubing is to be applied, it is 
+recommended that the band is wrapped in tape and the excess braid folded back over the band 
+to prevent cutting of shrinkable tubing).
+Step 7: Remove Excess Band Material
+Release the tensioning handle and then squeeze the release lever. While squeezing the release 
+lever, carefully pull on the band and slide it out of the tool and discard.
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+17
+
+BOARD LAYOUT FOR PCB-TERMINATION
+INSERT ARRANGEMENT #8-35
+Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+8-35
+6
+22D
+Contact Locations
+Front face of pin insert shown
+.045
+.078
+.045
+5
+1
+6
+4
+2
+3
+.090
+.078
+All dimensions for reference only. Note: Shown in this catalog are the most common insert patterns for PCB applications.  
+For availability of other arrangements, consult Amphenol Aerospace.
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+18
+
+BOARD LAYOUT FOR PCB-TERMINATION
+INSERT ARRANGEMENT #8-98
+Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+8-98
+3
+20
+ 
+Contact Locations
+ 
+Front face of pin insert shown
+.038
+.075
+A
+C
+B
+.065
+.065
+INSERT ARRANGEMENT #10-5
+Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+10-5
+5
+20
+ 
+Contact Locations
+ 
+Front face of pin insert shown
+.065
+.065
+.056
+.130
+A
+E
+D
+B
+C
+.065
+.113
+.113
+All dimensions for reference only. Note: Shown in this catalog are the most common insert patterns for PCB applications.  
+For availability of other arrangements, consult Amphenol Aerospace.
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+19
+
+BOARD LAYOUT FOR PCB-TERMINATION
+INSERT ARRANGEMENT #10-35
+Contact 
+Connector Type:
+ 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+10-35
+13
+22D
+ 
+Contact Locations
+ 
+Front face of pin insert shown
+.138
+.085
+.118
+.146
+.146
+.056
+1
+10
+11
+2
+9
+13
+3
+12
+4
+8
+7
+5
+6
+.045
+.045
+.035
+.118
+.049
+INSERT ARRANGEMENT #12-3
+ Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+12-3
+3
+16
+       Contact Locations
+ 
+Front face of pin insert shown
+.058
+A
+C
+B
+.111
+.094
+All dimensions for reference only. Note: Shown in this catalog are the most common insert patterns for PCB applications.  
+For availability of other arrangements, consult Amphenol Aerospace.
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+20
+
+BOARD LAYOUT FOR PCB-TERMINATION
+INSERT ARRANGEMENT #12-35
+Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+12-35
+22
+22D
+ 
+Contact Locations
+ 
+Front face of pin insert shown
+.182
+.126
+.117
+.045
+.088
+.107
+.158
+.197
+.026
+.075
+1
+21
+11
+.030
+.120
+.093
+.203
+INSERT ARRANGEMENT #14-18
+Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+14-18
+18
+20
+ 
+Contact Locations
+ 
+Front face of pin insert shown
+.260
+.260
+.252
+.113
+L
+A
+B
+K
+N
+M
+U
+T
+P
+C
+J
+S
+R
+H
+D
+G
+F
+E
+.113
+.225
+.065
+.065
+.130
+.130
+.195
+.195
+All dimensions for reference only. Note: Shown in this catalog are the most common insert patterns for PCB applications.  
+For availability of other arrangements, consult Amphenol Aerospace.
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+21
+
+BOARD LAYOUT FOR PCB-TERMINATION
+INSERT ARRANGEMENT #14-19
+Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+14-19
+19
+20
+ 
+Contact Locations
+ 
+Front face of pin insert shown
+.065
+.065
+.225
+.113
+M
+B
+A
+.113
+L
+N
+C
+K
+U
+V
+R
+D
+J
+S
+T
+E
+H
+F
+G
+.130
+.130
+.225
+.195
+.260
+.195
+.260
+INSERT ARRANGEMENT #14-35
+Connector Type:
+Contact 
+Series V
+Number of 
+Contacts
+Size
+Insert Designation:
+14-35
+37
+22D
+Contact Hole Locations
+Contact Hole Locations
+ 
+Contact Locations
+ 
+Front face of pin insert shown
+Location
+Location
+Contact 
+Number
+X Axis
+Y Axis
+Contact 
+Number
+X Axis
+Y Axis
+1
++.045
++.262
+19
++.045
++.172
+2
++.123
++.217
+20
++.123
++.119
+3
++.211
++.160
+21
++.170
++.040
+1
+4
++.254
++.080
+22
++.170
+–.050
+5
++.266
+–.010
+23
++.123
+–.127
+6
++.247
+–.098
+24
++.045
+–.172
+21
+31
+7
++.200
+–.175
+25
+–.045
+–.172
+8
++.130
+–.232
+26
+–.123
+–.127
+9
++.045
+–.262
+27
+–.170
+–.050
+11
+10
+–.045
+–.262
+28
+–.170
++.040
+11
+–.130
+–.232
+29
+–.123
++.119
+12
+–.200
+–.175
+30
+–.045
++.172
+13
+–.247
+–.098
+31
++.045
++.074
+14
+–.266
+–.010
+32
++.090
+–.004
+15
+–.254
++.080
+33
++.045
+–.082
+16
+–.211
++.160
+34
+–.045
+–.082
+17
+–.123
++.217
+35
+–.090
+–.004
+18
+–.045
++.262
+36
+–.045
++.074
+37
+ .000
+–.004
+All dimensions for reference only. Note: Shown in this catalog are the most common insert patterns for PCB applications.  
+For availability of other arrangements, consult Amphenol Aerospace.
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+22
+
+AP-93 PLATING - 1000 HOURS ALTERNATIVE  
+TO CADMIUM
+RoHS Compliant Tri-Nickel Alloy, Intermateable with Cadmium
+Amphenol Aerospace introduces AP-93 -- a new, durable REACH/RoHS compliant plating for aluminum connectors which 
+outperforms Cadmium and exceeds 1000 hour salt spray requirements. AP-93 is a conductive finish that meets or exceeds 
+D38999 Cadmium requirements (under the commercial service class designator “DS”) making it an excellent choice for harsh 
+environments.
+Military, commercial, and industrial markets continue to move away from Cadmium due to known toxic carcinogens. The new 
+AP-93 plating finish complies with all customer requirements tied to these specifications.  Amphenol is also using European  
+Union Directive 2002/95/EC RoHS as a guide to qualification for all military, commercial, and industrial specifications requiring  
+the reduction or elimination of these restricted materials. 
+AP-93 is intermateable with Cadmium, making it a drop-in replacement for applications where Cadmium has been a preferred 
+choice.  Applications include numerous components of land, sea, air, and weapons systems, as well as space systems, as it 
+provides superior barrier protection and excellent lubricity for threaded applications. 
+AP-93 exceeds Olive-Drab Cadmium plating (Class W) by meeting 1000 hours of dynamic salt spray, 500 mating cycles,  
+and meets the millivolt drop shell-to-shell conductivity of nickel (Class F).  AP-93 also meets a 200° C temperature rating, is  
+compatible with other platings, and is available on all D38999-style connectors.  For specific applications please contact  
+Amphenol Aerospace.
+Requirements
+Nickel
+CAD
+AP-93
+336 Hours SO2 Exposure
+*
+FEATURES & BENEFITS
+500 Hours Salt Spray
+*
+*
+• 
+Available on all Series V style connectors
+1000 Hours Salt Spray
+*
+• 
+Meets 1000 hour salt spray requirement 
+• 
+REACH/RoHS compliant
+REACH/RoHS Compliant
+*
+*
+CAD Intermateable
+*
+*
+• 
+Intermateable with Cadmium -- excellent  
+drop-in replacement for existing connectors.
+• 
+500 mating cycles per D38999
+Non-Magnetic
+*
+*
+*
+• 
+Meets 200° C temperature rating
+Temperature Rating 200° C 
+*
+*
+Shell-to-Shell Conductivity
+• 
+Meets D38999 shell-to-shell conductivity 
+requirements
+< 2.5 millivolt
+*
+*
+*
+Note: Specifications are subject to change without notice.
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+23
+
+NOTES:
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+24
+
+NOTES:
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+25
+
+ABOUT AMPHENOL AEROSPACE
+Your Source for Interconnect Products
+CONTACT US:
+Amphenol Aerospace
+40-60 Delaware Avenue
+Sidney, NY 13838-1395
+Customer Service:  
+Mon - Fri  8AM - 5PM
+Phone: (800) 678-0141
+Fax: (607) 563-5157
+Online: www.amphenol-aerospace.com
+Amphenol Aerospace, Amphenol Commercial Air,  
+and Amphenol Industrial Operations Main Facility in Sidney, NY USA
+ABOUT AMPHENOL AEROSPACE: 
+Amphenol Aerospace, a Division of Amphenol Corporation, is one of the largest manufac-
+turers of interconnect products in the world for the Military, Commercial Aerospace  
+and Industrial markets. Amphenol designs, manufactures and markets circular and  
+rectangular, electronic, fiber optic, EMI/EMP filter, and a variety of special applications 
+connectors and interconnect systems. 
+Our state-of-the-art facility is nestled at the foothills of the Catskill Mountains in Sidney, 
+NY. The Amphenol complex houses many technologies including CNC machining,  
+die-casting, molding, impact and extruding, plating, screw machining and process  
+controls. Our fully equipped material evaluation lab and engineering organization utilize 
+the latest in computer aided design software and analysis tools, allowing us to design, 
+test, and qualify advanced interconnect systems. Amphenol’s interconnect products are 
+supplied to thousands of OEMs worldwide and are supported by our worldwide sales and 
+engineering force, including the largest global network of electronic distributors.
+Customer-Centric:
+Customer-Centric:  
+Our #1 priority is our customers who 
+deserve quality product on time.
+CARE
+Accountable:  
+Clear owners, clear  
+actions, clear results.
+QUALITY ASSURANCE:
+Amphenol Aerospace has been awarded 
+both AS9100 - Revision C and ISO9001:2008 
+Quality Assurance Certifications.
+Reliable:  
+What we build 
+matters and quality 
+is imperative.
+Enthusiastic:  
+Challenges create rewarding 
+opportunities. Enthusiasm is 
+contagious and we will spread it.
+
+Amphenol Aerospace Operations
+40-60 Delaware Avenue
+Sidney, NY 13838
+800-678-0141
+Amphenol Canada
+605 Milner Avenue
+Toronto, ON Canada M1B 5X6
+416-291-4401
+Amphenol Japan, Ltd.
+471-1, Deba, Ritto-City
+Shiga, 520 3041 Japan
++81 77 553 8501
+Amphenol Commercial Air Division
+40-60 Delaware Avenue
+Sidney, NY 13838
+1-800-687-0141
+Amphenol Invotec
+Unit 1-3, Hedging Lane Industrial Estate
+Dosthill, Tamworth, B77 5HH United Kingdom
++44 (0) 1827 263250
+Amphenol Martec Limited
+St. Augustines Business Park
+Swalecliffe, Whitstable, Kent
+CT5 2QJ United Kingdom
++44 (0) 1227 793 733
+Amphenol Nexus Technologies
+50 Sunnyside Avenue
+Stamford, CT 06902
+203-327-7300
+Amphenol Ionix Systems
+Prospect House, Taylor Business Park
+Risley, Warrington, WA3 6HP United Kingdom
++44 (0) 1942 685200
+Amphenol Optimize
+Carretera Internacional Km 6.5
+Col. Parque Industrial
+Nogales, Sonora, México. C.P. 84094
++52 (631) 311-160
+Amphenol PCD
+72 Cherry Hill Drive
+Beverly, MA 01915
+978-624-3400
+Amphenol Limited
+Thanet Way
+Whitstable, Kent, CT5 3JF United Kingdom
++44 (0) 1227 773200
+Amphenol Ionix Systems OÜ 
+Pikk Street 59b 
+Kuressaare 93815 Estonia 
++372 4521 780
+Amphenol SV Microwave
+2400 Centrepark West Drive
+West Palm Beach, FL
+561-840-1800
+Amphenol Socapex
+948 Promenade De L’Arve – BP 29
+74311 Thyez France
++33 (0) 4 50 89 28 00
+AMAO – European Sales Operations
+Via Barbaiana 5
+20020 Lainate Milano, Italy
++39 02 932 541
+Amphenol Times Microwave, Inc.
+358 Hall Avenue
+Wallingford, CT 06492
+800-867-2629
+Amphenol Air LB SAS
+2 Rue Clément Ader, Zac de Wé
+08110 Carignan France
++33 (0) 03 24 22 78 49
+Amphenol Bar-Tec Ltd.
+3 Hagavish st
+POB 2479 Kfar-Saba 44641
+Israel
++972-9-7644100
+Amphenol Fiber Systems International
+1300 Central Expressway North, Suite 100
+Allen, TX 75013
+214-547-2400
+Amphenol AirLB GmbH
+Am Kleinbahnhof 4
+D-66740 Saarlouis Germany
++49 (0) 68 31/98 10 0
+Amphenol Borisch Technologies
+4511 East Paris AVE
+Grand Rapids, MI 49512
+616-554-9820
+Amphenol SEFEE
+Z.I. des Cazes – BP243
+12402 Saint-Affrique Cedex France
++33 (0) 5 65 98 11 00
+Amphenol Printed Circuits
+91 Northeastern Boulevard
+Nashua, NH 03062
+603-324-4500
+Amphenol Interconnect India
+105, Bhosari Industrial Area
+Pune – 411 026 India
++91 20 27120363
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements,  
+information and data given herein are believed to be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind expressed or implied. 
+Statements or suggestions concerning possible use of our products are made without representation or warranty that any such use is free of patent  infringement and are 
+not recommendations to infringe any patent. The user should not assume that all safety measures are indicated or that other measures may not be required. Specifications 
+are typical and may not apply to all connectors.  
+                              © 2021 Amphenol Corp.                                                                       Printed in U.S.A.  12-2021
+
+AMPHENOL CORPORATION 
+40-60 Delaware Avenue, Sidney, NY 13838-1395 • 800-678-0141  
+www.amphenol-aerospace.com  •  www.amphenolmao.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  S500DZ-10-35PN  S500DZ-10-98PN  S500DZ-12-35PN  S500DZ-12-4PN  S500DZ-12-98PN  S500DZ-14-18PN 
+S500DZ-14-35PN  S500DZ-14-97PN  S500DZ-8-35PN  S500DZ-8-98PN  S506DZ-10-35SN  S506DZ-10-98SN 
+S506DZ-12-35SN  S506DZ-12-4SN  S506DZ-12-98SN  S506DZ-14-18SN  S506DZ-14-35SN  S506DZ-14-97SN 
+S506DZ-8-35SN  S506DZ-8-98SN  S510DZ-10-35PN(V25)  S510DZ-10-98PN(V25)  S510DZ-12-35PN(V25)  S510DZ-
+12-4PN(V25)  S510DZ-12-98PN(V25)  S510DZ-14-18PN(V25)  S510DZ-14-35PN(V25)  S510DZ-14-97PN(V25) 
+S510DZ-8-35PN(V25)  S510DZ-8-98PN(V25)  S587DZ-10-35PN  S587DZ-10-98PN  S587DZ-12-35PN  S587DZ-12-
+4PN  S587DZ-12-98PN  S587DZ-14-18PN  S587DZ-14-35PN  S587DZ-14-97PN  S587DZ-8-35PN  S587DZ-8-98PN

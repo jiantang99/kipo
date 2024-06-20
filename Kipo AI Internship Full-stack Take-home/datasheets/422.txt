@@ -1,0 +1,88 @@
+FGG.3B.571.ZZC
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+1
+Image is for illustrative purpose only
+Series
+3B
+Download
+Male crimp
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+22.00 - 18.00
+Cable Ø
+0.00 - 0.00 mm
+Status
+active
+Matching parts
+EGG.3B.671.ZZM
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FG*: Male crimp contact, oversize barrel
+Keying
+No keying
+Housing Material
+Gold plated [ISO 27874] brass
+Weight
+.49 g
+Performance
+Configuration
+Insulator
+Rated Current
+Others
+Endurance (Shell): 5000 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+12NC part number: 4022.438.32283 
+  
+  
+DRAWINGS
+Dimensions
+A
+C
+mm.
+1.6
+1.4
+in.
+0,06
+0,06
+RECOMMENDED BY LEMO
+Tools
+Crimp Tool: 
+DPC.91.101.A
+Positionner: 
+DCE.91.163.BVCM
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FGG.3B.571.ZZC

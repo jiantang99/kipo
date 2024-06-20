@@ -1,0 +1,129 @@
+FAG.1B.314.CLA
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+14
+Image is for illustrative purpose only
+Series
+1B
+Download
+Male solder
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+34.00 - 28.00
+Cable Ø
+0.00 - 0.00 mm
+Status
+active
+Matching parts
+PHG.1B.314.CLLD42
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FA*: Fixed plug, non-latching, nut fixing
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+12.07 g
+Performance
+Configuration
+1B.314 : 14 Low Voltage
+Insulator
+L: PEEK (UL 94 / V-0/1.5)
+Rated Current
+2 Amps
+Specifications
+Contact Type: Solder 
+Contact Dia.: 0.5 mm (0.02in) 
+Bucket Dia.: 0.45 mm (0.018in) 
+Max. Solid Conductor: 0.09 mm^2 (AWG 28) 
+Max. Stranded Conductor: 0.09 mm^2 (AWG 28) 
+R (max): 8.7 mOhm 
+Vtest (contact-shell): 1200 V (AC), 1700 V (DC) 
+Vtest (contact-contact): 800 V (AC), 1130 V (DC) 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/3
+
+Others
+Endurance (Shell): 5000 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+B
+E
+L
+M
+N
+S1
+S3
+e
+mm.
+14
+16
+5.4
+25.2
+12.5
+21.6
+10.5
+14
+M12x1.0
+in.
+0,55
+0,63
+0,21
+0,99
+0,49
+0,85
+0,41
+0,55
+RECOMMENDED BY LEMO
+Tools
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/3
+
+Cables
+CMN.14.T28.056PGZE
+Grey
+CMN.14.T28.056PNZE
+CMN.14.T28.056QGZE
+Grey
+TPR (medical)
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FAG.1B.314.CLA

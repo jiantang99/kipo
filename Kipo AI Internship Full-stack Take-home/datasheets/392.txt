@@ -1,0 +1,479 @@
+F
+A
+E
+B
+D
+C
+H
+G
+C
+O' ring
+Jam nut
+8
+A.6; Validé
+F
+D
+Housing
+Thread 2
+Thread 1
+7
+E
+Insert
+6
+G
+Seal gasket
+A
+B Max
+(Overall length)
+MATERIAL :
+Housing : Zinc alloy nickel plated
+Insert : PA 66 UL94 V0
+Mating gasket : sealing IP67:Nitril  
+                sealing IP68:Silicon
+O'ring : nitril
+Jam Nut : Aluminium alloy nickel plated
+  
+PERFORMANCE CHARACTERISTICS :
+Operating temperature : -40 C up to 105 C
+Insulation resistance : 5000 M
+min
+Withstanding voltage: 2000 Vrms
+     (1500 Vrms for 102w2 and 103w3 layouts)
+Corrosion salt spray : 48 hours ( 96 hours for specification 01 ) 
+Durability : 500 matings and unmatings    
+Sealing in mated conditions : IP67 / IP68 3 bars/30min as per IEC60529
+Sealing in mated conditions : IP69K as per DIN40050
+ROHS compliant
+ 
+NOTES :
+-1- Contact identification and orientation of connector, refer to:
+              UT0-CONTACT-L-C01 (Male)
+              UT0-CONTACT-L-C02 (Female)
+-2- Contact to be ordered separately refer to : UT0 catalog
+-3- Insert arrangements refer to: UT0-DHP-001-C01 (Male)
+                                  UT0-DHP-002-C01 (Female)
+-4- This drawing covers p/n termination : -H / -H6 / -H01 / -H601
+-5- Packaging : connector is individually packed in a plastic bag
+UT07 10 2W2 P
+W
+H6 01
+5
+Part Number
+ 
+(Note 4)
+B Max
+(Overall
+ length)
+C
+ 
+0.2
+D
+ 
+ 0.2
+Torque
+on nut
+max (Nm)
+A
+ 
+ 0.5
+Receptacle UT0 : Type 7
+E
+ 
++0.10
+-0.02
+F 
+ 
++0.40
+ 0
+Thread 1
+ 
+(for 
+information)
+Thread 2
+ 
+(for
+ information)
+Shell size :
+G Max
+ 
+ (Panel
+Tickness)
+Male
+Female
+UT07102W2--H-
+Insert arrangement : See Note 1
+14.91
+11/16-24 UNEF
+ Class 2A
+9/16-24 UNEF
+ CLASS 2A
+27
+34
+Contact :
+P : Male
+S : Female
+6
+UT07103W3--H-
+UT07103--H-
+UT07104--H-
+UT071044--H-
+4
+Insert polarisation:No letter : Standard version
+W, X, Y, Z : Differents orientation
+UT07124--H-
+7/8-20 UNEF
+ Class 2A
+11/16-24 UNEF
+ CLASS 2A
+32
+18.96
+9
+UT07128--H-
+Sealing version :
+H : IP67 version
+H6 : IP68 version
+36
+UT07142G1--H-
+33
+20.9
+9.88
+19.10
+3.20
+Specification :
+No letter : Standard version
+01 : Jam nut is black anodized
+22.14
+10
+UT07147--H-
+UT07148--H-
+ 1" 20 UNEF
+ Class 2A
+13/16-20 UNEF
+ CLASS 2A
+35
+UT071412--H-
+UT071492--H-
+34
+3
+13
+UT071619--H-
+1"1/8-18 UNEF
+ Class 2A
+15/16-20 UNEF
+ CLASS 2A
+38.1
+25.32
+20
+UT071823--H-
+1" 1/4-18 UNEF
+ Class 2A
+1"1/16-18 UNEF
+ CLASS 2A
+41.3
+28.49
+23
+1" 3/8-18 UNEF
+ Class 2A
+1"3/16-18 UNEF
+ CLASS 2A
+46
+39
+39
+26.47
+11.46
+31.68
+24.51
+UT072028--H-
+UT072030--H-
+UT072235--H-
+6.40
+2
+24021
+20/04/2015 _Cancel & replace UT07-C01
+A
+_CREATION OF THE DRAWING
+1" 1/2-18 UNEF
+ Class 2A
+1"5/16-18 UNEF
+ CLASS 2A
+49.2
+39
+39
+26.47
+11.46
+34.85
+24.51
+25
+UT072238--H-
+MOD N
+COUTY L.
+Latest modification - by:
+DATE
+ISS
+41
+26
+UT072448--H-
+1" 5/8-18 UNEF
+ Class 2A
+1"7/16-18 UNEF
+ CLASS 2A
+53.4
+41
+28.31
+12.30
+38.03
+25.36
+UT0 CONNECTOR
+TITLE
+RECEPTACLE
+CUSTOMER DRAWING 
+Date :21/10/2013 
+CHANTOISEAU P.
+Designed by:
+Scale
+FEMALE CONNECTOR
+MALE CONNECTOR
+General linear
+Tolerances:
+ 0.1
+2/1
+ 
+NPRDS / PROJECT 
+UT0
+ 
+PIN (P)
+SOCKET (S)
+8
+7
+6
+5
+4
+3
+2
+1
+1
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+WWW.SOURIAU.COM
+SHEET
+SOURIAU DRG N° 
+FORMAT
+1 / 2
+C001-UT07-A
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+CLASSIFICATION : NOT EXPORT CONTROLLED
+
+F
+A
+E
+B
+D
+C
+H
+G
+Panel Cut Out
+8
+In case the connectors are equipped 
+with dipsolder contacts
+A.6; Validé
+M
+L
+7
+6
+Part Number
+ (Male or Female)
+L
+M
+CONTACT RM20M12E84x (Male)
+     or RC20M12E83x (Female)
+UT07102W2--H-
+G
+16.45+0.2 
+0
+17.30+0.25 
+0
+UT07103W3--H-
+UT07103--H-
+UT07104--H-
+UT071044--H-
+5
+Contacts to be ordered separately
+UT07128--H-
+UT07124--H-
+20.85+0.3 
+0
+22.10+0.3 
+0
+UT07142G1--H-
+MALE CONTACTS
+FEMALE CONTACTS
+UT07147--H-
+UT07148--H-
+24.00+0.3 
+0
+25.40+0.3 
+0
+Part Number
+G
+min
+max
+Part Number
+G
+min
+max
+UT071412--H-
+UT071492--H-
+4
+UT07104P-H-
+UT07104S-H-
+UT071044P-H-
+UT071044S-H-
+UT071619--H-
+27.10+0.3 
+0
+28.20+0.3 
+0
+UT07128P-H-
+UT07128S-H-
+11.2
+13.5
+UT071412P-H-
+0.45
+2.45
+UT071412S-H-
+UT071492P-H-
+UT071492S-H-
+33.40+0.3 
+0
+34.70+0.3 
+0
+3
+UT071823--H-
+30.20+0.3 
+0
+31.70+0.3 
+0
+UT072028--H-
+UT072030--H-
+UT072235--H-
+UT071619P-H-
+UT071619S-H-
+36.60+0.3 
+0
+37.80+0.3 
+0
+UT072238--H-
+UT071823P-H-
+UT071823S-H-
+UT072028P-H-
+UT072028S-H-
+UT072448--H-
+39.80+0.3 
+0
+41.10+0.3 
+0
+UT072030P-H-
+UT072030S-H-
+7.1
+9.2
+NOT EXISTING
+UT072235P-H-
+UT072235S-H-
+2
+24021
+20/04/2015 _Cancel & replace UT07-C01
+A
+_CREATION OF THE DRAWING
+MOD N
+COUTY L.
+Latest modification - by:
+DATE
+ISS
+UT072238P-H-
+UT072238S-H-
+UT072448S-H-
+UT072448P-H-
+5.7
+7.8
+UT0 CONNECTOR
+TITLE
+RECEPTACLE
+CUSTOMER DRAWING 
+Date :21/10/2013 
+CHANTOISEAU P.
+Designed by:
+Scale
+General linear
+Tolerances:
+ 0.1
+3/1
+ 
+NPRDS / PROJECT 
+UT0
+ 
+8
+7
+6
+5
+4
+3
+2
+1
+1
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+WWW.SOURIAU.COM
+SHEET
+SOURIAU DRG N° 
+FORMAT
+2 / 2
+C001-UT07-A
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+CLASSIFICATION : NOT EXPORT CONTROLLED
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  UT072028SH01  UT072028SH6  UT071823PZH  UT072235PH01  UT072448PH  UT071619SH6  UT071823PH601 
+UT07104SH  UT071823SZH  UT072028PH01  UT07128SH  UT072448PH01  UT071823SH  UT072448SH01 
+UT071823PH  UT071823SH6  UT072028PH601  UT072235SH601  UT072448PH6  UT072028PH6  UT072235SH 
+UT071619SH  UT072448SH601  UT072448PH601  UT07142G1PH6  UT072028PH  UT071412SH44N  UT07128PH 
+UT071823SH01  UT072235PH6  UT072235PH601  UT072028SH  UT072448SH  UT071823PH44N  UT071412PH 
+UT071823SH44N  UT071823PH6  UT071823PH01  UT071823PXH  UT072235SH6  UT07128SH44N 
+UT071619SH601  UT072235PH  UT072028SH601  UT07104PH  UT071823SXH  UT071412SH  UT072235SH01 
+UT072448SH6  UT071823SH601  UT071619PH  UT071619SWH  UT071412PH601  UT071492PH01  UT07102W2PH 
+UT07102W2SH  UT071619SH01  UT07148PH  UT072448PYH  UT07128SWH  UT071619PH601  UT072448SXH 
+UT07104SWH  UT07124SH01  UT072448SYH  UT07148SH6  UT072235PYH  UT072448PZH  UT072030PH01 
+UT07104PWH  UT07128PWH  UT07147SH601  UT072448PXH  UT072448PWH  UT07103PH601  UT071412SWH 
+UT07148PH6  UT072448SWH  UT07128SH01  UT071412SH01  UT072235SZH  UT071619PXH  UT072235SWH 
+UT071619PZH  UT072235SXH  UT07104SH601  UT07148SH  UT072030SH01  UT071619PH01  UT072235PWH 
+UT07142G1PH  UT07142G1SH601  UT07147PH01  UT07147PH6  UT071412PH01  UT07148PH601  UT07103W3SH6
+  UT072235PZH  UT07124SH6  UT07142G1PH601

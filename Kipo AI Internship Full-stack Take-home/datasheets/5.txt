@@ -1,0 +1,335 @@
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Sensor/actuator flush-type socket, 12-pos., with straight THR solder connection
+Your advantages
+ Reduced mounting costs thanks to two-piece device connector
+ Packaging available for automated pick and place assembly
+ All common pin assignments and codings available
+ Easy device integration thanks to mechanical port screw connections with threaded attachment, press-in contour or direct integration in the front
+plate
+ Additional gasket for the device when not plugged in
+Key Commercial Data
+Packing unit
+60 pc
+Minimum order quantity
+60 pc
+GTIN
+GTIN
+4046356533089
+Technical data
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+-40 °C ... 85 °C (without mechanical actuation)
+Degree of protection
+IP67 (correctly plugged in and locked)
+General
+Note
+The electrical and mechanical data specified assume that the connector
+pair is correctly locked and mounted. If the connector is unlocked and if
+there is a danger of contamination, the connector must be sealed using
+a protective cap > IP54. Influences arising from litz wires, cables or PCB
+assembly must also be taken into consideration.
+Rated current at 40°C
+1.5 A
+Rated voltage
+30 V
+09/11/2020   Page 1 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Technical data
+General
+Rated surge voltage
+0.8 kV
+Number of positions
+12
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Status display
+No
+Overvoltage category
+III
+Degree of pollution
+3
+Connection method
+THR solder connection
+Insertion/withdrawal cycles
+> 100
+Torque
+3 Nm ... 4 Nm (Installation-side)
+Mounting type
+PCB mounting
+Type of packaging
+Tray
+Delivery state
+with assembly pad
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PPA
+Sealing material
+FKM / EPDM
+Cable
+Standards/specifications
+M12 connector IEC 61076-2-101
+Ambient temperature (operation)
+-40 °C ... 85 °C (cable, fixed installation)
+-25 °C ... 85 °C (cable, flexible installation)
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 2 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Schematic diagram
+Pin assignment M12, 12-pos., female side view
+09/11/2020   Page 3 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Drilling diagram
+Drilling diagram
+Dimensional drawing
+M12 flush-type connector
+09/11/2020   Page 4 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Dimensional drawing
+THR tray packaging
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27260700
+eCl@ss 4.1
+27260700
+eCl@ss 5.0
+27260700
+eCl@ss 5.1
+27260700
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 2.0
+EC001297
+ETIM 3.0
+EC002061
+ETIM 4.0
+EC002061
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+09/11/2020   Page 5 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Classifications
+UNSPSC
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / EAC
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 118976
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+1.5 A
+mm²/AWG/kcmil
+26
+ 
+ B.01687
+EAC 
+
+Accessories
+Accessories
+Contact insert
+Sample set - SACC-CIM12FS12PL180THRSHSAMPLE - 1413562
+Sensor/actuator flush-type socket, 12-pos. with shroud, A-coded, with straight THR solder connection, contact insert
+only
+ 
+ 
+09/11/2020   Page 6 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Accessories
+Panel mounting base
+Housing screw connection - SACC-M12-SCO NUT - 1552243
+M12 SPEEDCON housing screw connection for M12 female inserts, with O-ring, for all SPEEDCON-capable THR
+and wave soldering contact carriers
+ 
+ 
+Housing screw connection - SACC-DSIV-M12-NUT - 1416144
+Housing screw connection with M12 standard thread, with O-ring, for the two-piece straight M12 THR contact carrier
+and for the two-piece angled M12 contact carrier
+ 
+ 
+Housing screw connection - SACC-M12-SCO NUT L 90 - 1432460
+M12-SPEEDCON housing screw connection for M12 female inserts, with flat gasket, for all Speedcon-compatible
+THR and wave soldering contact carriers
+ 
+ 
+Housing screw connection - SACC-BP-F-M12/M15-6-THR - 1414004
+Housing screw connection, Socket, M12, Rear mounting, M15 x 1
+ 
+ 
+Housing screw connection - SACC-BP-F-M12/M15-7-THR - 1414003
+Housing screw connection, Socket, M12, Rear mounting, M15 x 1
+ 
+ 
+09/11/2020   Page 7 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Accessories
+Housing screw connection - SACC-BP-F-M12/M15-6-THR SCO - 1414020
+Housing screw connection, Socket, M12-SPEEDCON, Rear mounting, M15 x 1
+ 
+ 
+Housing screw connection - SACC-BP-F-M12/M15-7-THR SCO - 1414005
+Housing screw connection, Socket, M12-SPEEDCON, Rear mounting, M15 x 1
+ 
+ 
+Housing screw connection - SACC-BP-F-M12/THR-1,0/1,8-9TIP - 1419630
+M12 threaded sleeve with tolerance-compensating function, for straight, THR solderable M12 socket contact inserts.
+Suitable for 1.0 mm ... 1.8 mm thick front plates.
+ 
+ 
+Housing screw connection - SACC-BP-F-M12/THR-1,7/2,5-9TIP - 1419631
+M12 threaded sleeve with tolerance-compensating function, for straight, THR solderable M12 socket contact inserts.
+Suitable for 1.7 mm ... 2.5 mm thick front plates.
+ 
+ 
+Housing screw connection - SACC-BP-F-M12/THR-2,4/3,2-9TIP - 1419633
+M12 threaded sleeve with tolerance-compensating function, for straight, THR solderable M12 socket contact inserts.
+Suitable for 2.4 mm ... 3.2 mm thick front plates.
+ 
+ 
+09/11/2020   Page 8 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Accessories
+Housing screw connection - SACC-BP-F-M12/THR-3,1/3,9-9TIP - 1419634
+M12 threaded sleeve with tolerance-compensating function, for straight, THR solderable M12 socket contact inserts.
+Suitable for 3.1 mm ... 3.9 mm thick front plates.
+ 
+ 
+Housing screw connection - SACC-M12 NUT PRESS - 1437889
+Housing screw connection for two-piece M12 connectors for the reflow soldering process.
+ 
+ 
+Housing screw connection - SACC-DSIV-M12-NUT-9 THR - 1417989
+M12 female connector, front mounting THR with M14 screw fastening
+ 
+ 
+Housing screw connection - SACC-BP-F-M12-THR PP - 1027662
+Housing screw connection, Socket, M12-Push-Pull, Rear mounting, M16, THR- und Wellenlötkontakte
+ 
+ 
+Housing screw connection - SACC-FP-F-M12-THR PP - 1027678
+Housing screw connection, Socket, M12-Push-Pull, Front mounting, M14 x 1, THR- und Wellenlötkontakte
+ 
+ 
+Plug for cable screw gland
+09/11/2020   Page 9 / 10
+
+https://www.phoenixcontact.com/pi/products/1441970
+Flush-type connector - SACC-CI-M12FS-12CON-L180 THR - 1441970
+Accessories
+Screw plug - PROT-M12 - 1680539
+An M12 screw plug for the unoccupied M12 sockets of the sensor/actuator cable, boxes and flush-type connectors
+ 
+ 
+Screw plug - PROT-M12 SH - 1503302
+An M12 screw plug for the unoccupied M12 sockets of the shielded sensor/actuator cable, boxes and flush-type
+connectors
+ 
+ 
+Screw plug - PROT-M12 FB - 1555538
+M12 high-grade steel screw plug, for unoccupied M12 sockets of the sensor/actuator cables, boxes and flush-type
+connectors for the food industry
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 10 / 10
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1441970

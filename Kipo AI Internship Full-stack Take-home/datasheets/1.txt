@@ -1,0 +1,315 @@
+https://www.phoenixcontact.com/pi/products/1404642
+Power connectors - SACC-M12FSS-3PECON-PG11-M - 1404642
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Power connectors, Power, 4-position, Socket straight M12, Coding: S, Screw connection, knurl material: Zinc
+die-cast, nickel-plated, cable gland Pg11, external cable diameter 8 mm ... 10 mm, for AC current up to 12
+A/630 V
+Your advantages
+ Safe use in the field, thanks to a high degree of protection
+ Flexible: connectors for on-site assembly
+ Screw connection: proven connection technology for a large selection of different conductors
+ High-performance: AC connectors for up to 12 A and 630 V AC
+ Protection against incorrect connection using special S-coding
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4046356707732
+Technical data
+Dimensions
+Wrench size, union nut
+19 mm
+Diameter housing
+20 mm
+Length
+60.4 mm
+External cable diameter
+8 mm ... 10 mm
+Stripping length of the sheath
+20 mm
+Stripping length of the individual wire
+5 mm
+Ambient conditions
+Ambient temperature (operation)
+-40 °C ... 85 °C (Plug / socket)
+Degree of protection
+IP67
+General
+09/11/2020   Page 1 / 7
+
+https://www.phoenixcontact.com/pi/products/1404642
+Power connectors - SACC-M12FSS-3PECON-PG11-M - 1404642
+Technical data
+General
+Note
+Strip 21 mm off the cable sheath, strip 6 mm off the conductor insulation,
+crimp the ferrule, then shorten this to 5 mm. Conductor length with
+shortened ferrule: 20 mm. Connect conductors and tighten the mounting
+screws with 0.2 Nm.
+NOTE: Observe the permissible bending radii when laying conductors,
+since the degree of protection may be put in jeopardy if the bending
+forces are too high. Alleviate mechanical loads upstream of the
+connector, e.g. by using cable ties.
+Rated current at 40°C
+12 A (when using 1.5 mm² conductors)
+12 A (at 40 °C)
+Rated voltage
+630 V AC
+Number of positions
+4
+Color handle area
+black
+Insulation resistance
+> 10 GΩ
+Coding
+S power
+Standards/regulations
+M12 connector IEC 61076-2-111
+Signal type/category
+Power
+Status display
+No
+Overvoltage category
+III
+Degree of pollution
+3
+Connection method
+Screw connection
+Conductor cross section
+0.75 mm² ... 1.5 mm² (without ferrule)
+0.75 mm² ... 1.5 mm² (with ferrule)
+0.75 mm² ... 2.5 mm² (solid)
+Conductor cross section AWG
+18 ... 14 (without ferrule)
+18 ... 16 (with ferrule)
+Insertion/withdrawal cycles
+≥ 100
+Torque
+0.4 Nm (M12 knurl)
+1.5 Nm ... 2 Nm (Pressure screw with sleeve housing)
+0.4 Nm (Screw plug insert with sleeve housing as far it will go)
+0.2 Nm (Screw terminal blocks)
+Assembly instructions
+The wires can be connected both with ferrules and without ferrules
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PA
+Material of grip body
+PA
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+Viton (M12 socket)
+NBR (Cable clamping)
+Standards and Regulations
+09/11/2020   Page 2 / 7
+
+https://www.phoenixcontact.com/pi/products/1404642
+Power connectors - SACC-M12FSS-3PECON-PG11-M - 1404642
+Technical data
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-111
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+Schematic diagram
+Pin assignment of M12 socket, 4-pos., S-coded, socket side view
+09/11/2020   Page 3 / 7
+
+https://www.phoenixcontact.com/pi/products/1404642
+Power connectors - SACC-M12FSS-3PECON-PG11-M - 1404642
+Dimensional drawing
+M12 x 1 socket, straight
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27260700
+eCl@ss 4.1
+27260700
+eCl@ss 5.0
+27260700
+eCl@ss 5.1
+27260700
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440104
+eCl@ss 8.0
+27440104
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 2.0
+EC001121
+ETIM 3.0
+EC002062
+ETIM 4.0
+EC002062
+ETIM 5.0
+EC002062
+ETIM 6.0
+EC002062
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+09/11/2020   Page 4 / 7
+
+https://www.phoenixcontact.com/pi/products/1404642
+Power connectors - SACC-M12FSS-3PECON-PG11-M - 1404642
+Classifications
+UNSPSC
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / cUL Recognized / EAC / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+600 V
+Nominal current IN
+12 A
+mm²/AWG/kcmil
+16
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+cUL Recognized 
+
+ 
+ 
+Nominal voltage UN
+600 V
+Nominal current IN
+12 A
+mm²/AWG/kcmil
+16
+ 
+ RU C-
+DE.AI30.B.01102
+EAC 
+
+ 
+ RU C-
+DE.BL08.B.00511
+EAC 
+
+09/11/2020   Page 5 / 7
+
+https://www.phoenixcontact.com/pi/products/1404642
+Power connectors - SACC-M12FSS-3PECON-PG11-M - 1404642
+Approvals
+ 
+ 
+cULus Recognized 
+
+Accessories
+Accessories
+Cable end sleeve
+Ferrule - AI 1,5 - 6 BK - 3200755
+Ferrule, sleeve length: 6 mm, length: 12 mm, color: black
+ 
+ 
+Crimping tool
+Crimping pliers - CRIMPFOX 6H - 1212046
+Crimping pliers, for ferrules without insulating collar according to DIN 46228 Part 1 and ferrules with insulating collar
+according to DIN 46228 Part 4, 0.14 mm² ... 6 mm², unlockable pressure lock, lateral entry
+ 
+ 
+Plug for cable screw gland
+Screw plug - PROT-M12 MS-PA-CHAIN - 1430899
+M12 sealing cap with fixing band, for sensor cables, for free M12 sockets
+ 
+ 
+Screwdriver tools
+Adapter insert - TSD-M SAC-BIT ADAPTER - 1212600
+Adapter bit for TSD-M...torque tools, E6.3-1/4" drive with 4 mm hexagon to accommodate SAC bits
+ 
+ 
+09/11/2020   Page 6 / 7
+
+https://www.phoenixcontact.com/pi/products/1404642
+Power connectors - SACC-M12FSS-3PECON-PG11-M - 1404642
+Accessories
+Tool - SACC BIT M12-D20 - 1208445
+Nut for assembling M12 connectors for assembly with a knurl diameter of 20 mm, for 4 mm hexagonal drive
+ 
+ 
+Stripping tool
+Stripping tool - WIREFOX 6SC - 1212158
+Stripping tool, for cables and conductors (especially for cables protected against short circuits and ground leakages)
+1.5 - 6 mm², self-adjusting, stripping length of up to 18 mm, cutting capacity of up to 10 mm² stranded/1.5 mm² solid,
+replaceable stripping blade
+ 
+ 
+Torque tool
+Torque screwdriver - TSD 04 SAC - 1208429
+Torque screwdriver, with preset torque of 0.4 Nm and 4 mm hexagonal drive for M12 connectors
+ 
+ 
+Torque screwdriver - TSD-M 1,2NM - 1212224
+Torque screw driver, accuracy as per EN ISO 6789 standard, adjustable from 0.3 ‑ 1.2 Nm
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 7 / 7
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1404642

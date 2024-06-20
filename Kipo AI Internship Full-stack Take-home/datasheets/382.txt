@@ -1,0 +1,277 @@
+https://www.phoenixcontact.com/pi/products/1414586
+Data connector - SACC-FSX-8QO SH ETH SCO - 1414586
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Data connector, Ethernet CAT6A (10 Gbps), 8-position, halogen-free, shielded, Socket straight M12
+SPEEDCON, Coding: X, Insulation displacement connection, knurl material: Zinc die-cast, nickel-plated,
+external cable diameter 5 mm ... 9.7 mm
+Your advantages
+ Safe use in the field, thanks to a high degree of protection
+ Flexible: connectors for on-site assembly
+ Insulation displacement connection: innovative and time-saving assembly without stripping the single wire
+ Save time, thanks to installation with SPEEDCON fast locking system
+ Reliable signal transmission - 360° shielding in environments with electromagnetic interference
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4055626029238
+Technical data
+Dimensions
+Wrench size, union nut
+15 mm
+Diameter housing
+19 mm
+Length
+57 mm
+External cable diameter
+5 mm ... 9.7 mm
+Stripping length of the sheath
+≥ 80 mm
+Ambient conditions
+Ambient temperature (operation)
+-40 °C ... 85 °C (Plug / socket)
+Ambient temperature (assembly)
+-5 °C ... 50 °C
+Degree of protection
+IP65
+IP67
+General
+09/11/2020   Page 1 / 7
+
+https://www.phoenixcontact.com/pi/products/1414586
+Data connector - SACC-FSX-8QO SH ETH SCO - 1414586
+Technical data
+General
+Note
+NOTE: Observe the permissible bending radii when laying conductors,
+since the degree of protection may be put in jeopardy if the bending
+forces are too high. Alleviate mechanical loads upstream of the
+connector, e.g. by using cable ties.
+Rated current at 40°C
+0.5 A
+Rated voltage
+48 V AC
+60 V DC
+Number of positions
+8
+Insulation resistance
+≥ 100 MΩ
+Coding
+X - data
+Standards/regulations
+M12 connector Based on IEC 61076-2-109
+Shock, vibration EN 50155:2001
+Signal type/category
+Ethernet CAT6A (IEC 11801), 10 Gbps
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Insulation displacement connection
+Conductor cross section
+0.14 mm² ... 0.34 mm² (flexible)
+0.14 mm² ... 0.34 mm² (solid)
+Conductor cross section AWG
+26 ... 22 (flexible)
+26 ... 22 (solid)
+Wire diameter including insulation
+0.75 mm ... 2 mm
+Frequency of connections between conductors of the same cross
+section
+10
+Wire insulation material
+PVC / PE / PP / rubber
+Structure of individual litz in acc. with VDE 0295 / smallest wire diameter Class 2-6
+Insertion/withdrawal cycles
+≥ 100
+Torque
+M12 knurl
+5 Nm (Pressure nut)
+Transmission characteristics (category)
+CAT6A
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuSn
+Contact surface material
+Ni/Au
+Contact carrier material
+PA 6.6
+Material of grip body
+Zinc die-cast, nickel-plated
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+NBR
+Standards/regulations
+PA 6.6: Fire protection in rail vehicles - requirement sets R22, R23, R24,
+and R26 acc. to DIN EN 45545-2 (Risk level HL1 - HL3)
+Standards and Regulations
+09/11/2020   Page 2 / 7
+
+https://www.phoenixcontact.com/pi/products/1414586
+Data connector - SACC-FSX-8QO SH ETH SCO - 1414586
+Technical data
+Standards and Regulations
+Standards/specifications
+M12 connector Based on IEC 61076-2-109
+Shock, vibration EN 50155:2001
+Flammability rating according to UL 94
+V0
+Standards/regulations
+acc. to DIN EN 45545-2
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+Drawings
+Functional drawing
+Dimensional drawing
+M12 x 1 socket, straight, shielded
+09/11/2020   Page 3 / 7
+
+https://www.phoenixcontact.com/pi/products/1414586
+Data connector - SACC-FSX-8QO SH ETH SCO - 1414586
+Schematic diagram
+M12 socket pin assignment, 8-pos, view of socket side
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440104
+eCl@ss 8.0
+27440104
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 5.0
+EC002062
+09/11/2020   Page 4 / 7
+
+https://www.phoenixcontact.com/pi/products/1414586
+Data connector - SACC-FSX-8QO SH ETH SCO - 1414586
+Classifications
+ETIM
+ETIM 6.0
+EC002062
+UNSPSC
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+EAC / EAC
+Ex Approvals
+Approval details
+ 
+ EAC-Zulassung
+EAC 
+
+ 
+ RU C-
+DE.BL08.B.00511
+EAC 
+
+Accessories
+Accessories
+Electronics pliers
+Diagonal cutter - MICROFOX-SB - 1212489
+Electronic diagonal cutter, round head, without chamfer, with opening spring, mirror-polished and oiled, 2-component
+grip, cutting capacity: soft 0.2 - 2.0 mm; medium hard 1.2 mm; hard 0.5 mm diameter
+ 
+ 
+Plug for cable screw gland
+09/11/2020   Page 5 / 7
+
+https://www.phoenixcontact.com/pi/products/1414586
+Data connector - SACC-FSX-8QO SH ETH SCO - 1414586
+Accessories
+Screw plug - PROT-M12 MS-PA-CHAIN - 1430899
+M12 sealing cap with fixing band, for sensor cables, for free M12 sockets
+ 
+ 
+Screwdriver tools
+Tool - SACC BIT M12-D20 - 1208445
+Nut for assembling M12 connectors for assembly with a knurl diameter of 20 mm, for 4 mm hexagonal drive
+ 
+ 
+Adapter insert - TSD-M SAC-BIT ADAPTER - 1212600
+Adapter bit for TSD-M...torque tools, E6.3-1/4" drive with 4 mm hexagon to accommodate SAC bits
+ 
+ 
+Stripping tool
+Stripping tool - WIREFOX-D 40 - 1212161
+Stripping tool, for stripping cables of 4.5 mm ‑ 40 mm‑Ø, insulation thickness of up to 4.5 mm, pivoting blade for
+round, lengthwise, and spiral cuts
+ 
+ 
+Torque tool
+Torque screwdriver - TSD 04 SAC - 1208429
+Torque screwdriver, with preset torque of 0.4 Nm and 4 mm hexagonal drive for M12 connectors
+ 
+ 
+09/11/2020   Page 6 / 7
+
+https://www.phoenixcontact.com/pi/products/1414586
+Data connector - SACC-FSX-8QO SH ETH SCO - 1414586
+Accessories
+Torque screwdriver - TSD-M 1,2NM - 1212224
+Torque screw driver, accuracy as per EN ISO 6789 standard, adjustable from 0.3 ‑ 1.2 Nm
+ 
+ 
+Shielding foil - VS-08-RJ45-FOLIEN-SET - 1417184
+Shielding foil set, 25 pieces, replacement for RJ45 and M12 Quickon connector
+ 
+ 
+Stripping tool - VS-CABLE-STRIP-VARIO - 1657407
+Stripping tool, for the multi-level stripping of shielded cables
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 7 / 7
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1414586

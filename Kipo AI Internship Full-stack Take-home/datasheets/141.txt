@@ -1,0 +1,86 @@
+BFG.1K.100.NAS
+www.lemo.com
+SUMMARY
+# Wires
+Image is for illustrative purpose only
+Series
+1K
+Download
+No contacts / Accessory
+Termination type
+Request a quote
+IP rating
+68
+Catalog
+AWG wire size
+0.00 - 0.00
+Cable Ø
+0.00 - 0.00 mm
+Status
+active
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+BFG*: Cap for plug (G key)
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (nickel plated [SAE AMS QQ N 290]) shell, collet nut, latch sleeve and mid pieces
+Weight
+11.03 g
+Performance
+Configuration
+Insulator
+Rated Current
+Others
+Endurance (Shell): 5000 mating cycles 
+Temp (min / max): -50°C / +135°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Climatical Category: 50/175/21 
+Shielding (min): 95 dB (10 MHz) 
+Shielding (min): 80 dB (1 GHz) 
+Salt Spray Corrosion: >144 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+B
+L
+N
+mm.
+16
+6
+15.5
+85
+in.
+0,63
+0,24
+0,61
+3,35
+RECOMMENDED BY LEMO
+Tools
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  BFG.1K.100.NAS

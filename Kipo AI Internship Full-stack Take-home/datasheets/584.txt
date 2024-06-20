@@ -1,0 +1,119 @@
+BrightConnX™ Rugged MRD Series Circular Locking 
+Connectors
+IP67 HARSH INDUSTRIAL 
+CONNECTORS
+BrightConnX™ MRD series connectors are available in 2, 3, 
+4, 5, 6, 7, 8, and 9 position form factors. Housing options 
+include all plastic constructions as well as metal locking 
+bodies for greater durability. Locking options include 
+1/3 turn bayonet locking as well as quick-release metal 
+latches. Panel mount and cable termination options are 
+available with or without finger-proof protection.
+Other than connectors, we also provide standard Harsh 
+BrightConnX™ MRD Cable Assembly (2, 3, 4 pin for now), 
+including double end termination and pigtail version.
+TARGET MARKETS
+ § IP67 in the mated conditions water/dust proof
+ § Power or signal connections
+ § Available in 2, 3, 4, 5, 6, 7, 8 and 9 position form factors
+ § Circular shape
+ § Locking option
+FEATURES
+BENEFITS
+ § Sealed connectors
+ § IP67 in the mated conditions water/dust proof
+ § Available in 2, 3, 4, 5, 6, 7, 8 and 9 positions
+ § Design flexibility
+ §  Up to 10A current rating
+ §  Supports high power applications
+ § Circular connector
+ § Supports various industrial applications
+ § Locking option
+ § Secured connection and avoids data/power interruption
+ § RoHS compliant
+ § Meets environmental, health and safety requirements
+www.amphenol-cs.com
+
+BrightConnX™ Rugged MRD Series Circular Locking Connectors
+TECHNICAL INFORMATION
+MATERIAL
+APPROVALS & CERTIFICATION
+�
+§ Contacts: Copper Alloy with Gold flash over 50μin (1.27μm)   
+�
+§ RoHS
+min. Nickel
+�
+§ REACH/SVHC
+�
+§ Housing: Engineering thermoplastic, UL94V-0 rated, Black
+PACKAGING
+�
+§ Metal Shell: Die cast Zinc Alloy, Chrome plated
+�
+§ Box
+ELECTRICAL PERFORMANCE
+TARGET MARKETS/APPLICATIONS
+�
+§ Current Rating: 5A per contact for 1mm contacts,                    
+10A per contact for 1.5mm contact size
+�
+§ Voltage Rating: 300VAC for 1.0mm contacts,                             
+500VAC for 1.5mm contact size
+Power Generation
+Smart Grid
+LED Lighting 
+�
+§ Wire Gauge: 
+�
+§ Up to #18AWG for 1.0mm contact
+CT
+MRI
+Ultrasonic
+�
+§ Up to 16AWG for 1.5mm contact size
+Robotics
+MECHANICAL PERFORMANCE
+�
+§ Durability: 500 mating cycles
+ENVIRONMENTAL
+�
+§ RoHS: This product is compatible according to the European 
+Union Directive 2011/65/EU
+�
+§ Operating Temperature Range: -55°C to +105°C
+�
+§ Salt Spray: Per EIA364-26, 250 Hrs
+�
+§ Temperature Rise: 30°C
+PART NUMBERS
+Description
+Part Numbers
+MRD series male 2 position socket connector with metal latch lock
+MRD-BN02-M17-000
+MRD series female 2 position pin connector with metal latch lock
+MRD-BG02-M17-000
+MRD series panel mount, female 2 position pin connector with metal latch lock
+MRD-BG02-L13-000
+MRD series male 3 position socket connector with metal latch lock
+MRD-BN03-M17-000
+MRD series female 3 position pin connector with metal latch lock
+MRD-BG03-M17-000
+MRD series panel mount, female 3 position pin connector with metal latch lock
+MRD-BG03-L13-000
+MRD series male 4 position socket connector with metal latch lock
+MRD-BN04-M17-000
+MRD series female 4 position pin connector with metal latch lock
+MRD-BG04-M17-000
+MRD series panel mount, female 4 position pin connector with metal latch lock
+MRD-BG04-L13-000
+MRD series female 3 position socket connector with plastic latch lock
+MRD-AH03-M15-000
+MRD series panel mount, female 3 position socket connector with plastic latch lock
+MRD-AH03-L13-000
+MRD series male 3 position pin connector with plastic latch lock
+MRD-AP03-M15-000
+ACPABCXMRD0523EA4
+Disclaimer
+Please note that the above information is subject to change without notice.
+www.amphenol-cs.com

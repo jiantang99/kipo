@@ -1,0 +1,1305 @@
+QUADRAX CONTACT
+Ethernet & High Speed Networks
+MIL-DTL-38999, ARINC 600, EN2997, EN3646
+
+
+Quadrax Technology
+Presentation
+Today’s technology for Aeronautic and Military equipment is more and more complex, requiring the management 
+of an increasing flow of information at greater speeds.
+In response to this need, SOURIAU offers a wide range of electrical and fiber optic solutions for high speed networks 
+in harsh environments. These solutions can handle data speeds from several Mbit/s up to several Gbit/s using a wide 
+array of communication protocols (Ethernet, ATM...).
+Quadrax is the best electrical solution for: High speed electrical network applications, excellent network 
+performances, crosstalk, return loss, high density of links, harsh environment use...
+Typical network applications are 100Mbit/s Ethernet, Gigabit Ethernet, IEEE 1394, Fibre Channel, ...
+Contents
+EN2997 / 853 Series  ................................................ 19
+Overview
+EN3646 / 8525 Series  .............................................. 22
+Typical applications .................................................. 06
+ARINC 600 Series  .................................................... 23
+Features & Benefits .................................................. 07
+Description & Technical features .............................. 08
+Range Extension
+Technology overview ................................................ 09
+Fiber optic  ELIO® contacts  ..................................... 26
+BMA coaxial contacts  .............................................. 26
+Product Series
+Power contacts  ........................................................ 27
+Quadrax contact  ...................................................... 12
+High power contacts  ............................................... 27
+MIL-DTL-38999 Series I / 8LT Series  ........................ 13
+Power contacts for PCB  ........................................... 28
+MIL-DTL-38999 Series III / EN3645 / 8D Series  ...... 14
+230V connectors  ...................................................... 28
+3
+
+QUADRAX CONTACT
+© 2019 SOURIAU - SOURIAU is a registered trademark 
+
+Quadrax Contact up to Cat6
+Overview
+Typical applications  ................................................................................................  
+6
+Features & Benefits   ................................................................................................  
+7
+Description & Technical features  ............................................................................  
+8
+Technology overview  ..............................................................................................  
+9
+
+Quadrax Technology  |  Overview
+Typical applications
+© StudioSmart / Shutterstock
+© Momente / Shutterstock
+Engines
+Aircraft Cabin / Cockpit
+© Mario Beauregard / Fotolia
+© Frank Peters / Shutterstock
+IFE / Lightning
+Landing Gear
+© JPS / Fotolia
+Radio / Network Systems
+6 
+
+Quadrax Technology  |  Overview
+Features & Benefits
+HIGH 
+SPEED
+An Optimized Electrical Contact
+Size 8 contact with 4 strategically spaced size 24 inner contacts.
+One Quadrax contact = Two twinax contacts.
+One contact provides a full duplex 100 Mbps ethernet link.
+A Versatile Technology 
+Fit the major harsh environment MilAero connectors:
+MIL-DTL-38999 - EN3645, ARINC 600, EN2997, EN3646.
+COMPA-
+TIBILITY
+QUALIFIED 
+A Standardized Technology 
+2 designs for 2 standards:
+- Protruding alignment key: ABS qualified / ARINC 664 compliant.
+- In-line alignment key: EN3155 qualified.
+Superior Signal Integrity Performance 
+Innovative insert design to enable radial insertion of contacts to 
+improve cross talk performance.
+SMART 
+DESIGN
+7
+
+Quadrax Technology  |  Quadrax Contact
+Description
+• Front and rear removable versions available
+• Crimp and PC tail versions available
+• Standard #8 cavity insertion and removal tools
+• Ground connection of the cable braid to the 
+   shell possible through the external shell of the 
+   #8 contact
+• Compatible with star quad cable
+• Characteristic impedance of 100 Ohms
+Technical features
+Mechanical
+Electrical
+2 designs for 2 Standards
+• Protuding alignment key:
+     for ARINC 600, EN2997, EN3646 
+• Operating temperature:
+     -65°C up to 200°C
+     Stainless steel (class K, E, Y and YE)
+• ISO/IEC 11801 category 6 compliant:
+     Next (cross talk): >46 db at 250 MHz
+     Return loss: >16 db at 250 MHz
+     Shield effectiveness: >36 db at 80 MHz
+• Inner contact:
+     Copper alloy
+• Contact to shell continuity:
+     <10 mΩ (ARINC 600)
+ARINC 
+664 
+COMPLIANT
+ABS
+QUALIFIED
+• Contact body:
+     Copper alloy
+• Contact resistance (low level):
+     Initial: 15 mΩ
+     After tests: 30 mΩ
+• Insulator:
+     Thermoplastic resin
+• Dielectric withstanding voltage:
+• In-line alignment key:
+     for MIL-DTL-38999
+Altitude
+Service I
+• Contact plating:
+     Gold over nickel
+Sea level
+500 Vrms
+21 000 m
+125 Vrms
+EN3155
+QUALIFIED
+• Insulation resistance:
+     At ambient temperature: >5000 mΩ
+     At high temperature: >1000 mΩ
+• #24 contact cable size acceptance:
+     AWG 22 to AWG 26
+8 
+
+Quadrax Technology  |  Quadrax Contact
+ An optimized high speed electrical contact
+Size 8 outer contact with 4 strategically spaced size 24 inner contacts forming two 100Ω or 150Ω matched impedance 
+pairs with excellent 360° shielding.
+=
+Equivalent to two twinax contacts with:
+     - better performance (reduced cross talk)
+     - shorter cabling time
+     - compact profile
+     - lighter weight
+One contact provides a full duplex 100 Mbps ethernet link, and fulfills the ISO/IEC 11801 category 6 requirements.
+ A versatile technology
+Fit the major harsh environment MilAero connectors:
+MIL-DTL-38999/EN3645
+ARINC 600
+EN2997
+EN3646
+Ground connection of the cable braid to the connector shell on:
+     - All ARINC 600 layouts
+     - MIL-DTL-38999 Series I & III - EN3645
+     - EN2997
+     - EN3646
+ Superior signal integrity performance
+Minimum untwisting of the cable
+= improved cross talk performance.
+Innovative insert design enabling radial insertion of inner 
+crimped contacts.
+BAD
+GOOD
+Radial insertion of contacts in insert enabling minimum 
+untwisting of the cable for wiring operation.
+9
+
+QUADRAX CONTACT
+© 2019 SOURIAU - SOURIAU is a registered trademark
+
+Quadrax Contact up to Cat6
+Product Series
+Quadrax contact: ordering information, tooling & accessories  ..............................  
+12
+MIL-DTL-38999 Series I / 8LT Series  .......................................................................  
+13
+MIL-DTL-38999 Series III / EN3645 / 8D Series  .....................................................  
+14
+EN2997 / 853 Series  ...............................................................................................  
+19
+EN3646 / 8525 Series  .............................................................................................  
+22
+ARINC 600 Series  ...................................................................................................  
+23
+
+Quadrax Technology  |  Quadrax Contact
+38999 Series I & III contacts - In-line alignment key
+All crimp contacts are sealed thru a sealing boot. Crimp contacts ordered separately are delivered with sealing boot.
+Contact type
+SOURIAU
+part number
+Cross norm
+Impedance
+Release
+T° Max
+Pin
+ETH1-1237A
+-
+100Ω
+Rear
+125°C
+ETH1-1501A
+-
+150Ω
+Rear
+125°C
+PC tail
+L= 4±0.1mm
+Socket
+ETH1-1238A
+-
+100Ω
+Rear
+125°C
+ETH1-1502A
+-
+150Ω
+Rear
+125°C
+Pin
+ETH1-1345A
+EN 3155-074
+100Ω
+Rear
+150°C
+ETH1-1503A
+-
+150Ω
+Rear
+150°C
+Crimp
+Socket
+ETH1-1346A
+EN 3155-075
+100Ω
+Rear
+150°C
+ETH1-1504A
+-
+150Ω
+Rear
+150°C
+ARINC 600, EN2997, EN3646 contacts - Protruding alignment key
+All crimp contacts are unsealed. Sealing boots are available. All contacts delivered without boot.
+Contact type
+SOURIAU
+part number
+ABS
+part number
+Impedance
+Release
+T° Max
+ARINC 600
+EN2997
+EN3646
+ETH1-1110A
+-
+100Ω
+Front
+125°C
+PC tail 
+L= 6.35 mm
+Pin
+Tinned PC tail 
+L= 6.35 mm
+ETH1-1123A
+-
+100Ω
+Front
+125°C
+PC tail 
+L= 4.45 mm
+ETH1-1137A
+-
+100Ω
+Rear
+200°C
+Pin
+ETH1-1100A
+ABS0973 M08A
+100Ω
+Rear
+125°C
+ETH1-1126A
+-
+100Ω
+Rear
+200°C
+Crimp
+Socket
+ETH1-1101A
+ABS0974 F08A
+100Ω
+Rear
+125°C
+ETH1-1127A
+-
+100Ω
+Rear
+200°C
+Recommanded cable
+Sealing boot
+Connector
+T° Max
+# Cable
+SOURIAU
+part number
+ABS
+part number
+Impedance
+Reference
+Cable
+type
+Number
+of pairs
+100Ω
+ABS 1503 KD24
+Star quad
+2
+200°C
+8
+8533-8236
+ABS0992B01
+EN2997
+260°C
+8533-8307
+10/12
+8533-8287
+ABS0992B02
+ARINC 600
+200°C
+Quadrax cable
+8660-6053
+Quadrax tools
+• Insertion/extraction tool, standard size 8 cavity tools:
+   8660-197 (metallic) or M81969/14-06 (plastic)
+• Outer body: M22520/5-01 crimping 
+   tool and M22520/5-45 die set
+• Inner contacts: M22520/2-01
+   crimping tool and K709 locator
+Metallic tool
+Plastic tool
+die set
+locator
+12 
+
+Quadrax Technology  |  MIL-DTL-38999 Series I
+Description
+• High contact density
+• MIL-DTL-38999 Series I: Bayonet coupling
+• Numerous layouts
+• 100% scoop proof
+• RFI - EMI shielding and shell to shell continuity
+• Nickel or cadmium plated
+Contact layout
+9*
+11
+17
+21
+19
+80
+81
+82
+05
+81
+84
+78
+84
+80
+2#12
+2#8 Quadrax
+32#22D 
+1#8 Quadrax
+2#8 
+Quadrax
+1#8 
+Quadrax
+1#8 
+Quadrax
+14#22D
+4#8 Quadrax
+17#22D
+2#8 Quadrax
+18 #20
+2#8 Quadrax
+4#8 
+Quadrax
+23
+25
+86
+80
+81
+82
+86
+87
+88
+8#8 Quadrax
+6#8 
+Quadrax
+97#22D  
+2#8 Quadrax
+36 #22D
+6 #8 Quadrax
+10#20 - 4#12 
+13#16 
+ 3#8 Quadrax
+22#22D - 3#20 
+11#16 - 2#12 
+ 3#8 Quadrax
+40#20 
+4#16 
+ 2#8 Quadrax
+Ordering information & Dimensions
+Please consult ‘‘8LT Series - MIL-DTL-38999 Series I’’ catalog.
+13
+
+Quadrax Technology  |  MIL-DTL-38999 Series III
+Description
+• Front and rear removable versions available
+• Twinax: crimp version available
+• Quadrax: crimp and PC tail versions available
+• Standard #8 cavity insertion and removal tools
+• Ground connection of the cable braid to the 
+   shell possible through the external shell of the 
+   #8 contact
+• Compatible with star quad cable
+• Characteristic impedance of 100 Ohms
+• Mixed layouts not grounded
+Technical features
+Next (dB)
+Mechanical
+Electrical
+• Operating temperature:
+     -65°C up to 150°C
+• ISO/IEC 11801 category 6 compliant:
+   . Next (cross talk): > 46 db at 250 MHz
+   . Return loss: > 16 db at 250 MHz
+   . Shield effectiveness: > 36 db at 80 MHz
+• Inner contact:
+     copper alloy
+• Contact to shell continuity:
+    < 10 mΩ
+• Contact body:
+     copper alloy
+Frequency (MHz)
+• Contact insulator:
+     thermoplastic resin
+• Contact resistance (low level):
+   . Initial 15 mΩ
+   . After tests 30 mΩ
+Return loss (dB)
+• Dielectric withstanding voltage:
+• Contact plating:
+     gold over nickel
+Altitude
+Service I
+sea level
+500 Vrms
+21 000 m
+125 Vrms
+• Shell plating:
+   . Aluminum shell:
+ 
+Cadmium olive drab (W)
+ 
+Nickel (F)
+ 
+Black zinc nickel (Z)
+• Insulation resistance:
+   . At ambient temperature: > 5000 MΩ
+   . At high temperature: > 1000 MΩ
+Frequency (MHz)
+ 
+Green zinc cobalt (ZC)
+   . Composite shell:
+ 
+Cadmium olive drab (J)
+ 
+Nickel (M)
+• #24 contact cable size acceptance:
+    AWG 22 to AWG 26
+Shield effectiveness (dB)
+ 
+Without plating (X)
+   . Stainless steel shell:
+ 
+Passivated (K)
+ 
+Nickel (S)
+   . Titanium shell:
+ 
+Without plating (TT)
+ 
+Nickel (TF)
+   . Bronze shell:
+ 
+Without plating
+Frequency (MHz)
+14 
+
+Quadrax Technology  |  MIL-DTL-38999 Series III
+Contact layouts
+Contact #22D
+Contact #12
+Contact #20
+Contact #8, Twinax or Quadrax
+Contact #16
+09
+11
+17
+05*
+81
+80
+81
+82
+1#8
+1#8
+2#8
+2#12
+2#8
+38#22D
+1#8
+19
+21
+23
+84
+78
+80
+84
+86
+4#8
+6#8
+14#22D
+4#8
+17#22D
+2#8
+18#20
+2#8
+25
+80
+81
+82
+86
+87
+88
+8#8
+10#20, 13#16
+4#12, 3#8
+97#22D
+2#8
+40#20, 4#16
+2#8
+36#22D
+6#8
+22#22D 
+3#20, 11#16
+2#12, 3#8
+* 09-05 layout with twinax or quadrax contact:
+   - grounded version only
+   - plug with female contact & receptacle with male contact only
+Note: Mixed layouts not grounded.
+15
+
+Quadrax Technology  |  MIL-DTL-38999 Series III
+Ordering information
+Aluminum, Composite, Stainless steel & Titanium connector
+Basic Series
+8D
+0
+Q
+11
+W
+81
+P
+N
+284
+L
+Shell style:
+     0: Square flange receptacle
+     5: Plug
+     7: Jam nut receptacle
+Type:
+     C: Quadrax PC tail contacts*
+     Q: Quadrax crimp contacts
+Shell size: 9 - 11 - 17 - 19 - 21 - 23 - 25 (see next page)
+Composite shell:
+     J: Olive green cadmium
+     M: Nickel
+     X: Without plating
+Titanium shell:
+     TF: Nickel
+     TT: Without plating
+Plating:
+     Aluminum shell:
+          W: Olive green cadmium
+          F: Nickel
+          Z: Black zinc nickel
+          ZC: Green zinc cobalt
+     Stainless steel shell:
+          K: Passivated
+          S: Nickel
+Contact layout: See previous page
+Contact type:
+     P: Pin
+     S: Socket
+Orientation: N, A, B, C, D & E
+550: Tin plated Quadrax not grounded PCB contact SnPb
+550S: Tin plated Quadrax not grounded PCB contact SAC305
+550E: Tin plated Quadrax not grounded PCB contact Sn pur
+Specification:
+     284: Quadrax grounded PC tail contact (100Ω)*
+     308: Quadrax not grounded PC tail contact (100Ω)
+     384: Quadrax grounded crimp contact (150Ω)*
+     408: Quadrax not grounded crimp contact (150Ω)
+     620: Quadrax grounded crimp contact (100Ω)*
+     621: Quadrax not grounded crimp contact (100Ω)
+L: For P or S contact type only, connectors delivered without contacts, connectors marking P or S plus orientation
+Bronze connector
+Basic Series
+JVS
+C
+00A
+09
+35
+P
+N
+284
+L
+Type:
+     C: Quadrax PC tail contacts*
+     Q: Quadrax crimp contacts
+Shell style:
+     00A: Square flange receptacle
+     16A: Plug
+     07A: Jam nut receptacle
+Shell size: 9 - 11 - 17 - 19 - 21 - 23 - 25 (see next page)
+Contact layout: See previous page
+Contact type:
+     P: Pin
+     S: Socket
+Orientation: N, A, B, C, D & E
+550: Tin plated Quadrax not grounded PCB contact SnPb
+550S: Tin plated Quadrax not grounded PCB contact SAC305
+550E: Tin plated Quadrax not grounded PCB contact Sn pur
+Specification:
+     284: Quadrax grounded PC tail contact (100Ω)*
+     308: Quadrax not grounded PC tail contact (100Ω)
+     384: Quadrax grounded crimp contact (150Ω)*
+     408: Quadrax not grounded crimp contact (150Ω)
+     620: Quadrax grounded crimp contact (100Ω)*
+     621: Quadrax not grounded crimp contact (100Ω)
+L: For P or S contact type only, connectors delivered without contacts, connectors marking P or S plus orientation
+* For PC tail contacts or grounded versions please consult us.
+16 
+
+Quadrax Technology  |  MIL-DTL-38999 Series III
+Dimensions
+Square flange receptacle - Type 0
+C
+B
+A
+PC Tail contacts
+Crimp contacts
+A Max
+B Min
+B Max
+C Max
+Shell
+size
+Aluminum Composite
+Aluminum Composite
+Aluminum Composite
+All
+materials
+Stainless 
+steel,
+Titanium 
+& Bronze
+Stainless 
+steel,
+Titanium 
+& Bronze
+Stainless 
+steel,
+Titanium 
+& Bronze
+11 to 19
+10.72
+11.96
+11.4
+11.5
+12.5
+12
+13.5
+13.5
+14
+29
+21 to 25
+11.54
+12.76
+11.8
+12
+14.5
+12.5
+14
+15.5
+14.5
+30
+Plug - Type 5
+Jam nut receptacle - Type 7
+F
+E
+G
+D
+PC Tail contacts
+Crimp contacts
+Material
+Aluminum, Stainless steel, Titanium & Bronze
+All materials
+Shell size
+11 to 25
+D Max
+E Min
+E Max
+F Max
+Shell size
+11 to 25
+G Max
+9.9
+9.5
+12
+27
+48
+Note: All dimensions are in millimeters (mm)
+17
+
+Quadrax Technology  |  MIL-DTL-38999 Series III
+Quadrax crimp contact
+15.88 Max
+7.69±0.2
+0.79±0.5
+0.79±0.5
+45°
+2
+1
+1
+Ø 7.99±0.04
+2
+15.95 Max
+5 Min
+22.75 Max
+Ø 6.97±0.4
+Ø 5.53±0.02
+Ø 6.97±0.4
+Ø 7.31 Max
+Male contact
+Female contact
+Quadrax PCB contact
+19.85 Max
+15.96±0.5
+14.45±0.5
+7.69±0.2
+14.45±0.5
+0.79±0.5
+45°
+0.79±0.5
+Ø 7.99±0.04
+2
+1
+1
+2
+3.75±0.15
+4.72 Min
+3.75±0.15
+19.8 Max
+Ø 6.97±0.4
+Ø 7.31 Max
+Male contact
+Female contact
+Drill dimensions for PCB mount
+Ø 1.2 Min
+1.41
+45°
+1.41
+Ø 0.75 Min
+Ø 1.2 Min
+Ø 0.75 Min
+2.24
+2.24
+1.41
+1.41
+2.24
+2.24
+45°
+Male contact
+Female contact
+Note: All dimensions are in millimeters (mm)
+18 
+
+Quadrax Technology  |  EN2997 Series
+Description
+• Robust aluminum or stainless steel screw
+   coupling connector.
+• The utmost solution to combine high vibrations 
+   and high temperature.
+• Quadrax contact size 8 to use in size 6 cavity.
+• Standard strain relief backshell or spacer
+  accessory to adapt any specific backshell.
+• Airbus ABS 1340-1343, 1426-1427, 1452
+   qualified.
+• Grounded insert option for perfect shielding.
+• PC tail as well as crimp contacts available.
+Technical features
+Mechanical
+Electrical
+Environmental
+• Insulation resistance:
+   . 5000 MΩ under 500 Vdc.
+• Temperature range:
+   . -60°C +200°C R & K classes.
+• Shell:
+   . nickel plated aluminum (R class),
+   . passivated stainless steel (K class).
+• Grommet and seal:
+   . silicone elastomer.
+• Max current rating per contact:
+   . size 24: 1A
+     (4 size 24 inner contacts in a size 8 outter 
+     contact).
+• Leakage:
+   . as per 2591-312:
+     Method B differential pressure: 100kPa
+     Maximum leakage flow: 16x10-6 m3/h
+• Insulator:
+   . thermoplastic.
+• Contact resistance:
+   . initial < 0.4 mΩ.
+• Salt spray:
+   . 48 hours (R class),
+   . 500 hours (K class).
+• Contact body:
+   . copper alloy.
+• Electrical continuity:
+   . 5mΩ with RFI shielding.
+• Contact plating:
+   . gold over nickel.
+• Shielding:
+   . to 100 MHz at 1 GHz attenuation 65 dB.
+• Fire resistance:
+   . as per EN 2591-318:
+     6 min under a 1100°C flame without
+     electrical perturbation, plus 14 min with 
+     no flame propagation (ES class).
+• Contact retention:
+   . size 8: 130N.
+• Resistance to fluids:
+   . MIL-H 5606 - SKYDROL 500 B4 - LD4 - 
+     JP5 - MIL-L 7870A - MIL-L 23699 -
+     MIL- L 7808 - MIL-C 25769 - MIL-A 8243
+• Endurance:
+   . 500 mating cycles (K class),
+   . 250 mating cycles (R, W & A classes).
+• Vibration & shock:
+   . according to EN2997.
+19
+
+Quadrax Technology  |  EN2997 Series
+Contact layout
+08
+18
+20
+28
+01
+02
+04
+06
+1 Quadrax
+(Grounded only)
+2 Quadrax
+4 Quadrax
+6 Quadrax
+Ordering information
+SOURIAU part numbers
+Basic series
+8533
+0
+R
+S
+20
+04
+P
+N
+G
+L
+Shell type: 
+ 
+     0: Square flange receptacle 
+ 
+     3: Plug with RFI shelding  
+     7: Jam nut receptacle
+Shell class: 
+ 
+     R: Nickel plated aluminum shell (200°C) 
+ 
+     K: Stainless steel shell (200°C)
+S: With 360° teeth
+Shell size:
+     08, 18, 20, 24, 28
+Contact layout:
+     See above
+Contact type:
+     P: Pin
+     S: Socket
+Orientation:
+     N, 6, 7, 8, 9, Y
+Insert class:
+     None: Not grounded
+     G: Grounded - for Quadrax applications only
+Mandatory suffix for shells sizes 18, 20, 24 & 28 :
+     125: With quadrax contact + sealing boot (200°c max)
+     126: With backshell, without contact and sealing boot
+     231: With spacer, without contact and sealing boot (see next page for available layouts)
+     L: Without contact and sealing boot
+Mandatory suffix for layout 08-01 only (200°C, plug with female contact & receptacle with male contact only):
+     165: With quadrax contact + backshell for heatshrink sleeving
+     L165: Without quadrax contact, with backshell for heatshrink sleeving
+Dimensions
+Please consult ‘‘853 Series’’ catalog.
+20 
+
+Quadrax Technology  |  EN2997 Series
+ 
+Strain relief backshell
+C
+D
+B
+A
+Thread
+Holes
+number
+Layout
+Material
+Part number
+Mass
+max (g)
+A±0.1
+B Max
+C±0.12
+D
+Holes 
+number
+Thread
+Class 2B
+Coupling 
+torque N.m
+18-02
+Aluminum
+85338342
+40
+24.90
+29.45
+41.78±1.2
+31.62
+2
+1.0625-18 UNEF
+16
+Stainless steel
+85338343
+75
+20-04
+Aluminum
+85338250
+40
+27.72
+30.12
+41.78±1.2
+33.21
+4
+1.1875-18 UNEF
+20
+Stainless steel
+85338281
+73
+24-04
+Aluminum
+85338223
+53
+33.71
+37.26
+48.95 
+Max
+45
+4
+1.4375-18 UNEF
+26
+Stainless steel
+Consult us
+-
+28-06
+Aluminum
+85338245
+82
+39.7
+44.4
+41.78
+47.49
+6
+1.7500-18 UNS
+29
+Stainless steel
+85338288
+146
+ 
+Spacer
+31.9±1
+ØB
+ØA
+Self locking 
+ring spacer
+Layout
+Stainless steel
+Aluminum
+ØA
+ØB Max
+Part number
+Mass max (g)
+Part number
+Mass max (g)
+20-04
+8533-8388
+88
+8533-8387
+1''3/16-18 UNEF 2A
+40
+24-04
+8533-8390
+115
+8533-8389
+1''7/16-18 UNEF 2A
+45
+Consult us
+28-06
+8533-8392
+140
+8533-8391
+1''3/4-18 UNS
+53
+Note: All dimensions are in millimeters (mm)
+21
+
+Quadrax Technology  |  EN3646 Series
+Description
+• Robust bayonet coupling system withstanding 
+   high vibrations
+• ABS qualified design derived from
+   EN3645/MIL 26482 Series 2
+• Environmental stainless steel version or
+   aluminum shell
+• Smallest aeronautical quadrax on the market
+Contact layout
+08
+01
+1 Quadrax
+Ordering information
+Shell type
+Layout
+SOURIAU part number
+ABS part number
+Plug
+0801
+(8B01)
+8525 16R8B01SNH164L (1)
+ABS 1054 A60801 BN + ABS 1057-08A01
+8525 16R8B01SNH164 (2)
+ABS 1054 A60801 FN + ABS 1057-08A01
+Square flange
+receptacle
+0801
+(8B01)
+8525 10R8B01PNH164L (1)
+ABS 1054 A00801 AN + ABS 1057-08A01
+8525 10R8B01PNH164 (2)
+ABS 1054 A00801 MN + ABS 1057-08A01
+(1) mono quadrax connector delivered with backshell and without contact.
+(2) mono quadrax connector delivered with backshell and with quadrax contact.
+22 
+
+Quadrax Technology  |  ARINC 600 Series
+Description
+• High density solution:
+   . Blind mate, clearance device for better
+     rackability
+   . Low insertion force
+• Rackable solution:
+   . Up to 56 #8 quadrax contacts
+• Modular solution:
+   . Build your own connector matching your
+     exact needs
+• Repairable solution:
+   . EMI RFI shielding solution
+   . Nickel and alodine plating
+   . 100A power capabilty
+   . Fixing type
+   . Grounding
+   . Filtering
+Contact layout - ARINC 600 sizes 2 and 3
+Cavities A, B, D, E
+Q11*
+Q10*
+118Q2
+11 #8 Quadrax
+10 #8 Quadrax
+118 #22
+2 #8 Quadrax
+Cavities C, F
+Q6*
+68Q2
+11Q2
+62Q2
+20Q4
+6 #8 Quadrax
+68 #22
+2 #8 Quadrax
+20 #20
+4 #8 Quadrax
+60 #22
+2 #16
+2 #8 Quadrax
+4 #20
+3 #16
+4 #12
+2 #8 Quadrax
+* Grounded metal insert
+Ordering information & Dimensions
+Please consult ''ARINC 600 Series'' catalog.
+23
+
+QUADRAX CONTACT
+© 2019 SOURIAU - SOURIAU is a registered trademark 
+
+Quadrax Contact up to Cat6
+Range Extension
+Fiber optic ELIO®  contacts  .....................................................................................  
+26
+BMA coaxial contacts ..............................................................................................  
+26
+Power contacts ........................................................................................................  
+27
+High power contacts ...............................................................................................  
+27
+Power contacts for PCB  ..........................................................................................  
+28
+230V connectors  .....................................................................................................  
+28
+
+Quadrax Technology  |  Range Extension
+SOURIAU contact offer
+Fiber Optic
+ELIO® Contacts
+ELIO® contact: ruggedized and user friendly fiber 
+optic technology. Easy mounting optical link for 
+severe applications.
+Flight proven:
+   . The only Airbus qualified fiber optic technology: ABS1379, 
+     ABS1213. ARINC 801 and EN4531 qualified.
+Robust connection:
+   . Withstanding the most severe vibrations with excellent optical 
+     performance (0.3 dB).
+User friendly contact: 
+   . Easy cleaning: no part to remove.
+   . No tool needed for insertion/extraction of the contacts.
+See «Fiber Optic Solutions» catalog
+on www.souriau.com
+A wide range available: 
+   . In all planforms with #8 cavities. Up to 24 ELIO® contacts in 
+     38999 size 25.
+BMA Coaxial Contacts
+A robust and powerfull coaxial High Frequency 
+transmission (BMA) now available in any size 8 
+SOURIAU insert of D38999 Series III.
+Spring HF contact:
+   . Vibration and High Frequency.
+Largest Flexibility:
+   . 16 layouts available.
+Qualified coaxial contact:
+   . Interface according MIL-STD-348A/321.
+Easy mounting:
+   . Removable contact.
+See «VGE1 ELIO® Rugged Fiber Optic Solutions» 
+product news on www.souriau.com
+26 
+
+Quadrax Technology  |  Range Extension
+SOURIAU contact offer
+Power Contacts
+Power supply in harsh environments. Designed to 
+be used in severe environments, fluid resistance, 
+high shock and vibration.
+A unique contact design with a braid socket:
+   . 20 contact points for a #4 contact vs 2 or 3 for a standard socket.
+   . Allowing 20 % more current as compared to standard socket.
+   . Excellent vibration withstanding.
+   . Insure excellent crimping.
+A versatile individual sealing on the cable:
+   . Sealing on the cable done thanks to a sealing boot.
+   . Same connector can accomodate a wild range of cable diameter.
+See «38999 Series III - Power Contacts» product news 
+on www.souriau.com
+A contact technology integrated in well proven standard
+MilAero connectors: 
+   . Up to 260°C service temperature. 
+   . Up to 60G vibration withstanding.
+   . Shell available in, aluminium, composite, Stainless steel,
+     Titanium & Bronze.
+High Power Contacts
+38999 High Power (up to 850A). Designed to
+meet the harshest military requirement where
+high power and shielding are needed.
+3 aluminum shell sizes available:
+   . Size 19 (450A max); size 23 (650A max); size 25 (850A max).
+   . Different finish: cadmium, zinc nickel, electroless nickel.
+   . Threaded coupling.
+Superior contact technology equipped with a silver plated braid:
+   . High contact endurance.
+   . Low contact resistance.
+   . No microcut under vibration.
+Modular design for easy installation: 
+   . Removable backshell: straight, right angle or bus bar.
+   . Backshell termination: for thread or shrink boot.
+   . Possible to crimp various cable (Ø from 50 to185mm).
+See «38999 Series III - High Power Contacts» 
+product news on www.souriau.com
+Safety
+27
+
+Quadrax Technology  |  Range Extension
+SOURIAU contact offer
+Power Contacts for PCB
+Firewall connector for power supply, adapted to 
+PCB solutions.
+Safe & Quick Avoid soldering of contacts:
+   . No heat applied: no risk of damaging the connector.
+   . Quicker fit in the equipment.
+Robust:
+   . True mechanical link between PCB and contacts: no additional 
+     double flange needed. Power contacts are attached directly to the 
+     board with screws for an optimized connection.
+   . Available in size 6 contact (Ø4.6mm) & size 4 contact (Ø5.74mm).
+Compact:
+   . Tapped contacts for direct and small sized connections, especially 
+     compared to standard lugs.
+See «EN2997 Series Power Contacts for PCB» 
+product news on www.souriau.com
+230V Connectors
+The use of higher voltage to reduce cable weight 
+has lead to the development of double voltage in 
+un-pressurized connectors.
+Robust design and materials:
+   . ensuring that in un-pressurized areas no partial discharge will 
+     weaken the connector.
+   . each production batch is tested to ensure performance to this 
+     high level.
+No possible mismatch:
+   . specific T and V clocking to avoid mating with a non 230V
+     qualified counterpart.
+Flexible offering:
+   . available in standard watertight as well as in hermetic connectors.
+   . available in composite and stainless steel shells.
+See «230V Connectors» product news on 
+www.souriau.com
+28 
+
+
+Reliable People, Reliable Solutions
+Your local contact
+10-31-1299
+Our contribution to environmental 
+protection:
+This catalog is printed on PEFC 
+certified paper
+Advancement of sustainable
+wood cultivation. www.pefc.org
+Promoting sustainable 
+forest management
+www.pefc.org
+www.souriau.com
+technical.emear@souriau.com (Europe - Asia - Africa)
+technical.americas@souriau.com (North America)
+WCAQUADRAXWUSEN02 © Copyright SOURIAU Aug 2019 - SOURIAU is a registered trademark 
+All information in this document presents only general particulars and shall not form part of any contract. All rights reserved to SOURIAU for changes without prior notification or public announcement. Any duplication is prohibited, unless approved in writing.

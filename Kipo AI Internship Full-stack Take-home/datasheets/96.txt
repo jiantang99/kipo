@@ -1,0 +1,235 @@
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Sensor/actuator flush-type connector, female, 3-pos., M8, rear/screw mounting with M12 thread, with straight
+solder connection
+Your advantages
+ Easy PCB assembly: one-piece connectors for wave soldering
+ Standard pin assignments and codings for signal transmission with a uniform design-in design
+ For high transmission reliability: optional shield connection to the housing and latching on the PCB
+Key Commercial Data
+Packing unit
+20 pc
+GTIN
+GTIN
+4017918178666
+Sales Key
+02
+Technical data
+Ambient conditions
+Ambient temperature (operation)
+-40 °C ... 85 °C
+Degree of protection
+IP67
+General
+Rated current at 40°C
+4 A
+Rated voltage
+48 V AC
+60 V DC
+Rated surge voltage
+1.5 kV
+Number of positions
+3
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M8 connector IEC 61076-2-104
+Status display
+No
+09/11/2020   Page 1 / 8
+
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Technical data
+General
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Solder pins
+Torque
+1 Nm ... 1.5 Nm (Installation-side)
+Mounting type
+Rear mounting M12 x 1 With flat nut
+Material
+Flammability rating according to UL 94
+HB
+Contact material
+CuSn
+Contact surface material
+Au
+Contact carrier material
+PA 6.6
+Material, knurls
+Nickel-plated brass
+Sealing material
+NBR
+Additional material specifications
+EP (Grout material)
+Cable
+Standards/specifications
+M8 connector IEC 61076-2-104
+Standards and Regulations
+Standards/specifications
+M8 connector IEC 61076-2-104
+Connection in acc. with standard
+CUL
+Flammability rating according to UL 94
+HB
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 25;
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 2 / 8
+
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Dimensional drawing
+Housing cutout for M8 flush-type connector, socket, one-section
+09/11/2020   Page 3 / 8
+
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Drilling diagram
+M8 flush-type socket
+09/11/2020   Page 4 / 8
+
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Dimensional drawing
+M8 flush-type socket
+09/11/2020   Page 5 / 8
+
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Schematic diagram
+Pin assignment M8 socket, 3-pos., view female side
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+09/11/2020   Page 6 / 8
+
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Classifications
+ETIM
+ETIM 2.0
+EC001297
+ETIM 3.0
+EC002061
+ETIM 4.0
+EC002062
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / cUL Recognized / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+4 A
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+cUL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+09/11/2020   Page 7 / 8
+
+https://www.phoenixcontact.com/pi/products/1694363
+Flush-type connector - SACC-DSI-M 8FS-3CON-L180 - 1694363
+Approvals
+ 
+ 
+Nominal current IN
+4 A
+ 
+ B.01687
+EAC 
+
+ 
+ 
+cULus Recognized 
+
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 8 / 8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1694363

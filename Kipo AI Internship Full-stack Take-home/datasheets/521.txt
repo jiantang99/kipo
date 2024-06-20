@@ -1,0 +1,222 @@
+F
+D
+C
+H
+G
+E
+A
+B
+SIDE VIEW FOR EACH VERSION
+COMMON QUOTES FOR ALL VERSION
+UTGX6-----
+UTGX6--E---
+A.6; Validé
+8
+E
+A
+B
+Solder
+cup
+7
+F
+SHELL
+PLUG
+MATING
+SEAL
+Insert
+THREAD
+6
+O'RING
+C
+D
+5
+G
+Solder
+cup
+MATERIAL :
+ 
+- SHELL : PA UL94 V0, UL746C F1 Black color
+- COUPLING RING: PA + Nickel-plated brass
+- INSERT (UTGX0-----) : PA UL94 V0, UL746C F1
+- INSERT (UTGX0--E---) : Polychloroprene
+- O'RING : NITRIL
+- MATING SEAL : SILICON 
+- CONTACTS: brass + coated depending on P/N
+ 
+ 
+PERFORMANCE CHARACTERISTICS :
+ 
+Operating temperature: -40
+C up to 105C
+Insulation resistance: 5000 M
+min under 500V
+Corrosion salt spray: 500 hours  
+Durability: 500 matings and unmatings
+ 
+Sealing conditions: SEE TABLE
+ 
+ 
+NOTA:
+1- Contact to be ordered separately for version
+UTGX0----- : refer to corresponding catalogue.
+2- Insert arrangement refer to:
+        UTO-CONTACT-L-C02 (Female insulator)
+        UTO-DHP-003-C01  (Female insulator #20)
+        UTO-DHP-002-C01 (Female insulator #16)
+        UTO-CONTACT-L-C01 (Male insulator)
+        UTO-DHP-003-C01  (Male insulator #20)
+        UTO-DHP-001-C01 (Male insulator #16)
+        C144-UTS1-A (HiSeal Version)
+CountryJurisdiction 
+& Control List
+FR
+NOT LISTED
+4
+SOURIAU shall not be liable for any non-conformity or damage due to a use of the Products
+which does not comply with the Specifications issued by either of the Parties or by a third party
+(professional recommendation, technical notice.)
+         P/N : CROSS REF TABLE 
+INSERT
+BASIC SERIES
+UTGX 6 14 E 19 P -
+ * P/N for example
+SHELL TYPE   6
+  Plug
+3
+SHELL SIZE
+10
+12
+14 
+TYPE OF
+LAYOUT
+Standard layout (No digit)
+E : HISEAL Handsolder contacts
+ORIENTATIONS
+Normal (no digit)
+W,X,Y,Z
+Sealing in MATED conditions with COUNTERPART:
+ 
+ -IP68 1 bar during 1 week: immersion under
+  10 m of water. (IEC 60529)
+ -IP69K : exposure to high pressure water of
+  cleaning equipement(DIN 40050)
+INSERT
+ARRANGEMENT
+See NOTA 2 
+TYPE OF
+CONTACTS
+P: MALE
+S: FEMALE 
+Sealing in MATED conditions with COUNTERPART
+and UNMATED conditions:
+ 
+ -IP68 1 bar during 1 week: immersion under
+  10 m of water. (IEC 60529)
+ -IP69K : exposure to high pressure water of
+  cleaning equipement (DIN 40050) 
+UTGX6-----P
+UTGX6-----S
+SEALING
+CONDITIONS
+25253J
+12/02/2020 --
+A
+New drawing
+2
+MOD N
+--
+Latest modification - by:
+DATE
+ISS
+10% (g.)
+UTGX CONNECTOR
+TITLE
+PLUG T6 WITHOUT BACKSHELL - SIZE 10 12 & 14, Standard and Hiseal version
+CUSTOMER DRAWING 
+J.FEURPRIERDate:12/02/2020
+Designed by:
+SHELL
+SIZE
+MAX
+min
+0.2
+MAX
+THREAD
+CLASS 2A
+A
+B
+C
+D
+E
+F
+G
+MASS
+Scale
+NPRDS / PROJECT 
+GBB
+Dimensions in mm
+General linear
+Tolerances:
+ 0.2
+2/1
+10
+20.3
+26.2
+9/16-24 UNEF
+20
+8
+7
+6
+5
+4
+3
+2
+1
+33.3
+24
+25.5
+24
+23.5
+12
+23.5
+29.7
+11/16-24 UNEF
+25
+1
+www.souriau.com
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+14
+26.7
+34.6
+13/16-20 UNEF
+35
+SHEET
+SOURIAU DRG N° 
+FORMAT
+1 / 1
+UTGX-0004A-C
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  UTGX614E19S  UTGX612E8P

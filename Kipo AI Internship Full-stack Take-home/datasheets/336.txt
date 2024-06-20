@@ -1,0 +1,169 @@
+20
+Ø
+Ω
+ 
+ 
+4pos       5pos
+250 V      60 V
+ 
+7,5 A at 40°C,with 1,5mm²
+ 
+  
+>=100 M
+Width across flats 18
+57
+~
+Technical specification:
+  
+Rated voltage:
+IEC 61076-2-101 
+ 
+Current rating:
+IEC 61076-2-101 
+ 
+Insulation resistance:
+IEC 60512
+ 
+Pollution degree:
+IEC 60664-1 
+ 
+Degree of protection:
+IEC 60529 
+ 
+Temperature range:
+ 
+Mating cycles:
+IEC 60512-9a
+ 
+Wire cross section:
+  
+ 
+3/2
+ 
+  
+IP 67, in mated
+condition
+  
+-30°C ... +85°C
+    
+>=100
+ 
+ 
+max. AWG16 / max. 1,50 mm²
+(incl. sleeve)
+n20
+max. external cable
+diameter see table
+A-coding
+Materials:
+  
+Contact:
+ 
+Contact plating:
+ 
+Contact carrier:
+ 
+Cable seal:
+ 
+O-Ring:
+ 
+Coupling nut:
+ 
+Housing:
+ 
+  
+CuZn
+ 
+Au over Ni
+ 
+PA6, UL 94
+ 
+Elastomere
+ 
+FPM / NBR
+ 
+GD-Zn, Ni plated
+ 
+PA6 GF, UL 94
+4pos
+5pos
+1
+1
+2
+2
+5
+4
+3
+4
+3
+ 
+ 
+0,6 Nm
+ 
+ 
+Torque wrench:
+36-000200
+Insert across flats 18:
+36-000240
+ 
+ 
+ 
+0,3 Nm
+Installation specification:
+ 
+Recommended
+torque:
+ 
+Conec
+installation tooling:
+ 
+ 
+ 
+Recommended torque, 
+screw termination 
+contact:
+Description:
+Part no:
+Pos:
+Cable-n:
+SAL - 12 - RKC4 - S / 150
+4 - 8 mm
+43-00092
+4
+43-00094
+5
+SAL - 12 - RKC5 - S / 150
+4 - 8 mm
+title:
+dim. in mm
+Index: c 17.03.14 BS Ä5133
+data sheet a. description modified
+name
+date
+drawn
+Burschik
+19.01.09
+Female connector M12x1,
+field attachable, axial,
+screw connection
+ 
+appd.
+dwg no:
+19.01.09
+Schmidt
+RRRR
+43K1A834
+general tolerance:
+0
+0,0
+0,00
+± 0,50mm
+± 0,25mm
+± 0,10mm 
+part no:
+Directive 2002/95/EC RoHS compliant
+DO NOT ALTER CAD DRAWING BY HAND
+see table
+THIS DRAWING MAY NOT BE COPIED OR REPRODUCED IN ANY WAY, AND
+MAY NOT BE PASSED ON TO A THIRD PARTY WITHOUT WRITTEN PERMISSION.
+OWNERSHIP AND COPYRIGHT OF CONEC GmbH

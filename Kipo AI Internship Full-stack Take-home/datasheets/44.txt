@@ -1,0 +1,229 @@
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Sensor/actuator flush-type plug, with water blue contact carrier, 8-pos., M12 SPEEDCON, shielded, rear/
+screw mounting with M16 thread, with straight solder connection
+Key Commercial Data
+Packing unit
+20 pc
+GTIN
+GTIN
+4046356617154
+Technical data
+Dimensions
+Length of the solder pin
+6 mm
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+Degree of protection
+IP67 (When plugged in)
+IP65 (When plugged in)
+General
+Rated current at 40°C
+2 A
+Rated voltage
+30 V
+Rated surge voltage
+0.8 kV
+Number of positions
+8
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Solder pins
+09/11/2020   Page 1 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Technical data
+General
+Insertion/withdrawal cycles
+≥ 100
+Mounting type
+Rear mounting M16 x 1.5 With flat nut
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Ni/Au
+Contact carrier material
+PA 6.6
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+FKM
+Cable
+Standards/specifications
+M12 connector IEC 61076-2-101
+Transmission characteristics (category)
+CAT5 (IEC 11801:2002)
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 2 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Schematic diagram
+Pin assignment M12 plug, 8-pos., view plug side
+09/11/2020   Page 3 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Drilling diagram
+09/11/2020   Page 4 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Dimensional drawing
+M12 flush-type connector
+09/11/2020   Page 5 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Dimensional drawing
+Housing cutout for M16 fastening thread, mounting panel with feed-through hole (alternatively with area as anti-rotation protection for panel
+thicknesses > 2 mm up to max. 4.5 mm)
+09/11/2020   Page 6 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Dimensional drawing
+M12 front view
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+09/11/2020   Page 7 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Classifications
+ETIM
+ETIM 4.0
+EC002061
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+31261501
+UNSPSC 7.0901
+31261501
+UNSPSC 11
+31261501
+UNSPSC 12.01
+31261501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 118976
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+2 A
+mm²/AWG/kcmil
+24
+ 
+ B.01687
+EAC 
+
+09/11/2020   Page 8 / 9
+
+https://www.phoenixcontact.com/pi/products/1456530
+Flush-type connector - SACC-DSI-MS-8CON-L180/SH TQ - 1456530
+Approvals
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm  E221474-20140616
+cULus Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+2 A
+mm²/AWG/kcmil
+24-22
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 9 / 9
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1456530

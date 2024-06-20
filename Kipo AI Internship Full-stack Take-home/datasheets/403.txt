@@ -1,0 +1,121 @@
+FGG.2K.318.CYCC70
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+18
+Image is for illustrative purpose only
+Series
+2K
+Download
+Male crimp
+Termination type
+Request a quote
+IP rating
+68
+Catalog
+AWG wire size
+26.00 - 22.00
+Cable Ø
+6.60 - 7.00 mm
+Status
+active
+Matching parts
+EGG.2K.318.CYM
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FG*: Straight plug, cable collet
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Performance
+Configuration
+2K.318 : 18 Low Voltage
+Insulator
+Y: PEEK for crimp contacts
+Rated Current
+5.5 Amps
+Specifications
+Contact Type: Crimp 
+Contact Retention: 22 N 
+Contact Dia.: 0.7 mm (0.028in) 
+Bucket Dia.: 0.8 mm (0.031in) 
+Min. Conductor: 0.14 mm^2 (AWG 26) 
+Max. Conductor: 0.34 mm^2 (AWG 22) 
+R (max): 6.1 mOhm 
+Vtest (contact-shell): 2100 V (AC), 2970 V (DC) 
+Vtest (contact-contact): 1450 V (AC), 2050 V (DC) 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/3
+
+Others
+Endurance (Shell): 5000 mating cycles 
+Temp (min / max): -55°C / +200°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 95 dB (10 MHz) 
+Shielding (min): 80 dB (1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+L
+M
+S2
+mm.
+16
+52
+36
+12
+in.
+0,63
+2,05
+1,42
+0,47
+RECOMMENDED BY LEMO
+Tools
+Crimp Tool: 
+DPC.91.701.V
+Crimp settings: 
+AWG/Selector = 22-24-26/6-5-5
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/3
+
+Positionner: 
+DCE.91.072.BVC
+Extractor: 
+DCF.91.070.2LT
+Replacement contact: 
+FGG.2B.555.ZZC
+Spanner wrench: 
+DCD.2E.020.PA120
+Caps: 
+BFG.2K.100.NAS
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FGG.2K.318.CYCC70

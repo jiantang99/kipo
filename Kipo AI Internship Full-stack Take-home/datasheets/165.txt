@@ -1,0 +1,291 @@
+IDS-46-8
+®
+Amphenol
+Max-M12 Connector
+Features:
+•� HDM�12�Versions�Available
+ 
+ 
+-  Plastic or Metal (for shielding)
+ 
+ 
+-  90° right angle and straight connector offerings 
+ 
+ 
+ 
+-  3, 4, and 5 way circuit patterns 
+ 
+ 
+-  A, B, D & P polarity codes – based on 
+ 
+ 
+   IEC 61076-2-101
+ 
+ 
+-  Terminals for solder to wire or pins for PCB applications 
+•� Available�as�stand-alone�connectors�&�cable�assemblies��
+�
+ 
+ 
+(standard and overmolded)
+Amphenol Industrial Products Group introduces our 
+ruggedized M12 high speed data connector, the Max-M12. 
+High speed data transmission connection systems 
+have traditionally been implemented into commercial 
+applications with little regard to high vibration, high 
+temperature and overall harsh environment demands.  
+With the increased implementation of these high speed 
+Datalink connection systems into more heavy duty / harsh 
+environment surroundings, the need for a more robust and 
+ruggedized connection system has surfaced.  
+•� Terminals�capable�of�being�terminated�to:
+ 
+ 
+-  0.8 mm2 (18 AWG) or 0.5 mm2 (20 AWG) 
+�
+�
+���conductors�as�defined�by�SAE�J1128�and�0.75�mm2�� �
+�
+�
+���and�0.50�mm2�conductors�as�defined�by�ISO�6722
+Based on the IEC 61076-2-101 and SAE J 2839 standards   
+the Max-M12 connection system makes it the perfect 
+solution for the ultra rugged applications that sometimes 
+exist in markets dealing with Heavy Equipment, Rail & 
+Mass Transit, Process Control, Factory Automation, etc.
+•� 444�N�(100�LBF)�pull�force�on�cable
+•� Backward�compatible�with�IEC�61076-2-101�(M12)��
+•� More�resistant�to�terminal�damage
+•� Extreme�environmental�testing�based�on�J2839�requirements
+ 
+ 
+- High pressure wash down
+•� Provisions�for�overall�cable�shield�or�drain�wire�to�the�
+ 
+connector plug housing 
+•� RoHS�compliant
+www.amphenol-industrial.com
+
+Max-M12 Connector
+SPECIFICATION
+Operating�Voltage
+5�pin�-�60V�AC/DC
+3��&�4�pin�-�250V�AC/DC
+IEC 60664
+Current Rating
+4A�MAX.
+IEC 60512     TEST 5B
+Temperature Rating
+-55ºC�-�+125ºC�
+-55ºC�-�+150ºC�(with�Viton�Seals)
+SAE J2839, 4 . 2 . 3 . 13
+Dielectric�Withstanding�Voltage
+1000V
+IEC 60512,     TEST 4A
+Insulation Resistance
+>20 Megohms
+SAE J2839, 4 . 2 . 3 . 3
+Rated�Impulse�Voltage
+1500V�
+IEC 60664-1
+Contact Resistance
+<10�mΩ�
+IEC 60512     
+Vibration,�Sine
+10 - 2000 Hz, 20g, <1 us
+SAE J2839, 4 . 2 . 3 . 15
+Shock, Half Sine 
+10�CYCLES,�50g,�11ms,�<1�us
+SAE J2839, 4 . 2 . 3 . 16
+Temperature�Life�
+1000H�AT�125ºC�+�3ºC�
+SAE J2839, 4 . 2 . 3 . 7
+Durability
+100�CYCLES�MIN.
+SAE J2839, 4 . 2 . 3 . 11
+Salt Fog
+240H 
+SAE J2839, 4 . 2 . 3 . 12
+Protection Class
+IP67 or Above
+IEC 60529
+Wire Gauge 
+0.5 mm2 (20AWG) or
+0.8 mm2 (18AWG)/ 0.75 mm2
+SAE�J1128�/�ISO�6722
+Cable�OD.
+ø�12.7�MAX.
+Recommended Torque
+M12�THREAD,�0.8�-�1.0�Nm
+Connector Retention
+444�N�MIN
+SAE J2839, 4 . 2 . 3 . 20
+Contact Retention
+110�N�MIN
+SAE J2839, 4 . 2 . 3 . 18
+Panel Thickness
+1-6 mm
+Shell Plating
+Nickel
+HOW TO ORDER
+1              2         3         4          5         6          7          8         9        10      11
+HDM12  +  P  +  M  +  05  +  D  +  1  +  ST  +  M  +  V  +  H  +  P 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+HDM12
+P
+M
+05
+D
+1
+ST
+M
+V
+H
+P
+Product 
+Arrangement
+Coding
+Contact 
+Finish
+Backshell
+Backshell
+Material
+Seal
+Voltage 
+Rating
+Contact Style
+Line
+Shell Line
+Gender
+Insert
+Viton�
+P
+Plug
+M
+Male
+03
+3 Pole
+A
+A-Coding
+1
+Gold
+ST
+Straight
+M
+Metal
+V
+Rubber 
+H
+240V�AC/
+PC Tail 
+Contacts 
+DC
+PR
+Seal
+Right Angle
+PS
+R
+Receptacle
+F
+Female
+04
+4 Pole
+B
+B-Coding
+2
+Silver
+RA
+Right 
+Angle
+P
+Plastic
+Omit�for�
+Standard 
+Rubber 
+Omit�for�
+Standard 
+60V�AC/
+HDM12
+ PC Tail 
+Contacts 
+Straight
+Seal
+DC
+05
+5 Pole
+D
+D-Coding
+4
+Nickel
+XX
+No�
+Omit�
+for no 
+Omit�for�
+Solder  
+Backshell
+Backshell
+Contacts
+P
+P-Coding
+Example Order: HDM12, Receptacle, Female, 4 Pole, A-Coding, Silver, Straight, Metal, Standard Rubber Seal, 
+                            240V AC/DC, Straight PC Tail Contacts:  HDM12   R   F   04   A   2   ST   M   H   PS
+Notice:�Specifications�are�subject�to�change�without�notice.�Contact�your�nearest�Amphenol�Corporation�Sales�Office�for�the�latest�specifications.��All�statements,�information�and�data�given�herein�are�believed�to�be�accurate�and�reliable�but�
+are presented without guarantee, warranty, or responsibility of any kind, expressed or implied.  Statements of suggestions concerning possible use of our products are made without representation or warranty that any such use is free of patent 
+infringement�and�are�not�recommendations�to�infringe�any�patent.�The�user�should�assume�that�all�safety�measures�are�indicated�or�that�other�measures�may�not�be�required.�Specifications�are�typical�and�may�not�apply�to�all�connectors.
+For�further�information�on�your�individual�application�requirements,�contact:�Amphenol�Corporation
+North�America:
+Amphenol�Industrial�Operations
+180�N.�Freeport�Drive,�Plant�4
+Nogales,�AZ�85621
+Tel:�(888)�364-9011
+Fax:�(520)�285-5134
+Europe:
+Amphenol�Industrial�Operations�Europe
+Via�Barbaiana�5
+1-20020�Lainate�(MI)�Italy
+Tel:�+39�02�93254.204
+Fax:�+39�02�93254.444
+Middle�East:
+Amphenol�Middle�East�Enterprises�FZE
+Office�C-37�PO�Box�21107
+Ajman�Free�Zone,�UAE
+Tel:�+9�716-7422494
+Fax:�+9�716-7422941
+Asia: 
+Amphenol�Technology�(Zhuhai)�Co.,�Ltd. 
+No.�63�Xing�Han�Road,�San�Zao�Town 
+Jin�Wan�District,�Zhuhai�City,�China�519040 
+Tel:�+86�756-3989760 
+Fax:�+86�756-3989768 
+Email:�tech@amphenol-aio.com
+Email:�info@amphenol-aio.com�
+Email:�jhussain@amphenol-industrial.com
+Email:�enquiry@amphenol-aio.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  HDM12PFD1RA  HDM12PFD1ST  HDM12RMD1RA  HDM12RMD1ST  HDM12PF05D1STM  HDM12RM05D1RA 
+HDM12RM05D1ST  HDM12PF05A1RA  HDM12RM05B1ST  HDM12PF05D1RA  HDM12PF05B1ST 
+HDM12RM05B1RA  HDM12RM05A1RA  HDM12RM05B1STM  HDM12RM05D1RAM  HDM12RM05B1RAM 
+HDM12PF05D1RAM  HDM12PF05B1RAM  HDM12RM05D1STM  HDM12RM04D1ST  HDM12PM04A1STMV 
+HDM12PF04D1STMV  HDM12PF04A1STMV  HDM12PM04D1STMV  HDM12RM04A1STM

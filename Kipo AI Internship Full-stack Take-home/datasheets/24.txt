@@ -1,0 +1,339 @@
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Connector, Universal, 4-position, Plug straight M12, Coding: A, Screw connection, knurl material: Zinc die-
+cast, nickel-plated, cable gland Pg7, external cable diameter 4 mm ... 6 mm
+Your advantages
+ Safe use in the field, thanks to a high degree of protection
+ Flexible: connectors for on-site assembly
+ Screw connection: proven connection technology for a large selection of different conductors
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4017918137526
+Sales Key
+02
+Technical data
+Dimensions
+Diameter housing
+20 mm
+Length
+60 mm
+External cable diameter
+4 mm ... 6 mm
+Stripping length of the sheath
+20 mm
+Stripping length of the individual wire
+5 mm
+Ambient conditions
+Ambient temperature (operation)
+-40 °C ... 85 °C (Plug / socket)
+Degree of protection
+IP67
+General
+Note
+NOTE: Observe the permissible bending radii when laying conductors,
+since the degree of protection may be put in jeopardy if the bending
+09/11/2020   Page 1 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Technical data
+General
+forces are too high. Alleviate mechanical loads upstream of the
+connector, e.g. by using cable ties.
+Rated current at 40°C
+4 A
+Rated voltage
+250 V AC
+250 V DC
+Number of positions
+4
+Color handle area
+black
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Signal type/category
+Universal
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Screw connection
+Conductor cross section
+0.25 mm² ... 0.75 mm² (without ferrule)
+0.14 mm² ... 0.75 mm² (with ferrule)
+0.25 mm² ... 0.75 mm² (solid)
+Conductor cross section AWG
+24 ... 18 (without ferrule)
+26 ... 20 (with ferrule)
+Insertion/withdrawal cycles
+≥ 50
+Torque
+0.4 Nm (M12 knurl)
+0.2 Nm (Screw terminal blocks)
+0.8 Nm ... 1 Nm (Pressure screw with sleeve housing)
+Tightening torque
+Screw plug insert with sleeve housing as far it will go
+Assembly instructions
+The wires can be connected both with ferrules and without ferrules
+Material
+Flammability rating according to UL 94
+HB
+Contact material
+CuZn
+Contact surface material
+CuSnZn
+Contact carrier material
+PA
+Material of grip body
+PA
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+NBR
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Connection in acc. with standard
+CUL
+Flammability rating according to UL 94
+HB
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+09/11/2020   Page 2 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Technical data
+Environmental Product Compliance
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+Schematic diagram
+Male/Female M12
+09/11/2020   Page 3 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Dimensional drawing
+Plug, M12 x 1, straight
+09/11/2020   Page 4 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Schematic diagram
+Cable connection side M12 (screw connection)
+09/11/2020   Page 5 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Schematic diagram
+Pin assignment M12 plug, 4-pos., A-coded, view plug side
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27260700
+eCl@ss 4.1
+27260700
+eCl@ss 5.0
+27260700
+eCl@ss 5.1
+27260700
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440104
+eCl@ss 8.0
+27440104
+eCl@ss 9.0
+27440102
+09/11/2020   Page 6 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Classifications
+ETIM
+ETIM 2.0
+EC001121
+ETIM 3.0
+EC002062
+ETIM 4.0
+EC002062
+ETIM 5.0
+EC002062
+ETIM 6.0
+EC002062
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / cUL Recognized / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+250 V
+Nominal current IN
+4 A
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+cUL Recognized 
+
+ 
+ 
+Nominal voltage UN
+250 V
+09/11/2020   Page 7 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Approvals
+ 
+ 
+Nominal current IN
+4 A
+ 
+ RU C-
+DE.BL08.B.00511
+EAC 
+
+ 
+ 
+cULus Recognized 
+
+Accessories
+Accessories
+Cable by the meter
+Cable reel - SAC-4P-100,0-PUR/0,25 - 1501692
+By the meter, Cable reel, PUR halogen-free, black-gray RAL 7021, 4-wire, color single wire: brown, white, blue,
+black, cable length: 100 m
+ 
+ 
+Cable reel - SAC-4P-100,0-PUR/0,34 - 1501663
+By the meter, Cable reel, PUR halogen-free, black-gray RAL 7021, 4-wire, color single wire: brown, white, blue,
+black, cable length: 100 m
+ 
+ 
+Cable reel - SAC-4P-100,0-186/0,75 - 1457461
+By the meter, Cable reel, PUR, black-gray RAL 7021, 4-wire, color single wire: brown, white, blue, black, cable
+length: 100 m
+ 
+ 
+Cable end sleeve
+09/11/2020   Page 8 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Accessories
+Ferrule - A 0,25- 5 - 3202465
+Ferrule, length: 5 mm, color: silver
+ 
+ 
+Crimping tool
+Crimping pliers - CRIMPFOX 6H - 1212046
+Crimping pliers, for ferrules without insulating collar according to DIN 46228 Part 1 and ferrules with insulating collar
+according to DIN 46228 Part 4, 0.14 mm² ... 6 mm², unlockable pressure lock, lateral entry
+ 
+ 
+Protective cap
+Sealing cap - PROT-M12 FS-PA-CHAIN - 1430873
+M12 sealing cap made of plastic with fixing band, for sensor cables, for free M12 plugs
+ 
+ 
+Screwdriver tools
+Adapter insert - TSD-M SAC-BIT ADAPTER - 1212600
+Adapter bit for TSD-M...torque tools, E6.3-1/4" drive with 4 mm hexagon to accommodate SAC bits
+ 
+ 
+Tool - SACC BIT M12-D20 - 1208445
+Nut for assembling M12 connectors for assembly with a knurl diameter of 20 mm, for 4 mm hexagonal drive
+ 
+ 
+09/11/2020   Page 9 / 10
+
+https://www.phoenixcontact.com/pi/products/1662528
+Connector - SACC-M12MS-4CON-PG 7-M - 1662528
+Accessories
+Screwdriver - SZF 1-0,6X3,5 - 1204517
+Actuation tool, for ST terminal blocks, also suitable for use as a bladed screwdriver, size: 0.6 x 3.5 x 100 mm, 2-
+component grip, with non-slip grip
+ 
+ 
+Seal
+Connector - SACC-M12-SET/2,5-3,5 - 1436505
+Sensor/actuator connector, accessories, pressure screw and Pg7 seal, for unshielded M12 connector, cable diameter
+2.5 mm - 3.5 mm
+ 
+ 
+Torque tool
+Torque screwdriver - TSD 04 SAC - 1208429
+Torque screwdriver, with preset torque of 0.4 Nm and 4 mm hexagonal drive for M12 connectors
+ 
+ 
+Torque screwdriver - TSD-M 1,2NM - 1212224
+Torque screw driver, accuracy as per EN ISO 6789 standard, adjustable from 0.3 ‑ 1.2 Nm
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 10 / 10
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1662528

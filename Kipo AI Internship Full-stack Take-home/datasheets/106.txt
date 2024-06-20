@@ -1,0 +1,135 @@
+RC-00000006100 - Front panel feed-through
+1592604
+https://www.phoenixcontact.com/us/products/1592604
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user 
+documentation. Our general terms of use for downloads are valid.
+Front panel feed-through, series: RC, straight, Screw locking, M23, Axial O-ring, Central fixing, 
+shielded: yes, panel thickness min.: 0.8 mm, panel thickness max.: 6.5 mm, Alternative product 
+in accordance with RoHS II without Exemption 6c (Pb <0.1%) item no.: 1240240
+Commercial data
+Item number
+1592604
+Packing unit
+1 pc
+Minimum order quantity
+1 pc
+Sales key
+AB31
+Product key
+ABRAFP
+GTIN
+4046356191791
+Weight per piece (including packing)
+31.725 g
+Weight per piece (excluding packing)
+31.725 g
+Customs tariff number
+85389099
+Country of origin
+DE
+Aug 25, 2023, 5:14 AM     Page 1 (5)
+
+RC-00000006100 - Front panel feed-through
+1592604
+https://www.phoenixcontact.com/us/products/1592604
+Technical data
+Notes
+General
+Order contact inserts separately
+Product properties
+Product type
+Sleeve housings
+Application
+Signal
+Series
+RC
+Shielded
+yes
+Thread type
+M23
+Material specifications
+Housing material
+Turned parts: copper zinc alloy (CuZn), die-cast parts: zinc (GD-
+Zn)
+Gasket and O-ring material
+FPM
+Housing material
+Turned parts: copper zinc alloy (CuZn), die-cast parts: zinc (GD-
+Zn)
+Connector
+Type
+straight
+Environmental and real-life conditions
+Ambient conditions
+Degree of protection
+IP67
+Ambient temperature (operation)
+-20 °C ... 125 °C
+Altitude
+2000 m
+Mounting
+Mounting
+Central fixing
+Panel thickness
+0.8 mm ... 6.5 mm
+Aug 25, 2023, 5:14 AM     Page 2 (5)
+
+RC-00000006100 - Front panel feed-through
+1592604
+https://www.phoenixcontact.com/us/products/1592604
+Drawings
+Dimensional drawing
+3,5
+6
+Ø
+26
+20,3
+27
+Ø
+M23
+24
+M20x1,5
+24
+Dimensional drawing
+min. 0,8
+Ø20+0,1
+19+0,1
+Aug 25, 2023, 5:14 AM     Page 3 (5)
+
+RC-00000006100 - Front panel feed-through
+1592604
+https://www.phoenixcontact.com/us/products/1592604
+Classifications
+ECLASS
+ECLASS-11.0
+27440224
+ECLASS-12.0
+27440224
+ECLASS-13.0
+27440224
+ETIM
+ETIM 8.0
+EC000437
+UNSPSC
+UNSPSC 21.0
+31261500
+Aug 25, 2023, 5:14 AM     Page 4 (5)
+
+RC-00000006100 - Front panel feed-through
+1592604
+https://www.phoenixcontact.com/us/products/1592604
+Environmental product compliance
+REACh SVHC
+Lead 7439-92-1
+Environmentally Friendly Use Period = 50 years
+China RoHS
+For information on hazardous substances, refer to the 
+manufacturer’s declaration available under “Downloads”
+Phoenix Contact 2023 © - all rights reserved 
+https://www.phoenixcontact.com
+Phoenix Contact USA 
+586 Fulling Mill Road 
+Middletown, PA 17057, United States 
+(+717) 944-1300 
+info@phoenixcon.com
+Aug 25, 2023, 5:14 AM     Page 5 (5)

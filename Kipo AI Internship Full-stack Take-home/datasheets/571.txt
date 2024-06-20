@@ -1,0 +1,172 @@
+Technical specification:
+Rated voltage:
+IEC 61076-2-101
+4pos       5pos 
+250 V     60 V   
+4 A at 40°C
+Current rating:
+IEC 61076-2-101
+M12
+x1
+Ω
+>=100 M
+Insulation resistance:
+IEC 60512
+ 
+3/2
+Pollution degree:
+IEC 60664-1
+Sealing
+Panel thickness
+     min 2mm - max 3mm
+width 
+across 
+flats 14
+Degree of protection:
+IEC 60529
+IP 67, in 
+mated condition
+25,8
+ 
+Temperature range:
+EN 60512-11-10
+EN 60512-11-4
+-30°C ... +85°C  
+-40°C
+-40°C ... +85°C
+10
+>=100
+7,5
+Mating cycles:
+IEC 60512-9a
+width 
+across
+flats 15
+3
+Materials:
+3,3
+Shroud
+Contact:
+CuZn, Ni b / Au 0,2 gal.
+16
+PA GF, UL 94 V-0
+Contact carrier:
+6,5
+FPM 
+Sealing:
+2
+Socket housing:
+CuZn, nickel plated
+Shroud:
+spring steel, nickel plated
+15
+Installation specification:
+  
+recommended
+torque:
+ 
+Conec 
+installation tool:
+ 
+  
+0,8-1 Nm
+ 
+ 
+Torque wrench: 
+36-000200
+Insert across flats 14: 
+36-000370
+Insert across flats 15: 
+36-000320
+n5
+Pin Layout 
+PCB 1,60mm
+n1,2
+45°
+feedthrough 
+n2,8
+1
+2
+3
+4
+5
+6,5
+n2,35
+7,7
+n1,3
+n12,5
+- 0,2
+0
++
+15
+Hole for
+optional 
+shroud
+Note:
+Part no:
+Description:
+Pos
+43-01174
+SAL - 12 - FSH4 - X10
+4
+4
+with shroud
+43-01175
+SAL - 12S - FSH4 - X10
+43-01176
+5
+SAL - 12 - FSH5.1 - X10
+5
+43-01177
+SAL - 12S - FSH5.1 - X10
+with shroud
+title:
+dim. in mm
+name
+date
+Index: b 21.08.13 MG Ä4884
+Data sheet revised, width across flats of the
+counternut changed, installation specification
+added
+drawn
+Fromm
+11.10.07
+Male socket M12x1 axial, backmounting,
+dip solder, X10
+ 
+appd.
+tolerance of wire:
+dwg no:
+18.10.07
+W.Schmidt
+R
+general tolerance:
+43K1A500
+RoHS & REACH compliant
+± 0,50mm
+± 0,25mm
+± 0,10mm 
+± 1,5°
+0
+0,0
+0,00
+ ∢
+part no:
+DO NOT ALTER CAD DRAWING BY HAND
+ 
+THIS DRAWING MAY NOT BE COPIED OR REPRODUCED IN ANY WAY, AND
+MAY NOT BE PASSED ON TO A THIRD PARTY WITHOUT WRITTEN PERMISSION.
+OWNERSHIP AND COPYRIGHT OF CONEC GmbH
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  43-01176

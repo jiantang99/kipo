@@ -1,0 +1,174 @@
+Product data sheet
+21 03 599 1506
+PFT male front L-coded 2.5mm² w/o FE
+PFT male front L-coded 2.5mm² w/o FE
+Part number
+21 03 599 1506
+Specification
+PFT male front L-coded 2.5mm² w/o FE
+HARTING eCatalogue
+https://b2b.harting.com/21035991506
+Image is for illustration purposes only. Please refer to product description.
+Identification
+Category
+Connectors
+Series
+Circular connectors M12
+Identification
+Power
+Element
+Panel feed through
+Specification
+With conductors
+for front mounting
+Version
+Gender
+Male
+Shielding
+Unshielded
+Number of contacts
+4
+Coding
+L-coding
+Locking type
+Screw locking
+Technical characteristics
+Conductor cross-section
+2.5 mm²
+Conductor cross-section
+AWG 14
+Rated current
+16 A
+Rated voltage
+63 V
+Rated impulse voltage
+1.5 kV
+Pollution degree
+3
+Overvoltage category
+III
+Insulation resistance
+>108 Ω
+Page 1 / 3 | Creation date 2022-01-19 | Please note that the data specified here were taken as extracts from the online catalogue. Please refer to
+the user documentation for the complete and up-to-date information and data. Please also note that the user is responsible for validating functionality,
+conformity with applicable laws and directives, as well as for the electrical safety in the particular application.
+HARTING Electronics GmbH | Marienwerderstraße 3 | 32339 Espelkamp | Germany
+Phone +49 5772 47-97200 | electronics@HARTING.com | www.HARTING.com
+
+Product data sheet
+21 03 599 1506
+PFT male front L-coded 2.5mm² w/o FE
+Technical characteristics
+Contact resistance
+≤10 mΩ
+Tightening torque
+2 Nm Lock nut
+Wrench size
+17
+18
+Ambient temperature
+-40 ... +85 °C
+Mating cycles
+≥100
+Degree of protection acc. to IEC 60529
+IP65 / IP67 mated condition
+Isolation group
+I (600 ≤ CTI)
+Conductor length
+30 cm
+Material properties
+Material (insert)
+Polyamide (PA)
+Colour (insert)
+Black
+Material (contacts)
+Copper alloy
+Surface (contacts)
+Au over Ni Mating side
+Material (hood/housing)
+Zinc die-cast
+RoHS
+compliant with exemption
+RoHS exemptions
+6(c): Copper alloy containing up to 4 % lead by weight
+ELV status
+compliant with exemption
+China RoHS
+50
+REACH Annex XVII substances
+Not contained
+REACH ANNEX XIV substances
+Not contained
+REACH SVHC substances
+Yes
+REACH SVHC substances
+Lead
+ECHA SCIP number
+0d7d3693-d625-47ab-934a-d241bf72c86e
+California Proposition 65 substances
+Yes
+California Proposition 65 substances
+Lead
+Specifications and approvals
+Specifications
+IEC 61076-2-111
+UL / CSA
+UL 2238 CYJV2.E302521
+CSA-C22.2 No. 182.3 CYJV8.E302521
+PROFINET
+Yes
+Page 2 / 3 | Creation date 2022-01-19 | Please note that the data specified here were taken as extracts from the online catalogue. Please refer to
+the user documentation for the complete and up-to-date information and data. Please also note that the user is responsible for validating functionality,
+conformity with applicable laws and directives, as well as for the electrical safety in the particular application.
+HARTING Electronics GmbH | Marienwerderstraße 3 | 32339 Espelkamp | Germany
+Phone +49 5772 47-97200 | electronics@HARTING.com | www.HARTING.com
+
+Product data sheet
+21 03 599 1506
+PFT male front L-coded 2.5mm² w/o FE
+Commercial data
+Packaging size
+1
+Net weight
+50 g
+Country of origin
+Romania
+European customs tariff number
+85366990
+eCl@ss
+27440103 Sensor-actuator connector chassis (sensor technology acc.)
+Current carrying capacity
+The current carrying capacity of the connectors is
+limited by the thermal load capability of the contact
+element material including the connections and the
+insulating parts. The derating curve is therefore
+valid for currents which flow constantly (non-
+intermittent) through each contact element of the
+connector evenly, without exceeding the allowed
+maximum temperature.
+Measuring and testing techniques acc. to IEC
+60512-5-2
+Operating current (A)
+Ambient temperature (°C)
+① Heating
+② Derating curve
+③ Derating curve 80%
+Conductor cross-section 2.5 mm²
+Page 3 / 3 | Creation date 2022-01-19 | Please note that the data specified here were taken as extracts from the online catalogue. Please refer to the
+user documentation for the complete and up-to-date information and data. Please also note that the user is responsible for validating functionality,
+conformity with applicable laws and directives, as well as for the electrical safety in the particular application.
+HARTING Electronics GmbH | Marienwerderstraße 3 | 32339 Espelkamp | Germany
+Phone +49 5772 47-97200 | electronics@HARTING.com | www.HARTING.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ HARTING:  
+ 
+  21035991506

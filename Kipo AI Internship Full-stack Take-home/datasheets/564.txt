@@ -1,0 +1,104 @@
+FGG.00.302.CLAD27
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+2
+Image is for illustrative purpose only
+Series
+00
+Download
+Male solder
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+34.00 - 28.00
+Cable Ø
+2.30 - 2.70 mm
+Status
+active
+Matching parts
+EGG.00.302.CLL
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FG*: Straight plug, cable collet
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+3.46 g
+Performance
+Configuration
+00.302 : 2 Low Voltage
+Insulator
+L: PEEK (UL 94 / V-0/1.5)
+Rated Current
+3.5 Amps
+Specifications
+Contact Type: Solder 
+Contact Dia.: 0.5 mm (0.02in) 
+Bucket Dia.: 0.4 mm (0.016in) 
+Max. Solid Conductor: 0.09 mm^2 (AWG 28) 
+Max. Stranded Conductor: 0.05 mm^2 (AWG 30) 
+R (max): 8.7 mOhm 
+Vtest (contact-shell): 950 V (AC), 1340 V (DC) 
+Vtest (contact-contact): 1000 V (AC), 1400 V (DC) 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Others
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+L
+M
+S1
+S2
+mm.
+6.4
+28.5
+20.5
+5.5
+5
+in.
+0,25
+1,12
+0,81
+0,22
+0,20
+RECOMMENDED BY LEMO
+Tools
+Caps: 
+BFG.00.100.PCSG
+Cables
+Black
+PVC
+2050
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FGG.00.302.CLAD27

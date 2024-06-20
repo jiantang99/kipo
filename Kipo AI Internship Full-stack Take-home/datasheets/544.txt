@@ -1,0 +1,184 @@
+https://www.phoenixcontact.com/pi/products/1425592
+Flush-type connector - SACC-DSI-M12MSL4CON-M16XL-
+L180 - 1425592
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Flush-type connector, Power, 4-position, Plug, straight, M12, L-coded, Rear mounting, M16 x 1.5, Solder pins
+Your advantages
+ Easy PCB assembly: one-piece connectors for wave soldering
+ For compact devices: transmit high power in a confined space
+ Easy-to-install, optimized XL housing contour with wrench size 19
+ Mechanical tightening limitation for long-term-stable gasket
+Key Commercial Data
+Packing unit
+20 pc
+Minimum order quantity
+20 pc
+GTIN
+GTIN
+4055626428451
+Technical data
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+-40 °C ... 85 °C (without mechanical actuation)
+Degree of protection
+IP67
+General
+Note
+The electrical and mechanical data specified assume that the connector
+pair is correctly locked and mounted. If the connector is unlocked and if
+there is a danger of contamination, the connector must be sealed using
+a protective cap > IP54. Influences arising from litz wires, cables or PCB
+assembly must also be taken into consideration.
+Rated current at 40°C
+16 A
+Rated voltage
+63 V
+09/12/2020   Page 1 / 6
+
+https://www.phoenixcontact.com/pi/products/1425592
+Flush-type connector - SACC-DSI-M12MSL4CON-M16XL-
+L180 - 1425592
+Technical data
+General
+Rated surge voltage
+1.5 kV
+Number of positions
+4
+Coding
+L - Power
+Standards/regulations
+M12 connector IEC 61076-2-111 In line with
+Signal type/category
+Power
+Overvoltage category
+III
+Degree of pollution
+3
+Connection method
+Solder pins
+Insertion/withdrawal cycles
+> 100
+Mounting type
+Rear mounting M16 x 1.5 With flat nut
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PA
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+FKM
+Additional material specifications
+PU 2K (Grout material)
+Cable
+Standards/specifications
+M12 connector IEC 61076-2-111 In line with
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-111 In line with
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/12/2020   Page 2 / 6
+
+https://www.phoenixcontact.com/pi/products/1425592
+Flush-type connector - SACC-DSI-M12MSL4CON-M16XL-
+L180 - 1425592
+Dimensional drawing
+Technical drawings can be found under Downloads
+09/12/2020   Page 3 / 6
+
+https://www.phoenixcontact.com/pi/products/1425592
+Flush-type connector - SACC-DSI-M12MSL4CON-M16XL-
+L180 - 1425592
+Schematic diagram
+Pin assignment of M12 connector, 4-pos., L-coded, pin side view
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 5.1
+27143423
+eCl@ss 6.0
+27143423
+eCl@ss 8.0
+27440102
+eCl@ss 9.0
+27440102
+09/12/2020   Page 4 / 6
+
+https://www.phoenixcontact.com/pi/products/1425592
+Flush-type connector - SACC-DSI-M12MSL4CON-M16XL-
+L180 - 1425592
+Approvals
+Approvals
+Approvals
+cULus Recognized / EAC
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm  E468743-20180113
+cULus Recognized 
+
+ 
+ 
+Nominal voltage UN
+63 V
+Nominal current IN
+16 A
+ 
+ B.01687
+EAC 
+
+Accessories
+Accessories
+Protective cap
+Sealing cap - PROT-M12 FS - 1560251
+M12 sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-type plugs and I/O devices in the field
+ 
+ 
+Sealing cap - PROT-M12 FS-M - 1430488
+M12 metal sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-type plugs and I/O devices in the
+field
+ 
+ 
+09/12/2020   Page 5 / 6
+
+https://www.phoenixcontact.com/pi/products/1425592
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/12/2020   Page 6 / 6
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1425592

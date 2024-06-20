@@ -1,0 +1,342 @@
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Sensor/Actuator flush-type socket, 5-pos., M12, A-coded, front/screw mounting with Pg9 thread, with 0.5 m
+TPE litz wire, 5x 0.34 mm²
+Your advantages
+ Pre-assembled with litz wires for immediate use
+ Customer-specific assemblies and litz wire lengths available
+ Sealed on the litz wire side for optimum leak-tightness
+ All standard pin assignments and codings for signal, data, and power transmission with a uniform design-in design
+ For high transmission safety: shield connection to the housing with optional EMC nut
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4017918134945
+Sales Key
+02
+Technical data
+Dimensions
+Length of cable
+0.5 m
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+Degree of protection
+IP67
+General
+Note
+The electrical and mechanical data specified assume that the connector
+pair is correctly locked and mounted. If the connector is unlocked and if
+there is a danger of contamination, the connector must be sealed using
+a protective cap > IP54. Influences arising from litz wires, cables or PCB
+assembly must also be taken into consideration.
+Rated current at 40°C
+4 A
+09/11/2020   Page 1 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Technical data
+General
+Rated voltage
+60 V
+Rated surge voltage
+1.5 kV
+Number of positions
+5
+Insulation resistance
+> 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Individual wires
+Insertion/withdrawal cycles
+≥ 100
+Torque
+3 Nm ... 4 Nm (Installation-side)
+Mounting type
+Front mounting Pg9
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Ni/Au
+Contact carrier material
+PA66
+Material, knurls
+Nickel-plated brass
+Sealing material
+FKM
+Cable
+Cable type
+TPE litz wire
+Conductor cross section
+0.34 mm²
+AWG signal line
+22
+Conductor structure signal line
+7x 0.25 mm
+Core diameter including insulation
+1.2 mm ±0.07 mm
+Thickness, insulation
+0.21 mm (Core insulation)
+Wire colors
+Black, brown,blue, white, gray
+Material conductor insulation
+TPE
+Conductor material
+Tin-plated Cu litz wires
+Standards/specifications
+M12 connector IEC 61076-2-101
+Insulation resistance
+≥ 20 MΩ*km
+Conductor resistance
+≤ 57.6 Ω/km
+Nominal voltage, cable
+300 V
+Test voltage, cable
+2000 V AC
+Ambient temperature (operation)
+-40 °C ... 85 °C (cable, fixed installation)
+-25 °C ... 85 °C (cable, flexible installation)
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+09/11/2020   Page 2 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Technical data
+Standards and Regulations
+Flammability rating according to UL 94
+V0
+Safety note
+WARNING: The connectors may not be plugged in or disconnected
+under load. Ignoring the warning or improper use may damage persons
+and/or property.
+• WARNING: Commission properly functioning products only. The
+products must be regularly inspected for damage. Decommission
+defective products immediately. Replace damaged products. Repairs
+are not possible.
+• WARNING: Only electrically qualified personnel may install and
+operate the product. They must observe the following safety notes.
+The qualified personnel must be familiar with the basics of electrical
+engineering. They must be able to recognize and prevent danger. The
+relevant symbol on the packaging indicates that only personnel familiar
+with electrical engineering are allowed to install and operate the product.
+• The products are suitable for applications in plant, controller, and
+electrical device engineering.
+• When operating the connectors in outdoor applications, they must be
+separately protected against environmental influences.
+• Assembled products may not be manipulated or improperly opened.
+• Only use mating connectors that are specified in the technical data
+of the standards listed (e.g. the ones listed in the product accessories
+online at phoenixcontact.com/products).
+• When using the product in direct connection with third-party
+manufacturers, the user is responsible.
+• For operating voltages > 50 V AC, conductive connector housings must
+be grounded
+• Ensure that when laying the cable, the tensile load on the connectors
+does not exceed the upper limit specified in the standards.
+• Observe the corresponding technical data. You will find information: 
+o On the product 
+o On the packing label 
+o In the supplied documentation 
+o Online at phoenixcontact.com/products under the product
+• Only use tools recommended by Phoenix Contact
+• Use a protective cap to protect connectors that are not in use. The
+suitable accessories are available online in the accessory section of the
+product at phoenixcontact.com/products
+• Ensure that the protective or functional ground has been properly
+connected.
+• VDE 0100/1.97 § 411.1.3.2 and DIN EN 60 204/11.98 § 14.1.3 are
+applicable when combining several circuits in a cable and/or connector
+• The connector warms up in normal operation. Depending on the
+ambient conditions, the surface of the connector can continue to warm
+up. In this case, the user is responsible for posting warnings (e.g. DIN
+EN ISO 13732-1:2008-12).
+Environmental Product Compliance
+China RoHS
+Environmentally friendly use period: unlimited = EFUP-e
+No hazardous substances above threshold values
+Drawings
+09/11/2020   Page 3 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Dimensional drawing
+Housing cutout for Pg9 fastening thread, mounting panel with feed-through hole (alternatively with surface as protection against rotation)
+09/11/2020   Page 4 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Diagram
+I = current strength, T = ambient temperature
+09/11/2020   Page 5 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Dimensional drawing
+M12 flush-type connector
+09/11/2020   Page 6 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Dimensional drawing
+Housing cutout for Pg9 fastening thread, mounting panel with thread
+Circuit diagram
+Contact assignment of the M12 plug and the M12 socket
+09/11/2020   Page 7 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Schematic diagram
+Pin assignment M12 socket, 5-pos., A-coded, socket side view
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+09/11/2020   Page 8 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Classifications
+ETIM
+ETIM 2.0
+EC001297
+ETIM 3.0
+EC002061
+ETIM 4.0
+EC002062
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+EAC / cULus Recognized
+Ex Approvals
+Approval details
+ 
+ B.01687
+EAC 
+
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm  E221474-20140616
+cULus Recognized 
+
+ 
+ 
+Nominal voltage UN
+60 V
+Nominal current IN
+4 A
+mm²/AWG/kcmil
+22-20
+09/11/2020   Page 9 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Panel feed-through - SACC-E-M12FS-5CON-PG9/0,5 - 1671098
+Accessories
+Accessories
+Circular connectors (device side)
+Flat nut - SACC-E-MU-PG9 - 1504084
+Flat nut with Pg9 thread
+ 
+ 
+Plug for cable screw gland
+Screw plug - PROT-M12 - 1680539
+An M12 screw plug for the unoccupied M12 sockets of the sensor/actuator cable, boxes and flush-type connectors
+ 
+ 
+Screw plug - PROT-M12 SH - 1503302
+An M12 screw plug for the unoccupied M12 sockets of the shielded sensor/actuator cable, boxes and flush-type
+connectors
+ 
+ 
+Screw plug - PROT-M12 FB - 1555538
+M12 high-grade steel screw plug, for unoccupied M12 sockets of the sensor/actuator cables, boxes and flush-type
+connectors for the food industry
+ 
+ 
+Seal
+Flat gasket - SACC-PG9-SEAL CLM - 1556320
+Pg9 flat gasket for the rear mounting of M12 flush-type connectors with Pg9 fastening threads
+ 
+ 
+09/11/2020   Page 10 / 11
+
+https://www.phoenixcontact.com/pi/products/1671098
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 11 / 11
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1671098

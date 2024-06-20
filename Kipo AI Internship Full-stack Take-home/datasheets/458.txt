@@ -1,0 +1,242 @@
+EGG.0B.302.CYM
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+2
+Image is for illustrative purpose only
+Series
+0B
+Download
+Female crimp
+Termination type
+Request a quote
+IP rating
+50
+Eplan
+AWG wire size
+24.00 - 20.00
+Catalog
+Cable Ø
+0.00 - 0.00 mm
+Status
+active
+Matching parts
+FGG.0B.302.CYCD52
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+EG*: Fixed receptacle, nut fixing
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+5.28 g
+Performance
+Configuration
+0B.302 : 2 Low Voltage
+Insulator
+Y: PEEK for crimp contacts
+Rated Current
+10 Amps
+Specifications
+Contact Type: Crimp 
+Contact Retention: 30 N 
+Contact Dia.: 0.9 mm (0.035in) 
+Bucket Dia.: 1.1 mm (0.043in) 
+Min. Conductor: 0.25 mm^2 (AWG 24) 
+Max. Conductor: 0.5 mm^2 (AWG 20) 
+R (max): 4.8 mOhm 
+Vtest (contact-shell): 1200 V (AC), 1700 V (DC) 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/4
+
+Vtest(contact-contact): 1450 V (AC), 2100 V (DC)
+Others
+Endurance (Shell): 5000 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+B
+E
+L
+M
+N
+S1
+S3
+e
+mm.
+10
+12.5
+7
+20.7
+1.2
+19.1
+8.2
+11
+M9x0.6
+in.
+0,39
+0,49
+0,28
+0,81
+0,05
+0,75
+0,32
+0,43
+RECOMMENDED BY LEMO
+Tools
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/4
+
+Crimp Tool: 
+DPC.91.701.V
+Crimp settings: 
+AWG/Selector = 20-22-24/6-5-5
+Positionner: 
+DCE.91.090.BVM
+Extractor: 
+DCF.91.090.2LT
+Replacement contact: 
+EGG.0B.660.ZZM
+Cables
+CMN.02.T20.047PGZE
+Grey
+CMN.02.T20.047PNZE
+CMN.02.T20.048QGZE
+TPR (medical)
+Grey
+CMN.02.T28.030PGCE
+PVC
+GREY
+CMN.02.T28.030PGZE
+Grey
+CMN.02.T28.030PNCE
+PVC
+Black
+CMN.02.T28.030PNZE
+102080
+PVC
+Grey
+120184
+PVC
+Black
+120240
+PVC
+Black
+120250
+PVC
+Grey
+120500
+PVC
+Grey
+120501
+PVC
+Grey
+120751
+PVC
+Grey
+20140
+PVC
+Grey
+20140
+PVC
+Grey
+20141
+PVC
+Grey
+20142
+PVC
+Red
+20143
+PVC
+Green
+20144
+PVC
+Black
+20145
+PVC
+Yellow
+20146
+PVC
+Black
+20240
+PTFE
+White
+20260
+PVC
+Black
+20264
+PVC
+Black
+20266
+PVC
+Violet
+2050
+PVC
+Black
+20550
+PUR
+Black
+20560
+PUR
+White
+2080
+PVC
+Grey
+220750
+PVC
+Grey
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/4
+
+2221
+PVC
+Black
+2260
+PTFE
+White
+2280
+PVC
+Black
+4082
+PVC
+Grey
+CMB.02.210.635
+PUR
+Black
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+4/4
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  EGG.0B.302.CYM

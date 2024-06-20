@@ -1,0 +1,164 @@
+Product-PDF for Article 7000-08101-0110500
+M8 female 90° A-cod. with cable
+PVC 4x0.25 ye UL/CSA 5m
+Female 90°
+M8, 4-pole
+Art-No. 7005 - M8 Lite - (plastic hexagonal screw) on request
+with cable sleeves
+Plastic housings with good resistance against chemicals and oils.
+The resistance to aggressive media should be individually tested for your application. Further details on request.
+Further cable lengths on request.
+Link to Product
+Illustration
+Product may differ from Image
+Cable length
+5 m
+Technical Data
+Operating voltage
+max. 50 V AC/60 V DC
+The information in this Product-PDF has been compiled with the utmost care.
+Liability for the correctness completeness and topicality of the information is restricted to gross negligence. Version: 2023-07-08
+Murrelektronik Inc. | 1327 Northbrook Parkway, Suite 460 | Suwanee, GA 30024 | Fon +1 770 497-9292 | Fax +1 770 497-9391 | shop@murrinc.com | shop.murrinc.com
+
+Product-PDF for Article 7000-08101-0110500
+Operating voltage (only UL listed)
+30 V AC/DC
+Rated surge voltage
+1.5 kV
+Operating current per contact
+max. 4 A
+No. of poles
+4
+Material group
+IEC 60664-1, category I
+LED display
+no
+Locking of ports
+Screw thread (M8×1 mm) recommended torque 0.4 Nm, self-securing
+Protection
+IP65, IP66K, IP67 inserted and tightened (EN 60529)
+Material
+PUR
+Locking material
+Zinc die casting, matte nickel plated
+suitable for corrugated tube (internal Ø)
+6.5 mm
+Compression gland
+M8 (SW9)
+General data
+Standards
+DIN EN 61076-2-104 (M8)
+Mounting method
+inserted, tightened
+Material contact
+Copper alloy
+Material contact surface
+Au
+Material gasket
+FKM
+Pollution Degree
+3
+Stripping length (jacket)
+20 mm
+Temperature range
+-25...+85 °C, depending on cable quality
+Cable
+No./diameter of wires
+4× 0.25 mm²
+Wire isolation
+PVC (br, wh, bl, bk)
+Outer Ø
+4.8 mm ±5%
+Cable identification
+011
+Cable Type
+1 (PVC)
+Approval (cable)
+UL (AWM-Style 2464/1731), CSA
+Cable weight [g/m]
+34,76 g
+Material wire
+Cu wire, bare
+Resistor (core)
+max. 79 Ω/km (20 °C)
+Single wire Ø (core)
+0.15 mm
+Construction (core)
+14× 0.15 mm (multi-strand wire class 5)
+Diameter (core)
+4× 0.25 mm²
+AWG
+similar to AWG 24
+Material wire isolation
+PVC
+Material property wire insulation
+CFC-, cadmium-, silicone- and lead-free
+Shore hardness wire isolation
+45 ±5 D
+Wire-Ø incl. isolation
+1.25 mm ±5%
+Color/numbering of wires
+br, bk, bl, wh
+Stranding combination
+4 wires twisted
+Shield
+no
+Material jacket
+PVC
+Material property (jacket)
+CFC-, cadmium-, silicone- and lead-free
+Shore hardness jacket
+85 ±5 A
+Outer-Ø (jacket)
+4.8 mm ±5%
+Color jacket
+yellow
+Jacket Color
+yellow
+chemical resistance
+good resistance to oil, gasoline and chemicals
+thermal resistance
+flame retardant UL 1581 VW1 / CSA FT1
+Nominal voltage
+UL 300 V AC
+Test voltage
+2000 V AC
+Current load capacity
+to DIN VDE 0298-4
+The information in this Product-PDF has been compiled with the utmost care.
+Liability for the correctness completeness and topicality of the information is restricted to gross negligence. Version: 2023-07-08
+Murrelektronik Inc. | 1327 Northbrook Parkway, Suite 460 | Suwanee, GA 30024 | Fon +1 770 497-9292 | Fax +1 770 497-9391 | shop@murrinc.com | shop.murrinc.com
+
+Product-PDF for Article 7000-08101-0110500
+Temperature range (fixed)
+-30...+80 °C
+Temperature range (fixed)
+-30...+80 °C
+Temperature range (mobile)
+-5...+80 °C
+Temperature range (mobile)
+-5...+80 °C
+Bend radius (fixed)
+5× outer Ø
+Bend radius (moving)
+10× outer Ø
+Bend radius (moving)
+10× outer Ø
+Material jacket
+PVC (UL/CSA)
+The information in this Product-PDF has been compiled with the utmost care.
+Liability for the correctness completeness and topicality of the information is restricted to gross negligence. Version: 2023-07-08
+Murrelektronik Inc. | 1327 Northbrook Parkway, Suite 460 | Suwanee, GA 30024 | Fon +1 770 497-9292 | Fax +1 770 497-9391 | shop@murrinc.com | shop.murrinc.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Murrelektronik:  
+ 
+  7000-08101-0110500

@@ -1,0 +1,132 @@
+FGG.1B.310.CLAZ
+www.lemo.com
+SUMMARY
+# Wires
+Low
+10
+High
+0
+Image is for illustrative purpose only
+Coax
+0
+Triax
+0
+Download
+Quad
+0
+Request a quote
+Fiber
+0
+Catalog
+Fluidic
+0
+See video assembly instructions
+Series
+1B
+Termination type
+Male solder
+IP rating
+50
+Cable Ø
+0.00 - 0.00 mm
+Status
+active
+Alternative part
+Matching parts
+EGG.1B.310.CLL
+PHG.1B.310.CLLZ
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FG*: Straight plug, cable collet
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated) shell and collet nut, nickel plated brass latch sleeve and mid pieces
+Variant
+Weight
+13.94 g
+Performance
+Configuration
+1B.310 : 10 Low Voltage
+Insulator
+L: PEEK (UL 94 / V-0/3.2, depends on material thickness)
+Rated Current
+2.5 Amps
+Specifications
+Contact Type: Solder 
+Contact Dia.: 0.5 mm (0.02in) 
+Bucket Dia.: 0.45 mm (0.018in) 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/3
+
+Max. Solid Conductor: 0.09 mm^2 (AWG 28) 
+Max. Stranded Conductor: 0.09 mm^2 (AWG 28) 
+R (max): 8.7 mOhm 
+Vtest (contact-shell): 1500 V (AC), 2120 V (DC) 
+Vtest (contact-contact): 900 V (AC), 1270 V (DC) 
+Others
+Endurance (Shell): 5000 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+IP Rating: 50 
+  
+  
+DRAWINGS
+Draws
+Dimensions
+A
+L
+M
+S1
+S2
+mm.
+12
+43
+32
+10
+9
+in.
+0,47
+1,69
+1,26
+0,39
+0,35
+  
+  
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/3
+
+RECOMMENDED BY LEMO
+Tools
+Spanner wrench: DCD.1B.015.PA090 
+Caps: BFG.1B.100.PCSG 
+Cables
+CMN.10.T22.068QGC
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FGG.1B.310.CLAZ

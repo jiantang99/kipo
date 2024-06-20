@@ -1,0 +1,10696 @@
+A PERFECT ALLIANCE. 
+ODU MINI-SNAP®
+Miniature circular connectors  
+with Push-Pull locking.
+SERIES K
+ODU MINI-SNAP® K 
+ODU MINI-SNAP® L                 ODU MINI-SNAP® B                 ODU MINI-SNAP® F                 ODU AMC®                 ODU MEDI-SNAP®                 ODU MINI-SNAP® PC 
+www.odu-usa.com
+
+ODU MINI-SNAP® K
+FEATURES 
+APPLICATIONS 
+• Medical
+• Industrial
+• Test and measurement 
+• Military and security
+• Energy
+• eMobility
+• Quick and easy mating and demating
+•  Blind mating and demating in difficult-to-reach places
+• Low space requirements on the receptacles
+• Definite and secure locking conditions
+•  Robotic mating and demating possible
+•  Easy cleaning of the connector plug housing possible
+•  High connector density
+•  Low power requirement
+Data transmission protocols
+All shown connectors are according to IEC 61984:2008  
+(VDE 0627:2009); connectors without breaking capacity (COC).
+ODU MINI-SNAP is UL-approved under file E110586.  
+MIL specification: Tests carried out (see page 170).
+These ODU specific connectors can transmit common data transmission protocols 
+such as USB® 2.0, USB® 3.1 Gen1, CAT 5, CAT 6A  and Ethernet , but they are not 
+USB®-, CAT- and Ethernet-standard connectors.
+All dimensions are in mm.
+Some figures are for illustrative purposes only.
+Subject to change without notice. Errors and omissions excepted.
+We reserve the right to change our products and their technical 
+specifications at any time in the interest of technical improvement.
+This publication supersedes all prior publications.
+This publication is also available as a PDF file that can be down-
+loaded from www.odu-connectors.com.
+Issue: 2018-05
+2
+
+TABLE OF CONTENTS
+Clickable page 
+numbers
+ 4
+THE ODU CORPORATE GROUP 
+PRODUCT INFORMATION 
+ 10
+ 12
+ 13
+ 14
+Push-Pull connector series at a glance  
+Specific attributes of series L, K and B  
+Functional principle of the Push-Pull locking  
+Facts & figures  
+ 15
+CONFIGURATION GUIDELINE 
+ 16
+Correct configuring – step by step  
+ 18
+ODU MINI-SNAP® SERIES K 
+ 74
+ 76
+ 78
+ 80
+ 88
+ 90
+ 108
+Summary ODU MINI-SNAP® series K  
+The LP locking principle  
+Styles  
+Keyings  
+Contact inserts and PCB layouts  
+Cable collet system  
+Accessories  
+ 110
+TOOLS, CRIMP INFORMATION, PROCESSING INSTRUCTIONS, ACCESSORIES 
+ 154
+ 156
+ 158
+ 158
+Crimping tools /assembly tools  
+Spanner wrench  
+Nutdriver for slotted mounting nut  
+Removal tools for crimp-clip-contacts  
+ 159
+TECHNICAL INFORMATION 
+ 160
+ 162
+ 163
+ 164
+ 165
+ 166
+ 167
+ 168
+ 169
+ 170
+ 170
+International protection classes acc. IEC 60529:2013 (VDE 0470-1:2014)  
+Principle of watertightness  
+Housing materials and insulator materials  
+Termination technologies  
+Conversions / AWG  
+Current load of turned contacts  
+Operating voltage  
+Electro magnetic compatibility (EMC)  
+Autoclaving  
+Test standard  
+Technical terms  
+ 171
+For assembly instructions, please refer to our website: www.odu-connectors.com/downloads/assembly-instructions
+3
+
+A PERFECT 
+ALLIANCE.
+CREATING CONNECTIONS, BUILDING ALLIANCES, COLLABO-
+RATING INTO THE FUTURE: WHETHER TWO TECHNICAL COM-
+PONENTS COME TOGETHER TO FORM A UNIT OR PEOPLE COME 
+TOGETHER TO STRIVE FOR GREAT RESULTS – THE KEY IS TO 
+ASPIRE IN ACHIEVING SUPERB RESULTS. THIS GOAL DRIVES OUR 
+WORK. PERFECT CONNECTIONS THAT INSPIRE AND DELIVER 
+ON THE PROMISES.
+
+ODU WORLDWIDE
+ODU Scandinavia AB
+ODU (Shanghai) 
+International Trading Co., Ltd.
+ODU Denmark ApS
+ODU GmbH & Co. KG
+Headquarters
+ODU-USA, Inc.
+ODU (Shanghai) 
+Connectors Manufacturing Co.Ltd
+ODU North American Logistics
+ODU Japan K.K.
+ODU Mexico 
+Manufacturing S.R.L. de C.V.
+ODU Romania Manufacturing S.R.L. 
+ODU Italia S.R.L.
+ODU France SARL
+ODU-UK Ltd.
+ODU GROUP OVERVIEW
+CERTIFIED QUALITY
+• More than 75 years of experience in connector technology
+• DIN EN ISO 9001
+• A turnover of 170 million Euro
+• IATF 16949
+• Over 1,900 employees worldwide
+• DIN EN ISO 14001
+• ISO 13485
+• Wide range of UL, CSA, VG and DVA licenses
+• 9 sales subsidiaries in China, Denmark, France, Germany, 
+ Italy, Japan, Sweden, the UK and the US as well as 
+ 5 production and logistics sites
+• UL certifi ed cable assembly
+•  All technologies under one roof: Design and development, 
+machine tool and special machine construction, injection, 
+stamping, turning, surface technology, assembly and 
+cable assembly
+As of February 2018
+For a complete list of our certifi cations, please visit our website.
+
+THE ODU GROUP
+PERFECT SOLUTIONS
+INGENIOUS IDEAS
+ODU’S PRODUCT PORTFOLIO.
+PUSH-PULL CIRCULAR CONNECTORS
+ELECTRICAL CONTACTS
+COMPACT MODULAR CONNECTOR SOLUTIONS
+•   Circular connector series in robust 
+metal or plastic housing
+•   Contacts for soldering, crimping and
+PCB termination
+•   Versatile connector technologies
+•   Outstanding reliability, lifetime and durability 
+•   Up to 1 million mating cycles
+•   Current-carrying capacity of up to 
+2,400 amperes and more
+•   Rugged contact systems, suitable even 
+for harsh environments
+•   Optional selectable Push-Pull locking ensuring 
+a secure connection at all times as well as 
+easy to release Break-Away function
+•   Economical solutions for automatic processing
+•   Application-specifi c hybrid interface 
+•  For manual mating and automatic docking
+•   The highest packing density
+•   Flexible modular construction
+•   Multitude of data transmission modules
+•    Variety of locking options available 
+•   For the transmission of signals, power, high 
+current, high voltage, coax, high-speed data, 
+fi ber optics and other media such as air or fl uid.
+•   Mating cycles scalable as required 
+from 10,000 to over 100,000 (1 million)
+•   2 up to 55 contacts
+•   IP 50 to IP 69
+•   Autoclavable for medical applications
+•   Hybrid inserts for combined transmission
+
+Versatile connector solutions for transmission of power, signals, data, 
+or media – ODU never fails to off er the right interface when quality and 
+absolute reliability are the top priorities.
+CABLE ASSEMBLY
+APPLICATION AND 
+CUSTOMER-SPECIFIC SOLUTIONS
+HEAVY-DUTY & DOCKING 
+AND ROBOTIC CONNECTOR SOLUTIONS
+•   Extremely durable even under extreme / harsh 
+environments
+•   Complete systems from a single source based 
+on years of assembly expertise
+•   Contacts, connectors and assemblies for 
+the highest technical requirements as well 
+as special applications
+•   Interference-free and secure connection, 
+even under vibration
+•   State-of-the-art production facilities with 100% 
+end testing, high-voltage testing, component 
+testing and pressure testing up to 100 bar
+•   First-class implementation expertise
+•   High level of vertical manufacturing – 
+all competences and key technologies 
+under one roof
+•   Up to 500 A (higher currents upon request)
+•   High contact security due to the springwire 
+technology
+•   Expert advice based on mutual partnership
+•   Fast development and production
+•   High pin density due to a minimum contact 
+diameter
+•   Cleanroom production 
+•   Hot-melt and high-pressure injection molding 
+•   Customer-specifi c labeling
+•   Rapid prototyping of samples
+• Low contact resistance
+
+THE ODU GROUP
+MORE
+THAN A CONNECTION
+OUR KNOW-HOW FOR YOUR SUCCESS.
+HIGH PERFORMANCE CONNECTOR TECHNOLOGY FOR DEMANDING KEY MARKETS
+APPLICATION-SPECIFIC SOLUTIONS 
+Customers rely on ODU technology wherever fi rst-class, high-performance con-
+nector solutions are required. All our skills go into our products to ensure your 
+success. In addition to the top quality, reliable stability and maximum fl exibility 
+in customer-specifi c requirements, our products also stand for dynamics, 
+reliability, safety, precision, eﬃ  ciency and sustainability. And they guarantee 
+unrestricted functionality for the fi nal product due to our high quality connectors. 
+ODU – A PERFECT ALLIANCE.
+Demands that can’t be pigeon-holed call for cre-
+ative specialists who think outside the box. ODU 
+off ers the type of expertise that focuses solely 
+on the specifi c requirements of our customers. 
+For every development order we get, we not only 
+perform a thorough check to make sure it’s feasi-
+ble, we intensively incorporate our customers in 
+the ongoing design process. This guarantees an 
+impressive, custom-fi t fi nal result. Our solutions 
+are frequently based on the modifi cations of our 
+products, especially for the ODU MINI-SNAP and 
+ODU-MAC connectors.
+
+MEDICAL
+TEST AND MEASUREMENT
+MILITARY AND SECURITY
+INDUSTRIAL
+ENERGY
+EMOBILITY
+HIGH LEVEL OF VERTICAL INTEGRATION
+INDIVIDUAL CABLE ASSEMBLY
+ODU combines all the competences and key technologies for the connector 
+manufacturing. These include design and development, machine tool and 
+special machine construction, injection, stamping, turning, surface tech-
+nology, assembly and cable assembly and our own test laboratory. 
+Our production skills together with our cutting 
+edge production facilities from Europe, China 
+and the USA enable us to deliver to our customers 
+locally tested assemblies and also global ones.
+
+ODU MINI-SNAP®
+Table of Contents
+
+PRODUCT INFORMATION
+PRODUCT INFORMATION
+Push-Pull connector series at a glance  
+ 12
+Specific attributes of the series L, K and B  
+ 13
+Functional principle of the Push-Pull locking  
+ 14
+Facts & figures  
+ 15
+Table of Contents
+
+PRODUCT INFORMATION
+THE COMPLETE SERIES OF ODU PUSH-PULL  
+CONNECTORS AT A GLANCE
+Keying
+Size
+No. of possible me-
+chanical keyings 
+Plug diameter in mm
+Max. cable  
+diameter in mm
+Number of  
+max. contacts
+Solder
+Crimp
+PCB
+IP protection degree 
+IEC 60529:2013 in 
+mated condition
+IP protection degree 
+IEC 60529:2013 in 
+unmated condition
+From page
+00
+4
+6.4
+3.5
+04
+ODU MINI-SNAP® L
+0
+8
+9
+5.6
+10
+1
+8
+11.5
+7.7
+16
+•
+•
+•
+IP 50
+Up to  
+IP 68
+22
+2
+8
+14.5
+9.9
+26
+3
+8
+17.5
+11.9
+30
+Pin and groove
+4
+8
+25
+16
+40
+0
+8
+11
+5
+10
+ODU MINI-SNAP® K
+1
+8
+13
+7
+16
+2
+8
+16
+9
+26
+•
+•
+•
+Up to  
+IP 68 
+Up to  
+IP 68
+74
+3
+8
+19
+10.5
+30
+Pin and groove
+4
+8
+25
+14
+40
+0
+8
+9.4
+5
+10
+ODU MINI-SNAP® B
+1
+9
+12
+7
+16
+•
+•
+•
+IP 68
+Up to  
+IP 68
+114
+2
+10
+15
+9
+26
+Pin and groove
+3
+13
+18
+10.5
+30
+FURTHER PRODUCTS OF THE ODU PUSH-PULL CONNECTOR SERIES.
+ODU MINI-SNAP® PC
+ODU MEDI-SNAP® 
+ODU MINI-SNAP® S
+ODU MINI-SNAP® F
+ODU AMC®
+•  Push-Pull and  
+Break-Away version 
+•   Keying over half-shell
+•   2–27 contacts /  
+•   Keying over insulator
+•   2–10 contacts /  
+mixed inserts
+mixed inserts
+•   Push-Pull locking
+•   Break-Away functionality
+•  Distinctive coding options 
+– by colors and mechanics
+•  3 sizes
+•   IP 50 and IP 68 with same 
+outer diameter possible
+•  Keying over half-shell
+•  2–27 contacts
+•  Low weight 
+•  IP 67 
+•  3 sizes
+•  Plastic connector plug 
+•  5 sizes
+• IP 50 and IP 68 with same  
+ 
+outer diameter possible
+•  3–55 contacts
+•  6 sizes
+•   Watertight – IP 68
+•   Easy-Clean and  
+housing
+High-Density version 
+•  Contacts for solder, crimp 
+•   Contacts for solder, crimp 
+and PCB termination
+and PCB termination
+•   Lightweight
+•   2 to 26 positions
+•   IP 50, IP 64 and IP 67
+•   Sterilizable versions
+•   2,000 mating cycles
+•  Tested acc. MIL
+•   Low weight 
+(aluminium connector 
+plug housing)
+12
+Table of Contents
+
+PRODUCT INFORMATION
+CIRCULAR CONNECTORS WITH PUSH-PULL LOCKING  
+IN METAL CONNECTOR PLUG HOUSING
+PRODUCT INFORMATION
+VERSATILE CONFIGURATION OPTIONS
+There are 6 sizes, 3 termination types and 
+a great variety of various contact inserts to 
+choose from.
+ODU MINI-SNAP is the ideal self-locking circular connector for a wide range 
+of applications. Whether used for transmitting power, signals, data or other 
+media, this circular connector in its robust metal connector plug housing 
+impresses customers with its exceptional quality, high reliability and ideal 
+handling characteristics.
+The Push-Pull principle reliably ensures that the connector will not come 
+loose during application in practice: Once plugged in, the ODU MINI-SNAP 
+locks itself into the receptacle automatically. It cannot be separated by 
+pulling on the cable. Instead, the connector can easily be separated from the 
+receptacle by pulling on the outer housing.
+The ODU MINI-SNAP is available in a wide range of sizes and models. In addi-
+tion, you can choose between three base codings.
+13
+Table of Contents
+
+PRODUCT INFORMATION
+FUNCTIONAL PRINCIPLE OF  
+THE PUSH-PULL LOCKING
+You can read about the precise functioning of 
+the locking mechanism in the relevant series.
+Push-Pull locking systems have a highly user-friendly locking mechanism. 
+When the connector is mated with the receptacle, the connector’s locking fi -
+gers (1) will lock into place in the receptacle and form a dependable connec-
+tion between both parts. It cannot be separated by pulling on the connector’s 
+cable (2). Instead, the connector can easily be separated from the receptacle 
+by pulling on the outer housing (3). Push-pull connectors from ODU are avail-
+able in 6 different standard sizes with diameters from 6.4 mm to 25 mm.
+3
+RECEPTACLE
+PLUG
+1
+Connector  
+in mated condition
+2
+Pulling on the cable or back 
+nut will lock the “fi gers” 
+firm y in place in the recep-
+tacle’s locking groove. This 
+prevents the connector 
+from being disconnected.
+But pulling on the outer 
+housing will cause the 
+fi gers to emerge from the 
+locking groove, making 
+it easy to disconnect the 
+connector.
+14
+Table of Contents
+
+PRODUCT INFORMATION
+TURNED CONTACTS
+IMPORTANT ISSUES  
+AT A GLANCE
+PRODUCT INFORMATION
+VARIOUS SIZES
+Turned contacts are available in diameter 0.5 mm to 2 mm  
+in the following termination types:  
+Solder, crimp and PCB
+• Metal connector plug housing deliverable in 6 sizes
+• Outer diameter 6.4 mm to 25 mm
+• Number of contacts 2 to 40 contacts, mixed inserts
+• IP 50 and IP 68 are deliverable.
+Mating cycles  
+> 5.000  
+Material   
+Brass
+APPLICATIONS AND MATERIALS
+Plating   
+Ni and Au
+TERMINATION TECHNOLOGIES
+Plug
+Receptacle
+Crimp termination
+•
+•
+The ODU MINI-SNAP uses PEEK insulator material as a stand-
+ard feature. Other materials are available upon request. ODU 
+MINI-SNAP connector plug housings are made of brass, nickel 
+plated and then matt chrome plated. Nickel and black chrome 
+plated connector plug housings are available upon request as 
+special materials. The internal parts are made of nickel-plated 
+brass. 
+Solder termination
+•
+•
+PCB termination
+•
+•
+STANDARD PIN CONTACTS
+Thanks to its versatility and autoclavability, the ODU MINI-SNAP 
+is used in a wide range of fields, such as medical technology, 
+measurement and testing technology, military and security 
+technology, industrial electronics and energy technology.
+PCB  
+Solder  
+termination
+termination
+Clip-contact with 
+crimp termination
+The temperature of ODU MINI-SNAP range under general condi-
+tions of use runs from –40 °C to +120 °C, while autoclavable 
+connectors can even be used at temperatures up to +134 °C 
+(see page 170).
+Information on diameters, terminal types and current- 
+carrying capacity can be found in the relevant series after 
+the inserts. 
+15
+Table of Contents
+
+ODU MINI-SNAP®
+Table of Contents
+
+CONFIGURATION
+CONFIGURATION GUIDELINE
+Correct configuring – step by step
+Table of Contents
+
+BIT BY BIT TO THE  
+PERFECT CONNECTION
+ODU offers you high-quality connectors and comprehensive service for the complete assembly. 
+From connectors to watertight grouting, we provide the complete system from a single source.
+Back nut
+Cable collet
+Half-shells
+Insulator with contacts
+Connector plug housing
+Receptacle
+Hex nut
+
+CONFIGURATION
+YOUR WAY TO AN INDIVIDUAL CONNECTION:  
+HOW TO CONFIGURE WITH THE PART NUMBER KEY
+This shows you how ODU’s part number key is composed. In the fir t part of the configuration, select the connector plug 
+housing (such as style and size) of the connector. In the middle part of the part number key, you configure the contact 
+insert and then the cable entry.
+Insulator material1
+Cable collet system
+Type
+A = Break-Away connector / panel-mounted plug
+G = Receptacle
+K = In-line receptacle
+S = Plug
+W = Right-angled plug
+1
+(PEEK = standard)
+8
+17
+16
+Style 
+1 – 9, A – Z
+2
+Contact insert
+e. g. 18 contacts = 18
+9 10
+Back nut 
+(Cable bend 
+relief)
+19
+Size 
+00 – 4
+3
+Contact type /  
+surface
+11
+Contact diameter /  
+termination cross-section
+Series
+L, K, or B
+4
+13 14
+12
+Keying 
+5
+Housing  
+material 
+matt chromate 
+(C) 
+Standard2
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+C
+–
+P
+–
+0
+Connector plug housing
+Contact insert
+Cable entry
+Series L from page 28, series K from page 80, 
+Series L from page 40, series K from page 90, 
+series B from page 120
+series B from page 126
+Series L from page 64, series K from  
+page 108, series B from page 144
+1 Other insulation materials on request. 2 Black chrome plated on request.
+
+CONFIGURATION
+SAMPLE CONFIGURATION STEP BY STEP
+The perfect product for you in just a few steps. These step- 
+by-step instructions show you how to configure your own  
+individual product with the ODU part number key based on  
+a sample configuration.
+Connector in style 2 / size 2 / series L / keying 0° / connector plug housing Ms matt chrome plated / insulator PEEK /  
+16 contacts / pin (solder) Au / termination cross-section AWG 22 / cable diameter 6–7.2 mm / back nut for silicone 
+cable bend relief (silicone cable bend relief has to be ordered separately)
+STEP 1: SERIES (SEE POSITION 4)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+L
+C
+–
+P
+–
+0
+SERIES L
+Page 28–38 (Series L), 80–87 (Series K), 120–124 (Series B)
+STEP 2: STYLE (SEE POSITIONS 1,2 AND 19)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+S
+2
+L
+C
+–
+P
+–
+0
+S
+STYLE S 2 WITH BACK NUT  
+FOR CABLE BEND RELIEF
+Page 28–38 (Series L), 80–87 (Series K), 120–124 (Series B)
+STEP 3: SIZE (SEE POSITION 3)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+14.5
+S
+2
+2
+L
+C
+–
+P
+–
+0
+S
+SIZE 2
+Page 39 (Series L), 88 (Series K), 125 (Series B)
+STEP 4: KEYING (SEE POSITION 5)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+S
+2
+2
+L
+0
+C
+–
+P
+–
+0
+S
+KEYING 0°
+Page 39 (Series L), 88 (Series K), 125 (Series B)
+STEP 5: HOUSING MATERIAL (SEE POSITION 6)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+CR
+matt
+S
+2
+2
+L
+0
+C
+–
+P
+–
+0
+S
+SURFACE MATT CHROMATE
+(OTHERS UPON REQUEST)
+
+CONFIGURATION
+STEP 6: INSULATOR MATERIAL (SEE POSITION 8)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+S
+2
+2
+L
+0
+C
+–
+P
+–
+0
+S
+PEEK
+Page 40–60 (Series L), 90–104 (Series K), 126–140 (Series B)
+STEP 7: CONTACT INSERT (SEE POSITIONS 9 AND 10)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+S
+2
+2
+L
+0
+C
+–
+P
+1
+6 
+–
+0
+S
+16 CONTACTS
+STEP 8: CONTACT TYPE/SURFACE (SEE POSITION 11)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+S
+2
+2
+L
+0
+C
+–
+P
+1
+6
+M
+–
+0
+S
+SOLDER (PIN)
+STEP 9: CONTACT DIAMETER (SEE POSITION 12)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+0.7
+S
+2
+2
+L
+0
+C
+–
+P
+1
+6
+M
+F
+–
+0
+S
+DIAMETER 0.7 mm
+STEP 10: TERMINATION CROSS-SECTION (SEE POSITIONS 13 AND 14)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+S
+2
+2
+L
+0
+C
+–
+P
+1
+6
+M
+F
+G
+0
+–
+0
+S
+AWG 22
+STEP 11: CABLE COLLET SYSTEM (SEE POSITIONS 16 AND 17)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+S
+2
+2
+L
+0
+C
+–
+P
+1
+6
+M
+F
+G
+0
+–
+7
+2
+0
+S
+MAX. CABLE DIAMETER 7.2 mm
+MIN. CABLE DIAMETER 6 mm
+
+ODU MINI-SNAP®
+Table of Contents
+
+SERIES K
+ODU MINI-SNAP® SERIES K
+Summary ODU MINI-SNAP® series K  
+ 76
+The LP locking principle  
+ 78
+Styles  
+ 80
+Keyings  
+ 88
+Contact inserts and PCB Layouts  
+ 90
+Cable collet system  
+ 108
+Accessories  
+ 110
+Table of Contents
+
+SERIES K – SUMMARY
+SUMMARY ODU MINI-SNAP® SERIES K
+STRAIGHT PLUG
+P.80
+The ODU MINI-SNAP Series K is keyed by pin and groove. These 
+Push-Pull circular connectors can be configured in many dif-
+ferent ways: a wide variety of sizes and termination types and 
+contact inserts are available.
+S
+1
+• Keying over pin and groove
+• 2–40 contacts/mixed inserts
+S
+2
+• Up to 5 sizes and 3 termination types
+•  Choice of numerous plugs and receptacles
+A
+1
+• IP 68
+• 5,000 mating cycles and more
+• Contacts for solder, crimp and PCB termination
+A
+2
+PANEL-MOUNTED PLUG
+P.82
+A
+A
+A
+D
+RIGHT-ANGLED PLUG
+P.83
+W
+1
+IP 681
+IP 681
+IP 682
+IP 681
+W
+2
+1IP 68 when mated. 2 IP 68 when mated or unmated.
+76
+Table of Contents
+
+SERIES K – SUMMARY
+IN-LINE RECEPTACLE
+P.84
+K
+1
+K
+2
+RECEPTACLE
+P.85
+G
+1
+G
+3
+SERIES K
+G
+4
+G
+8
+IP 681
+IP 681
+IP 682
+G
+L
+For assembly instructions, please refer to our website: www.odu-connectors.com/downloads/assembly-instructions
+77
+Table of Contents
+
+SERIES K – LP LOCKING PRINCIPLE
+THE LP LOCKING PRINCIPLE SERIES K
+RECEPTACLE
+PLUG
+Connector  
+in unmated condition
+Locking groove
+Grounding ring
+Locking fingers (“jaws”)
+Outer housing
+Back nut
+Connector  
+in mated condition
+Pulling on the cable or back 
+nut will lock the “fi gers” 
+firm y in place in the recep-
+tacle’s locking groove. This 
+prevents the connector 
+from being disconnected.
+But pulling on the outer 
+housing will cause the 
+“fi gers” to emerge from 
+the locking groove, making 
+it easy to disconnect the 
+connector.
+78
+Table of Contents
+
+SERIES K – LP LOCKING PRINCIPLE
+THE LP LOCKING SERIES K IN SECTIONAL VIEW
+RECEPTACLE
+PLUG
+O-ring
+Inner housing
+6.4
+9
+11.5
+6.4
+9
+11.5
+O-ring
+Cable collet
+6.4
+9
+11.5
+Grounding ring
+EMI ring
+Insulator
+Locking fingers 
+(“jaws”)
+Single conductor
+Cable
+Sealing ring
+00(C1)
+0
+1
+00(C1)
+0
+1
+00(C1)
+0
+1
+Serie L
+Serie L
+Serie L
+25
+25
+25
+17.5
+17.5
+17.5
+14.5
+14.5
+14.5
+Insulator
+Shield
+Contacts
+Contacts
+Half-shell
+Back nut
+Outer housing
+Hex nut
+Serie B
+Serie B
+2
+3
+4
+2
+3
+4
+2
+3
+4
+AVAILABLE SIZES
+16
+16
+16
+11
+13
+11
+13
+9.4
+1
+9.4
+OUTER DIAMETER IN mm (PLUG)
+Scale 1:1
+11
+13
+SERIES K
+Size
+0
+1
+0
+0
+1
+2
+0
+1
+2
+0
+1
+2
+Serie K
+Serie K
+Serie K
+25
+25
+25
+OUTER DIAMETER IN mm (PLUG) 
+Scale 1:1
+19
+19
+19
+Size
+3
+4
+3
+4
+3
+4
+79
+Table of Contents
+
+SERIES K – PLUG
+STRAIGHT PLUG
+S
+1
+0
+STYLE: 1
+IP 68
+With standard back nut
+L1
+D
+SW
+L2
+S
+2
+S
+STYLE: 2
+IP 68
+With back nut for cable bend relief1
+L1
+D
+SW
+L2
+TECHNICAL DATA
+Size
+L1 
+L2 
+D 
+S1 SW
+S2 SW 
+mm
+mm
+mm
+ mm
+mm 
+•  IP 68 in mated condition.
+•  Contact configuration from 
+page 90.
+0
+0
+≈ 37 
+≈ 26
+11
+7
+7
+1
+1
+≈ 44
+≈ 30
+13
+10
+10
+2
+2
+≈ 50
+≈ 34
+16
+12
+13
+3
+3
+≈ 60
+≈ 40
+19
+14
+15
+4
+4
+≈ 73
+≈ 52
+25
+20
+20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+1 Please order cable bend reliefs separately, see page 111.
+80
+Table of Contents
+
+SERIES K – PLUG
+BREAK-AWAY CONNECTOR
+A
+1
+0
+STYLE: 1
+IP 68
+With standard back nut
+L1
+D
+SW
+L2
+A
+2
+S
+STYLE: 2
+IP 68
+With back nut for cable bend relief1
+L1
+D
+SW
+SERIES K
+L2
+TECHNICAL DATA
+Size
+L1 
+L2 
+D 
+A1 SW 
+A2 SW 
+mm
+mm
+mm
+mm
+mm
+•  IP 68 in mated condition.
+•  Contact configuration from 
+page 90.
+0
+0
+≈ 37
+≈ 26
+11
+7
+7
+•  Plug can be separated by 
+1
+1
+≈ 44
+≈ 30
+13
+10
+10
+pulling on the cable.
+3
+3
+≈ 60
+≈ 40
+19
+14
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+1 Please order cable bend reliefs separately, see page 111.
+81
+Table of Contents
+
+SERIES K – PLUG
+PANEL-MOUNTED PLUG
+Suitable for creating a docking connection between 2 devices (e.g. a charging station).
+A
+A
+STYLE: A
+IP 68
+L1
+Panel cut-out 
+L3
+C
+L2
+With hex nut, without locking,  
+installation from front of panel
++0.1
+D
+SW A
+SW +0.1
+SW B
+M
+  Keying indication
+TECHNICAL DATA
+Size
+L11 
+L2 
+L3 
+M 
+C 
+D 
+SW A 
+SW B 
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+Panel cut-out 
+SW 
+mm
+∅
+mm
+•  IP 68 in mated condition.
+•  Anti-rotation feature.
+•  Contact configuration from 
+1
+28
+≈ 4
+16.3
+16 × 1
+2
+20
+14.5
+18.5
+14.6
+16.1
+1
+page 90.
+2
+32
+≈ 4.5
+19
+20 × 1
+2.7
+25
+18.5
+25
+18.6
+20.1
+2
+•  PCB layouts, see page 91.
+A
+D
+STYLE: D
+IP 68
+L1
+Panel cut-out 
+L3
+C
+L2
+With hex nut, without locking,  
+installation from front of panel
++0.1
+D
+SW A
+SW +0.1
+SW B
+M
+  Keying indication
+TECHNICAL DATA
+Size
+L11 
+L2 
+L3 
+M 
+C 
+D 
+SW A 
+SW B 
+•  IP 68 in mated and unmated 
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+Panel cut-out
+SW 
+mm
+∅
+mm
+condition.
+3
+36
+≈ 4
+23.2
+24 × 1
+3
+31
+22.5
+30
+22.6
+24.1
+3
+•  Anti-rotation feature.
+•  No crimp contact possible.
+•  Contact configuration from 
+page 90.
+•  PCB layouts, see page 91.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+1 L1 = maximum length including contact insert.
+82
+Table of Contents
+
+SERIES K – PLUG
+RIGHT-ANGLED PLUG
+W
+1
+0
+STYLE: 1
+IP 68
+With standard back nut
+L2
+L1
+C
+L3
+SW C
+SW A
+SW B
+D
+W
+2
+S
+STYLE: 2
+IP 68
+With back nut and cable bend relief1
+L1
+L2
+C
+L3
+SW C
+SW A
+SERIES K
+SW B
+D
+TECHNICAL DATA
+Size
+L1 
+L2 
+L3 
+C 
+D 
+SW A 
+SW C 
+mm
+mm
+mm
+mm
+mm
+mm
+W1
+SW B 
+mm
+W2
+SW B 
+mm
+mm
+•  IP 68 in mated condition.
+•  Contact configuration from 
+page 90.
+0
+≈ 34.7
+23.2
+≈ 27
+11.6
+9
+10
+7
+7
+8
+0
+1
+≈ 43
+28.7
+≈ 34
+14
+11
+12
+10
+10
+10
+1
+2
+≈ 51
+34.7
+≈ 36
+17.5
+14
+15
+12
+13
+13
+2
+3
+≈ 61
+40.8
+≈ 41
+20
+16.5
+18
+14
+15
+15
+3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+1 Please order cable bend reliefs separately, see page 111.
+83
+Table of Contents
+
+SERIES K – IN-LINE RECEPTACLE
+IN-LINE RECEPTACLE
+Suitable for creating a cable-cable connection.
+K
+1
+0
+STYLE: 1
+IP 68
+With standard back nut
+L1
+D
+SW B
+SW A
+K
+2
+S
+STYLE: 2
+IP 68
+With back nut for cable bend relief1
+L1
+D
+SW B SW A
+TECHNICAL DATA
+Size
+L1 
+D 
+SW A 
+mm
+mm
+mm
+K1  
+SW B 
+mm
+K2  
+SW B 
+mm
+•  IP 68 in mated condition.
+•  Contact configuration from 
+page 90.
+0
+≈ 39
+13
+9
+7
+7
+0
+1
+≈ 47
+15
+11
+10
+10
+1
+2
+≈ 54
+19
+14
+12
+13
+2
+3
+≈ 64
+23
+16.5
+14
+15
+3
+4
+≈ 79
+29
+22
+20
+20
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+1 Please order cable bend reliefs separately, see page 111.
+84
+Table of Contents
+
+SERIES K – RECEPTACLE
+RECEPTACLE
+L1
+G
+1
+STYLE: 1
+IP 68
+Panel cut-out 
+L3
+Receptacle for installation from front of panel
+C
+L2
++0.1
+D
+SW A
+SW +0.1
+  Keying indication
+SW B
+M
+TECHNICAL DATA
+Size
+L11 
+L2 
+L32 
+M 
+D 
+SW A 
+SW B 
+C 
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+Panel cut-out 
+SW 
+mm
+∅
+mm
+•  IP 68 in mated condition.
+• Anti-rotation feature.
+•  Contact configuration from 
+0
+≈ 21
+≈ 5.5
+15.5
+14 × 1
+18
+12.5
+17
+4
+12.6
+14.1
+0
+page 90.
+1
+≈ 28
+≈ 9
+20.5
+16 × 1
+20
+14.5
+19
+4.5
+14.6
+16.1
+1
+2
+≈ 31
+≈ 9
+23
+20 × 1
+25
+18.5
+24
+5
+18.6
+20.1
+2
+• PCB layouts, see page 91.
+• Only straight PCB contact 
+ possible.
+3
+≈ 36
+≈ 11
+28
+24 × 1
+31
+22.5
+30
+6
+22.6
+24.1
+3
+2
+≈ 40
+≈ 11
+31.5
+30 × 1
+37
+28.5
+36
+6.5
+28.6
+30.1
+4
+G
+3
+STYLE: 3
+IP 68
+L1
+Panel cut-out 
+L3
+SERIES K
+L4
+Receptacle with slotted mounting 
+nut, installation from rear of panel
+C
+L2
++0.1
+D
+SW +0.1
+SW A
+  Keying indication
+M
+TECHNICAL DATA
+Size
+L11 
+L2 
+L32 
+L4 
+M 
+D 
+C 
+SW A 
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+Panel cut-out 
+SW 
+mm
+∅
+mm
+•  IP 68 in mated condition.
+• Anti-rotation feature.
+•  Contact configuration from 
+0
+≈ 21
+≈ 3
+15.5
+7
+14 × 1
+18
+4
+12.5
+12.6
+14.1
+0
+page 90.
+1
+≈ 28
+≈ 6
+20.5
+10
+16 × 1
+20
+3.5
+14.5
+14.6
+16.1
+1
+2
+≈ 31
+≈ 6
+23
+10
+20 × 1
+25
+3.5
+18.5
+18.6
+20.1
+2
+• Assembly wrench, see  
+ page 158.
+•  Right-angled PCB contact  
+33
+≈ 36
+≈ 7.5
+28
+12
+24 × 1
+31
+4.5
+22.5
+22.6
+24.1
+3
+possible.
+•  PCB layouts, see page 91. 
+4
+≈40
+≈6.5
+31.5
+13.5
+30 × 1
+41.5
+7
+28.5
+28.6
+30.1
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+0
+1 L1 = maximum length including contact insert. 2 L3 = length of connector plug housing. 3 Note: size 3 with round nut.
+85
+Table of Contents
+
+SERIES K – RECEPTACLE
+RECEPTACLE
+G
+4
+STYLE: 4
+IP 68
+L1
+Panel cut-out 
+L3
+C
+L2
+Installation from front of panel  
+with low installation depth
++0.1
+D
+SW B
+SW C
+SW +0.1
+SW A
+M
+  Keying indication
+TECHNICAL DATA
+Panel cut-out 
+Size
+L11 
+L2 
+L32 
+M 
+D 
+SW A 
+SW B 
+SW C 
+C 
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+SW 
+mm
+∅
+mm
+mm 
+•  IP 68 in mated condition.
+•  Anti-rotation feature.
+•  Contact configuration from 
+1
+1
+≈ 28
+≈ 1.5
+20.5
+16 × 1
+20
+19
+14.5
+17
+15.5
+14.6
+16.1
+page 90.
+2
+2
+≈ 31
+≈ 2
+23
+20 × 1
+25
+24
+18.5
+20
+17
+18.6 20.1
+•  PCB layouts, see page 91.
+•  Only straight PCB contact 
+possible.
+G
+8
+STYLE: 8
+IP 683
+Panel cut-out 
+L1
+L3
+With slotted mounting nut, 
+installation from rear of panel
+C
+L2
++0.1
+SW +0.1
+D2
+SW A
+D1
+M
+  Keying indication
+TECHNICAL DATA
+Size
+L11 
+L2 
+L32 
+M 
+D 1 
+D 2 
+SW A 
+C 
+•  IP 68 in mated and unmated 
+Panel cut-out 
+SW 
+mm
+∅
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+condition.
+1
+1
+≈ 32
+≈ 6
+26.6
+16 × 1
+20
+20
+14.5
+3.5
+14.6
+16.1
+2
+2
+≈ 34
+≈ 6
+27
+20 × 1
+25
+25
+18.5
+3.5
+18.6
+20.1
+•  Anti-rotation feature.
+•  No crimp contact possible.
+•  Contact configuration from 
+page 90.
+3
+34
+≈ 39
+≈ 7
+32.7
+24 × 1
+30
+31
+22.5
+4.5
+22.6
+24.1
+•  Right-angled PCB contact 
+4
+4
+≈ 42
+≈ 6
+35.5
+30 × 1
+41.5
+37
+28.5
+7
+28.6
+30.1
+possible, see page 106.
+•  Note: assembly wrench, see  
+page 158.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+0
+1 L1 = maximum length including contact insert. 2 L3 = length of connector plug housing. 3 Note: tight, grouted receptacle, see page 163. 4 Note: size 3 with round nut.
+86
+Table of Contents
+
+SERIES K – RECEPTACLE
+RECEPTACLE
+G
+L
+IP 683
+STYLE: L
+Panel cut-out 
+Installation from front of panel
+L1
+L3
+C
+L2
++0.1
+SW +0.1
+D
+SW A
+M
+SW B
+  Keying indication
+TECHNICAL DATA
+Panel cut-out 
+Size
+L11 
+L2 
+L32 
+M 
+D 
+C 
+SW A 
+SW B 
+•  IP 68 in mated and unmated 
+SW 
+mm
+∅
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+condition.
+0
+0
+≈ 24
+≈ 5
+19.7
+14 × 1
+18
+4
+12.5
+17
+12.6
+14.1
+•  Anti-rotation feature.
+•  Contact configuration from 
+1
+1
+≈ 32
+≈ 9
+26.6
+16 × 1
+20
+4.5
+14.5
+19
+14.6
+16.1
+page 90.
+2
+2
+≈ 34
+≈ 9
+27
+20 × 1
+25
+5
+18.5
+24
+18.6
+20.1
+•  No crimp contact possible.
+•  Only straight PCB contact 
+possible.
+SERIES K
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+0
+1 L1 = maximum length including contact insert. 2 L3 = length of connector plug housing. 3 Note: tight, grouted receptacle, see page 163.
+87
+Table of Contents
+
+SERIES K – KEYINGS
+KEYINGS
+Size
+Angle
+Receptacle
+front view
+Housing 
+material
+0
+1
+2
+3
+4
+Reihe K
+Reihe K
+Reihe K
+Reihe K
+Reihe K
+Reihe K
+Reihe K
+Reihe K
+0°
+0°
+0°
+0°
+0°
+0°
+0°
+0°
+0
+0°
+•
+•
+•
+•
+•
+C
+Standard
+Cu-alloy / 
+matt chromate
+30°
+30°
+30°
+30°
+30°
+30°
+30°
+30°
+A
+30°
+•
+•
+•
+•
+o
+S
+On request
+Cu-alloy /  
+black chromate
+45°
+45°
+45°
+45°
+45°
+45°
+45°
+45°
+C
+45°
+•
+•
+•
+o
+o
+Special materials and surfaces 
+on request.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+60°
+60°
+60°
+60°
+60°
+60°
+60°
+60°
+F
+60°
+•
+•
+•
+o
+o
+K
+C
+–
+P
+75°
+75°
+75°
+75°
+75°
+75°
+75°
+75°
+H
+75°
+o
+o
+o
+o
+o
+95°
+95°
+95°
+95°
+95°
+95°
+95°
+95°
+K
+95°
+o
+o
+o
+o
+o
+120°
+120°
+120°
+120°
+120°
+120°
+120°
+120°
+Q
+120°
+o
+o
+o
+o
+o
+145°
+145°
+145°
+145°
+145°
+145°
+145°
+145°
+W
+145°
+o
+o
+o
+o
+o
+• Standard
+o On request
+Position of the keying
+indication (red dot)
+Reihe L
+0°
+0°
+30°
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+37,5°
+K
+C
+–
+P
+–
+0
+45°
+88
+Table of Contents
+
+SERIES K
+FOR YOUR NOTES
+SERIES K
+89
+Table of Contents
+
+SERIES K
+SERIES K – INSERTS
+CONTACT INSERTS (SIZE 0)
+8
+1
+2
+7
+3
+4
+5
+6
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+key
+of  
+Termi-
+nation 
+diameter
+contacts
+Single 
+contact 
+nominal 
+current 1
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+7.5
+Solder
+L
+M
+J
+G
+0
+1
+0.9
+1.500
+0.500
+0.85
+22
+0.38
+10
+J
+H
+0
+0.7
+0.6
+1.100
+0.366
+–
+20–24
+0.50–0.25
+Crimp3
+N
+P
+0
+2
+0.9
+J
+G
+0
+–
+22–26
+0.38–0.15
+7.5
+1
+0.9
+1.500
+0.500
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+J
+G
+0
+0.8
+0.8
+1.200
+0.400
+0.85
+22
+0.38
+Solder
+L
+M
+7.5
+Q
+J
+H
+0
+0.5
+0.5
+0.600
+0.200
+–
+20–24
+0.50–0.25
+10
+Crimp3
+N
+P
+0
+3
+0.9
+J
+G
+0
+–
+22–26
+0.38–0.15
+0.8
+0.8
+1.200
+0.400
+7.5
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+F
+G
+0
+0.6
+0.6
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+0
+0.8
+0.8
+0.6
+26
+0.15
+6
+F
+G
+0
+0.6
+0.6
+–
+22–26
+0.38–0.15
+0.900
+0.300
+7.5
+0
+4
+0.7
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+0.8
+0.8
+6
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+F
+G
+0
+0.5
+0.5
+0.600
+0.200
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+0
+0.7
+0.7
+1.100
+0.366
+0.6
+26
+0.15
+6
+F
+G
+0
+0.5
+0.5
+0.600
+0.200
+–
+22–26
+0.38–0.15
+7.5
+0
+5
+0.7
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+0.7
+0.7
+1.100
+0.366
+6
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+C
+C
+0
+Solder
+L
+M
+0.4
+28
+0.08
+Q
+0.7
+0.7
+0.900
+0.300
+0.5
+4
+0
+6
+C
+0
+0
+PCB4
+R
+0.5
+–
+–
+C
+C
+0
+Solder
+L
+M
+0.4
+28
+0.08
+Q
+0.5
+4
+0.7
+0.7
+0.900
+0.300
+0
+7
+C
+0
+0
+PCB4
+ 
+R
+0.5
+–
+–
+C
+C
+0
+Solder
+L
+M
+0.4
+28
+0.08
+Q
+0.5
+4
+0
+9
+0.4
+0.7
+0.600
+0.200
+C
+0
+0
+PCB4
+R
+0.5
+–
+–
+C
+C
+9
+Solder
+L
+M
+0.4
+28
+0.08
+Q
+0.5
+4
+1
+08
+0.3
+0.5
+0.600
+0.200
+C
+0
+9
+PCB4
+R
+0.5
+–
+–
+Q
+SPECIFIC INSERTS FOR HIGH DATA TRANSMISSION RATES
+F
+G
+0
+7.5
+0.6
+0.6
+0.85
+22
+0.38
+Solder
+L
+M
+F
+D
+0
+6
+0.8
+0.8
+0.6
+26
+0.15
+Ethernet6, 9  
+Type CAT 59 
+F
+G
+0
+7.5
+0.7
+0
+4
+0.6
+0.6
+–
+22–26
+0.38–0.15
+0.900
+0.300
+up to 100 Mbit
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+6
+0.8
+0.8
+F
+0
+0
+PCB4
+R
+0.5
+–
+–
+F
+G
+0
+Solder
+–
+M
+0.85
+22
+0.38
+USB® 2.07, 9 
+Q
+0.7
+7.5
+U
+4
+0.6
+0.6
+0.900
+0.300
+F
+G
+0
+Crimp3
+–
+P
+–
+22–26
+0.38–0.15
+F
+G
+0
+Solder
+L
+–
+0.85
+22
+0.38
+USB® 2.07, 9 
+F
+G
+0
+0.7
+7.5
+Crimp3
+N
+–
+O
+4
+0.6
+0.6
+0.900
+0.300
+–
+22–26
+0.38–0.15
+F
+0
+0
+PCB4
+–
+0.5
+–
+–
+Q
+4  PCB layouts, see page 91. PCB termination 
+only possible in the receptacle and  
+panel-mounted plug
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 3001.1.
+3  Tools for crimping and adjustment dimen-
+sions for crimping tool, see page 156.
+Size (0)
+5  Max. operating voltage at NN (sea level) 
+acc. to SAE AS 13441:2004 method 
+3001.1. Further information on page 168.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+ 
+6  ISO/IEC 11801:2017. 
+Further information on request.
+0
+K
+C
+–
+P
+–
+0
+7  Acc. Universal Serial Bus 3.2 Spec.:2017. 
+Further information on request.
+8  Not compatible to competition.
+9 Concerning data transmission protocols 
+please note page 2.
+90
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+PCB LAYOUTS
+For PCB contacts (Size 0).
+Straight
+90° right-angled
+Straight
+90° right-angled
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+6 ×60°
+1
+1
+2
+6
+1
+4
+5
+6
+7
+2.2
+3
+2.54
+2
+7
+5
+2 contacts
+7 contacts
+1
+2
+3
+2
+1.27
+3
+4
+2.54 2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.6 mm
+Contact borehole:  0.6 mm
+ 
+8×45°
+6
+7
+8
+1
+3 ×120°
+3
+1
+2
+8
+5
+1
+9
+2.54
+1
+2
+3
+2
+3
+2.54 2.54
+3 contacts
+9 contacts
+3
+9
+7
+2
+3
+4
+2.54
+2.3
+4
+5
+6
+2.54 2.54
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+8×45°
+ 
+7
+6
+SERIES K
+1.15
+8
+5
+4
+1
+1
+8
+3
+4
+9
+10
+2
+7
+9
+2.54
+1
+4
+4 ×90°
+3.3
+1
+2
+2
+3
+2
+3
+4 contacts
+10
+6
+3
+10 contacts
+4
+5
+2.5
+2.54
+2.54
+2.54
+2.54
+1.27
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+High-speed version
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+5 ×72°
+4
+5
+1
+254
+2
+5
+1
+2
+3
+2.8
+4
+1
+3
+4
+5 contacts
+2.54 2.54
+3
+4
+2.54
+4 ×90°
+1
+2
+2
+3
+4 contacts
+2.5
+2.54
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+6 ×60°
+4
+5
+6
+1
+6
+2.8
+6 contacts
+2
+5
+1
+2
+3
+3
+4
+2.54
+1.27
+1.27
+2.54 2.54
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+91
+Table of Contents
+
+SERIES K – INSERTS
+CONTACT INSERTS (SIZE 1)
+8
+1
+2
+8
+7
+3
+1
+2
+7
+3
+4
+5
+6
+8
+4
+5
+6
+1
+2
+7
+3
+4
+5
+6
+8
+1
+2
+7
+3
+4
+5
+6
+8
+1
+2
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+7
+3
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+4
+5
+6
+key
+of  
+Termi-
+nation 
+diameter
+contacts
+Single 
+contact 
+nominal 
+current 1
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+1.4
+18
+1
+P
+N
+0
+15
+Solder
+L
+M
+P
+H
+0
+1.1
+20
+0.5
+12
+1
+0.7
+1.650
+0.550
+1.3
+0
+2
+P
+L
+0
+–
+18–20
+1.00–0.50
+Crimp3
+N
+P
+15
+P
+0
+0
+0.7
+–
+–
+PCB4
+R
+12
+P
+N
+0
+0.8
+0.6
+1.000
+0.333
+1.4
+18
+1.00
+15
+Solder
+L
+M
+Q
+P
+H
+0
+0.9
+0.7
+1.500
+0.500
+1.1
+20
+0.50
+12
+1.3
+0
+3
+P
+L
+0
+0.8
+0.6
+1.000
+0.333
+–
+18–20
+1.00–0.50
+Crimp3
+N
+P
+15
+P
+0
+0
+0.9
+0.7
+1.500
+0.500
+0.7
+–
+–
+PCB4
+R
+12
+J
+G
+0
+1
+1.1
+1.500
+0.500
+0.85
+22
+0.38
+Solder
+L
+M
+7.5
+Q
+J
+H
+0
+0.7
+0.8
+1.000
+0.333
+–
+20–24
+0.50–0.25
+10
+Crimp3
+N
+P
+0.9
+0
+4
+J
+G
+0
+–
+22–26
+0.38–0.15
+1
+1.1
+1.500
+0.500
+7.5
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+J
+H
+0
+0.6
+0.6
+1.000
+0.333
+1.1
+20
+0.50
+10
+Solder
+L
+M
+Q
+J
+G
+0
+0.9
+0.9
+1.350
+0.450
+0.85
+22
+0.38
+7.5
+J
+H
+0
+0.6
+0.6
+1.000
+0.333
+–
+20–24
+0.50–0.25
+10
+0.9
+0
+5
+Crimp3
+N
+P
+J
+G
+0
+–
+22–26
+0.38–0.15
+0.9
+0.9
+1.350
+0.450
+7.5
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+F
+G
+0
+0.7
+0.7
+1.000
+0.333
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+0
+0.9
+0.9
+1.200
+0.400
+0.65
+26
+0.15
+6
+F
+G
+0
+0.7
+0.7
+1.000
+0.333
+–
+22–26
+0.38–0.15
+7.5
+0.7
+0
+6
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+0.9
+0.9
+1.200
+0.400
+6
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+Q
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 
+3001.1.
+4  PCB layouts, see page 93. PCB 
+termination only possible in the re-
+ceptacle and panel-mounted plug
+ 3  Tools for crimping and adjustment 
+dimensions for crimping tool, see 
+page 156.
+5  Max. operating voltage at NN (sea 
+level) acc. to SAE AS 13441:2004 
+method 3001.1.  
+Further information on page 168..
+Size (1)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+1
+K
+C
+–
+P
+–
+0
+92
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+SERIES K
+PCB LAYOUTS
+For PCB contacts (Size 1).
+Straight
+90° right-angled
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+1
+2
+1
+1
+2
+2.8
+2 contacts
+2.54
+2
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+1
+3
+3 ×120°
+2.54
+3
+3 contacts
+1
+2
+2
+3
+2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+4 ×90°
+SERIES K
+3
+4
+4
+1
+2.54
+3.1
+2
+1
+4 contacts
+2
+3
+2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+1
+5
+2
+4
+5
+3.5
+1
+5 contacts
+3
+4
+2
+3
+5 ×72°
+1.27
+2.54 2.54
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+6 ×60°
+4
+5
+6
+6
+1
+1
+3.7
+6 contacts
+2
+5
+2
+3
+2.54
+1.27
+1.27
+2.54 2.54
+3
+4
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+93
+Table of Contents
+
+SERIES K
+SERIES K – INSERTS
+8
+8
+1
+2
+8
+1
+2
+1
+2
+3
+7
+7
+7
+3
+3
+CONTACT INSERTS (SIZE 1)
+4
+5
+6
+4
+5
+6
+4
+5
+6
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+8
+8
+1
+2
+8
+1
+2
+1
+2
+key
+of  
+3
+7
+7
+7
+3
+3
+Termi-
+nation 
+diameter
+4
+5
+6
+4
+5
+6
+4
+5
+6
+contacts
+Single 
+contact 
+nominal 
+current 1
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+F
+G
+0
+0.7
+0.7
+1.000
+0.333
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+F
+D
+0
+0.9
+0.9
+1.200
+0.400
+0.65
+26
+0.15
+6
+F
+G
+0
+0.7
+0.7
+1.000
+0.333
+–
+22-26
+0.38-0.15
+0
+7
+0.7
+7.5
+Crimp3
+N
+P
+F
+C
+0
+–
+28-32
+0.09-0.04
+0.9
+0.9
+1.200
+0.400
+6
+Print4
+R
+F
+0
+0
+0.5
+–
+–
+F
+G
+0
+0.4
+0.6
+0.900
+0.300
+0.85
+22
+0.38
+7.5
+8
+1
+2
+Solder
+L
+M
+7
+3
+F
+D
+0
+0.6
+0.8
+1.000
+0.333
+0.65
+26
+0.15
+6
+Q
+4
+5
+6
+0
+8
+F
+G
+0
+0.4
+0.6
+0.900
+0.300
+–
+22-26
+0.38-0.15
+0.7
+7.5
+Crimp3
+N
+P
+F
+C
+0
+–
+28-32
+0.09-0.04
+0.6
+0.8
+1.000
+0.333
+6
+Print4
+R
+F
+0
+0
+0.5
+–
+–
+C
+D
+0
+0.3
+0.7
+0.600
+0.200
+0.65
+26
+0.15
+6
+Solder
+L
+M
+C
+C
+0
+0.45
+28
+0.08
+1
+0
+0.5
+Q
+0.5
+0.9
+1.000
+0.333
+4
+Print4
+C
+0
+0
+0.5
+–
+–
+R
+0.45
+28
+0.08
+C
+C
+0
+Solder
+L
+M
+Q
+0.5
+0.6
+0.900
+0.300
+0.5
+4
+1
+4
+Print4
+0.5
+–
+–
+C
+0
+0
+R
+0.45
+28
+0.08
+C
+C
+0
+Solder
+L
+M
+Q
+0.4
+0.6
+0.900
+0.300
+0.5
+4
+1
+6
+Print4
+0.5
+–
+–
+C
+0
+0
+R
+Q
+SPECIFIC INSERTS FOR HIGH DATA TRANSMISSION RATES
+0.85
+22
+0.38
+J
+G
+0
+Solder
+L
+M
+1
+1.1
+1.500
+0.500
+–
+22-26
+0.38-0.15
+J
+G
+0
+0.9
+7.5
+Crimp3
+N
+P
+0
+4
+Ethernet6, 7  
+Type CAT 57 
+up to 100 Mbit
+Print4
+J
+0
+0
+0.7
+–
+–
+R
+C
+D
+0
+0.65
+26
+0.15
+8
+Solder
+L
+M
+8
+1
+2
+8
+1
+2
+1
+2
+Q
+3
+7
+7
+7
+3
+3
+0.5
+0.7
+1.000
+0.333
+0.5
+4
+D
+8
+4
+5
+6
+4
+5
+6
+4
+5
+6
+Ethernet6, 7  
+Type CAT 57 
+up to 1 Gbit
+Print4
+C
+O
+0
+0.5
+–
+–
+R
+Q
+6  ISO/IEC 11801:2017. 
+Further information on request.
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 
+3001.1.
+4  PCB layouts, see page 95. PCB 
+termination only possible in the re-
+ceptacle and panel-mounted plug
+7 Concerning data transmission  
+ protocols please note page 2.
+ 3  Tools for crimping and adjustment 
+dimensions for crimping tool, see 
+page 156.
+5  Max. operating voltage at NN (sea 
+level) acc. to SAE AS 13441:2004 
+method 3001.1.  
+Further information on page 168.
+Size (1)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+1
+K
+C
+–
+P
+–
+0
+94
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+SERIES K
+PCB LAYOUTS
+For PCB contacts (Size 1).
+Straight
+90° right-angled
+Straight
+90° right-angled
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+6 ×60°
+6
+1
+11 ×32.7°
+4
+5
+6
+7
+9
+11
+1
+2
+8
+7 contacts
+3.7
+5
+7
+2
+1
+2
+3
+10
+11
+16
+7
+10
+3
+16
+12
+1
+1.27
+3
+4
+4.37
+2
+6
+12
+15
+14
+13
+2.54 2.54
+4
+9
+13
+15
+16 contacts
+2
+5
+14
+3
+4
+8
+5
+2.54 2.54 2.54 2.54
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+6
+7
+1.27
+5 ×72°
+7 ×51,4°
+1
+5
+6
+7
+1.84
+2
+7
+8
+1
+1.84
+High-speed versions
+1.84
+3.8
+8 contacts
+8
+2
+3
+4
+3
+6
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+2.54 2.54
+4
+5
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+4 ×90°
+8 ×45°
+3
+4
+4
+1
+SERIES K
+2.54
+3.1
+1
+8
+2
+1
+4 contacts
+9
+2
+7
+5
+6
+7
+8
+9
+10
+1
+2
+3
+3.9
+2.54
+1.4
+10 contacts
+2
+3
+4
+3
+6
+10
+1.27
+4
+5
+2.54 2.54
+2.54
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.6 mm
+45°
+10 ×36°
+2
+1
+8
+1
+9
+10
+2
+4
+11
+7
+3
+6
+7
+8
+9
+10
+11
+12
+13
+14
+1
+4 ×90°
+4.4
+1.85
+3
+8
+12
+14
+8 contacts
+14 contacts
+4
+5
+6
+2
+3
+4
+5
+13
+4
+1.27
+2.54 2.54 2.54
+2.54
+2.1
+5
+6
+7
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+95
+Table of Contents
+
+SERIES K – INSERTS
+CONTACT INSERTS (SIZE 2)
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+key
+of  
+Termi-
+nation 
+diameter
+contacts
+Single 
+contact 
+nominal 
+current 1
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+T
+S
+0
+1.3
+0.7
+1.800
+0.600
+2.4
+12
+2.5
+24
+Solder
+L
+M
+T
+Q
+0
+1.85
+14
+1.5
+2
+0
+2
+T
+N
+0
+1.6
+1
+2.100
+0.700
+–
+14–18
+1.50–1.00
+Crimp3
+N
+P
+18
+T
+0
+0
+0.7
+–
+–
+PCB4
+R
+S
+N
+0
+1.7
+1.3
+2.400
+0.800
+1.4
+18
+1.00
+Solder
+L
+M
+16
+Q
+S
+N
+0
+1.5
+1.1
+1.950
+0.650
+–
+14–18
+1.50–1.00
+21
+Crimp3
+N
+P
+1.6
+0
+3
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreis
+S
+L
+0
+–
+18–20
+1.00–0.50
+1.7
+1.3
+2.400
+0.800
+16
+S
+0
+0
+0.7
+–
+–
+PCB4
+R
+P
+N
+0
+1.5
+0.9
+1.800
+0.600
+1.4
+18
+1.00
+15
+Solder
+L
+M
+Q
+P
+H
+0
+1.8
+1.2
+1.950
+0.650
+1.1
+20
+0.50
+12
+P
+L
+0
+1.5
+0.9
+1.800
+0.600
+–
+18–20
+1.00–0.50
+15
+1.3
+0
+4
+Crimp3
+N
+P
+P
+H
+0
+–
+20–24
+0.50–0.25
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreis
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreis
+1.8
+1.2
+1.950
+0.650
+12
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreis
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreis
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange krei
+P
+0
+0
+0.7
+–
+–
+PCB4
+R
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreis
+P
+N
+0
+1.1
+0.8
+1.500
+0.500
+1.4
+18
+1.00
+15
+Solder
+L
+M
+Q
+Original Schlangekreisf.
+Original Schlangekreis
+P
+H
+0
+1.6
+1.3
+1.800
+0.600
+1.1
+20
+0.50
+12
+P
+L
+0
+1.1
+0.8
+1.500
+0.500
+–
+18–20
+1.00–0.50
+15
+1.3
+0
+5
+Crimp3
+N
+P
+P
+H
+0
+–
+20–24
+0.50–0.25
+1.6
+1.3
+1.800
+0.600
+12
+P
+0
+0
+0.7
+–
+–
+PCB4
+R
+P
+N
+0
+0.8
+0.6
+1.100
+0.366
+1.4
+18
+1.00
+15
+Solder
+L
+M
+Q
+P
+H
+0
+1.3
+1.1
+1.500
+0.500
+1.1
+20
+0.50
+12
+P
+L
+0
+0.8
+0.6
+1.100
+0.366
+–
+18–20
+1.00–0.50
+15
+1.3
+0
+6
+Crimp3
+N
+P
+P
+H
+0
+–
+20–24
+0.50–0.25
+1.3
+1.1
+1.500
+0.500
+12
+P
+0
+0
+0.7
+–
+–
+PCB4
+R
+P
+N
+0
+0.9
+0.6
+1.100
+0.366
+1.4
+18
+1.00
+15
+Solder
+L
+M
+Q
+P
+H
+0
+1.3
+1
+1.800
+0.600
+1.1
+20
+0.50
+12
+P
+L
+0
+0.9
+0.6
+1.100
+0.366
+–
+18–20
+1.00–0.50
+15
+1.3
+0
+7
+Crimp3
+N
+P
+P
+H
+0
+–
+20–24
+0.50–0.25
+1.3
+1
+1.800
+0.600
+12
+P
+0
+0
+0.7
+–
+–
+PCB4
+R
+J
+H
+0
+1
+0.6
+1.1
+20
+0.50
+10
+Solder
+L
+M
+Q
+J
+G
+0
+1.2
+0.8
+0.85
+22
+0.38
+7.5
+J
+H
+0
+1
+0.6
+–
+20–24
+0.50–0.25
+1.500
+0.500
+10
+0.9
+0
+8
+Crimp3
+N
+P
+J
+G
+0
+–
+22–26
+0.38–0.15
+1.2
+0.8
+7.5
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+J
+H
+0
+0.7
+0.6
+0.900
+0.300
+1.1
+20
+0.50
+10
+Solder
+L
+M
+Q
+J
+G
+0
+1
+0.9
+1.500
+0.500
+0.85
+22
+0.38
+7.5
+8
+1
+2
+7
+3
+J
+H
+0
+0.7
+0.6
+0.900
+0.300
+–
+20–24
+0.50–0.25
+10
+0.9
+1
+0
+4
+5
+6
+Crimp3
+N
+P
+J
+G
+0
+–
+22–26
+0.38–0.15
+1
+0.9
+1.500
+0.500
+7.5
+J
+0
+0
+0.7
+–
+–
+PCB4
+ 
+R
+Q
+8
+1
+2
+8
+1
+2
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 
+3001.1.
+4  PCB layouts, see page 97. PCB 
+termination only possible in the re-
+ceptacle and panel-mounted plug
+8
+7
+3
+1
+2
+8
+7
+3
+1
+2
+8
+7
+3
+4
+5
+6
+1
+2
+7
+3
+4
+5
+6
+7
+3
+4
+5
+6
+8
+4
+5
+6
+1
+2
+4
+5
+6
+7
+3
+4
+5
+6
+ 3  Tools for crimping and adjustment 
+dimensions for crimping tool, see 
+page 156.
+5  Max. operating voltage at NN (sea 
+level) acc. to SAE AS 13441:2004 
+method 3001.1.  
+Further information on page 168.
+Size (2)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+K
+C
+–
+P
+–
+0
+96
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+SERIES K
+PCB LAYOUTS
+For PCB contacts (Size 2).
+Straight
+90° right-angled
+Straight
+90° right-angled
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+6 ×60°
+1
+1
+6
+2
+1
+4
+5
+6
+7
+4.4
+2.54
+5.8
+7
+5
+2
+1
+2
+3
+2 contacts
+7 contacts
+2
+1.27
+3
+4
+2.54 2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+6
+7
+8
+8 ×45°
+3
+5
+1
+1
+3 ×120°
+2
+8
+1
+1
+2.54 2.54
+4.54
+6.4
+2
+3
+4
+3
+2.54 2.54
+7
+2
+3
+3 contacts
+8 contacts
+2
+2.54 2.54
+4
+5
+6
+2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+8 ×45°
+4 ×90°
+SERIES K
+3
+4
+1
+8
+4
+1
+3.5
+2
+7
+9
+5
+6.3
+2.2
+5
+6
+7
+8
+9
+10
+1
+2
+1
+4 contacts
+10 contacts
+2
+3
+4
+10
+6
+3
+2
+3
+2.54
+4
+5
+1.27
+2.54 2.54 2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+5 ×72°
+4
+5
+1
+1
+5
+2
+5.2
+2.54 2.54
+5 contacts
+2
+3
+3
+4
+2.54 2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+5
+1
+5 ×72°
+3
+5.6
+6
+4
+5
+6
+1
+4
+2
+6 contacts
+2
+3
+1.27
+2.54 2.54
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+97
+Table of Contents
+
+SERIES K
+SERIES K – INSERTS
+CONTACT INSERTS (SIZE 2)
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+key
+of  
+Termi-
+nation 
+diameter
+contacts
+Single 
+contact 
+nominal 
+current 1
+Original Schlangekreisf.
+Original Schlange kreisf.
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreisf.
+Original Schlangekreisf.
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+7.5
+F
+G
+0
+0.8
+0.8
+1.200
+0.400
+0.85
+22
+0.38
+Solder
+L
+M
+6
+F
+D
+0
+1
+1
+1.350
+0.450
+0.6
+26
+0.15
+7.5
+F
+G
+0
+0.8
+0.8
+1.200
+0.400
+–
+22–26
+0.38–0.15
+1
+2
+0.7
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+6
+1
+1
+1.350
+0.450
+Original Schlangekreisf.
+Original Schlange kreisf.
+Original Schlangekreisf.
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreisf.
+F
+G
+0
+0.7
+0.7
+1.100
+0.366
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+0
+0.9
+0.9
+1.200
+0.400
+0.6
+26
+0.15
+6
+F
+G
+0
+0.7
+0.7
+1.100
+0.366
+–
+22–26
+0.38–0.15
+7.5
+1
+4
+0.7
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+0.9
+0.9
+1.200
+0.400
+6
+Original Schlangekreisf.
+Original Schlange kreisf.
+Original Schlangekreisf.
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+F
+G
+0
+0.6
+0.7
+0.900
+0.300
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+0
+0.8
+0.9
+1.100
+0.366
+0.6
+26
+0.15
+6
+F
+G
+0
+0.6
+0.7
+0.900
+0.300
+–
+22–26
+0.38–0.15
+7.5
+1
+6
+0.7
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+0.8
+0.9
+1.100
+0.366
+6
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+Original Schlangekreisf.
+Original Schlange kreisf.
+Original Schlangekreisf.
+F
+G
+0
+0.5
+0.7
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+0
+0.7
+0.9
+0.6
+26
+0.15
+6
+F
+G
+0
+0.5
+0.7
+–
+22–26
+0.38–0.15
+0.900
+0.300
+8
+1
+8
+0.7
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+6
+0.7
+0.9
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+F
+G
+0
+0.5
+0.7
+0.900
+0.300
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+0
+0.7
+0.9
+1.000
+0.333
+0.6
+26
+0.15
+6
+F
+G
+0
+0.5
+0.7
+0.900
+0.300
+–
+22–26
+0.38–0.15
+7.5
+1
+9
+0.7
+Crimp3
+N
+P
+F
+C
+0
+–
+28–32
+0.09–0.04
+0.7
+0.9
+1.000
+0.333
+6
+F
+0
+0
+0.5
+–
+–
+PCB4
+R
+C
+C
+0
+0.4
+28
+0.08
+Solder
+L
+M
+Q
+8
+8
+8
+1
+2
+0.6
+0.8
+0.900
+0.300
+2
+6
+0.5
+4
+1
+2
+1
+2
+8
+8
+8
+1
+2
+1
+2
+1
+2
+3
+7
+7
+7
+3
+3
+3
+7
+7
+7
+3
+3
+4
+5
+6
+4
+5
+6
+4
+5
+6
+C
+0
+0
+0.5
+–
+–
+PCB4
+R
+4
+5
+6
+4
+5
+6
+4
+5
+6
+Q
+SPECIFIC INSERTS FOR HIGH DATA TRANSMISSION RATES
+P
+ H
+0
+Solder
+L
+M
+1.1
+20
+0.50
+P
+H
+0
+1.8
+1.2
+1.950
+0.650
+–
+20–24
+0.50–0.25
+Crimp3
+N
+P
+0
+4
+1.3
+12
+8
+8
+8
+1
+2
+1
+2
+1
+2
+3
+7
+7
+7
+3
+3
+Ethernet6, 7  
+Type CAT 57 
+up to 100 Mbit
+P
+0
+0
+0.7
+–
+–
+PCB4
+R
+4
+5
+6
+4
+5
+6
+4
+5
+6
+Original Schlangekreisf.
+Original Schlange kreisf.
+Original Schlangekreisf.
+Original Schlangekreisf.
+Original Schlange kreis
+Original Schlangekreisf.
+J
+G
+0
+0.85
+22
+0.38
+Solder
+L
+M
+8
+8
+1
+2
+8
+1
+2
+1
+2
+7
+3
+3
+7
+7
+3
+Q
+J
+G
+0
+1.2
+0.8
+1.500
+0.500
+–
+22–26
+0.38–0.15
+D
+8
+0.9
+7.5
+Crimp3
+N
+P
+4
+5
+6
+4
+5
+6
+4
+5
+6
+Ethernet6, 7  
+Type CAT 6A7 
+up to 10 Gbit
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+8
+8
+8
+1
+2
+1
+2
+1
+2
+Q
+3
+7
+7
+7
+3
+3
+6  ISO/IEC 11801:2017. 
+Further information on request.
+4
+5
+6
+4
+5
+6
+4
+5
+6
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 
+3001.1.
+4  PCB layouts, see page 99. PCB 
+termination only possible in the re-
+ceptacle and panel-mounted plug
+7 Concerning data transmission  
+ protocols please note page 2.
+ 3  Tools for crimping and adjustment 
+dimensions for crimping tool, see 
+page 156.
+5  Max. operating voltage at NN (sea 
+level) acc. to SAE AS 13441:2004 
+method 3001.1.  
+Further information on page 168.
+8
+8
+8
+1
+2
+1
+2
+1
+2
+3
+7
+7
+7
+3
+3
+4
+5
+6
+4
+5
+6
+4
+5
+6
+Size (2)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+K
+C
+–
+P
+–
+0
+98
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+SERIES K
+PCB LAYOUTS
+For PCB contacts (Size 2).
+Straight
+90° right-angled
+Straight
+90° right-angled
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+7
+11
+8 ×45°
+10
+12
+6
+7
+13
+21
+9
+22
+20
+8
+5
+11
+12
+1
+8
+13
+14
+1
+2
+3 ×120°
+26
+23
+14
+8
+23
+15
+19
+24
+3
+12
+2
+7
+12
+9
+16
+22
+24
+4
+1
+9
+10
+15
+25
+1
+7
+2.8
+6.43
+4.2
+4
+11
+18
+16
+17
+21
+25 26
+2.54 2.54 2.54
+10
+11
+6
+3
+12 contacts
+26 contacts
+17
+6
+2
+2
+3
+18
+10
+5
+19 20
+3
+5
+4
+5
+14 ×25.7°
+1.6
+4
+6
+7
+8
+9
+2.54 2.54
+2.54
+2.54
+1.27
+9 ×40°
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+High-speed versions
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+10 ×36°
+4 ×90°
+9
+10
+1
+2
+6
+7
+8
+9
+10
+11
+12
+13
+14
+6.52
+3
+4
+8
+3
+2.65
+14 contacts
+1
+2
+3
+4
+5
+11
+12
+13
+14
+4
+1
+3.5
+5
+4
+5
+6
+7
+2
+1
+1.27
+4 contacts
+2.54 2.54 2.54 2.54
+2
+3
+2.54
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+11 ×32.7°
+Contact borehole:  0.8 mm
+45°
+1
+SERIES K
+15
+16
+2
+10
+11
+6
+3
+9
+12
+13
+2
+6.6
+1
+3.05
+7
+8
+9
+10
+11
+12
+13
+14
+8
+1
+14 15
+16
+7
+3
+16 contacts
+4 ×90°
+2
+3
+4
+5
+4
+5
+6
+7
+8
+4
+5
+6
+8 contacts
+1.27
+3.3
+ 
+2.54 2.54 2.54 2.54
+5 ×72°
+6.3
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+12 ×30°
+1
+2
+3
+18
+10
+11
+12
+13
+14
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+1
+6.6
+3.45
+18 contacts
+15 16 17
+2
+3
+4
+5
+6
+4
+5
+6
+7
+8
+9
+1.27
+1.27
+1.27
+2.54
+6 ×60°
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+12 ×30°
+1
+2
+3
+10
+11
+12
+13
+14
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+1
+6.6
+3.45
+19 contacts
+15 16 17
+19
+18
+2
+3
+4
+5
+6
+4
+5
+6
+8
+9
+7
+1.27
+1.27
+6 ×60°
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+99
+Table of Contents
+
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+SERIES K – INSERTS
+CONTACT INSERTS (SIZE 3)
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+key
+of  
+Termi-
+nation 
+diameter
+contacts
+Single 
+contact 
+nominal 
+current 1
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+T
+S
+0
+1.8
+1.2
+2.4
+12
+2.5
+24
+Solder
+L
+M
+T
+Q
+0
+1.800
+0.600
+0
+3
+2
+1.85
+14
+1.5
+18
+2
+1.4
+T
+0
+0
+PCB4
+R
+0.7
+–
+–
+T
+S
+0
+1.4
+0.9
+2.4
+12
+2.5
+24
+Solder
+L
+M
+Q
+T
+Q
+0
+1.650
+0.550
+0
+4
+2
+1.85
+14
+1.5
+18
+1.6
+1.1
+T
+0
+0
+PCB4
+R
+0.7
+–
+–
+S
+N
+0
+1.5
+1.3
+1.4
+18
+1.00
+Solder
+L
+M
+16
+Q
+S
+N
+0
+1.1
+0.9
+–
+14–18
+1.50–1.00
+21
+0
+7
+Crimp3
+N
+P
+1.800
+0.600
+1.6
+S
+L
+0
+1.5
+1.3
+–
+18–20
+1.00–0.50
+16
+S
+0
+0
+1.3
+1.1
+0.7
+–
+–
+PCB4
+R
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+P
+N
+0
+1.1
+0.9
+1.350
+0.450
+1.4
+18
+1.00
+15
+Solder
+L
+M
+Q
+P
+H
+0
+1.4
+1.2
+1.650
+0.550
+1.1
+20
+0.50
+12
+P
+L
+0
+1.1
+0.9
+1.350
+0.450
+–
+18–20
+1.00–0.50
+0
+8
+15
+1.3
+Crimp3
+N
+P
+P
+H
+0
+1.4
+1.2
+–
+20–24
+0.50–0.25
+1.650
+0.550
+12
+P
+0
+0
+1.2
+1
+0.7
+–
+–
+PCB4
+R
+P
+N
+0
+0.9
+0.3
+1.100
+0.366
+1.4
+18
+1.00
+15
+Solder
+L
+M
+Q
+P
+H
+O
+1.2
+0.6
+1.1
+20
+0.50
+1
+0
+1.3
+1.350
+0.450
+12
+P
+0
+0
+1
+0.2
+0.7
+–
+–
+PCB4
+R
+J
+H
+0
+0.8
+0.7
+1.000
+0.333
+1.1
+20
+0.50
+10
+Solder
+L
+M
+Q
+J
+G
+O
+1.1
+1
+1.350
+0.450
+0.85
+22
+0.38
+7.5
+J
+H
+0
+0.8
+0.7
+1.000
+0.333
+–
+20–24
+0.50–0.25
+10
+1
+4
+0.9
+Crimp3
+N
+P
+J
+G
+0
+–
+22–26
+0.38–0.15
+1.1
+1
+1.350
+0.450
+7.5
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+Q
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 
+3001.1.
+ 3  Tools for crimping and adjustment 
+dimensions for crimping tool, see 
+page 156.
+5  Max. operating voltage at NN (sea 
+level) acc. to SAE AS 13441:2004 
+method 3001.1.  
+Further information on page 168.
+4  PCB layouts, see page 101. PCB 
+termination only possible in the re-
+ceptacle and panel-mounted plug
+Size (3)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+3
+K
+C
+–
+P
+–
+0
+100
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+SERIES K
+PCB LAYOUTS
+For PCB contacts (Size 3).
+Straight
+90° right-angled
+Straight
+90° right-angled
+Contact borehole:  0.7 mm
+Contact borehole:  0.9 mm
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+10 ×36°
+3
+1
+1
+9
+10
+2
+1
+3 ×120°
+11
+6
+7
+8
+9
+10
+11
+12
+13
+14
+5.6
+2.54 2.54
+3
+3.43
+8
+14
+12
+8.15
+3 contacts
+14 contacts
+3
+2
+2
+1
+2
+3
+4
+5
+13
+2.54
+1.27
+4
+5
+6
+7
+2.54 2.54 2.54
+2.54
+Contact borehole:  0.8 mm
+4 ×90°
+4
+1
+6.25
+4 contacts
+2
+3
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+6 ×60°
+SERIES K
+1
+6
+4
+5
+6
+7
+1
+7
+2
+7
+5
+2
+3
+7 contacts
+1.27
+3
+4
+2.54
+2.54
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+8 ×45°
+6
+7
+8
+8
+1
+2
+5
+1
+2.54
+2.54
+7.55
+3
+7
+8 contacts
+2
+3
+4
+2.54
+2.54
+4
+5
+6
+Contact borehole:  0.8 mm
+Contact borehole:  0.9 mm
+8 ×45°
+1
+8
+9
+2
+7
+5
+6
+7
+8
+9
+10
+1
+2.8
+7.85
+2
+3
+4
+10 contacts
+3
+6
+10
+1.27
+2.54 2.54
+2.54
+4
+5
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+101
+Table of Contents
+
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+SERIES K
+SERIES K – INSERTS
+CONTACT INSERTS (SIZE 3)
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+key
+of  
+Termi-
+nation 
+diameter
+contacts
+Single 
+contact 
+nominal 
+current 1
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+10
+J
+H
+0
+0.7
+0.6
+1.000
+0.333
+1.1
+20
+0.50
+Solder
+L
+M
+7.5
+J
+G
+0
+1
+0.9
+1.350
+0.450
+0.85
+22
+0.38
+10
+J
+H
+0
+0.7
+0.6
+1.000
+0.333
+–
+20–24
+0.50–0.25
+1
+6
+0.9
+Crimp3
+N
+P
+J
+G
+0
+–
+22–26
+0.38–0.15
+7.5
+1
+0.9
+1.350
+0.450
+J
+O
+O
+0.7
+–
+–
+PCB4
+R
+J
+H
+0
+0.7
+0.6
+1.000
+0.333
+1.1
+20
+0.50
+10
+Solder
+L
+M
+Q
+J
+G
+0
+0.9
+0.8
+1.350
+0.450
+0.85
+22
+0.38
+7.5
+J
+H
+0
+0.7
+0.6
+1.000
+0.333
+–
+20–24
+0.50–0.25
+10
+1
+8
+0.9
+Crimp3
+N
+P
+J
+G
+0
+–
+22–26
+0.38–0.15
+0.9
+0.8
+1.350
+0.450
+7.5
+J
+0
+0
+0.7
+–
+–
+PCB4
+R
+F
+G
+O
+0.8
+0.9
+1.000
+0.333
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+O
+1
+1.1
+1.100
+0.366
+0.6
+26
+0.15
+6
+F
+G
+0
+0.8
+0.9
+1.000
+0.333
+–
+22–26
+0.38–0.15
+7.5
+2
+0
+0.7
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+Crimp3
+N
+P
+F
+C
+O
+–
+28–32
+0.09–0.04
+1
+1.1
+1.100
+0.366
+6
+F
+O
+O
+0.5
+–
+–
+PCB4
+R
+F
+G
+O
+0.7
+1.7
+1.000
+0.333
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+O
+0.9
+1.9
+1.100
+0.366
+0.6
+26
+0.15
+6
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+F
+G
+O
+7.5
+0.7
+1.7
+1.000
+0.333
+–
+22–26
+0.38–0.15
+2
+2
+0.7
+Crimp3
+N
+P
+F
+C
+O
+–
+28–32
+0.09–0.04
+6
+0.9
+1.9
+1.100
+0.366
+F
+O
+O
+PCB4
+R
+0.5
+–
+–
+F
+G
+O
+0.5
+0.6
+0.900
+0.300
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+O
+0.7
+0.8
+1.000
+0.333
+0.6
+26
+0.15
+6
+noch nicht 
+verwendet LBK
+noch nicht 
+verwendet LBK
+F
+G
+0
+0.5
+0.6
+0.900
+0.300
+–
+22–26
+0.38–0.15
+7.5
+2
+6
+0.7
+Crimp3
+N
+P
+F
+C
+O
+0.7
+0.8
+–
+28–32
+0.09–0.04
+1.000
+0.333
+6
+F
+O
+O
+0.8
+0.9
+0.5
+–
+–
+PCB4
+R
+F
+G
+O
+0.4
+0.7
+0.85
+22
+0.38
+7.5
+Solder
+L
+M
+Q
+F
+D
+O
+0.6
+0.9
+0.6
+26
+0.15
+6
+F
+G
+O
+0.4
+0.7
+–
+22–26
+0.38–0.15
+0.900
+0.300
+7.5
+3
+0
+0.7
+Crimp3
+N
+P
+F
+C
+O
+0.6
+0.9
+–
+28–32
+0.09–0.04
+6
+F
+O
+O
+0.7
+1
+0.5
+–
+–
+PCB4
+R
+Q
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 
+3001.1.
+ 3  Tools for crimping and adjustment 
+dimensions for crimping tool, see 
+page 156.
+5  Max. operating voltage at NN (sea 
+level) acc. to SAE AS 13441:2004 
+method 3001.1.  
+Further information on page 168.
+4  PCB layouts, see page 103. PCB 
+termination only possible in the re-
+ceptacle and panel-mounted plug
+Size (3)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+3
+K
+C
+–
+P
+–
+0
+102
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+SERIES K
+PCB LAYOUTS
+For PCB contacts (Size 3).
+Straight
+90° right-angled
+Straight
+90° right-angled
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+11 ×32.73°
+14 ×25.7°
+1
+1
+9
+10
+11
+12
+13
+2
+10
+11
+15
+16
+12
+13
+14
+2
+3
+19
+20
+21
+22
+14
+8
+3
+6
+9
+12
+13
+16
+15
+16
+21
+22
+8.4
+5
+3.86
+8.8
+11
+1
+4
+7
+8
+9
+10
+11
+12
+13
+14
+7
+1
+14
+15
+8
+4
+16 contacts
+22 contacts
+17
+18 19
+20
+2
+3
+4
+5
+15
+16
+17
+18
+5
+6
+7
+5
+6
+7
+8
+9
+10
+1.27
+2.54 2.54 2.54
+2.54
+2
+3
+4
+5
+6
+8 ×45°
+5 ×72°
+2.54 2.54 2.54 2.54
+2.54
+1.27
+2.54
+1.27
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.8 mm
+Contact borehole:  0.7 mm
+14 ×25.7°
+12 ×30°
+1
+8
+9
+10
+11
+9
+10
+11
+12
+13
+17
+18
+2
+3
+12
+11
+12
+1
+2
+7
+13
+14
+15
+16
+14
+8
+22
+23
+24
+16
+5.6
+12
+13
+9
+2.1
+19
+20
+21
+22
+23
+24
+26
+3
+10
+13
+14
+18
+11
+4
+21
+17
+8.6
+4.3
+26
+25
+6
+1
+7
+25
+1
+14
+15
+4
+9
+18 contacts
+26 contacts
+18
+19 20
+15
+16
+17
+15
+16
+17
+18
+5
+6
+7
+8
+9
+10
+2
+3
+4
+5
+5
+6
+7
+8
+2
+3
+4
+5
+6
+9 ×40°
+1.27
+6 ×60°
+2.54
+2.54
+5.08
+1.27
+2.54 2.54 2.54 2.54
+2.54
+SERIES K
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+16 ×22.5°
+13 ×27.7°
+10
+11
+12
+13
+14
+15
+1
+19
+20
+23
+24
+25
+26
+1
+9
+8
+9
+10
+11
+12
+13
+14
+2
+3
+14
+15
+16
+26
+17
+18
+2
+3
+12
+13
+22
+16
+17
+18
+1
+19
+13
+4
+25
+27
+28
+29
+30
+1
+8
+7
+11
+20
+4
+14
+15
+16
+2.6
+8.6
+8.8
+5.6
+4.73
+18
+19
+20
+21
+27
+28
+29
+30
+15
+16
+17
+20
+24
+12
+5
+30 contacts
+20 contacts
+10
+5
+17 18
+19
+21
+22
+23
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+6
+2.15
+6
+7
+8
+9
+6
+7
+8
+9
+10
+11
+1.27
+1.27
+2.54 2.54 2.54 2.54 2.54
+2.54
+7 ×51.4°
+2.54 2.54 2.54
+2.54
+10 ×36°
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+103
+Table of Contents
+
+SERIES K – INSERTS
+CONTACT INSERTS (SIZE 4)
+Clearance and creepage 
+Test 
+View on  
+Number 
+Contact type
+Part number 
+distance
+voltage 2
+Nominal 
+voltage 5
+Contact
+diameter 
+Termination  
+cross-section
+termination area
+key
+of  
+Termi-
+nation 
+diameter
+contacts
+Single 
+contact 
+nominal 
+current 1
+Contact to 
+contact
+Contact to 
+housing
+Termination
+Socket
+Pin
+kVeff
+kVrms
+mm
+mm
+AWG
+mm2
+Pin piece
+Socket piece
+A
+mm
+mm
+T
+S
+9
+1.5
+1
+1.350
+0.450
+2.40
+12
+2.50
+24
+Solder
+L
+M
+1.85
+14
+1.5
+T
+Q
+9
+2
+0
+75
+2.1
+1.6
+1.650
+0.550
+18
+T
+0
+9
+PCB3
+R
+0.7
+–
+–
+J
+G
+O
+Solder
+L
+M
+0.85
+22
+0.38
+Q
+0.8
+1
+1.575
+0.520
+0.9
+7.5
+3
+0
+J
+O
+O
+PCB3
+R
+0.5
+–
+–
+F
+G
+0
+0.6
+0.8
+0.900
+0.300
+0.85
+22
+0.38
+7.5
+Q
+Solder
+L
+M
+F
+D
+0
+0.6
+26
+0.15
+0.7
+4
+0
+0.8
+1
+1.000
+0.333
+6
+F
+O
+0
+PCB3
+R
+0.5
+–
+–
+Q
+1 Derating factor, see page 167.
+2  SAE AS 13441:2004 method 
+3001.1.
+3 PCB layouts, see page 105. 
+4  Max. operating voltage at NN (sea 
+level) acc. to SAE AS 13441:2004 
+method 3001.1.  
+Further information on page 168.
+5  Not compatible to competition.  
+Size (4)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+4
+K
+C
+–
+P
+–
+0
+104
+Table of Contents
+
+SERIE K – PCB LAYOUTS
+SERIES K
+PCB LAYOUTS
+For PCB contacts (Size 4).
+Straight
+90° right-angled
+Contact borehole:  0.8 mm
+1
+6
+6 ×60°
+2
+5
+7
+7 contacts
+3
+4
+9
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+16 ×22.5°
+1
+14
+13
+12
+11
+15
+16
+2
+15
+10
+9 ×36°
+3
+24
+23
+14
+26
+25
+17
+18
+9
+16
+30
+4
+19
+13
+25
+17
+27
+22
+29
+30
+26
+27
+28
+8
+28
+1
+24
+12
+20
+5
+29
+21
+18
+19
+20
+30 contacts
+2
+7
+11
+6
+21
+22
+23
+6
+5
+4
+3
+7
+8
+9
+10
+1.27
+2.54 2.54 2.54 2.54 2.54 2.54
+3
+7
+11.3
+SERIES K
+Contact borehole:  0.6 mm
+Contact borehole:  0.7 mm
+20 ×18°
+15
+16
+17
+18
+13
+14
+1
+30
+31
+32
+29
+19
+12
+17
+18
+19
+20
+2
+3
+4
+39
+40
+21
+22
+23
+33
+40
+32
+33
+34
+35
+38
+28
+11
+16
+5
+24
+31
+4.2
+11.6
+7.85
+20
+21
+34
+15
+6
+27
+1
+10
+37
+36
+37 38
+39
+22
+40 contacts
+25
+26
+27
+28
+29
+30
+26
+35
+36
+2
+9
+7
+8
+9
+10
+11 12
+13
+14
+7
+8
+23
+24
+25
+13 ×27.7°
+3
+4
+5
+6
+1.27
+7 ×51.4°
+2.54 2.54 2.54 2.54
+2.54
+All specifications are only valid for socket inserts.  
+Pin inserts on request. Further PCB layouts upon request.
+105
+Table of Contents
+
+SERIES K
+RIGHT-ANGLED PCB CONTACTS 
+IN THE RECEPTACLE
+A
+RIGHT-ANGLED PCB CONTACT
+for style G3 and G8
+TECHNICAL DATA
+•  Pin version on request.
+• PCB layouts, see page 91.
+Termination
+Contact
+diameter
+diameter
+0.5
+0.5
+0.7
+0.6
+0.9
+0.6
+1.3
+0.8
+1.6
+0.8
+2
+0.8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+0
+0
+–
+0
+0
+0
+106
+Table of Contents
+
+SERIES K
+FOR YOUR NOTES
+SERIES K
+107
+Table of Contents
+
+SERIES K
+CABLE COLLET SYSTEM
+Cable diameter
+Size
+APPLICATION: For all plugs and in-line receptacles and for  
+receptacle style 6 and 7.
+mm
+0
+1
+2
+3
+4
+> 1 – 1.5
+ 
+ •
+1
+5
+USE: Cable collet for strain relief; sealing ring for cable seal;  
+EMI ring for transmission of the shielding.
+> 1.5 – 2
+•
+•
+2
+0
+> 2 – 2.5
+•
+•
+2
+5
+> 2.5 – 3
+•
+•
+•
+3
+0
+> 3 – 3.5
+•
+•
+•
+•
+3
+5
+Cable diameter
+> 3.5 – 4
+•
+•
+•
+•
+4
+0
+EMI ring
+Anti-rotation feature
+> 4 – 4.5
+•
+•
+•
+•
+4
+5
+Sealing ring
+> 4.5 – 5
+•
+•
+•
+•
+5
+0
+> 5 – 5.5
+•
+•
+•
+5
+5
+> 5.5 – 6
+•
+•
+•
+6
+0
+> 6 – 6.5
+•
+•
+•
+6
+5
+> 6.5 – 7
+•
+•
+•
+7
+0
+Cable collet
+> 7 – 7.5
+•
+•
+•
+7
+5
+> 7.5 – 8
+•
+•
+8
+0
+> 8 – 8.5
+•
+•
+•
+8
+5
+> 8.5 – 9
+•
+•
+9
+0
+> 9 – 9.5
+•
+•
+9
+5
+> 9.5 – 10
+•
+0
+1
+> 10 – 10.5
+•
+•
+0
+2
+> 10.5 – 11.5
+•
+0
+3
+> 13.5 – 14
+•
+1
+4
+Without cable collet system (on request)
+0
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+For assembly instructions please refer to our website: www.odu-connectors.com/downloads/assembly-instructions
+108
+108
+Table of Contents
+
+SERIES K
+DEFINITION OF THE BACK NUTS
+Usable for all straight, right-angled and Break-Away connectors, in-line receptacles, receptacles style 6.
+0
+STANDARD BACK NUT
+S
+BACK NUT FOR SILICONE CABLE BEND RELIEF1
+1 Please order silicone cable bend reliefs separately, see page 111.
+SERIES K
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+K
+C
+–
+P
+–
+0
+109
+Table of Contents
+
+SERIES K – ACCESSORIES
+PROTECTIVE COVERS
+FOR RECEPTACLE TYPES
+Size
+Part number
+A 
+C 
+∅  B 
+∅  D 
+mm
+mm
+mm
+mm
+C
+0
+720.097.007.215.–00
+8
+15
+70
+6
+1
+721.097.007.215.–00
+9
+18.5
+75
+8
+C
+2
+722.097.007.215.–00
+9
+21.5
+85
+10
+3
+723.097.007.215.–00
+9.6
+24
+120
+12
+A
+4
+724.097.007.215.–00
+11.2
+31.5
+140
+16
+D
+A
+Lanyard material
+D
+B
+0
+Polyamide lanyard with loop
+3.2
+1
+Stainless steel lanyard with loop
+B
+2
+Polyamide lanyard with solder lug
+3.2
+3
+Stainless steel lanyard with solder lug
+Surface matt chromate
+C
+FOR PLUG (IP 68)
+C
+Size
+Part number
+A 
+C 
+∅  B 
+∅  D 
+mm
+mm
+mm
+mm
+0
+720.097.004.215.–0–
+16
+14
+70
+6
+A
+1
+721.097.004.215.–0–
+21
+16
+75
+8
+D
+2
+722.097.004.215.–0–
+21.5
+20
+85
+10
+A
+3
+723.097.004.215.–0–
+25.5
+24
+130
+12
+D
+B
+4
+724.097.004.215.–0–
+28
+30
+140
+16
+3.2
+B
+3.2
+Lanyard material
+0
+Polyamide lanyard with loop
+1
+Stainless steel lanyard with loop
+Size
+Keyings (see page 88)
+2
+Polyamide lanyard with solder lug
+0
+A
+C
+F
+H
+K
+Q
+W
+3
+Stainless steel lanyard with solder lug
+0
+•
+•
+•
+•
+º
+º
+º
+º
+Surface matt chromate
+1
+•
+•
+•
+•
+º
+º
+º
+º
+2
+•
+•
+•
+•
+º
+º
+º
+º
+3
+•
+•
+º
+º
+º
+º
+º
+º
+4
+•
+º
+º
+º
+º
+º
+º
+º
+• Standard, º On request. 
+110
+Table of Contents
+
+SERIES K – ACCESSORIES
+SILICONE CABLE BEND RELIEFS
+Cable jacket (∅ outside)
+Size
+Part number
+Dim. L
+L
+mm
+min.
+max.
+2
+2.5
+700.023.–––.965.020
+700.023.–––.965.025
+2.5
+3
+700.023.–––.965.030
+3
+3.5
+0
+27
+700.023.–––.965.035
+3.5
+4
+700.023.–––.965.040
+4
+4.5
+700.023.–––.965.045
+4.5
+5
+2.5
+3
+701.023.–––.965.025
+TEMPERATURE RANGE 
+701.023.–––.965.030
+3
+3.5
+701.023.–––.965.035
+3.5
+4
+Silicone: –50 °C up to +200 °C, short-term up to +230 °C
+Autoclaveable
+ 1
+30
+701.023.–––.965.040
+4
+5
+701.023.–––.965.050
+5
+6
+701.023.–––.965.060
+6
+6.5
+701.023.–––.965.070
+6.5
+7.5
+2.5
+3
+702.023.–––.965.025
+702.023.–––.965.030
+3
+3.5
+702.023.–––.965.035
+3.5
+4
+702.023.–––.965.040
+4
+5
+2
+36
+SERIES K
+702.023.–––.965.050
+5
+6
+702.023.–––.965.060
+6
+7
+702.023.–––.965.070
+7
+8
+702.023.–––.965.080
+8
+9
+4
+5
+703.023.–––.965.040
+703.023.–––.965.050
+5
+6
+COLORS
+703.023.–––.965.060
+6
+7
+Color code
+Color
+RAL no.1
+(similar)
+703.023.–––.965.070
+7
+8
+ 3
+42
+703.023.–––.965.080
+8
+9
+202
+Red
+3020
+703.023.–––.965.090
+9
+10
+203
+White
+9010
+703.023.–––.965.100
+10
+11
+204
+Yellow
+1016
+703.023.–––.965.110
+11
+12
+205
+Green
+6029
+8
+10
+704.023.–––.965.080
+206
+Blue
+5002
+704.023.–––.965.100
+10
+12
+4
+60
+207
+Gray
+7005
+704.023.–––.965.120
+12
+14
+208
+Black
+9005
+704.023.–––.965.140
+14
+16
+1  Because of different raw materials, the colors may slightly differ from RAL number
+111
+Table of Contents
+
+SERIES K – ACCESSORIES
+BACK NUT FOR CABLE BEND RELIEFS
+EXAMPLE OF ASSEMBLY
+A
+B
+SW
+SW
+Back Nut for silicone band relief
+Distance Ring
+A
+Size
+Part number
+A 
+SW 
+∅ B 
+mm
+mm
+mm
+0
+700.022.117.3––.002
+8
+8.9
+7
+Surface
+1
+701.022.117.3––.002
+10
+10.9
+10
+B
+g direction
+15
+Cu-alloy / matt chrome plated
+2
+702.022.117.3––.002
+11.5
+13.9
+13
+11
+Cu-alloy / black chrome plated
+3
+753.022.117.3––.002
+11.5
+16.9
+15
+04
+Cu-alloy / nickel
+4
+704.022.117.3––.002
+15
+23
+20
+112
+Table of Contents
+
+SERIES K
+FOR YOUR NOTES
+SERIES K
+113
+Table of Contents
+
+ODU MINI-SNAP®
+Table of Contents
+
+TOOLS
+The following pages contain tools and wrenches to ensure  
+that your ODU connectors function flawlessly.
+TOOLS
+Table of Contents
+
+TOOLS
+CRIMPING TOOLS / ASSEMBLY TOOLS
+PART NUMBER CRIMPING TOOL 
+080.000.051.000.000
+Part number positioner, 
+see table.
+PROCESSING TOOL FOR CRIMP CONTACTS 
+Digital adjustment, multiposition
+Positioner
+Positioning setting
+Removal tool
+Termination  
+cross-section
+Contact 
+diameter
+Size
+Number 
+of con-
+tacts
+Adjust-
+ment 
+dim.
+mm
+mm
+AWG
+mm2
+Pin
+Socket
+4–5
+0.7
+28–32
+0.09–0.04
+0.57
+080.000.051.105.000
+1
+2
+087.7CC.070.001.000
+4–5
+0.7
+22–26
+0.38–0.15
+0.67
+080.000.051.105.000
+1
+2
+087.7CC.070.001.000
+0
+2–3
+0.9
+22–26
+0.38–0.15
+0.67
+080.000.051.105.000
+3
+4
+087.7CC.090.001.000
+2–3
+0.9
+20–24
+0.5–0.25
+0.67
+080.000.051.105.000
+3
+4
+087.7CC.090.001.000
+6–8
+0.7
+28–32
+0.09–0.04
+0.57
+080.000.051.105.000 
+1
+5
+087.7CC.070.001.000
+6–8
+0.7
+22–26
+0.38–0.15
+0.67
+080.000.051.105.000
+1
+5
+087.7CC.070.001.000
+4–5
+0.9
+22–26
+0.38–0.15
+0.67
+080.000.051.105.000
+3
+6
+087.7CC.090.001.000
+1
+4–5
+0.9
+20–24
+0.5–0.25
+0.67
+080.000.051.105.000
+3
+6
+087.7CC.090.001.000
+2–3
+1.3
+18–20
+1–0.5
+1.12
+080.000.051.105.000
+7
+8
+087.7CC.130.001.000
+12–19
+0.7
+28–32
+0.09–0.04
+0.57
+080.000.051.106.000
+1
+2
+087.7CC.070.001.000
+12–19
+0.7
+22–26
+0.38–0.15
+0.67
+080.000.051.106.000
+1
+2
+087.7CC.070.001.000
+8–10
+0.9
+22–26
+0.38–0.15
+0.67
+080.000.051.106.000
+3
+4
+087.7CC.090.001.000
+8–10
+0.9
+20–24
+0.5–0.25
+0.67
+080.000.051.106.000
+3
+4
+087.7CC.090.001.000
+4–7
+1.3
+20–24
+0.5–0.25
+0.67
+080.000.051.106.000
+5
+6
+087.7CC.130.001.000
+4–7
+1.3
+18–20
+1–0.5
+1.12
+080.000.051.106.000
+5
+6
+087.7CC.130.001.000
+2
+3
+1.6
+18–20
+1–0.5
+1.12
+080.000.051.107.000
+1
+2
+087.7CC.160.001.000
+3
+1.6
+18
+1.5–1
+1.12
+080.000.051.107.000
+1
+2
+087.7CC.160.001.000
+3
+1.6
+14–16
+1.5–1
+1.3
+080.000.051.107.000
+1
+2
+087.7CC.160.001.000
+2
+2
+18
+1.5–1
+1.12
+080.000.051.107.000
+3
+4
+087.7CC.200.002.000
+2
+2
+14–16
+1.5–1
+1.3
+080.000.051.107.000
+3
+4
+087.7CC.200.002.000
+20–30
+0.7
+28–32
+0.09–0.04
+0.57
+080.000.051.106.000
+1
+7
+087.7CC.070.001.000
+20–30
+0.7
+22–26
+0.38–0.15
+0.67
+080.000.051.106.000
+1
+7
+087.7CC.070.001.000
+14–18
+0.9
+22–26
+0.38–0.15
+0.67
+080.000.051.106.000
+3
+8
+087.7CC.090.001.000
+14–18
+0.9
+20–24
+0.5–0.25
+0.67
+080.000.051.106.000
+3
+8
+087.7CC.090.001.000
+3
+8–10
+1.3
+20–24
+0.5–0.25
+0.67
+080.000.051.106.000
+5
+9
+087.7CC.130.001.000
+8–10
+1.3
+18–20
+1–0.5
+1.12
+080.000.051.106.000
+5
+9
+087.7CC.130.001.000
+7
+1.6
+18–20
+1–0.5
+1.12
+080.000.051.107.000
+1
+5
+087.7CC.160.001.000
+7
+1.6
+18
+1.5–1
+1.12
+080.000.051.107.000
+1
+5
+087.7CC.160.001.000
+7
+1.6
+14–16
+1.5–1
+1.3
+080.000.051.107.000
+1
+5
+087.7CC.160.001.000
+156
+Table of Contents
+
+TOOLS
+CRIMPING TOOLS / ASSEMBLY TOOLS
+PART NUMBER CRIMPING TOOL 
+080.000.037.000.000
+Part number positioner, 
+see table.
+PROCESSING TOOL FOR CRIMP CONTACTS
+Mil approved, single position
+Removal tool
+Termination 
+cross-section
+Positioner
+Selector
+setting
+Contact 
+diameter
+Size
+Number 
+of con-
+tacts
+mm
+AWG
+mm2
+Pin
+Socket
+Pin
+Socket
+4–5
+0.7
+28–32
+0.09–0.04
+081.701.002.848.037
+3
+087.7CC.070.001.000
+4–5
+0.7
+22–26
+0.38–0.15
+081.701.002.848.037
+4
+087.7CC.070.001.000
+0
+2–3
+0.9
+22–26
+0.38–0.15
+081.701.002.849.037
+081.700.004.749.037
+4
+4
+087.7CC.090.001.000
+2–3
+0.9
+20–24
+0.5–0.25
+081.701.003.849.037
+081.700.003.749.037
+7/6/51
+7/6/51
+087.7CC.090.001.000
+6–8
+0.7
+28–32
+0.09–0.04
+081.701.002.848.037
+081.701.002.748.037
+3
+3
+087.7CC.070.001.000
+6–8
+0.7
+22–26
+0.38–0.15
+081.701.002.848.037
+081.701.002.748.037
+4
+4
+087.7CC.070.001.000
+1
+4–5
+0.9
+22–26
+0.38–0.15
+081.701.002.849.037
+081.701.002.749.037
+4
+4
+087.7CC.090.001.000
+4–5
+0.9
+20–24
+0.5–0.25
+081.701.003.849.037
+081.701.003.749.037
+7/6/51
+7/6/51
+087.7CC.090.001.000
+12–19
+0.7
+28–32
+0.09–0.04
+081.702.001.848.037
+081.702.001.748.037
+3
+3
+087.7CC.070.001.000
+12–19
+0.7
+22–26
+0.38–0.15
+081.702.001.848.037
+081.702.001.748.037
+4
+4
+087.7CC.070.001.000
+2
+8–10
+0.9
+22–26
+0.38–0.15
+081.701.002.849.037
+081.702.003.749.037
+4
+4
+087.7CC.090.001.000
+8–10
+0.9
+20–24
+0.5–0.25
+081.701.003.849.037
+081.702.002.749.037
+7/6/51
+7/6/51
+087.7CC.090.001.000
+20–30
+0.7
+28–32
+0.09–0.04
+081.702.001.848.037 081.703.002.748.037
+3
+3
+087.7CC.070.001.000
+20–30
+0.7
+22–26
+0.38–0.15
+081.702.001.848.037 081.703.002.748.037
+4
+4
+087.7CC.070.001.000
+14–18
+0.9
+22–26
+0.38–0.15
+081.701.002.849.037
+4
+087.7CC.090.001.000
+3
+14–18
+0.9
+20–24
+0.5–0.25
+081.701.003.849.037
+7/6/51
+087.7CC.090.001.000
+8
+1.3
+20–24
+0.5–0.25
+081.703.001.844.037 081.703.001.744.037
+7/6/51
+7/6/51
+087.7CC.130.001.000
+8
+1.3
+18–20
+1–0.5
+081.703.001.744.037
+5
+087.7CC.130.001.000
+TOOLS
+1 For AWG 20 position 7 / for AWG 22 position 6 / for AWG 24 position 5.
+157
+Table of Contents
+
+TOOLS
+SPANNER WRENCH
+NUTDRIVER  
+FOR SLOTTED 
+MOUNTING NUT
+Part number
+Dimensions in mm
+Nutdriver
+Thread
+Length in mm
+L
+SW
+t
+B
+L
+b
+598.700.001.016.000
+5 
+1.5
+16
+92
+8
+SUITABLE FOR STYLE 8 / SERIES L AND B:
+598.700.001.015.000
+5.5
+1.5
+16
+92
+8
+700.098.002.000.000
+M 9 × 0.5
+50
+598.700.001.021.000
+6
+2
+16
+92
+8
+700.098.001.000.000
+M 10 × 0.5
+50
+598.700.001.011.000
+7
+2
+16
+92
+8
+700.098.001.000.000
+M 12 × 1
+50
+598.700.001.001.000
+8
+2
+16
+92
+8
+701.098.002.000.000
+M 14 × 1
+60
+598.700.001.022.000
+9
+2
+21.5
+102
+9
+701.098.001.000.000
+M 15 × 1
+60
+598.700.001.002.000
+10
+2
+21.5
+102
+9
+702.098.001.000.000
+M 16 × 1
+60
+598.700.001.012.000
+11
+2
+24.5
+115
+10
+702.098.001.000.000
+M 18 × 1
+60
+598.700.001.003.000
+12
+2.5
+24.5
+115
+10
+703.098.001.000.000
+M 20 × 1
+60
+598.700.001.017.000
+12.5
+4
+24.5
+115
+10
+SUITABLE FOR STYLE 3 / SERIES K:
+701.098.002.000.000
+M 14 × 1
+60
+598.700.001.004.000
+13
+2.5
+30.5
+98
+16.5
+721.098.001.000.000
+M 16 × 1
+60
+598.700.001.005.000
+14
+2.5
+30.5
+98
+16.5
+703.098.001.000.000
+M 20 × 1
+60
+598.700.001.006.000
+15
+3
+35.5
+145
+15
+724.098.001.000.000
+M 30 × 1
+60
+598.700.001.007.000
+16
+3
+35.5
+145
+15
+598.700.001.008.000
+17
+3
+35.5
+145
+15
+598.700.001.023.000
+18
+3
+42
+172
+16
+50
+598.700.001.013.000
+19
+3
+42
+172
+16
+598.700.001.009.000
+20
+3
+42
+172
+16
+598.700.001.018.000
+21
+3
+42
+172
+16
+598.700.001.010.000
+22
+3
+47
+119
+23.5
+L
+598.700.001.014.000
+24
+3
+54
+119
+23.5
+598.700.001.024.000
+27
+3
+55
+150
+25
+598.700.001.019.000
+30
+3
+50
+150
+25
+598.700.001.020.000
+31
+3
+50
+150
+25
+L
+B
+b
+SW
+t = thickness
+158
+Table of Contents
+
+TOOLS
+REMOVAL TOOLS 
+FOR CRIMP-CLIP-CONTACTS
+Crimp-clip-contact
+Removal tool
+Part number
+Contact ∅ 
+mm
+087.7CC.070.001.000
+0.7
+087.7CC.090.001.000
+0.9
+087.7CC.130.001.000
+1.3
+087.7CC.160.001.000
+1.6
+087.7CC.200.002.000
+2
+ASSEMBLY TOOL FOR CONNECTOR SERIES K
+TOOLS
+PART NUMBER 080.000.055.000.000
+•  Suitable from size 0 to 4.
+•  To clamp the inner housing for back nut assembly.
+•  Incl. jaws for bench vise fixi g for easy handling.
+159
+Table of Contents
+
+ODU MINI-SNAP®
+Table of Contents
+
+TECHNICAL INFORMATION
+ODU connectors ensure perfect and reliable transmission of  
+power, signal, data and other media in a wide variety of applications.  
+Further information can be found on the following pages.
+Table of Contents
+TECHNICAL INFORMATION
+
+TECHNICAL INFORMATION
+INTERNATIONAL PROTECTION CLASSES
+Acc. IEC 60529:2013 (VDE 0470-1:2014).
+Code letters
+First code number
+Second code number
+(Degrees of protection against water)
+(International Protection)
+(Degrees of protection against access to 
+hazardous parts respectively against solid 
+foreign objects)
+5
+IP
+6
+Code 
+Code 
+Protection against harmful eff cts  
+number
+Protection against access to hazardous parts /  
+Protection against ingress of solid foreign objects
+number
+due to the ingress of water 
+No protection against contact / 
+No protection against solid 
+0
+No protection
+0
+No protection 
+against water
+No protection against water
+foreign objects
+Protection 
+Protection 
+Protection against contact with 
+the back of the hand / Protection 
+Protection against vertically 
+against  
+1
+1
+against solid foreign objects  
+falling waterdrops
+against large 
+foreign objects
+dripping water
+∅ ≥ 50 mm
+Protection 
+Protection 
+against 
+Protection against waterdrops 
+falling at an angle (any angle up 
+against  
+angular 
+Protection against contact with 
+the fingers / Protection against 
+2
+2
+to 15° of the vertical)
+solid foreign objects ∅ ≥ 12.5 mm
+medium-sized 
+foreign objects
+dripping water 
+(from angles)
+Protection 
+Protection 
+Protection against spray 
+against spray 
+water (any angle up to 60° of the 
+3
+3
+against small 
+foreign objects
+water
+vertical)
+Protection against contact with 
+tools / Protection against solid 
+foreign objects ∅ ≥ 2.5 mm
+Protection 
+Protection 
+Protection against splashing 
+Protection against contact with 
+a wire / Protection against solid 
+4
+4
+against  
+granular  
+against 
+splashing 
+water from any direction
+foreign objects ∅ ≥ 1.0 mm
+foreign objects
+water
+Protection against contact with  
+Protection 
+Protection against water jet from 
+against water 
+5
+Dustproof
+5
+any direction
+a wire / Protection against  
+uncontrolled ingress of dust
+jet
+Protection against contact with  
+Protection 
+Protection against powerful water 
+a wire / Complete protection 
+against power-
+6
+Dustproof
+6
+jet from all directions
+against ingress of dust
+ful water jet
+7
+Protection against ingress of 
+water negatively impacting the 
+proper function by temporary 
+Protection 
+against the 
+eff cts of 
+temporary 
+immersion in 
+submersion into water
+water
+Protection against ingress of 
+quantities of water negatively 
+8
+Protection 
+against the 
+eff cts of 
+continuous 
+immersion in 
+impacting the proper function by 
+continuous submersion into water
+water
+Protection 
+against high 
+pressure water 
+9
+Protection against water from all 
+directions characterized by high 
+pressure and high temperatures
+jet featuring 
+high tempera-
+tures
+162
+Table of Contents
+
+TECHNICAL INFORMATION
+PRINCIPLE OF WATERTIGHTNESS  
+WITH ODU MINI-SNAP®
+ODU makes both IP 50 and IP 68 in the L and B series in the same diameter. For reasons of compatibility with  
+the competition, ODU now offers the series K as well, which has a greater diameter than the non-watertight  
+model (series L).
+1. CASE:
+IN-LINE RECEPTACLE
+PLUG
+Cable interior
+Cable interior
+1
+2
+2
+Contacts
+Contacts
+2. CASE:
+Cable interior
+RECEPTACLE
+PLUG
+2
+3
+1
+Receptacle 
+interior
+Contacts
+3. CASE:
+RECEPTACLE
+PLUG
+Cable interior
+1
+4
+2
+3
+Receptacle 
+interior
+Contacts
+PROTECTION AGAINST WATER BY THE FOLLOWING SEALINGS1
+Mated
+Unmated
+Case
+Termination
+Tight
+Position
+Tight
+Position
+1
+2
+1
+Cable interior
+Yes
+No
+1
+2
+3
+2
+Receptacle interior
+Yes
+No
+1
+3
+2
+4
+3
+3
+Receptacle interior
+Yes
+Yes
+All IP 68 submersible ODU MINI-SNAP connectors 
+have a rated water depth of 2 m (0.2 bar) for 24 
+hours in accordance with IEC 60529:2013 (VDE 
+0470-1:2014). A watertight connector requires a 
+sealing in a cable collet system. 
+The sleeve must fit over the cable precisely. The 
+cable jacket must be smooth, cylindrical and free 
+of grooves. The connector should be encapsulated 
+to make it watertight when not mated.
+O-ring 
+Elastic sealing2 
+O-ring 
+Grouting
+1
+3
+2
+4
+1  The following applies to the contacts: the contacts are protected in cases 1, 2 and 3 when mated. When not mated, the contacts are only 
+protected by a protective cover (see page 69 for series L, page 110 for series K and page 148 for series B) which must be removed before 
+mating. 2  The cable seal with elastic disks requires coordination with the cable. Decisive factors: Diameter tolerance, roundness, 
+ cable structure, cable jacket hardness.
+163
+Table of Contents
+TECHNICAL INFORMATION
+
+TECHNICAL INFORMATION
+HOUSING MATERIALS / SURFACES
+Component
+Material designation
+Surface
+Connector plug 
+housing
+Back nut
+Cu-alloy
+Cr1
+ODU MINI-SNAP connector plug housings are made of 
+brass, nickel plated and then matt chrome plated. 
+Nickel and black chrome plated connector plug hous-
+ings are available upon request as special materials. 
+The internal parts are made of nickel plated brass. 
+Decorative slotted 
+mounting nut
+Cable collet
+EMI ring
+Half-shell
+Cu-alloy
+Ni
+Lock washer
+Nut
+Retainer Ring
+Contact pin (solder/PCB)
+Contact socket (solder/PCB)
+Cu-alloy
+Au
+Contact pin (crimp)
+Contact socket (crimp)
+INSULATOR MATERIALS 
+(COMPLIANT TO ROHS 2011/65/EU)
+Norm
+Unit
+PEEK
+Dielectric strength
+IEC 60243-1:2013 
+(VDE 0303-21:2014)
+KV/mm
+19
+Operation temperature
+ASTM D 149:2009
+°C
+–50 / +250
+Flammability rating
+UL-94:2013
+–
+V-0
+IEC 60112:2009  
+Comparative tracking 
+index CTI
+(VDE 0303-11:2010)
+ 
+175
+1 Black chrome plated on request. Choice in the part number key, see page 39 (series L), page 88 (series K), page 125 (series B).
+164
+Table of Contents
+
+TECHNICAL INFORMATION
+TERMINATION TECHNOLOGIES
+Insulators with pin contacts fit into the receptacle (or in-line receptacle) as well as into the plug. The same 
+applies to insulators with socket contacts. In general, insulators with socket contacts are installed in the live 
+part (to provide protection from accidental touch). 
+The means of mounting the contacts in the insulator is important on account of the termination technologies. 
+Termination technologies for ODU MINI-SNAP connectors include: soldering, crimping and PCB.
+SOLDER TERMINATION
+CRIMP-CLIP-CONTACT FOR PEEK INSULATOR
+PRINT TERMINATION
+TERMINATION TECHNOLOGIES FOR TURNED CONTACTS
+Solder termination
+The contacts are mounted in the insulator before the single connectors are assembled.  
+An insulator with pre-installed contacts is referred to as a contact insert. 
+Crimp termination 
+Here, the individual contact is connected to the individual wires via deformation in the termination area. Then 
+the contacts are individually installed in the insulator. Accordingly, insulators and individual contacts – and not 
+complete contact inserts – are supplied for the crimp termination. The contact processing for the production of 
+connecting cables via crimping creates a secure, durable and corrosion-free contact. Cold compaction (crimping) 
+compresses the conductor and contact material to the press points so as to form a gas-tight connection with 
+tensile strength to fit the conductor material. 8-point deformation is generally used for turned crimp contacts.
+PCB termination
+This is only used in the receptacle if the receptacle is to be mounted directly on a printed circuit board (PCB). 
+Further information is available upon request.
+165
+Table of Contents
+TECHNICAL INFORMATION
+
+TECHNICAL INFORMATION
+CONVERSIONS/AWG (AMERICAN WIRE GAUGE) 
+Circular wire
+Weight
+AWG
+Diameter
+Cross-
+section
+Max. 
+resist-
+ance 
+mm2
+kg / km
+The American Wire Gauge (AWG) is based on the principle that 
+the cross-section of the wire changes by 26% from one gauge 
+number to the next. The AWG numbers decrease as the wire di-
+ameter increases, while the AWG numbers increase as the wire 
+diameter decreases. This only applies to solid wire. 
+Ω /km
+Inch
+mm
+10 (1)
+0.1019
+2.590
+5.26
+46.77
+3.45
+10 (37/26)
+0.1150
+2.921
+4.74
+42.10
+4.13
+12 (1)
+0.0808
+2.050
+3.31
+29.41
+5.45
+However, stranded wire is predominately used in practice. This 
+has the advantage of a longer service life under bending and vi-
+bration as well as greater fl exibility in comparison with solid wire. 
+12 (19/25)
+0.0930
+2.362
+3.08
+27.36
+6.14
+12 (37/28)
+0.0910
+2.311
+2.97
+26.45
+6.36
+14 (1)
+0.0641
+1.630
+2.08
+18.51
+8.79
+14 (19/27)
+0.0730
+1.854
+1.94
+17.23
+9.94
+14 (37/30)
+0.0735
+1.867
+2.08
+18.870
+10.50
+16 (1)
+0.0508
+1.290
+1.31
+11.625
+13.94
+Stranded wires are made of multiple, smaller-gauge wires 
+(higher AWG number). The stranded wire then receives the AWG 
+numbers of a solid wire with the next closest cross-section to 
+that of the stranded wire. In this case, the cross-section of the 
+stranded wire refers to the sum of the copper cross-sections of 
+the individual wires. 
+16 (19/29)
+0.0590
+1.499
+1.23
+10.928
+15.70
+18 (1)
+0.0403
+1.020
+0.823
+7.316
+22.18
+18 (19/30)
+0.0052
+1.321
+0.963
+8.564
+20.40
+20 (1)
+0.0320
+0.813
+0.519
+4.613
+35.10
+20 (7/28)
+0.0390
+0.991
+0.563
+5.003
+34.10
+Accordingly, strands with the same AWG number but diff erent 
+numbers of wires diff er in cross-section. For instance, an AWG 
+20 strand of 7 AWG 28 wires has a cross-section of 0.563 mm2, 
+while an AWG 20 strand of 19 AWG 32 wires has a cross-section 
+of 0.616 mm2.
+20 (19/32)
+0.0420
+1.067
+0,616
+5.473
+32.00
+22 (1)
+0.0253
+0.643
+0,324
+2.883
+57.70
+22 (7/30)
+0.0288
+0.732
+0,324
+2.965
+54.80
+22 (19/34)
+0.0330
+0.838
+0.382
+3.395
+51.80
+24 (1)
+0.0201
+0.511
+0.205
+1.820
+91.20
+24 (7/32)
+0.0250
+0.635
+0.227
+2.016
+86.00
+24 (19/36)
+0.0270
+0.686
+0.241
+2.145
+83.30
+26 (1)
+0.0159
+0.404
+0.128
+1.139
+147.00
+26 (7/34)
+0.0200
+0.508
+0.141
+1.251
+140.00
+26 (19/38)
+0.0220
+0.559
+0.154
+1,370
+131.00
+28 (1)
+0.0126
+0.320
+0.0804
+0.715
+231.00
+28 (7/36)
+0.0160
+0.406
+0.0889
+0.790
+224.00
+28 (19/40)
+0.0170
+0.432
+0.0925
+0.823
+207.00
+30 (1)
+0.0100
+0.254
+0.0507
+0.450
+374.00
+30 (7/38)
+0.0130
+0.330
+0.0568
+0.505
+354.00
+30 (19/42)
+0.0123
+0.312
+0.0720
+0.622
+310.00
+32 (1)
+0.0080
+0.203
+0.0324
+0.288
+561.00
+32 (7/40)
+0.0110
+0.279
+0.0341
+0.303
+597.10
+32 (19/44)
+0.0100
+0.254
+0.0440
+0.356
+492.00
+34 (1)
+0.0063
+0.160
+0.0201
+0.179
+951.00
+34 (7/42)
+0.0070
+0.180
+0.0222
+0.197
+1,491.00
+36 (1)
+0.0050
+0.127
+0.0127
+0.1126
+1,519.00
+36 (7/44)
+0.0060
+0.150
+0.0142
+0.1263
+1,322.00
+Source: ASTM
+166
+Table of Contents
+
+TECHNICAL INFORMATION
+CURRENT LOAD OF TURNED CONTACTS
+Nominal single contact current load for pin / slotted socket (nominal diameter 0.5 mm – 2.0 mm)
+45
+45
+40
+40
+Limit temperature
+6
+35
+6
+6
+35
+5
+6
+2 mm / 2.5 mm2
+30
+5
+30
+5
+25
+5
+1.6 mm / 1.5 mm2
+4
+25
+20
+4
+4
+20
+4
+1.3 mm / 1.1 mm2
+15
+3
+Current (A)
+15
+3
+2
+3
+Current (A)
+10
+0.9 mm / 0.5 mm2
+3
+2
+1
+10
+2
+1
+5
+2
+0.7 mm / 0.38 mm2
+5
+0
+1
+0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+1
+0.5 mm / 0.15 mm2
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+Ambient temperature (°C)
+Ambient temperature (°C)
+60
+60
+55
+Limit temperature
+55
+50
+7
+50
+7
+3 mm / 4 mm2
+45
+7
+7
+45
+40
+6
+2 mm / 1.5 mm2
+40
+35
+6
+35
+5
+30
+1.6 mm / 1 mm2
+5
+30
+6
+25
+6
+5
+4
+1.3 mm / 0.5 mm2
+25
+20
+5
+4
+4
+20
+15
+Current (A)
+3
+0.9 mm / 0.38 mm2
+4
+3
+15
+Current (A)
+3
+10
+3
+10
+2
+0.7 mm / 0.15 mm2
+2
+1
+5
+2
+2
+1
+5
+0
+1
+0.5 mm / 0.08 mm2
+0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+1
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+Ambient temperature (°C)
+Ambient temperature (°C)
+DERATING FACTOR
+UPPER LIMIT TEMPERATURE OF STANDARD CONTACTS: +120 °C
+Derating factor
+Number of  
+loaded wires
+5
+0.75
+The wire cross-section shown in the legend was connected as test cable. In the case of 
+multi-position connectors and cables, the heating is greater than it is with individual con-
+tacts. For that reason, it is calculated with a reduction factor.  
+For connectors, the reduction factors for multi-core cables pursuant to VDE 0298-4:2013 
+are applied. The reduction factor is factored in at 5 live wires and up.
+7
+0.65
+10
+0.55
+DERATING CURVE 
+14
+0.5
+19
+0.45
+24
+0.4
+The corrected current-carrying capacity curve, derived from the base curve determined 
+(0.8 x measured current). It factors in manufacturing tolerances as well as uncertainties 
+in temperature measurement and measurement arrangement. See derating measurement 
+method.
+RATED CURRENT (NOMINAL CURRENT)
+The metrologically determined current which is permitted to flow continuously through  
+all contacts at the same time and will increase the contact temperature by 45 Kelvin.  
+The amperage is determined according to the derating measurement method  
+(IEC 60512-5-2:2002 (DIN EN 60512-5-2:2003) and derived from the derating curve.
+167
+Table of Contents
+TECHNICAL INFORMATION
+
+TECHNICAL INFORMATION
+OPERATING VOLTAGE
+Acc. SAE AS 13441:2004 method 3001.1
+The values specified in the catalog correspond to SAE AS 13441:2004 method 3001.1. The table values were 
+determined according to EIA 364-20E:2015. The inserts were tested while mated, and the test current was applied 
+to the pin insert. 
+75 % of the dielectric withstanding voltage is used for the further calculation. The operating voltage is 1/3 of this value.
+All tests were conducted at normal indoor climate and apply up to an altitude of 2,000 m. If there are any  
+deviations, the reduction factors are to be factored in according to the applicable standards. Test voltage: 
+Dielectric withstanding voltage × 0.75 Operating voltage: Dielectric withstanding voltage × 0.75 × 0.33
+ATTENTION:
+With certain applications, the safety requirements for electrical devices are very strict in terms of operating volt-
+age. In such cases, the operating voltage is defi ed according to the clearance and creepage distances between 
+parts which could be touched.
+When selecting such a connector, please contact us and let us know the safety standard which the product must meet.
+Test voltage: Dielectric withstanding voltage × 0.75
+Operating voltage: Dielectric withstanding voltage × 0.75 × 0.33
+168
+Table of Contents
+
+TECHNICAL INFORMATION
+ELECTRO MAGNETIC  
+COMPATIBILITY (EMC)
+0
+-10
+-20
+-30
+-40
+-50
+-60
+-70
+-80
+Shielding attenuation in dB
+0.01
+ 
+1.00
+10.00
+Frequency in GHz
+Electromagnetic compatibility (EMC) concerns more than just devices and electronic circuits. In the age of networks 
+and data communication, connecting elements such as cables and connectors are also very important. Interference 
+signals penetrating the connector from outside corrupt data signals and can cause significant system malfunctions. 
+This can be reliably avoided with high-grade shielding for the cables and connectors. In order to give our customers 
+certainty when using ODU MINI-SNAP connectors, we’ve had a size 3 connector measured by an accredited EMC labora-
+tory to determine its EMC quality. Since the sizes 0, 1 and 2 are identical to this connector in structure, just propor-
+tionally reduced in size, the values for shielding attenuation are the same.
+The measurement was conducted according to the injection or parallel wire method pursuant to VG 95214-11:2002. 
+The connector pair is connected to the receiver of a network analyzer on one end, while the other end receives an ad-
+justed termination resistor. The injection wire is attached as closely as possible along the connector pair. A flat cable 
+is usually used here, since an optimum adjustment can be achieved by attaching more or fewer wires. High-frequency 
+signals in the 10 kHz to 3 GHz range are now fed in through the injection wire. The network analyzer measures the 
+energy irradiated through the connector plug housing and into the connector, providing a shielding attenuation factor 
+as the logarithmic performance ratio AT in dB. The important thing with this method is that all supply lines (especially 
+the ones to the connector pair) must be very well shielded so that no interference signals can penetrate the meas-
+urement system and corrupt the measured values. This provides the shielding attenuation in dB as a curve over the 
+logarithmically applied frequency.
+Network analyzer
+ 
+Attenuater 20 dB
+Users frequently demand a shielding attenuation better  
+than –55 dB (based on a requirement of Deutsche Post).  
+It is clear that our connector meets this requirement over  
+the entire measurement range. 
+Power splitter Termination impedance
+Inductive wire
+Termination impedance
+Coupler
+Coupler
+Object under test
+Tape
+169
+Table of Contents
+TECHNICAL INFORMATION
+
+TECHNICAL INFORMATION
+AUTOCLAVING OF ODU MINI-SNAP®
+We can also provide ODU MINI-SNAP connectors for the following sterilization procedures upon request: 
+steam sterilization via pre-vacuum or gravity method. The connectors are tested in autoclaves for 500 
+cycles at 134 °C in accordance with DIN EN 13060:2015.
+Please consult our technical team for the further sterilization procedure.
+3,000
+2,000
+Pressure in mbar abs.
+Time
+1,013
+0
+1. Pressure decrease
+in transition
+Influence
+5 minutes at 134 °C
+15 minutes at 121 °C
+1. Pre-vacuum
+1. Pressure increase
+2. Pre-vacuum
+2. Pressure increase
+Temperature increase  
+Pressure decrease
+After-vacuum
+Drying time
+Ventilation
+Ventilation
+Increase of pressure
+Sterilization
+Drying
+Sterilization curve
+TEST STANDARD
+In terms of the quality approval, sizes 0 and 3 were subjected to environmental and mechanical tests 
+pursuant to MIL and passed them flawlessly.
+Defin tion
+Standard
+High temperature
+MIL-STD-810G w/Change 1:2014 method 501.6
+Low temperature
+MIL-STD-810G w/Change 1:2014 method 502.6
+Temperature shock
+MIL-STD-810G w/Change 1:2014 method 503.6
+Humidity
+MIL-STD-810G w/Change 1:2014 method 507.6
+Salt fog
+MIL-STD-810G w/Change 1:2014 method 509.6
+Shock
+MIL-STD-810G w/Change 1:2014 method 516.7
+Vibration
+MIL-STD-1344A method 2005.1 (IV)
+Watertightness IP 68
+IEC 60529:2013 (VDE 0470-1:2014)
+170
+Table of Contents
+
+TECHNICAL INFORMATION
+TECHNICAL TERMS
+AMBIENT TEMPERATURE 
+CORES
+Temperature of the air or other medium in which a piece of 
+equipment is intended to be used. (IEC 44/709/CDV:2014 (VDE 
+0113-1:2014).
+Electrical conductor, solid wire or multi-wire strand, with insula-
+tion as well as any conductive layers. Cables or leads may have 
+one or more cores.
+AUTOCLAVABILITY 
+CREEPAGE DISTANCES
+See page 170.
+AWG 
+The shortest distance between two conductive parts along 
+the surface of a solid insulation material. This factors in all 
+elevations and recesses in the insulator, as long as defi ed 
+minimum dimensions are on hand. 
+American Wire Gauge – see page 166.
+CRIMP BARREL
+BASE CURVE 
+A terminal sleeve which can accommodate one or more  
+conductors and be crimped by a crimping tool.
+CRIMP CONNECTION (CRIMP TERMINATION)
+A current-carrying capacity curve metrologically determined 
+according to the method described in IEC 60512-5-2:2002 
+(DIN EN 60512-5-2:2003) depending on the permissible limit 
+temperature of the materials.
+CHEMICAL RESISTANCE 
+The permanent, non-detachable and solder-free mounting of a 
+contact to a conductor via deforming or shaping under pressure 
+to make a good electrical and mechanical connection. Executed 
+with crimping tool, press or automatic crimping machine (see 
+page 156).
+CRIMPING AREA
+Many secondary processing procedures use adhesives, 
+cleaning agents or other chemicals on our products. Contact 
+with unsuitable chemicals may have an adverse effect on the 
+mechanical and electrical properties of the insulation and 
+housing materials which specified properties may not be able 
+to withstand. Please observe our processing suggestions and 
+technical instructions in this catalog.
+The specified area of the crimp barrel in which the crimp termi-
+nation is executed by means of deforming or shaping the barrel 
+under pressure around the conductor.
+CLEARANCE DISTANCE
+DEGREE OF POLLUTION
+The shortest distance in the air between two conductive parts.
+CONNECTORS
+The effect of pollution is factored in as degree of pollution when 
+measuring clearance and creepage distances. Four degrees of 
+pollution are defi ed for the micro-environment: IEC 60664-
+1:2007 (VDE 0110-1:2008).
+DELIVERY FORM
+Also known as connectors without contact rating (COC): (IEC 
+61984:2008 (VDE 0627:2009). An element which enables 
+electrical conductors to be connected and is intended to create 
+and/or separate connections with a suitable counterpart. 
+CONNECTOR WITHOUT BREAKTING CAPACITY (COC)
+Connectors can be delivered in assembled form or as  
+individual parts.
+DERATING CURVE 
+Connector which is not deemed to be engaged or disengaged in 
+normal use when live under load.
+See page 167.
+CONTACT RESISTANCE 
+DERATING MEASUREMENT METHOD  
+IEC 60512-5-2:2002 (DIN EN 60512-5-2:2003)
+Total resistance value measured from terminal to terminal. In 
+this case, the resistance is significantly lower than the contact 
+resistance. The specifications are average values.
+Measurement method to determine the current-carrying capac-
+ity of connectors in consideration of the maximum permissible 
+limit temperature (see page 167).
+171
+Table of Contents
+TECHNICAL INFORMATION
+
+TECHNICAL INFORMATION
+TECHNICAL TERMS
+FIXED CONNECTORS
+NOMINAL SINGLE CONTACT CURRENT LOAD
+The current-carrying capacity which each individual contact 
+can be loaded with on its own (see page 167).
+Intended for mounting on a fi ed surface such as a frame, dock, 
+device or wall (with ODU also receptacle or panel-mounted plug).
+FREE CONNECTORS
+NOMINAL VOLTAGE
+Intended for mounting on free ends of mobile leads and cables 
+(with ODU also connectors, plugs, in-line receptacles).
+The voltage which the manufacturer specifies for a connector 
+and relates to the operating and performance features.
+INSULATOR
+OPERATING TEMPERATURE FOR ODU MINI-SNAP
+Range between the uppermost and lowermost temperature 
+limits. –40 °C to +120 °C (see page 15).
+Part of a connector which separates conductive parts with 
+different potentials from one another; usually identical to the 
+contact carrier.
+OPERATING VOLTAGE 
+KEYING (ORIENTATION)
+The nominal voltage of the power source for which the connec-
+tor is being used. The operating voltage may not be higher than 
+the nominal voltage of the connector.
+PCB (A.K.A. “PRINTED CIRCUIT BOARD”)
+Arrangement with which differing polarization of otherwise 
+identical connectors prevents interchangeability. This is a good 
+idea if two or more identical connectors are attached to the 
+same device (see also compatible connectors, see pages 39, 
+88, 125).
+A PCB is a carrier for electronic components. It serves the pur-
+poses of mechanical mounting and electrical connection.
+LOWERMOST LIMIT TEMPERATURE
+PCB TERMINATION 
+The lowest permissible temperature at which a connector may 
+be operated. At ODU MINI-SNAP, it amounts to –40 °C.
+Production of a conductive connection between the PCB and an 
+element in through-hole assembly, THT (through-hole technology).
+MATING AND DEMATING FORCE
+RATED CURRENT (NOMINAL CURRENT)
+The force required to fully insert or withdraw pluggable ele-
+ments without the infl ence of a coupling or locking device.
+See page 167.
+MATING CYCLES
+RATED VOLTAGE
+Mechanical actuation of connectors and plug devices via push 
+and pull action. A mating cycle consists of one insertion and 
+withdrawal action. ODU’s standard value for the ODU MINI-SNAP 
+series is 5,000 mating cycles.
+According to IEC 60664-1:2007 (VDE 0110-1:2008) standard 
+“Value of a voltage which is specified by the manufacturer for 
+a component, device or operating medium and relates to the 
+operating and performance features.”
+MAX. CONTINUOUS CURRENT 
+SOLDER CONNECTION (SOLDER TERMINATION) 
+Termination technology in which a molten additional metal 
+(solder) with a lower melting point than the base materials to 
+be connected is used to attach two metallic materials to one 
+another. 
+The metrologically determined amperage at room temperature 
+(approx. 20 °C) which increases the contact temperature to the 
+limit temperature. The values specified in the catalog apply to 
+either individual contacts or completely assembled inserts / 
+modules, as indicated.
+172
+Table of Contents
+
+TECHNICAL INFORMATION
+TECHNICAL TERMS
+WIRE
+TERMINATION CROSS-SECTION
+Wires (solid conductors) are available with an insulator sleeve 
+and/or electrical shielding. Cables or conductors may be made 
+up of one or more wires.
+The specified cross-sections correspond to a “fi e-wire” con-
+ductor structure pursuant to IEC 60228:2004 (VDE 0295:2005; 
+Class 5) or a “fi e-wire” conductor structure (7/19 wire) 
+according to AWG (ASTM B258-14).
+TERMINATION TECHNOLOGIES
+Methods for connecting the leads to the electro-mechanical  
+element, such as solder-free connections pursuant to  
+IEC 60352 (DIN EN 60352): crimp, screw connection etc. or 
+soldering connection (see page 165).
+TEST VOLTAGE
+The voltage which a conductor can withstand under defi ed 
+conditions without dielectric breakdown or flashover.
+TIGHTNESS  IEC 60529:2013 (VDE 0470-1:2014)
+See protection classes on page 162.
+UPPERMOST LIMIT TEMPERATURE
+The maximum permissible temperature at which a connector 
+may be operated. It includes contact heating through cur-
+rent-carrying capacity. 
+With ODU MINI-SNAP Standard TURNTAC contacts, it amounts to 
++120 °C. Please consult ODU for high-temperature applications.
+GENERAL NOTE 
+The connectors listed in this catalog are intended for use in high 
+voltage and frequency ranges. Suitable precautionary measures 
+must be taken to ensure that people do not come into contact 
+with live conductors during installation and operation. 
+All entries in this catalog were thoroughly reviewed before 
+printing. ODU reserves the right to make changes based on the 
+current state of knowledge without prior notice without being 
+obliged to provide replacement deliveries or refi ements of 
+older designs.
+173
+Table of Contents
+TECHNICAL INFORMATION
+
+A PERFECT ALLIANCE. 
+ODU GROUP WORLDWIDE
+ODU MINI-SNAP® L / K / B
+ODU USA
+ODU-USA, Inc.
+300 Camarillo Ranch Road, Suite A, Camarillo, CA 93012, United States of America
+Phone: +1 805 484-0540, Fax: +1 805 484-7458, E-mail: sales@odu-usa.com
+SALES LOCATIONS
+HEADQUARTERS
+ODU Korea Inc.
+Phone: +82 2 6964 7181
+E-mail: sales@odu-korea.kr
+www.odu-korea.kr
+ODU (Shanghai)  
+International Trading Co., Ltd.
+Phone: +86 21 58347828-0
+E-mail: sales@odu.com.cn
+www.odu.com.cn
+ODU GmbH & Co. KG
+Pregelstraße 11
+84453 Mühldorf a. Inn, Germany 
+Phone: +49 8631 6156-0
+Fax: 
++49 8631 6156-49
+E-mail: sales@odu.de
+www.odu.de
+PRODUCTION AND LOGISTICS SITES
+ODU Romania Manufacturing S.R.L.
+Phone: +40 269 704638
+E-mail: sales@odu-romania.ro
+www.odu-romania.ro 
+ODU Denmark ApS
+Phone: +45 2233 5335
+E-mail: sales@odu-denmark.dk
+www.odu-denmark.dk
+Germany   Otto Dunkel GmbH
+China   
+ODU (Shanghai) Connectors  
+ 
+Manufacturing Co.Ltd 
+Mexico   
+ODU Mexico Manufacturing  
+ODU Scandinavia AB
+Phone: +46 176 18262 
+E-mail: sales@odu.se
+www.odu.se
+ODU France SARL
+Phone: +33 1 3935-4690 
+E-mail: sales@odu.fr
+www.odu.fr
+ 
+S.R.L. de C.V. 
+Romania    ODU Romania  
+ Manufacturing S.R.L.
+USA   
+ODU North American Logistics
+ODU-UK Ltd.
+Phone: +44 330 002 0640
+E-mail: sales@odu-uk.co.uk
+www.odu-uk.co.uk
+ODU Italia S.R.L.
+Phone: +39 331 8708847  
+E-mail: sales@odu-italia.it
+www.odu-italia.it 
+Further information and specialized 
+representatives can be found at: 
+www.odu-usa.com/contact
+ODU Japan K.K.
+Phone: +81 3 6441 3210
+E-mail: sales@odu.co.jp
+www.odu.co.jp
+The right is reserved to modify product and technical data.
+All dimensions are in mm. Some figures are for 
+illustrative purposes only. Subject to change 
+without notice. Errors and omissions excepted. 
+We reserve the right to change our products 
+and their technical specifications at any time 
+in the interest of technical improvement. This 
+publication supersedes all prior publications. 
+This publication is also available as a PDF fi e 
+that can be downloaded from www.odu-usa.com
+Simply scan the QR code  
+to download the entire publication.
+ODU MINI-SNAP® LKB / B / 2019 / E
+www.odu-usa.com 
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU USA:  
+ 
+  K11K0C-P02LPH0-4000  K11K0C-P02LPH0-5000  K11K0C-P02LPH0-6000  K11K0C-P04LJG0-3000  K11K0C-
+P05LJG0-7000  K11K0C-P06LFG0-1500  K11K0C-P14LCC0-7000  K11KAC-P02LPH0-3500  K11KAC-P02LPH0-4000 
+S11K0C-P02MPH0-3500  S11K0C-P03MPH0-2000  K10K0C-P06LCC0-3000  K10K0C-P06LCC0-4000  K10K0C-
+P09LCC0-2000  K10K0C-P10LCC9-3000  K10KAC-P02LJG0-4500  K10KAC-P03LJG0-2000  K10KAC-P07LCC0-3000
+  K10KAC-P09LCC0-5000  S11KAC-P14MCC0-5000  S11KAC-P16MCC0-7000  K11K0C-P04LJG0-4000  K11K0C-
+P08LFG0-4500  K11K0C-P08LFG0-7000  K11K0C-P10LCC0-3500  K11K0C-P14LCC0-3500  K11K0C-P14LCC0-4500 
+K11KAC-P02LPH0-6500  K11KAC-P03LPH0-4000  K11KAC-P04LJG0-3500  S11K0C-P04MJG0-2000  S11K0C-
+P04MJG0-3000  S11K0C-P07MFG0-1500  S11K0C-P08MFG0-1500  S11K0C-P10MCC0-1500  S11K0C-P14MCC0-
+5000  S11KAC-P03MPH0-6500  S11KAC-P08MFG0-4000  S11KAC-P14MCC0-4500  S11KAC-P14MCC0-6500 
+S11KAC-P16MCC0-4000  K11K0C-P03LPH0-4500  K11K0C-P06LFG0-2000  K11K0C-P06LFG0-3000  K11K0C-
+P07LFG0-6500  K11K0C-P08LFG0-6500  K11K0C-P10LCC0-4000  K11KAC-P02LPH0-5000  S11KAC-P05MJG0-4500
+  S11KAC-P06MFG0-6500  S11KAC-P08MFG0-2000  S11KAC-P08MFG0-2500  S11KAC-P08MFG0-3000  S11KAC-
+P08MFG0-3500  S11KAC-P10MCC0-4500  S11KAC-P10MCC0-5500  S11KAC-P16MCC0-1500  S11KAC-P16MCC0-
+2500  S10KAC-P03MJG0-3000  S10KAC-P04MFG0-3000  S10KAC-P05MFG0-4000  S10KAC-P09MCC0-5000 
+S10KAC-P10MCC9-2500  K10KAC-P07LCC0-5000  K10KAC-P10LCC9-5000  K11K0C-P02LPH0-2500  K11K0C-
+P02LPH0-3500  K11K0C-P03LPH0-2000  S11K0C-P04MJG0-6500  S11K0C-P05MJG0-4000  S11K0C-P05MJG0-6500
+  S11K0C-P07MFG0-2500  S11K0C-P08MFG0-2500  S11K0C-P10MCC0-2500  S11K0C-P10MCC0-6500  S11K0C-
+P14MCC0-1500  S11K0C-P16MCC0-3500  S11KAC-P02MPH0-3500  G11K0C-P08LFG0-0000  G31K0C-P10LCC0-
+0000  S11KAC-P03MPH0-2000  S11KAC-P03MPH0-5500  S11KAC-P04MJG0-4000  S11KAC-P05MJG0-1500 
+S11KAC-P06MFG0-3500  S11KAC-P07MFG0-2000  S11KAC-P07MFG0-3000  S11KAC-P08MFG0-1500  S11KAC-
+P08MFG0-5000  S11KAC-P10MCC0-3500  S11KAC-P14MCC0-2000  K11K0C-P03LPH0-7000  K11K0C-P07LFG0-
+1500  K11K0C-P08LFG0-1500  K11K0C-P14LCC0-5500  K11K0C-P14LCC0-6000  K11K0C-P14LCC0-6500  K11KAC-
+P05LJG0-3500  K11KAC-P06LFG0-4500  K11KAC-P06LFG0-6000

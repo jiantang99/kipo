@@ -1,0 +1,175 @@
+M12 A-Code  Series 
+The M12 A-Code product line from Stewart Connector are standard 
+products used in industrial automation, outdoor applications, measurement 
+and control, agriculture and more. A-code M12 connectors are often used 
+for sensors and DC power. The entire product line is IP67 rated when 
+installed, adding to the reliable nature of these connectors in an industrial 
+environment. IDC and soldering termination options offer quick and easy 
+installations, replacements or upgrades.
+Features & Benefits
+• 
+Includes both male and female panel mount receptacles and field 
+terminated plug options
+• 
+A-Coding (or keying) within the M12 series prevents mismatching 
+with other M12 coding/keying options
+• 
+Each of the parts in the A-Code series is IP67 rated when installed
+• 
+DeviceNet, CANbus and fieldbus primarily use connectors with 4 and 
+5 pin options
+• 
+Male front panel mount receptacle - available with 0.5 meter leads or 
+solder cup contacts and 4 or 5 pin options
+• 
+Male rear panel mount receptacle - available with 0.5 meter leads or 
+PCB solder pins and 4 or 5 pin options
+• 
+Female front panel mount receptacle - available with solder cup 
+contacts and a 4 pin option
+• 
+Field terminated plugs with solder cup contacts - male and female 
+and 4 or 5 pin options available
+• 
+Field terminated plugs with IDCs - both 4 and 5 pin options available 
+for male plugs, 4 pin option available for female plugs
+Applications
+• 
+Factory automation
+• 
+Sensors and power applications
+• 
+Communications
+• 
+Robotics
+• 
+Alternative energy solutions
+belfuse.com/stewart-connector
+
+M12 A-Code Series
+Part Number Selection Guide
+Part Number
+Gender
+Number of 
+Contacts
+Orientation
+Type
+Termination
+SS-12000-001
+Male
+4
+Straight
+Front Panel Mount Receptacle
+Solder Cup Contacts
+SS-12000-002
+Male
+5
+Straight
+Front Panel Mount Receptacle
+Solder Cup Contacts
+SS-12000-003
+Male
+4
+Straight
+Rear Panel Mount Receptacle
+Solder Cup Contacts
+SS-12000-004
+Male
+5
+Straight
+Rear Panel Mount Receptacle
+Solder Cup Contacts
+SS-12000-005
+Female
+4
+Straight
+Front Panel Mount Receptacle
+Solder Cup Contacts
+SS-12000-009
+Male
+4
+Straight
+Front Panel Mount Receptacle with 0.5 m Leads
+Leads
+SS-12000-010
+Male
+5
+Straight
+Front Panel Mount Receptacle with 0.5 m Leads
+Leads
+SS-12000-011
+Male
+4
+Straight
+Rear Panel Mount Receptacle with 0. 5m Leads
+Leads
+SS-12000-012
+Male
+5
+Straight
+Rear Panel Mount Receptacle with 0.5 m Leads
+Leads
+SS-12000-017
+Male
+4
+Straight
+Field Terminated Plug
+Solder Cup Contacts
+SS-12000-018
+Male
+5
+Straight
+Field Terminated Plug
+Solder Cup Contacts
+SS-12000-019
+Female
+4
+Straight
+Field Terminated Plug
+Solder Cup Contacts
+SS-12000-020
+Female
+5
+Straight
+Field Terminated Plug
+Solder Cup Contacts
+SS-12000-021
+Male
+4
+Straight
+Field Terminated Plug
+IDCs
+SS-12000-022
+Male
+5
+Straight
+Field Terminated Plug
+IDCs
+SS-12000-023
+Female
+4
+Straight
+Field Terminated Plug
+IDCs
+Stewart Connector
++1 717.235.7512
+techhelp@belf.com
+11118 Susquehanna Trail South
+Glen Rock, PA  17327-9199
+belfuse.com/stewart-connector
+© 2019  Stewart Connector
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Bel:  
+ 
+  SS-12000-012  SS-12000-002  SS-12000-011  SS-12000-023  SS-12000-020  SS-12000-009  SS-12000-022  SS-
+12000-019  SS-12000-021  SS-12000-001  SS-12000-005  SS-12000-010  SS-12000-017  SS-12000-003  SS-12000-
+004  SS-12000-018

@@ -1,0 +1,240 @@
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+D
+C191385
+2019/08/02
+Siou
+Revise Rated Voltage.
+E
+E191814
+2019/10/24
+Ruru
+   x 3
+E
+F
+F
+C210786
+2021/06/06
+Angel Chou
+   x 5
+F
+E
+Connector
+Clamp Ring
+Seal
+Sealing Nut
+(Ref)
+66.5
+DC-XXBMMB-QL8XPP
+D
+26.9
+C
+26.0
+02-2 Pin
+03-3 Pin
+04-4 Pin
+05-5 Pin
+S: With Red Color Seal 1, Cable OD 8.0~10.0mm.
+M: With Yellow Color Seal 2, Cable OD 10.0~12.0mm.
+L: With Blue Color Seal 3, Cable OD 12.0~14.0mm.
+A: With Seal 1
+& Seal 2 
+& Seal 3. 
+QC
+E
+C
+F
+E
+F
+F
+F
+F
+QC
+1
+5
+1
+4
+1
+3
+B
+Pin 
+2
+4
+2
+2
+1
+3
+2
+3
+Assignments 
+Front View
+Note:
+* RoHS Compliant
+*   Important Dimension
+* Waterproof Rate: IPX8, Mated 1m/24h
+* Connector
+  Housing: Thermoplastic, Black
+  Pin: Copper Alloy, Gold Plated
+  Clamp Ring: Thermoplastic, Black
+  Sealing Nut: Thermoplastic, Black
+  Seals: Rubber
+2 Pin
+3 Pin
+4 Pin
+5 Pin
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+XLOK, D-20A, 03P, CABLE W/O SR
+M, M, FI SCREWIN, XLOK
+Siou
+2019-08-02
+DWG NO
+DATE
+CHECKED BY
+A
+E
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+      TOLERANCE
+   
+DC-XXBMMB-QL8XPP
+Eagle
+2019-08-02
+8:5
+A4  
+   
+1    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Neo
+2019-08-02
+F
+A.3  QC :Inspection item
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+F
+PE Bag
+QTY: 1 Pcs
+E
+QTY: XX Pcs
+D
+Carton
+C
+R
+UP
+Amphenol LTW
+B
+B
+Note:
+* One Set Unassembled In One PE Bag.
+  (每一組未組裝,放置於一個PE袋,並封口,如圖示)
+* Label is Attached To PE Bag Front.
+  (標籤貼在PE袋正面)
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+XLOK, D-20A, 03P, CABLE W/O SR
+M, M, FI SCREWIN, XLOK
+Siou
+2019-08-02
+DWG NO
+DATE
+CHECKED BY
+E
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+      TOLERANCE
+ 
+DC-XXBMMB-QL8XPP
+Eagle
+2019-08-02
+8:5
+A4  
+   
+2    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Neo
+2019-08-02
+F
+A.3  QC :Inspection item
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  DC-05BMMB-QL8APP  DC-02BMMB-QL8SPP  DC-05BMMB-QL8MPP  DC-04BMMB-QL8LPP  DC-02BMMB-QL8APP
+  DC-03BMMB-QL8SPP  DC-04BMMB-QL8SPP  DC-05BMMB-QL8LPP  DC-04BMMB-QL8APP  DC-03BMMB-QL8MPP
+  DC-02BMMB-QL8LPP  DC-05BMMB-QL8SPP  DC-03BMMB-QL8APP  DC-03BMMB-QL8LPP  DC-02BMMB-QL8MPP
+  DC-04BMMB-QL8MPP

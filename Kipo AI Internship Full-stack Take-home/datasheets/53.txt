@@ -1,0 +1,5432 @@
+DEUTSCH DBAS 9 SERIES CONNECTORS   
+EXTREME RELIABILITY IN HARSH AEROSPACE, MILITARY AND  
+SPACE APPLICATIONS
+Standards SAE/AS81703 Series III, UTE 93422 Model HE 311, MIL-DTL 38999
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+
+DEUTSCH DBAS 9 Series Connectors—Introduction
+HIGH PERFORMANCE 
+HIGH RELIABILITY 
+•  Up to 500 mating/unmating cycles, variants available 
+•  Visual and sensitive push-pull locking system  
+for up to 1500 cycles
+(blind mating)
+•  Multiple specific variants for pyrotechnic applications, 
+CUSTOM DESIGN FOR INTEGRATED SOLUTIONS 
+EMI shielding, Dead-Face systems, 1553 Bus,  
+•  Large range of shell types and accessories
+High Speed, HF High Frequency
+•  Large range of insert arrangements (38999 III)
+•  Multiple surface finishing options
+•  Large possibilities of specific modifications
+Introduction 
+3
+Synoptic 
+6
+Part Numbering System 
+8
+Arrangements 
+9
+Key Orientation 
+11
+Arrangement Views 
+12
+Special Modifications/Lengths of Lanyard 
+17
+DBAS 970
+Square Flange Receptacle / With Straight Cable Clamp 
+18
+With Elbowed Cable Clamp / With Potting Cup 
+19
+DBAS 971
+Cable Connecting Receptacle / With Straight Cable Clamp 
+20 
+With Elbowed Cable Clamp / With Potting Cup 
+21 
+DBAS 974
+Jam-Nut Mounted Receptacle / With Straight Cable Clamp 
+22
+With Elbowed Cable Clamp / With Potting Cup 
+23
+DBAS 976
+Feel-Control Locking Plug / With Straight Cable Clamp 
+24
+With Elbowed Cable Clamp / With Potting Cup 
+25
+DBAS 978
+Heavy Duty Lanyard / With Straight Cable Clamp 
+26
+With Elbowed Cable Clamp / With Potting Cup 
+27
+DBAS 979
+Rack and Panel / With Straight Cable Clamp 
+28
+With Elbowed Cable Clamp 
+29
+Accessories 
+30
+Panel Sealing Gasket and O Ring for Receptacles 
+32
+Leading Clips for Plugs and Protective Caps 
+32
+Cable Clamp Sleeves 
+33
+Mating – Unmating Dimensions 
+34
+Panel Cutout 
+36
+Mating – Unmating Forces / Mass 
+37
+Contacts 
+38
+Tools 
+39
+Coax / Twinax 
+40
+Fiber Optic 
+41
+Mounting Notice of Rack and Panel 
+42
+ 
+Overall dimensions and characteristics are given for indication 
+guidance only. We reserve the right to modify them for production 
+improvement reasons. All the references listed may not be active.
+
+DEUTSCH DBAS 9 Connectors 
+40 Years of Expertise in the 
+Aerospace Industry
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 3
+
+DEUTSCH DBAS 9 Connectors 
+•  Sealed receptacles and feedthrough
+•  Removable contacts size 8 to 22, crimp, solder and PCB types
+•  Savers, protective caps and dummy receptacles
+Connection Reliability
+•  Visual and sensitive locking (blind mating)
+•  Leading clip helps prevent any accidental unmating  
+on demand
+• Interface and individual wire sealing
+Custom Design for Integrated Solutions
+•  Cryogenic
+• Dead-face systems
+•  Specials (high speed, HF, pyrotechnic, 1553 bus)
+Large Range of Variants and Accessories
+•  Mobile and “rack and panel” plugs, plugs with  
+heavy duty lanyard
+1
+2
+4
+6
+7
+5
+3
+1  Connector rear part fitted with teeth anti-rotation system ensure effective 
+tightening and clamping of accessories
+2  Shell/insert sealing assumed by potting
+3  Leading clip for plugs to help prevent any accidental unmating on demand  
+(see page 32)
+4  Interface sealing assumed by H.F. gasket
+5  Improved shell to shell continuity supported by RFI fingers on plugs  
+(see page 8, index G)
+6  Individual contact sealing at mating thanks to compression of elastomer on  
+hard insert.
+7  Individual wire sealing due to several sealing barriers on rear insert
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 4
+
+DEUTSCH DBAS 9 Connectors 
+Technical Characteristics
+Mechanical
+Shell
+Material
+Plating
+Aluminium Alloy
+Standard: Nickel 
+Special: Consult Us
+RFI Ring
+Material
+Beryllium Copper
+Plating
+Nickel
+Insert
+Material
+Thermoplastic and Fluorinated Silicone
+Fluid Resistance
+Compliant with MIL-DTL 38999
+Contact
+Type
+Crimp Type
+Plating
+Gold over Nickel
+Insert Contact  
+Retention
+Size 22: 4.40 daN  
+Size 12: 11.56 daN
+Size 20: 6.93 daN  
+Size  8: 11.56 daN
+Size 16: 11.56 daN  
+Durability
+500 full mating / unmating cycles, available variant for 1500 cycles
+Environmental Conditions
+Service Temperature 
+-55° C to +200° C
+Corrosion
+Nickel Plating: Withstand 96 hours of salt spray
+Olive Drab Cadmium: Withstand 500 hours of salt spray
+Electrical
+Mated Shell Conductivity
+Plugs with RFI Fingers
+≤ 50 mΩ
+Contact Maximum  
+Current
+Size 22: 5 A
+Size 12: 23 A
+Size 20: 7.5 A
+Size 8: 46 A
+Size 16: 13 A
+Diameter over  
+Insulating Sheath
+Size 22: 0.71 to 1.25 mm 
+Size 12: 2.69 to 4.01 mm
+Size 20: 1.01 to 2.10 mm 
+Size 8: 3.80 to 5.15 mm
+Size 16: 1.35 to 2.62 mm 
+Size 22: 0.15 to 0.38 mm2
+Size 12: 1.91 to 3.18 mm2
+Size 20: 0.21 to 0.60 mm2
+Size 8: 5.30 to 8.98 mm2
+Allowed Wires Section
+Size 16: 0.60 to 1.34 mm2
+Plug with Heavy Duty Lanyard Mated with Jam-Nut Mounted Receptacle
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 5
+
+DEUTSCH DBAS 9 Connectors 
+Synoptic
+ACCESSORIES 
+PLUG  
+DBAS 976 
+Feel-Control Locking Plug 
+ 
+Nut
+ 
+ 
+DBAS 978 
+ Plug with 
+Heavy 
+Duty 
+Lanyard
+ 
+ 059 
+Straight Cable Clamp
+ 
+RACK & PANEL CONNECTOR 
+DBAS 979 
+Rack and Panel
+  081 
+90˚ Cable Clamp
+ 
+ 
+A 140  Adaptor
+A 083  Potting Cup
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 6
+
+DEUTSCH DBAS 9 Connectors 
+RECEPTACLES 
+ACCESSORIES 
+ 
+Nut
+DBAS 970 Square Flange 4 Holes Mounting
+ 
+ 
+ 
+DBAS 971 Cable Connecting Receptacle
+ 
+ 059 
+Straight Cable Clamp
+ 
+DBAS 974 Jam-Nut Mounted Receptacle
+  081 
+90˚ Cable Clamp
+ 
+A 140  Adaptor
+A 083  Potting Cup
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 7
+
+DEUTSCH DBAS 9 Connectors 
+Part Numbering System
+ 
+ 
+DBAS 9  
+76 
+ 
+G  
+ 
+27 
+13  
+P  
+N    
+DA  
+****
+CONNECTOR TYPE 
+SHELL TYPE 
+ 
+70  Square Flange Receptacle with Nut
+ 
+71  Cable Connecting Receptacle with Nut   
+ 
+74  Jam-Nut Mounting Receptacle with Nut 
+ 
+76  Feel-Control Locking Plug with Nut 
+ 
+78  Plug with Heavy Duty Lanyard and Nut 
+ 
+79  Rack and Panel with Nut
+GROUNDING CONTINUITY INDEX (Only for Plugs) 
+ 
+Without Index No RFI Fingers on Shells 76 - 78 - 79   
+ 
+With G Index With RFI Fingers on Shells 76 - 78 - 79 
+ 
+With GR Index With RFI Fingers on Shell 78 + 
+ 
+Increased Minimum Release Force
+SHELL SIZE 
+ 
+9 - 11 - 13 - 15 - 17 - 19 - 21 - 23 - 25
+ARRANGEMENTS 
+ 
+(See Page 12)
+CONTACT TYPE 
+ 
+P  
+Pin Contact  
+ 
+ 
+S  
+Socket Contact
+INSERT CLOCKING POSITION 
+ 
+N  
+Normal   
+KEY ORIENTATION (Except 79) 
+ 
+(See Page 11)
+SPECIAL MODIFICATIONS 
+ 
+(See Page 17)
+For hermetic versions, please consult TE
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 8
+
+DEUTSCH DBAS 9 Connectors 
+Arrangements
+8 Twinax
+8 Coax
+12 Twinax
+12 Coax
+10
+12
+16
+20
+22D
+22M
+09-06
+7
+09-07
+7
+09-35
+6
+09-98
+3
+11-01
+1
+11-02
+2
+11-04
+4
+11-05
+5
+11-13
+13
+11-35
+13
+11-98
+6
+11-99
+7
+13-04
+4
+13-08
+8
+13-22
+22
+13-35
+22
+13-98
+10
+15-05
+5
+15-15
+1
+14
+15-18
+18
+15-19
+19
+15-35
+37
+15-37
+37
+15-97
+4
+8
+17-02
+1
+38
+17-03
+1
+38
+17-06
+6
+17-08
+8
+17-11
+2
+1
+8
+17-26
+26
+17-35
+55
+17-55
+55
+17-99
+2
+21
+19-11
+11
+19-18
+4
+14
+19-19
+4
+14
+19-28
+2
+26
+19-32
+32
+19-35
+66
+19-66
+66
+21-01
+79
+21-11
+11
+21-16
+16
+21-35
+79
+21-39
+2
+37
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 9
+
+DEUTSCH DBAS 9 Connectors
+Arrangements
+8 Twinax
+8 Coax
+12 Twinax
+12 Coax
+10
+12
+16
+20
+22D
+22M
+21-41
+41
+21-75
+4
+21-76
+4
+23-01
+100
+23-21
+21
+23-35
+100
+23-53
+53
+23-55
+55
+23-63
+4
+4
+49
+25-01
+128
+25-04
+8
+48
+25-07
+2
+97
+25-08
+8
+25-09
+2
+97
+25-10
+8
+25-11
+9
+2
+25-19
+19
+25-20
+3
+4
+13
+10
+25-21
+3
+4
+13
+10
+25-24
+12
+12
+25-29
+29
+25-35
+128
+25-37
+37
+25-41
+3
+2
+11
+3
+22
+25-43
+20
+23
+25-46
+2
+4
+40
+25-47
+2
+4
+40
+25-61
+61
+25-90
+2
+4
+40
+25-91
+2
+4
+40
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 10
+
+DEUTSCH DBAS 9 Connectors
+Key Orientation (Except 79)
+Receptacle Front Face View 
+Plug Front Face View 
+A
+A
+B
+B
+C
+C
+D
+D
+9
+11
+13
+15
+17/19
+21
+23/25
+Angles  
+Size
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+Standard
+23
+97
+187
+—
+23
+  97
+187
+277
+30
+105
+195
+270
+30
+105
+195
+270
+30
+105
+195
+270
+30
+105
+195
+270
+30
+105
+195
+270
+DA
+—
+—
+—
+—
+23
+105
+195
+300
+30
+  90
+225
+315
+40
+105
+195
+270
+40
+105
+195
+270
+40
+105
+195
+270
+40
+105
+195
+270
+DB
+—
+—
+—
+—
+23
+115
+210
+285
+30
+120
+210
+285
+30
+115
+195
+270
+30
+115
+195
+270
+30
+115
+195
+270
+30
+115
+195
+270
+DC
+—
+—
+—
+—
+30
+120
+195
+285
+30
+135
+180
+300
+30
+115
+210
+270
+30
+115
+210
+270
+30
+115
+210
+270
+30
+115
+210
+270
+DD
+—
+—
+—
+—
+30
+  97
+210
+270
+45
+105
+210
+315
+30
+115
+195
+280
+30
+115
+195
+280
+30
+115
+195
+280
+30
+115
+195
+280
+DE
+—
+—
+—
+—
+—
+—
+—
+—
+45
+  90
+180
+285
+—
+—
+—
+—
+—
+—
+—
+—
+30
+  90
+170
+270
+30
+  90
+170
+270
+DF
+—
+—
+—
+—
+—
+—
+—
+—
+45
+120
+270 300
+—
+—
+—
+—
+—
+—
+—
+—
+30
+115
+170
+255
+30
+115
+170
+255
+DG
+—
+—
+—
+—
+—
+—
+—
+—
+45
+135
+195
+225
+—
+—
+—
+—
+—
+—
+—
+—
+30
+115
+180
+300
+30
+115
+180
+300
+Dimensions in mm
+Feel-Control Locking Plug with Square Flange 4 Holes Mounting Receptacle
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 11
+
+DEUTSCH DBAS 9 Connectors
+Arrangement Views
+Male Insert Viewed from Front Face
+09-06
+09-07
+09-23
+09-35
+09-98
+09-06
+09-07
+09-23
+09-35
+09-98
+09-06
+09-07
+09-23
+09-35
+09-98
+09-07
+7 Size 22D Contacts
+09-35
+6 Size 22D Contacts
+09-06
+7 Size 22M Contacts
+09-06
+09-07
+09-23
+0
+10-35
+11-02
+11-04
+11-05
+11-13
+10-35
+11-02
+11-04
+11-05
+11-13
+10-35
+11-02
+11-04
+11-05
+11-13
+09-23
+09-35
+09-98
+11-01
+11-12
+10-35
+11-02
+11-04
+11-
+17-28
+11-01
+1 Size 8 Coax
+11-02
+2 Size 16 Contacts
+09-98
+3 Size 20 Contacts
+11-23
+11-35
+11-98
+11-99
+13-04
+11-23
+11-35
+11-98
+11-99
+13-04
+11-23
+11-35
+11-98
+11-99
+13-04
+09-06
+09-07
+09-23
+09-35
+09-98
+09-06
+09-07
+09-23
+09-35
+09-98
+09-06
+09-07
+09-23
+09-35
+09-98
+1-04
+11-05
+11-13
+11-23
+11-35
+11-98
+11-99
+09-06
+09-07
+09-23
+09-35
+09-98
+09-06
+09-07
+09-23
+09-35
+09-98
+09-06
+09-07
+09-23
+09-35
+09-98
+13-08
+13-08
+13-08
+10-35
+11-02
+11-04
+11-05
+11-13
+10-35
+11-02
+11-04
+11-05
+11-13
+25-36
+24-41
+10-35
+11-02
+11-04
+11-05
+11-13
+11-05
+5 Size 20 Contacts
+11-13
+13 Size 22M Contacts
+11-04
+4 Size 20 Contacts
+09-06
+09-07
+09-23
+09-35
+09-98
+13-08
+11-98
+11-99
+13-04
+10-35
+11-02
+11-04
+11-05
+11-13
+10-35
+11-02
+11-04
+11-05
+11-13
+10-35
+11-02
+11-04
+11-05
+11-13
+11-23
+11-35
+11-98
+11-99
+13-04
+11-23
+11-35
+11-98
+11-99
+13-04
+11-23
+11-35
+11-98
+11-99
+13-04
+10-35
+11-02
+11-04
+11-05
+11-13
+09-23
+09-35
+09-98
+13-08
+11-23
+11-35
+11-98
+11-99
+13-04
+11-23
+11-35
+11-98
+11-99
+13-04
+11-23
+11-35
+11-98
+11-99
+13-04
+11-98
+6 Size 20 Contacts
+11-99
+7 Size 20 Contacts
+11-35
+13 Size 22D Contacts
+13-08
+13-08
+13-08
+11-04
+11-05
+11-13
+11-23
+11-35
+11-98
+11-99
+13-04
+13-08
+13-08
+13-08
+13-08
+13-22
+13-23
+13-35
+11-98
+11-99
+13-04
+13-08
+8 Size 20 Contacts
+13-22
+22 Size 22M Contacts
+13-04
+4 Size 16 Contacts
+13-22
+13-23
+13-35
+13-08
+15-05
+15-15
+13-22
+13-23
+13-35
+14-18
+13-99
+13-22
+13-23
+13-35
+14-18
+13-99
+15-05
+15-15
+13-98
+10 Size 20 Contacts
+15-05
+5 Size 16 Contacts
+13-35
+22 Size 22D Contacts
+15-21
+15-23
+15-05
+15-15
+15-18
+15-19
+15-05
+15-15
+15-18
+15-19
+15-21
+15-23
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 12
+15-21
+15-23
+15-26
+15-35
+15-21
+15-23
+15-26
+15-35
+
+DEUTSCH DBAS 9 Connectors
+Arrangement Views
+13-22
+13-23
+13-35
+14-18
+13-99
+13-22
+13-23
+13-35
+14-18
+13-99
+13-22
+13-23
+13-35
+14-18
+13-99
+Male Insert Viewed from Front Face
+3-35
+14-18
+13-99
+15-05
+15-15
+15-18
+15-19
+15-05
+15-15
+15-18
+15-19
+15-05
+15-15
+15-18
+15-19
+15-18
+18 Size 20 Contacts
+15-19
+19 Size 20 Contacts
+15-18
+15-19
+15-15
+14 Size 20 Contacts
+1 Size 16 Contact
+15-21
+15-23
+15-26
+15-35
+15-21
+15-23
+15-26
+15-35
+15-21
+15-23
+15-26
+15-35
+15-26
+15-35
+15-37
+15-97
+17-02
+15-37
+15-97
+17-02
+17-03
+15-37
+37 Size 22M Contacts
+15-35
+37 Size 22D Contacts
+15-97
+4 Size 16 Contacts
+8 Size 20 Contacts
+15-37
+15-97
+17-06
+17-08
+17-11
+17-19
+17-06
+17-08
+17-11
+17-06
+17-08
+-37
+15-97
+17-02
+17-03
+15-97
+17-02
+17-03
+17-06
+6 Size 12 Contacts
+17-03
+1 Size 8 Twinax
+38 Size 22D Contacts
+17-02
+1 Size 8 Twinax Contact 
+38 Size 22D Contacts
+15-37
+15-97
+17-02
+17-03
+15-37
+15-97
+17-02
+17-03
+17-20
+17-22
+17-23
+17-20
+17-22
+17-23
+17-24
+-06
+17-08
+17-11
+17-19
+17-08
+17-11
+17-19
+17-20
+17-22
+17-06
+17-08
+17-11
+17-19
+17-06
+17-08
+17-11
+17-19
+17-26
+17-35
+17-26
+26 Size 20 Contacts
+17-08
+8 Size 16 Contacts
+17-11
+2 Size 12 Twinax
+1 Size 12 Coax
+8 Size 20 Contacts
+20
+17-22
+17-23
+17-24
+17-22
+17-23
+17-24
+19-11
+19-18
+17-20
+17-22
+17-23
+17-24
+17-20
+17-22
+17-23
+17-24
+17-26
+17-35
+17-55
+17-99
+17-26
+17-35
+17-55
+17-99
+17-26
+17-35
+17-55
+17-99
+17-55
+55 Size 22M Contacts
+17-35
+55 Size 22D Contacts
+17-99
+2 Size 16 Contacts
+21 Size 20 Contacts
+17-26
+17-35
+17-55
+17-99
+17-26
+17-35
+17-55
+17-99
+17-26
+17-35
+17-55
+17-99
+19-28
+19-32
+19-11
+19-18
+19-19
+19-11
+19-18
+19-19
+19-11
+19-18
+19-19
+19-11
+19-18
+19-19
+19-11
+19-18
+19-19
+19-11
+19-18
+19-19
+19-11
+11 Size 16 Contacts
+19-18
+4 Size 8 Twinax
+14 Size 20 Contacts
+19-19
+4 Size 8 Twinax
+14 Size 20 Contacts
+19-28
+19-32
+19-35
+19-28
+19-32
+19-35
+19-28
+19-32
+19-35
+19-28
+19-32
+19-35
+19-28
+19-32
+19-35
+19-28
+19-32
+19-35
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 13
+
+17-26
+17-35
+17-55
+17-99
+17-26
+17-35
+17-55
+17-99
+17-26
+17-35
+17-55
+17-99
+DEUTSCH DBAS 9 Connectors
+Arrangement Views
+Male Insert Viewed from Front Face
+19-11
+19-18
+19-19
+19-11
+19-18
+19-19
+19-11
+19-18
+19-19
+19-28
+19-32
+19-35
+19-28
+19-32
+19-35
+19-28
+19-32
+19-35
+19-32
+32 Size 20 Contacts
+19-35
+66 Size 22D Contacts
+19-28
+2 Size 16 Contacts
+26 Size 20 Contacts
+19-66
+21-01
+21-11
+19-66
+21-01
+21-11
+19-66
+21-01
+21-11
+19-66
+21-01
+21-11
+19-66
+21-01
+21-11
+21-01
+79 Size 22M Contacts
+21-11
+11 Size 12 Contacts
+19-66
+66 Size 22M Contacts
+21-16
+21-20
+21-23
+21-16
+21-20
+21-23
+19-66
+21-01
+21-11
+01
+21-11
+21-16
+21-20
+21-23
+21-16
+21-20
+21-23
+21-16
+21-20
+21-23
+21-41
+21-41
+21-35
+21-39
+21-16
+21-20
+21-23
+21-35
+21-39
+21-35
+79 Size 22D Contacts
+21-16
+16 Size 16 Contacts
+21-39
+2 Size 16 Contacts
+37 Size 20 Contacts
+-20
+21-23
+21-48
+21-75
+21-76
+21-41
+21-41
+21-35
+21-39
+21-35
+21-39
+21-41
+21-41
+21-35
+21-39
+21-35
+21-39
+21-41 21-48
+21-75
+21-76
+21-48
+21-75
+21-76
+1-39
+21-75
+4 Size 8 Twinax
+21-76
+4 Size 8 Twinax
+21-41
+41 Size 20 Contacts
+21-48
+21-75
+21-76
+23-01
+23-06
+23-21
+21-48
+21-75
+21-76
+23-01
+23-06
+23-21
+23-01
+23-06
+23-21
+23-01
+23-06
+23-21
+23-23
+23-35
+23-01
+23-06
+23-21
+23-21
+21 Size 16 Contacts
+23-35
+100 Size 22D Contacts
+23-01
+100 Size 22M Contacts
+23-23
+23-35
+23-23
+23-35
+23-23
+23-35
+23-23
+23-35
+23-53
+23-54
+23-55
+23-53
+23-54
+23-55
+23-53
+53 Size 20 Contacts
+23-55
+55 Size 20 Contacts
+23-63
+4 Size 12 Contacts 
+4 Size 16 Contacts 
+49 Size 22D Contacts
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 14
+23-63
+25-01
+25-04
+23-63
+25-01
+25-04
+
+23-53
+23-54
+DEUTSCH DBAS 9 Connectors
+Arrangement Views
+Male Insert Viewed from Front Face
+23-63
+25-01
+23-53
+23-54
+23-55
+23-53
+23-54
+23-55
+25-07
+23-63
+25-01
+25-04
+23-63
+25-01
+25-04
+25-01
+128 Size 22D Contacts
+25-07
+2 Size 8 Twinax
+97 Size 22D Contacts
+25-04
+8 Size 16 Contacts
+48 Size 20 Contacts
+25-07
+25-07
+25-08
+25-09
+25-10
+25-08
+25-09
+25-10
+25-08
+25-09
+25-10
+8 Size 8 Twinax
+25-08
+8 Size 8 Twinax
+25-09
+2 Size 8 Twinax
+97 Size 22D Contacts
+25-08
+25-09
+25-10
+25-08
+25-09
+25-10
+25-11
+25-17
+25-19
+25-11
+25-17
+25-19
+25-11
+25-17
+25-11
+25-17
+25-19
+25-11
+25-17
+25-19
+25-20
+25-21
+25-19
+19 Size 12 Contacts
+25-11
+9 Size 10 Contacts
+2 Size 20 Contacts
+25-20
+3 Size 8 Twinax
+4 Size 12 Coax
+13 Size 16 Contacts
+10 Size 20 Contacts
+25-20
+25-21
+25-23
+25-20
+25-21
+25-23
+25-24
+25-29
+25-24
+25-29
+25-35
+25-20
+25-21
+25-23
+25-24
+25-29
+25-35
+25-29
+29 Size 16 Contacts
+25-24
+12 Size 12 Contacts
+12 Size 16 Contacts
+25-21
+3 Size 8 Twinax
+4 Size 12 Coax
+13 Size 16 Contacts
+10 Size 20 Contacts
+25-24
+25-29
+25-35
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 15
+
+DEUTSCH DBAS 9 Connectors
+Arrangement Views
+25-21
+25-23
+Male Insert Viewed from Front Face
+25-37
+25-43
+25-46
+25-29
+25-35
+25-35
+128 Size 22D Contacts
+25-37
+37 Size 16 Contacts
+25-41
+22 Size 22D Contacts 
+3 Size 20 Contacts 
+11 Size 16 Contacts 
+2 Size 12 Contacts 
+3 Size 8 Twinax
+25-47
+25-61
+25-90
+25-37
+25-43
+25-91
+25-47
+25-61
+25-37
+25-43
+25-46
+25-37
+25-43
+25-46
+25-43
+20 Size 16 Contacts
+23 Size 20 Contacts
+25-47
+2 Size 8 Coax
+4 Size 16 Contacts
+40 Size 20 Contacts
+25-46
+2 Size 8 Coax
+4 Size 16 Contacts
+40 Size 20 Contacts
+25-37
+25-43
+25-91
+25-47
+25-61
+25-90
+25-47
+25-61
+25-90
+25-37
+25-43
+25-46
+25-37
+25-43
+25-46
+25-47
+25-61
+25-91
+25-91
+25-47
+25-61
+25-90
+25-91
+25-47
+25-61
+25-90
+25-61
+61 Size 20 Contacts
+25-91
+2 Size 8 Twinax
+4 Size 16 Contacts
+40 Size 20 Contacts
+25-90
+2 Size 8 Twinax
+4 Size 16 Contacts
+40 Size 20 Contacts
+25-91
+25-91
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 16
+
+DEUTSCH DBAS 9 Connectors
+Special Modifications
+Lengths of Lanyard
+Mod Code 
+Description 
+MOD
+Length
+A083
+Potting Cup
+Standard 
+119.7 ± 2.1
+1A
+Without Nut 
+A614 
+134.3 ± 2.1
+059
+Straight Cable Clamp 
+B614 
+164.3 ± 2.1
+081
+Elbowed Cable Clamp 
+C614 
+194.3 ± 2.1
+090
+Without Contact 
+D614 
+204.7 ± 2.1
+395
+Kerosene-Resistant Insert 
+E614 
+217 ± 2.1
+A838
+Olive Drab Cadmium 
+F614 
+230 ± 2.1
+*****
+For Other Modifications, Consult TE   
+G614 
+144.4 ± 2.1
+H614 
+94.4 ± 2.1
+K614 
+124.8 ± 2.1
+L614 
+244.4 ± 2.1
+M614 
+494.4 ± 2.1
+N614 
+98.7 ± 2.1
+P614 
+294.4 ± 2.1
+Q614 
+190.4 ± 2.1
+R614 
+108.5 ± 2.1
+S614 
+153.6 ± 2.1
+T614 
+75.4 ± 2.1
+U614 
+118.82 ± 2.1
+V614 
+87.1 ± 2.1
+W614 
+384.9 ± 2.1
+X614 
+171 ± 2.1
+Y614 
+238 ± 2.1
+For other lengths of lanyard, consult TE. 
+Dimensions in mm
+Plug with Heavy Duty Lanyard with Jam-Nut Mounted Receptacle
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 17
+
+DEUTSCH DBAS 9 Connectors
+DEUTSCH DBAS 9 Connectors
+DBAS 970–Square Flange Receptacle / With Straight Cable Clamp
+37.1 Max.
+B
+41.5 Max.
+22.9 ± 0.2
+22.9 ± 0.2
+C
+1.75 Max.
+1.75 Max.
+B
+C
+ØF
+ØF
+ØG
+42.1 Max.
+37.7 Max.
+4 Holes
+Ø3.15 ± 0.15
+DBAS 970 Without Nut (Mod 1A)
+DBAS 970
+DBAS 970 With Nut
+B
+L Max.
+C
+22.9 ± 0.2
+Screw Tightening Torque
+0.9 N.m + 0.1
+ 
+- 0
+1.75 Max.
+B
+C
+ØF
+ØG
+J1 Max. 
+Ø Tightened   
+Clamps
+L1 Max.
+4 Holes
+Ø3.15 ± 0.15
+ 
+J Max. 
+Ø Allowed Cable
+DBAS 970 With Straight Cable Clamp (059)
+DBAS 970 With Straight Cable Clamp
+With Straight  
+Cable Clamp
+Part Number 
+Part Number  
+without Nut 
+Part Number with  
+Straight Cable Clamp 
+B 
+Max 
+C 
+±0.1 
+F 
+Max 
+G 
+Max 
+J 
+Max 
+J1  
+Max 
+L  
+Max
+L1  
+Max
+DBAS 970-09-** P/S* 
+DBAS 970-09-** P/S * 1A 
+DBAS 970-09-** P/S * 059 
+22.6 
+15.9 
+14.5 
+17 
+6.6 
+5.15 
+50.5
+51
+DBAS 970-11-** P/S*  
+DBAS 970-11-** P/S * 1A 
+DBAS 970-11-** P/S * 059 
+25.8 
+18.28 
+17.35 
+21.8 
+12.75 
+10.55 
+50.5
+51
+DBAS 970-13-** P/S*  
+DBAS 970-13-** P/S * 1A 
+DBAS 970-13-** P/S * 059 
+28.2 
+20.62 
+20.8 
+25 
+14.6 
+12.05 
+56.5
+57.1
+DBAS 970-15-** P/S*  
+DBAS 970-15-** P/S * 1A 
+DBAS 970-15-** P/S * 059 
+30.6 
+23 
+24 
+28.25 
+17.8 
+15.85 
+56.5
+57.1
+DBAS 970-17-** P/S*  
+DBAS 970-17-** P/S * 1A 
+DBAS 970-17-** P/S * 059 
+33 
+24.6 
+28.65 
+30.95 
+19.8 
+17.95 
+56.5
+57.1
+DBAS 970-19-** P/S*  
+DBAS 970-19-** P/S * 1A 
+DBAS 970-19-** P/S * 059 
+33 
+24.6 
+28.65 
+30.95 
+19.8 
+17.95 
+56.5
+57.1
+DBAS 970-21-** P/S*  
+DBAS 970-21-** P/S * 1A 
+DBAS 970-21-** P/S * 059 
+36.9 
+30.12 
+31.95 
+34.15 
+23 
+21.05 
+56.5
+57.1
+DBAS 970-23-** P/S*  
+DBAS 970-23-** P/S * 1A 
+DBAS 970-23-** P/S * 059 
+45.7 
+36.48 
+39.9 
+42 
+30.1 
+27.45 
+56.5
+57.1
+DBAS 970-25-** P/S*       
+DBAS 970-25-** P/S * 1A 
+DBAS 970-25-** P/S * 059 
+45.7 
+36.48 
+39.9 
+42 
+30.1 
+27.45 
+56.5
+57.1
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30. 
+Female inserts protrude from the FRONT face of all receptacles types 70, 71 and 74. Panel sealing gasket to be ordered separately, see page 32.  
+Panel cutout, see page 35.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 18
+
+DEUTSCH DBAS 9 Connectors
+DBAS 970–With Elbowed Cable Clamp
+L Max.
+22.9 ± 0.2
+B
+C
+1.75 Max.
+B
+C
+ØF
+ØG
+T
+4 Holes
+Ø3.15 ± 0.15
+R
+Ø Tightened Clamps
+Ø Allowed Cable
+J1 Max.
+J Max.
+L1 Max.
+Screw Tightening  
+Torque
+0.9 N.m + 0.1
+ 
+- 0
+DBAS 970 With Elbowed Cable Clamp
+DBAS 970 With Elbowed Cable Clamp
+Part Number with  
+Elbowed Cable Clamp 
+B Max 
+C ±0.1 
+F Max 
+G Max 
+J Max 
+J1 Max 
+L Max 
+L1 Max 
+R Max 
+T Max
+DBAS 970-09-** P/S * 081 
+22.6 
+15.9 
+14.5 
+17 
+6.6 
+5.15 
+54.5
+55.1 
+17.4 
+21.4
+DBAS 970-11-** P/S * 081 
+25.8 
+18.28 
+17.35 
+21.8 
+12.75 
+10.55 
+59.6
+60.2 
+23.6 
+23.8
+DBAS 970-13-** P/S * 081 
+28.2 
+20.62 
+20.8 
+25 
+14.6 
+12.05 
+61.9 
+62.5
+25.5 
+25.3
+DBAS 970-15-** P/S * 081 
+30.6 
+23 
+24 
+28.25 
+17.8 
+15.85 
+65.3 
+65.9 
+29.7 
+26.8
+DBAS 970-17-** P/S * 081 
+33 
+24.6 
+28.65 
+30.95 
+19.8 
+17.95 
+68.6
+69.2 
+32.6 
+28.3
+DBAS 970-19-** P/S * 081 
+33 
+24.6 
+28.65 
+30.95 
+19.8 
+17.95 
+68.6
+69.2 
+32.6 
+28.3
+DBAS 970-21-** P/S * 081 
+36.9 
+30.12 
+31.95 
+34.15 
+23 
+21.05 
+72
+72.6 
+36 
+29.9
+DBAS 970-23-** P/S * 081 
+45.7 
+36.48 
+39.9 
+42 
+30.1 
+27.45 
+78.6
+79.2 
+42.8 
+33.5
+DBAS 970-25-** P/S * 081 
+45.7 
+36.48 
+39.9 
+42 
+30.1 
+27.45 
+78.6
+79.2 
+42.8 
+33.5
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30
+DBAS 970–With Potting Cup
+L Max.
+Part Number with Potting Cup B Max C ±0.1 F Max G Max J Mini 
+L Max
+L1 Max
+22.9 ± 0.2
+DBAS 970-09-** P/S * A083 
+22.6 
+15.9 
+14.5 
+17 
+4.6
+50
+50.6
+1.75 Max.
+DBAS 970-11-** P/S * A083 
+25.8 
+18.28 
+17.35 
+21.8 
+10
+50
+50.6
+DBAS 970-13-** P/S * A083 
+28.2 
+20.62 
+20.8 
+25 
+11.5
+55.5
+56.1
+DBAS 970-15-** P/S * A083 
+30.6 
+23 
+24 
+28.25 
+15.3
+55.5
+56.1
+DBAS 970-17-** P/S * A083 
+33 
+24.6 
+28.65 
+30.95 
+17.3
+55.5
+56.1
+ØF
+ØG
+J Min.
+DBAS 970-19-** P/S * A083 
+33 
+24.6 
+28.65 
+30.95 
+17.3
+55.5
+56.1
+DBAS 970-21-** P/S * A083 
+36.9 
+30.12 
+31.95 
+34.15 
+20.5
+55.5
+56.1
+DBAS 970-23-** P/S * A083 
+45.7 
+36.48 
+39.9 
+42 
+26.8
+55.5
+56.1
+DBAS 970-25-** P/S * A083 
+45.7 
+36.48 
+39.9 
+42 
+26.8
+55.5
+56.1
+L1 Max.
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30. 
+DBAS 970 With Potting Cup
+Female inserts protrude from the FRONT face of all receptacles types 70, 71 and 74. Panel sealing gasket to be ordered separately, see page 32.  
+Panel cutout, see page 35.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 19
+
+DEUTSCH DBAS 9 Connectors
+DEUTSCH DBAS 9 Connectors
+DBAS 971–Cable Connecting Receptacle / With Straight Cable Clamp
+37.1 Max.
+41.5 Max.
+B
+22.9 ± 0.2
+22.9 ± 0.2
+1.75 Max.
+1.75 Max.
+ØF
+ØF
+ØG
+ØA
+42.1 Max.
+37.7 Max.
+DBAS 971 With Nut
+DBAS 971 Without Nut (Mod 1A)
+DBAS 971
+L Max.
+B
+22.9 ± 0.2
+1.75 Max.
+Screw Tightening Torque
+0.9 N.m + 0.1
+ 
+- 0
+ØF
+ØG
+J1 Max. 
+Ø Tightened 
+Clamps
+ØA
+L1 Max.
+J Max. 
+Ø Allowed Cable
+DBAS 971 With Straight Cable Clamp (059)
+DBAS 971 With Straight Cable Clamp
+With Straight  
+Cable Clamp
+Part Number 
+Part Number  
+without Nut 
+Part Number with  
+Straight Cable Clamp 
+A 
+Max 
+B 
+Max
+F 
+Max 
+G 
+Max 
+J 
+Max      
+J1  
+Max
+L 
+Max
+L1 
+Max
+DBAS 971-09-** P/S* 
+DBAS 971-09-** P/S * 1A 
+DBAS 971-09-** P/S * 059 
+25.45 
+22.6 
+14.5 
+17 
+6.6 
+5.15 
+50.5
+51
+DBAS 971-11-** P/S* 
+DBAS 971-11-** P/S * 1A 
+DBAS 971-11-** P/S * 059 
+28.65 
+25.8 
+17.35 
+21.8 
+12.75 
+10.55 
+50.5
+51
+DBAS 971-13-** P/S* 
+DBAS 971-13-** P/S * 1A 
+DBAS 971-13-** P/S * 059 
+31.05 
+28.2 
+20.8 
+25 
+14.6 
+12.05 
+56.5
+57.1
+DBAS 971-15-** P/S* 
+DBAS 971-15-** P/S * 1A 
+DBAS 971-15-** P/S * 059 
+33.45 
+30.6 
+24 
+28.25 
+17.8 
+15.85 
+56.5
+57.1
+DBAS 971-17-** P/S* 
+DBAS 971-17-** P/S * 1A 
+DBAS 971-17-** P/S * 059 
+35.85 
+33 
+28.65 
+30.95 
+19.8 
+17.95 
+56.5
+57.1
+DBAS 971-19-** P/S* 
+DBAS 971-19-** P/S * 1A 
+DBAS 971-19-** P/S * 059 
+35.85 
+33 
+28.65 
+30.95 
+19.8 
+17.95 
+56.5
+57.1
+DBAS 971-21-** P/S* 
+DBAS 971-21-** P/ * 1A 
+DBAS 971-21-** P/S * 059 
+39.75 
+36.9 
+31.95 
+34.15 
+23 
+21.05 
+56.5
+57.1
+DBAS 971-23-** P/S* 
+DBAS 971-23-** P/S * 1A 
+DBAS 971-23-** P/S * 059 
+48.55 
+45.7 
+39.9 
+42 
+30.1 
+27.45 
+56.5
+57.1
+DBAS 971-25-** P/S* 
+DBAS 971-25-** P/S * 1A 
+DBAS 971-25-** P/S * 059 
+48.55 
+45.7 
+39.9 
+42 
+30.1 
+27.45 
+56.5
+57.1
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30. 
+Female inserts protrude from the FRONT face of all receptacles types 70, 71 and 74. Panel sealing gasket to be ordered separately, see page 32.  
+Panel cutout, see page 35.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 20
+
+DEUTSCH DBAS 9 Connectors
+DBAS 971–With Elbowed Cable Clamp
+L Max.
+B
+22.9 ± 0.2
+1.75 Max.
+ØF
+ØG
+T
+ØA
+J1 Max.
+J Max.
+Ø Tightened Clamps
+Ø Allowed Cable
+R
+L1 Max.
+Screw Tightening  
+Torque
+0.9 N.m + 0.1
+ 
+- 0
+DBAS 971 With Elbowed Cable Clamp
+DBAS 971 With Elbowed Cable Clamp
+Part Number with  
+Elbowed Cable Clamp 
+A Max 
+B Max
+F Max 
+G Max 
+J Max 
+J1 Max 
+L Max 
+L1 Max 
+R Max 
+T Max
+DBAS 971-09-** P/S * 081 
+25.45 
+22.6 
+14.5 
+17 
+6.6 
+5.15 
+54.5
+55.1 
+17.4 
+21.4
+DBAS 971-11-** P/S * 081 
+28.65 
+25.8 
+17.35 
+21.8 
+12.75 
+10.55 
+59.6
+60.2 
+23.6 
+23.8
+DBAS 971-13-** P/S * 081 
+31.05 
+28.2 
+20.8 
+25 
+14.6 
+12.05 
+61.9 
+62.5
+25.5 
+25.3
+DBAS 971-15-** P/S * 081 
+33.45 
+30.6 
+24 
+28.25 
+17.8 
+15.85 
+65.3 
+65.9 
+29.7 
+26.8
+DBAS 971-17-** P/S * 081 
+35.85 
+33 
+28.65 
+30.95 
+19.8 
+17.95 
+68.6
+69.2 
+32.6 
+28.3
+DBAS 971-19-** P/S * 081 
+35.85 
+33 
+28.65 
+30.95 
+19.8 
+17.95 
+68.6
+69.2 
+32.6 
+28.3
+DBAS 971-21-** P/S * 081 
+39.75 
+36.9 
+31.95 
+34.15 
+23 
+21.05 
+72
+72.6 
+36 
+29.9
+DBAS 971-23-** P/S * 081 
+48.55 
+45.7 
+39.9 
+42 
+30.1 
+27.45 
+78.6
+79.2 
+42.8 
+33.5
+DBAS 971-25-** P/S * 081 
+48.55 
+45.7 
+39.9 
+42 
+30.1 
+27.45 
+78.6
+79.2 
+42.8 
+33.5
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30
+DBAS 971–With Potting Cup
+L Max.
+Part Number with Potting Cup A Max B Max F Max G Max J mini L Max
+L1 Max
+22.9 ± 0.2
+DBAS 971-09-** P/S * A083 
+25.45 
+22.6 
+14.5 
+17 
+4.6
+50
+50.6
+1.75 Max.
+DBAS 971-11-** P/S * A083 
+28.65 
+25.8 
+17.35 
+21.8 
+10
+50
+50.6
+DBAS 971-13-** P/S * A083 
+31.05 
+28.2 
+20.8 
+25 
+11.5
+55.5
+56.1
+DBAS 971-15-** P/S * A083 
+33.45 
+30.6 
+24 
+28.25 
+15.3
+55.5
+56.1
+DBAS 971-17-** P/S * A083 
+35.85 
+33 
+28.65 
+30.95 
+17.3
+55.5
+56.1
+ØF
+ØG
+J Min.
+DBAS 971-19-** P/S * A083 
+35.85 
+33 
+28.65 
+30.95 
+17.3
+55.5
+56.1
+DBAS 971-21-** P/S * A083 
+39.75 
+36.9 
+31.95 
+34.15 
+20.5
+55.5
+56.1
+DBAS 971-23-** P/S * A083 
+48.55 
+45.7 
+39.9 
+42 
+26.8
+55.5
+56.1
+DBAS 971-25-** P/S * A083 
+48.55 
+45.7 
+39.9 
+42 
+26.8
+55.5
+56.1
+L1 Max.
+Dimensions in mm 
+For accessories tightening torque strength, please refer to page 30.
+DBAS 971 With Potting Cup
+Female inserts protrude from the FRONT face of all receptacles types 70, 71 and 74.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 21
+
+DEUTSCH DBAS 9 Connectors
+DBAS 974–Jam-Nut Mounted Flange Receptacle / With Straight Cable Clamp
+37.1 Max.
+41.5 Max.
+ØA
+27.5 ± 0.15
+27.5 ± 0.15
+M
+2.85 Max.
+2.85 Max.
+B
+ØG
+42.1 Max.
+37.7 Max.
+DBAS 974
+DBAS 974 With Nut
+DBAS 974 Without Nut (Mod 1A)
+L Max.
+ØA
+27.5 ± 0.15
+M
+2.85 Max.
+Screw Tightening Torque
+0.9 N.m + 0.1
+ 
+- 0
+B
+ØG
+J1 Max. 
+Ø Tightened 
+Clamps
+J Max. 
+Ø Allowed Cable
+L1 Max.
+DBAS 974 With Straight Cable Clamp
+DBAS 974 With Straight Cable Clamp (059)
+With Straight 
+Cable Clamp
+Part Number 
+Part Number  
+without Nut 
+Part Number with  
+Straight Cable Clamp 
+A 
+Max 
+B 
+Max
+G 
+Max 
+M 
+Max 
+J 
+Max* 
+Max,  
+Nut Panel 
+Tightening 
+Torque
+J1 
+Max 
+L 
+Max
+L1 
+Max
+DBAS 974-09-** P/S* DBAS 974-09-** P/S * 1A 
+DBAS 974-09-** P/S * 059 
+19.2 
+19.2 
+17 
+16.31 
+6.6 
+5.15 
+50.5
+51
+DBAS 974-11-** P/S*  
+DBAS 974-11-** P/S * 1A 
+DBAS 974-11-** P/S * 059 
+22.4 
+22.4 
+21.8 
+21.07 
+12.75 
+10.55 
+50.5
+51
+DBAS 974-13-** P/S*  
+DBAS 974-13-** P/S * 1A 
+DBAS 974-13-** P/S * 059 
+27.2 
+27.2 
+25 
+24.24 
+14.6 
+12.05 
+56.5
+57.1
+DBAS 974-15-** P/S*  
+DBAS 974-15-** P/S * 1A 
+DBAS 974-15-** P/S * 059 
+30.4 
+29.6 
+28.25 
+27.4 
+17.8 
+15.85 
+56.5
+57.1
+DBAS 974-17-** P/S*  
+DBAS 974-17-** P/S * 1A 
+DBAS 974-17-** P/S * 059 
+33.6 
+33.5 
+30.95 
+32.18 
+19.8 
+17.95 
+56.5
+57.1
+See  
+FIT 107-B
+BS 574
+DBAS 974-19-** P/S*  DBAS 974-19-** P/S * 1A 
+DBAS 974-19-** P/S * 059 
+33.6 
+33.5 
+30.95 
+32.18 
+19.8 
+17.95 
+56.5
+57.1
+DBAS 974-21-** P/S*  
+DBAS 974-21-** P/S * 1A 
+DBAS 974-21-** P/S * 059 
+38.3 
+36.3 
+34.15 
+35.36 
+23 
+21.05 
+56.5
+57.1
+DBAS 974-23-** P/S*  DBAS 974-23-** P/S * 1A 
+DBAS 974-23-** P/S * 059 
+47.8 
+47.2 
+42 
+43.02 
+30.1 
+27.45 56.5
+57.1
+DBAS 974-25-** P/S*  DBAS 974-25-** P/S * 1A 
+DBAS 974-25-** P/S * 059 
+47.8 
+47.2 
+42 
+43.02 
+30.1 
+27.45 56.5
+57.1
+Dimensions in mm 
+For accessories tightening torque strength, please refer to page 30.
+Female inserts protrude from the FRONT face of all receptacles types 70, 71 and 74. Panel sealing gasket to be ordered separately, see page 32.  
+Panel cutout, see page 35.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 22
+
+DEUTSCH DBAS 9 Connectors
+DBAS 974–With Elbowed Cable Clamp
+L Max.
+27.5 ± 0.15
+ØA
+M
+2.85 Max.
+B
+ØG
+T
+R
+J1 Max.
+J Max.
+Ø Tightened Clamps
+Ø Allowed Cable
+Screw Tightening  
+Torque
+0.9 N.m + 0.1
+ 
+- 0
+L1 Max.
+DBAS 974 With Elbowed Cable Clamp
+DBAS 974 With Elbowed Cable Clamp
+Part Number with  
+Elbowed Cable Clamp 
+A Max 
+B Max
+G Max 
+M Max 
+Max, Nut Panel  
+Tightening Torque
+J Max 
+J1 Max 
+L Max 
+L1 Max R Max
+T Max
+DBAS 974-09-** P/S * 081 
+19.2 
+19.2 
+17 
+16.31 
+6.6 
+5.15 
+54.5
+55.1 
+17.4 
+21.4
+DBAS 974-11-** P/S * 081 
+22.4 
+22.4 
+21.8 
+21.07 
+12.75 
+10.55 
+59.6
+60.2 
+23.6 
+23.8
+DBAS 974-13-** P/S * 081 
+27.2 
+27.2 
+25 
+24.24 
+14.6 
+12.05 
+61.9 
+62.5 
+25.5 
+25.3
+DBAS 974-15-** P/S * 081 
+30.4 
+29.6 
+28.25 
+27.4 
+17.8 
+15.85 
+65.3 
+65.9 
+29.7 
+26.8
+DBAS 974-17-** P/S * 081 
+33.6 
+33.5 
+30.95 
+32.18 
+19.8 
+17.95 
+68.6
+69.2 
+32.6 
+28.3
+See FIT 107-B
+BS 574
+DBAS 974-19-** P/S * 081 
+33.6 
+33.5 
+30.95 
+32.18 
+19.8 
+17.95 
+68.6
+69.2 
+32.6 
+28.3
+DBAS 974-21-** P/S * 081 
+38.3 
+36.3 
+34.15 
+35.36 
+23 
+21.05 
+72
+72.6 
+36 
+29.9
+DBAS 974-23-** P/S * 081 
+47.8 
+47.2 
+42 
+43.02 
+30.1 
+27.45 
+78.6
+79.2 
+42.8 
+33.5
+DBAS 974-25-** P/S * 081 
+47.8 
+47.2 
+42 
+43.02 
+30.1 
+27.45 
+78.6
+79.2 
+42.8 
+33.5
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30
+DBAS 974–With Potting Cup
+L Max.
+Part Number with  
+Potting Cup 
+A 
+Max 
+B 
+Max 
+G 
+Max 
+M 
+Max 
+Max, Nut Panel  
+Tightening Torque
+J 
+mini 
+L 
+Max
+L1 
+Max
+27.5 ± 0.15
+DBAS 974-09-** P/S * A083 
+19.2 
+19.2 
+17 
+16.31 
+4.6
+50.6
+51.2
+2.85 Max.
+DBAS 974-11-** P/S * A083 
+22.4 22.4 
+21.8 
+21.07 
+10
+50.6
+51.2
+DBAS 974-13-** P/S * A083 
+27.2 
+27.2 
+25 
+24.24 
+11.5
+56.1
+56.7
+DBAS 974-15-** P/S * A083 
+30.4 29.6 28.25 
+27.4 
+15.3
+56.1
+56.7
+DBAS 974-17-** P/S * A083 
+33.6 33.5 30.95 32.18 
+17.3
+56.1
+56.7
+See FIT 107-B
+BS 574
+ØG
+J Min.
+DBAS 974-19-** P/S * A083 
+33.6 33.5 30.95 32.18 
+17.3
+56.1
+56.7
+DBAS 974-21-** P/S * A083 
+38.3 36.3 34.15 35.36 
+20.5
+56.1
+56.7
+DBAS 974-23-** P/S * A083 
+47.8 47.2 
+42 
+43.02 
+26.8
+56.1
+56.7
+DBAS 974-25-** P/S * A083 
+47.8 47.2 
+42 
+43.02 
+26.8
+56.1
+56.7
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30. 
+L1 Max.
+DBAS 974 With Potting Cup
+Female inserts protrude from the FRONT face of all receptacles types 70, 71 and 74. Panel sealing gasket to be ordered separately, see page 32.  
+Panel cutout, see page 35.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 23
+
+DEUTSCH DBAS 9 Connectors
+DBAS 976–Feel-Control Locking Plug / With Straight Cable Clamp
+39 Max.
+34.8 Max.
+ØF
+ØG
+ØF
+DBAS 976 With Nut
+DBAS 976
+DBAS 976 Without Nut (Mod 1A)
+L Max.
+Screw Tightening Torque
+0.9 N.m + 0.1
+ 
+- 0
+ØF
+ØG
+J1 Max. 
+Ø Tightened Clamps
+J Max. 
+Ø Allowed Cable
+DBAS 976 With Straight Cable Clamp (059)
+DBAS 976 With Straight Cable Clamp
+with Straight  
+Cable Clamp
+Part Number 
+Part Number  
+without Nut 
+Part Number with  
+Straight Cable Clamp 
+F Max 
+G Max
+J Max 
+J1 Max 
+L Max 
+DBAS 976-09-** P/S* 
+DBAS 976-09-** P/S * 1A 
+DBAS 976-09-** P/S * 059 
+20.4 
+17 
+6.6 
+5.15 
+48
+DBAS 976-11-** P/S* 
+DBAS 976-11-** P/S * 1A 
+DBAS 976-11-** P/S * 059 
+23.7 
+21.8 
+12.75 
+10.55 
+48
+DBAS 976-13-** P/S* 
+DBAS 976-13-** P/S * 1A 
+DBAS 976-13-** P/S * 059 
+26.9 
+25 
+14.6 
+12.05 
+54
+DBAS 976-15-** P/S* 
+DBAS 976-15-** P/S * 1A 
+DBAS 976-15-** P/S * 059 
+31.5 
+28.25 
+17.8 
+15.85 
+54
+DBAS 976-17-** P/S* 
+DBAS 976-17-** P/S * 1A 
+DBAS 976-17-** P/S * 059 
+36.1 
+30.95 
+19.8 
+17.95 
+54
+DBAS 976-19-** P/S* 
+DBAS 976-19-** P/S * 1A 
+DBAS 976-19-** P/S * 059 
+36.1 
+30.95 
+19.8 
+17.95 
+54
+DBAS 976-21-** P/S* 
+DBAS 976-21-** P/S * 1A 
+DBAS 976-21-** P/S * 059 
+39.3 
+34.15 
+23 
+21.05 
+54
+DBAS 976-23-** P/S* 
+DBAS 976-23-** P/S * 1A 
+DBAS 976-23-** P/S * 059 
+47.3 
+42 
+30.1 
+27.45 
+54
+DBAS 976-25-** P/S* 
+DBAS 976-25-** P/S * 1A 
+DBAS 976-25-** P/S * 059 
+47.3 
+42 
+30.1 
+27.45 
+54
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 24
+
+DEUTSCH DBAS 9 Connectors
+DBAS 976–With Elbowed Cable Clamp
+L Max.
+ØF
+ØG
+R
+J1 Max.
+J Max.
+Ø Tightened Clamps
+Ø Allowed Cable
+Screw Tightening  
+Torque
+0.9 N.m + 0.1
+ 
+- 0
+DBAS 976 With Elbowed Cable Clamp
+DBAS 976 With Elbowed Cable Clamp
+Part Number with  
+Elbowed Cable Clamp 
+F Max 
+G Max
+J Max 
+J1 Max 
+L Max 
+R Max 
+T Max 
+DBAS 976-09-** P/S * 081 
+20.4 
+17 
+6.6 
+5.15 
+52 
+17.4 
+21.4
+DBAS 976-11-** P/S * 081 
+23.7 
+21.8 
+12.75 
+10.55 
+57.1 
+23.6 
+23.8
+DBAS 976-13-** P/S * 081 
+26.9 
+25 
+14.6 
+12.05 
+59.4 
+25.5 
+25.3
+DBAS 976-15-** P/S * 081 
+31.5 
+28.25 
+17.8 
+15.85 
+62.8 
+29.7 
+26.8
+DBAS 976-17-** P/S * 081 
+36.1 
+30.95 
+19.8 
+17.95 
+66.1 
+32.6 
+28.3
+DBAS 976-19-** P/S * 081 
+36.1 
+30.95 
+19.8 
+17.95 
+66.1 
+32.6 
+28.3
+DBAS 976-21-** P/S * 081 
+39.3 
+34.15 
+23 
+21.05 
+69.5 
+36 
+29.9
+DBAS 976-23-** P/S * 081 
+47.3 
+42 
+30.1 
+27.45 
+76.1 
+42.8 
+33.5
+DBAS 976-25-** P/S * 081 
+47.3 
+42 
+30.1 
+27.45 
+76.1 
+42.8 
+33.5
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30
+DBAS 976–With Potting Cup
+L Max.
+Part Number with Potting Cup 
+F Max 
+G Max 
+J Mini 
+L Max
+DBAS 976-09-** P/S * A083 
+20.4 
+17 
+4.6
+48
+DBAS 976-11-** P/S * A083 
+23.7 
+21.8 
+10
+48
+DBAS 976-13-** P/S * A083 
+26.9 
+25 
+11.5
+53.6
+DBAS 976-15-** P/S * A083 
+31.5 
+28.25 
+15.3
+53.6
+DBAS 976-17-** P/S * A083 
+36.1 
+30.95 
+17.3
+53.6
+ØF
+ØG
+T
+J Min.
+DBAS 976-19-** P/S * A083 
+36.1 
+30.95 
+17.3
+53.6
+DBAS 976-21-** P/S * A083 
+39.3 
+34.15 
+20.5
+53.6
+DBAS 976-23-** P/S * A083 
+47.3 
+42 
+26.8
+53.6
+DBAS 976-25-** P/S * A083 
+47.3 
+42 
+26.8
+53.6
+DBAS 976 With Potting Cup
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 25
+
+DEUTSCH DBAS 9 Connectors
+DBAS 978–With Heavy Duty Lanyard / With Straight Cable Clamp
+A Max.
+119.7 ± 2.1
+119.7 ± 2.1
+34.8 Max.
+3.35 Max. 14.2 Max.
+39 Max.
+UNMATED  
+POSITION
+3.35 Max. 14.2 Max.
+Ø6.35
+Ø6.35
+ØG
+MATED  
+POSITION
+117.5 Max.
+DBAS 978 Without Nut (Mod 1A)
+DBAS 978 With Nut
+DBAS 978
+A Max.
+119.7 ± 2.1
+Screw Tightening Torque
+0.9 N.m + 0.1
+ 
+- 0
+L1 Max.
+3.35 Max. 14.2 Max.
+Ø6.35
+ØG
+B Max.
+J1 Max. 
+Ø Tightened Clamps
+J Max. 
+Ø Allowed Cable
+DBAS 978 With Straight Cable Clamp (059)
+DBAS 978 With Straight Cable Clamp
+With Straight  
+Cable Clamp
+Part Number 
+Part Number  
+without Nut 
+Part Number with  
+Straight Cable Clamp 
+A Max 
+B Max
+G Max 
+J Max 
+J1 Max 
+L1 Max
+DBAS 978-09-** P/S 
+DBAS 978-09-** P/S 1A 
+DBAS 978-09-** P/S 059 
+23.3 
+31.85 
+17 
+6.6 
+5.15 
+48
+DBAS 978-11-** P/S 
+DBAS 978-11-** P/S 1A 
+DBAS 978-11-** P/S 059 
+26.8 
+35.65 
+21.8 
+12.75 
+10.55 
+48
+DBAS 978-13-** P/S 
+DBAS 978-13-** P/S 1A 
+DBAS 978-13-** P/S 059 
+29.6 
+38.7 
+25 
+14.6 
+12.05 
+54
+DBAS 978-15-** P/S 
+DBAS 978-15-** P/S 1A 
+DBAS 978-15-** P/S 059 
+33.55 
+42.5 
+28.25 
+17.8 
+15.85 
+54
+DBAS 978-17-** P/S 
+DBAS 978-17-** P/S 1A 
+DBAS 978-17-** P/S 059 
+37.2 
+46.2 
+30.95 
+19.8 
+17.95 
+54
+DBAS 978-19-** P/S 
+DBAS 978-19-** P/S 1A 
+DBAS 978-19-** P/S 059 
+37.2 
+46.2 
+30.95 
+19.8 
+17.95 
+54
+DBAS 978-21-** P/S 
+DBAS 978-21-** P/S 1A 
+DBAS 978-21-** P/S 059 
+40.7 
+48.45 
+34.15 
+23 
+21.05 
+54
+DBAS 978-23-** P/S 
+DBAS 978-23-** P/S 1A 
+DBAS 978-23-** P/S 059 
+47.85 
+56.6 
+42 
+30.1 
+27.45 
+54
+DBAS 978-25-** P/S 
+DBAS 978-25-** P/S 1A 
+DBAS 978-25-** P/S 059 
+47.85 
+56.6 
+42 
+30.1 
+27.45 
+54
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30. Traction angle ± 15° in all axis. For lanyard lengths, see page 17. For specific  
+lengths of lanyard, consult us.
+Female inserts protrude from the FRONT face of all receptacles types 70, 71 and 74. Panel sealing gasket to be ordered separately, see page 32.  
+Panel cutout, see page 35.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 26
+
+DEUTSCH DBAS 9 Connectors
+DBAS 978–With Elbowed Cable Clamp
+A Max.
+119.7 ± 2.1
+3.35 Max.
+14.2 Max.
+Ø6.35
+B Max.
+T
+J1 Max.
+J Max.
+Ø Tightened Clamps
+Ø Allowed Cable
+L2 Max.
+R
+Screw Tightening  
+Torque
+0.9 N.m + 0.1
+ 
+- 0
+DBAS 978 With Elbowed Cable Clamp
+DBAS 978 With Elbowed Cable Clamp
+Part Number with  
+Elbowed Cable Clamp 
+A Max 
+B Max
+G Max 
+J Max 
+J1 Max 
+L2 Max 
+R Max
+T Max
+DBAS 978-09-** P/S * 081 
+23.3 
+31.85 
+17 
+6.6 
+5.15 
+52 
+17.4 
+21.4
+DBAS 978-11-** P/S * 081 
+26.8 
+35.65 
+21.8 
+12.75 
+10.55 
+57.1 
+23.6 
+23.8
+DBAS 978-13-** P/S * 081 
+29.6 
+38.7 
+25 
+14.6 
+12.05 
+59.4 
+25.5 
+25.3
+DBAS 978-15-** P/S * 081 
+33.55 
+42.5 
+28.25 
+17.8 
+15.85 
+62.8 
+29.7 
+26.8
+DBAS 978-17-** P/S * 081 
+37.2 
+46.2 
+30.95 
+19.8 
+17.95 
+66.1 
+32.6 
+28.3
+DBAS 978-19-** P/S * 081 
+37.2 
+46.2 
+30.95 
+19.8 
+17.95 
+66.1 
+32.6 
+28.3
+DBAS 978-21-** P/S * 081 
+40.7 
+48.45 
+34.15 
+23 
+21.05 
+69.5 
+36 
+29.9
+DBAS 978-23-** P/S * 081 
+47.85 
+56.6 
+42 
+30.1 
+27.45 
+76.1 
+42.8 
+33.5
+DBAS 978-25-** P/S * 081 
+47.85 
+56.6 
+42 
+30.1 
+27.45 
+76.1 
+42.8 
+33.5
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30
+DBAS 978–With Potting Cup
+119.7 ± 2.1
+L3 Max.
+3.35 Max.
+14.2 Max.
+Part Number with 
+Potting Cup 
+A 
+Max 
+B 
+Max 
+G 
+Max 
+J 
+Min 
+J1 
+Max 
+L3 
+Max
+DBAS 978-09-** P/S * A083 
+23.3 
+31.85 
+17 
+6.6 
+5.15 
+48
+DBAS 978-11-** P/S * A083 
+26.8 
+35.65 
+21.8 
+12.75 
+10.55 
+48
+Ø6.35
+DBAS 978-13-** P/S * A083 
+29.6 
+38.7 
+25 
+14.6 
+12.05 
+53.6
+ØG
+ØG
+DBAS 978-15-** P/S * A083 
+33.55 
+42.5 
+28.25 
+17.8 
+15.85 
+53.6
+J Min.
+DBAS 978-17-** P/S * A083 
+37.2 
+46.2 
+30.95 
+19.8 
+17.95 
+53.6
+DBAS 978-19-** P/S * A083 
+37.2 
+46.2 
+30.95 
+19.8 
+17.95 
+53.6
+DBAS 978-21-** P/S * A083 
+40.7 
+48.45 
+34.15 
+23 
+21.05 
+53.6
+DBAS 978-23-** P/ *  A083 
+47.85 
+56.6 
+42 
+30.1 
+27.45 
+53.6
+DBAS 978-25-** P/S * A083 
+47.85 
+56.6 
+42 
+30.1 
+27.45 
+53.6
+DBAS 978 With Potting Cup
+Dimensions in mm
+For accessories tightening torque strength, please refer to page 30. 
+Traction angle ± 15° in all axis. For lanyard lengths, see page 17. For specific lenghts of lanyard, consult us.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 27
+
+U
+U
+E
+E
+G
+A
+A
+DEUTSCH DBAS 9 Connectors
+DBAS 979–Rack and Panel / With Straight Cable Clamp
+e  Panel Thickness 
+e Panel Thickness 
+D
+D
+36.65 Max
+40.10 Max
+X
+X
+Panel Displacement 
+Panel Displacement
+A
+A
+U
+U
+E
+E
+G
+e  Panel Thickness 
+e Panel Thickness 
+D
+D
+DBAS 979 with Nut
+DBAS 979 without Nut
+L
+X
+Panel Displac
+ement
+Screw Tightening Torque
+ 
+  
+0.9 N.m + 0.1
+              - 0
+A
+U
+E
+G
+J1
+e  Panel Thickness
+J
+Ø Tightened Clamps
+Ø Allowed Cable
+D
+L
+X
+Panel Displac
+ement
+DBAS 979 with Straight Cable Clamp
+DBAS 979 with Straight Cable Clamp
+Screw Tightening Torque
+ 
+  
+0.9 N.m + 0.1
+              - 0
+Compression  
+Force for X
+Part Number 
+Reference
+Part Number  
+without Nut 
+Part Number with 
+Straight Cable Clamp 
+A 
+Max 
+D 
+Max
+E 
+Max* 
+G 
+Max 
+With Straight 
+Cable Clamp
+U 
+Max
+X 
+Max 
+A
+U
+E
+G
+J1
+J 
+Max 
+J1 
+Max 
+L 
+Max 
+Max
+Nul
+DBAS 979-09-** P/S* DBAS 979-09-** P/S * 1A 
+DBAS 979-09-** P/S * 059 22.45 
+21 
+19.3 
+17 
+6.6 
+5.15 
+49.1 
+31 
+13.95 - e 
+1.6 daN.m 0.3 daN.m
+DBAS 979-11-** P/S* 
+DBAS 979-11-** P/S * 1A 
+DBAS 979-11-** P/S * 059 
+29.6 
+20.8 
+24.4 
+21.8 
+12.75 
+10.55 
+49.1 
+34.3 
+12.3 - e 
+3.3 daN.m 0.7 daN.m
+DBAS 979-13-** P/S* 
+DBAS 979-13-** P/S * 1A 
+DBAS 979-13-** P/S * 059 
+31.9 
+20.8 
+27.25 
+25 
+14.6 
+12.05 
+55.1 
+39.75 
+12.45 - e 
+5 daN.m 
+1.2 daN.m
+e  Panel Thickness
+J
+Ø Tightened Clamps
+Ø Allowed Cable
+DBAS 979-15-** P/S* 
+DBAS 979-15-** P/S * 1A 
+DBAS 979-15-** P/S * 059 
+35.15 
+20.8 
+32 
+28.25 
+17.8 
+15.85 
+55.1
+ 43.4 
+12.15 - e 
+8.7 daN.m 1.9 daN.m
+DBAS 979-17-** P/S* 
+DBAS 979-17-** P/S * 1A 
+DBAS 979-17-** P/S * 059 
+38.7 
+20.6 
+35.75 30.95 
+19.8 
+17.95 
+55.1 
+47.15 
+11.8 - e 
+11.8 daN.m 2.7 daN.m
+D
+DBAS 979-19-** P/S* 
+DBAS 979-19-** P/S * 1A 
+DBAS 979-19-** P/S * 059 
+38.7 
+20.6 
+35.75 30.95 
+19.8 
+17.95 
+55.1 
+47.15 
+11.8 - e 
+11.8 daN.m 2.7 daN.m
+DBAS 979-21-** P/S* 
+DBAS 979-21-** P/S * 1A 
+DBAS 979-21-** P/S * 059 45.95 20.6 
+40.6 
+34.15 
+23 
+21.05 
+55.1 
+53.5 
+11.6 - e 
+15.6 daN.m 
+5 daN.m
+DBAS 979-23-** P/S* 
+DBAS 979-23-** P/S * 1A 
+DBAS 979-23-** P/S * 059 
+54.4 
+20.4 
+40.4 
+42 
+30.1 
+27.45 
+55.1 
+72 
+9.35 - e 
+22 daN.m 
+6.1 daN.m
+DBAS 979-25-** P/S* 
+DBAS 979-25-** P/S * 1A 
+DBAS 979-25-** P/S * 059 
+54.4 
+20.4 
+40.4 
+42 
+30.1 
+27.45 
+55.1 
+72 
+9.35 - e 
+22 daN.m 
+6.1 daN.m
+Dimensions in mm
+To be used with the spring compressed to the maximum. Panel displacement X depends on thickness (e) chosen by the user.  
+Panel cutout, see page 35. Rack system mounting, see page 41.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 28
+
+DEUTSCH DBAS 9 Connectors
+DBAS 979–With Elbowed Cable Clamp
+L1
+X
+Panel Displacement
+A
+U
+E
+G
+T
+e  Panel Thickness
+    
+Ø Tightened Clamps
+R
+D
+J1
+Screw Tightening Torque 
+  0.9 N.m + 0.1
+              - 0
+J
+Ø Allowed Cable
+Compression Force for X
+Part Number with  
+Elbowed Cable Clamp 
+A 
+Max 
+D 
+Max
+E 
+Max* 
+G 
+Max 
+J 
+Max 
+J1 
+Max 
+L1 
+Max 
+R 
+Max
+T 
+Max 
+U 
+Max
+X 
+Max 
+Max
+Nul
+DBAS 979-09-** P/S * 081 
+22.45 
+21 
+19.3 
+17 
+6.6 
+5.15 
+53.25 
+17.4 
+21.4 
+31 
+13.95 - e 
+1.6 daN.m 
+0.3 daN.m
+DBAS 979-11-** P/S * 081 
+29.6 
+20.8 
+24.4 
+21.8 
+12.75 
+10.55 
+58.35 
+23.6 
+23.8 
+34.3 
+12.3 - e 
+3.3 daN.m 
+0.7 daN.m
+DBAS 979-13-** P/S * 081 
+31.9 
+20.8 
+27.25 
+25 
+14.6 
+12.05 
+60.6 
+25.5 
+25.3 
+39.75 
+12.45 - e 
+5 daN.m 
+1.2 daN.m
+DBAS 979-15-** P/S * 081 
+35.15 
+20.8 
+32 
+28.25 
+17.8 
+15.85 
+64 
+29.7 
+26.8 
+43.4 
+12.15 - e 
+8.7 daN.m 
+1.9 daN.m
+DBAS 979-17-** P/S * 081 
+38.7 
+20.6 
+35.75 
+30.95 
+19.8 
+17.95 
+67.45 
+32.6 
+28.3 
+47.15 
+11.8 - e 
+11.8 daN.m 
+2.7 daN.m
+DBAS 979-19-** P/S * 081 
+38.7 
+20.6 
+35.75 
+30.95 
+19.8 
+17.95 
+67.45 
+32.6 
+28.3 
+47.15 
+11.8 - e 
+11.8 daN.m 
+2.7 daN.m
+DBAS 979-21-** P/S * 081 
+45.95 
+20.6 
+40.6 
+34.15 
+23 
+21.05 
+70.8 
+36 
+29.9 
+53.5 
+11.6 - e 
+15.6 daN.m 
+5 daN.m
+DBAS 979-23-** P/S * 081 
+54.4 
+20.4 
+40.4 
+42 
+30.1 
+27.45 
+77.4 
+42.8 
+33.5 
+72 
+9.35 - e 
+22 daN.m 
+6.1 daN.m
+DBAS 979-25-** P/S * 081 
+54.4 
+20.4 
+40.4 
+42 
+30.1 
+27.45 
+77.4 
+42.8 
+33.5 
+72 
+9.35 - e 
+22 daN.m 
+6.1 daN.m
+Dimensions in mm
+To be used with the spring compressed to the maximum. Panel displacement X depends on thickness (e) chosen by the user.  
+Panel cutout, see page 35. Rack system mounting, see page 41.
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 29
+
+DEUTSCH DBAS 9 Connectors
+Accessories
+Nut  
+Size
+Part Number
+9
+006-0909-03 A499
+11
+006-0909-12 A499
+13
+006-0909-14 A499
+15
+006-0909-16 A499
+17 and 19
+006-0909-18 A499
+21
+006-0909-20 A499
+23 and 25
+006-0909-61 A499
+Straight Cable Clamp 
+Mod. 059
+Size
+Part Number
+9
+006-0910-03 A499
+11
+006-0910-12 A499
+13
+006-0910-14 A499
+15
+006-0910-16 A499
+17 and 19
+006-0910-18 A499
+21
+006-0910-20 A499
+23 and 25
+006-0910-61 A499
+Elbowed Cable Clamp 
+Mod. 081
+Size
+Part Number
+9
+006-0908-03 A499
+11
+006-0908-12 A499
+13
+006-0908-14 A499
+15
+006-0908-16 A499
+17 and 19
+006-0908-18 A499
+21
+006-0908-20 A499
+23 and 25
+006-0908-61 A499
+Potting Cup
+Mod. A083
+Size
+Part Number
+9
+006-0701-03 A499
+11
+006-0701-12 A499
+13
+006-0701-14 A499
+15
+006-0701-16 A499
+17 and 19
+006-0701-18 A499
+21
+006-0701-20 A499
+23 and 25
+006-0701-61 A499
+Adaptor  
+24.60 Max
+*   Functional lengthening when using this adaptor. 
+Size
+Part Number
+G
+Max
+15.70 Max*
+G
+Mod. A 140
+9
+006-0884-03 A499
+17.00
+11
+006-0884-12 A499
+21.80
+13
+006-0884-14 A499
+25.00
+15
+006-0884-16 A499
+28.25
+17 and 19
+006-0884-18 A499
+30.95
+21
+006-0884-20 A499
+34.15
+23 and 25
+006-0884-61 A499
+42.00
+Dimensions in mm
+Size
+Accessories Tightening Torques  
+(± 10%)
+9
+0.40 daN.m
+11
+0.50 daN.m
+13
+0.60 daN.m
+15
+0.65 daN.m
+17 and 19
+0.70 daN.m
+21
+0.75 daN.m
+23 and 25
+0.95 daN.m
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 30
+
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 31
+
+DEUTSCH DBAS 9 Connectors
+Panel Sealing Gasket and O Ring for Receptacles
+3.20 Max
+B
+3.20 Max
+C
+B
+C
+H
+4 Holes Ø 3.20 
++0.10
+ 
+O Ring
+Front Flange Mounting
+Rear Flange Mounting
+Size
+Part number
+Size
+Part Number
+H
+max
+B
+max
+C
+max
+H
+max
+Part Number
+Size
+9
+108-0007-03
+14.80
+22.50
+15.90
+14.80
+108-0006-03
+9
+11
+108-0007-07
+17.70
+25.70
+18.26
+18.80
+108-0008-07
+11
+13
+108-0007-12
+21.10
+28.10
+20.62
+22.00
+108 0008 12
+13
+15
+108-0007-19
+24.30
+30.50
+23.02
+25.10
+108 0008 19
+15
+17 and 19
+108-0007-27
+29.00
+32.80
+24.58
+27.50
+108-0006-27
+17 and 19
+21
+108-0007-37
+32.30
+36.80
+30.12
+30.50
+108 0008 37
+21
+23 and 25
+108-0007-61
+40.20
+45.50
+36.48
+38.50
+108 0008 61
+23 and 25
+9
+103-0001-15
+11
+103-0001-17
+13
+103-0001-19
+15
+103-0001-22
+17 and 19
+103-0001-24
+21
+103-0001-26
+23 and 25
+103-0003-29
+Dimensions in mm
+Leading Clips for Plugs and Protective Caps
+For protective caps
+For plugs
+G
+Size
+Part Number
+Size
+Part Number
+B 
+±0,1
+C 
+±0,1
+D 
+±0,1
+G
+C
+G
+D
+B
+9
+025-0792-03
+21.20
+10.80
+2.00
+15.00
+11
+025-0792-07
+24.00
+12.30
+2.40
+17.50
+13
+025-0792-12
+27.60
+14.00
+2.70
+21.30
+15
+025-0792-19
+32.00
+16.20
+3.25
+25.00
+17 and 19
+025-0792-27
+36.60
+18.60
+3.75
+28.40
+21
+025-0792-37
+39.60
+20.20
+4.00
+31.10
+23 and 25
+025-0792-61
+47.00
+24.00
+5.20
+40.20
+9
+100-0065-03
+11
+100-0065-07
+13
+100-0065-12
+15
+100-0065-19
+17 and 19
+100-0009-27
+21
+100-0009-37
+23 and 25
+100-0065-61
+Dimensions in mm
+Nominal Dimension Ø
+3 Holes Ø 1 
++0.05
+For protective caps  
+part numbers, consult us
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 32
+
+DEUTSCH DBAS 9 Connectors
+Cable Clamp Sleeves
+Size
+Main Bushings
+Middle Bushings
+Ø 3
+09
+10
+006-0005-08
+47.50
+Ø 7.8
+47.50
+Ø 7.8
+Ø 7.90
+Ø 7.90
+11
+10
+10
+Ø 5.6
+006-0005-12
+006-0006-12
+Ø 5.6
+Ø 9
+13
+10
+006-0005-14
+006-0005-14
+44
+Ø 11
+12.10
+Ø 12
+15
+10
+Ø 7,90
+006-0005-16
+006-0006-14
+006-0006-12
+40.50
+Ø 14.20
+40.50
+Ø 14.20
+Ø 15.30
+Ø 15.30
+17 and  
+19
+10
+Ø 11.10
+10
+Ø 11.10
+006-0005-18
+006-0006-18
+006-0006-14
+006-0006-12
+15.8
+37
+Ø 15,8
+15.9
+Ø 15,9
+21
+14.3
+10
+Ø 14,3
+006-0005-20
+006-0005-20
+006-0006-18
+006-0006-14
+18.90
+33,50
+23.70
+33.50
+33.50
+Ø 23,70
+33,50
+Ø 18,90
+23.80
+Ø 23,80
+23 and  
+25
+15.90
+Ø 19
+Ø 15,90
+10
+006-0005-61
+006-0006-24
+006-0006-22
+006-0006-20
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 33
+
+DEUTSCH DBAS 9 Connectors
+Mating – Unmating Dimensions
+Mating DBAS 976 with 970
+61.5 Max
+44.2 Max
+Mounting Panel: 3.2 Max  
+with Flat Gasket
+MATED POSITION
+Plug Type 976
+Receptacle Type 970
+UNMATED POSITION
+Mounting Panel: 3.2 Max  
+with Flat Gasket
+63 Max
+20.75 Max
+Dimensions in mm
+Mating DBAS 976 with 974
+Mounting Panel: 4 Max 
+49 Max
+MATED POSITION
+Plug Type 976
+Receptacle Type 974
+UNMATED POSITION
+66 Max
+Dimensions in mm
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 34
+
+DEUTSCH DBAS 9 Connectors
+Mating DBAS 979 with 970
+45 Max
+63 Max
+X
+X1
+MATED POSITION
+Mounting Panel: 1.20 Max 
+with Flat Gasket
+Plug
+TYPE 979
+Receptacle
+TYPE 970
+Size 
+X max 
+X1 ± 0.8 
+Y min
+9 
+25 
+12.71 
+43.2
+11 
+24.8 
+12.51 
+43.1
+13 
+24.8 
+12.53 
+43.1
+15 
+24.8 
+12.87 
+43.1
+17 
+24.6 
+12.15 
+42.8
+19 
+24.6 
+12.15 
+42.8
+21 
+24.6 
+12.34 
+42.8
+23 
+24.3 
+13.48 
+42.5
+25 
+24.3 
+13.48 
+42.5
+UNMATED POSITION
+Y
+Mounting Panel: 3.20 Max 
+with Flat Gasket
+65 Max
+Dimensions in mm
+Mating DBAS 979 with 974
+X1
+X
+49 Max
+Mounting Panel: 
+4 Max - 1.57 Mini
+MATED POSITION
+Plug
+TYPE 979
+Receptacle
+TYPE 974
+Size 
+X max 
+X1 ± 0.65 
+Y min
+9 
+28.3 
+16.22 
+46.2
+11 
+28.2 
+16.02 
+46.3
+13 
+28.2 
+16.04 
+46.3
+15 
+28.2 
+16.38 
+46.3
+17 
+27.9 
+15.66 
+46.3
+19 
+27.9 
+15.66 
+46.3
+21 
+27.9 
+15.85 
+46.3
+23 
+27.6 
+17 
+46.3
+25 
+27.6 
+17 
+46.3
+UNMATED POSITION
+Mounting Panel: 
+4 Max - 1.57 Mini
+Y
+68 Max
+Dimensions in mm
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 35
+
+DEUTSCH DBAS 9 Connectors
+Panel Cutout
+For Sealed Receptacles
+Square Flange
+Jam-Nut Mounted
+Mounting Panel: 4 Max – 1.57 Min
+3.2 Max / with Flat Gasket 
+(See Note)
+Key Position 
+C
+C
+H
+H1
+N
+4 holes Ø 3.15 
+±0.15
+3.2 Max / with Flat Gasket 
+(See Note)
+Overall (as Per Accessory)
+Overall (as Per Accessory)
+Note: For utilization on rack connectors, see page 34.  
+Rack and Panel Connector
+Panel Thickness
+(See Page 28)
+4.75 ±0.38
+N1
+H2
+Overall (as Per Accessory)
+Size 
+C 
+± 0.1
+H2
+± 0.38
+N1
+± 0.38
+H
++ 0
+- 0.2
+H1
++ 0.2
+- 0
+N
++ 0.1
+- 0
+09 
+15.90 
+14.80 
+14.40 
+17.04 
+13.56 
+21.41
+11 
+18.26 
+19.40 
+17.55 
+20.62 
+16.79 
+24.99
+13 
+20.62 
+22.60 
+20.73 
+23.80 
+19.91 
+27.96
+15 
+23.02 
+25.75 
+25.48 
+26.97 
+24.61 
+31.34
+17 and 19 
+24.58 
+28.95 
+28.65 
+30.56 
+27.81 
+34.92
+21 
+30.12 
+32.35 
+31.83 
+34.92 
+30.99 
+38.89
+23 and 25 
+36.48 
+40.20 
+38.20 
+42.85 
+37.26 
+47.22
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 36
+
+DEUTSCH DBAS 9 Connectors
+Mating – Unmating Forces
+Shell Size
+Maximum Mating - Unmating Force
+Minimum Unmating Force
+Push-Pull
+Rack and Panel
+Push-Pull
+Rack and Panel
+9
+6.8
+8.01
+0.56
+0.06
+11
+8.9
+8.90
+0.66
+0.15
+13
+15.1
+16.90
+0.89
+0.25
+15
+16.9
+20.46
+1.33
+0.40
+17 and 19
+17.8
+20.46
+1.78
+0.56
+21
+19.6
+22.24
+2.69
+0.77
+23 and 25
+21.8
+30.25
+3.11
+0.94
+DBAS 978GR, Minimum unmating force for sizes 03 and 07: 3,5 daN. for sizes 12 to 61: 4 daN. (More than standard specification 
+SAE/AS 81703)
+Mass
+Connectors weight in gram ±5 gr, without nut and contacts.  
+Size
+Type
+Shells Types 
+ 970/971
+ 974
+ 976
+ 978
+979
+3
+P
+S
+7
+P
+S
+12
+P
+S
+Please 
+Consult Us
+19
+P
+S
+27
+P
+S
+37
+P
+S
+61
+P
+S
+P male contact
+S female contact
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 37
+
+DEUTSCH DBAS 9 Connectors
+DEUTSCH DBAS 9 Connectors
+Contacts
+Color code
+Color code
+1
+2
+1
+2
+3
+3
+4 to 5 mm
+Female Contact
+Wires Strip Length
+Connector Rear Face
+Male Contact
+Active Area / 
+Mating Size
+Part 
+Number
+Contact 
+Material
+Barrel
+AS39029 (3-2-1)
+EN3155 (2-1)
+Former  
+System  
+Part Number
+MIL Ref.
+Type
+Color Bands 
+Marking 
+Yellow or 
+Black
+22
+724-0001-22
+—
+M39029/58-360
+P
+Orange-Blue-Black
+—
+—
+—
+Standard
+724-0007-22
+—
+M39029/56-348
+S
+Orange-Yellow-Grey
+22
+182-0441-22*
+—
+M39029/107-620
+P
+Blue-Red-Black
+—
+—
+—
+Standard
+182-0447-22*
+—
+M39029/106-634
+S
+Blue-Brown-Yellow
+20
+724-0001-20
+—
+M39029/58-363
+P
+Orange-Blue-Orange
+—
+—
+—
+Standard
+724-0007-20
+—
+M39029/56-351
+S
+Orange-Green-Brown
+20
+724-1105-20
+—
+—
+P
+—
+Green-Red
+—
+—
+Standard
+724-1106-20
+—
+S
+20
+182-0068-20
+—
+—
+P
+—
+Red-Red
+Black
+Kn
+Standard
+182-0009-20
+—
+S
+Yellow-Grey-Purple
+—
+20
+182-0069-20
+—
+—
+P
+—
+Red-Red
+Yellow
+Kp
+Standard
+182-0010-20
+—
+S
+Yellow-Grey-Yellow
+—
+20
+182-0441-20*
+—
+M39029/107-621
+P
+Blue-Red-Brown
+—
+—
+—
+Standard
+182-0447-20*
+—
+M39029/106-615
+S
+Blue-Brown-Green
+16
+724-0001-16
+—
+M39029/58-364
+P
+Orange-Blue-Yellow
+—
+—
+—
+Standard
+724-0007-16
+—
+M39029/56-352
+S
+Orange-Green-Red
+16
+182-0441-16*
+—
+M39029/107-622
+P
+Blue-Red-Red
+—
+—
+—
+Standard
+182-0447-16*
+—
+M39029/106-636
+S
+Blue-Brown-Blue
+12
+724-0001-12
+—
+M39029/58-365
+P
+Orange-Blue-Green
+—
+—
+—
+Standard
+724-0007-12
+—
+M39029/56-353
+S
+Orange-Green-Orange
+12
+182-0441-12*
+—
+M39029/107-623
+P
+Blue-Red-Orange
+—
+—
+—
+Standard
+182-0447-12*
+—
+M39029/106-617
+S
+Blue-Brown-Purple
+8
+182-0001-08
+—
+—
+P
+—
+—
+—
+—
+Standard
+182-0003-08
+—
+S
+8
+724-0001-08
+—
+—
+P
+—
+—
+—
+—
+Standard
+724-0003-08
+—
+S
+*1500 cycles
+Standard contacts delivered with connector 
+Note: According to ISO 8843 norm, it is possible to have only one band, only if the color of bands 1 and 2 is identical. 
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 38
+
+DEUTSCH DBAS 9 Connectors
+Tools
+9
+C
+0
+°
+H
+ 
+ 
+T
+O
+ 
+Wire Range 
+Sealing Plug
+Crimp Tool 
+Positioner
+Insertion/Extraction 
+Tool
+AWG
+mm2
+Ref.
+Part Number
+MIL Part Number
+Part Number
+MIL Part Number
+22-26
+0.15 - 0.4
+028-0102-22
+(Yellow)
+057-0463-12
+M22520/2-01
+057-0467-32
+M22520/2-09
+M81969/14-01
+057-0286-22
+057-0468-32
+M22520/2-07
+22-26
+0.15 - 0.4
+028-0102-22
+(Yellow)
+057-0463-12
+M22520/2-01
+057-0467-32
+M22520/2-09
+M81969/14-01
+057-0286-22
+057-0468-32
+M22520/2-07
+20-24
+0.25 - 0.6
+006-0893-20
+(Red)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-20
+006-0902-20
+26-30
+0.055 - 0.15
+006-0893-20
+(Red)
+057-0463-12
+M22520/2-01
+057-0464-32
+M22520/2-02
+M15570-20
+006-0902-20
+20-24
+0.25 - 0.6
+006-0893-20
+(Red)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-20
+006-0902-20
+20-24
+0.25 - 0.6
+006-0893-20
+(Red)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-20
+006-0902-20
+20-24
+0.25 - 0.6
+006-0893-20
+(Red)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-20
+006-0902-20
+16-20
+0.60 - 1.2
+006-0893-16
+(Blue)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-16
+006-0902-16
+16-20
+0.60 - 1.2
+006-0893-16
+(Blue)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-16
+006-0902-16
+12-14
+2 - 3
+006-0892-12 
+(Yellow)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-12
+006-0902-12
+12-14
+2 - 3
+006-0892-12 
+(Yellow)
+057-0461-11
+M22520/2-01
+057-0466-21
+M22520/1-04
+M15570-12
+006-0902-12
+8
+8.98
+—
+057-0540-10
+M300BT
+057-0065-05 A
+SP593
+M81969/14-06
+057-0286-08
+8
+8.98
+—
+057-0540-10
+M300BT
+057-0065-05 A
+SP593
+M81969/14-06
+057-0286-08
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 39
+
+DEUTSCH DBAS 9 Connectors
+Coax Size 16
+Part Number 
+Former Part 
+Number
+Type
+Cable
+Crimping of the Contact
+Crimping of the Sleeve
+Insertion/Extraction 
+Tool
+Crimp Tool
+Positioner
+Crimp Tool
+Positioner
+724-0004-16
+—
+P
+RG 174 / 316 / 179
+M22520/2-01
+M22520/2-35
+M22520/4-01
+M22520/4-02
+M15570-16 
+006-0902-16
+724-0005-16
+—
+S
+Coax Size 12
+AS39029 Qualified Coax Size 12
+Part Number 
+AS39029 Spec
+Type
+Inner Contact  
+Crimp Tool
+Inner Contact 
+Positioner
+Sleeve Crimp Tool
+Sleeve Positioner
+Insertion/Extraction 
+Tool
+6162-233-1277
+AS39029/28-211 
+P
+M22520/2-01
+M22520/2-34
+M22520/31-01
+M22520/31-02
+M81969/14-04
+6162-217-1277
+AS39029/75-416 
+S
+Part Number 
+AS39029 Spec
+Type
+Outer Contact  
+Crimp Tool
+Outer Contact 
+Positioner
+Insertion/Extraction 
+Tool
+6162-324-1231
+AS39029/102-558
+P
+M22520/5-01
+M22520/5-03
+M81969/8-09, 
+M81969/14-04
+6162-325-1231
+AS39029/103-559 
+S
+For other contact types, please consult us
+Twinax Size 8
+Databus Contacts (Twisted Pair) as per AS39029
+Tooling for Databus Contacts
+Cable Type
+Part 
+Number
+Type
+Color 
+Bands
+Conductor Size  
+Max.
+Braid OD  
+Max.
+Sleeve 
+Type
+Center 
+Conductor
+Ferrule
+Insertion/ 
+Extraction Tool
+Single Braid
+182-0347-01
+P
+Brown-Red
+2 x 0.34 mm2
+3.48
+Thermoplastic 
+and Silicone
+TDB-CT-08
+TDB-CT-HEX 
+Mark D
+114-008 or 
+M81969/14-06
+182-0346-01
+S
+Double Braid
+182-0347-02
+P
+Red-Red
+2 x 0.34 mm2
+3.91
+Thermoplastic 
+and Silicone
+TDB-CT-08
+TDB-CT-HEX 
+Mark D
+114-008 or 
+M81969/14-06
+182-0346-02
+S
+Single Braid
+182-0034-03
+P
+Brown-Red
+2 x 0.34 mm2
+3.48
+Thermoplastic 
+and Silicone
+TDB-CY-08
+TDB-CT-HEX 
+Mark C
+114-008 or 
+M81969/14-06
+182-0035-03
+S
+Double Braid
+182-0034-04
+P
+Red-Red
+2 x 0.34 mm2
+3.91
+Thermoplastic 
+and Silicone
+TDB-CT-08
+TDB-CT-08HEX 
+Mark D
+114-008 or 
+M81969/14-06
+182-0035-04
+S
+AS39029 Qualified Twinax
+Part Number 
+AS39029 Spec
+Type
+Center Contact Tooling
+Intermediate Contact and  
+Outer Crimp Sleeve Tooling
+Insertion/Extraction 
+Tool
+Crimp Tool
+Positioner
+Crimp Tool
+Positioner
+6162-283-0877
+AS39029/90-529
+P
+M22520/2-01
+M22520/2-37
+M22520/5-01
+M22520/5-105
+M81969/14-12
+6162-284-0877
+AS39029/91-530
+S
+For quadrax solutions, please consult us
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 40
+
+DEUTSCH DBAS 9 Connectors
+Fiber Optics
+Please 
+Consult Us
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 41
+
+DEUTSCH DBAS 9 Connectors
+Mounting Notice
+Rack and Panel Plug
+Step 1: Drill the panel according to following dimensions 
+4.75 ±0.38
+Cut
+H+0.38
+N+0.68
+N
+H
+3
+17.04
+21.41
+7
+20.62
+24.99
+12
+23.80
+27.96
+19
+26.97
+31.34
+27
+30.56
+34.92
+37
+34.92
+38.89
+61
+42.85
+47.22
+Step 2: Use a tool to mount the burnished circlip on the groove at the back of the DBAS 9 rack and panel plug 
+Burnished Circlip
+Step 3: Please guide the plug equipped with circlip against the panel
+Step 4: Compress the spring with fasteners and let it slip on the connector, on the panel side.  
+The largest turn side of the spring needs to be against the panel 
+Spring
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 42
+
+Notes
+Step 5: Position the washer against the smallest turn of the spring 
+Washer
+Step 6: Position the golden circlip in its groove
+Golden Circlip
+Step 7: Cut the spring fasteners in order to loosen it:
+For dimensions and  
+compression force, refer to 
+page 28
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+PAGE 43
+
+CONNECT WITH US
+We make it easy to connect with our experts and are ready to provide all the support you need. 
+Visit te.com/support to chat with a Product Information Specialist.
+QUALITY STARTS WITH THE RIGHT APPLICATION TOOLING
+Creating a quality crimp connection is essential to delivering high performance and reliability in extreme environments. From low  
+to high volume wire processing, TE has you covered with a full range of application tooling and a global field service team. 
+•  View all application tooling
+•  Connect with our experts to find the right tool for your application
+te.com/deutsch-dbas9
+DEUTSCH DBAS 9 SERIES  
+CONNECTORS
+AMP, AGASTAT, CII, DEUTSCH, DRI, HARTMAN, KILOVAC, MICRODOT, NANONICS, POLAMCO, Raychem, Rochester, 
+SEACON, TE, TE Connectivity, and TE connectivity (logo) are trademarks owned or licensed by TE Connectivity.  
+All other logos, products and/or company names referred to herein might be trademarks of their respective owners.
+TE Connectivity
+Aerospace, Defense & Marine
+2900 Fulling Mill Road
+Middletown, PA 17057
+The information given herein, including drawings, illustrations and schematics which are intended for illustration 
+purposes only, is believed to be reliable. However, TE Connectivity makes no warranties as to its accuracy or  
+completeness and disclaims any liability in connection with its use. TE Connectivity‘s obligations shall only be 
+as set forth in TE Connectivity‘s Standard Terms and Conditions of Sale for this product and in no case will 
+TE Connectivity be liable for any incidental, indirect or consequential damages arising out of the sale, resale, 
+use or misuse of the product. Users of TE Connectivity products should make their own evaluation to determine the 
+suitability of each such product for the specific application.
+© 2021 TE Connectivity  All Rights Reserved.
+ 2402115-1  11/21    
+AEROSPACE, DEFENSE & MARINE / DEUTSCH DBAS 9 SERIES CONNECTORS
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ TE Connectivity:  
+ 
+  ZPF000000000106905  ZPF000000000114189  ZPF000000000014116  ZPF000000000114391 
+ZPF000000000109835  ZPF000000000114190  ZPF000000000207155  ZPF000000000207164  ZPF000000000207032
+  ZPF000000000207035  ZPF000000000207038  ZPF000000000207041  ZPF000000000207149 
+ZPF000000000207152  ZPF000000000206121  ZPF000000000206508  ZPF000000000206769  ZPF000000000206771
+  ZPF000000000206773  ZPF000000000206954  ZPF000000000201009  ZPF000000000201011 
+ZPF000000000201012  ZPF000000000204836  ZPF000000000204837  ZPF000000000205165  DBAS 978G 25-35 PN
+  DBAS 979G 17-35 PN  ZPF000000000140901  ZPF000000000163958  ZPF000000000163978 
+ZPF000000000201008  DBAS 978-25-35 SN 059  DBAS 978-25-61 PN  DBAS 978-25-61 SN  DBAS 978G 17-35 SN 1A
+  DBAS 978G 25-04 PN 1A  DBAS 978G 25-04 SN 059  DBAS 976G 17-35 SN 1A  DBAS 976G 25-04 PN-A5767 
+DBAS 976G 25-61 PN  DBAS 978-09-35 SN 059  DBAS 978-25-35 PN  DBAS 978-25-35 SN  DBAS 974-25-04 PN 059
+  DBAS 974-25-35 SN  DBAS 974-25-61 SN 059  DBAS 976-09-35 SN 059  DBAS 976-25-04 SN 059  DBAS 976-25-35
+PN  DBAS 974-09-35 PN 059  DBAS 974-17-35 PN 1A  DBAS 974-17-35 SN  DBAS 974-23-35 SN 059  DBAS 974-23-
+55 PN  DBAS 974-23-55 SN 059  DBAS 970-25-04 PN 059  DBAS 970-25-35 PN  DBAS 970-25-35 PN 059  DBAS 970-
+25-35 SN  DBAS 970-25-61 PN 059  DBAS 970-25-61 SN  DBAS 979G 17-35 SN 1A  ZPF000000000201013  DBAS
+970-09-35 PN 059  DBAS 970-09-35 SN  DBAS 970-17-35 PN 1A  DBAS 970-17-35 SN  ZPF000000000109277 
+ZPF000000000106906  ZPF000000000105822  ZPF000000000109276  ZPF000000000106907  ZPF000000000014121

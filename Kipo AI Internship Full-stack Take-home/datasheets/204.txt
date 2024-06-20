@@ -1,0 +1,3208 @@
+Round Water-resistant Connectors (M12)
+XS2
+CSM_XS2_DS_E_5_1
+Water- and Environment-resistive FA 
+Connectors Save Wiring and Maintenance 
+Effort
+• Compact FA connectors meet IP67 requirements and ensure a 
+94V-0 fire retardant rating.
+• A wide array of connectors makes a wiring system more modular, 
+simplifies maintenance, and reduces downtime.
+• Connectors with Cables and Connector Assemblies are available.
+• Three types of Connector Assembly: Crimping, soldering, and 
+screw-on.
+• Connectors with Cables are UL certified.
+• Based on IEC61076-2-101 (IEC 60947-5-2) and NECA 4202.
+Refer to Safety Precautions on page 20.
+Materials and Finish
+Construction (XS2G Soldering Connector Plug 
+Assemblies)
+Item
+XS2F/H/W
+XS2M/R/P
+XS2C/G
+Lock spring
+Watertight bushing
+Contacts
+Materials
+Phosphor 
+bronze
+Brass
+Finish
+Nickel base, 0.4-μm gold plating
+Fixture
+Solder-cup pin
+Cable clamp
+Materials
+Brass *
+Thread 
+bracket
+Finish
+Nickel plated *
+Pin block
+Materials
+PBT resin 
+(UL94V-0)
+PA resin 
+(UL94V-0)
+PBT resin 
+(UL94V-0)
+Finish
+For DC: light gray; for AC: dark gray
+O-ring/rubber bushing
+Rubber
+O-ring
+Cover
+PBT resin 
+(UL94V-0)
+---
+PBT resin 
+(UL94V-0)
+Contact block
+Cover
+Cap
+Cap
+---
+---
+PBT resin 
+(UL94V-0)
+Ratings and Specifications
+Cable clamp
+---
+---
+PA resin 
+(UL94V-0)
+Rated current
+3 A
+Pin clamp
+---
+---
+PBT resin 
+(UL94V-0)
+Rated voltage
+For DC 125 VDC, for AC 250 VAC
+Contact resistance (Connector)
+40 mΩ max. (20 mV max., 100 mA max.) 
+Lock spring
+---
+---
+LCP resin 
+(UL94V-0)
+Insulation resistance
+1,000 MΩ min. (at 500 VDC) 
+Watertight bushing
+---
+---
+Rubber
+Ring
+---
+---
+Steel
+Dielectric strength (Connector)
+1,500 VAC for 1 min (leakage current: 
+1 mA max.).
+*The T-joint of the XS2R is aluminum/white.
+Degree of protection
+IP67 (IEC529)
+Insertion tolerance
+200 times min.
+Socket Appearance
+Assembled fixture strength
+Tensile: 98 N/15 s
+Torsion: 0.98 N·m/15 s
+DC type
+AC type
+Cable holding strength
+Cable diameter: 6 mm
+98 N/15 s
+4 to 5 mm   49 N/15 s
+3 mm
+29 N/15 s
+Male (plug)
+ contacts
+Female (socket) 
+contacts
+Male (plug) 
+contacts
+Female (socket) 
+contacts
+1
+Ambient operating temperature 
+range
+Operating: − 25°C to 70°C
+1
+2
+2
+4
+4
+Ambient humidity range 
+20% to 85%
+2
+2
+1
+4
+3
+1
+4
+3
+3
+3
+Recommended Cables
+Note: The AC and DC connectors are different as shown here and therefore 
+cannot be connected together.
+Core sizes
+Cable outer
+diameter
+Crimping models
+Soldering 
+models
+Screw-on 
+models
+8 mm
+7 to 8 mm
+---
+---
+7 mm
+6 to 7 mm
+0.18 to 
+0.75 mm2
+3 mm
+3 to 4 mm
+6 mm
+5 to 6 mm
+Two types of contacts 
+are available.
+• 0.18 to 0.3 mm2
+• 0.5 to 0.75 mm2
+0.5 mm2 max.
+4 mm
+4 to 5 mm
+1
+
+XS2
+List of Products
+Name
+Model
+Appearance
+XS2W Sockets and Plugs on Cable Ends
+XS2F Sockets on One Cable End
+1. Connectors attached to Cable
+XS2H Plugs on One Cable End
+XS2G Plug Assemblies
+XS2C Socket Assemblies
+2. Connector Assemblies (Crimp-
+ing, Soldering, or Screw-on)
+XY2F Crimp Tool (for Crimping Connectors)
+Used to enable using connec-
+tors for sensor cables and relay 
+cables.
+XW4Z Screwdriver (for Screw-on Connectors)
+3. Terminal Box Connectors
+XS2P Panel-mounting Sockets
+Used to enable using connec-
+tors for terminal boxes.
+A
+B
+T-Joints
+C
+4. T-Joints and Y-Joints
+XS2R T-Joint/Y-Joint 
+Plug/Socket Connectors
+Used for branching and for 
+daisy-chain connections.
+Y-Joints
+5. Sensor Connector Assemblies
+Embedded Plugs with 
+Screw Threads
+XS2M Plugs
+Used to enable using connec-
+tors in sensors.
+Embedded Plugs with 
+No Screw Threads
+Flange-mounting Plugs
+6. Panel-mounting Connectors
+XS2M Plugs
+Used to enable using I/O box 
+connectors mounted to panels. 
+Screw-mounting Plugs
+2
+
+XS2
+XS2W Sockets and Plugs on Cable Ends
+Model Number Legend
+Use this model number legend to identify products from their model number. When ordering, use a model number from the table in Ordering Information.
+XS2W-D@2@-@@1-@
+3
+1
+2
+4
+5
+6
+7
+8
+9
+1. Type
+W: Connectors connected to cable, socket and plug on cable ends
+2. AC/DC (Mating Section Form)
+D: For DC
+3. Connector Poles
+4: 4 poles
+5: 5 poles
+4. Contact Plating
+2: 0.4-μm gold plating
+5. Cable Connection Direction
+1: Straight/straight
+2: L-shaped/L-shaped
+3: Straight (XS2F)/L-shaped (XS2H)
+4: L-shaped (XS2F)/straight (XS2H)
+6. Cable Length
+A: 0.3 m (straight/straight only)
+B: 0.5 m (straight/straight only)
+C: 1 m (straight/straight only)
+D: 2 m
+E: 3 m (straight/straight only)
+F: 4 m (straight/straight only)
+G: 5 m
+H: 7 m (straight/straight only)
+J: 10 m (straight/straight only)
+K: 15 m (straight/straight only)
+L: 20 m (straight/straight only)
+7. Connections
+Pin No.
+Terminal No.
+A
+B
+C
+D 
+A
+B
+C
+D
+E
+8: Brown White
+Blue Black (for DC) 
+G: Brown White
+Blue
+Black Gray
+8. Connectors on One End/Both Ends
+1: Both ends
+9. Cable Specifications
+A: Standard cable
+F: Fire-retardant, Robot cable
+3
+
+XS2
+XS2W Sockets and Plugs on Cable Ends 
+● Connectors with Fire-retardant, Robot cable
+XS2W-D42@-@81-F
+Dimensions
+(Unit: mm)
+Straight/Straight Connectors
+6 dia.
+14.9 dia.
+14.9 dia.
+40.7
+L
+44.7
+14.9 dia.
+L-shaped/L-shaped Connectors
+6 dia.
+32.3
+28.3
+25.3
+25.3
+Wiring Diagram for 4 Cores
+L
+14.9 dia.
+Straight/L-shaped Connectors
+Contact No.
+Cable lead 
+colors
+Brown
+White
+1
+2
+3
+4
+1
+2
+3
+4
+32.3
+6 dia.
+Blue
+Black
+(DC)
+14.9 dia.
+25.3
+40.7
+Wiring Diagram for 5 Cores
+L
+Contact No.
+L-shaped/Straight Connectors
+Cable lead 
+colors
+Brown
+White
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+Blue
+Black
+Gray
+6 dia.
+28.3
+14.9 dia.
+44.7
+25.3
+L
+Ordering Information
+DC
+UL-listed
+Cable type
+Cable connection
+direction
+No. of cable
+cores
+Cable 
+length (m)
+Cable core cross-
+sectional area (mm2)
+Model
+Minimum order
+1
+XS2W-D421-C81-F
+10
+Fire-retardant, 
+Robot cable
+Straight/Straight
+2
+XS2W-D421-D81-F
+5
+5
+XS2W-D421-G81-F
+10
+XS2W-D421-J81-F
+1
+L-shaped/L-shaped
+2
+XS2W-D422-D81-F
+4
+0.5
+Yes
+5
+XS2W-D422-G81-F
+5
+Straight/L-shaped
+2
+XS2W-D423-D81-F
+5
+XS2W-D423-G81-F
+L-shaped/Straight
+2
+XS2W-D424-D81-F
+5
+XS2W-D424-G81-F
+Note: Ask your OMRON representative about other cable lengths, and about 5-core cables.
+4
+
+XS2
+XS2F Socket on One Cable End
+Model Number Legend
+Use this model number legend to identify products from their model number. When ordering, use a model number from the table in Ordering Information.
+XS2F-@@2@-@@0-@
+1
+4
+8
+2
+3
+5
+6
+7
+9
+8. Connectors on One End/Both Ends
+1. Type
+0: One end
+9. Cable Specifications
+F: Connector connected to cable, socket on one 
+cable end
+2. AC/DC (Mating Section Form)
+A: Standard cable
+F: Fire-retardant, Robot cable
+E: Heat-resistant cable up to 105°C
+E type is a 4-core cable.
+A: For AC
+D: For DC
+E: For DC, stainless steel lock
+3. Connector Poles
+Designations for DC Polarity (For Limit Switches and 
+Sensors)
+6. Cable Length
+4: 4 poles
+5: 5 poles
+4. Contact Plating
+3: 2 m
+4: 5 m
+2: 0.4-μm gold plating
+7. Connections
+5. Cable Connection Direction
+1: Straight
+2: L-shaped
+Pin No.
+A
+B
+C
+D 
+1: ---
+---
+Black White
+6. Cable Length
+8. Connectors on One End/Both Ends
+0: One end
+9. Cable Specifications
+Not designated.
+Note: Model number standards are different for items 6, 7, and 9 for non-polar 
+connectors. 
+A: 0.3 m
+B: 0.5 m
+C: 1 m
+D: 2 m
+E: 3 m
+F: 4 m
+G: 5 m
+H: 7 m
+J: 10 m
+K: 15 m
+L: 20 m
+Only the 2 m (D) and 5 m (G) cables are available for 
+cables with 5 poles.
+7. Connections
+Terminal No.
+Terminal No.
+A
+B
+C
+D 
+A
+B
+C
+D
+E
+A: Brown
+---
+---
+Blue (for DC)
+G: Brown White
+Blue
+Black Gray
+B: 
+---
+---
+Brown Blue (for DC)
+C: Brown
+---
+Blue Black
+D:
+---
+---
+Blue Brown
+8: Brown White
+Blue Black (for DC) 
+9: Brown White
+Blue Black (for AC) 
+5
+
+XS2
+XS2F Sockets on One Cable End
+● Connectors with Fire-retardant, Robot Cable   XS2F-@42@-@@0-F
+● Non-polar DC Connectors with Standard Cable   XS2F-@42@-@@0
+● E2E models with conventional connector pin with Standard Cable
+XS2F-D42@-@D0 
+● Heart-resistant Cable
+XS2F-E42@-@80-E
+Dimensions
+(Unit: mm)
+Straight Connectors
+6 dia.
+45°
+5 dia.
+M12
+45°
+5 dia.
+M12
+14.9 dia.
+40.7
+DC
+AC
+L
+50
+30
+5
+L-shaped Connectors
+L
+6 dia. 
+25.3 
+28.3 
+50 
+30 
+5 
+M12 
+M12 
+5 dia. 
+5 dia. 
+DC
+AC
+45° 
+45° 
+Wiring Diagram
+Two-core model
+Three-core model
+Four-core model
+Contact No.
+Cable lead 
+colors
+Fire-retardant, 
+Robot cable
+XS2F-@42@
+-@@0-F
+Brown
+1
+2
+3
+4
+Contact No.
+Cable lead 
+colors
+Contact No.
+Cable lead 
+colors
+Blue
+(DC)
+Brown
+White
+Contact No.
+Brown
+1
+2
+3
+4
+1
+2
+3
+4
+Cable lead 
+colors
+Blue
+Black
+(DC)
+Blue
+Black
+(DC/AC)
+1
+2
+3
+4
+Brown
+Blue
+(AC)
+Contact No.
+Cable lead 
+colors
+XS2F-@42@
+-@@0
+---
+---
+1
+2
+3
+4
+Black
+White
+Standard 
+cable
+(non-polar 
+DC)
+Contact No.
+Cable lead 
+colors
+XS2F-D42@
+-@D0
+---
+---
+1
+2
+3
+4
+Blue
+Brown
+Standard 
+cable
+(E2E models
+with 
+conventional 
+connector 
+pin)
+6
+
+XS2
+Ordering Information
+Cable type
+Cable 
+length (m)
+DC
+AC
+Minimum
+order
+UL-
+listed
+Model
+Model
+Cable 
+connection
+direction
+No. of 
+cable 
+cores
+Cable core 
+cross-sectional 
+area (mm2)
+2
+1
+XS2F-D421-CA0-F
+XS2F-A421-CB0-F
+10
+3
+XS2F-D421-CC0-F
+---
+4
+XS2F-D421-C80-F
+XS2F-A421-C90-F
+2
+2
+XS2F-D421-DA0-F
+XS2F-A421-DB0-F
+Straight
+5
+3
+XS2F-D421-DC0-F
+---
+4
+XS2F-D421-D80-F
+XS2F-A421-D90-F
+2
+5
+XS2F-D421-GA0-F
+XS2F-A421-GB0-F
+3
+XS2F-D421-GC0-F
+---
+4
+XS2F-D421-G80-F
+XS2F-A421-G90-F
+2
+10
+XS2F-D421-JA0-F
+XS2F-A421-JB0-F
+1
+3
+XS2F-D421-JC0-F
+---
+4
+XS2F-D421-J80-F
+XS2F-A421-J90-F
+Yes
+Fire-retardant, 
+Robot cable
+2
+1
+XS2F-D422-CA0-F
+XS2F-A422-CB0-F
+10
+3
+XS2F-D422-CC0-F
+---
+4
+XS2F-D422-C80-F
+---
+2
+2
+XS2F-D422-DA0-F
+XS2F-A422-DB0-F
+5
+L-shaped
+0.5
+3
+XS2F-D422-DC0-F
+---
+4
+XS2F-D422-D80-F
+---
+2
+5
+XS2F-D422-GA0-F
+XS2F-A422-GB0-F
+3
+XS2F-D422-GC0-F
+---
+4
+XS2F-D422-G80-F
+---
+2
+10
+XS2F-D422-JA0-F
+XS2F-A422-JB0-F
+1
+3
+XS2F-D422-JC0-F
+---
+4
+XS2F-D422-J80-F
+---
+Straight
+2
+2
+XS2F-D421-310
+XS2F-A421-310
+---
+2
+5
+XS2F-D421-410
+XS2F-A421-410
+Standard cable 
+(non-polar)
+L-shaped
+2
+2
+XS2F-D422-310
+XS2F-A422-310
+2
+5
+XS2F-D422-410
+XS2F-A422-410
+Straight
+2
+2
+XS2F-D421-DD0
+---
+5
+---
+2
+5
+XS2F-D421-GD0
+---
+Standard cable 
+(E2E models 
+with conventional 
+connector pin)
+L-shaped
+2
+2
+XS2F-D422-DD0
+---
+2
+5
+XS2F-D422-GD0
+---
+2
+XS2F-E421-D80-E
+---
+Straight
+4
+---
+5
+XS2F-E421-G80-E
+---
+Heat-resistant 
+cable *
+L-shaped
+2
+XS2F-E422-D80-E
+---
+5
+XS2F-E422-G80-E
+---
+Note: Ask your OMRON representative about other cable lengths.
+*The heat-resistant fixture material is SUS316L stainless steel without surface treatment.
+7
+
+XS2
+Applicable Proximity Sensors
+Refer to page the E2E Datasheet for information on connecting to E2E Proximity Sensors
+● 5-pole Connectors for DC   XS2F-D521-@G0-A
+Dimensions
+(Unit: mm)
+Straight Connectors
+Note: Use the  XS2H-D521-@G0-A in 
+combination with the XS2F-
+D521-@G0-A.
+M12 
+45° 
+6 dia. 
+5 dia.
+14.9 dia. 
+40.7
+30
+5
+L
+50
+Wiring Diagram
+Pin Arrangements (Engagement Side)
+Contact No.
+Cable lead 
+colors
+2
+1
+5
+2
+Brown
+White
+3
+4
+Blue
+5
+Gray
+Black
+1
+4
+3
+Ordering Information
+DC
+No. of cable 
+cores
+Cable length 
+(m)
+Model
+Minimum order
+Cable core 
+cross-sectional 
+area (mm2)
+5
+0.3 mm2
+2
+XS2F-D521-DG0-A
+5
+5
+XS2F-D521-GG0-A
+5
+Note: Ask your OMRON representative about other cable lengths.
+8
+
+XS2
+XS2H Plugs on One Cable End
+Model Number Legend
+XS2H-@@21-@@0-@
+1
+4
+8
+2
+5
+3
+6
+7
+9
+1. Type
+H: Connector connected to cable, plug on one cable end
+2. AC/DC 
+A: For AC
+D: For DC
+3. Connector Poles
+Using this model number legend to identify products from their 
+model number. When ordering, use a model number from the 
+table in Ordering Information.
+4:  4 poles
+5:  5 poles
+4. Contact Plating
+2: 0.4-μm gold plating
+5. Cable Connection Direction
+1: Straight
+6. Cable Length
+A: 0.3 m
+B: 0.5 m
+C: 1 m
+D: 2 m
+G: 5 m
+7. Connections
+Terminal No.
+Terminal No.
+Terminal No.
+A
+B
+C
+D 
+A
+B
+C
+D
+A
+B
+C
+D
+E
+8: Brown White Blue Black (for DC)
+A: Brown
+---
+---
+Blue (for DC)
+G: Brown White Blue Black Gray
+9: Brown White Blue Black (for AC) 
+B:
+---
+---
+Brown Blue (for AC)
+C: Brown
+---
+Blue Black  (for DC)
+8. Connectors on One End/Both Ends
+0: One end
+9. Cable Specifications
+A: Standard cable
+F: Fire-retardant, Robot cable
+9
+
+XS2
+XS2H Plugs on One Cable End
+● Connectors with Fire-retardant, Robot Cable   XS2H-@421-@@0-F
+Dimensions
+(Unit: mm)
+Straight Connectors
+45°
+5 dia.
+45°
+5 dia.
+44.7
+6 dia.
+14.9 dia.
+30
+5
+DC
+AC
+L
+50
+Wiring Diagram
+Contact No.
+Cable lead 
+colors
+Brown
+1
+2
+3
+4
+Contact No.
+Cable lead 
+colors
+Contact No.
+Cable lead 
+colors
+Blue
+(DC)
+Brown
+Brown
+White
+Contact No.
+1
+2
+3
+4
+1
+2
+3
+4
+Cable lead 
+colors
+Blue
+Black
+(DC)
+Blue
+Black
+(DC/AC)
+1
+2
+3
+4
+Brown
+Blue
+(AC)
+Two-core Model
+Three-core Model
+Four-core Model
+● Connectors on DC Cable (Five Poles)   XS2H-D521-@G0-A (for DC)
+Dimensions
+(Unit: mm)
+Straight Connectors
+Note: Use the XS2F-D521-@G0-A in 
+combination with the XS2H-D521-
+@G0-A.
+M12
+45° 
+6 dia. 
+5 dia.
+44.7
+30
+5
+L
+50
+Wiring diagram
+Pin Arrangements (Engagement Side)
+Contact No.
+Cable lead 
+colors
+1 
+1
+2
+Brown
+White
+5
+3
+4
+Blue
+4
+5
+2
+Gray
+Black
+3
+Five-core Model
+Ordering Information
+No. of con-
+nector poles
+Cable connec-
+tion direction
+No. of 
+cable cores
+Cable core cross-
+sectional area
+Cable
+length (m)
+DC
+AC
+Minimum
+order
+UL-
+listed
+Model
+Model
+2
+0.3
+XS2H-D421-AA0-F
+XS2H-A421-AB0-F
+0.5 mm2
+10
+Yes
+4
+Straight
+3
+XS2H-D421-AC0-F
+---
+4
+XS2H-D421-A80-F
+XS2H-A421-A90-F
+2
+1
+XS2H-D421-CA0-F
+XS2H-A421-CB0-F
+3
+XS2H-D421-CC0-F
+---
+4
+XS2H-D421-C80-F
+XS2H-A421-C90-F
+5
+5
+0.3 mm2
+0.3
+XS2H-D521-AG0-A
+---
+---
+1
+XS2H-D521-CG0-A
+---
+10
+
+XS2
+XS2@ Sensor I/O Connectors on Cables (8-pole)
+Ordering Information
+Connector type
+Cable connection 
+direction
+Number of cores
+Cable length (m)
+Model
+Panel-mounting socket
+---
+---
+---
+XS2P-D821-2
+XS2P-D822-2
+Panel-mounting plug
+XS2M-D824-4
+Plug on one cable end
+0.3
+XS2H-D821-AH0-C
+1
+XS2H-D821-CH0-C
+Straight
+8
+Socket on one cable end
+2
+XS2F-D821-DH0-C
+5
+XS2F-D821-GH0-C
+Plug and socket on cable ends
+2
+XS2W-D821-DH1-C
+5
+XS2W-D821-GH1-C
+Pin Numbers and Cable Lead Colors
+Pin number
+XS2F/XS2H/XS2W cable lead 
+colors
+1
+2
+3
+4
+5
+6
+7
+8
+White
+Brown
+Green
+Yellow
+Gray
+Pink
+Blue
+Shield
+Ratings and Characteristics
+Materials and Finish
+Rated current
+1.5 A
+Contacts
+Brass/nickel base, 
+0.4-μm goldplating
+Rated voltage
+36 VDC
+Contact resistance
+40 MΩ max. 
+(at 20 mVDC max. and 100 mA max.)
+Bracket, body, M16 nuts Brass/nickel plated
+Pin block
+PBT resin (UL94V-0)/light gray
+Insulation resistance
+1,000 MΩ min. (at 500 VDC)
+Cover *1
+PBT resin (UL94V-0)
+Dielectric strength
+1,000 VAC for 1 min 
+(leakage current: 1 mA max.)
+Seal rubber and O-ring 
+*2
+Rubber
+Degree of protection
+IP67
+*1. XS2F/XS2H/XS2W only.
+*2. O-rings are on sockets only.
+Insertion durability
+200 times min.
+Operating temperature −25 to 70°C
+Wiring Example
+Sensor, actuator, etc.
+Relay box,
+In-panel terminal block
+XS2P
+XS2W
+XS2M
+XS2H
+XS2F
+11
+
+XS2
+Dimensions
+(Unit: mm)
+XS2H Plug on One Cable End (M12)
+6 dia.
+2
+1
+7
+3
+14.9 dia.
+4
+8
+5
+6
+M12
+5
+50
+30
+L
+44.7
+XS2F Socket on One Cable End (M12)
+6 dia.
+1
+2
+3
+7
+14.9 dia.
+6
+8
+5
+4
+M12
+5
+30
+40.7
+L
+50
+XS2W Plug and Socket on Cable Ends (M12)
+6 dia.
+M12
+5
+6
+4
+8
+1
+2
+3
+7
+14.9 dia.
+14.9 dia.
+7
+1
+2
+3
+6
+8
+5
+4
+44.7
+M12
+40.7
+L
+XS2P-D821-2 Panel-mounting Socket (M12) with Solder 
+Cup Pins and Rear Lock
+XS2M-D824-4 Panel-mounting Plug (M12) with Solder Cup 
+Pins and Front Lock
+5
+Panel
+20.9
+8.7
+3 3
+3
+20 dia.
+M16 nut
+Panel
+3
+1.5
+Seal rubber
+2
+1
+7
+1
+7
+1
+2
+1
+7
+3
+4
+10.6 dia.
+7
+3
+4
+5
+6
+6
+5
+5
+6
+7
+2
+3
+6
+7
+20 dia. 14 dia.
+2
+3
+4
+4
+5
+M12
+M12
+2.5
+10.5 3
+M16
+M16 nut
+M16
+20.4
+5
+Seal rubber
+XS2P-D822-2 Panel-mounting Socket (M12) with Solder 
+Cup Pins and Front Lock
+Panel Cutouts
+Connector Pin Numbers
+(from Mating Side)
+2
+2
+1
+1
+16+0.2 
+0  dia.
+7+0.1 
+0  
+7
+7
+3
+3
+Seal rubber
+1.5
+3
+Panel
+M16 nut
+4
+4
+1
+7
+6
+6
+8
+8
+5
+5
+2
+3
+6
+7
+14 dia.
+14 dia.
+20 dia.
+24 min.
+4
+5
+Plug
+Socket
+M12
+M16
+3
+5
+6
+8.7
+20.4
+Note 1. Mounting panel thickness: 1 to 4 mm.
+2.Applicable core wire size for solder cup pins: 0.5 mm2 max.
+3.The M16 nut and seal rubber are included.
+12
+
+XS2
+XS2G Crimping/Soldering Plug Assemblies
+Dimensions
+(Unit: mm)
+45°
+5 dia.
+45°
+M12
+5 dia.
+XS2G-@4C@ (Crimping Model)
+XS2G-@42@ (Soldering Model)
+Straight Connectors
+14.9 dia.
+14.2 dia.
+47.1
+DC
+AC
+45°
+5 dia.
+XS2G-D42@ (Soldering Model)
+L-shaped Connectors
+35.7
+M12 × 1
+14.9 dia.
+23
+DC
+Ordering Information
+Suitable cable dia.
+(mm)
+Cable connection 
+direction
+Connection
+method
+DC
+AC
+Minimum
+order
+Model
+Model
+6-mm-dia. model 
+(5 to 6 mm dia.)
+Straight
+Crimping
+XS2G-D4C1
+XS2G-A4C1
+Soldering
+XS2G-D421
+XS2G-A421
+L-shaped
+Soldering
+XS2G-D422
+---
+50
+4-mm-dia. model 
+(4 to 5 mm dia.)
+Straight
+Crimping
+XS2G-D4C3
+XS2G-A4C3
+Soldering
+XS2G-D423
+XS2G-A423
+L-shaped
+Soldering
+XS2G-D424
+---
+3-mm-dia. model 
+(3 to 4 mm dia.)
+Straight
+Crimping
+XS2G-D4C5
+XS2G-A4C5
+Soldering
+XS2G-D425
+XS2G-A425
+L-shaped
+Soldering
+XS2G-D426
+---
+Note: Crimping plug contacts are sold separately.
+XS2U Crimping Pin for XS2G
+Dimensions
+(Unit: mm)
+Note: A special tool must be used for crimping. For details, refer to page 23.
+XS2U-312@ (Plug Pin)
+Dimensions
+Slit
+1 dia.
+Model
+2 dia. 2.3 dia.
+C dia.
+Suitable 
+core size 
+(mm2)
+Dimension 
+(mm)
+No. of 
+slits
+A
+B
+C
+1.5
+XS2U-3121
+0.18 to 0.3
+20.0
+6.1
+0.8
+1
+B
+XS2U-3122
+0.5 to 0.75
+20.1
+6.2
+1.3
+0
+A
+Ordering Information
+Suitable core size (mm2)
+Model
+Minimum order
+0.18 to 0.3
+XS2U-3121
+100
+0.5 to 0.75
+XS2U-3122
+Note: Orders are accepted in multiples of the minimum order.
+13
+
+XS2
+XS2C Crimping/Soldering Socket Assemblies
+Dimensions
+(Unit: mm)
+45°
+45°
+5 dia.
+XS2C-@4C@ (Crimping Model)
+XS2C-@42@ (Soldering Model)
+Straight Connectors
+5 dia.
+M12
+M12
+14.9 dia.
+14.2 dia.
+43.2
+DC
+AC
+L-shaped Connectors
+45°
+45°
+5 dia.
+31.8
+5 dia.
+M12
+M12
+14.9 dia.
+23
+DC
+AC
+Ordering Information
+Suitable cable dia.
+(mm)
+Cable connection 
+direction
+Connection method
+DC
+AC
+Minimum order
+Model
+Model
+Straight
+Crimping
+XS2C-D4C1
+XS2C-A4C1
+Soldering
+XS2C-D421
+XS2C-A421
+6-mm-dia. model 
+(5 to 6 mm dia.)
+L-shaped
+Crimping
+XS2C-D4C2
+XS2C-A4C2
+Soldering
+XS2C-D422
+XS2C-A422
+Straight
+Crimping
+XS2C-D4C3
+XS2C-A4C3
+Soldering
+XS2C-D423
+XS2C-A423
+50
+4-mm-dia. model 
+(4 to 5 mm dia.)
+L-shaped
+Crimping
+XS2C-D4C4
+XS2C-A4C4
+Soldering
+XS2C-D424
+XS2C-A424
+Straight
+Crimping
+XS2C-D4C5
+XS2C-A4C5
+Soldering
+XS2C-D425
+XS2C-A425
+3-mm-dia. model 
+(3 to 4 mm dia.)
+L-shaped
+Crimping
+XS2C-D4C6
+XS2C-A4C6
+Soldering
+XS2C-D426
+XS2C-A426
+Note: Crimping plug contacts are sold separately.
+XS2U Crimping Pin for XS2C
+Dimensions
+(Unit: mm)
+Note: A special tool must be used for crimping. For details, refer to page 23.
+XS2U-222@ (Socket Pin)
+Dimensions
+Slit
+Model
+2 dia. 2.3 dia.
+C dia.
+Suitable 
+core size 
+(mm2)
+Dimension 
+(mm)
+No. of 
+slits
+A
+B
+C
+1.5
+XS2U-2221
+0.18 to 0.3
+16.7
+6.1
+0.8
+1
+XS2U-2222
+0.5 to 0.75
+16.8
+6.2
+1.3
+0
+B
+A
+Ordering Information
+Suitable core size 
+(mm2)
+Model
+Minimum order
+0.18 to 0.3
+XS2U-2221
+100
+0.5 to 0.75
+XS2U-2222
+Note: Orders are accepted in multiples of the minimum order.
+14
+
+XS2
+XS2G Screw-on Plug Assemblies
+Dimensions
+(Unit: mm)
+XS2G-D5S7 (5-pole, Straight, Applicable Cable Outer Diameter: 8 mm)
+XS2G-D5S9 (5-pole, Straight, Applicable Cable Outer Diameter: 7 mm)
+XS2G-D4S7 (4-pole, Straight, Applicable Cable Outer Diameter: 8 mm)
+XS2G-D4S9 (4-pole, Straight, Applicable Cable Outer Diameter: 7 mm)
+58.7
+16 dia.
+20 dia. 14.9 dia.
+XS2G-D5S1 (5-pole, Straight, Applicable Cable Outer Diameter: 6 mm)
+XS2G-D4S@ (4-pole, Straight, Applicable Cable Outer Diameter: 3, 4, or 6 mm)
+58.7
+M12 × 1
+14 dia.
+20 dia.
+14.9 dia.
+XS2G-D5S2 (5-pole, L-shaped, Applicable Cable Outer Diameter: 6 mm)
+XS2G-D4S@ (4-pole, L-shaped, Applicable Cable Outer Diameter: 3, 4, or 6 mm)
+39.7
+M12 × 1
+20 dia.
+14.9 dia.
+39.6
+14 dia.
+Ordering Information
+No. of poles
+Suitable cable dia. (mm)
+Straight connectors (for DC) L-shaped connectors (for DC) Minimum order
+Model
+Model
+5
+8-mm-dia. model (7 to 8 mm dia.)
+XS2G-D5S7
+---
+7-mm-dia. model (6 to 7 mm dia.)
+XS2G-D5S9
+---
+6-mm-dia. model (5 to 6 mm dia.)
+XS2G-D5S1
+XS2G-D5S2
+50
+4
+8-mm-dia. model (7 to 8 mm dia.)
+XS2G-D4S7
+---
+7-mm-dia. model (6 to 7 mm dia.)
+XS2G-D4S9
+---
+6-mm-dia. model (5 to 6 mm dia.)
+XS2G-D4S1
+XS2G-D4S2
+4-mm-dia. model (4 to 5 mm dia.)
+XS2G-D4S3
+XS2G-D4S4
+3-mm-dia. model (3 to 4 mm dia.)
+XS2G-D4S5
+XS2G-D4S6
+Note: XS2G Screw-on Plugs cannot be connected to side by side to the CN1 and CN2 connectors of XS2R Y-Joint Sockets/Plugs.
+15
+
+XS2
+XS2C Screw-on Socket Assemblies
+Dimensions
+(Unit: mm)
+XS2C-D5S7 (5-pole, Straight, Applicable Cable Outer Diameter: 8 mm)
+XS2C-D5S9 (5-pole, Straight, Applicable Cable Outer Diameter: 7 mm)
+XS2C-D4S7 (4-pole, Straight, Applicable Cable Outer Diameter: 8 mm)
+XS2C-D4S9 (4-pole, Straight, Applicable Cable Outer Diameter: 7 mm)
+54.9
+20 dia. 14.9 dia.
+16 dia.
+XS2C-D5S1 (5-pole, Straight, Applicable Cable Outer Diameter: 6 mm)
+XS2C-D4S@ (4-pole, Straight, Applicable Cable Outer Diameter: 3, 4, or 6 mm)
+54.9
+M12 × 1
+20 dia.
+14.9 dia.
+14 dia.
+XS2C-D5S2 (5-pole, L-shaped, Applicable Cable Outer Diameter: 6 mm)
+XS2C-D4S@ (4-pole, L-shaped, Applicable Cable Outer Diameter: 3, 4, or 6 mm)
+35.9
+M12 × 1
+20 dia.
+14.9 dia.
+39.6
+14 dia.
+Ordering Information
+No. of poles
+Suitable cable dia. (mm)
+Straight connectors (for DC)
+L-shaped connectors (for DC) Minimum order
+Model
+Model
+5
+8-mm-dia. model (7 to 8 mm dia.)
+XS2C-D5S7
+---
+7-mm-dia. model (6 to 7 mm dia.)
+XS2C-D5S9
+---
+6-mm-dia. model (5 to 6 mm dia.)
+XS2C-D5S1
+XS2C-D5S2
+50
+4
+8-mm-dia. model (7 to 8 mm dia.)
+XS2C-D4S7
+---
+7-mm-dia. model (6 to 7 mm dia.)
+XS2C-D4S9
+---
+6-mm-dia. model (5 to 6 mm dia.)
+XS2C-D4S1
+XS2C-D4S2
+4-mm-dia. model (4 to 5 mm dia.)
+XS2C-D4S3
+XS2C-D4S4
+3-mm-dia. model (3 to 4 mm dia.)
+XS2C-D4S5
+XS2C-D4S6
+16
+
+XS2
+XS2P Panel-mounting Sockets for Terminal Boxes
+Dimensions
+(Unit: mm)
+XS2P-@421-2 (with Solder Cup Pins)
+Rear Lock Model
+M16 × 1
+Panel
+Rubber bushing
+M12
+M12
+20 dia.
+14.6 dia.
+7
+2.5
+DC
+AC
+7.8
+20.5
+24
+XS2P-@422-1 (with DIP Pins)
+XS2P-@422-2 (with Solder Cup Pins)
+Front Lock Model
+Panel
+M16 × 1
+Rubber bushing
+Panel
+M16 × 1
+Rubber bushing
+5 dia.
+M12
+M12
+2 dia.
+14 dia.
+14 dia.
+20 dia.
+16 dia.
+6
+7
+7
+17
+2.5
+20.5
+DC
+AC
+24
+8.7
+17
+23.5
+27
+With Solder Cup Pins
+With DIP Pins
+Panel Cutout
+PCB-mounting Dimensions
+7+0.1 
+0  
+16+0.15 
+0    dia.
+5
+Land
+5
+Four, 2.2-dia.holes
+24 min.
+24 min.
+Note: The panel thickness is 1 to 4 mm.
+Ordering Information
+Lock method
+Pin shape
+DC
+AC
+Minimum order
+Model
+Model
+Rear lock
+Solder cup pin
+XS2P-D421-2
+XS2P-A421-2
+50
+Front lock
+Solder cup pin
+XS2P-D422-2
+XS2P-A422-2
+DIP pin
+XS2P-D422-1
+XS2P-A422-1
+17
+
+XS2
+XS2R Y-Joint Plug/Socket Connectors
+Dimensions
+(Unit: mm)
+XS2R-D426-@11-F
+Connectors on Both Cable Ends (Y-Joint Plug/Socket)
+Wiring Diagram
+45.5
+15.0
+4.6 dia.
+CN2
+CN2
+6 dia.
+1
+4 3
+2
+18.0
+35.0
+1
+4
+3
+2
+1
+4
+3
+2
+1
+4 3
+2
+CN1
+CN1
+44.7
+1
+2
+3
+4
+4
+3
+2
+1
+1
+2
+3
+4
+Blue marking
+8.5
+13.6
+L
+XS2R-D426-@10-F
+Connectors on One Cable End (Y-Joint Plug/Socket)
+Wiring Diagram
+15.0
+45.5
+CN2
+4.6 dia.
+CN2
+1
+2
+3
+4
+Black
+6 dia.
+1
+4 3
+2
+Blue
+White
+18.0
+35.0
+Brown
+CN1
+1
+4 3
+2
+CN1
+Blue marking
+5
+8.5
+13.6
+30
+1
+2
+3
+4
+50
+L
+XS2R-D426-1
+Y-Joint Plug/Socket without Cable
+Wiring Diagram
+XS2R-D426-1
+XS2R-D426-5
+CN2
+CN2
+4
+3
+2
+1
+4
+3
+2
+1
+27
+7
+15
+4.5 dia.
+CN2
+CN1
+CN0
+CN1
+CN0
+4
+3
+2
+1
+1
+4
+3
+2
+CN0
+24.5
+4
+3
+2
+1
+4
+3
+2
+1
+4
+3
+2
+1
+(37)
+18
+1 4
+2
+XS2R-D426-81
+XS2R-D426-82
+3
+2
+1 4
+3
+2
+1
+4
+3
+12.5
+CN1
+CN2
+CN2
+58.3
+4
+3
+2
+1
+4
+3
+2
+1
+Blue marking
+CN1
+CN0
+CN1
+CN0
+ 
+4
+3
+2
+1
+4
+3
+2
+1
+4
+3
+2
+1
+4
+3
+2
+1
+Ordering Information
+Type
+Connector
+DC
+Cable length L (m)
+Model
+Minimum order
+0.5
+XS2R-D426-B11-F
+With cable
+Connectors on both cable ends
+5
+1
+XS2R-D426-C11-F
+2
+XS2R-D426-D11-F
+3
+XS2R-D426-E11-F
+Connector on one cable end
+2
+XS2R-D426-D10-F
+5
+XS2R-D426-G10-F
+XS2R-D426-1
+Without cable
+Y-Joint plug/socket 
+---
+10
+XS2R-D426-5
+XS2R-D426-81
+XS2R-D426-82
+Note: XS2G Screw-on Plugs cannot be connected side-by-side to the CN1 and CN2 connectors. 
+Consider using a crimping or soldering model instead. Refer to page 13 for details.
+18
+
+XS2
+XS2R T-Joint Plug/Socket Connectors
+Dimensions
+(Unit: mm)
+Wiring Diagram
+XS2R-D422-1
+A (Female)
+B (Female)
+XS2R-D422-1
+XS2R-D422-5
+Aggregate Models
+4
+4
+3
+3
+50.6
+2
+2
+24.6
+M12
+1
+1
+14.6 dia.
+A
+B
+1
+2
+3
+4
+C (Male)
+C
+29
+M12
+XS2R-D422-5
+A (Female)
+B (Female)
+4
+4
+3
+3
+2
+2
+1
+1
+1
+2
+3
+4
+C (Male)
+50.6
+A (Male)
+B (Male)
+XS2R-D423-1
+Bifurcated Model
+Wiring Diagram
+24.6
+4
+4
+3
+3
+A
+B
+2
+2
+1
+1
+M12
+C
+29
+1
+2
+3
+4
+C (Female)
+14.6 dia.
+M12
+50.6
+XS2R-D424-1
+Daisy-chain Model
+Wiring Diagram
+A (Female)
+B (Male)
+24.6
+M12
+4
+4
+3
+3
+14.6 dia.
+A
+B
+2
+2
+1
+1
+M12
+C
+29
+1
+2
+3
+4
+C (Female)
+Ordering Information
+Type
+DC
+Model
+Minimum order
+Aggregate model
+XS2R-D422-1
+20
+XS2R-D422-5
+Bifurcated model
+XS2R-D423-1
+Daisy-chain model
+XS2R-D424-1
+19
+
+XS2
+XS2R Application Examples
+XS2R-D422-1 (Aggregate Model)
+Sensor
+Sensor
+XS2R-D422-1
+XS2G/XS2H
+XS2G/XS2H
+A
+B
+• A pair of Two-wire Sensors or 
+Three-wire Sensors can be 
+connected as shown in the 
+illustration.
+• The XS2R-D422-5 has feedthrough 
+connections, thus working as a 
+connector for the extension cable.
+C
+Photoelectric sensor
+Photoelectric sensor
+XS2W/XS2F/XS2C
+XS2R-D423-1 (Bifurcated Model)
+XS2R-D423-1
+XS2W/XS2F/XS2C
+XS2W/XS2F/XS2C
+A
+B
+• Two or Three-wire Sensor signals 
+can be bifurcated.
+C
+Proximity sensor
+XS2G/XS2H
+PLC (A)
+PLC (B)
+Sensor
+XS2R-D424-1 (Daisy Chain Model)
+A
+B
+A
+B
+A
+B
+C
+C
+C
+• Two-wire Sensors with contact 
+output can be connected through a 
+daisy chain to obtain AND output.
+Sensor1
+Sensor2
+Sensor3
+Sensor2
+Safety Precautions
+Precautions for Correct Use
+Do not use this product under ambient conditions that exceed 
+the ratings.
+Before using the XS2R for Sensors, make sure that the wiring 
+of the Sensors and the internal connections of the XS2R are 
+correct.
+20
+
+XS2
+XS2M Sensor-embedded Plugs
+Dimensions
+(Unit: mm)
+Mounted Dimensions
+XS2M-D421 (DC)
+XS2M-A421 (AC)
+(Embedded Plug with Screw Threads)
+Resin
+filled
+6.5 M12
+O-ring
+45°
+45°
+5 dia.
+5 dia.
+9.45+0.05 
+−0
+dia.
+10.5 dia.
+9.4 dia.
+8 dia.
+1.2
+4
+0.7
+DC
+AC
+10
+6.7 min.
+16
+Note: After mounting, anchor the solder cups 
+by injecting resin.
+Mounted Dimensions
+XS2M-D422 (DC)
+XS2M-A422 (AC)
+(Embedded Plug without Screw Threads)
+15.7 min.
+Resin
+filled
+9.6 dia.O-ring
+45°
+45°
+5 dia.
+5 dia.
+9.45+0.05 
+−0
+dia.
+10.5 dia.
+9.4 dia.
+DC
+AC
+10.8
+1.2
+1.5
+6.5
+0.7
+16
+M12 × 1
+Note: After mounting, anchor the solder cups 
+by injecting resin.
+XS2M Panel-mounting Plugs
+Dimensions
+(Unit: mm)
+Panel Cutouts
+6.5
+M12 Rubber bushing
+45°
+45°
+XS2M-D423 (For DC)
+XS2M-A423 (For AC)
+(Flange-mounting Model)
+1.5
+5 dia.
+5 dia.
+2.5 dia.
+10+1  
+0
+Four, 
+3.2 dia.
+3.2 dia.
+14
+20
+20
+14
+10.5 dia.
+9.4 dia.
+14±0.1
+10
+21
+16
+0.7
+14
+20
+14
+20
+21 min.
+14±0.1
+DC
+AC
+Panel Cutouts
+7+0.2 
+0  
+16+0.3 
+0  dia.
+XS2M-@424-1 (With DIP Pins)
+XS2M-@424-2 (With Solder Cup Pins)
+(Screw-mounting Model)
+Rubber bushing
+Panel
+1.5
+2 dia.
+5 dia.
+M16 × 1
+M12 × 1
+24 min.
+20 dia.
+16 dia.
+Note: The panel thickness is 1 to 4 mm.
+PCB-mounting Dimensions
+5
+17
+Land
+3
+2.5
+9
+3.5
+1.5
+7
+7
+DC
+AC
+5
+6.5
+6.8
+8.7
+27.7
+24 min.
+Four, 
+2.2-dia. holes
+21
+
+XS2
+Ordering Information
+Mounting method
+Pin shape
+DC
+AC
+Minimum order
+Model
+Model
+Embedded with screw threads
+Solder cup pin
+XS2M-D421
+XS2M-A421
+50
+Embedded with no screw threads
+XS2M-D422
+XS2M-A422
+Flange-mounting
+XS2M-D423
+XS2M-A423
+Screw-mounting
+DIP pin
+XS2M-D424-1
+XS2M-A424-1
+Solder cup pin
+XS2M-D424-2
+XS2M-A424-2
+Connector Covers
+XS2Z-11
+M12 male screw
+Water-resistive Covers
+XS2Z-11
+M12
+XS2Z-22
+M12
+M12 × 1.0 female screw (thread bracket)
+XS2Z-22
+The Water-resistive Cover ensures IP67. 
+When mounting the Water-resistive Cover 
+to a Connector, be sure to apply a torque 
+range between 0.39 and 0.49 N·m to 
+tighten the Water-resistive Cover.
+Model
+Minimum order
+Material
+Suitable connector
+Model
+Mounting portion
+XS2G/XS2H/XS2M/XS2R/XS2W/XS5H/
+XS5M/XS5W
+M12 male screw
+XS2Z-11
+50
+Brass/nickel plated
+XS2Z-22
+XS2C/XS2R/XS2F/XS2P/XS2W/XW3B/
+XS5F/XS5W/XS5R/XS5P/XW3D
+M12 female screw (thread bracket)
+XS2Z-13
+M12 male screw
+Dust Covers
+XS2Z-13
+XS2Z-15
+XS2Z-14
+M12 female screw (thread bracket)
+XS2Z-15/XS2Z-14
+The Dust Cover is for dust prevention and 
+does not ensure IP67 degree of protection. 
+When mounting the Dust Cover to a 
+connector, be sure to press the Dust Cover 
+onto the Connector until the Connector is 
+fully inserted into the Dust Cover.
+Pin block (female pins)
+Model
+Minimum order
+Material
+Suitable connector
+Model
+Mounting portion
+XS2Z-13
+50
+Rubber/black
+XS2G/XS2H/XS2M/XS2R
+M12 male screw
+XS2Z-14
+XS2C/XS2R/XS2F/XS2P/
+XW3A/XW3B
+Pin block (female pins)
+XS2Z-15
+M12 female screw (thread bracket)
+XS2Z-31
+M12 female screw (thread bracket)
+Sputter Protective Cover
+XS2Z-31
+The Sputter Protective Cover protects the 
+connector from weld sputter.
+Make sure it covers the entire connector.
+Pin block (female contact)
+Model
+Material
+Applicable connector
+XS2Z-31
+Silicone rubber/black
+XS2F/XS2H/XS2W
+22
+
+XS2
+Tools
+Tool in open position 
+Crimp Tool
+XY2F-0002
+Locator
+XY2F-0003
+Tool in closed  
+position 
+ 
+ 
+R
+A
+E
+N
+N
+D
+ 
+O
+N
+S
+I
+R
+I
+ 
+ 
+T
+A
+T
+O
+O
+I
+L
+T
+ 
+T
+L
+S
+°
+ 
+A
+ 
+0
+ 
+O
+T
+ 
+T
+9
+ 
+E
+O
+ 
+ 
+P
+E
+ 
+S
+ 
+I
+ 
+ 
+R
+ 
+A
+E
+9
+O
+R
+H
+T
+0
+T
+2
+A
+°
+S
+1
+A
+T
+ 
+3
+T
+E
+U
+T
+ 
+ 
+8
+O
+P
+O
+4
+ 
+R
+I
+SEL. 
+NO. 
+N
+S
+7
+T
+5
+A
+L
+L
+6
+ 
+ 
+XY2F-0002
+Crimp Tool
+Selector dial
+(Set to 8.)
+Locator guide 
+Use the Crimp Tool to crimp a cable core to the XS2U 
+Crimping Pin used with the XS2C or XS2G Crimping 
+Connector.
+XY2F-0003 Locator 
+• The XY2F-0002 Crimp Tool is DMC's AFM8 (M22520/2-
+01).
+• Mount the XY2F-0003 Locator (sold separately) to the 
+locator guide of the Crimp Tool with a screw provided with 
+the XY2F-0003 Locator.
+Pin-block Extraction Tool
+XY2F-0001
+Use this tool to extract a Pin Block from the covers in order to 
+make wiring changes or corrections after the cover has been 
+mounted to the pin block for Connector Assemblies (XS2C/
+XS2G, soldering/crimping). 
+Extraction Procedure
+• Make sure that the pin block is outside the Tool.
+(1) Disconnecting Components
+• Disconnect all components on the cap side from the cover.
+Tool
+Pin block
+Pin block
+Cover
+Rubber
+bushing
+Cable clamp Cap
+Guide
+Cover
+Cover
+• Press the Tool so that the guides of the Tool are in close 
+contact. Then pull the pin block straight.
+Pin block
+Guide
+(2) Extracting Pin Block
+• Insert the claws of the Tool into the four holes of the cover.
+Holes
+Extracting
+direction
+Precaution
+Claws
+• The pin block must not be extracted from the same 
+Connector more than 3 times, otherwise the proper degree 
+of protection of the pin block or Connector will not be 
+maintained.
+23
+
+XS2
+Assembly Procedure for XS2C/XS2G Connector Assemblies
+(3) Wiring (Processing Cable Ends)
+Soldering Connectors
+4
+6
+6±0.5 *A
+(1) Connector and Cable External Diameters
+• Connectors for 6-, 4-, and 3-mm-diameter Cables (i.e., 
+Cables that are 5 to 6, 4 to 5, and 3 to 4 mm in diameter 
+respectively) are available. When assembling a Connector 
+used with a cable, make sure that the external diameter of 
+the Connector is suited to that of the cable.
+• Connectors for 6-mm-diameter Cables use white cable 
+clamps. Connectors for 4- and 3-mm-diameter Cables use 
+black cable clamps.
+A watertight bushing for 6-mm-diameter Cable has no 
+stripe, that for 4-mm-diameter Cable has a single stripe, and 
+that for 3-mm-diameter Cable has two stripes.
+Note: When connecting a commercially available cable to a connector 
+assembly, use a cable with an outside diameter of 3 to 6 mm and core 
+sizes of 0.18 to 0.75 mm2 for crimping connectors and 0.5 mm2 maximum 
+for soldering connectors.
+(2) Component Insertion
+• Strip 10 mm of the Cable sheath and 4 mm of each core.
+• Before soldering cores and solder cup pins together, solder-
+coat each of them.
+• The following conditions are recommended for soldering 
+each solder cup pin.
+Soldering iron: 30 to 60 W
+Soldering temperature: 280°C to 340°C
+Soldering period: 3 s max.
+• The length marked *A should be 6.5 mm max., otherwise 
+the proper degree of protection of the connector will not be 
+maintained.
+Crimping/Soldering Connectors
+Crimping Connectors
+Straight Connectors
+Crimping
+Cover
+Watertight
+bushing
+Cable
+clamp
+Cap
+4
+10−0 
+4
+L-shaped Connectors
+Ring (L-shaped models only) *
+Cable clamp Cap
+Watertight
+bushing
+Cover
+*A ring is not required for Screw-on Connectors.
+• As shown in the above illustration, connect the above 
+components to the Cable with its end processed.
+• Strip 14 mm of the Cable sheath and 4 mm of each core.
+• Make sure that each core is not damaged and its end 
+strands are not spread out.
+• Mount the XY2F-0003 Locator to XY2F-0002 Crimping 
+Tool, both of which are sold separately, and set the selector 
+dial of the Crimping Tool to 8.
+• After mounting the crimping pins to the Locator, fully insert 
+the cores to the crimping pins.
+• Squeeze the handle of the Crimp Tool to press-fit the cores 
+to the crimping pins.
+(Squeeze the handle firmly until the handle automatically 
+returns to the release position.)
+Screw-on Connectors
+Wiring
+Pin clamp
+Press
+Confirm that you have all of the required parts. 
+Cable clamp
+Cover
+Watertight
+bushing
+1 to 1.5
+Cap
+*2
+Ring *1
+Watertight bushing
+Cable clamp
+Cap
+• After press-fitting the cores to the pins, insert the pins into 
+the pin clamp as shown in the illustration. Then make sure 
+that the lead colors correspond to the pin clamp numbers 
+that are identical to the connector pin numbers.
+Cover
+Insulation caps and insulation tubes are included with 
+5-pole Connectors (XS2C-D5S@ and XS2G-D5S@).
+*1.Rings are not required with 7-mm and 8-mm cables.
+*2.Insert the waterproof bushing for 7-mm and 8-mm 
+cables in the direction shown in the diagram. 
+24
+
+XS2
+Insertion
+• Bend the cable as shown below, attached the enclosed 
+insulation cap, and then strip the other cores. 
+Pin Block
+Pin Clamp
+Key groove Key groove
+Key
+XS2C use
+XS2G use
+6±0.5
+Insulation cap
+• Connect the cores to pins 1 to 4.
+• Tentatively insert the pins to the pin block holes so that the 
+key on the pin block will coincide with the key groove on the 
+pin clamp. Then insert the cable along with the pin clamp.
+Screw-on Connectors
+Cable End Processing
+• Four-pole Connectors
+Connecting Shielded Cables to Five-pole Connectors
+• Place the insulation tub on the drain line of the shield and 
+connect ti to the terminal. 
+• Tighten the screw and then check visually to see if there is 
+insulation between the cores.
+Drain line
+8
+12
+Insulation tube
+12±0.5
+• Connect the cores to pins 1 to 4.
+• Loosen the screws on pins 1 to 4 and insert the cores 
+according to the pin numbers.
+*When tightening the screws, use the dedicated XW4Z-00B 
+Screwdriver that matches with the screw-slot dimensions.
+XW4Z-00B 
+Screwdriver
+• Use the special Screwdriver (XW4Z-00B) * and tighten the 
+screws securely so that the cores do not pull out (tightening 
+torque: 0.15 to 0.2 N·m).
+(4) Inserting Pin Block
+Pin Block
+(Soldering Model)
+Cover
+(Straight Model)
+• Five-pole Connectors
+• Strip the cable sheath for a total of 15 mm and strip the core 
+covering for 8 mm for the core to connect to pin 5.
+Lock spring
+O-ring
+8
+12
+Conductors for
+pins 1 to 4
+8
+7
+Triangle mark
+Positioning key 
+(triangle mark)
+Polarity key
+Conductors for
+pin 5
+(Crimping Model)
+(L-shaped Model)
+• Connect the core to pin 5 (in the center) first.
+• Insert the core from the side of the hold with the tab and 
+tighten the screw securely (tightening torque: Pins 1 to 4: 
+0.15 to 0.2 N·m, Pins 5: 0.03 to 0.05 N·m), and then cut off 
+the excess wire with wire cutters. 
+Screw
+Screw
+Special
+Screwdriver
+Special
+Screwdriver
+Tab
+• Mount the cover to the pin block so that the triangle mark on 
+the pin block will coincide with the triangle mark on the 
+cover.
+• If the cover is used for an L-shaped model, the relationship 
+between the position of the polarity key on the engaged side 
+and cable connection direction will be determined by the 
+direction in which the positioning key is inserted into the 
+cover, which can be rotated by 90°.
+• Fully insert the positioning key until the positioning key is 
+hidden by the casing.
+25
+
+XS2
+Safety Precautions
+Precautions for Correct Use
+Pin Block
+(Screw-mounting Connectors)
+Cover
+Triangle mark
+Pin block
+Cover lock
+Do not use the product in atmospheres or environments that 
+exceed product ratings.
+Tightening Cap (Connector Assemblies)
+1. Do not use pliers to tighten caps, otherwise the caps may 
+be damaged. Be sure to tighten each cap by hand within a 
+torque range between 0.39 and 0.49 N·m.
+2. If caps are not tightened securely, the Connectors may not 
+maintain their proper degree of protection (i.e., IP67) or the 
+caps may become loose due to vibration.
+• Align the triangular marks on the pin block and cover and 
+insert the pin block into the cover.
+• Press them together firmly (0.39 to 0.49 N·m) until the pin 
+block does not come out of the cover.
+(5) Mounting Cap
+• After mounting the cover to the pin block and the cover 
+snaps into place, tighten the cap securely by hand within a 
+torque of 0.39 and 0.49 N·m.
+Note: If the cap is not tighten securely enough, the degree of protection (IP67) 
+may not be maintained or vibration may cause the cap to become loose. 
+Do not tighten the cap with pliers or similar tools; they may damage the 
+cap.
+Connector Connection and Disconnection
+• When connecting or disconnecting Connectors, be sure to 
+hold the Connectors by hand. 
+• Do not hold the cable part when disconnecting Connectors.
+• Connectors mating with sockets must be fully inserted into 
+the sockets. Tighten the thread bracket carefully so that the 
+threads will not be damaged.
+• Fully tighten thread bracket within a torque range between 
+0.39 and 0.49 N·m and be sure that the threads of the 
+opposite parts are hidden by the thread bracket.
+• When disconnecting Connectors, be sure to loosen the 
+thread brackets first. Do not loosen the caps.
+• Thread brackets must be loosened in the cutout direction.
+Cap
+A
+Cutout
+Loosen
+• After fully tightening the cap, length A should be 
+approximately one of the following according to the cable 
+external diameter and the Connector model.
+Connector
+Cable external diameter (mm)
+6 mm
+5 mm
+4 mm
+3 mm
+For 6-mm-dia. cable
+1
+0
+---
+---
+For 4-mm-dia. cable
+---
+2
+1
+---
+Thread
+bracket
+For 3-mm-dia. cable
+---
+---
+2
+1
+(6) After Assembly
+• Confirm the insulation between cores after completing 
+assembly.
+Recommended Cables
+Degree of Protection
+• Do not impose external force continuously on the joints of 
+pin blocks and covers, otherwise the Connectors may not 
+keep its proper degree of protection (i.e., IP67).
+• The degree of protection of connectors (IP67) is not for a 
+fully watertight structure. Do not use them underwater.
+• Connectors are of resin mold construction. Do not impose 
+excessive force on them.
+When connecting a commercially available cable to a 
+connector assembly, use a cable with an outside diameter of 
+3 to 6 mm and core sizes of 0.18 to 0.75 mm2 for crimping 
+connectors and 0.5 mm2 maximum for soldering connectors.
+Setup
+• Do not make any cable bends near the base of the Unit.
+• Any bends made must have a minimum radius of 40 mm.
+Connector Arrangement
+For safety, when constructing a connection system between a 
+Sensor and panel with a connector, make sure that the 
+connector plug is on the Sensor side and the connector socket 
+is on the panel side (i.e., the female pins are located on the 
+power-supply side).
+Sensor Side
+Connecting Cable
+Panel Side
+(Power-supply Side)
+(Plug)
+(Socket)
+(Plug)
+(Socket)
+26
+
+ 
+Terms and Conditions of Sale
+ITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE PRODUCTS.
+BUYER ACKNOWLEDGES THAT IT ALONE HAS DETERMINED THAT THE
+PRODUCTS WILL SUITABLY MEET THE REQUIREMENTS OF THEIR
+INTENDED USE. Omron further disclaims all warranties and responsibility of
+any type for claims or expenses based on infringement by the Products or oth-
+erwise of any intellectual property right. (c) Buyer Remedy. Omron’s sole obli-
+gation hereunder shall be, at Omron’s election, to (i) replace (in the form
+originally shipped with Buyer responsible for labor charges for removal or
+replacement thereof) the non-complying Product, (ii) repair the non-complying
+Product, or (iii) repay or credit Buyer an amount equal to the purchase price of
+the non-complying Product; provided that in no event shall Omron be responsi-
+ble for warranty, repair, indemnity or any other claims or expenses regarding
+the Products unless Omron’s analysis confirms that the Products were prop-
+erly handled, stored, installed and maintained and not subject to contamina-
+tion, abuse, misuse or inappropriate modification. Return of any Products by
+Buyer must be approved in writing by Omron before shipment. Omron Compa-
+nies shall not be liable for the suitability or unsuitability or the results from the
+use of Products in combination with any electrical or electronic components,
+circuits, system assemblies or any other materials or substances or environ-
+ments. Any advice, recommendations or information given orally or in writing,
+are not to be construed as an amendment or addition to the above warranty.
+See http://www.omron247.com or contact your Omron representative for pub-
+lished information.
+14. Limitation on Liability; Etc. OMRON COMPANIES SHALL NOT BE LIABLE
+FOR SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+LOSS OF PROFITS OR PRODUCTION OR COMMERCIAL LOSS IN ANY
+WAY CONNECTED WITH THE PRODUCTS, WHETHER SUCH CLAIM IS
+BASED IN CONTRACT, WARRANTY, NEGLIGENCE OR STRICT LIABILITY.
+Further, in no event shall liability of Omron Companies exceed the individual
+price of the Product on which liability is asserted.    
+15. Indemnities. Buyer shall indemnify and hold harmless Omron Companies and
+their employees from and against all liabilities, losses, claims, costs and
+expenses (including attorney's fees and expenses) related to any claim, inves-
+tigation, litigation or proceeding (whether or not Omron is a party) which arises
+or is alleged to arise from Buyer's acts or omissions under these Terms or in
+any way with respect to the Products.   Without limiting the foregoing, Buyer (at
+its own expense) shall indemnify and hold harmless Omron and defend or set-
+tle any action brought against such Companies to the extent based on a claim
+that any Product made to Buyer specifications infringed intellectual property
+rights of another party. 
+16. Property; Confidentiality. Any intellectual property in the Products is the exclu-
+sive property of Omron Companies and Buyer shall not attempt to duplicate it
+in any way without the written permission of Omron. Notwithstanding any
+charges to Buyer for engineering or tooling, all engineering and tooling shall
+remain the exclusive property of Omron. All information and materials supplied
+by Omron to Buyer relating to the Products are confidential and proprietary,
+and Buyer shall limit distribution thereof to its trusted employees and strictly
+prevent disclosure to any third party. 
+17. Export Controls. Buyer shall comply with all applicable laws, regulations and
+licenses regarding (i) export of products or information; (iii) sale of products to
+“forbidden” or other proscribed persons; and (ii) disclosure to non-citizens of
+regulated technology or information.    
+18. Miscellaneous. (a) Waiver. No failure or delay by Omron in exercising any right
+and no course of dealing between Buyer and Omron shall operate as a waiver
+of rights by Omron. (b) Assignment. Buyer may not assign its rights hereunder
+without Omron's written consent. (c) Law. These Terms are governed by the
+law of the jurisdiction of the home office of the Omron company from which
+Buyer is purchasing the Products (without regard to conflict of law princi-
+ples).   (d) Amendment. These Terms constitute the entire agreement between
+Buyer and Omron relating to the Products, and no provision may be changed
+or waived unless in writing signed by the parties. (e) Severability. If any provi-
+sion hereof is rendered ineffective or invalid, such provision shall not invalidate
+any other provision. (f) Setoff. Buyer shall have no right to set off any amounts
+against the amount owing in respect of this invoice. (g) Definitions. As used
+herein, “including” means “including without limitation”; and “Omron Compa-
+nies” (or similar words) mean Omron Corporation and any direct or indirect
+subsidiary or affiliate thereof. 
+1.
+Offer; Acceptance. These terms and conditions (these "Terms") are deemed
+part of all quotes, agreements, purchase orders, acknowledgments, price lists,
+catalogs, manuals, brochures and other documents, whether electronic or in
+writing, relating to the sale of products or services (collectively, the "Products")
+by Omron Electronics LLC and its subsidiary companies (“Omron”). Omron
+objects to any terms or conditions proposed in Buyer’s purchase order or other
+documents which are inconsistent with, or in addition to, these Terms. 
+2.
+Prices; Payment Terms. All prices stated are current, subject to change with-
+out notice by Omron. Omron reserves the right to increase or decrease prices
+on any unshipped portions of outstanding orders. Payments for Products are
+due net 30 days unless otherwise stated in the invoice.
+3.
+Discounts. Cash discounts, if any, will apply only on the net amount of invoices
+sent to Buyer after deducting transportation charges, taxes and duties, and will
+be allowed only if (i) the invoice is paid according to Omron’s payment terms
+and (ii) Buyer has no past due amounts.
+4.
+Interest. Omron, at its option, may charge Buyer 1-1/2% interest per month or
+the maximum legal rate, whichever is less, on any balance not paid within the
+stated terms.
+5.
+Orders. Omron will accept no order less than $200 net billing. 
+6.
+Governmental Approvals. Buyer shall be responsible for, and shall bear all
+costs involved in, obtaining any government approvals required for the impor-
+tation or sale of the Products.
+7.
+Taxes. All taxes, duties and other governmental charges (other than general
+real property and income taxes), including any interest or penalties thereon,
+imposed directly or indirectly on Omron or required to be collected directly or
+indirectly by Omron for the manufacture, production, sale, delivery, importa-
+tion, consumption or use of the Products sold hereunder (including customs
+duties and sales, excise, use, turnover and license taxes) shall be charged to
+and remitted by Buyer to Omron.
+8.
+Financial. If the financial position of Buyer at any time becomes unsatisfactory
+to Omron, Omron reserves the right to stop shipments or require satisfactory
+security or payment in advance. If Buyer fails to make payment or otherwise
+comply with these Terms or any related agreement, Omron may (without liabil-
+ity and in addition to other remedies) cancel any unshipped portion of Prod-
+ucts sold hereunder and stop any Products in transit until Buyer pays all
+amounts, including amounts payable hereunder, whether or not then due,
+which are owing to it by Buyer. Buyer shall in any event remain liable for all
+unpaid accounts.
+9.
+Cancellation; Etc. Orders are not subject to rescheduling or cancellation
+unless Buyer indemnifies Omron against all related costs or expenses.
+10. Force Majeure. Omron shall not be liable for any delay or failure in delivery
+resulting from causes beyond its control, including earthquakes, fires, floods,
+strikes or other labor disputes, shortage of labor or materials, accidents to
+machinery, acts of sabotage, riots, delay in or lack of transportation or the
+requirements of any government authority. 
+11. Shipping; Delivery. Unless otherwise expressly agreed in writing by Omron:
+a. Shipments shall be by a carrier selected by Omron; Omron will not drop ship
+except in “break down” situations.
+b. Such carrier shall act as the agent of Buyer and delivery to such carrier shall
+constitute delivery to Buyer;
+c. All sales and shipments of Products shall be FOB shipping point (unless oth-
+erwise stated in writing by Omron), at which point title and risk of loss shall
+pass from Omron to Buyer; provided that Omron shall retain a security inter-
+est in the Products until the full purchase price is paid;
+d. Delivery and shipping dates are estimates only; and
+e. Omron will package Products as it deems proper for protection against nor-
+mal handling and extra charges apply to special conditions.
+12. Claims. Any claim by Buyer against Omron for shortage or damage to the
+Products occurring before delivery to the carrier must be presented in writing
+to Omron within 30 days of receipt of shipment and include the original trans-
+portation bill signed by the carrier noting that the carrier received the Products
+from Omron in the condition claimed.
+13. Warranties. (a) Exclusive Warranty. Omron’s exclusive warranty is that the
+Products will be free from defects in materials and workmanship for a period of
+twelve months from the date of sale by Omron (or such other period expressed
+in writing by Omron). Omron disclaims all other warranties, express or implied.
+(b) Limitations. OMRON MAKES NO WARRANTY OR REPRESENTATION,
+EXPRESS OR IMPLIED, ABOUT NON-INFRINGEMENT, MERCHANTABIL-
+Certain Precautions on Specifications and Use
+ADDRESS THE RISKS, AND THAT THE OMRON’S PRODUCT IS PROP-
+ERLY RATED AND INSTALLED FOR THE INTENDED USE WITHIN THE
+OVERALL EQUIPMENT OR SYSTEM.    
+2.
+Programmable Products. Omron Companies shall not be responsible for the
+user’s programming of a programmable Product, or any consequence thereof. 
+3.
+Performance Data. Data presented in Omron Company websites, catalogs
+and other materials is provided as a guide for the user in determining suitabil-
+ity and does not constitute a warranty. It may represent the result of Omron’s
+test conditions, and the user must correlate it to actual application require-
+ments. Actual performance is subject to the Omron’s Warranty and Limitations
+of Liability. 
+4.
+Change in Specifications. Product specifications and accessories may be
+changed at any time based on improvements and other reasons. It is our prac-
+tice to change part numbers when published ratings or features are changed,
+or when significant construction changes are made. However, some specifica-
+tions of the Product may be changed without any notice. When in doubt, spe-
+cial part numbers may be assigned to fix or establish key specifications for
+your application. Please consult with your Omron’s representative at any time
+to confirm actual specifications of purchased Product. 
+5.
+Errors and Omissions. Information presented by Omron Companies has been
+checked and is believed to be accurate; however, no responsibility is assumed
+for clerical, typographical or proofreading errors or omissions.
+1.
+Suitability of Use. Omron Companies shall not be responsible for conformity
+with any standards, codes or regulations which apply to the combination of the
+Product in the Buyer’s application or use of the Product. At Buyer’s request,
+Omron will provide applicable third party certification documents identifying
+ratings and limitations of use which apply to the Product. This information by
+itself is not sufficient for a complete determination of the suitability of the Prod-
+uct in combination with the end product, machine, system, or other application
+or use. Buyer shall be solely responsible for determining appropriateness of
+the particular Product with respect to Buyer’s application, product or system.
+Buyer shall take application responsibility in all cases but the following is a
+non-exhaustive list of applications for which particular attention must be given:
+(i)
+Outdoor use, uses involving potential chemical contamination or electrical
+interference, or conditions or uses not described in this document.
+(ii) Use in consumer products or any use in significant quantities.    
+(iii) Energy control systems, combustion systems, railroad systems, aviation
+systems, medical equipment, amusement machines, vehicles, safety equip-
+ment, and installations subject to separate industry or government regulations. 
+(iv) Systems, machines and equipment that could present a risk to life or prop-
+erty. Please know and observe all prohibitions of use applicable to this Prod-
+uct. 
+NEVER USE THE PRODUCT FOR AN APPLICATION INVOLVING SERIOUS
+RISK TO LIFE OR PROPERTY OR IN LARGE QUANTITIES WITHOUT
+ENSURING THAT THE SYSTEM AS A WHOLE HAS BEEN DESIGNED TO
+
+ 
+OMRON INDUSTRIAL AUTOMATION • THE AMERICAS HEADQUARTERS
+Schaumburg, IL USA • 847.843.7900 • 800.556.6766 • www.omron247.com
+OMRON ARGENTINA • SALES OFFICE
+Cono Sur • 54.11.4783.5300
+OMRON CANADA, INC. • HEAD OFFICE
+Toronto, ON, Canada • 416.286.6465 • 866.986.6766 • www.omron247.com
+OMRON CHILE • SALES OFFICE
+Santiago • 56.9.9917.3920
+OMRON ELECTRONICS DE MEXICO • HEAD OFFICE
+México DF • 52.55.59.01.43.00  • 001.800.556.6766 • mela@omron.com
+OTHER OMRON LATIN AMERICA SALES
+54.11.4783.5300
+OMRON ELECTRONICS DE MEXICO • SALES OFFICE
+Apodaca, N.L. • 52.81.11.56.99.20 • 001.800.556.6766 • mela@omron.com
+OMRON ELETRÔNICA DO BRASIL LTDA • HEAD OFFICE
+São Paulo, SP, Brasil • 55.11.2101.6300 • www.omron.com.br
+OMRON EUROpE B.V. • Wegalaan 67-69, NL-2132 JD, Hoofddorp, The Netherlands. • Tel: +31 (0) 23 568 13 00
+Fax: +31 (0) 23 568 13 88 • www.industrial.omron.eu 
+Cat. No. ����������������      0�/13       Note: Specifications are subject to change.          © 2013 Omron Electronics LLC                      Printed in U.S.A.
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Omron:  
+ 
+  XS2C-D421  XS2C-D422  XS2C-A4C1  XS2C-D424  XS2C-D4S1  XS2C-D4S3  XS2C-D4S4  XS2C-D5S7  XS2G-
+A421  XS2G-D423  XS2G-D425  XS2G-D4C3  XS2G-D4S2  XS2G-D4S3  XS2G-D4S7  XS2G-D5S7  XS2G-S005 
+XS2M-A421  XS2M-D422  XS2M-D423  XS2M-D424-2  XS2P-D421-2  XS2R-D422-1  XS2R-D423-1  XS2R-D427-5 
+XS2U-2221  XS2U-2222  XS2U-3121  XS2C-D5S2  XS2R-D426-81  XS2G-D421  XS2G-D422  XS2C-D423  XS2C-
+D425  XS2G-S003  XS2G-D424  XS2C-D5S9  XS2G-D4S9  XS2G-D5S2  XS2C-D4C2  XS2C-D4S9

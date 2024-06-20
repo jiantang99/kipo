@@ -1,0 +1,7470 @@
+Amphenol
+Series SJT
+     Series SJT
+VG 96912, Series 1 
+PAN 6433-2 
+JN 1003
+
+Ordering information
+Ordering example:
+SJT
+G
+06
+RT
+14-35
+P
+A
+014
+Series (p. 9, 15, 18)
+Surface treatment/
+Modifications
+014 
+– Standard surface treatment:
+SJT – Scoop proof
+ 
+(100% scoop-proof)
+ 
+Junior 
+ 
+  Nickel-plated, cadmium-plated, 
+olive green
+ 
+(Miniature version)
+ 
+ chromate coating
+ 
+ (conductive).
+ 
+Tri-Lock
+ 
+(Three pin bayonet coupling)
+ 
+  Other surface treatments upon 
+request.
+ 
+ With crimp, solder (hermet.),  
+GS dip solder, and wire wrap 
+contacts
+ 
+–  With connector modifications,  
+the modification designation is 
+shown here.   
+ 
+  In such cases, the surface 
+treatment is included in the 
+designation
+G – Grounding fingers
+ 
+(Grounding ring)
+ 
+ Modifications upon request.
+ 
+Only with design type 06 (p. 13)
+Design type (p. 10 to 22)
+Coding (p. 4)
+Coding of connectors is possible  
+with 5 angular positions of the main 
+guide groove:
+Normal position and angles A, B, C, D. 
+No specification for normal position 
+required.
+00 – Receptacle with square flange
+01 – Cable connecting plug
+06 – Plug
+07 –  Receptacle with single hole  
+mounting
+  I  – Receptacle with solder flange
+ 
+(only hermetic)
+Contact type
+P – Pin contact (PIN)
+Service class (p. 9, 15, 18)
+S – Socket contact (Socket)
+RT –  Moisture-proof version.  
+Rear removable crimp contacts. 
+Rear thread and teeth for  
+backshells. 
+Y 
+–  Hermetically sealed version.
+ 
+  Non-removable solder contacts 
+(pin contacts).
+Contact arrangement (p. 5-7)
+GS –  Moisture-proof version.  
+Rear removable contacts  
+for soldering into printed circuit 
+boards.
+WW –  Moisture-proof version.  
+Non-removable contacts  
+with wire-wrap connection. 
+The contact arrangements are listed  
+in the table and underneath the  
+corresponding contact arrangement 
+image. They consist of a double  
+designation (14-35), in which the first 
+of the two numbers always indicates 
+the size of shell.
+Backshells must be ordered separately using the order numbers shown on pages 26 and 27. 
+
+Table of Contents
+General information 
+1
+Technical Data 
+2-3
+Coding  
+4
+Contact arrangements 
+5-7
+Cross-reference table 
+8
+SJT RT (crimp connection) 
+9-14
+SJT Y (solder connection, hermetically sealed) 
+15-17
+SJT GS (PCB connection) 
+SJT WW (wire-wrap connection) 
+18-22
+Accessories 
+23-29
+Tools 
+30-31
+Assembly instructions 
+32-46
+Safety information
+Our products are constantly being developed and improved. Therefore, we reserve the right to change designs for 
+quality improvements, enhancements, or manufacturing needs. 
+All technical specifications concern connectors, which is equipment that cannot be disconnected or separated under 
+voltage.
+
+Plugs and receptacles in the SJT series
+• Contacts mechanically protected
+•  Grounding ring on plug (HF-tightness)
+• Three pin bayonet coupling
+• Non-interchangeable through coding
+• High contact density
+
+1
+General information
+These miniature circular connectors of the SJT series adhere to the VG 96912 standard.   
+They meet the requirements of specification PAN 6433-2, and have all essential features of connectors specified 
+according to MIL-C-38999. They feature 100% contact protection (scoop-proof), high contact density and  
+HF-tightness. 
+The Amphenol-Air LB SJT series are approved:
+as per VG 96912 under No. 332 (84) 
+as per PAN 6433-2 under DDP No. MP 466
+The environment-resistant connectors of this series are available with crimp contacts, dip solder contacts for printed 
+circuit boards, and wire-wrap contacts. In addition, the series contains hermetically sealed receptacles with solder 
+contacts.
+These connectors with three pin bayonet couplings are well-suited for new technologies in the industrial and military 
+sectors as well as aerospace applications, where size, weight and reliability are of crucial importance. 
+Amphenol-Air LB GmbH manufactures the SJT series at its plant in Saarlouis.
+Pin contact
+Gasket
+Contact retainer
+Grounding ring
+Socket contact
+Three lip seals
+Contact retainer 
+Sealing ring
+Receptacle  
+mounting flange
+Plug coupling ring
+Contact insert
+Sealing plug
+
+2
+Technical data
+Contact current load 
+Contact size
+Nominal current 
+A
+Test current 
+A
+Voltage drop at test current 
+mV max.
+Crimp contact
+Solder contact 
+(hermet.)
+Crimp contact
+Solder contact 
+(hermet.)
+Crimp contact
+Solder contact 
+(hermet.)
+ 
+22D 
+5 
+3 
+5 
+3 
+40 
+85
+ 
+20 
+7.5 
+5 
+7.5 
+5 
+35 
+60
+ 
+16 
+13 
+10 
+13 
+10 
+25 
+85
+ 
+12 
+23 
+17 
+23 
+17 
+25 
+85
+Operating voltage
+       
+Voltage class *
+Recommended max. operating  
+voltage at sea level
+Test voltage (eff.)
+15 000m 
+V 
+(coupled)
+20 000m 
+V 
+(coupled)
+30 000m 
+V 
+(coupled)
+AC voltage (eff.) 
+V
+DC voltage 
+V
+Sea level 
+V 
+(coupled or 
+disconnected)
+ 
+M 
+400 
+550 
+1300 
+800 
+800 
+800
+ 
+I 
+600 
+850 
+1800 
+1000 
+1000 
+1000
+ 
+II 
+900 
+1250 
+2300 
+1000 
+1000 
+1000
+* Contact arrangements are divided into the voltage classes M, I, and II, depending on contact distance and  size (pages 5, 6 and 7).
+Operating temperature/Insulation resistance
+Operating temperature
+Insulation resistance
+-65° C to 175° C 
+Moisture-proof version 
+(crimp contacts)
+5000 M Ω  
+at room temperature
+500 M Ω  
+at maximum temperature
+(= ambient temperature  
++ overheating due  
+to current)
+Hermetically sealed  
+version (solder contacts)
+5000 M Ω  
+at room temperature
+50 M Ω  
+at maximum temperature
+Contact resistance
+Contact size
+Stranded wire gauge 
+AWG
+Test current 
+A
+Contact resistance 
+m Ω max.
+ 
+ 
+28 
+1.5 
+46.7 
+ 
+ 
+26 
+2 
+32.0 
+ 
+22D 
+24 
+3 
+23.3 
+ 
+ 
+22 
+5 
+17.6
+ 
+ 
+24 
+3 
+18.0 
+ 
+20 
+22 
+5 
+12.4 
+ 
+ 
+20 
+7.5 
+8.8
+ 
+ 
+20 
+7.5 
+7.3 
+ 
+16 
+18 
+10 
+5.3 
+ 
+ 
+16 
+13 
+4.5
+ 
+12 
+14 
+17 
+2.5 
+ 
+ 
+12 
+23 
+2.0
+
+3
+Technical data
+Contact information
+Contact size
+Dimensions of crimp sleeves
+Strip length of conductor 
+mm
+Inner-Ø 
+mm
+Depth 
+mm
+min.
+max.
+ 
+22D 
+0.88 ± 0.03 
+3.6 
+3.5 
+4.0
+ 
+20 
+1.19 ± 0.03 
+5.3 
+5.6 
+6.4
+ 
+16 
+1.70 ± 0.03 
+5.3 
+5.6 
+6.4
+ 
+12 
+2.54 ± 0.05 
+5.3 
+5.6 
+6.4
+Connection data
+Insulation outer diameter
+Conductor cross-section 
+(mm2 copper cross-section)
+Strand type 
+ 
+Single wire X AWG
+Contact size
+Stranded wire 
+gauge  
+AWG
+mm min. *
+mm max.
+=^
+ 
+ 
+28 
+  0.09 
+  7 x 36 
+ 
+ 
+ 
+26 
+  0.15 
+  7 x 34 
+=^
+=^
+ 
+22D 
+24 
+  0.24 
+19 x 36 
+0.80 
+1.50 
+=^
+ 
+ 
+22 
+  0.38 
+19 x 34
+ 
+ 
+24 
+  0.24 
+19 x 36 
+=^
+=^
+ 
+20 
+22 
+  0.38 
+19 x 34 
+1.02 
+2.11 
+=^
+ 
+ 
+20 
+  0.62 
+19 x 32
+=^
+ 
+ 
+20 
+  0.62 
+19 x 32 
+=^
+ 
+16 
+18 
+  0.96 
+19 x 30 
+1.65 
+2.77 
+=^
+ 
+ 
+16 
+  1.23 
+19 x 29
+ 
+12 
+14 
+  1.94 
+19 x 27 
+2.46 
+3.61 
+=^
+ 
+ 
+12 
+  2.97 
+37 x 28 
+=^
+*) The minimum insulation diameter is necessary to ensure moisture protection.
+Coupling and decoupling
+Contact holding force
+Recommended  
+tightening torque  
+for backshells
+Shell size
+Decoupling
+Shell size
+Torque 
+Nm
+Contact size
+Contact holding force 
+(axial) N min.
+ 
+22D 
+40
+Coupling and 
+decoupling 
+ 
+Torque 
+Nm max.
+Torque 
+Nm min.
+ 
+20 
+60
+ 
+8 
+0.90 
+0.12
+ 
+8 
+4
+ 
+16 
+100
+} +0.5
+ 
+10 
+1.36 
+0.12
+ 
+10 
+6
+ 
+12 
+100
+ 
+12 
+1.81 
+0.23
+ 
+12 
+8
+ 
+14 
+2.26 
+0.46
+ 
+14 
+10
+Leak rate
+ 
+16 
+2.71 
+0.46
+ 
+16 
+10
+±1
+ 
+18 
+3.16 
+0.46
+ 
+18 
+13
+ Coupled connector 
+< 4.5 X 10-3 cm3/s
+ 
+at 2 bar
+ 
+20 
+3.62 
+0.69
+ 
+20 
+13
+ 
+22 
+4.07 
+0.80
+ 
+22 
+13
+ Hermetically sealed 
+1 X 10-7 cm3/s
+ connector 
+ at 1 bar
+}
+ 
+24 
+4.07 
+0.80
+ 
+24 
+13
+
+4
+Coding
+All connectors have five guide lugs and grooves. If polarization of connectors with the same size and same number 
+of contacts is necessary, this is achieved with different angular positions (A to D) of the contact insert in relation to the 
+main guide groove/lug, as seen in the figures below.
+Normal 
+Position
+Normal 
+Position
+Front view of receptacle
+Front view of plug
+Shell size
+Angular positions
+Normal position
+A
+B
+C
+D
+8
+95°
+77°
+–
+–
+113°
+ 
+10
+95°
+81°
+67°
+123°
+109°
+ 
+12
+95°
+75°
+63°
+127°
+115°
+ 
+14
+95°
+74°
+61°
+129°
+116°
+ 
+16
+95°
+77°
+65°
+125°
+113°
+ 
+18
+95°
+77°
+65°
+125°
+113°
+ 
+20
+95°
+77°
+65°
+125°
+113°
+ 
+22
+95°
+80°
+69°
+121°
+110°
+ 
+24
+95°
+80°
+69°
+121°
+110°
+Ordering information inside front cover 
+
+5
+Contact arrangements
+Overview
+Number of contacts per contact size
+Shell size
+Contact 
+arrangement
+Total number 
+of contacts
+Voltage 
+class *
+Contact 
+ arrangements 
+as per VG 96912
+22 D
+20
+16
+12
+ 
+8-35 
+6 
+6 
+ 
+ 
+ 
+M 
+•
+ 
+8-98 
+3 
+ 
+3 
+ 
+ 
+I 
+•
+8
+ 
+10-35 
+13 
+13 
+ 
+ 
+ 
+M 
+•
+ 
+10-98 
+6 
+ 
+6 
+ 
+ 
+I 
+•
+10
+ 
+12-8 
+8 
+ 
+8 
+ 
+ 
+I 
+•
+ 
+12-35 
+22 
+22 
+ 
+ 
+ 
+M 
+•
+12
+ 
+12-98 
+10 
+ 
+10 
+ 
+ 
+I 
+•
+ 
+14-5 
+5 
+ 
+ 
+5 
+ 
+II 
+•
+ 
+14-18 
+18 
+ 
+18 
+ 
+ 
+I 
+•
+ 
+14-19 
+19 
+ 
+19 
+ 
+ 
+I 
+•
+14
+ 
+14-35 
+37 
+37 
+ 
+ 
+ 
+M 
+•
+ 
+14-97 
+12 
+ 
+8 
+4 
+ 
+I 
+•
+ 
+16-6 
+6 
+ 
+ 
+ 
+6 
+I 
+•
+ 
+16-8 
+8 
+ 
+ 
+8 
+ 
+II 
+•
+ 
+16-26 
+26 
+ 
+26 
+ 
+ 
+I 
+•
+16
+ 
+16-35 
+55 
+55 
+ 
+ 
+ 
+M 
+•
+ 
+16-99 
+23 
+ 
+21 
+2 
+ 
+I 
+•
+ 
+18-11 
+11 
+ 
+ 
+11 
+ 
+II 
+•
+ 
+18-32 
+32 
+ 
+32 
+ 
+ 
+I 
+•
+18
+ 
+18-35 
+66 
+66 
+ 
+ 
+ 
+M 
+•
+ 
+20-11 
+11 
+ 
+ 
+ 
+11 
+I 
+•
+ 
+20-16 
+16 
+ 
+ 
+16 
+ 
+II 
+•
+ 
+20-35 
+79 
+79 
+ 
+ 
+ 
+M 
+•
+20
+ 
+20-39 
+39 
+ 
+37 
+2 
+ 
+I 
+ 
+20-41 
+41 
+ 
+41 
+ 
+ 
+I 
+•
+ 
+22-21 
+21 
+ 
+ 
+21 
+ 
+II 
+•
+ 
+22-35 
+100 
+100 
+ 
+ 
+ 
+M 
+•
+22
+ 
+24-19 
+19 
+ 
+ 
+ 
+19 
+I 
+•
+ 
+24-29 
+29 
+ 
+ 
+29 
+ 
+I 
+•
+ 
+24-35 
+128 
+128 
+ 
+ 
+ 
+M 
+•
+24
+ 
+24-61 
+61 
+ 
+61 
+ 
+ 
+I 
+•
+Contact arrangements in hermetically sealed design or with coaxial contacts upon request. 
+*See p. 2.
+Ordering information inside front cover
+
+6
+Contact arrangements
+Contact symbols:   12         16         20        22D
+The following images show the front view of the pin insert and the back of the socket insert.
+Image (contact arrangement)
+Contact arrangement 
+8-35
+8-98
+10-35
+10-98
+Number of contacts 
+6
+3
+13
+6
+Contact size 
+22 D 
+20
+22 D
+20
+Voltage class 
+M 
+I
+M 
+I
+Image (contact arrangement)
+Contact arrangement 
+12-8
+12-35
+12-98
+14-5
+Number of contacts 
+8
+22
+10
+5
+Contact size 
+20
+22 D
+20
+16
+Voltage class 
+I
+M 
+I
+II
+Image (contact arrangement)
+Contact arrangement 
+14-18
+14-19
+14-35
+14-97
+Number of contacts 
+18
+19
+37
+4/8
+Contact size 
+20
+20
+22 D
+16/20 
+Voltage class 
+I
+I
+M 
+I 
+Image (contact arrangement)
+Contact arrangement 
+16-6
+16-8
+16-26
+16-35
+Number of contacts 
+6
+8
+26
+55
+Contact size 
+12
+16
+20
+22 D
+Voltage class 
+I
+II
+I
+M 
+Contact arrangements in hermetically sealed design or with coaxial contacts upon request.
+Ordering information inside front cover
+
+7
+Contact arrangements
+Contact symbols:   12         16         20        22D
+The following images show the front view of the pin insert and the back of the socket insert.
+Image (contact arrangement)
+Contact arrangement 
+16-99
+18-11
+18-32
+18-35
+Number of contacts 
+2/21
+11
+32
+66
+Contact size 
+16/20
+16
+20
+22 D
+Voltage class 
+I 
+II
+I
+M 
+Image (contact arrangement)
+Contact arrangement 
+20-11
+20-16
+20-35
+20-39
+Number of contacts 
+11
+16
+79
+2/37
+Contact size 
+12
+16
+22 D
+16/20
+Voltage class 
+I
+II
+M 
+I 
+Image (contact arrangement)
+Contact arrangement 
+20-41
+22-21
+22-35
+24-19
+Number of contacts 
+41
+21
+100
+19
+Contact size 
+20
+16
+22 D
+12
+Voltage class 
+I
+II
+M 
+I
+Image (contact arrangement)
+Contact arrangement 
+24-29
+24-35
+24-61
+Number of contacts 
+29
+128
+61
+Contact size 
+16
+22 D
+20
+Voltage class 
+I
+M 
+I
+Contact arrangements in hermetically sealed design or with coaxial contacts upon request.
+Ordering information inside front cover
+
+8
+Cross-reference table
+  Connector
+Amphenol designation
+VG designation
+(VG 96912)
+PAN 6433-2
+SJT 00 RT 
+A 
+B
+  Receptacle with square 
+flange
+SJT 00 GS 
+– 
+–
+SJT 00 WW 
+– 
+–
+SJTP 00 RT 
+AA 
+–
+ Cable connecting plug
+SJT 01 RT 
+– 
+–
+SJT 06 RT 
+E 
+F
+  Plug 
+  Plug (HF-sealed)
+SJTG 06 RT 
+D 
+FG
+SJT 07 RT 
+B 
+A
+   Receptacle  
+for single hole mounting
+SJT 07 GS 
+– 
+–
+SJT 07 WW 
+– 
+–
+SJT 07 Y 
+– 
+–
+SJT IY 
+C 
+–
+   Receptacle  
+with solder flange
+  Backshell F
+39013
+F
+–
+  Backshell SQ
+42415
+L
+–
+ Strain release clamp
+10-476808
+G
+–
+  Protective cap
+For SJT 00 
+V1 
+A/B
+For SJT 06 
+V3 
+A/B
+For SJT 07 
+V2 
+A/B
+  Dummy
+10-476807
+W
+–
+
+9
+SJT series · Crimp connection
+The SJT series includes the following connectors with  
+back-mounted removable crimp contacts.
+These connectors are available as a moisture-proof version  
+(service class RT), with a thread and anti-rotation teeth for  
+attaching backshells (see p. 26 and 27). 
+Design features
+Shell
+SJT 00 RT 
+Receptacle with square flange
+–  Aluminum alloy
+–  Standard surface treatment: nickel-plated.  
+cadmium-plated olive green chromate coating;  
+conductive (see inside front cover)
+– 100% contact protection (scoop-proof)
+– Three pin bayonet coupling
+–  5 guide grooves and lugs 
+–  Coding from 5 angular positions of main guide groove
+– 4 shell designs
+– 9 shell sizes
+–  Grounding ring on plug SJTG 06 (360° HF-shielding)
+SJT 01 RT 
+Cable connecting plug
+Contact insert
+–  Plastic contact insert and contact retention system 
+–  Fluorosilicone sealing elements on plug and wiring sides
+– Lip seal on each pin contact
+–  Contact chamber identification on plug and wiring sides 
+–  Numerous contact arrangements with 3 to 128 contacts 
+SJT 06 RT 
+SJTG 06 RT 
+Plug 
+ 
+Plug (HF-sealed)
+Crimp contacts
+   Pin and socket contacts made of high-quality copper alloy
+   Hard gold plated contact surface
+   Contact sizes 12 to 22D for cables AWG 12 to 28
+   Pin and socket contacts removable from back side
+SJT 07 RT 
+Receptacle for single hole mounting
+
+10
+SJT series · Crimp connection
+Receptacle with square flange SJT 00 RT
+Ordering example:  SJT 00 RT 14-35 P 014   See inside front cover
+Receptacle with backshell F (see p. 26)       Receptacle with backshell SQ (see p. 26) 
+Backshells must be ordered separately. 
+Dimensions in mm
+QL
+S
+ø T
+U
+Thread Q
+FL
+M
+Shell size
+Ø A
+R
+max.
+± 0.4
+± 0.13
+max.
+max.
+Class 2 A
+UNEF
+0
+–0.13
++ 0.03
+–0.13
+Theoret.
+dimensions
+ 
+8 
+12.01 
+52 
+16.05 
+0.4375-28 
+56 
+15.1 
+20.6 
+3.05 
+27.2 
+ 
+10 
+14.99 
+52 
+16.05 
+0.5625-24 
+57 
+18.3 
+23.8 
+3.05 
+32.0 
+ 
+12 
+19.05 
+52 
+16.05 
+0.6875-24 
+57 
+20.6 
+26.2 
+3.05 
+35.2 
+ 
+14 
+22.23 
+52 
+16.05 
+0.8125-20 
+57 
+23.0 
+28.6 
+3.05 
+38.4 
+ 
+16 
+25.40 
+52 
+16.05 
+0.9375-20 
+58 
+24.6 
+31.0 
+3.05 
+41.5
+ 
+18 
+28.58 
+52 
+16.05 
+1.0625-18 
+58 
+27.0 
+33.3 
+3.05 
+44.7 
+ 
+20 
+31.75 
+52 
+15.29 
+1.1875-18 
+58 
+29.4 
+36.5 
+3.05 
+47.9 
+ 
+22 
+34.93 
+53 
+15.29 
+1.3125-18 
+58 
+31.8 
+39.7 
+3.05 
+51.1 
+ 
+24 
+38.10 
+54 
+15.29 
+1.4375-18 
+60 
+34.9 
+42.9 
+3.73 
+55.8 
+Assembly instructions p. 32 – 46.
+
+11
+SJT series · Crimp connection
+Cable connecting plug SJT 01 RT
+Ordering example:  SJT 01 RT 14-35 P 014   See inside front cover
+Cable connecting plug with 
+Cable connecting plug with 
+Cable connecting plug with 
+backshell F (see p. 26) 
+backshell SQ (see p. 26) 
+strain release clamp (see p. 27)
+ 
+Backshells and strain release clamp must be ordered separately.
+Dimensions in mm
+QL
+S
+Y
+ZL
+Thread Q
+FL
+M
+Shell size
+Ø A
+max.
+± 0.4
+± 0.4
+max.
+max.
+Class 2 A
+UNEF
+0
+–0.13
++ 0.03
+–0.13
+ 
+8
+12.01
+52
+16.05 
+0.4375-28 
+56
+20.6
+23.8
+48
+ 
+10
+14.99
+52
+16.05 
+0.5625-24 
+57
+23.8
+27.0
+48
+ 
+12
+19.05
+52
+16.05 
+0.6875-24 
+57
+26.2
+29.3
+48
+ 
+14
+22.23
+52
+16.05 
+0.8125-20 
+57
+28.6
+31.8
+54
+ 
+16
+25.40
+52
+16.05 
+0.9375-20 
+58
+31.0
+34.1
+54
+ 
+18
+28.58
+52
+16.05 
+1.0625-18 
+58
+33.3
+36.5
+54
+ 
+20
+31.75
+52
+15.29 
+1.1875-18 
+58
+36.5
+39.7
+57
+ 
+22
+34.93
+53
+15.29 
+1.3125-18 
+58
+39.7
+42.9
+57
+ 
+24
+38.10
+54
+15.29 
+1.4375-18 
+60
+42.9
+46.0
+59
+Assembly instructions p. 32 – 46.
+
+12
+SJT series · Crimp connection
+Plug SJT 06 RT
+Ordering example:  SJT 06 RT 14-35 S 014   See inside front cover
+Plug with backshell F (see p. 26)
+Plug with strain relief clamp (see p. 27) 
+Backshell and strain relief clamp must be ordered separately.
+Dimensions in mm
+ZL
+L
+Thread Q
+Shell size
+FL
+G
+J
+max.
+max.
+max.
+max.
+Class 2 A
+UNEF
++ 0.08
+- 0.05
+ 
+8
+52
+18.7
+15.09
+31
+0.4375-28
+48
+ 
+10
+52
+21.5
+15.09
+31
+0.5625-24
+48
+ 
+12
+52
+25.9
+15.09
+31
+0.6875-24
+48
+ 
+14
+52
+29.0
+15.09
+31
+0.8125-20
+55
+ 
+16
+52
+32.2
+15.09
+31
+0.9375-20
+55
+ 
+18
+52
+35.4
+15.09
+31
+1.0625-18
+55
+ 
+20
+52
+38.2
+15.09
+31
+1.1875-18
+58
+ 
+22
+53
+41.3
+15.09
+31
+1.3125-18
+58
+ 
+24
+54
+44.5
+15.09
+32
+1.4375-18
+59
+Assembly instructions p. 32 – 46.
+
+13
+SJT series · Crimp connection
+Plug SJTG 06 RT
+Ordering example:  SJTG 06 RT 14-35 S 014   See inside front cover
+Plug with backshell SQ (see p. 26) 
+Backshell must be ordered separately. 
+Dimensions in mm
+QL
+L
+Thread Q
+Shell size
+G
+J
+max.
+max.
+max.
+Class 2 A
+UNEF
++ 0.08
+- 0.05
+ 
+8
+18.7
+15.09
+31
+0.4375-28
+56
+ 
+10
+21.5
+15.09
+31
+0.5625-24
+57
+ 
+12
+25.9
+15.09
+31
+0.6875-24
+57
+ 
+14
+29.0
+15.09
+31
+0.8125-20
+57
+ 
+16
+32.2
+15.09
+31
+0.9375-20
+58
+ 
+18
+35.4
+15.09
+31
+1.0625-18
+58
+ 
+20
+38.2
+15.09
+31
+1.1875-18
+58
+ 
+22
+41.3
+15.09
+31
+1.3125-18
+58
+ 
+24
+44.5
+15.09
+32
+1.4375-18
+59
+Assembly instructions p. 32 – 46.
+
+14
+SJT series · Crimp connection
+Receptacle with single hole mounting SJT 07 RT
+Ordering example:  SJT 07 RT 14-35 P 014   See inside front cover
+Receptacle with backshell F (see p. 26) 
+Receptacle with backshell SQ (see p. 26) 
+Backshells must be ordered separately.
+Dimensions in mm
+Shell size
+Ø A
+D
+FL
+H
+J
+K
+Thread Q
+QL
+Thread R
+S
+max.
+max.
+± 0.4
+max.
+± 0.2
+max.
+± 0.3
++ 0.03
+- 0.13
+Class 2 A
+UNEF
+Class 2 A
+UNEF
+ 
+8 
+12.01 
+27.3 
+57 
+19.1 
+13.46 
+26.0 
+0.5625-24 
+62 
+0.5625-24 
+23.8 
+ 
+10 
+14.99 
+30.5 
+57 
+22.2 
+16.64 
+26.0 
+0.6875-24 
+63 
+0.6875-24 
+27.0 
+ 
+12 
+19.05 
+35.3 
+57 
+27.0 
+20.78 
+26.0 
+0.8125-20 
+63 
+0.8750-20 
+31.8 
+ 
+14 
+22.23 
+38.4 
+57 
+30.2 
+23.93 
+26.0 
+0.9375-20 
+63 
+1.0000-20 
+34.9 
+ 
+16 
+25.40 
+41.6 
+57 
+33.3 
+27.08 
+26.0 
+1.0625-18 
+64 
+1.1250-18 
+38.1
+ 
+18 
+28.58 
+44.8 
+58 
+36.5 
+30.25 
+26.8 
+1.1875-18 
+65 
+1.2500-18 
+41.3 
+ 
+20 
+31.75 
+49.6 
+58 
+39.7 
+33.43 
+26.8 
+1.3125-18 
+65 
+1.3750-18 
+46.0
+ 
+22 
+34.93 
+52.7 
+59 
+42.9 
+36.60 
+26.8 
+1.4375-18 
+65 
+1.5000-18 
+49.2
+ 
+24 
+38.10 
+55.9 
+59 
+46 
+39.78 
+26.8 
+1.4375-18 
+65 
+1.6250-18 
+52.4 
+Assembly instructions p. 32 – 46.
+
+15
+SJT series · Solder connection/hermetic
+In addition to removable crimp contacts, the SJT series includes 
+hermetically sealed receptacles of the service class Y.  
+The hermetically sealed receptacles are only available with 
+non-removable pin contacts and solder connection.
+Design features
+SJT 07 Y 
+Hermetically sealed receptacle 
+for single hole mounting
+– Steel shell, tin-plated.
+– 9 shell sizes
+– Contacts made of high-quality nickel alloy, tin-plated.
+– Compression glass insert.
+– Contacts are labeled on mating and termination face.
+Technical data
+See p. 2 and 3. 
+SJT IY 
+Hermetically sealed receptacle 
+with solder flange
+
+16
+SJT series · Solder connection/hermetic
+Hermetically sealed receptacle for single hole mounting SJT 07 Y
+Ordering example:  SJT 07 Y 14-19 P 
+See inside front cover
+Dimensions in mm
+S
+Thread R
+B
+D
+H
+J
+ø N
+Shell size
+Ø A
+± 0.3
+max.
+max.
+± 0.4
+max.
+Class 2 A
+UNEF
++ 0.28
+0
++ 0.03
+–0.13
+ 
+8
+12.01
+7.54
+27.3
+19.1
+13.46 
+16.31 
+0.5625-24 
+23.8
+ 
+10
+14.99
+7.54
+30.5
+22.2
+16.64 
+19.46 
+0.6875-24 
+27.0
+ 
+12
+19.05
+7.54
+35.3
+27.0
+20.78 
+22.66 
+0.8750-20 
+31.8
+ 
+14
+22.23
+7.54
+38.4
+30.2
+23.93 
+25.86 
+1.0000-20 
+34.9
+ 
+16
+25.40
+7.54
+41.6
+33.3
+27.08 
+29.01 
+1.1250-18 
+38.1
+ 
+18
+28.58
+8.33
+44.8
+36.5
+30.25 
+32.21 
+1.2500-18 
+41.3
+ 
+20
+31.75
+8.33
+49.6
+39.7
+33.43 
+35.36 
+1.3750-18 
+46.0
+ 
+22
+34.93
+8.33
+52.7
+42.9
+36.60 
+38.56 
+1.5000-18 
+49.2
+ 
+24
+38.10
+8.33
+55.9
+46.0
+39.78 
+41.71 
+1.6250-18 
+52.4
+Assembly instructions p. 32 – 46.
+
+17
+SJT series · Solder connection/hermetic
+Receptacle with solder flange SJT IY
+Ordering example:  SJT IY 14-19 P   See inside front cover
+Dimensions in mm
+L
+ø D
+C
+Ø B
+Shell size
+Ø A
++ 0.28
+0
++ 0.28
+–0.25
++ 0.15
+–0.13
++ 0.03
+–0.13
++ 0.03
+–0.13
+ 
+8
+12.01
+14.27
+3.18
+17.45
+20.04
+ 
+10
+14.99
+17.07
+3.18
+20.24
+20.04
+ 
+12
+19.05
+19.84
+3.18
+23.01
+20.04
+ 
+14
+22.22
+23.01
+3.18
+26.19
+20.04
+ 
+16
+25.40
+26.19
+3.18
+29.36
+20.04
+ 
+18
+28.57
+29.36
+3.18
+32.54
+20.04
+ 
+20
+31.75
+31.75
+3.18
+34.93
+20.04
+ 
+22
+34.92
+34.93
+3.96
+38.10
+20.85
+ 
+24
+38.10
+38.10
+3.96
+41.28
+20.85
+Assembly instructions p. 32 – 46.
+
+18
+SJT GS 
+PCB-connection
+The receptacles SJT 00 GS and SJT 07 GS for printed  
+circuit boards are identical to those of the service class RT 
+(see p. 9 and inside front cover), with the exception of the  
+contacts designed for soldering in rigid or flexible PCBs. 
+SJT 00 GS 
+Receptacle with PCB connection
+The pin and socket contacts are removable, and are delivered 
+with the receptacle. To mount these contacts, use the same  
+tools as for mounting crimp contacts (see p. 31). The necessary 
+contact bore holes are shown on pages 39 to 46. The images 
+show the front view of the pin insert in the normal position. 
+SJT WW 
+Wire-wrap connection
+SJT 07 GS 
+Receptacle with PCB connection
+The receptacles SJT 00 WW and SJT 07 WW are identical to 
+those of the service class RT (see p. 9 and inside front cover), 
+with the exception of pin and socket contacts designed for  
+wire-wrap connections, and are not removable. 
+The cross-section of the wire-wrap post is 0.6 x 0.6 mm, and 
+corresponds to the specifications in DIN 41611, Sheet 2.
+SJT 00 WW 
+Receptacle with wire-wrap 
+connection
+SJT 07 WW 
+Receptacle with wire-wrap 
+connection
+
+19
+SJT series · PCB connection
+Receptacle with square flange SJT 00 GS
+Ordering example:  SJT 00 RT 14-35 P 014 
+See inside front cover
+Position of contact bore holes p. 39 to 46. 
+Dimensions in mm
+S
+ø T
+U
+Thread Q
+M
+R
+Shell size
+Ø A
+Contact 
+size
+ø F
+± 0.05
+± 0.4
+± 0.13
+max.
+Class 2 A
+UNEF
+0
+- 0.13
+Theoret.
+dimensions
++ 0.03
+-0.13
+22 D 
+0.6
+ 
+8 
+12.01 
+16.05 
+0.4375-28 
+15.1 
+20.6 
+3.05 
+27.2
+ 
+20 
+0.8
+ 
+10 
+14.99 
+16.05 
+0.5625-24 
+18.3 
+23.8 
+3.05 
+32.0
+ 
+12 
+19.05 
+16.05 
+0.6875-24 
+20.6 
+26.2 
+3.05 
+35.2
+ 
+14 
+22.23 
+16.05 
+0.8125-20 
+23.0 
+28.6 
+3.05 
+38.4
+ 
+16 
+25.40 
+16.05 
+0.9375-20 
+24.6 
+31.0 
+3.05 
+41.5
+ 
+18 
+28.58 
+16.05 
+1.0625-18 
+27.0 
+33.3 
+3.05 
+44.7
+ 
+20 
+31.75 
+15.29 
+1.1875-18 
+29.4 
+36.5 
+3.05 
+47.9
+ 
+22 
+34.93 
+15.29 
+1.3125-18 
+31.8 
+39.7 
+3.05 
+57.1
+24 
+38.10 
+15.29 
+1.4375-18 
+34.9 
+42.9 
+        3.735 
+55.8
+Assembly instructions p. 32 – 46.
+
+20
+SJT series · PCB connection
+Receptacle with single hole mounting SJT 07 GS
+Ordering example:  SJT 07 GS 14-35 S 014   See inside front cover
+Position of contact bore holes p. 39 to 46.
+Dimensions in mm
+Shell size
+Ø A
+D
+H
+J
+K
+Thread Q
+Thread R
+S
+Contact type
+LI
+max.
+± 0.4
+max.
+± 0.2
+± 0.3
++ 0.03
+-0.13
+Class 2 A
+UNEF
+Class 2 A
+UNEF
+ 
+8 
+12.01 
+27.3 
+19.1 
+13.46 
+26.0 
+0.5625-24 0.5625-24 
+23.8
+ 
+Pin 
+19.50 ± 0.51
+ 
+10 
+14.99 
+30.5 
+22.2 
+16.64 
+26.0 
+0.6875-24 0.6875-24 
+27.0
+ 
+Socket 
+19.38 ± 0.57
+ 
+12 
+19.05 
+35.3 
+27.0 
+20.78 
+26.0 
+0.8125-20 0.8750-20 
+31.8
+ 
+14 
+22.23 
+38.4 
+30.2 
+23.93 
+26.0 
+0.9375-20 1.0000-20 
+34.9
+ 
+16 
+25.40 
+41.6 
+33.3 
+27.08 
+26.0 
+1.0625-18 1.1250-18 
+38.1
+ 
+18 
+28.58 
+44.8 
+36.5 
+30.25 
+26.8 
+1.1875-18 1.2500-18 
+41.3
+ 
+20 
+31.75 
+49.6 
+39.7 
+33.43 
+26.8 
+1.3125-18 1.3750-18 
+46.0
+ 
+22 
+34.93 
+52.7 
+42.9 
+36.60 
+26.8 
+1.4375-18 1.5000-18 
+49.2
+ 
+24 
+38.10 
+55.9 
+46.0 
+39.78 
+26.8 
+1.4375-18 1.6250-18 
+52.4
+Assembly instructions p. 32 – 46.
+
+21
+SJT series · Wire-wrap connection
+Receptacle with square flange SJT 00 WW
+Ordering example: SJT 00 WW 14-35 S 014 
+See inside front cover
+Dimensions in mm
+S
+ø T
+U
+Thread Q
+M
+Shell size
+Ø A
+R
+± 0.4
+± 0.13
+max.
+Class 2 A
+UNEF
+0
+- 0.13
++ 0.03
+- 0.13
+Theoret. 
+Dimensions
+ 
+8
+12.01
+16.05 
+0.4375-28 
+15.1
+20.6
+3.05
+27.2
+ 
+10
+14.99
+16.05 
+0.5625-24 
+18.3
+23.8
+3.05
+32.0
+ 
+12
+19.05
+16.05 
+0.6875-24 
+20.6
+26.2
+3.05
+35.2
+ 
+14
+22.23
+16.05 
+0.8125-20 
+23.0
+28.6
+3.05
+38.4
+ 
+16
+25.40
+16.05 
+0.9375-20 
+24.6
+31.0
+3.05
+41.5
+ 
+18
+28.58
+16.05 
+1.0625-18 
+27.0
+33.3
+3.05
+44.7
+ 
+20
+31.75
+15.29 
+1.1875-18 
+29.4
+36.5
+3.05
+47.9
+ 
+22
+34.93
+15.29 
+1.3125-18 
+31.8
+39.7
+3.05
+51.1
+ 
+24
+38.10
+15.29 
+1.4375-18 
+34.9
+42.9
+3.73
+55.8
+Assembly instructions p. 32 – 46.
+
+22
+SJT series · Wire-wrap connection
+Receptacle for single hole mounting SJT 07 WW
+Ordering example:  SJT 01 RT 14-35 P 014   See inside front cover
+Dimensions in mm
+S
+Thread R
+D
+H
+J
+K
+Thread Q
+Shell size
+Ø A
+± 0.3
+max.
+± 0.4
+max.
+± 0.2
+Class 2 A
+UNEF
+Class 2 A
+UNEF
++ 0.03
+–0.13
+ 
+8
+12.01
+27.3
+19.1
+13.46
+26.0 
+0.5625-24 
+0.5625-24 
+23.8
+ 
+10
+14.99
+30.5
+22.2
+16.64
+26.0 
+0.6875-24 
+0.6875-24 
+27.0
+ 
+12
+19.05
+35.3
+27.0
+20.78
+26.0 
+0.8125-20 
+0.8750-20 
+31.8
+ 
+14
+22.23
+38.4
+30.2
+23.93
+26.0 
+0.9375-20 
+1.0000-20 
+34.9
+ 
+16
+25.40
+41.6
+33.3
+27.08
+26.0 
+1.0625-18 
+1.1250-18 
+38.1
+ 
+18
+28.58
+44.8
+36.5
+30.25
+26.8 
+1.1875-18 
+1.2500-18 
+41.3
+ 
+20
+31.75
+49.6
+39.7
+33.43
+26.8 
+1.3125-18 
+1.3750-18 
+46.0
+ 
+22
+34.93
+52.7
+42.9
+36.60
+26.8 
+1.4375-18 
+1.5000-18 
+49.2
+ 
+24
+38.10
+55.9
+46.0
+39.78
+26.8 
+1.4375-18 
+1.6250-18 
+52.4
+Assembly instructions p. 32 – 46.
+
+Accessories
+23
+Dummy
+10-476807
+Dimensions in mm
+S
+ø T
+U
+M
+Shell size
+Order number
+Ø A
+R
+± 0.4
+± 0.13
+max.
+0
+- 0.13
++ 0.03
+- 0.13
+Theoret. 
+Dimensions
+ 
+8
+10-476807-89 
+12.01
+16.05
+15.1
+20.6
+3.05
+27.2
+ 
+10
+10-476807-109 
+14.99
+16.05
+18.3
+23.8
+3.05
+32.0
+ 
+12 
+10-476807-129 
+19.05
+16.05
+20.6
+26.2
+3.05
+35.2
+ 
+14 
+10-476807-149 
+22.23
+16.05
+23.0
+28.6
+3.05
+38.4
+ 
+16 
+10-476807-169 
+25.40
+16.05
+24.6
+31.0
+3.05
+41.5
+ 
+18 
+10-476807-189 
+28.58
+16.05
+27.0
+33.3
+3.05
+44.7
+ 
+20
+10-476807-209 
+31.75
+15.29
+29.4
+36.5
+3.05
+47.9
+ 
+22
+10-476807-229 
+34.93
+15.29
+31.8
+39.7
+3.05
+51.1
+ 
+24
+10-476807-249 
+38.10
+15.29
+34.9
+42.9
+3.73
+55.8
+Assembly instructions p. 32 – 46.
+
+24
+Accessories
+Crimp contacts
+Order number 
+Contact 
+size
+Socket contact
+Pin contact
+39587-003 
+39628-003
+ 
+22D
+ 
+M39029/58-360 
+M39029/56-348
+39585-003 
+39625-003
+ 
+20
+ 
+M39029/58-363 
+M39029/56-351
+39583-003 
+39622-003
+ 
+16
+ 
+M39029/58-364 
+M39029/56-352
+39581-003 
+39619-003
+ 
+12
+ 
+M39029/58-365 
+M39029/56-353
+GS dip solder contacts (for printed circuit boards)
+Order number
+Contact 
+size
+Design
+Socket contact
+Pin contact
+ 
+00 
+39833-003 
+39835-003
+ 
+22D
+ 
+07 
+50075-003 
+50076-003
+ 
+00 
+46279-003 
+46282-003
+ 
+20
+ 
+07 
+50077-003 
+50078-003
+Contact sizes 12 and 16 upon request 
+Sealing plug
+Order number
+Color code
+Contact 
+ size
+10-405996-221
+ 
+22D
+black
+MS 27488-221
+10-405996-201
+ 
+20
+red
+MS 27488-201
+10-405996-161
+ 
+16
+blue
+MS 27488-161
+10-405996-121
+ 
+12
+yellow
+MS 27488-121
+Assembly instructions p. 32 – 46.
+
+25
+Accessories
+Shell size
+Order number
+Dimensions in mm
+A ± 0.3
+ø B + 1
+C max.
+ø D ± 0.3
+ 
+8
+10-101949-8 
+15.1
+12.7
+22.7
+3.30
+ 
+10
+10-101949-10 
+18.3
+15.9
+25.8
+3.30
+ 
+12
+10-101949-12 
+20.6
+19.0
+28.2
+3.30
+ 
+14
+10-101949-14 
+23.0
+22.2
+30.6
+3.30
+ 
+16
+10-101949-16 
+24.6
+25.4
+33.0
+3.30
+ 
+18
+10-101949-18 
+27.0
+28.6
+35.4
+3.30
+ 
+20
+10-101949-20 
+29.4
+31.7
+38.5
+3.30
+ 
+22
+10-101949-22 
+31.8
+34.9
+41.7
+3.30
+ 
+24
+10-101949-24 
+34.9
+38.1
+44.9
+4.00
+Shell size
+Order number
+Dimensions in mm
+A ± 0.3
+ø B + 1
+C max.
+ø D ± 0.3
+ 
+8
+10-40450-8 S 
+15.1
+12.7
+22.7
+3.3
+ 
+10
+10-40450-10 S 
+18.3
+15.9
+25.8
+3.3
+ 
+12
+10-40450-12 S 
+20.6
+19.0
+28.2
+3.3
+ 
+14
+10-40450-14 S 
+23.0
+22.2
+30.6
+3.3
+ 
+16
+10-40450-16 S 
+24.6
+25.4
+33.0
+3.3
+ 
+18
+10-40450-18 S 
+27.0
+28.6
+35.4
+4.0
+ 
+20
+10-40450-20 S 
+29.4
+31.7
+38.5
+4.0
+ 
+22
+10-40450-22 S 
+31.8
+34.9
+41.7
+4.0
+ 
+24
+10-40450-24 S 
+34.9
+38.1
+44.9
+4.0
+Assembly instructions p. 32 – 46.
+
+26
+Accessories
+Backshell F
+39013
+(VG 96912 FXX)
+Dimensions in mm
+SW
+- 0.2
+Shell size
+Order number
+FA + 0.4
+- 0.6
+ø FC
+min.
+ø FD
+± 0.2
+ø FE
+± 0.2
+ø FG
+- 0.5
+Thread Q
+Class 2 B
+UNEF
+ 
+8 
+39013-071 
+12.0
+6.0
+15
+8.0
+9.0 
+.4375-28 
+13
+ 
+10 
+39013-072 
+12.0
+8.0
+18
+9.8 
+12.0 
+.5625-24 
+16
+ 
+12 
+39013-073 
+12.0 
+11.0
+21
+12.8 
+15.0 
+.6875-24
+19
+ 
+14 
+39013-074 
+12.0 
+14.4
+24
+16.1 
+18.3 
+.8125-20
+22
+ 
+16 
+39013-075 
+12.0 
+17.4
+27
+19.3 
+21.5 
+.9375-20
+25
+ 
+18 
+39013-076 
+12.0 
+19.8
+30
+21.8 
+24.0 
+1.0625-18 
+28
+ 
+20 
+39013-077 
+14.2 
+21.9
+34
+25.0 
+27.2 
+1.1875-18 
+32
+ 
+22 
+39013-078 
+14.2 
+25.2
+37
+27.3 
+30.5 
+1.3125-18 
+35
+ 
+24 
+39013-079 
+14.2 
+28.0
+40
+30.3 
+33.5 
+1.4375-18 
+38
+The backshell F is used for attaching a heat shrink part; it has anti-rotation teeth which function as an anti-rotation mechanism.
+Backshell SQ
+42415
+(VG 96912 LXX)
+Dimensions in mm
+QL
+max.
+SW
+- 0.2
+Shell size
+Order number
+QA
++ 0.2
+ø QC
+min.
+ø QD
+± 0.2
+ø QE
+± 0.2
+ø QG
+- 0.5
+Thread Q
+Class 2 B
+UNEF
+ 
+8 
+42415-061 
+16 
+6.2 
+19 
+12 
+14 
+34 
+.4375-28 
+17
+ 
+10 
+42415-062 
+17 
+7.0 
+22 
+14 
+16 
+35 
+.5625-24 
+20
+ 
+12 
+42415-063 
+17 
+9.5 
+25 
+16 
+18 
+35 
+.6875-24 
+23
+ 
+14 
+42415-064 
+17 
+12.5 
+28 
+20 
+22 
+35 
+.8125-20 
+26
+ 
+16 
+42415-065 
+18 
+15.5 
+30 
+23 
+25 
+35 
+.9375-20 
+28
+ 
+18 
+42415-066 
+18 
+18.5 
+34 
+24.5 
+28 
+36 
+1.0625-18 
+32
+ 
+20 
+42415-067 
+18 
+21.5 
+38 
+28.5 
+32 
+36 
+1.1875-18 
+36
+ 
+22 
+42415-068 
+18 
+23.5 
+43 
+30.5 
+34 
+36 
+1.3125-18 
+41
+ 
+24 
+42415-069 
+18 
+27.5 
+45 
+34.5 
+38 
+36 
+1.4375-18 
+43
+The SQ backshell enables the attachment of a shielding braid and a heat shrink part (see p. 34 and 38), which ensure a high level 
+of HF-tightness between cable and connector. The anti-rotation teeth function as an anti-rotation mechanism, and ensure minimum 
+coupling resistance. 
+
+27
+Accessories
+Strain release clamp 
+10-476808
+(VG 96912 GXX) 
+(LN 29729 D)
+Dimensions in mm
+Shell size
+Order number
+ZB
+max.
+ø ZC
+min.
+ø ZD
+max.
+ZG
+max.
+ZL
+max.
+Thread Q
+Class 2 B
+UNEF
+ 
+8
+10-476808-89 
+17
+2.5
+15
+20
+23.5 
+.4375-28
+ 
+10 
+10-476808-109 
+17
+4.1
+18
+22
+23.5 
+.5625-24
+ 
+12 
+10-476808-129 
+17
+7.2
+21
+25
+23.5 
+.6875-24
+ 
+14 
+10-476808-149 
+23
+8.8
+25
+28
+30.0 
+.8125-20
+ 
+16 
+10-476808-169 
+23
+12.0
+28
+30
+30.0 
+.9375-20
+ 
+18 
+10-476808-189 
+23
+15.2
+31
+36
+30.0 
+1.0625-18
+ 
+20 
+10-476808-209 
+26
+15.2
+34
+36
+30.0 
+1.1875-18
+ 
+22 
+10-476808-229 
+26
+18.4
+37
+41
+33.0 
+1.3125-18
+ 
+24 
+10-476808-249 
+26
+19.6
+40
+43
+33.0 
+1.4375-18
+Other backshells upon request.
+
+28
+Accessories
+Plastic dust cap
+37024
+Dimensions in mm
+Shell size
+Shell size
+Dimensions in mm
+Order code 
+(for plugs)
+Dimensions in mm
+Order code 
+(for recep-
+tacles)
+ø B - 0.2
+ø C ± 0.2
+ø D - 0.2
+ø B - 0.2
+ø C ± 0.2
+ø D - 0.2
+ 
+8 
+S8 
+12.0 
+16.0 
+10
+ 
+8 
+D8 S10 
+15.0 
+20.0 
+13.0
+ 
+10 
+D8 S10 
+15.0 
+20.0 
+13.0
+ 
+10 
+D10 S12 
+18.3 
+23.0 
+16.3
+ 
+12 
+D10 S12 
+18.3 
+23.0 
+16.3
+ 
+12 
+D12 S14 
+21.5 
+27.0 
+19.5
+ 
+14 
+D12 S14 
+21.5 
+27.0 
+19.5
+ 
+14 
+D14 S16 
+25.0 
+29.5 
+23.0
+ 
+16 
+D14 S16 
+25.0 
+29.5 
+23.0
+ 
+16 
+D16 S18 
+27.7 
+32.0 
+25.7
+ 
+18 
+D16 S18 
+27.7 
+32.0 
+25.7
+ 
+18 
+D18 S20 
+30.9 
+35.5 
+28.9
+ 
+20 
+D18 S20 
+30.9 
+35.5 
+28.9
+ 
+20 
+D20 S22 
+34.1 
+39.0 
+32.1
+ 
+22 
+D20 S22 
+34.1 
+39.0 
+32.1
+ 
+22 
+D22 S24 
+37.3 
+42.0 
+35.3
+ 
+24 
+D22 S24 
+37.3 
+42.0 
+35.3
+ 
+24 
+D24 
+42.0 
+46.0 
+40.0
+The dust caps protect the contacts during shipping and storage.
+Metal protective cap
+(for design type 06) 
+(VG 96912 V3XX)
+Dimensions in mm
+Shell size
+Order number
+ø G
+max.
+ø N
++ 0.03
+- 0.13
+With link chain 
+(Type A)
+With nylon cord 
+(Type B)
+8
+42160-071
+42162-071
+17.5
+12.01
+10
+42160-072
+42162-072
+20.6
+14.99
+12
+42160-073
+42162-073
+24.6
+19.05
+14
+42160-074
+42162-074
+27.8
+22.23
+16
+42160-075
+42162-075
+31.0
+25.40
+18
+42160-076
+42162-076
+34.1
+28.58
+20
+42160-077
+42162-077
+37.3
+31.75
+22
+42160-078
+42162-078
+40.5
+34.93
+24
+42160-079
+42162-079
+43.7
+38.10
+The grommet is for attaching the protective cap. The protective cap is fitted with a seal which guarantees watertight sealing 
+between the plug and the cap. Protective caps with other fastening types are available. Please send inquiry.
+
+29
+Accessories
+Metal protective cap
+(for design type 00) 
+(VG 96912 V1XX)
+Dimensions in mm
+Shell size
+Order number
+Dimensions in mm
+With link chain 
+(Type A)
+With nylon cord 
+(Type B)
+ø G
+max.
+Z
+max.
+8
+38822-071
+38828-071
+18.65
+17.5
+10
+38822-072
+38828-072
+21.82
+17.5
+12
+38822-073
+38828-073
+25.50
+17.5
+14
+38822-074
+38828-074
+28.58
+17.5
+16
+38822-075
+38828-075
+31.75
+17.5
+18
+38822-076
+38828-076
+34.93
+17.5
+20
+38822-077
+38828-077
+38.10
+17.5
+22
+38822-078
+38828-078
+41.28
+17.5
+24
+38822-079
+38828-079
+44.45
+20.0
+The protective cap is attached to one of the receptacle flange screws by means of a grommet. The protective cap is fitted with a 
+seal which guarantees a splash-proof connection between cap and receptacle. 
+Protective caps with other fastening types are available. Please send inquiry.
+Metal protective cap
+(For design type 07) 
+(VG 96912 V2XX)
+Dimensions in mm
+Shell size
+Order number
+Dimensions in mm
+With link chain 
+(Type A)
+With nylon cord 
+(Type B)
+ø C + 0.5
+- 0.1
+ø G
+max.
+Z
+max.
+ 
+8
+38824-071 
+38826-071
+14.7
+18.7
+17.5
+ 
+10
+38824-072 
+38826-072
+17.9
+21.9
+17.5
+ 
+12
+38824-073 
+38826-073
+22.6
+25.5
+17.5
+ 
+14
+38824-074 
+38826-074
+25.8
+28.6
+17.5
+ 
+16
+38824-075 
+38826-075
+29.0
+31.8
+17.5
+ 
+18
+38824-076 
+38826-076
+32.2
+35.0
+17.5
+ 
+20
+38824-077 
+38826-077
+35.3
+38.1
+17.5
+ 
+22
+38824-078 
+38826-078
+38.5
+41.3
+17.5
+ 
+24
+38824-079 
+38826-079
+41.7
+44.5
+20.0
+The fastening ring of the protective cap attaches the cap to the receptacle. The protective cap is fitted with a seal which guarantees 
+a splash-proof connection between cap and receptacle. 
+Protective caps with other fastening types are available. Please send inquiry.
+
+30
+Tools
+Crimp tool M 22520/1-01
+(8-notch crimping)
+Dimensions in mm
+Order code
+Color code
+Contact size
+Wire size
+AWG
+Crimp insert
+Crimp tool 
+red 
+20 
+20 to 24
+blue 
+16 
+16 to 20
+M 22520/1-01 
+M 22520/1-04
+yellow 
+12 
+12 to 14
+This tool allows the setting of eight different crimping depths depending on contact and wire size.
+Crimp tool and crimp insert must be ordered separately.
+Crimp tool M 22520/2-01
+(8-notch crimping)
+Dimensions in mm
+Contact size
+Wire size
+AWG
+Order code
+Crimp insert
+Pin contact
+Crimp tool
+Socket contact
+M 22520/2-09 
+M 22520/2-07 
+22 D 
+22 to 28
+M 22520/2-01
+M 22520/2-10 
+20 
+20 to 24
+The crimp tool M 22520/2-01 allows the setting of eight different crimp depths depending on the contact sizes and wire size. 
+ Crimp tool and crimp insert must be ordered separately.
+
+31
+Tools
+Installation and removal tools 
+for contacts
+Straight type (preferable for design type 07)
+Angled version
+Installation tools
+Removal Tools
+Contact 
+size
+Installation tools
+Order number
+Color designation
+Removal Tools
+Straight
+Angled
+Straight
+Angled
+22 D 
+11-8794-24
+11-8674-24
+11-8795-24
+11-8675-24
+black
+black-white 
+MS27495-A22MS MS27495-A22M MS27495-R22MS MS27495-R22M
+ 
+20 
+11-8794-20
+11-8674-20
+11-8795-20
+11-8675-20
+red
+red-white 
+MS27495-A20S 
+MS27495-A20 
+MS27495-R20S 
+MS27495-R20
+16 
+11-8794-16
+11-8674-16
+11-8795-16
+11-8675-16
+blue
+blue-white 
+MS27495-A16S 
+MS27495-A16 
+MS27495-R16S 
+MS27495-R16
+ 
+12 
+11-8794-12
+11-8674-12
+11-8795-12
+11-8675-12
+yellow
+yellow-white 
+MS27495-A12S 
+MS27495-A12 
+MS27495-R12S 
+MS27495-R12 
+Extraction tool
+for unwired contacts
+Assembly tool
+for coupling connectors
+Contact size
+Order number
+Shell size
+Order number
+22 D 
+36561-001
+8 to 24 
+TG 69
+20
+36561-003
+16
+36561-004
+12
+36561-005
+
+32
+Assembly instructions · 
+Contact crimping 
+Inspection hole
+F = 3.5 ± 0.3 mm (Contact size 22 D) 
+F = 6    ± 0.3 mm (Contact size 12, 16, 20)
+a Cut the conductor to the required length and strip it.  
+The stranded wire must not be damaged. A heat-absorbing 
+type is recommended.
+b Put the stripped wire into the contact crimp sleeve.  
+Make sure that the stranded wire is visible through the 
+inspection hole.
+c The crimp tool M22520/1-01 (8-notch crimping) is 
+equipped with a single insert (see p. 30), which allows  
+the crimping of contacts in the sizes 12, 16, and 20.  
+See also user manual provided by manufacturer.
+d There are three crimp inserts for the crimp tools 
+M22520/2-01 and MS 3198-1(8-notch crimping) available 
+(see p. 30). These allow crimping for contact sizes 22 and 
+22 D. See also user manual provided by manufacturer.
+e After properly setting the wire size and contact size, 
+close and reopen tool M 22520/1-01 to ensure that the 
+crimp jaws are open. Insert contact with the conductor 
+into receptacle. Close tool until it automatically reopens. 
+Remove contact from the receptacle and check if  
+conductor is visible through the inspection hole.
+f After selecting the appropriate crimp insert, close and 
+open the crimp tool M22520/2-01 or MS 3198-1 to make 
+sure that the crimp jaws are open. Insert contact with  
+conductor into receptacle. Close tool completely until  
+it automatically reopens. Remove contact from the  
+receptacle and check if conductor is visible through the 
+inspection hole.
+
+33
+Assembly instructions ·
+Insertion of contacts
+b Use the appropriate tool to insert contacts into the  
+connector (see p. 31).
+a Remove individual backshell components from the  
+connector and place them over the wire bundles in the 
+correct order.
+c Place the tip of the insertion tool over the conductor up 
+to the contact shoulder. 
+d Insert the contact on the back of the connector lineally 
+and press forward until it clicks into place. Remove tool.  
+By pulling gently on the conductor, check that the contact 
+is correctly inserted.
+e Place an uncrimped contact and a sealing plug in 
+unused contact openings. Put the sealing plug into  
+the sealing insert in the manner shown above. 
+f After equipping the connector, determine by visual 
+inspection if all contacts are inserted correctly.  
+The backshell can then be screwed on.
+
+34
+Assembly instructions
+Clamping of shielding braid
+Mounting the backshell SQ
+The backshell SQ (see p. 26) is used to hold the cable 
+shielding braid through clamping or soldering, and for 
+shrink-fitting a heat shrink part (see p. 38) as described 
+to the right.
+In conjunction with the plug SJTG 06 RT, which is 
+equipped with a grounding ring (see p. 13), full shielding 
+of the plug connection is achieved.
+Shielding braid 
+clamped
+Shielding braid 
+soldered
+–  Before the shielding braid is clamped, screw the 
+backshell with coupling ring (1) onto the wired  
+connector until the teeth are engaged.  
+–  Loosen the clamping nut (9). Place heat shrink part 
+(6) and clamping nut over cables (8).
+–  Push shielding braid (7) onto backshell and over  
+the thread (3).
+–  Fasten shielding braid (7) to the rounded groove  
+with binding wire (4).
+–  Fold the protruding shielding braid back over the 
+cone (5).
+–  Screw the clamping nut (9) onto the backshell  
+(the folded shielding braid must protrude under the 
+clamping nut on the cable side).
+–  Apply adhesive from the rectangular groove (2) down 
+to the knurl of the clamping nut (9).
+–  Shrink-fit heat shrink part (6) (the lip of the heat shrink 
+part grips into the rectangular groove (2)).
+Backshell SQ with shielding braid  
+and heat shrink part 
+Removal of wired contacts
+Soldering of the shielding braid
+Please send inquiry.
+–  Detach backshell from connector.
+ 
+ Select appropriate removal tool (see p. 31) according 
+to contact size.
+–  Open removal tool and place it over the conductor, 
+then push the tool into the connector axially until it 
+stops. The tool must not be rotated or opened during 
+this procedure. 
+–  Hold the conductor, then remove the tool together 
+with contact and conductor. 
+Removal of unwired contacts
+–  Detach backshell from connector.
+– Remove sealing plug.
+–  Select removal tool according to contact size 
+(see p. 31) and push it into the back of the connector 
+axially until it stops.
+–  Push the contact out of the connector from the front 
+to the back side using the extraction tool 36561  
+(see p. 31).
+ 
+ With pin contacts, the extraction tool side marked 
+with P is placed over the tip of the pin contact, and 
+with socket contacts, the side marked S is pushed 
+into the socket contact. 
+
+35
+Assembly instructions
+Receptacles with square flange
+Square flange receptacles can be mounted 
+onto the front or back side of the mounting 
+wall. 
+The respective flange gaskets on page 25 
+are to be used only for front wall mounting.  
+Dimensions in mm
+  
+Mounting hole            Installation example: SJT 00 RT
+Shell size
+8
+10
+12
+14
+16
+18
+20
+22
+24
+ ø D Front wall mounting 
+12.10 
+15.20 
+18.40 
+21.60 
+24.80 
+27.90 
+31.10 
+34.30 
+37.40
+ ø D Rear wall mounting 
+14.00 
+17.00 
+22.00 
+25.00 
+28.00 
+31.00 
+34.50 
+37.50 
+41.00
+ R Theoretical dimensions 
+15.1 
+18.3 
+20.6 
+23.6 
+24.6 
+27.0 
+29.4 
+31.8 
+34.9
+ ø T ± 0.3 
+  3.5 
+  3.5 
+  3.5 
+  3.5 
+  3.5 
+  3.5 
+  3.5 
+  3.5 
+  4.0
+Receptacles for single hole mounting
+The receptacles for single hole mounting can  
+be fixed to mounting walls with a thickness of 
+1.6 mm to 3.2 mm.  The mounting nut torques 
+are listed in the table below.   
+Dimensions in mm
+  
+Mounting hole            Installation example: SJT 07 RT
+Shell size
+8
+10
+12
+14
+16
+18
+20
+22
+24
+ B – 0.25 
+13.77 
+16.99 
+21.08 
+24.26 
+27.53 
+30.68 
+33.86    37.06       40.1
+ Ø R + 0.25 
+14.53 
+17.70 
+22.45 
+25.58 
+28.80 
+31.98 
+35.15 
+38.28 
+41.50
+ Max. torque Nm 
+3.6 
+4.1 
+5.6 
+6.8 
+8.5 
+9.6 
+10.7    12.4       13.6
+Hermetically sealed receptacle
+The receptacle must be mounted in such  
+a manner that the hermetic seal provided by  
+the compression glass insert is maintained.  
+The shell surface is tin-plated to facilitate  
+soldering. Soldering tin with a low melting  
+point is recommended. The solder is applied  
+at the points indicated by arrows.
+Dimensions in mm
+  
+Mounting hole            Installation example: SJT 07 RT
+Shell size
+8
+10
+12
+14
+16
+18
+20
+22
+24
+ 
+Ø N max. 
+14.78 
+17.58 
+20.35 
+23.52 
+26.70 
+29.87 
+32.30 
+35.30 
+38.61
+
+36
+Assembly instructions · Cutting and installation dimensions
+Receptacle SJT 00 RT and plug SJTG 06 RT
+with backshells
+Mounting wall 
+(Cutting dimension)
+SJT 00 RT with  
+ 
+ 
+SJTG 06 RT with 
+backshell SQ 
+ 
+ 
+ 
+backshell SQ
+Mounting wall 
+(Cutting dimension)
+SJT 00 RT with  
+ 
+ 
+SJTG 06 RT with 
+backshell F 
+ 
+ 
+ 
+backshell SQ
+Dimensions in mm
+Shell size
+ 
+B5
+ 
+X min.
+A1
+A2
+A3
+A4
+A5
+ 
+B1
+B2
+B3
+B4
+ 
+8 
+39 
+18.4 
+26 
+42 
+58 
+33 
+18.4 
+26 
+42 
+58 
+3.1 
+ 
+10 
+39 
+18.4 
+26 
+42 
+58 
+33 
+18.4 
+26 
+42 
+58 
+3.1 
+ 
+12 
+39 
+18.4 
+26 
+42 
+58 
+33 
+18.4 
+26 
+42 
+58 
+3.1 
+ 
+14 
+39 
+18.4 
+26 
+42 
+58 
+33 
+18.4 
+26 
+42 
+58 
+3.1 
+ 
+16 
+39 
+18.4 
+27 
+43 
+59 
+33 
+18.4 
+27 
+43 
+59 
+3.1 
+ 
+18 
+39 
+18.4 
+27 
+43 
+59 
+33 
+18.4 
+27 
+43 
+59 
+3.1 
+ 
+20 
+39 
+18.4 
+27 
+43 
+59 
+33 
+18.4 
+27 
+43 
+59 
+2.3 
+ 
+22 
+39 
+18.4 
+27 
+43 
+59 
+33 
+18.4 
+27 
+43 
+59 
+2.3 
+ 
+24 
+40 
+18.4 
+27 
+43 
+59 
+35 
+18.4 
+27 
+43 
+59 
+1.5 
+
+37
+Assembly instructions · Cutting and installation dimensions
+Receptacle SJT 07 RT and plug SJT 06 RT
+with backshells
+Mounting wall 
+(Cutting dimension)
+SJT 07 RT with  
+ 
+ 
+SJT 06 RT with 
+backshell F 
+ 
+ 
+ 
+backshell F
+Mounting wall 
+(Cutting dimension)
+SJT 07 RT with  
+ 
+ 
+SJT 06 RT with 
+strain release clamp 
+ 
+ 
+strain release clamp
+Dimensions in mm
+Shell size
+D1
+D2
+D3
+D4
+D5
+ 
+F1
+F2
+F3
+F4
+ 
+8 
+34 
+23.4 
+25 
+37 
+53 
+30 
+23.4 
+33 
+49 
+ 
+10 
+34 
+23.4 
+25 
+37 
+53 
+30 
+23.4 
+33 
+49 
+ 
+12 
+34 
+23.4 
+25 
+37 
+53 
+30 
+23.4 
+33 
+49 
+ 
+14 
+34 
+23.4 
+25 
+37 
+53 
+36 
+23.4 
+39 
+55 
+ 
+16 
+34 
+23.4 
+25 
+37 
+53 
+36 
+23.4 
+39 
+55 
+ 
+18 
+35 
+23.4 
+25 
+37 
+53 
+37 
+23.4 
+39 
+55 
+ 
+20 
+35 
+23.4 
+25 
+37 
+53 
+40 
+23.4 
+42 
+58 
+ 
+22 
+35 
+23.4 
+25 
+37 
+53 
+40 
+23.4 
+42 
+58 
+ 
+24 
+35 
+23.4 
+26 
+38 
+54 
+40 
+23.4 
+43 
+59 
+
+38
+Assembly instructions
+Heat shrink parts
+The heat shrink parts shown are suitable for shrink- 
+fitting to fully assembled connectors which use  
+backshells F or SQ (see p. 26).
+The heat shrink parts 202 and 222 can be obtained 
+from the company RAYCHEM. The information below  
+is for informational purposes only.
+Backshell SQ with molded part 222
+Backshell F with molded part 222
+Backshell SQ with molded part 202
+Backshell F with molded part 202
+Dimensions in mm
+Shell 
+size
+Shell 
+size
+Backshell SQ
+Dimensions in mm
+Molded part order 
+code
+Backshell F
+Dimensions in mm
+Molded part order 
+code
+ 
+8 
+ 
+25.4 25.0 
+16 
+38.4 5.6
+ 
+8 
+ 
+25.4 
+12 
+20.1 17.3 3.8
+A
+B
+C
+D
+Ø J
+max.
+222 K 121 
+202 K 121
+E
+F
+G
+H
+Ø J
+max.
+222 A 111 
+202 A 111
+ 10 
+ 
+27.2 32.0 
+17 
+54.9 6.6
+ 10 
+ 
+38.4 
+12 
+25.4 25.0 5.6
+222 K 132 
+202 K 132
+222 K 121 
+202 K 121
+ 12 
+ 
+27.2 32.0 
+17 
+54.9 6.6
+ 12 
+ 
+38.4 
+12 
+25.4 25.0 5.6
+222 K 132 
+202 K 132
+222 K 121 
+202 K 121
+ 14 
+ 
+30.5 39.4 
+17 
+66.8 7.1
+ 14 
+ 
+54.9 
+12 
+27.2 32.0 6.6
+222 K 142 
+202 K 142
+222 K 132 
+202 K 132
+ 16 
+ 
+38.0 46.4 
+18 
+80.0 8.4
+ 16 
+ 
+66.8 
+12 
+30.5 39.4 7.1
+222 K 152 
+202 K 153
+222 K 142 
+202 K 142
+ 18 
+ 
+38.0 46.4 
+18 
+80.0 8.4
+ 18 
+ 
+66.8 
+12 
+30.5 39.4 7.1
+222 K 152 
+202 K 153
+222 K 142 
+202 K 142
+ 20 
+ 
+45.0 55.0 
+18 
+99.1 9.9
+ 20 
+ 
+80.0 
+12 
+38.0 46.4 8.4
+222 K 163 
+202 K 163
+222 K 152 
+202 K 153
+ 22 
+ 
+45.0 55.0 
+18 
+99.1 9.9
+ 22 
+ 
+99.1 
+14 
+45.0 55.0 9.9
+222 K 163 
+202 K 163
+222 K 163 
+202 K 163
+ 24 
+ 
+54.0 80.0 
+18 130.0 15.7
+ 24 
+ 
+99.1 
+14 
+45.0 55.0 9.9
+222 K 174 
+202 K 174
+222 K 163 
+202 K 163
+
+39
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4) 
+8-98
+3 contacts
+Size 20
+10-35
+13 contacts
+Size 22D
+8-35
+6 contacts
+Size 22D
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+1 
++ 1.14 + 1.98
+ 
+A 
++ 1.65 +0.97
+ 
+1 
+ 0 
++3.71 
+  8 
+- 3.51 - 1.14
+ 
+2 
++ 1.98  - 1.14
+ 
+B 
+ 0 
+- 1.91
+ 
+2 
++2.16 +3.00 
+  9 
+- 3.51 +1.14
+     3   
+ 0 
+ - 2.29
+ 
+C 
+ - 1.65 + 0.97
+ 
+3 
++3.51 +1.14 
+10 
+- 2.16 +3.00
+ 
+4 
+ - 1.98  -  1.14
+ 
+4 
++3.51 - 1.14 
+11 
+ 0 
++1.42
+ 
+5 
+ - 1.14 + 1.98
+ 
+5 
++2.16 - 3.00 
+12 
++1.24 - 0.89
+ 
+6 
+ 0 
+ 0
+ 
+6 
+ 0 
+- 3.71 
+13 
+- 1.24 - 0.89
+ 
+7 
+- 2.16 - 3.00
+12-35
+19 contacts
+Size 22D
+12-8
+8 contacts
+Size 20
+10-98
+6 contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+ 1 
++1.14 +5.00 
+12 
+- 4.62 + 2.24
+ 
+A 
++ 1.65 + 3.99
+ 
+A 
+ 0 
++ 3.30
+ 
+ 2 
++3.20 +4.01 
+13 
+- 3.20 + 4.01
+ 
+B 
++ 4.32  0
+ 
+B 
++ 3.30  0
+ 
+ 3 
++4.62 +2.24 
+14 
+- 1.14 + 5.00
+ 
+C 
++ 3.05  - 3.05
+ 
+C 
++ 1.65 - 2.87
+ 
+ 4 
++5.16  0 
+15 
++ 1.14 + 2.72
+ 
+D 
+ 0 
+ - 4.32
+ 
+D 
+ - 1.65 - 2.87
+ 
+ 5 
++4.62 - 2.24 
+16 
++ 2.97 + 0.66
+ 
+E 
+ - 3.05  - 3.05
+ 
+E 
+ - 3.30  0
+ 
+ 6 
++3.20 - 4.01 
+17 
++ 2.36 - 1.91
+ 
+F 
+ - 4.32  0
+ 
+F 
+ 0 
+ 0
+ 
+ 7 
++1.14 - 5.00 
+18 
+ 0 
+- 3.05
+ 
+G 
+ - 1.65 + 3.99
+ 
+ 8 
+- 1.14 - 5.00 
+19 
+- 2.36 - 1.91
+ 
+H 
+ 0 
++ 1.12
+ 
+ 9 
+- 3.20 - 4.01 
+20 
+- 2.97 + 0.66
+ 
+10 
+- 4.62 - 2.24 
+21 
+ 1.14 + 2.72
+ 
+11 
+- 5.16  0 
+22 
+ 0 
+- 0.76
+14-5
+5 contacts
+Size 16
+14-18
+18 contacts
+Size 20
+12-98
+10 contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
+ 0 
++ 4.95
+ 
+A 
++1.65 +6.40 
+K 
+- 4.95 +2.87
+ 
+A 
+ 0 
++ 2.54
+ 
+B 
++ 3.18 + 3.81
+ 
+B 
++4.95 +2.87 
+L 
+- 1.64 +6.40
+ 
+B 
++ 4.42 + 0.61
+ 
+C 
++ 4.90 + 0.76
+ 
+C 
++6.60  0 
+M 
+- 1.65 +2.87
+ 
+C 
++ 2.39  - 3.56
+ 
+D 
++ 4.17  - 2.67
+ 
+D 
++4.95 - 2.87 
+N 
++ 1.65 +2.87
+ 
+D 
+ - 2.39  - 3.56
+ 
+E 
+ 0 
+ - 3.43
+ 
+E 
++3.30 - 5.72 
+P 
++ 3.30  0
+ 
+E 
+ - 4.42 + 0.61
+ 
+F 
+ - 4.17  - 2.67
+ 
+F 
+ 0 
+- 5.72 
+R 
++ 1.65 - 2.87
+ 
+G 
+ - 4.90 + 0.76
+ 
+G 
+- 3.30 - 5.72 
+S 
+- 1.65 - 2.87
+ 
+H 
+ - 3.18 + 3.81
+ 
+H 
+- 4.95 - 2.87 
+T 
+- 3.30  0
+ 
+J 
++ 1.65  - 0.38
+ 
+J 
+- 6.60  0 
+U 
+ 0 
+ 0
+ 
+K 
+ - 1.65  - 0.38
+
+40
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4) 
+14-19
+19 contacts
+Size 20
+14-35
+37 contacts
+Size 22D
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
+ 0 
++5.72 
+L 
+- 4.95 + 2.87
+ 
+1 
++1.14 +6.65 
+20 
++ 3.12 + 3.02
+ 
+B 
++3.30 +5.72 
+M 
+- 3.30 + 5.72
+ 
+2 
++3.12 +5.51 
+21 
++ 4.32 + 1.02
+ 
+C 
++4.95 +2.87 
+N 
+- 1.65 + 2.87
+ 
+3 
++5.36 +4.06 
+22 
++ 4.32 - 1.27
+ 
+D 
++6.60  0 
+P 
++ 1.65 + 2.87
+ 
+4 
++6.45 +2.03 
+23 
++ 3.12 - 3.23
+ 
+E 
++4.95  - 2.87 
+R 
++ 3.30  0
+ 
+5 
++6.76 - 0.25 
+24 
++ 1.14 - 4.37
+ 
+F 
++3.30  - 5.72 
+S 
++ 1.65 - 2.87
+ 
+6 
++6.27 - 2.49 
+25 
+- 1.14 - 4.37
+ 
+G 
+ 0 
+ - 5.72 
+T 
+- 1.65 - 2.87
+ 
+7 
++5.08 - 4.45 
+26 
+- 3.12 - 3.23
+ 
+H 
+ - 3.30  - 5.72 
+U 
+- 3.30  0
+ 
+8 
++3.30 - 5.89 
+27 
+- 4.32 - 1.27
+ 
+J 
+ - 4.95  - 2.87 
+V 
+ 0 
+ 0
+ 
+9 
++1.14 - 6.65 
+28 
+- 4.32 + 1.02
+ 
+K 
+ - 6.60 0
+ 
+10 
+- 1.14 - 6.65 
+29 
+- 3.12 + 3.02
+ 
+11 
+- 3.30 - 5.89 
+30 
+- 1.14 + 4.37
+ 
+12 
+- 5.08 - 4.45 
+31 
++ 1.14 + 1.88
+ 
+13 
+- 6.27 - 2.49 
+32 
++ 2.29 - 0.10
+ 
+14 
+- 6.76 - 0.25 
+33 
++ 1.14 - 2.08
+ 
+15 
+- 6.45 +2.03 
+34 
+- 1.14 - 2.08
+ 
+16 
+- 5.36 +4.06 
+35 
+- 2.29 - 0.10
+ 
+17 
+- 3.12 +5.51 
+36 
+- 1.14 + 1.88
+ 
+18 
+- 1.14 +6.65 
+37 
+ 0 
+- 0.10
+ 
+19 
++1.14 +4.37
+14-97
+4/8 contacts
+Size 16/20
+16-6
+6 contacts
+Size 12
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
++ 3.07 + 5.31
+ 
+A 
++ 1.65 + 5.94
+ 
+B 
++ 4.52 + 4.52
+ 
+B 
++ 6.12  0
+ 
+C 
++ 5.84 - 0.58
+ 
+C 
+ 0 
+- 6.12
+ 
+D 
++ 4.52 - 4.52
+ 
+D 
+- 6.12  0
+ 
+E 
++ 1.65 - 5.94
+ 
+E 
+- 3.07 - 5.31
+ 
+F 
+- 2.26 - 5.96
+ 
+F 
+ 0 
+ 0
+ 
+G 
+- 5.26 - 2.41
+ 
+H 
+- 5.94 + 1.65
+ 
+J 
+- 4.52 + 4.52
+ 
+K 
+- 1.65 + 5.94
+ 
+L 
+- 1.19 + 2.06
+ 
+M 
++ 1.19 - 2.06
+
+41
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4)
+16-8
+8 contacts
+Size 16
+16-26
+26 contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
+ 0 
++ 5.99
+ 
+A 
+ 0 
++8.15 
+P 
+ - 6.07 + 5.44
+ 
+B 
++ 3.25 + 2.18
+ 
+B 
++3.33 +7.44 
+R 
+ - 3.33 + 7.44
+ 
+C 
++ 5.84  - 1.98
+ 
+C 
++6.07 +5.44 
+S 
+ - 1.78 + 4.50
+ 
+D 
++ 2.39  - 5.49
+ 
+D 
++7.75 +2.51 
+T 
++ 1.78 + 4.50
+ 
+E 
+ - 2.39  - 5.49
+ 
+E 
++8.10  - 0.86 
+U 
++ 4.45 + 2.39
+ 
+F 
+ - 5.84  - 1.98
+ 
+F 
++7.06  - 4.09 
+V 
++ 4.52  - 0.91
+ 
+G 
+ - 3.25 + 2.18
+ 
+G 
++4.80  - 6.60 
+W 
++ 3.02  - 3.84
+ 
+H 
+ 0 
+ - 1.32
+ 
+H 
++1.70  - 7.98 
+X 
+ 0 
++ 5.16
+ 
+J 
+ - 1.70  - 7.98 
+Y 
+ - 3.02  - 3.84
+ 
+K 
+ - 4.80  - 6.60 
+Z 
+ - 4.52  - 0.91
+ 
+L 
+ - 7.06  - 4.09 
+a 
+ - 4.45 + 2.39
+ 
+M 
+ - 8.10  - 0.86 
+b 
+ 0 
++ 1.65
+16-35
+55 contacts
+Size 22D
+ 
+N 
+ - 7.75 +2.51 
+c 
+ 0 
+ - 1.65
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+1 
+- 7.92 +2.18 
+29 
+ 0 
+- 2.39
+16-99
+2/21 contacts
+Size 16/20
+ 
+2 
+- 7.92 - 0.10 
+30 
+ 0 
+- 4.67
+ 
+3 
+- 7.92 - 2.39 
+31 
+ 0 
+- 6.96
+ 
+4 
+- 6.15 +5.61 
+32 
++ 2.26 + 8.03
+ 
+5 
+- 5.94 +3.33 
+33 
++ 1.98 + 5.61
+ 
+6 
+- 5.94 +1.04 
+34 
++ 1.98 + 3.33
+ 
+7 
+- 5.94 - 1.24 
+35 
++ 1.98 + 1.04
+ 
+8 
+- 5.94 - 3.53 
+36 
++ 1.98 - 1.24
+ 
+9 
+- 5.94 - 5.82 
+37 
++ 1.98 - 3.53
+ 
+10 
+- 4.37 +7.09 
+38 
++ 1.98 - 5.82
+ 
+11 
+- 3.96 +4.47 
+39 
++1.98 - 8.10
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+12 
+- 3.96 +2.18 
+40 
++ 4.37 + 7.09
+ 
+13 
+- 3.96 - 0.10 
+41 
++ 3.96 + 4.47
+ 
+A 
+ 0 
++8.15 
+N 
+ - 7.75 + 2.51
+ 
+14 
+- 3.96 - 2.39 
+42 
++ 3.96 + 2.18
+ 
+B 
++3.33 +7.44 
+P 
+ - 6.07 + 5.44
+ 
+15 
+- 3.96 - 4.67 
+43 
++ 3.96 - 0.10
+ 
+C 
++6.07 +5.44 
+R 
+ - 3.33 + 7.44
+ 
+16 
+- 3.96 - 6.96 
+44 
++ 3.96 + 2.39
+ 
+D 
++7.75 +2.51 
+S 
+ - 1.78 + 4.50
+ 
+17 
+- 2.26 +8.03 
+45 
++ 3.96 - 4.67
+ 
+E 
++8.10  - 0.86 
+T 
++ 1.78 + 4.50
+ 
+18 
+- 1.98 +5.61 
+46 
++ 3.96 - 6.96
+ 
+F 
++7.06  - 4.09 
+U 
++ 4.45 + 2.39
+ 
+19 
+- 1.98 +3.33 
+47 
++ 6.15 + 5.61
+ 
+G 
++4.80  - 6.60 
+V 
++ 3.81  - 1.90
+ 
+20 
+- 1.98 +1.04 
+48 
++ 5.94 + 3.33
+ 
+H 
++1.70  - 7.98 
+X 
+ 0 
+ - 6.60
+ 
+21 
+- 1.98 - 1.24 
+49 
++ 5.94 + 1.04
+ 
+J 
+ - 1.70  - 7.98 
+Y 
+ - 3.81  - 1.90
+ 
+22 
+- 1.98 - 3.53 
+50 
++ 5.94 - 1.24
+ 
+K 
+ - 4.80  - 6.60 
+Z 
+ - 4.45 + 2.39
+ 
+23 
+- 1.98 - 5.82 
+51 
++ 5.94 - 3.53
+ 
+L 
+ - 7.06  - 4.09 
+ 
+ 0 
++ 0.64
+ 
+24 
+- 1.98 - 8.10 
+52 
++ 5.94 - 5.82
+ 
+M 
+ - 8.10  - 0.86
+ 
+25 
+ 0 
++8.36 
+53 
++ 7.92 + 2.18
+ 
+26 
+ 0 
++4.47 
+54 
++ 7.92 - 0.10
+ 
+27 
+ 0 
++2.18 
+55 
++ 7.92 - 2.39
+ 
+28 
+ 0 
+- 0.10 
+
+42
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4)
+18-32
+32 contacts
+Size 20
+18-11
+11 contacts
+Size 16
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
++ 2.67 + 6.60
+ 
+A 
++ 1.68 +8.97 
+T 
+- 1.68 + 8.97
+ 
+B 
++ 6.35 + 3.35
+ 
+B 
++ 4.80 +7.75 
+U 
+ 0 
++ 5.84
+ 
+C 
++ 6.99 - 1.35
+ 
+C 
++ 7.26 +5.51 
+V 
++ 3.15 + 4.90
+ 
+D 
++ 4.55 - 5.46
+ 
+D 
++ 8.76 +2.49 
+W 
++ 5.31 + 2.41
+ 
+E 
+ 0 
+- 7.14
+ 
+E 
++ 9.07 - 0.84 
+X 
++ 5.79 - 0.84
+ 
+F 
+- 4.55 - 5.46
+ 
+F 
++ 8.15 - 4.06 
+Y 
++ 4.42 - 3.84
+ 
+G 
+- 6.99 - 1.35
+ 
+G 
++ 6.15 - 6.73 
+Z 
++ 1.65 - 5.61
+ 
+H 
+- 6.35 + 3.35
+ 
+H 
++ 3.30 - 8.51 
+a 
+- 1.65 - 5.61
+ 
+J 
+- 2.67 + 6.60
+ 
+J 
+ 0 
+- 9.12 
+b 
+- 4.42 - 3.84
+ 
+K 
+ 0 
++ 2.67
+ 
+K 
+- 3.30 - 8.51 
+c 
+- 5.79 - 0.84
+ 
+L 
+ 0 
+- 2.67
+ 
+L 
+- 6.15 - 6.73 
+d 
+- 5.31 + 2.41
+ 
+M 
+- 8.15 - 4.06 
+e 
+- 3.15 + 4.90
+ 
+N 
+- 9.07 - 0.84 
+f 
+ 0 
++ 2.44
+ 
+P 
+- 8.76 +2.49 
+g 
++ 2.44  0
+ 
+R 
+- 7.26 +5.51 
+h 
+ 0 
+- 2.44
+ 
+S 
+- 4.80 +7.75 
+j– 
+- 2.44  0
+18-35
+66 contacts
+Size 22D
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+ 1 
+- 9.07  
++ 2.29 
+18 
+- 3.12 
++5.72 
+35 
++1.14 
++6.86 
+52 
++ 5.11 
++ 4.57
+ 
+ 2 
+- 9.07 
+ 0 
+19 
+- 3.12 
++3.43 
+36 
++1.14 
++4.57 
+53 
++ 5.11 
++ 2.29
+ 
+ 3 
+- 9.07 
+- 2.29 
+20 
+- 3.12 
++1.14 
+37 
++1.14 
++2.29 
+54 
++ 5.11 
+ 0
+ 
+ 4 
+- 7.09 
++ 5.72 
+21 
+- 3.12 
+- 1.14 
+38 
++1.14 
+ 0 
+55 
++ 5.11 
+- 2.29
+ 
+ 5 
+- 7.09 
++ 3.43 
+22 
+- 3.12 
+- 3.43 
+39 
++1.14 
+- 2.29 
+56 
++ 5.11 
+- 4.57
+ 
+ 6 
+- 7.09 
++ 1.14 
+23 
+- 3.12 
+- 5.72 
+40 
++1.14 
+- 4.57 
+57 
++ 5.11 
+- 6.86
+ 
+ 7 
+- 7.09 
+- 1.14 
+24 
+- 3.12 
+- 8.00 
+41 
++1.14 
+- 6.86 
+58 
++ 7.09 
++ 5.72
+ 
+ 8 
+- 7.09 
+- 3.43 
+25 
+- 1.14 
++9.14 
+42 
++1.14 
+- 9.14 
+59 
++ 7.09 
++ 3.43
+ 
+ 9 
+- 7.09 
+- 5.72 
+26 
+- 1.14 
++6.86 
+43 
++3.12 
++8.00 
+60 
++ 7.09 
++ 1.14
+ 
+10 
+- 5.11 
++ 6.86 
+27 
+- 1.14 
++4.57 
+44 
++3.12 
++5.72 
+61 
++ 7.09 
+- 1.14
+ 
+11 
+- 5.11 
++ 4.57 
+28 
+- 1.14 
++2.29 
+45 
++3.12 
++3.43 
+62 
++ 7.09 
+- 3.43
+ 
+12 
+- 5.11 
++ 2.29 
+29 
+- 1.14 
+ 0 
+46 
++3.12 
++1.14 
+63 
++ 7.09 
+- 5.72
+ 
+13 
+- 5.11 
+ 0 
+30 
+- 1.14 
+- 2.29 
+47 
++3.12 
+- 1.14 
+64 
++ 9.07 
++ 2.29
+ 
+14 
+- 5.11 
+- 2.29 
+31 
+- 1.14 
+- 4.57 
+48 
++3.12 
+- 3.43 
+65 
++ 9.07 
+ 0
+ 
+15 
+- 5.11 
+- 4.57 
+32 
+- 1.14 
+- 6.86 
+49 
++3.12 
+- 5.72 
+66 
++ 9.07 
+- 2.29
+ 
+16 
+- 5.11 
+- 6.86 
+33 
+- 1.14 
+- 9.14 
+50 
++3.12 
+- 8.00
+ 
+17 
+- 3.12 
++ 8.00 
+34 
++1.14 
++9.14 
+51 
++5.11 
++6.86 
+
+43
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4)
+20-16
+16 contacts
+Size 16 
+20-11
+11 contacts
+Size 12 
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
++ 3.07 + 8.43
+ 
+A 
++ 2.30 + 8.18
+ 
+B 
++ 7.77 + 4.50
+ 
+B 
++ 6.88 + 5.36
+ 
+C 
++ 8.84 - 1.55
+ 
+C 
++ 8.66 + 0.91
+ 
+D 
++ 5.77 - 6.86
+ 
+D 
++ 7.82 - 3.81
+ 
+E 
+ 0 
+- 8.97
+ 
+E 
++ 4.62 - 7.37
+ 
+F 
+- 5.77 - 6.86
+ 
+F 
+ 0 
+- 8.71
+ 
+G 
+- 8.84 - 1.55
+ 
+G 
+- 4.62 - 7.37
+ 
+H 
+- 7.77 + 4.50
+ 
+H 
+- 7.82 - 3.81
+ 
+J 
+- 3.07 + 8.43
+ 
+J 
+- 8.66 + 0.91
+ 
+K 
+ 0 
++ 3.12
+ 
+K 
+- 6.88 + 5.36
+ 
+L 
+ 0 
+- 2.92
+ 
+L 
+- 2.30 + 8.18
+ 
+M 
+ 0 
++ 4.45
+ 
+N 
++ 3.91 + 1.57
+ 
+P 
++ 2.39 - 3.10
+ 
+R 
+- 2.39 - 3.10
+ 
+S 
+- 3.91 + 1.57
+20-35
+79 contacts
+Size 22D 
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+1 
++ 1.35 
++10.82 
+21 
+-10.85 
+-   1.22 
+41 
+- 2.49 
+- 8.18 
+61 
+- 3.40 
+- 5.05
+ 
+2 
++  3.71 
++10.26 
+22 
+-10.85 
++  1.22 
+42 
+- 4.67 
+- 7.11 
+62 
+- 5.28 
+- 3.53
+ 
+3 
++  5.89 
++  9.19 
+23 
+-10.31 
++  3.58 
+43 
+- 6.55 
+- 5.59 
+63 
+- 6.02 
+- 1.22
+ 
+4 
++  7.77 
++  7.67 
+24 
+-  9.27 
++  5.77 
+44 
+- 7.90 
+- 3.53 
+64 
+- 6.02 
++ 1.22
+ 
+5 
++  9.27 
++  5.77 
+25 
+-  7.77 
+-   7.67 
+45 
+- 8.43 
+- 1.22 
+65 
+- 5.28 
++ 3.53
+ 
+6 
++10.31 
++  3.58 
+26 
+-  5.89 
++  9.19 
+46 
+- 8.43 
++1.22 
+66 
+- 3.40 
++ 5.05
+ 
+7 
++10.85 
++  1.22 
+27 
+-  3.71 
++10.25 
+47 
+- 7.90 
++3.58 
+67 
+- 1.22 
++ 3.71
+ 
+8 
++10.85 
+-   1.22 
+28 
+-  1.35 
++10.82 
+48 
+- 6.55 
++5.59 
+68 
+- 1.22 
++ 3.71
+ 
+9 
++10.31 
+-   3.58 
+29 
+  0 
++  8.20 
+49 
+- 4.67 
++7.11 
+69 
++ 3.18 
++ 2.29
+ 
+10 
++  9.27 
+-   5.77 
+30 
++ 2.49 
++  8.18 
+50 
+- 2.49 
++8.18 
+70 
++ 3.94 
+ 0
+ 
+11 
++  7.77 
+-   7.67 
+31 
++ 4.67 
++  7.11 
+51 
+- 1.22 
++6.12 
+71 
++ 3.18 
+- 2.29
+ 
+12 
++  5.89 
+-   9.19 
+32 
++ 6.55 
++  5.59 
+52 
++1.22 
++6.12 
+72 
++ 1.22 
+- 3.71
+ 
+13 
++  3.71 
+- 10.26 
+33 
++ 7.90 
++  3.58 
+53 
++3.40 
++5.05 
+73 
+- 1.22 
+- 3.71
+ 
+14 
++  1.35 
+- 10.82 
+34 
++ 8.43 
++  1.22 
+54 
++5.28 
++3.53 
+74 
+- 3.18 
+- 2.29
+ 
+15 
+-  1.35 
+- 10.82 
+35 
++ 8.43 
+-   1.22 
+55 
++6.02 
++1.22 
+75 
+- 3.94 
+ 0
+ 
+16 
+-  3.71 
+- 10.26 
+36 
++ 7.90 
+-   3.58 
+56 
++6.02 
+- 1.22 
+76 
+- 3.18 
++ 2.29
+ 
+17 
+-  5.89 
+-   9.19 
+37 
++ 6.55 
+-   5.59 
+57 
++5.28 
+- 3.53 
+77 
+ 0 
++ 1.35
+ 
+18 
+-  7.77 
+-   7.67 
+38 
++ 4.67 
+-   7.11 
+58 
++3.40 
+- 5.05 
+78 
++ 1.22 
+- 0.74
+ 
+19 
+-  9.27 
+-   5.77 
+39 
++ 2.49 
+-   8.18 
+59 
++1.22 
+- 6.12 
+79 
+- 1.22 
+- 0.74
+ 
+20 
+- 10.31 
+-   3.58 
+40 
+  0 
+-   8.84 
+60 
+- 1.22 
+- 6.12
+
+44
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4)
+20-39
+2/37 contacts
+Size 16/20
+20-41
+41 contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
++ 1.65 +10.44
+ 
+A 
+ 
+0 
++10.60 
+Y 
++ 3.35 + 6.38
+ 
+B 
++ 4.80 + 9.42
+ 
+B 
++ 3.28 +10.09 
+Z 
++ 5.92 + 4.09
+ 
+C 
++ 7.47 + 7.47
+ 
+C 
++ 6.23 + 8.58 
+a 
++ 7.15 + 0.87
+ 
+D 
++ 9.42 + 4.80
+ 
+D 
++ 8.58 + 6.23 
+b 
++ 6.73 - 2.55
+ 
+E 
++10.44 + 2.16
+ 
+E 
++10.09 + 3.28 
+c 
+- 4.78 - 5.39
+ 
+F 
++10.44 - 1.65
+ 
+F 
++10.60  
+0 
+d 
++ 1.73 - 6.99
+ 
+G 
++ 9.42 - 4.80
+ 
+G 
++10.09 - 3.28 
+e 
+- 1.73 - 6.99
+ 
+H 
++ 7.47 - 7.47
+ 
+H 
++ 8.58 - 6.23 
+f 
+- 4.78 - 5.39
+ 
+J 
++ 4.80 - 9.42
+ 
+J 
++ 6.23 - 8.58 
+g 
+- 6.73 - 2.55
+ 
+K 
++ 1.65 - 10.44
+ 
+K 
++ 3.28 - 10.09 
+h 
+- 7.15 + 0.87
+ 
+L 
+- 1.65 - 10.44
+ 
+L 
+ 
+0 
+- 10.60 
+i 
+- 5.92 + 4.09
+ 
+M 
+- 4.80 - 9.42
+ 
+M 
+- 3.28 - 10.09 
+j_ 
+- 3.35 + 6.38
+ 
+N 
+- 7.47 - 7.47
+ 
+N 
+- 6.23 - 8.58 
+k_ 
+ 0 
++ 3.81
+ 
+P 
+- 9.42 - 4.80
+ 
+P 
+- 8.58 - 6.23 
+m 
++ 2.98 + 2.38
+ 
+R 
+- 10.44 - 1.65
+ 
+R 
+- 10.09 - 3.28 
+n 
++ 3.71 - 0.85
+ 
+S 
+- 10.44 + 2.16
+ 
+S 
+- 10.60  
+0 
+p_ 
+- 1.66 - 3.43
+ 
+T 
+- 9.42 + 4.80
+ 
+T 
+- 10.09 + 3.28 
+q 
++ 1.66 - 3.43
+ 
+U 
+- 7.47 + 7.47
+ 
+U 
+- 8.58 + 6.23 
+r 
+- 3.71 - 0.85
+ 
+V 
+- 4.80 + 9.42
+ 
+V 
+- 6.23 + 8.58 
+s 
+- 2.98 + 2.38
+ 
+W 
+- 1.65 +10.44
+ 
+W 
+- 3.28 +10.09 
+t 
+ 0 
+ 0
+ 
+X 
+ 
+0 
++ 7.49
+ 
+X 
+ 
+0 
++ 7.20
+ 
+Y 
++ 3.20 + 6.50
+ 
+Z 
++ 5.89 + 4.55
+ 
+a 
++ 7.11 + 1.70
+ 
+b 
++ 7.11 - 1.80
+22-21
+21 contacts
+Size 16
+ 
+c_ 
++ 5.51 - 4.80
+ 
+d 
++ 2.84 - 6.73
+ 
+e 
+- 2.84 - 6.73
+ 
+f 
+- 5.51 - 4.80
+ 
+g 
+- 7.11 - 1.88
+ 
+h 
+- 7.11 + 1.70
+ 
+i 
+- 5.89 + 4.55
+ 
+j 
+- 3.20 + 6.50
+ 
+k_ 
+ 
+0 
++ 4.17
+ 
+m 
++ 2.89 + 1.22
+ 
+n 
++ 2.69 - 2.72
+ 
+p_ 
+ 
+0 
+- 4.80
+ 
+q 
+- 2.69 - 2.71
+ 
+r 
+- 2.89 + 1.22
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+A 
++  3.25 +  9.78 
+M 
+- 7.34 + 7.24
+ 
+B 
++  7.34 +  7.24 
+N 
+- 3.25 + 9.78
+ 
+C 
++  9.80 +  3.12 
+P 
+ 0 
++ 6.22
+ 
+D 
++10.16 -  1.65 
+R 
++ 4.06 + 3.71
+ 
+E 
++  8.33 -  6.07 
+S 
++ 5.44 - 0.89
+ 
+F 
++  4.65 -  9.19 
+T 
++ 2.39 - 4.93
+ 
+G 
+  0 
+-10.31 
+U 
+- 2.39 - 4.93
+ 
+H 
+-  4.65 -  9.19 
+V 
+- 5.44 - 0.89
+ 
+J 
+-  8.33 -  6.07 
+W 
+- 4.06 + 3.71
+ 
+K 
+- 10.16 -  1.65 
+X 
+ 0 
+ 0
+ 
+L 
+-  9.80 +  3.12
+
+45
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4)
+24-19
+19 contacts
+Size 12
+22-35
+100 contacts
+Size 22D
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+  1 
+- 10.87 + 6.12 
+  51 
+ 
+0 
+- 1.19
+ 
+  2 
+- 11.86 + 3.91 
+  52 
+ 
+0 
+- 3.61
+ 
+A 
+ 
+0 
++10.39 
+L 
+- 8.99 + 5.21
+ 
+  3 
+- 12.40 + 1.55 
+  53 
+ 
+0 
+- 6.02
+ 
+B 
++ 5.99 +10.39 
+M 
+- 5.99 +10.39
+ 
+  4 
+- 10.54  
+0 
+  54 
+ 
+0 
+- 8.43
+ 
+C 
++ 8.99 + 5.21 
+N 
+- 3.00 + 5.21
+ 
+  5 
+- 12.40 - 1.55 
+  55 
+ 
+0 
+- 10.85
+ 
+D 
++11.99  
+0 
+P 
++ 3.00 + 5.21
+ 
+  6 
+- 10.87 - 3.61 
+  56 
++ 2.11 +12.07
+ 
+E 
++ 8.99 - 5.21 
+R 
++ 5.99  
+0
+ 
+  7 
+- 10.87 - 6.02 
+  57 
++ 2.11 + 9.65
+ 
+F 
++ 5.99 - 10.39 
+S 
++ 3.00 - 5.21
+ 
+  8 
+- 8.43 + 8.46 
+  58 
++ 2.11 + 7.24
+ 
+G 
+ 
+0 
+- 10.39 
+T 
+- 3.00 - 5.21
+ 
+  9 
+- 8.43 + 6.05 
+  59 
++ 2.11 + 4.83
+ 
+H 
+- 5.99 - 10.39 
+U 
+- 5.99  
+0
+ 
+10 
+- 8.43 + 3.63 
+  60 
++ 2.11 + 2.41
+ 
+J 
+- 8.99 - 5.21 
+V 
+ 0 
+ 
+0
+ 
+11 
+- 8.43 + 1.22 
+  61 
++ 2.11  
+0
+ 
+K 
+- 11.99  
+0 
+ 
+12 
+- 8.43 - 1.19 
+  62 
++ 2.11 - 2.41
+ 
+13 
+- 8.43 - 3.61 
+  63 
++ 2.11 - 4.83
+ 
+14 
+- 8.43 - 6.02 
+  64 
++ 2.11 - 7.24
+ 
+15 
+- 8.43 - 8.43 
+  65 
++ 2.11 - 9.65
+ 
+16 
+- 6.32 + 9.65 
+  66 
++ 2.11 - 12.07
+ 
+17 
+- 6.32 + 7.24 
+  67 
++ 4.22 +10.87
+ 
+18 
+- 6.32 + 4.83 
+  68 
++ 4.22 + 8.46
+ 
+19 
+- 6.32 + 2.41 
+  69 
++ 4.22 + 6.05
+ 
+20 
+- 6.32  
+0 
+  70 
++ 4.22 + 3.63
+24-29
+29 contacts
+Size 16
+ 
+21 
+- 6.32 - 2.41 
+  71 
++ 4.22 + 1.22
+ 
+22 
+- 6.32 - 4.83 
+  72 
++ 4.22 - 1.19
+ 
+23 
+- 6.32 - 7.24 
+  73 
++ 4.22 - 3.61
+ 
+24 
+- 6.32 - 9.65 
+  74 
++ 4.22 - 6.02
+ 
+25 
+- 4.22 +10.87 
+  75 
++ 4.22 - 8.43
+ 
+26 
+- 4.22 + 8.46 
+  76 
++ 4.22 -10.85
+ 
+27 
+- 4.22 + 6.05 
+  77 
++ 6.32 + 9.65
+ 
+28 
+- 4.22 + 3.63 
+  78 
++ 6.32 + 7.24
+ 
+29 
+- 4.22 + 1.22 
+  79 
++ 6.32 + 4.83
+ 
+30 
+- 4.22 - 1.19 
+  80 
++ 6.32 + 2.41
+ 
+31 
+- 4.22 - 3.61 
+  81 
++ 6.32  
+0
+ 
+32 
+- 4.22 - 6.02 
+ 82 
++ 6.32 - 2.41
+ 
+33 
+- 4.22 - 8.43 
+  83 
++ 6.32 - 4.83
+ 
+34 
+- 4.22 - 10.85 
+  84 
++ 6.32 - 7.24
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+35 
+- 2.11 +12.07 
+  85 
++ 6.32 - 9.65
+ 
+A 
+ 
+0 
++12.22 
+S 
+- 2.31 + 8.15
+ 
+36 
+- 2.11 + 9.65 
+  86 
++ 8.43 + 8.46
+ 
+B 
++ 6.55 +10.31 
+T 
++ 2.31 + 8.15
+ 
+37 
+- 2.11 + 7.24 
+  87 
++ 8.43 + 6.05
+ 
+C 
++10.03 + 7.04 
+U 
++ 5.79 + 4.93
+ 
+38 
+- 2.11 + 4.83 
+  88 
++ 8.43 + 3.63
+ 
+D 
++11.91 + 2.77 
+V 
++ 8.10  0
+ 
+39 
+- 2.11 + 2.41 
+  89 
++ 8.43 + 1.22
+ 
+E 
++11.91 - 2.77 
+W 
++ 6.10 - 4.60
+ 
+40 
+- 2.11  
+0 
+  90 
++ 8.43 - 1.19
+ 
+F 
++10.03 - 7.04 
+X 
++ 2.31 - 7.37
+ 
+41 
+- 2.11  
+2.41 
+  91 
++ 8.43 - 3.61
+ 
+G 
++ 6.68 - 10.31 
+Y 
+- 2.31 - 7.37
+ 
+42 
+- 2.11 - 4.83 
+  92 
++ 8.43 - 6.02
+ 
+H 
++ 2.31 - 11.99 
+Z 
+- 6.10 - 4.60
+ 
+43 
+- 2.11 - 7.24 
+  93 
++ 8.43 - 8.43
+ 
+J 
+- 2.31 - 11.99 
+a 
+- 8.10  0
+ 
+44 
+- 2.11 - 9.65 
+  94 
++10.87 + 6.12
+ 
+K 
+- 6.68 - 10.31 
+b 
+- 5.79 + 4.93
+ 
+45 
+- 2.11 - 12.07 
+  95 
++11.86 + 3.91
+ 
+L 
+- 10.03 - 7.04 
+c 
+ 0 
++ 4.09
+ 
+46 
+ 
+0 
++10.87 
+  96 
++12.40 + 1.55
+ 
+M 
+- 11.91 - 2.77 
+d 
++ 3.40  0
+ 
+47 
+ 
+0 
++ 8.46 
+  97 
++10.54  
+0
+ 
+N 
+- 11.91 + 2.77 
+e 
+ 0 
+- 3.30
+ 
+48 
+ 
+0 
++ 6.05 
+  98 
++12.40 - 1.55
+ 
+P 
+- 10.03 + 7.04 
+f 
+- 3.40  0
+ 
+49 
+ 
+0 
++ 3.63 
+  99 
++10.87 - 3.61
+ 
+R 
+- 6.55 +10.31
+ 
+50 
+ 
+0 
++ 1.22 
+100 
++10.87 - 6.02
+
+46
+Assembly instructions
+Contact bore holes for receptacles (p. 18-20)
+Front view of the pin insert in the normal position (p. 4)
+24-61
+61 contacts
+Size 20
+24-35
+128 contacts
+Size 22D
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+  1 
+- 12.17 + 7.09 
+ 53 
+- 2.11  
+0
+ 
+  2 
+- 13.21 + 4.83 
+ 54 
+- 2.11 - 2.41
+ 
+A 
++ 4.98 +12.70 
+i 
++ 6.38 - 7.98
+ 
+  3 
+- 13.87 + 2.41 
+ 55 
+- 2.11 - 4.83
+ 
+B 
++ 7.98 +11.05 
+j_ 
++ 3.38 - 9.63
+ 
+  4 
+- 14.10  
+0 
+ 56 
+- 2.11 - 7.24
+ 
+C 
++10.49 + 8.71 
+k 
+ 0 
+- 10.21
+ 
+  5 
+- 13.87 - 2.41 
+ 57 
+- 2.11 - 9.65
+ 
+D 
++12.32 + 5.84 
+m 
+- 3.38 - 9.63
+ 
+E 
++13.39 + 2.57 
+n 
+- 6.38 - 7.98
+ 
+F 
++13.61 - 0.76 
+p_ 
+- 8.66 - 5.41
+ 
+  6 
+- 13.21 - 4.83 
+ 58 
+- 2.11 - 12.07
+  
+  7 
+- 12.17 - 7.09 
+ 59 
+ 0 
++13.26
+      8 
+- 10.77 + 9.07 
+ 60 
+ 0 
++10.85
+ 
+G 
++12.98 - 4.17 
+q 
+- 9.96 - 2.24
+ 
+  9 
+- 10.54 + 4.83   61 
+ 0 
++ 8.43
+ 
+H 
++11.53 - 7.29 
+r 
+-10.13 + 1.17
+ 
+10 
+- 10.54 + 2.41 
+ 62 
+ 0 
++ 6.02
+ 
+J 
++ 9.35 - 9.93 
+s_ 
+- 9.19 + 4.45
+ 
+11 
+- 10.54  
+0 
+ 63 
+ 0 
++ 3.61
+ 
+K 
++ 6.58 - 11.94 
+t 
+- 7.24 + 7.19
+ 
+12 
+- 10.54 - 2.41 
+ 64 
+ 0 
++ 1.19
+ 
+L 
++ 3.40 - 13.18 
+u 
+- 4.39 + 9.22
+ 
+13 
+- 10.54 - 4.83 
+ 65 
+ 0 
+- 1.19
+ 
+M 
+ 
+0 
+- 13.64 
+v 
+ 0 
++ 8.59
+ 
+14 
+- 10.77 - 9.07 
+ 66 
+ 0 
+- 3.61
+ 
+N 
+- 3.40 - 13.18 
+w_ 
++ 3.73 + 5.66
+ 
+15 
+- 8.43 +11.28 
+ 67 
+ 0 
+- 6.02
+ 
+P 
+- 6.58 - 11.94 
+x_ 
++ 6.02 + 3.10
+ 
+16 
+- 8.43 + 8.43 
+ 68 
+ 0 
+- 8.43
+ 
+R 
+- 9.35 - 9.93 
+y_ 
++ 6.78 - 0.25
+ 
+17 
+- 8.43 + 6.02 
+ 69 
+ 0 
+- 10.85
+ 
+S 
+- 11.53 - 7.29 
+z_ 
++ 5.79 - 3.53
+ 
+18 
+- 8.43 + 3.61 
+ 70 
+ 0 
+- 14.10
+ 
+T 
+- 12.98 - 4.17 
+AA 
++ 3.33 - 5.92
+ 
+19 
+- 8.43 + 1.19 
+ 71 
++ 2.11 +12.07
+ 
+U 
+- 13.61 - 0.76 
+BB 
+ 0 
+- 6.78
+ 
+20 
+- 8.43 - 1.19 
+ 72 
++ 2.11 + 9.65
+ 
+V 
+- 13.39 + 2.57 
+CC 
+- 3.33 - 5.92
+ 
+21 
+- 8.43 - 3.61 
+ 73 
++ 2.11 + 7.24
+ 
+W 
+- 12.32 + 5.84 
+DD 
+- 5.79 - 3.53
+ 
+22 
+- 8.43 - 6.02 
+ 74 
++ 2.11 + 4.83
+ 
+X 
+- 10.49 + 8.71 
+EE 
+- 6.78 - 0.25
+ 
+23 
+- 8.43 - 8.43 
+ 75 
++ 2.11 + 2.41
+ 
+Y 
+- 7.98 +11.05 
+FF 
+- 6.02 + 3.10
+ 
+24 
+- 8.43 - 10.85 
+ 76 
++ 2.11  
+0
+ 
+Z 
+- 4.98 +12.70 
+GG 
+- 3.73 + 5.66
+ 
+25 
+- 6.32 +12.60 
+ 77 
++ 2.11 - 2.41
+ 
+a 
+- 1.73 +11.53 
+HH 
+ 0 
++ 5.08
+ 
+26 
+- 6.32 + 9.65 
+ 78 
++ 2.11 - 4.83
+ 
+b 
++ 1.73 +11.53 
+JJ 
++ 2.67 + 2.39
+ 
+27 
+- 6.32 + 7.24 
+ 79 
++ 2.11 - 7.24
+ 
+c_ 
++ 4.39 + 9.22 
+KK 
++ 3.43 - 1.04
+ 
+28 
+- 6.32 + 4.83 
+ 80 
++ 2.11 - 9.65
+ 
+d 
++ 7.24 + 7.19 
+LL 
+ 0 
+- 3.35
+ 
+29 
+- 6.32 + 2.41 
+ 81 
++ 2.11 - 12.07
+ 
+e 
++ 9.19 + 4.45 
+MM 
+- 3.43 - 1.04
+ 
+30 
+- 6.32  
+0 
+ 82 
++ 4.06 +13.49
+ 
+f 
++10.13 + 1.17 
+NN 
+- 2.67 + 2.39
+ 
+31 
+- 6.32 - 2.41 
+ 83 
++ 4.22 +10.85
+ 
+g 
++ 9.96 - 2.24 
+PP 
+ 0 
+ 0
+ 
+32 
+- 6.32 - 4.83 
+ 84 
++ 4.22 + 8.43
+ 
+h 
++ 8.66 - 5.41
+ 
+33 
+- 6.32 - 7.24 
+ 85 
++ 4.22 + 6.02
+ 
+34 
+- 6.32 - 9.65 
+ 86 
++ 4.22 + 3.61
+ 
+35 
+- 6.32 - 12.07 
+ 87 
++ 4.22 + 1.19
+ 
+36 
+- 4.06 +13.49 
+ 88 
++ 4.22 - 1.19
+ 
+37 
+- 4.22 +10.85 
+ 89 
++ 4.22 - 3.61
+ 
+38 
+- 4.22 + 8.43 
+ 90 
++ 4.22 - 6.02
+ 
+39 
+- 4.22 + 6.02 
+ 91 
++ 4.22 - 8.43
+Contact
+X
+Y
+Contact
+X
+Y
+ 
+40 
+- 4.22 + 3.61 
+ 92 
++ 4.22 - 10.85
+ 
+105 
++ 8.43 +11.28 
+117 
++10.54 + 2.41
+ 
+41 
+- 4.22 + 1.19 
+ 93 
++ 4.22 - 13.26
+ 
+106 
++ 8.43 + 8.43 
+118 
++10.54  0
+ 
+42 
+- 4.22 - 1.19 
+ 94 
++ 6.32 +12.60
+ 
+107 
++ 8.43 + 6.02 
+119 
++10.54 - 2.41
+ 
+43 
+- 4.22 - 3.61 
+ 95 
++ 6.32 + 9.65
+ 
+108 
++ 8.43 + 3.61 
+120 
++10.54 - 4.83
+ 
+44 
+- 4.22 - 6.02 
+ 96 
++ 6.32 + 7.24
+ 
+109 
++ 8.43 + 1.19 
+121 
++10.77 - 9.07
+ 
+45 
+- 4.22 - 8.43 
+ 97 
++ 6.32 + 4.83
+ 
+110 
++ 8.43 - 1.19 
+122 
++12.17 + 7.09
+ 
+46 
+- 4.22 - 10.85 
+ 98 
++ 6.32 + 2.41
+ 
+111 
++ 8.43 - 3.61 
+123 
++13.21 + 4.83
+ 
+47 
+- 4.22 - 13.26 
+ 99 
++ 6.32  
+0
+ 
+112 
++ 8.43 - 6.02 
+124 
++13.87 + 2.41
+ 
+48 
+- 2.11 +12.07 
+100 
++ 6.32 - 2.41
+ 
+113 
++ 8.43 - 8.43 
+125 
++14.10  0
+ 
+49 
+- 2.11 + 9.65 
+101 
++ 6.32 - 4.83
+ 
+114 
++ 8.43 - 10.85 
+126 
++13.87 - 2.41
+ 
+50 
+- 2.11 + 7.24 
+102 
++ 6.32 - 7.24
+ 
+115 
++10.77 + 9.07 
+127 
++13.21 - 4.83
+ 
+51 
+- 2.11 + 4.83 
+103 
++ 6.32 - 9.65
+ 
+116 
++10.54 + 4.83 
+128 
++12.17 - 7.09
+ 
+52 
+- 2.11 + 2.41 
+104 
++ 6.32 - 12.07
+
+Other connector series from our sales program for military, 
+aerospace, and industrial applications:
+MS u. 97 
+as per MIL-C-5015 in standard and special designs
+QWLD 
+ as per MIL-C-22992. Connectors for use with high mechanical  
+and electrical stress
+PT 
+as per VG 95328 and MIL-C-26482, Series 1
+MB/ 
+as per MIL-C-26482, Series 2, for high temperatures
+602 GB 
+as per PAN 6432-1 and -4
+ 
+as per MIL-C-83723, Series 1
+MT/MB 
+as per MIL-C-83723, Series 3
+LJT 
+as per MIL-C-38999, Series 1
+JT 
+as per MIL-C -38999, Series 2
+TRI-START 
+as per MIL-C-38999, Series 3
+ZZW/ZZY 
+as per MIL-C-26500
+711/715 
+as per MIL-STD 1553 B (DATA-BUS)
+ 
+as per PAN 6484/PAN 6486
+348 
+as per MIL-C-81511 and VG 95329
+B3 
+Brush connector with up to 400 contacts for printed circuit boards
+– 
+Coaxial connectors as per MIL-C-39012
+– 
+Connectors for fiber optic cables
+– 
+Special designs following customer specifications
+– 
+Filter connectors
+
+Amphenol-Air LB GmbH, Am Kleinbahnhof 4, D-66740 Saarlouis
+Telephone +49(0)6831 9810-0 · Telefax +49(0)6831 9810-20 · E-mail: info@amphenol-airlb.de
+http://www.amphenol-airlb.de
+Series SJT
+Printed on chlorine-free bleached paper, subject to change.
+Copyright 06/14 by Amphenol-air LB GmbH, Germany
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  VG96912D1419SN  VG96912B1235PN  VG96912B2016PN  VG96912L16  VG96912L18  VG96912L10 
+VG96912V318B  VG96912V324B  VG96912D835PN  VG96912D835SN  VG96912D898SN  VG96912L8 
+VG96912V110B  VG96912V114B  VG96912D1435PN  VG96912D1435SN  VG96912D1497PN  VG96912D1635PN 
+VG96912D1835PN  VG96912D835PA  VG96912D1035SN  VG96912D1098SN  VG96912D1235PA  VG96912D1235PB
+  VG96912D1235PN  VG96912D1235SN  VG96912B1497SN  VG96912B835PN  VG96912B835SN  VG96912B898SN
+  VG96912D1035PA  VG96912D1035PN  VG96912B1035PN  VG96912B1035SA  VG96912B1035SN 
+VG96912B1235SN  VG96912B1419SN  VG96912B1435SN  VG96912A1235SA  VG96912A1235SN 
+VG96912A1435PN  VG96912A1435SN  VG96912A1635SN  VG96912A898PN  VG96912L12  VG96912L14 
+VG96912A1035PN  VG96912A1035SA  VG96912A1035SN  VG96912A1235PN

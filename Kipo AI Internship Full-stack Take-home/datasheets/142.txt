@@ -1,0 +1,1859 @@
+Clipper Series
+Industrial Plastic Connector
+
+
+Clipper Industrial Plastic Connectors
+Contents
+Description/Features/Presentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+4
+Square flange receptacle and in-line receptacle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5
+Plug and backnut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+6
+Electrical thread backshell . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+7
+Accessories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Stamped and formed contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+9
+Machined contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+10
+IP68 configuration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+IP67 configuration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Mated and unmated connectors (with backshells) overall dimensions . . . . . . . . . . . . . . . . . . . . . . . 16
+Dimensions (receptacle and plug) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Manual crimping tool. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Automatic crimping tool . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Panel mounting/panel cut-out . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Wiring instruction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Assembly instruction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+General technical information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+3
+
+Clipper Industrial Plastic Connectors
+Presentation
+CLIPPER is a plastic low cost range of
+industrial connectors, UL & CSA approved.
+Complementing SOURIAU product range
+CLIPPER offers :
+Locked
+plate
+Unlocked
+plate
+• a high sealing level :
+- IP67 for the sealed plug (with o’ring 
+and mating seal)
+- IP68 for the enhanced sealed plug 
+(with o’ring and a special mating seal).
+This version allows a permanent waterproof
+level when immersed at depths down 
+to 30 meters.
+Locked, the retention plate holds the contacts firmly in position
+Unlocked, the retention plate allows
+the insertion/extraction of contacts without tooling
+• a retention plate system allowing
+insertion/extraction of the contacts without
+the need for tooling,
+Electrical
+Description
+• facilities to use trade backshells with the
+electrical thread adaptor (PG).
+CLIPPER range 
+is composed of :
+Retention plate principle
+Features
+Mechanical
+• 4 sizes of shell in molded black
+thermoplastic material
+(size 1/2/3/4).
+• Withstand voltage : 1500 Vrms min or in
+accordance with DIN 57110b.
+• Contact resistance < 10 mW.
+• Current rating per contact :
+- machined contacts :
+# 20 (7 Amps), # 16 (13 Amps)
+- stamped and formed contacts :
+# 20 (5 Amps), # 16 (10 Amps).
+• 7 contact layouts
+(4/9/14/18/26/31/40 contacts).
+Environmental
+• #20, #16 contacts, machined or stamped
+and formed, crimp, solder or PC tail
+termination.
+• An adaptor with electrical PG thread for PG
+backshells.
+• Backnut with grommet facilities.
+• Sealing :
+- up to IP68
+• Working temperature :
+-40°C to +125°C. (-40°F to +257°F)
+• Resistance to salt spray :
+- 48 h min
+- > 1000 h (sealed mated connectors).
+• Resistance to fluids :
+- oil,
+- petrol, fuel,
+- lubricants
+- other fluids : consult us.
+• Monobloc shell and insulator in
+thermoplastic material self-extinguishing to
+UL 94 V0.
+• 180° screw coupling with positive audible
+safety latch.
+• Scoop proof.
+• Copper alloy contacts, machined or stamped
+and formed
+• plating : gold on active 
+part over nickel.
+• Mechanical endurance :
+- connector : 250 cycles mating / unmating,
+- retention plate : 50 cycles mating /
+unmating.
+• Retention force :
+- # 20   → 70 N
+- # 16   → 90 N.
+• Vibration :
+- frequency range :
+10-2000 Hz, 20 g
+- 10 cycles in accordance with CEI 68-2-6
+4
+
+Clipper Industrial Plastic Connectors
+Available Style Square flange receptacle and in-line receptacle
+Part number
+Unsealed receptacle
+(without o’ring)
+In-line
+receptacle
+Sealed receptacle
+(with o’ring and
+panel gasket)
+Receptacle
+types without
+contacts
+Sealed receptacle
+(with o’ring)
+for use with
+backshell
+Contacts
+layouts
+for
+male
+contacts 
+for
+female
+contacts
+for
+male
+contacts 
+for
+female
+contacts
+for
+male
+contacts 
+for
+female
+contacts
+unsealed
+for male
+contacts 
+sealed
+for male
+contacts
+4 cts
+# 16
+CL1M1100 CL1R1100
+CL1R1101
+CL1R1102
+CL1M1101
+CL1M1102
+CL1C1100 CL1C1101
+1
+CL1M1200
+CL1M1201
+CL1M1202
+CL1C1200
+CL1C1201
+9 cts
+# 20
+9 cts
+# 16
+CL1R2102
+CL1M2100
+CL1R2100
+CL1M2101
+CL1R2101
+CL1M2102
+CL1C2100
+CL1C2101
+2
+CL1M2200
+CL1M2201
+CL1M2202
+CL1C2200
+CL1C2201
+14 cts
+# 20
+18 cts
+# 16
+Shell sizes
+CL1M3100
+CL1M3101
+CL1M3102
+CL1C3100
+CL1C3101
+CL1R3100
+CL1R3101
+CL1R3102
+3
+CL1C3200
+CL1C3201
+CL1M3200
+CL1M3201
+CL1M3202
+31 cts
+# 20
+26 cts
+# 16
+CL1M4100
+CL1M4101
+CL1M4102
+CL1C4100
+CL1C4101
+4
+CL1R4201
+CL1M4202
+CL1R4202
+CL1C4200
+CL1C4201
+CL1M4200
+CL1R4200
+CL1M4201
+40 cts
+# 16
+5
+
+Clipper Industrial Plastic Connectors
+Plug and backnut
+Part number
+Unsealed plug
+(without o’ring
+and mating seal)
+Sealed plug
+(with o’ring
+and mating seal)
+Sealed backnut
+Unsealed backnut
+Plug types
+without 
+contacts
+Grommet
+Thrust ring
+O ring
+Contact
+layouts
+for
+male
+contacts
+for
+female
+contacts
+for
+male
+contacts
+for
+female
+contacts
+for
+male
+contacts
+for
+female
+contacts
+for male
+and female contacts
+CL1P1100 CL1F1100
+CL1P1101
+CL111102
+CL111101
+4 cts
+# 16
+CL1F1101
+(IP67)
+CL1F1103
+(IP68)
+CL111000
+1
+CL1F1200
+CL111202
+CL111201
+9 cts
+# 20
+CL1F1201
+(IP67)
+CL1F1203
+(IP68)
+CL112101
+CL1P2100
+CL1P2101
+CL112102
+CL1F2100
+9 cts
+# 16
+CL1F2101
+(IP67)
+CL1F2103
+(IP68)
+CL112000
+2
+CL1F2200
+14 cts
+# 20
+CL1F2201
+(IP67)
+CL1F2203
+(IP68)
+18 cts
+# 16
+Shell sizes
+CL1P3100
+CL1P3101
+CL113102
+CL1F3100
+CL113101
+CL1F3101
+(IP67)
+CL1F3103
+(IP68)
+CL113000
+3
+CL113202
+CL113201
+CL1F3200
+31 cts
+# 20
+CL1F3201
+(IP67)
+CL1F3203
+(IP68)
+26 cts
+# 16
+CL1F4100
+CL114102
+CL114101
+CL1F4101
+(IP67)
+CL1F4103
+(IP68)
+CL114000
+4
+CL1P4200
+CL1F4200
+CL1P4201
+CL114202
+CL114201
+40 cts
+# 16
+CL1F4201
+(IP67)
+CL1F4203
+(IP68)
+6
+
+
+Clipper Industrial Plastic Connectors
+Accessories
+Panel gasket (for square flange receptacle)
+Shell sizes
+1
+2
+3
+4
+Part numbers
+CL191001
+CL192001
+CL193001
+CL194001
+90° adaptors for receptacles
+90° adaptors for receptacles
+Dim. (inches) /
+A
+B
+C
+D
+E
+Shell sizes
+1
+.84
+.96
+1.52
+.13
+1.15
+2
+.97
+1.10
+1.56
+.13
+1.21
+3
+1.12
+1.20
+1.69
+.15
+1.40
+4
+1.44
+1.55
+1.95
+.15
+1.87
+90° sealed adaptors for receptacles Shell 1 to 4
+Shell
+Part numbers
+Sealed*
+1
+CL131001
+2
+CL132001
+3
+CL133001
+4
+CL134001
+* with panel gasket
+IP67 Dust cap for receptacle
+Shell
+Part number
+1
+CL141001
+2
+CL142001
+3
+CL143001
+4
+CL144001
+8
+
+Clipper Industrial Plastic Connectors
+Stamped and formed contacts
+Admissible 
+insulation (inches)
+Size
+Part numbers
+Crimp Contact
+section mm2
+AWG
+Ø mm over 
+with strain relief
+Packaging
+CF16PC10RF
+male
+Bulk
+CF16SC10RF
+female
+18 to 16
+16
+0.7 to 1.5 mm2
+2 mm to 3 mm
+(0.08" to 0.12")
+CF16PC18RF
+male
+Reel
+5,000
+pcs.
+CF16SC18RF
+female
+CF10PC10RF
+male
+Bulk
+CF10SC10RF
+female
+22 to 20
+20
+0.35 to 0.6 mm2
+1.2 mm 
+to 2.1 mm
+(0.05" to 0.08")
+CF10PC18RF
+male
+Reel
+5,000
+pcs.
+female
+CF10SC18RF
+Plating RF : gold flash on active part for standard version (For other platings, consult FCI)
+Assembly
+Part number : 8500 479 CL
+Filler plug # 16 
+(for un-used contact cavities)
+Part number : 8500 4144
+Filler plug # 20
+(for un-used contact cavities)
+Part number : CP16SW9700
+Polarization Contact 
+(instruction for polarizing
+connector - see page 23)
+Print Circuit (PC) Tail Machined Contact
+male
+16
+CM16PT10LY
+Bulk
+20
+male
+CM10PT10LY
+9
+
+Clipper Industrial Plastic Connectors
+Machined contacts
+Admissible 
+Contact types
+Size
+Ø mm over 
+AWG
+Packaging
+Part numbers
+insulation (inches)
+section mm2
+crimp
+CM16PC10MQ
+male
+CM16PC10MQ
+CM16PC20MQ*
+18 to 14
+0.93 
+to 1.91 mm2
+CM16SC10MQ
+CM16SC10MQ
+female
+CM16SC20MQ*
+2 mm to 3 mm
+(0.08" to 0.12")
+16
+solder
+CM16PS10MQ
+male
+CM16PS10MQ
+14*
+Max
+CM16SS10MQ
+female
+CM16SS10MQ
+crimp
+CM10PC10MQ
+male
+Bulk
+24 to 18
+0.21 
+to 0.93 mm2
+female
+CM10SC10MQ
+20
+1.2 mm to 2.1 mm
+(0.05" to 0.08")
+solder
+CM10PS10MQ
+male
+18 Max
+CM10SS10MQ
+female
+crimp
+male
+CM16PC00MQ
+18 to 13
+16
+2 mm to 3 mm
+(0.08" to 0.12")
+0.93 
+to 2.60 mm2
+CM16SC00MQ
+female
+CM16PC20MQ
+male
+16
+2 to 3 mm
+(0.08" to 0.12")
+20
+0.21 
+to 0.60 mm2
+CM16SC20MQ
+female
+CM10PC20MQ
+male
+1.2 to 2.1 mm
+(0.05" to 0.08")
+30 to 24
+0.06 
+to 0.21 mm2
+20
+CM10SC20MQ
+female
+Plating MQ : 0.4µ mm gold on active part (.016µ inches)
+* Up to 1.91 mm2
+Extended ground contact-crimp (Length + .039 inch = +1 mm)
+male
+16
+0.08" to 0.12"
+18 to 14
+8501 9641
+Bulk
+20
+male
+0.05" to 0.08"
+24 to 18
+8501 9642 CL
+10
+
+Clipper Industrial Plastic Connectors
+IP68 Configuration
+IP68 Configuration (temporary water tightness down to 100 feet)
+11
+
+Clipper Industrial Plastic Connectors
+IP68 Configuration
+Part numbers
+Anti-decoupling sealing
+gland backshell
+Sealed In-line
+receptacle
+Sealed plug
+(with o’ring
+and mating seal)
+Sealed receptacle
+(with o’ring and
+panel gasket)
+o’ring
+Shell types
+(without
+contacts)
+and 
+Backshell
+type
+Contacts
+layouts
+for female
+contacts
+for male
+contacts
+for male
+contacts
+4 cts
+# 16
+CL1C1101
+CL1M1102
+CL1F1103
+1
+CL101021
+(pg 13.5)
+CL1C1201
+CL1F1203
+CL1M1202
+9 cts
+# 20
+9 cts
+# 16
+CL1C2101
+CL1M2102
+CL1F2103
+2
+CL102021
+(pg 16)
+CL1C2201
+CL1M2202
+CL1F2203
+14 cts
+# 20
+18 cts
+# 16
+Shell sizes
+CL1C3101
+CL1M3102
+CL1F3103
+CL103021
+(pg 21)
+3
+CL1F3203
+CL1M3202
+CL1C3201
+31 cts
+# 20
+26 cts
+# 16
+CL1C4101
+CL1F4103
+CL1M4102
+4
+CL124021
+(pg 29)
+CL104021
+(pg 36)
+CL1C4201
+CL1M4202
+CL1F4203
+40 cts
+# 16
+12
+
+Clipper Industrial Plastic Connectors
+IP67 Configuration
+IP67 Configuration (temporary water tightness)
+13
+
+Clipper Industrial Plastic Connectors
+IP67 Configuration
+Part numbers
+Sealed In-line
+receptacle
+Sealed plug
+(with o’ring
+and mating seal)
+Sealed receptacle
+(with o’ring and
+panel gasket)
+o’ring
+Shell types
+without 
+contacts
+Contact
+layouts
+for
+male
+contacts
+for
+female
+contacts
+for
+male
+contacts
+for
+male
+contacts
+for
+female
+contacts
+CL1M1102 CL1R1102 CL1P1101
+CL1M1102
+CL1F1101
+CL1C1101
+4 cts
+# 16
+1
+CL1F1201
+CL1C1201
+CL1M1202
+9 cts
+# 20
+CL1R2102
+CL1M2102
+CL1P2101
+CL1M2102
+CL1C2101
+CL1F2101
+9 cts
+# 16
+2
+CL1F2201
+CL1M2202
+CL1C2201
+14 cts
+# 20
+18 cts
+# 16
+Shell sizes
+CL1P3101
+CL1R3102
+CL1F3101
+CL1M3102
+CL1C3101
+CL1M3102
+3
+CL1C3201
+CL1M3202
+CL1F3201
+31 cts
+# 20
+26 cts
+# 16
+CL1F4101
+CL1C4101
+CL1M4102
+4
+CL1C4201
+CL1M4202
+CL1P4201
+CL1F4201
+CL1R4202
+40 cts
+# 16
+14
+
+Clipper Industrial Plastic Connectors
+IP67 Configuration
+Part numbers
+Elbow backshell
+with sealing gland
+Straight backshell for
+flexible conduit systems
+Anti-decoupling sealing
+gland backshell
+Sealed backnut
+Backshell
+types
+Grommet
+Thrust ring
+O ring
+Contact
+layouts
+for
+male
+contacts
+for
+female
+contacts
+CL111102 CL111101
+4 cts
+# 16
+1
+CL101051
+(pg 13.5)
+CL101021
+(pg 13.5)
+CL101041
+(pg 13.5)
+CL111202
+CL111201
+9 cts
+# 20
+CL112101
+CL112102
+9 cts
+# 16
+2
+CL102021
+(pg 16)
+CL102051
+(pg 16)
+CL102041
+(pg 16)
+14 cts
+# 20
+18 cts
+# 16
+Shell sizes
+CL113102
+CL113101
+3
+CL103051
+(pg 21)
+CL103041
+(pg 21)
+CL103021
+(pg 21)
+CL113202
+CL113201
+31 cts
+# 20
+26 cts
+# 16
+CL114102
+CL114101
+4
+CL104021
+(pg 36)
+CL104041
+(pg 36)
+CL124051
+(pg 29)
+CL124041
+(pg 29)
+CL124021
+(pg 29)
+CL114201
+CL114202
+40 cts
+# 16
+15
+
+Clipper Industrial Plastic Connectors
+Mated and unmated connectors with backshells
+Overall dimensions in inches
+LD
+A
+Dimensions
+Shell
+1
+2
+3
+4
+ADAPTOR
+(PG 29)(PG 36)
+Dim. (inches)
+B
+LDA
+2.01 2.09 2.09 2.17 2.17
+LVA
+2.29 2.33 2.33 2.41 2.41
+LDB
+1.81 1.85 1.85
+-
+1.85
+LVB
+2.09 2.09 2.09
+-
+2.09
+BACKNUT
+LDC
+2.68 2.85 3.03 3.41
+-
+LVC
+2.97 3.09 3.27 3.60
+-
+C
+LV
+LDD
+3.41 3.50 3.62 3.70 4.25
+J
+LVD
+3.70 3.74 3.86 3.94 4.47
+LDF
+3.15 3.27 3.35 3.74 4.02
+LVF
+3.43 3.50 3.58 3.98 4.25
+STRAIGHT CABLE CLAMP
+LDG
+3.31 3.46 3.77 4.29
+-
+D
+LVG
+3.58 3.70 4.01 4.52
+-
+K
+L
+R Max.
+2.24 2.34 2.87 3.58
+-
+STRAIGHT BACKSHELL FOR CONDUIT SYSTEM
+F
+N
+Cable acceptance*
+SEALING GLAND BACKSHELL WITH ANTI-DECOUPLING SYSTEM
+G
+Shell
+1
+2
+3
+4
+(PG 29)
+(PG 36)
+Dim. 
+(inches)
+J
+.24/.55 .24/.63 .31/.83
+.39/
+-
+1.10
+R
+Conduit L
+.67
+.67
+.91
+1.14
+1.42
+Pmaflex
+K Max
+.63
+.63
+.85
+1.08
+1.42
+Q
+N
+.24/47 .39/.55 .51/.71 .71/.98
+.87/
+1.26
+ELBOW BACKSHELL WITH SEALING GLAND
+Q
+.24/.47 .39/.55 .51/.71 .71/.98
+-
+* For other needs, consult FCI.
+16
+
+Clipper Industrial Plastic Connectors
+Dimensions in inches
+Plug
+Square flange receptacle
+Shell
+sizes
+Shell
+sizes
+1
+2
+3
+4
+1
+2
+3
+4
+Dim. 
+(inches)
+Dim. 
+(inches)
+A
+1.67
+1.67
+1.67
+1.67
+A
+.8
+.8
+.8
+.8
+B
+.83
+.96
+1.14
+1.59
+B
+1.15
+1.28
+1.46
+1.92
+C
+.71
+.71
+.71
+.71
+C
+.81
+.94
+1.12
+1.57
+D
+1.52
+1.56
+1.56
+1.56
+D
+.16
+.16
+.16
+.16
+E
+.81
+.94
+1.12
+1.57
+F
+1.17
+1.23
+1.42
+1.89
+G min.
+.83
+.96
+1.11
+1.43
+Max.
+.92
+.98
+1.17
+1.57
+H
+.13
+.13
+.15
+.15
+17
+
+Clipper Industrial Plastic Connectors
+Manual Crimping Tool
+• Squeeze the plier handles until a final click sounds, release, the pliers should
+open by themselves.
+Stamped and Formed Contacts 
+(#16 and #20)
+• Fully insert the contact into the locator (corresponding gauge), the contact
+crimping lugs should be directed upwards, according to the drawing.
+• Put the stripped wire in the crimping part until it comes in contact with the
+stopper plate. Make sure that no strands stick out of the crimping part.
+• Squeeze the plier handles until a final click sounds, release, the pliers should
+open by themselves.
+• Check the overall aspect of the crimping.
+Y16SCMCL3
+• Push the cable into the contact barrel and make sure the cable strands stick out
+of the inspection hole.
+Machined Crimping Contacts 
+(#16 and #20)
+• The pliers must be used on the jaws side.
+• Squeeze the plier handles until a final click sounds, release, the pliers should
+open by themselves.
+• Insert both wire and contact (or wire, reducing sleeve and contact) between the
+4 jaws until stopped by the locator.
+• Fully squeeze until a final click sounds, the pliers should open once the crimping
+is performed
+• Extract the wire and crimped contact, then check the overall aspect of the
+crimping.
+8365
+with
+locator
+8365-02
+18
+
+Clipper Industrial Plastic Connectors
+Automatic crimping tool
+UTM2
+Automatic crimping tool 
+for Clipper
+Description
+Electromechanical high speed semi automatic
+press is designed for mass production and is
+realized totally in assembled steel parts.
+Voltage: 
+115VAC - 60 Hz
+Power.:
+700 Watts
+Weight:
+300 lbs. (including one
+crimp mechanism)
+Dimensions:
+939.8x533.4x711.2 mm
+(37.0"x21.0"x28.0")
+Crimping Mechanism 
+(left side miniapplicators)
+Contacts
+AWG
+Contact P/N
+Crimp Mech. P/N
+16
+16-18
+CF16 PS  18RF
+CM30-R
+CF16 SC  18RF
+20
+20-22
+CF10 PS  18RF
+CM31-R
+CF10 SC  18RF
+Press and crimping mechanism are rental. 
+Please contact Customer Service.
+19
+
+Clipper Industrial Plastic Connectors
+Panel mounting / Panel cut-out
+Panel mounting
+There are two types of mounting possible: through the front or through
+the back of the panel.
+Front Mounting
+Rear Mounting
+.157" max
+(4 mm max)
+.157" max
+(4 mm max)
+Panel cut-out
+• For a sealed mounting, the seal gasket shall be used, making sure the
+surface is in good condition.
+• Observe the drilling hole diameters indicated below.
+• Use the recommended screws :
+M3 (all shells)
+or # 4.40 (shells 1 and 2)
+# 6.32 (shells 3 and 4)
+• Respect the coupling torques indicated M3 
+(all shells) : 0.70 N.m Max
+Shell
+sizes
+1
+2
+3
+4
+Dim. 
+(inches)
+H
+.85
+.98
+1.22
+1.61
+I
+.84
+.97
+1.13
+1.44
+J
+.13
+.13
+.15
+.15
+20
+
+Clipper Industrial Plastic Connectors
+Wiring Instruction
+Stripping Instructions
+Use the upmost care with stripping operation :
+• Use stripping pliers appropriate for the cable gauge and which are in perfect condition.
+• In order to obtain a correct crimping and to maintain all of the connector sealing characteristics, the wires must have the dimensions described below.
+Jacketed Cable Stripping Length
+l
+Shell
+size
+1
+2
+3
+4
+layouts
+Indifferent
+26
+40
+LD mm
+60
+65
+65
+80
+100
+(inch)
+(2.36’)
+(2.56’)
+(2.56’)
+(3.15")
+(3.94")
+Make a 90° cut at the cable end.
+Caution : This operation should be realized without deterioration 
+of wires insulation.
+carefully make an incision in order to remove the cable protection on a
+length LD as described.
+Then, follow the normal stripping instructions :
+- single wire with machined crimping contacts,
+- single wire with stamped and formed crimping contacts
+Wire Stripping Length
+• With machined crimping contacts
+• With stamped and formed crimping contacts
+Contact
+size
+I = Wire stripping lenght
+Contact
+diameter
+I = Wire stripping lenght
+layouts
+6 mm (.236")
+#16
+4 mm (.157")
+#20
+4 mm (.157")
+#20
+Ø over insulation > 2 mm � l = 5 (> .08" � l = .20")
+Ø over insulation > 2 mm � l = 7 (> .08" � l = .27")
+21
+
+Clipper Industrial Plastic Connectors
+Instruction For Assembly
+Insertion and extraction of contacts
+Single wires
+Contact insertion and extraction is performed without a tool thanks to te retainer plate system.
+Insertion
+Extraction
+1) With the thumb and index finger, squeeze the
+retainer plate flaps and pull backwards : the plate is
+then in 
+the unlocked position.
+1) With the thumb and index finger, squeeze the
+retainer plate flaps and pull backwards : the plate is
+then in 
+the unlocked position.
+2) Fully insert the wired contact in the cavity.
+2) Pull the contact wire: the the contact comes out of
+the cavity.
+3) Repeat the same procedure for the other contacts.
+3) Repeat the same procedure for the other contacts.
+4) Once again squeeze the retainer plate flaps and
+push forwards: the plate is then locked and retains
+the contacts (90 N of retention force for contacts of
+1.6 mm dia.)
+5) The plate can only be pushed backed if the
+contacts are correctly engaged (backup security)
+Special case of jacketed cables
+1) Locate the first contact and the corresponding cavity.
+Special case of jacketed cables
+2) The wire should described a buckle as describe below.
+7) Manually fully screw the adaptor and the backshell on the connector.
+3) Unlock the retainer plate as described above.
+Caution : In the sealed version don’t forget the O-ring.
+4) Fully insert the wired contact in the cavity.
+8) Push forwards the cable of 10 mm in the backshell.
+5) Respect the same procedure for the other contacts
+9) Fully screw on the backshell with a wrench while keeping the adaptor
+with another wrench.
+6) Once again squeeze the retainer plate flaps and push forwards : the
+plate is then locked
+Note : The plate can only be pushed back if the contacts are correctly
+engaged (backup- security)
+22
+
+Clipper Industrial Plastic Connectors
+Instruction For Assembly
+Adaptor and PG electrical thread backshells
+Heat shrink boot
+Shrink sleeve as follows :
+The CLIPPER connector must be equipped with an adaptor in order
+to use a PG electrical thread backshell (e.g.: cable clamp or sealing
+gland, or flexible conduits system backshells, etc.)
+1) Use heat gun with an air deflector nozzle.
+2) Adjust air deflector opening to accommodate tubing size. Turn
+switch ON. Wait until full heat output is reached.
+1) Manually, fully screw the adaptor on the
+connector, the hexagonal nut towards the
+rear.
+2) In 
+the 
+sealed 
+version, 
+cover 
+the 
+O-ring.
+3) Position the air deflector over section of tubing to be shrunk.
+Start at pre-shrunk section and work towards open end.
+4) When tubing begins to shrink, move gun so that air is distributed
+in a band around the tubing circumference causing it to shrink
+evenly around the cable.
+3) Manually, fully screw the PG thread backshell
+of your choice.
+5) Move nozzle to adjacent section and shrink in the same manner.
+Repeat process on section at a time until entire length is shrunk.
+Avoid excessive heat. Direct heat away from connector assembly
+to prevent damage.
+Note: In the case of an elbow backshell, it is
+possible to adjust the position according to the
+angle desired.
+Instruction 
+for polarizing connector mounting
+Grommet Backshell Assembly
+CP16SW9700
+When the insert is partially filled with contacts, place polarization
+contact into selected hole location in the FEMALE INSERT and
+push in until seated.
+• Polarization contacts are used to provide keying capabilities for
+the CLIPPER series.
+• Polarization contacts are used in the socket-cavities of standard
+plugs and reverse receptacles.
+1) Position the O-ring at the bottom of the backnut.
+2) Run the backnut around the cable.
+In order to lock the couple of chosen connectors, you have to let
+free the cavity in front of the polarization contact.
+3) Unlock the retainer plate.
+To avoid the connection with other connectors, you have to insert a
+contact in the cavity in front of the polarization contact.
+4) Position the grommet in the thrust ring, resting against the
+retainer plate.
+5) Insert the contacts through the grommet and the retainer plate.
+6) Lock the retainer plate.
+7) Screw the backshell.
+23
+
+Clipper Industrial Plastic Connectors
+Degree of protection in accordance with CEI 529, DIN 40050, NF EN 60529
+General technical information
+EXAMPLE : IP66-5 means: - Total protection against dust
+- Proof against temporary flooding
+- Proof against impact strength of 2 Joule
+24
+
+Clipper Industrial Plastic Connectors
+Conversion Table
+(mm)
+(inches)
+(mm)
+(inches)
+(mm)
+(inches)
+(°C)
+(°F)
+0.1
+0.00394
+8.2
+0.32308
+38.0
+1.49720
+- 70
+- 94
+0.2
+0.00788
+8.4
+0.33096
+38.5
+1.51690
+- 65
+- 85
+0.3
+0.01182
+8.6
+0.33884
+39.0
+1.53660
+- 55
+- 67
+0.4
+0.01576
+8.8
+0.34672
+39.5
+1.55630
+- 50
+- 58
+0.5
+0.01970
+9.0
+0.35460
+40.0
+1.57600
+- 40
+- 40
+0.6
+0.02364
+9.2
+0.36248
+40.5
+1.59570
+0
+32
+0.7
+0.02758
+9.4
+0.37036
+41.0
+1.61540
+37
+98.6
+0.8
+0.03152
+9.6
+0.37824
+41.5
+1.63510
+80
+176
+0.9
+0.03546
+9.8
+0.38612
+42.0
+1.65480
+125
+257
+1.0
+0.03940
+10.0
+0.39400
+42.5
+1.67450
+150
+302
+1.1
+0.04334
+10.5
+0.41370
+43.0
+1.69420
+170
+338
+1.2
+0.04728
+11.0
+0.43340
+43.5
+1.71390
+1.3
+0.05122
+11.5
+0.45310
+44.0
+1.73360
+200
+392
+250
+482
+1.4
+0.05516
+12.0
+0.47280
+44.5
+1.75330
+1.5
+0.05910
+12.5
+0.49250
+45.0
+1.77300
+1.6
+0.06304
+13.0
+0.51220
+45.5
+1.79270
+1.7
+0.06698
+13.5
+0.53190
+46.0
+1.81240
+bar
+psi
+mmHg
+(torr)
+1.8
+0.07092
+14.0
+0.55160
+46.5
+1.83210
+10
+145.0
+7600
+1.9
+0.07486
+14.5
+0.57130
+47.0
+1.85180
+5
+72.5
+3800
+2.0
+0.07880
+15.0
+0.59100
+47.5
+1.87150
+2
+29.0
+1520
+2.1
+0.08274
+15.5
+0.61070
+48.0
+1.89120
+1
+14.5
+760
+2.2
+0.08668
+16.0
+0.63040
+48.5
+1.91090
+2.3
+0.09062
+16.5
+0.65010
+49.0
+1.93060
+0.5
+7.2
+380
+0.1
+1.4
+76
+2.4
+0.09456
+17.0
+0.66980
+49.5
+1.95030
+2.5
+0.09850
+17.5
+0.68950
+50.0
+1.97000
+2.6
+0.10244
+18.0
+0.70920
+51.0
+2.00940
+2.7
+0.10638
+18.5
+0.72890
+52.0
+2.04880
+2.8
+0.11032
+19.0
+0.74860
+53.0
+2.08820
+mbar
+psi
+torr
+(mmHg)
+2.9
+0.11426
+19.5
+0.76830
+54.0
+2.12760
+10
+145.0
+7600
+3.0
+0.11820
+20.0
+0.78800
+55.0
+2.16700
+5
+72.5
+3800
+3.1
+0.12214
+20.5
+0.80770
+56.0
+2.20640
+2
+29.0
+1520
+3.2
+0.12608
+21.0
+0.82740
+57.0
+2.24580
+1
+14.5
+760
+3.3
+0.13002
+21.5
+0.84710
+58.0
+2.28520
+3.4
+0.13396
+22.0
+0.86680
+59.0
+2.32460
+0.5
+7.2
+380
+0.1
+1.4
+76
+3.5
+0.13790
+22.5
+0.88650
+60.0
+2.36400
+3.6
+0.14184
+23.0
+0.90620
+61.0
+2.40340
+3.7
+0.14578
+23.5
+0.92590
+62.0
+2.44280
+3.8
+0.14972
+24.0
+0.94560
+63.0
+2.48220
+3.9
+0.15366
+24.5
+0.96530
+64.0
+2.52160
+4.0
+0.15760
+25.0
+0.98500
+65.0
+2.56100
+4.1
+0.16154
+25.5
+1.00470
+66.0
+2.60040
+4.2
+0.16548
+26.0
+1.02440
+67.0
+2.63980
+4.3
+0.16942
+26.5
+1.04410
+68.0
+2.67920
+4.4
+0.17336
+27.0
+1.06380
+69.0
+2.71860
+4.5
+0.17730
+27.5
+1.08350
+70.0
+2.75800
+4.6
+0.18124
+28.0
+1.10320
+71.0
+2.79740
+4.7
+0.18518
+28.5
+1.12290
+72.0
+2.83680
+4.8
+0.18912
+29.0
+1.14260
+73.0
+2.87620
+4.9
+0.19306
+29.5
+1.16230
+74.0
+2.91560
+5.0
+0.19700
+30.0
+1.18200
+75.0
+2.95500
+5.2
+0.20488
+30.5
+1.20170
+80.0
+3.15200
+5.4
+0.21276
+31.0
+1.22140
+85.0
+3.34900
+5.6
+0.22064
+31.5
+1.24110
+90.0
+3.54600
+5.8
+0.22852
+32.0
+1.26080
+100.0
+3.94000
+6.0
+0.23640
+32.5
+1.28050
+200.0
+7.88000
+6.2
+0.24428
+33.0
+1.30020
+400.0
+15.76000
+6.4
+0.25216
+33.5
+1.31990
+600.0
+23.64000
+6.6
+0.26004
+34.0
+1.33960
+800.0
+31.52000
+6.8
+0.26792
+34.5
+1.35930
+1000.0
+39.40000
+7.0
+0.27580
+35.0
+1.37900
+1200.0
+47.28000
+7.2
+0.28368
+35.5
+1.39870
+1600.0
+63.04000
+7.4
+0.29156
+36.0
+1.41840
+7.6
+0.29944
+36.5
+1.43810
+2000.0
+78.80000
+3200.0
+126.08000
+7.8
+0.30732
+8.0
+0.31520
+37.0
+1.45780
+37.5
+1.47750
+(1) 6145DJ - Câbles multipaires (armés, paires blindées) 250 MZH.
+(2) 6145DJ - Câbles multipaires (armés, paires non blindées) 250 MZH.
+25
+
+Clipper Industrial Plastic Connectors
+Notes
+26
+
+Clipper Industrial Plastic Connectors
+Notes
+27
+
+www.souriau-industrial.com
+North America: technicalsupport@souriau.com 
+Europe and Asia: contactindustry@souriau.com
+FSOURIAUCLIPPERJANVIER2007E © Copyright SOURIAU - All information in this document presents only general particulars and shall not form part of any contract. All rights reserved to SOURIAU for changes without prior notification or public announcement. Any duplication is prohibited, unless approved in writing.
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  CM16PC10MQ  CL103021  CL1M1202  CL1F1200  CL1M4100  CL1C4100  CL112000  CL1C3100  CL101021 
+CL1C1200  CL1C1201  CL1F1100  CL1F1103  CL1M2202  CL104021  CM16PC00MQ  CL194001  CL1M3202 
+CL1M3200  CL1M1100  CL1M1102  CL192001  CL113101  CL1F4100  CL1M2102  CL1F3103  CL1F3100  CL1M3102
+  CL1M3100  CL114101  CL113000  CL1M4200  CL1M4202  CL114000  CL111000  CL1F3203  CM10PS10MQ 
+CM16PS10MQ  CL1F4200  CL1F4203  CL1F2103  CL102021  CL1F2100  CM16SC10MQ  CL111101  CL141001 
+CL1F3201  CL1P3101  CL124021  CL1F4201  CL1C1101  CL1F4101  CL1P4201  CL1C3101  CL1F3101  CL1F1201 
+CL1F2201  CL1P1101  CL144001  CL1R2100  CL1R1102  CL1F2101  CL1F1101  CL1C2101  CF10PC19RF 
+CL193001  CF16PC19RF  CF16SC19RF  CL101041  CL103041  CL112102  CL113102  CL132001  CL142001 
+CL1C3201  CL1C4201  CL1M1101  CL1M1201  CL1M2101  CL1M2201  CL1M3101  CL1M3201  CL1M4101 
+CL1M4201  CL1P2100  CL1P2101  CL1P3100  CL1R2101  CL1R2102  CL1R3101  CL1R3102  CL1R4201 
+CM10PC20MQ  CM10PT10LY  CM10SC20MQ  CM16PC20MQ  CM16PT10LY  CM16SC20MQ  CP16SW9700 
+85019641

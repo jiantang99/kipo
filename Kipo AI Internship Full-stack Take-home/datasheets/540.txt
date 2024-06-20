@@ -1,0 +1,80 @@
+FGG.1B.512.CTAD42
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+7
+Image is for illustrative purpose only
+Series
+1B
+Download
+Male solder
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+30.00 - 26.00
+Cable Ø
+3.10 - 4.20 mm
+Status
+active
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FG*: Straight plug, cable collet
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+16.53 g
+Performance
+Configuration
+1B.512 : 4 High Speed, Low Voltage (1000BASE-T1 (IEEE 802.3bp)) + 3 Ground contacts
+Insulator
+T: PTFE
+Rated Current
+Others
+Endurance (Shell): 5000 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+RECOMMENDED BY LEMO
+Tools
+Spanner wrench: 
+DCD.1B.015.PA090
+Caps: 
+BFG.1B.100.PCSG
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FGG.1B.512.CTAD42

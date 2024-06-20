@@ -1,0 +1,181 @@
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user 
+documentation. Our general terms of use for downloads are valid.
+Housing screw connection, Plug, M12, Front mounting, THR- und Wellenlötkontakte, Alternative 
+product in accordance with RoHS II without Exemption 6c (Pb <0.1%) item no.: 1239324
+Your advantages
+Easy device integration, thanks to mechanical port screw connections with threaded fastening
+•
+Efficient PCB assembly: two-piece connectors for THR soldering
+•
+Commercial data
+Item number
+1420824
+Packing unit
+1 pc
+Minimum order quantity
+10 pc
+Sales key
+AB23
+Product key
+ABQACE
+GTIN
+4055626280516
+Weight per piece (including packing)
+7.87 g
+Weight per piece (excluding packing)
+7.79 g
+Customs tariff number
+85366990
+Country of origin
+DE
+Aug 25, 2023, 5:15 AM     Page 1 (8)
+
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+Technical data
+Notes
+General
+The electrical and mechanical data specified assume that the 
+connector pair is correctly locked and mounted. If the connector 
+is unlocked and if there is a danger of contamination, the 
+connector must be sealed using a protective cap > IP54. 
+Influences arising from litz wires, cables or PCB assembly must 
+also be taken into consideration.
+Product properties
+Product type
+Panel mounting base
+Thread type
+M12
+Material specifications
+Material
+Brass, nickel-plated
+Flammability rating according to UL 94
+V0
+Seal material 
+FKM
+Connector
+Connection 1
+Head design
+Plug
+Head thread type
+M12
+Mechanical properties
+Mechanical data
+Insertion/withdrawal cycles
+> 100
+Environmental and real-life conditions
+Ambient conditions
+Degree of protection (when plugged in)
+IP67 (correctly plugged in and locked)
+IP67 (correctly plugged in and locked)
+Degree of protection
+IP67, when in locked state
+-25 °C ... 85 °C (Plug / socket)
+Ambient temperature (operation)
+-40 °C ... 85 °C (without mechanical actuation)
+Mounting
+Mounting type
+Front mounting
+Connection method
+THR- und Wellenlötkontakte
+Aug 25, 2023, 5:15 AM     Page 2 (8)
+
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+Drawings
+Dimensional drawing
+12,8
+6,4
+10
+M14x1
+M12x1
+17
+Dimensional drawing
+Aug 25, 2023, 5:15 AM     Page 3 (8)
+
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+Approvals
+To download certificates, visit the product detail page: https://www.phoenixcontact.com/us/products/1420824
+
+EAC 
+Approval ID: B.01687
+Aug 25, 2023, 5:15 AM     Page 4 (8)
+
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+Classifications
+ECLASS
+ECLASS-11.0
+27440224
+ECLASS-12.0
+27440224
+ECLASS-13.0
+27440224
+ETIM
+ETIM 8.0
+EC002635
+UNSPSC
+UNSPSC 21.0
+39121400
+Aug 25, 2023, 5:15 AM     Page 5 (8)
+
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+Environmental product compliance
+REACh SVHC
+Lead 7439-92-1
+Environmentally Friendly Use Period = 50 years
+China RoHS
+For information on hazardous substances, refer to the 
+manufacturer’s declaration available under “Downloads”
+Aug 25, 2023, 5:15 AM     Page 6 (8)
+
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+Accessories
+SACC-M14-NUT - Flat nut
+1412077
+https://www.phoenixcontact.com/us/products/1412077
+Flat nut, Screw mounting, M14 x 1, Alternative product in accordance with RoHS 
+II without Exemption 6c (Pb <0.1%) item no.: 1238969
+PROT-M12 FS - Sealing cap
+1560251
+https://www.phoenixcontact.com/us/products/1560251
+M12 sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-
+type plugs and I/O devices in the field
+Aug 25, 2023, 5:15 AM     Page 7 (8)
+
+SACC-FP-M-M12/M14 THR PW - Housing screw 
+connection
+1420824
+https://www.phoenixcontact.com/us/products/1420824
+PROT-M12 FS-M - Sealing cap
+1430488
+https://www.phoenixcontact.com/us/products/1430488
+M12 metal sealing cap for unoccupied M12 plugs of the sensor/actuator cable, 
+flush-type plugs and I/O devices in the field
+Phoenix Contact 2023 © - all rights reserved 
+https://www.phoenixcontact.com
+Phoenix Contact USA 
+586 Fulling Mill Road 
+Middletown, PA 17057, United States 
+(+717) 944-1300 
+info@phoenixcon.com
+Aug 25, 2023, 5:15 AM     Page 8 (8)

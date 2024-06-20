@@ -1,0 +1,142 @@
+ 
+Data sheet
+ 
+Circular Connectors C 16-3 Female cable connector size 2; straight, No. of contacts 12 + PE, 300  V
+Part No.
+C016  10D012  004  2
+ 
+View represents all available contact positions.
+Series
+Circular Connectors C 16-3
+Subseries
+Circular Connector C 16-3
+ COMMON CHARACTERISTICS
+No. of contacts
+ 
+12 + PE 
+Version
+ 
+size 2; straight 
+Cable diameter
+ 
+12-14 
+ELECTRICAL CHARACTERISTICS
+Rated voltage
+DIN EN 60664-1 / IEC 60664-1 
+3 x 500 V
+9 x 300 V 
+Rated voltage
+UL 1977 
+3V 
+Rated impulse voltage
+DIN EN 60664-1 / IEC 60664-1 
+3 x 6000 V
+9 x 4000 V 
+Installation category
+DIN EN 60664-1 / IEC 60664-1 
+||| 
+Insulation group
+DIN EN 60664-1 / IEC 60664-1 
+|| 
+Insulation resistance
+DIN EN 60512-2, Test 3a / IEC 60512-2, Test 3a 
+≥ 10
+8    Ω
+Contact resistance
+DIN EN 60512-2, Test 2a / IEC 60512-2 Test 2a 
+≤ 5  mΩ
+Current carrying capacity
+DIN EN 60512-3, Test 5b / IEC 60512-2 Test 5b 
+3 x 21 A
+9 x 11 A 
+Pollution degree
+DIN EN 60664-1 / IEC 60664-1 
+3 
+CLIMATICAL CHARACTERISTICS
+Climatic category
+DIN EN 60068-1 / IEC 60068-1 
+40 / 125 / 56 
+Operating temperature
+ 
+-40°C ... +125°C 
+MECHANICAL CHARACTERISTICS
+IP degree of protection
+DIN EN 60529 / IEC 60529 
+IP 65 
+Insertion and withdrawal force
+DIN EN 60512-13-2, Test 13b / IEC 60512-13-2, Test 13b 
+≤ 25  N
+Mechanical lifetime
+DIN EN 60512-9-1, Test 9a 
+≥ 500 Steckzyklen 
+Strain relief
+ 
+Clamping ring 
+MATERIALS
+Contact plating
+ 
+silver plated / gold plated 
+Housing
+ 
+Polyamid 6.6 
+Gasket
+ 
+Neoprene 
+Dielectric material
+ 
+Polyamid 6.6 
+FURTHER CHARACTERISTICS
+Termination
+ 
+crimp 
+Wire gauge
+ 
+0,09 - 2,5  mm²
+Wire gauge (AWG)
+ 
+28 - 14 
+Flammability
+UL 94 
+V-0 
+Locking
+ 
+Bayonet 
+ 
+ 
+3964
+E63093
+48932
+  
+
+ 
+Data sheet
+ 
+Circular Connectors C 16-3 Female cable connector size 2; straight, No. of contacts 12 + PE, 300  V
+Part No.
+C016  10D012  004  2
+ 
+View represents all available contact positions.
+Series
+Circular Connectors C 16-3
+Subseries
+Circular Connector C 16-3
+ 
+ 
+Drawing  Dimensions in mm (Inch)  
+ 
+
+ 
+Data sheet
+ 
+Circular Connectors C 16-3 Female cable connector size 2; straight, No. of contacts 12 + PE, 300  V
+Part No.
+C016  10D012  004  2
+ 
+View represents all available contact positions.
+Series
+Circular Connectors C 16-3
+Subseries
+Circular Connector C 16-3
+ 
+ 
+Contact arrangement

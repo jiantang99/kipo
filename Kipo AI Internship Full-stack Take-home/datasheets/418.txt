@@ -1,0 +1,1865 @@
+* Please visit the product pages on our website for the most up-to-date product information
+TABLE OF CONTENTS
+Custom Molded Cable Assemblies and Connectors  . . . . . . . . . . . . . . . . . . . . . . . . . .2
+Capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+Standard Connector Products . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+Standard Connector Features  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+Micro-Con-X® Series (2 and 3 Contacts)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+Dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+Part Number to Order & Contact Arrangement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+Specifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+Mini-Con-X® Series (2 through 8 Contacts)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+Dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+Part Number to Order & Contact Arrangement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+Specifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+Multi-Con-X® Series (2 through 9 Contacts) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+Dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+Part Number to Order & Contact Arrangement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+Specifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+Maxi-Con-X® Series (Up to 20 Contacts)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+Dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+Part Number to Order & Contact Arrangement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+Specifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+Mega-Con-X® Series (Up to 31 Contacts) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+Dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+Part Number to Order & Contact Arrangement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+Specifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+Con-X Molded Cable Assembly Checklist  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+Con-X Current Rating Chart . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+Mil-E-Qual® Series (2 through 37 Contacts) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .28
+Dimensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+Contact Arrangement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+Part Number to Order . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .31
+Specifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .32
+Mil-E-Qual® Molded Cable Assembly Checklist  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33
+Mil-E-Qual® Current Rating Chart . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+Tooling  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34-35
+Assembly Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .35
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+1
+
+* Please visit the product pages on our website for the most up-to-date product information
+CUSTOM MOLDED CABLE ASSEMBLIES AND CONNECTORS
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+2
+
+* Please visit the product pages on our website for the most up-to-date product information
+CUSTOM MOLDED CABLE ASSEMBLIES AND CONNECTORS
+Conxall History
+Conxall was founded in 1971 as a manufacturer of custom designed connectors and cable assemblies for
+the Marine and Industrial Markets. Since that time our custom designed products have become the stan-
+dard for many other industries and Conxall’s family of products has grown to include waterproof, water-
+tight and submersible connectors and assemblies. In recent years, Conxall has expanded its all plastic
+product lines to include metal shell, shielded connectors and cable assemblies designed to meet or
+exceed U.S., Canadian, and European shielding standards.
+Connectors
+Conxall was an innovator in the design of all plastic cylindrical connectors. The all plastic connector pro-
+vides for substantial savings in cost without sacrificing performance and quality. The all plastic connec-
+tor is corrosion resistant, non-conductive and withstands substantial abuse, hostile environments, and
+heavy impacts that would otherwise cause metal connectors to corrode, deform or become electrically
+conductive and thus become unusable or unsafe. Our standard lines of all plastic connectors covers a
+wide range of shell styles and insert configurations including the all plastic Mil-C-5015 Connector series
+which is intermateable with, and provides a high quality replacement for, expensive, all metal, military
+standard connectors.
+Assembly Capabilities
+Conxall has specialized in custom molded cable assemblies and connectors for a wide variety of appli-
+cations including: Industrial, Automotive, Marine, Transportation, Medical, Communication, Sensor and
+Factory Automation. The Conxall exclusive molded cable assembly process affords the additional
+advantages of reduced cost and weather tight reliability plus the added benefits of permanent and ser-
+vice free termination without the risk of cable pull out. Our SENSOR-LINK, Mini, Micro, and Nano
+style connectors and cable assemblies are NEMA rated, available in shielded and standard styles and are
+UL and CSA certified for many applications. For additional information on SENSOR-LINK products
+please contact your Conxall Representative.
+Custom Designs
+Conxall remains dedicated to providing High Quality, Low Cost solutions to your interconnect problems.
+Our Service Teams will work with you from the initial design to the finished product to insure your com-
+plete satisfaction. We offer a full line of standard and weather tight connectors. But perhaps your needs
+are unique. If so, Conxall has the capability to create original designs to meet your needs. Our team of
+engineers and research and development personnel will work side by side with your staff to custom
+design a solution for your needs.
+Contact Conxall for your Interconnection Solutions. Our quick response and personalized service set
+Conxall apart from any other company in the industry.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+3
+
+* Please visit the product pages on our website for the most up-to-date product information
+STANDARD CONNECTOR PRODUCTS
+Low-cost Standard and Weathertight Connectors for Industrial and
+Marine Applications.
+Style…Designed for demanding service
+although attractive and modern in appearance to
+complement the most sophisticated equipment.
+A completely indoor/outdoor connector system
+that offers performance and reliability features
+of MIL-Spec connectors at the cost of a com-
+mercial type product.
+Lightweight/Strong…50% weight savings
+over similar metal construction yet has tough,
+high-impact strength to withstand hard abuse
+both indoors and outdoors.
+Economical…The all molded nylon construc-
+tion provides for substantial savings in cost that
+helps hold the line on cost objectives without
+sacrificing performance.
+Standard Assemblies
+Ideally satisfies power connections for test
+instruments, calibration or measuring equip-
+ment, communications systems, data processing,
+entertainment devices and a wide range of non-
+environmental applications where economy and
+maintenance-free reliability are essential.
+Especially suited to laboratory instruments,
+medical analysis devices, automotive test equip-
+ment, computer peripherals, recording instru-
+ments, etc.…
+Weathertight Assemblies
+Optional panel connector gaskets and inter-
+facial “O” ring seals maintain a weathertight
+connection for outdoor use. The non-corrosive,
+high impact, all molded construction is perfect
+for recreational, agricultural or on/off the road
+vehicle connections. Hazards of electrical shock
+are minimized in addition to resistance to hostile
+outdoor environment. Frequently specified for
+depth sounders, metal detectors, marine/aircraft
+electronics, boat trailers, electronic farm imple-
+ments, food processing equipment, etc.
+Molded Cable Assemblies (See pages 3 & 26)
+Complete Facilities to Assemble and/or Mold All Connector Styles
+to Many Cable Constructions
+Weathertight...This construction prevents
+ingress of moisture into contact areas.
+Permanently Molded...Cable and connectors
+are molded together in a choice of attractive
+boot shapes to add functional improvements to
+your product.
+Saves Time and Money...Avoids setting
+up new production line and training personnel
+plus cost of maintaining inventories.
+Accident Proof...Molded encapsulation be-
+tween cable and connector prevents pull-out or
+breakage of internal wires for maintenance free
+operation.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+4
+
+* Please visit the product pages on our website for the most up-to-date product information
+STANDARD CONNECTOR FEATURES
+Locking Type coupling ring prevents acciden-
+tal disconnect. Quick 90 degree connect/discon-
+nect rotation or threaded.
+Panel Connector mounts from behind in
+round or  “D” shaped hole and are securely fas-
+tened with hex nut on the front of the panel.
+Standard assembly include weathertight gasket.
+Cable Splices and/or extension cables can be
+easily made using the cable to cable connectors.
+Premium Quality
+The standard screw-
+machine socket contact has premium design fea-
+tures at low cost. The closed entry prevents
+probe damage or accidental loss of spring reten-
+tion due to misaligned or bent pins.
+Unassembled Cable Connectors without
+mold-on cables are available. This option pro-
+vides for field installation or replacement ser-
+vice on existing cable assemblies.
+Reverse Contact Options are available pro-
+viding pin or socket contacts in all styles.
+Dimensions and Specifications are for ref-
+erence only and may change without notice
+where it does not affect form, fit or function.
+Electrical Rating Tables are for reference
+only and are based on continuous current carry-
+ing capacity of the connector with all contacts
+carrying current.
+Packaging and Warranty
+Packaging
+Connectors:
+Standard Con-X series components are packaged unassembled and individually
+bulk packed. Kitted packaging, one complete connector per bag, available upon
+request for an additional cost. Mil-E-Qual components are assembled and indi-
+vidually kitted in plastic bags.
+Cable Assemblies:
+Assemblies less than 3 ft., including connector head, are bundled and boxed.
+Assemblies over 3 ft., including connector head, are coiled, secured with cable tie
+and boxed.
+Warranty
+CONXALL Corp. manufactures the finest quality product available to the marketplace. However, these
+products are intended to be used in accordance with the specifications described in this catalog. Any use
+or application that deviates from the stated operating specifications is not recommended and may be
+unsafe. A limited warranty applies to all CONXALL Corp. products. Except for obligations specifically
+assumed by CONXALL Corp. under warranty, CONXALL Corp. will not be liable for any loss, damage,
+cost of repairs, incidental or consequential damages of any kind whether or not based upon expressed or
+implied warranty, contract, negligence, or strict liability arising in connection with the design, manufac-
+ture, sale, use or repair of the products.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+5
+
+* Please visit the product pages on our website for the most up-to-date product information
+MICRO-CON-X® FIELD INSTALLABLE CONNECTORS
+Cable Pin
+1628X-XPG-XXX
+Matching Mates:
+• Cable-Cable
+1828X-XSG-XXX
+• Panel
+172XX-XSG-XXX
+Panel Mount
+1728X-XXG-XXX
+Matching Mates:
+• Cable Pin
+1628X-XPG-XXX
+• Cable Socket
+1628X-XSG-XXX
+P/C Tail Panel Mount
+172XX-XXG-XXX
+Matching Mates:
+• Cable Pin
+1628X-XPG-XXX
+• Cable Socket
+1628X-XSG-XXX
+Dust Cap
+16295
+Cable Socket
+1628X-XSG-XXX
+Matching Mates:
+• Cable-Cable
+1828X-XPG-XXX
+• Panel
+172XX-XPG-XXX
+Cable to Cable
+1828X-XXG-XXX
+Matching Mates:
+• Cable Pin
+1628X-XPG-XXX
+• Cable Socket
+1628X-XSG-XXX
+Molded Cable Assemblies (See pages 3 & 26)
+Cable End
+Cable to Cable
+Right Angle
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+6
+
+* Please visit the product pages on our website for the most up-to-date product information
+MICRO-CON-X® FIELD INSTALLABLE CONNECTORS
+Dimensions (Dimensions in brackets are in millimeters)
+Molded Cable Assemblies (See pages 3 & 26)
+1.030 [26.2]
+1.470 [37.3]
+1.470 [37.3]
+1.100
+[27.9]
+CABLE END ASSEMBLY
+CABLE TO CABLE ASSEMBLY
+CABLE END ASSEMBLY
+STRAIGHT BOOT
+0.280 [7.1] MAX. CABLE O.D.
+STRAIGHT BOOT
+0.280 [7.1] MAX. CABLE O.D.
+90º BOOT
+0.280 [7.1] MAX. CABLE O.D.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+7
+
+* Please visit the product pages on our website for the most up-to-date product information
+MICRO-CON-X® FIELD INSTALLABLE CONNECTORS
+Part Number to Order
+XX X XX-XXG-3XX
+Connector Type:
+16 - Cable End
+17 - Panel Mount
+18 - Cable to Cable
+Back Shell
+Style 3
+Grommet Code – 
+Cable O.D. Range:
+11 - .09 - .14 (2.3-3.5)
+15 - .15 - .17 (3.8-4.3)
+18 - .18 - .20 (4.6-5.1)
+Contact Size:
+2 - #20
+Back Shell Style:
+3
+- Weathertight Grommet
+Grip/Seal & (1) interfacial
+“O” Ring
+300 - Panel mount with hex nut
+& gasket
+3ES - 300 with Epoxy
+Contact Style:
+80 - Crimp (Supplied loose)
+81 - P/C Tail .187" (4.7) (Supplied assembled)
+82 - Solder Cup (Supplied assembled)
+91 - P/C Tail .280" (7.1) (Supplied assembled)*
+92 - P/C Tail .335" (8.5) (Supplied assembled)*
+Number of Contacts:
+2 or 3
+Type of Contact:
+P - Pin
+S - Socket
+Contact Plating:
+G - Gold over Nickel (Standard)
+*Available in #20 size contact only.
+Consult factory for optional threaded coupling.
+Consult factory for your custom design cable assemblies and connectors. (See pages 3 & 26)
+Contact Arrangements
+Contact arrangements shown are wiring view of cable end pins/sockets.
+Key/keyway shown for orientation only.
+For higher density patterns, consult factory.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+8
+
+* Please visit the product pages on our website for the most up-to-date product information
+MICRO-CON-X® FIELD INSTALLABLE CONNECTORS
+Specifications
+Typical Specifications
+Manufacturers Identifications
+Micro-Con-X®
+Description
+Field Installable Connector & Custom Cable Assemblies
+Rating
+3.0 thru 7.5A, 600V
+Conductor Size
+20 thru 24 AWG
+Configuration
+2 & 3 #20 Contacts
+Certification
+UL Recognized File #E150822 - 250V
+CSA Certified File #181200 - 600V
+Material Specifications
+Cable Pin/Socket
+Backshell (Non-Removable Snap Lock)
+Nylon, UL Recognized, Black
+Grommet
+Santoprene Rubber, Black
+Coupling Ring
+Nylon, UL Recognized, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+O-Ring
+Neoprene Rubber, Black
+Cable to Cable
+Backshell (Non-Removable Snap Lock)
+Nylon, UL Recognized, Black
+Grommet
+Santoprene Rubber, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+Panel Mount
+Contacts
+Brass, Gold over Nickel
+Panel Body
+Nylon, UL Recognized, Black
+Gasket
+Neoprene Rubber, Black
+Hex Nut
+Nylon, UL Recognized, Black
+Optional
+Dust Cap
+Santoprene Rubber, Black (Part No. 16295)
+Gasket, O-Ring, & Grommet materials are 
+suitable for -40ºC to +90ºC (-40ºF to +194ºF).
+Consult factory for higher temperature requirements.
+Mechanical Specifications
+Durability
+Minimum 300 mate/unmate cycles without mechanical or electrical
+failure
+Vibration
+Coupling rings have overriding locking feature to prevent 
+loosening or separation of connector
+Hex Nut Torque
+All series hex nut to withstand 10-12 inch/lb tightening torque.
+Electrical Specifications
+Voltage
+600 V
+Current
+See Electrical Current Rating Chart (Page 27)
+Environmental Specifications
+Temperature Rating
+-40ºC to +115ºC (-40ºF to +239°F)
+Corrosion
+300 Hr salt spray contacts
+Weathertight
+Consult factory with specific application
+Molded Cable Assemblies
+(See Pages 3 & 26)
+Watertight
+NEMA 6P, 13: IEC IP67
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+9
+
+* Please visit the product pages on our website for the most up-to-date product information
+MINI-CON-X® FIELD INSTALLABLE CONNECTORS
+Cable Pin
+6X8X-XPG-XXX
+Matching Mates:
+• Cable-Cable
+8X8X-XSG-XXX
+• Panel
+7XXX-XSG-XXX
+Panel Mount
+7X8X-XXG-XXX
+Matching Mates:
+• Cable Pin
+6X8X-XPG-XXX
+• Cable Socket
+6X8X-XSG-XXX
+P/C Tail Panel Mount
+7XXX-XXG-XXX
+Matching Mates:
+• Cable Pin
+6X8X-XPG-XXX
+• Cable Socket
+6X8X-XSG-XXX
+Dust Cap
+6295
+Cable Socket
+6X8X-XSG-XXX
+Matching Mates:
+• Cable-Cable
+8X8X-XPG-XXX
+• Panel
+7XXX-XPG-XXX
+Cable to Cable
+8X8X-XXG-XXX
+Matching Mates:
+• Cable Pin
+6X8X-XPG-XXX
+• Cable Socket
+6X8X-XSG-XXX
+Winged Coupling Ring
+W/6482
+Molded Cable Assemblies (See pages 3 & 26)
+Cable End
+Cable to Cable
+Right Angle
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+10
+
+* Please visit the product pages on our website for the most up-to-date product information
+MINI-CON-X® FIELD INSTALLABLE CONNECTORS
+Dimensions (Dimensions in brackets are in millimeters)
+Molded Cable Assemblies (See pages 3 & 26)
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+11
+
+* Please visit the product pages on our website for the most up-to-date product information
+MINI-CON-X® FIELD INSTALLABLE CONNECTORS
+Part Number to Order
+X X XX-XXG-XXX
+Connector Type:
+6 - Cable End
+7 - Panel Mount
+8 - Cable to Cable
+Back Shell
+Style 3
+Grommet Code – 
+Cable O.D. Range:
+11 - .09 - .14 (2.3 - 3.5)
+15 - .15 - .17 (3.8 - 4.3)
+18 - .18 - .20 (4.6 - 5.1)
+21 - .21 - .23 (5.3 - 5.8)
+Contact Size:
+2 - #20 (2-8 Contacts)
+3 - #16 (2-5 Contacts)
+Back Shell
+Style 5
+13 - .13 - .15 (3.3 - 3.8)
+16 - .16 - .18 (4.1 - 4.6)
+19 - .19 - .21 (4.8 - 5.3)
+22 - .22 - .25 (5.6 - 6.3)
+Contact Style:
+80 - Crimp (Supplied loose)
+81 - P/C Tail .187" (4.7) (Supplied assembled)
+82 - Solder Cup (Supplied assembled)
+91 - P/C Tail .280" (7.1) (Supplied assembled)*
+92 - P/C Tail .335" (8.5) (Supplied assembled)*
+Number of Contacts:
+2, 3, 4, 5, 6, 7 & 8
+Back Shell Style:
+3
+Weathertight grommet grip/
+seal & (1) interfacial “O” ring.
+3DC - Daisy chain grommet with 3
+I.D.s. (.125, .188 & .250)
+5
+Long back shell with extended
+grommet & cable grip. Use
+with crimp or solder.
+Type of Contact:
+P - Pin
+S - Socket
+300 - Panel mount with hex nut &
+gasket.
+3ES - 300 with Epoxy
+Contact Plating:
+G - Gold over Nickel (Standard)
+*Available in #20 size contact only.
+Consult factory for optional threaded coupling.
+Consult factory for your custom design cable assemblies and connectors. (See pages 3 & 26)
+Contact Arrangements
+Contact arrangements shown are wiring view of cable end pins/sockets.
+Key/keyway shown for orientation only.
+*Available in connector types: cable end socket, panel mount pin, and cable to cable pin styles only.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+12
+
+* Please visit the product pages on our website for the most up-to-date product information
+MINI-CON-X® FIELD INSTALLABLE CONNECTORS
+Specifications
+Typical Specifications
+Manufacturers Identifications
+Mini-Con-X®
+Description
+Field Installable Connector & Custom Cable Assemblies
+Rating
+4.8 thru 13.0A, 600V
+Conductor Size
+#16 contacts, 16 thru 18 AWG
+#20 contacts, 20 thru 24 AWG
+Configuration
+2 thru 5 #16 Contacts or 2 thru 8 #20 Contacts
+Certification
+UL Recognized File #E150822 - 250V
+CSA Certified File #181200 - 600V
+Material Specifications
+Cable Pin/Socket
+Backshell (Removable Twist Lock)
+Nylon, UL Recognized, Black
+Grommet
+Santoprene Rubber, Black
+Coupling Ring
+Nylon, UL Recognized, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+O-Ring
+Neoprene Rubber, Black
+Optional
+Long Backshell (Removable Twist Lock)
+Nylon, UL Recognized, Black (Style #5)
+Winged Coupling Ring
+Nylon, UL Recognized, Black (W/6482)
+Cable to Cable
+Backshell (Removable Twist Lock)
+Nylon, UL Recognized, Black
+Grommet
+Santoprene Rubber, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+Panel Mount
+Contacts
+Brass, Gold over Nickel
+Panel Body
+Nylon, UL Recognized, Black
+Gasket
+Neoprene Rubber, Black
+Hex Nut
+Nylon, UL Recognized, Black
+Optional
+Dust Cap
+Santoprene Rubber, Black (Part No. 6295)
+Gasket, O-Ring, & Grommet materials are 
+suitable for -40ºC to +90ºC (-40ºF to +194ºF).
+Consult factory for higher temperature requirements.
+Mechanical Specifications
+Durability
+Minimum 300 mate/unmate cycles without mechanical or electrical
+failure
+Vibration
+Coupling rings have overriding locking feature to prevent 
+loosening or separation of connector
+Hex Nut Torque
+All series hex nut to withstand 10-12 inch/lb tightening torque.
+Electrical Specifications
+Voltage
+600 V
+Current
+See Electrical Current Rating Chart (Page 27)
+Environmental Specifications
+Temperature Rating
+-40ºC to +115ºC (-40ºF to +239ºF)
+Corrosion
+300 Hr salt spray contacts
+Weathertight
+Consult factory with specific application
+Molded Cable Assemblies
+(See Pages 3 & 26)
+Watertight
+NEMA 6P, 13: IEC IP67
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+13
+
+* Please visit the product pages on our website for the most up-to-date product information
+MULTI-CON-X® FIELD INSTALLABLE CONNECTORS
+Cable Pin
+3X8X-XPG-XXX
+Matching Mates:
+• Cable-Cable
+5X8X-XSG-XXX
+• Panel
+4XXX-XSG-XXX
+Panel Mount
+4X8X-XXG-XXX
+Matching Mates:
+• Cable Pin
+3X8X-XPG-XXX
+• Cable Socket
+3X8X-XSG-XXX
+P/C Tail Panel Mount
+4XXX-XXG-XXX
+Matching Mates:
+• Cable Pin
+3X8X-XPG-XXX
+• Cable Socket
+3X8X-XSG-XXX
+Mechanical Back Shell
+(Style #5)
+Cable Socket
+3X8X-XSG-XXX
+Matching Mates:
+• Cable-Cable
+5X8X-XPG-XXX
+• Panel
+4XXX-XPG-XXX
+Cable to Cable
+5X8X-XXG-XXX
+Matching Mates:
+• Cable Pin
+3X8X-XPG-XXX
+• Cable Socket
+3X8X-XSG-XXX
+Dust Cap
+4295
+Winged Coupling Ring
+W/4482
+Square Flange
+Gasket
+4297
+Square Flange
+Adapter
+4296
+Molded Cable Assemblies (See pages 3 & 26)
+Cable End
+Cable to Cable
+Right Angle
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+14
+
+* Please visit the product pages on our website for the most up-to-date product information
+MULTI-CON-X® FIELD INSTALLABLE CONNECTORS
+Dimensions (Dimensions in brackets are in millimeters)
+Molded Cable Assemblies (See pages 3 & 26)
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+15
+
+* Please visit the product pages on our website for the most up-to-date product information
+MULTI-CON-X® FIELD INSTALLABLE CONNECTORS
+Part Number to Order
+X X XX-X XG-XXX
+Connector Type:
+3 - Cable End
+4 - Panel Mount
+5 - Cable to Cable
+Back Shell
+Style
+3 or 5
+Grommet Code – 
+Cable O.D. Range:
+15 - .15 -.17 (3.8-4.3)
+18 - .18 -.20 (4.6-5.1)
+21 - .21 -.23 (5.3-5.8)
+24 - .24 -.27 (6.1-6.8)
+28 - .28 -.29 (7.1-7.4)
+30 - .30 -.32 (7.6-8.1)
+Contact Size:
+1 - #12 (2-4 Contacts)
+2 - #20 (4-9 Contacts)
+3 - #16 (4-6 Contacts)
+Contact Style:
+80 - Crimp (Supplied loose)
+81 - P/C Tail .187" (4.7) (Supplied assembled)
+82 - Solder Cup (Supplied assembled)
+91 - P/C Tail .280" (7.1) (Supplied assembled)*
+92 - P/C Tail .335" (8.5) (Supplied assembled)*
+Back Shell Style:
+3
+Weathertight grommet
+grip/seal & (1) interfacial
+“O”ring.
+3DC - Daisy chain grommet with 3
+I.D.s (.125, .188 & .250)
+5
+Mechanical screw-down
+cable clamp with grommet
+seal.
+Number of Contacts:
+2, 3, 4, 5, 6, 7, 8 & 9
+300 - Panel mount with hex nut &
+gasket.
+3ES - 300 with Epoxy (Panel
+Mount Only)
+Type of Contact:
+P - Pin
+S - Socket
+Contact Plating:
+G - Gold over Nickel (Standard)
+EMI/RFI shielded assemblies available - consult factory.
+*Available in #20 size contact only.
+Consult factory for optional threaded coupling.
+Consult factory for your custom design cable assemblies and connectors. (See pages 3 & 26)
+Contact Arrangements
+Contact arrangements shown are wiring view of cable end pins/sockets.
+Key/keyway shown for orientation only.
+*Available in connector types: cable end socket, panel mount pin, and cable to cable pin styles only.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+16
+
+* Please visit the product pages on our website for the most up-to-date product information
+MULTI-CON-X® FIELD INSTALLABLE CONNECTORS
+Specifications
+Typical Specifications
+Manufacturers Identifications
+Multi-Con-X®
+Description
+Field Installable Connector & Custom Cable Assemblies
+Rating
+1.95 thru 23.0A, 600V
+Conductor Size
+#12 Contacts, 12 thru 14 AWG
+#16 Contacts, 16 thru 18 AWG
+#20 Contacts, 20 thru 24 AWG
+Configuration
+2 thru 4 #12 Contacts
+4 thru 6 #16 Contacts
+4 thru 9 #20 Contacts
+Certification
+UL Recognized File #E150822 - 250V
+CSA Certified File #181200 - 600V
+Material Specifications
+Cable Pin/Socket
+Backshell (Threaded)
+Nylon, UL Recognized, Black (Style #3)
+Grommet
+Santoprene Rubber, Black
+Coupling Ring
+Nylon, UL Recognized, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+O-Ring
+Neoprene Rubber, Black
+Sleeve
+Nylon, UL Recognized, Black
+Cable to Cable
+Backshell (Threaded)
+Nylon, UL Recognized, Black (Style #3)
+Grommet
+Santoprene, Rubber, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+Optional
+Long Backshell (Threaded)
+Nylon, UL Recognized, Black (Style #3 with solder contacts)
+Winged Coupling Ring
+Nylon, UL Recognized, Black (W/4482)
+Mechanical Backshell (Threaded)
+Nylon, UL Recognized, Black (Style #5)
+– Strap
+Nylon, UL Recognized, Black
+– Screws
+Stainless Steel
+Panel Mount
+Contacts
+Brass, Gold over Nickel
+Panel Body
+Nylon, UL Recognized, Black
+Gasket
+Neoprene Rubber, Black
+Hex Nut
+Nylon, UL Recognized, Black
+Optional
+Dust Cap
+Santoprene Rubber, Black (Part No. 4295)
+Square Flange Adapter
+Nylon, UL Recognized, Black (Part No. 4296)
+Square Flange Adapter Gasket
+Neoprene Rubber, Black (Part No. 4297)
+Gasket, O-Ring, & Grommet materials are 
+suitable for -40ºC to +90ºC (-40ºF to +194ºF).
+Consult factory for higher temperature requirements.
+Mechanical Specifications
+Durability
+Minimum 300 mate/unmate cycles without mechanical or electrical failure
+Vibration
+Coupling rings have overriding locking feature to prevent loosening or 
+separation of connector
+Hex Nut Torque
+All series hex nut to withstand 10-12 inch/lb tightening torque.
+Electrical Specifications
+Voltage
+600 V
+Current
+See Electrical Current Rating Chart (Page 27)
+Environmental Specifications
+Temperature Rating
+-40ºC to +115ºC (-40ºF to +239ºF)
+Corrosion
+300 Hr salt spray contacts
+Weathertight
+Consult factory with specific application
+Molded Cable Assemblies
+(See Pages 3 & 26)
+Watertight
+NEMA 6P, 13: IEC IP67
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+17
+
+* Please visit the product pages on our website for the most up-to-date product information
+MAXI-CON-X® FIELD INSTALLABLE CONNECTORS
+Cable Pin
+13X8X-XXPG-XXX
+Matching Mates:
+• Cable-Cable
+15X8X-XXSG-XXX
+• Panel
+14XXX-XXSG-XXX
+Panel Mount
+14X8X-XXXG-XXX
+Matching Mates:
+• Cable Pin
+13X8X-XXPG-XXX
+• Cable Socket
+13X8X-XXSG-XXX
+P/C Tail Panel Mount
+14XXX-XXXG-XXX
+Matching Mates:
+• Cable Pin
+13X8X-XXPG-XXX
+•Cable Socket
+13X8X-XXSG-XXX
+Winged Coupling Ring
+W/14482
+Cable Socket
+13X8X-XXSG-XXX
+Matching Mates:
+• Cable-Cable
+15X8X-XXPG-XXX
+• Panel
+14XXX-XXPG-XXX
+Cable to Cable
+15X8X-XXXG-XXX
+Matching Mates:
+• Cable Pin
+13X8X-XXPG-XXX
+• Cable Socket
+13X8X-XXSG-XXX
+Dust Cap
+14295
+Molded Cable Assemblies (See pages 3 & 26)
+Cable End
+Cable to Cable
+Right Angle
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+18
+
+* Please visit the product pages on our website for the most up-to-date product information
+MAXI-CON-X® FIELD INSTALLABLE CONNECTORS
+Dimensions (Dimensions in brackets are in millimeters)
+Molded Cable Assemblies (See pages 3 & 26)
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+19
+
+* Please visit the product pages on our website for the most up-to-date product information
+MAXI-CON-X® FIELD INSTALLABLE CONNECTORS
+Part Number to Order
+XX X XX-XX XG-3XX
+Connector Type:
+13 - Cable End
+14 - Panel Mount
+15 - Cable to Cable
+Grommet Code – 
+Cable O.D. Range:
+21 - .21 -.25 (5.3-6.3)
+26 - .26 -.30 (6.6-7.6)
+31 - .31 -.38 (7.8-9.6)
+Back
+Shell
+Style 3
+Contact Size:
+1 - #12 (7 Contacts)
+2 - #20 (18 & 20 Contacts)
+3 - #16 (10 Contacts)
+Back Shell Style:
+3
+Mechanical screw-down
+cable clamp with grommet
+seal and (1) interfacial “O”
+ring for cable end.
+300 - Panel mount with hex nut &
+gasket.
+3ES - 300 with Epoxy
+Contact Style:
+80 - Crimp (Supplied loose)
+81 - P/C Tail .187” (4.7) (Supplied assembled)
+82 - Solder Cup (Supplied assembled)
+91 - P/C Tail .280” (7.1) (Supplied assembled)*
+92 - P/C Tail .335” (8.5) (Supplied assembled)*
+Number of Contacts:
+7, 10, 18 & 20
+Type of Contact:
+P - Pin
+S - Socket
+Contact Plating:
+G - Gold over Nickel (Standard)
+EMI/RFI shielded assemblies available - consult factory.
+*Available in #20 size contact only.
+Consult factory for optional threaded coupling.
+Consult factory for your custom design cable assemblies and connectors. (See pages 3 & 26)
+Contact Arrangements
+Contact arrangements shown are wiring view of cable end pins/sockets.
+Key/keyway shown for orientation only.
+*Available in connector types: cable end socket, panel mount pin styles only.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+20
+
+* Please visit the product pages on our website for the most up-to-date product information
+MAXI-CON-X® FIELD INSTALLABLE CONNECTORS
+Specifications
+Typical Specifications
+Manufacturers Identifications
+Maxi-Con-X®
+Description
+Field Installable Connector & Custom Cable Assemblies
+Rating
+1.35 thru 23.0A, 600V
+Conductor Size
+#12 Contacts, 12 thru 14 AWG
+#16 Contacts, 16 thru 18 AWG
+#20 Contacts, 20 thru 24 AWG
+Configuration
+7 - #12 Contacts
+10 - #16 Contacts
+18 - #20 Contacts
+20 - #20 Contacts
+Certification
+UL Recognized File #E150822 - 250V
+CSA Certified File #181200 - 600V
+Material Specifications
+Cable Pin/Socket
+Mechanical Backshell (Threaded)
+Nylon, UL Recognized, Black
+Strap
+Nylon, UL Recognized, Black
+Screws
+Stainless Steel
+Grommet
+Santoprene Rubber, Black
+Coupling Ring
+Nylon, UL Recognized, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+O-Ring
+Neoprene Rubber, Black
+Optional
+Winged Coupling Ring
+Nylon, UL Recognized, Black (W/14482)
+Cable to Cable
+Mechanical Backshell (Threaded)
+Nylon, UL Recognized, Black
+Grommet
+Santoprene Rubber, Black
+Strap
+Nylon, UL Recognized, Black
+Screws
+Stainless Steel
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+Panel Mount
+Contacts
+Brass, Gold over Nickel
+Panel Body
+Nylon, UL Recognized, Black
+Gasket
+Neoprene Rubber, Black
+Hex Nut
+Nylon, UL Recognized, Black
+Optional
+Dust Cap
+Santoprene Rubber, Black (Part No. 14295)
+Gasket, O-Ring, & Grommet materials are 
+suitable for -40ºC to +90ºC (-40ºF to +194ºF).
+Consult factory for higher temperature requirements.
+Mechanical Specifications
+Durability
+Minimum 300 mate/unmate cycles without mechanical or electrical 
+failure
+Vibration
+Coupling rings have overriding locking feature to prevent loosening or
+separation of connector
+Hex Nut Torque
+All series hex nut to withstand 10-12 inch/lb tightening torque
+Electrical Specifications
+Voltage
+600 V
+Current
+See Electrical Current Rating Chart (Page 27)
+Environmental Specifications
+Temperature Rating
+-40ºC to +115ºC (-40ºF to +239ºF)
+Corrosion
+300 Hr salt spray contacts
+Weathertight
+Consult factory with specific application
+Molded Cable Assemblies
+(See Pages 3 & 26)
+Watertight
+NEMA 6P, 13: IEC IP67
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+21
+
+* Please visit the product pages on our website for the most up-to-date product information
+MEGA-CON-X® FIELD INSTALLABLE CONNECTORS
+Cable Pin
+23X8X-XXPG-XXX
+Matching Mate:
+• Panel
+24XXX-XXSG-XXX
+Panel Mount
+24XXX-XXXG-XXX
+Matching Mates:
+• Cable Pin
+23X8X-XXPG-XXX
+• Cable Socket
+23X8X-XXSG-XXX
+Cable Socket
+23X8X-XXSG-XXX
+Matching Mate:
+• Panel
+24XXX-XXPG-XXX
+P/C Tail Panel Mount
+24XXX-XXXG-XXX
+Matching Mates:
+• Cable Pin
+23X8X-XXPG-XXX
+• Cable Socket
+23X8X-XXSG-XXX
+Dustcap
+24295
+Molded Cable Assemblies (See pages 3 & 26)
+Cable End
+Right Angle
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+22
+
+* Please visit the product pages on our website for the most up-to-date product information
+MEGA-CON-X® FIELD INSTALLABLE CONNECTORS
+Quick Connect Type
+Threaded Type
+Dimensions (Dimensions in brackets are in millimeters)
+Single Key
+Receptacle
+w/Pin
+Plug
+w/Socket
+5 Key
+Receptacle
+w/Pin
+Plug
+w/Socket
+5 Key
+Receptacle
+w/Socket
+Plug
+w/Pin
+Panel Cutout
+1.140 [28.9]
+1.170
+[29.7]
+±0.003 [±0.1]
+Molded Cable Assemblies (See pages 3 & 26)
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+23
+
+* Please visit the product pages on our website for the most up-to-date product information
+MEGA-CON-X® FIELD INSTALLABLE CONNECTORS
+Part Number to Order
+XX X XX-XX XG-T3XX
+Grommet Code – 
+Cable O.D. Range:
+50 -.51 - .56 (12.9 - 14.2)
+Connector Type:
+23 - Cable End
+24 - Panel Mount
+Back
+Shell
+Style 3
+Contact Size:
+2 - #20
+Back Shell Style:
+3
+Mechanical screw-down
+cable clamp with grommet
+seal and (1) interfacial
+“O” ring for cable end.
+300 - Panel mount with hex nut
+& gasket.
+3ES - 300 with Epoxy
+Contact Style:
+80 - Crimp (Supplied loose)
+81 - P/C Tail .187" (4.7) (Supplied assembled)
+82 - Solder Cup (Supplied assembled)
+91 - P/C Tail .280" (7.1) (Supplied assembled)*
+92 - P/C Tail .335" (8.5) (Supplied assembled)*
+Coupling Type
+Blank - Twist Lock
+T - Threaded
+Number of Contacts:
+31
+Type of Contact:
+P - Pin
+S - Socket
+Contact Plating:
+G - Gold over Nickel (Standard)
+*Available in #20 size contact only.
+Consult factory for your custom design cable assemblies and connectors. (See pages 3 & 26)
+Contact Arrangements
+31-#20
+31-#20
+31-#20
+Threaded Type
+(5 Key)
+Cable End w/Socket
+Quick Connect Type
+(5 Key)
+Cable End w/Pins
+Quick Connect Type
+(Single Key)
+Cable End w/Socket
+Contact arrangements shown are wiring view of cable end pins/sockets.
+Key/keyway shown for orientation only.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+24
+
+* Please visit the product pages on our website for the most up-to-date product information
+MEGA-CON-X® FIELD INSTALLABLE CONNECTORS
+Specifications
+Typical Specifications
+Manufacturers Identifications
+Mega-Con-X®
+Description
+Field Installable Connector & Custom Cable Assemblies
+Rating
+0.9 thru 2.3A, 600V
+Conductor Size
+20 thru 24 AWG
+Configuration
+31 - #20 Contacts
+Certification
+UL Recognized File #E150822 - 250V
+CSA Certified File #181200 - 600V
+Material Specifications
+Cable Pin/Socket
+Mechanical Backshell (Threaded)
+Nylon, UL Recognized, Black
+Strap
+Nylon, UL Recognized, Black
+Screws
+Stainless Steel
+Grommet
+Santoprene Rubber, Black
+Coupling Ring
+Nylon, UL Recognized, Black
+Contacts
+Brass, Gold over Nickel
+Connector Body
+Nylon, UL Recognized, Black
+O-Ring
+Neoprene Rubber, Black
+Panel Mount
+Contacts
+Brass, Gold over Nickel
+Panel Body
+Nylon, UL Recognized, Black
+Gasket
+Neoprene Rubber, Black
+Hex Nut
+Nylon, UL Recognized, Black
+Gasket, O-Ring, & Grommet materials are 
+suitable for -40ºC to +90ºC (-40ºF to +194ºF).
+Consult factory for higher temperature requirements.
+Mechanical Specifications
+Durability
+Minimum 300 mate/unmate cycles without mechanical or electrical
+failure
+Vibration
+Coupling rings have overriding locking feature to prevent loosening
+or separation of connector
+Hex Nut Torque
+All series hex nut to withstand 10-12 inch/lb tightening torque
+Electrical Specifications
+Voltage
+600V
+Current
+See Electrical Current Rating Chart (Page 27)
+Environmental Specifications
+Temperature Rating
+-40ºC to +115ºC (-40ºF to +239ºF)
+Corrosion
+300 Hr salt spray contacts
+Weathertight
+Consult factory with specific application
+Molded Cable Assemblies
+(See Pages 3 & 26)
+Watertight
+NEMA 6P, 13: IEC IP67
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+25
+
+* Please visit the product pages on our website for the most up-to-date product information
+CON-X MOLDED CABLE ASSEMBLY CHECK LIST
+Company Name:  
+ 
+ 
+ 
+ 
+Customer Name: 
+Address: 
+City  
+ 
+ 
+ 
+ 
+ 
+ 
+State:   
+ 
+ 
+Zip: 
+Phone:   
+ 
+ 
+ 
+ 
+ 
+Fax: 
+Website:  
+ 
+ 
+ 
+ 
+ 
+E-mail: 
+Annual Usage Quantity:   
+ 
+ 
+ 
+Monthly Usage Quantity:
+Does the assembly need to be RoHS compliant? 
+Yes: 
+ 
+ 
+ 
+No:
+Cable Vendor and Part Number (if available):   
+Cable Outer Jacket - Color:  
+ 
+ 
+Material:  
+ 
+ 
+ 
+OD: 
+Number of Conductors:  
+ 
+Conductor AWG: 
+ 
+ 
+ 
+Stranding: 
+Conductor Colors:
+Is there a drain wire?   
+ 
+ 
+Is the drain wire terminated?
+*If the drain wire is terminated, be sure to indicate where on pin-out diagram.
+Is the cable shielded?  
+ 
+How?  Foil  
+ 
+ 
+ 
+Braid   
+ 
+%
+*If the shield is braided, be sure to indicate where on the pin-out diagram.
+Will the Customer supply the cable for production?
+Cable Cut Length:  
+ 
+ 
+ 
+ 
+Overall Assembly Length:
+Does the Cable Assembly have Environmental Requirements?
+If yes, please list them:
+Must overmold have a moisture bond to the cable’s outer jacket?
+Is the Cable Assembly:  
+Single ended:   
+ 
+ 
+Double Ended:
+Do the connectors need to be shielded?
+If yes, do they need to be: 180º shield:   
+ 
+ 
+OR Shield thru pin:
+End “A” Connector Part Number:  
+ 
+ 
+ 
+Right Angle?
+End “B”, will that end need processing?  
+ 
+ 
+If yes, indicate below:
+Outer jacket strip length:  
+ 
+Inner Conductor strip length:   
+ 
+Tinned?
+Does end “B” have any special inclusions? If yes, please list them:  
+Note: Please submit a diagram of the color code pin-out, showing which conductors are wired to which
+pin position. Be sure to show drain and shield terminations, if needed. Indicate empty pins or spaces to
+be molded closed where required. If a drawing assembly is available, please send it also.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+26
+
+* Please visit the product pages on our website for the most up-to-date product information
+CON-X ELECTRICAL CURRENT RATING CHART
+FOR CONNECTORS & CABLE ASSEMBLIES
+CONDUCTOR
+SIZE  - AWG
+CONTACT
+SIZE
+NUMBER of
+CONDUCTORS
+CURRENT RATING
+#12
+1 through 7
+23.0A
+#14
+#12
+17.0A
+12.75A
+11.0A
+#16
+1 through 3
+4 through 6
+7 through 9
+1 through 3
+4 through 6
+7
+13.0A
+9.75A
+8.45A
+#16
+1 through 10
+11 and 12
+13.0A
+7.5A
+#16
+#18
+1 through 3
+4 through 12
+10.0A
+7.5A
+#18
+#20
+#20
+1 through 3
+4 through 20
+21 through 31
+1 through 3
+4 through 20
+21 through 31
+7.5A
+5.6A
+2.3A
+7.5A
+5.6A
+2.3A
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+27
+
+* Please visit the product pages on our website for the most up-to-date product information
+MIL-E-QUAL® EQUIVALENT TO MIL-C-5015
+Cable Socket
+CXX 3106A XXXX XX S XXX
+Box Receptacle Pin
+CXX 3102A XXXX XX P XXX
+Cable Pin
+CXX 3106A XXXX XX P XXX
+Box Receptacle Socket
+CXX 3102A XXXX XX S XXX
+Cable Cap
+4XX96
+Receptacle Cap
+4XX95
+Molded Cable Assemblies (See pages 3 & 33)
+Cable Pin
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+28
+
+* Please visit the product pages on our website for the most up-to-date product information
+MIL-E-QUAL® EQUIVALENT TO MIL-C-5015
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+29
+
+* Please visit the product pages on our website for the most up-to-date product information
+MIL-E-QUAL® EQUIVALENT TO MIL-C-5015
+Contact Arrangements
+Contact Arrangements shown are mating view of pin insert (socket opposite).
+Unless otherwise specified, arrangements are per MIL-STD-1651A. for alternate key positions, consult factory.
+*Available in connector types: cable end socket, panel mount pin styles only.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+30
+
+* Please visit the product pages on our website for the most up-to-date product information
+MIL-E-QUAL® EQUIVALENT TO MIL-C-5015
+Part Number to Order
+CX X 310XA XXXX XX X XXX
+CONXALL
+Molded Equivalent 
+to MIL-C-5015
+Contact Style
+S - Solder
+C - Crimp
+Deviations
+-300
+Weathertight
+Option adds:
+“O” Ring for plug
+(3106A)
+Rubber Gasket
+for receptacle
+(3102A)
+-010
+Receptacle with (4)
+mounting hole rein-
+forcement bosses.
+Consult factory for
+availability.
+-310
+Same as -010 except
+with rubber gasket.
+Shell Type 
+(See Note 1)
+3101A
+Cable Receptacle (in-line)
+(See Note 3)
+3102A
+Box Receptacle
+3106A
+Straight Plug (See Note 2)
+Contacts
+P - Pin
+S - Socket
+Insert Number/Arrangement
+All inserts are integrally molded with connector
+shells for one piece construction. Contact factory
+for alternative W, X, Y or Z insert positions.
+Note 1 - All plugs and receptacles include crimp or solder
+contacts specified.
+Note 2 - Straight Plugs include back shell assembly with
+cable clamp and bushing.
+Note 3 - For overmolded cable construction only. Consult
+factory for availability.
+Shell/Insert Sizes
+Bushing Sizes Provided
+Plug Shell Size
+Max. Cable Dia.
+10SL, 12S
+1/4"
+14S
+5/16"
+16S, 16
+7/16"
+18
+9/16"
+20, 22
+5/8"
+24, 28
+3/4"
+10SL-4
+16S-1
+18-19
+10SL-3
+16S-8
+20-7
+12S - 3
+16 - 10
+20-16
+14S - 1
+18 - 1
+20-27
+14S - 2
+18 - 4
+20-29
+14S - 5
+18 - 8
+22-14
+14S - 6
+18 - 10
+24-2
+14S - 7
+18 - 11
+24-28
+14S - 9 
+18 - 12
+28-2
+28-12
+28-21
+Consult factory for your custom design assemblies and connectors. (See pages 3 & 33)
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+31
+
+* Please visit the product pages on our website for the most up-to-date product information
+MIL-E-QUAL® EQUIVALENT TO MIL-C-5015
+Specifications
+Typical Specifications
+Manufacturers Identifications
+MIL-E-QUAL®
+Description
+Field Installable Connector & Custom Cable Assemblies
+Rating
+3.4 thru 23.0A, 600V
+Conductor Size
+12 thru 20 AWG
+Configuration
+2 thru 37 Contacts per Mil - C-5015
+Certification
+UL Recognized File #E150822 - 250V
+CSA Certified File #181200-500V
+Material Specifications
+Cable Pin/Socket
+Mechanical Backshell (Threaded)
+Nylon, UL Recognized, Black with UV Inhibitor
+Strap
+Nylon, UL Recognized, Black with UV Inhibitor
+Screws
+Zinc Plated
+Grommet
+Santoprene Rubber, Black
+Coupling Ring
+Nylon, UL Recognized, Black with UV Inhibitor
+Contacts
+Brass, Standard Silver Plated, Gold Plated Optional
+Connector Body
+Nylon, UL Recognized, Black with UV Inhibitor
+Optional
+Connector Cap
+Nylon, UL Recognized, Black with UV Inhibitor (4XX96)
+O-Ring
+Neoprene Rubber, Black
+Different Keyways Available
+Gold Contacts
+Brass, Gold over Nickel
+Box Receptacle
+Contacts
+Brass, Standard Silver Plated, Gold Plated Optional
+Receptacle Body
+Nylon, UL Recognized, Black with UV Inhibitor
+Optional
+Receptacle Cap
+Nylon, UL Recognized, Black with UV Inhibitor (4XX95)
+Gasket
+Neoprene Rubber, Black
+Gold Contacts
+Brass, Gold over Nickel
+Extended Bosses
+Different Keyways Available
+Gasket, O-Ring, & Grommet materials are 
+suitable for -40ºC to +90ºC (-40ºF to +194ºF).
+Consult factory for higher temperature requirements.
+Electrical Specifications
+Voltage
+500 V
+Current
+See Electrical Current Rating Chart (Page 34)
+Environmental Specifications
+Temperature Rating
+-40ºC to +125ºC (-40ºF to +257ºF)
+Corrosion
+48 Hr salt spray contacts
+Durability
+300 mate/unmate cycles minimum
+Weathertight
+Consult factory with specific application
+Molded Cable Assemblies
+(See Pages 3 & 33)
+Watertight
+NEMA 6P, 13: IEC IP67
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+32
+
+* Please visit the product pages on our website for the most up-to-date product information
+MIL-E-QUAL® MOLDED CABLE ASSEMBLY CHECK LIST
+EQUIVALENT TO MIL-C-5015
+Company Name:  
+ 
+ 
+ 
+ 
+Customer Name: 
+Address:
+ City   
+ 
+ 
+ 
+ 
+ 
+State:   
+ 
+ 
+Zip: 
+Phone:   
+ 
+ 
+ 
+ 
+ 
+Fax: 
+Website:  
+ 
+ 
+ 
+ 
+ 
+E-mail: 
+Annual Usage Quantity:   
+ 
+ 
+ 
+Monthly Usage Quantity:
+Does the assembly need to be RoHS compliant? 
+Yes: 
+ 
+ 
+ 
+No:
+Cable Vendor and Part Number (if available):   
+Cable Outer Jacket - Color:  
+ 
+ 
+Material:  
+ 
+ 
+ 
+OD: 
+Number of Conductors:  
+ 
+Conductor AWG: 
+ 
+ 
+ 
+Stranding: 
+Conductor Colors:
+Is there a drain wire?   
+ 
+ 
+Is the drain wire terminated?
+*If the drain wire is terminated, be sure to indicate where on pin-out diagram.
+Is the cable shielded?  
+ 
+ 
+How?  Foil  
+ 
+ 
+Braid   
+ 
+%
+*If the braid is terminated, be sure to indicate where on the pin-out diagram.
+Will the Customer supply the cable for production?
+Cable Cut Length:  
+ 
+ 
+ 
+ 
+Overall Assembly Length:
+Does the Cable Assembly have Environmental Requirements?
+If yes, please list them:
+Must overmold have a moisture bond to the cable’s outer jacket?
+Is the Cable Assembly:  
+Single ended:   
+ 
+Double Ended:
+Do the connectors need to be shielded?
+If yes, do they need to be: 180º shield:   
+ 
+ 
+OR Shield thru pin:
+End “A” Connector Part Number:  
+ 
+ 
+ 
+Right Angle?
+End “B” Connector Part Number:   
+ 
+ 
+ 
+Right Angle?
+If no conductor on end “B”, will that need processing?  
+ 
+If yes, indicate below:
+Outer jacket strip length:  
+ 
+Inner Conductor strip length:   
+ 
+Tinned?
+Does end “B” have any special inclusions? If yes, please list them:  
+Note: Please submit a diagram of the color code pin-out, showing which conductors are wired to which
+pin position. Be sure to show drain and shield terminations, if needed. Indicate empty pins or spaces to
+be molded closed where required. If a drawing assembly is available, please send it also.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+33
+
+* Please visit the product pages on our website for the most up-to-date product information
+MIL-E-QUAL® ELECTRICAL CURRENT RATING CHART
+FOR CONNECTORS & CABLE ASSEMBLIES
+TOOLING
+Contact Insertion & Removal Tools
+356-XXX Bits                   356-1 Handle
+Manual Crimp Tool
+(Multi-contact)
+Handle
+Manual Crimp Tool
+(Single Purpose)
+Positioner
+Handle
+Locator
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+34
+
+* Please visit the product pages on our website for the most up-to-date product information
+TOOLING
+Contact Insertion/Removal Tools
+Product not designed to
+remove contacts after
+insertion. Consult factory
+for removal tools.
+Manual Contact Crimping Tools
+Pneumatic Crimping Tools - Consult Factory
+Contact Crimping and Assembly Procedures:
+A.
+Push cable through connector components, i.e. backshell, grommet, sleeve, and coupling ring.
+B.
+Wire preparation: Strip cable to dimensions shown. Make all cuts square and sharp being careful not to nick wires
+when cutting. To prevent stranded wires from fraying it is recommended that ends be tightly twisted and not solder
+dipped.
+Conductor Strip Lengths
+CON-X
+MIL-E-QUAL
+#20 -3/16
+#16 -9/32
+#16 -7/32
+#12 -7/32
+#12 -7/32
+Cable Stripping
+C.
+Contact crimping tools, use as follows:
+Assemble contact locator to tool.
+Check tool setting for wire gage to be crimped.
+Drop contacts, mating end first into locator so that it rests fully on bottom. Insert stripped lead into contact barrel
+until it stops.
+Close tool handles completely in one stroke. (The ratchet will not release jaws until tool has completed cycle.)
+Inspect crimp to be sure there are no loose strands outside the contact which may short out to an adjacent contact.
+D.
+Contact insertion tools. Place wired contact into proper connectors cavity. Guide tip of the insertion tool so that it starts
+at the contact and slides down against the stop. Apply a steady force perpendicular to the contact until it snaps into
+position.
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+®
+35
+
+* Please visit the product pages on our website for the most up-to-date product information
+NOTES
+®
+601 East Wildwood, Villa Park, Illinois 60181 • Telephone (630) 834-7504 • Fax (630) 834-8540 • www.conxall.com
+36
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Switchcraft:  
+ 
+  13182-7SG-321  3282-5SG-3DC  359-21  3282-9SG-321  3282-9SG-324  3282-9SG-328  3282-9SG-330  3282-9SG-
+515  3282-9SG-518  3282-9SG-521  3282-9SG-524  3282-9SG-528  3380-4PG-315  3380-4PG-318  3380-4PG-321 
+3380-4PG-324  3380-4PG-328  3380-4PG-330  3380-4PG-3DC  3380-4PG-515  3380-4PG-518  3380-4PG-521  3380-
+4PG-524  3380-4PG-528  3380-4PG-530  3380-4SG-315  3380-4SG-318  3380-4SG-321  3380-4SG-324  3380-4SG-
+328  3380-4SG-330  3380-4SG-515  3380-4SG-518  3380-4SG-521  3380-4SG-524  3380-4SG-528  3380-4SG-530 
+3380-5SG-315  3380-5SG-318  3380-5SG-321  3380-5SG-324  3380-5SG-328  3380-5SG-330  3380-5SG-3DC  3380-
+5SG-515  3380-5SG-518  3380-5SG-521  3380-5SG-524  3380-5SG-528  3380-5SG-530  3380-6SG-315  3380-6SG-
+318  3380-6SG-321  3380-6SG-324  3380-6SG-328  3380-6SG-330  3380-6SG-3DC  3380-6SG-515  3380-6SG-518 
+3380-6SG-521  3380-6SG-524  3380-6SG-528  3380-6SG-530  3382-4PG-315  3382-4PG-321  3382-4PG-324  3382-
+4PG-328  3382-4PG-330  3382-4PG-3DC  3382-4PG-521  3382-4PG-524  3382-4PG-528  3382-4PG-530  3382-4SG-
+315  3382-4SG-318  3382-4SG-321  3382-4SG-324  3382-4SG-328  3382-4SG-515  3382-4SG-518  3382-4SG-521 
+3382-4SG-524  3382-4SG-530  3382-5SG-315  3382-5SG-318  3382-5SG-328  3382-5SG-330  3382-5SG-3DC  3382-
+5SG-515  3382-5SG-518  3382-5SG-521  3382-5SG-524  3382-5SG-528  3382-5SG-530  3382-6SG-315  3382-6SG-
+318  3382-6SG-321  3382-6SG-324  3382-6SG-328  3382-6SG-330

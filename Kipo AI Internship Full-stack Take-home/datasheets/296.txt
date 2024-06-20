@@ -1,0 +1,281 @@
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user 
+documentation. Our general terms of use for downloads are valid.
+Device connector, rear mounting, 4-position, Plug, straight, M12-SPEEDCON, coding: D , Rear 
+mounting, M12 x 1, Solder pins, Alternative product in accordance with RoHS II without 
+Exemption 6c (Pb <0.1%) item no.: 1240023
+Your advantages
+Easy PCB assembly: one-piece connectors for wave soldering
+•
+All standard pin assignments and codings for signal, data, and power transmission with a uniform design-in design
+•
+SPEEDCON fast locking system reduces cabling times
+•
+For high transmission reliability: optional shield connection to the housing by means of shield contact
+•
+Commercial data
+Item number
+1552984
+Packing unit
+20 pc
+Minimum order quantity
+20 pc
+Note
+Made to order (non-returnable)
+Product key
+ABQEGA
+Catalog page
+Page 249 (C-2-2013)
+GTIN
+4046356162012
+Weight per piece (including packing)
+8.3 g
+Weight per piece (excluding packing)
+8.3 g
+Country of origin
+DE
+Aug 25, 2023, 5:15 AM     Page 1 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Technical data
+Notes
+General
+The electrical and mechanical data specified assume that the 
+connector pair is correctly locked and mounted. If the connector 
+is unlocked and if there is a danger of contamination, the 
+connector must be sealed using a protective cap > IP54. 
+Influences arising from litz wires, cables or PCB assembly must 
+also be taken into consideration.
+General
+Lock nut is included in the scope of delivery
+Mounting
+Mounting type
+Rear mounting M12 x 1 With locking nut
+Assembly instructions
+With locking nut
+Connection method
+Solder pins
+Product properties
+Product type
+Circular connectors (device side)
+Number of positions
+4
+Shielded
+yes
+Coding
+D
+Insulation characteristics
+Overvoltage category
+II
+Degree of pollution
+3
+Material specifications
+Flammability rating according to UL 94
+V0
+Seal material 
+NBR
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PA 6.6
+Material for screw connection
+Zinc die-cast, nickel-plated
+Electrical properties
+Rated surge voltage
+2.5 kV
+Contact resistance
+≤ 3 mΩ
+Insulation resistance
+≥ 100 MΩ
+Nominal voltage UN
+250 V
+Nominal current IN
+4 A
+Connection data
+Conductor connection
+Connection method
+Solder pins
+Aug 25, 2023, 5:15 AM     Page 2 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+3 Nm
+Tightening torque
+4 Nm
+Mechanical properties
+Mechanical data
+Insertion/withdrawal cycles
+> 100
+Connector
+Connection 1
+Head design
+Plug
+Head cable outlet
+straight
+Head thread type
+M12
+Head locking type
+SPEEDCON
+Coding
+D
+Cable/line
+-40 °C ... 85 °C (cable, fixed installation)
+Ambient temperature (operation)
+-25 °C ... 85 °C (Cable, flexible installation)
+Environmental and real-life conditions
+Ambient conditions
+Degree of protection
+IP67 (When plugged in)
+IP65 (When plugged in)
+IP65/IP67
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+-40 °C ... 85 °C (without mechanical actuation)
+-25 °C ... 85 °C (Cable, flexible installation)
+-40 °C ... 85 °C (cable, fixed installation)
+Standards and regulations
+Standard designation
+M12 connector
+Standards/specifications
+IEC 61076-2-101
+Aug 25, 2023, 5:15 AM     Page 3 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Drawings
+Dimensional drawing
+Ø16,5
+14
+10,8
+Front view of M12 flush-type connector
+Drilling plan/solder pad geometry
+45°
+Ø1,2
+Ø13,5
+Ø1,2
+Ø5
+Aug 25, 2023, 5:15 AM     Page 4 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Schematic diagram
+Pin assignment M12 male connector, 4-pos., D-coded, male side
+Dimensional drawing
+Dimensional drawing
+Aug 25, 2023, 5:15 AM     Page 5 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Approvals
+To download certificates, visit the product detail page: https://www.phoenixcontact.com/us/products/1552984
+
+cUL Recognized 
+Approval ID: E118976-20100522
+Nominal voltage UN
+Nominal current IN
+Cross section AWG
+Cross section mm2
+250 V
+4 A
+- 22
+-
+
+UL Recognized 
+Approval ID: E118976-20100522
+Nominal voltage UN
+Nominal current IN
+Cross section AWG
+Cross section mm2
+250 V
+4 A
+- 22
+-
+
+EAC 
+Approval ID: B.01687
+
+cULus Recognized 
+Approval ID: E221474-20140616
+Nominal voltage UN
+Nominal current IN
+Cross section AWG
+Cross section mm2
+250 V
+4 A
+22 - 20
+-
+cULus Recognized
+Aug 25, 2023, 5:15 AM     Page 6 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Classifications
+ECLASS
+ECLASS-11.0
+27440102
+ECLASS-12.0
+27440116
+ECLASS-13.0
+27440116
+ETIM
+ETIM 8.0
+EC002635
+UNSPSC
+UNSPSC 21.0
+39121400
+Aug 25, 2023, 5:15 AM     Page 7 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Environmental product compliance
+REACh SVHC
+Lead 7439-92-1
+Environmentally Friendly Use Period = 50 years
+China RoHS
+For information on hazardous substances, refer to the 
+manufacturer’s declaration available under “Downloads”
+Aug 25, 2023, 5:15 AM     Page 8 (9)
+
+SACC-DSI-MSD-4CON-M12-SCO SH - Device 
+connector, rear mounting
+1552984
+https://www.phoenixcontact.com/us/products/1552984
+Accessories
+PROT-M12 FS - Sealing cap
+1560251
+https://www.phoenixcontact.com/us/products/1560251
+M12 sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-
+type plugs and I/O devices in the field
+PROT-M12 FS-M - Sealing cap
+1430488
+https://www.phoenixcontact.com/us/products/1430488
+M12 metal sealing cap for unoccupied M12 plugs of the sensor/actuator cable, 
+flush-type plugs and I/O devices in the field
+Phoenix Contact 2023 © - all rights reserved 
+https://www.phoenixcontact.com
+Phoenix Contact USA 
+586 Fulling Mill Road 
+Middletown, PA 17057, United States 
+(+717) 944-1300 
+info@phoenixcon.com
+Aug 25, 2023, 5:15 AM     Page 9 (9)

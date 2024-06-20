@@ -1,0 +1,547 @@
+OF:
+SH:
+REV:
+DWG NO:
+TITLE:
+1
+1
+B1
+RT0W01626S*H
+ECO-MATE,RECEPTACLE,SIZE 16,26POS,SOCKET.
+TOMMY
+1
+1
+SHEET
+OF
+RT0W01626SNH
+RT0W01626SWH
+RT0W01626SXH
+RT0W01626SYH
+RT0W01626SZH
+ECO-MATE, RECEPTACLE, 
+SIZE 16, 26POS,SOCKET.
+ITEM
+DESCRIPTION
+Sine Systems - www.amphenol-sine.com
+44724 Morley Drive
+Amphenol
+TYPE
+REVISION
+DWG NO:
+C-
+NONE
+X
+Y
+Z
+N
+W
+REVISIONS
+B
+RT0W01626S*H
+B1
+SCALE:
+KEY POS
+PART NUMBER
+DATE 
+BEN
+JULY-04-2014
+MATERIALS LIST
+SIGNATURES    
+ECO
+APPR
+BY
+DRAWN:
+CHECKED:
+ENGINEER:
+APPROVAL:
+CUSTOMER:
+THIS DRAWING IS SUPPLIED FOR
+INFORMATION ONLY. DESIGN FEATURES,
+SPECIFICATIONS AND PERFORMANCE DATA
+SHOWN HEREON ARE THE PROPERTY OF
+THE AMPHENOL CORPORATION. NO RIGHTS
+OF REPRODUCTION ARE IMPLIED. ALL
+DIMENSIONS ARE SUBJECT TO NORMAL
+MANUFACTURING VARIATIONS.
+RELEASED DRAWING
+JULY-04-2014
+BEN
+B1
+-
+REV
+DESCRIPTION
+DATE
+PART NUMBER
+SEE PART NUMBER
+CHART
+Fractions ±1/64
+Angles ±1°
+4-ø3.2
+3 PL DEC ±0.08
+MATERIAL SPECIFICATIONS:
+SIZE
+PROCESS SPECIFICATIONS:
+NEXT ASS'Y:
+UNLESS OTHERWISE SPECIFIED
+Clinton Township, MI 48036
+X
+3) Note reference =
+1) All dimensions are in metric(mm).
+2) Tolerances are as follows:
+1 PL DEC ±0.30
+2 PL DEC ±0.15
+QUANTITY
+4-Ø3.20+0.2
+ 0
+ø28.2+0.2
+0
+(For Rear Panel Mounting)
+ø24.1+0.2
+0
+(For Front Panel Mounting)
+31.0
+24.6
+24.6
+31.0
+PANEL CUT OUT
+REFERENCE
+24.6
+Ø25.3
+25.0 Ref
+24.6
+MASTER KEYWAY
+15/16-20 UNEF THREAD
+NOTES：(UNLESS OTHERWISE SPECIFIED)
+1.  MATERIAL：
+     SHELL：ZINC ALLOY，NICKEL PLATED.
+     INSERT：THERMOPLASTIC，UL94 V-0/CR.
+     SEAL GASKET：NBR.
+     O-RING : NBR.
+2.  SPECIFICATIONS：
+     2.1 RATED CURRENT：
+           2.1.1 STAMPED CONTACT 5A (MAX).
+           2.1.2 MACHINED CONTACT 7.5A(MAX).
+     2.2 RATED VOLTAGE：150V（AC/DC）.
+     2.3 OPERATING TEMPERATURE：-40°C ～+105°C.
+     2.4 DIELECTRIC WITHSTANDING VOLTAGE：LESS THAN
+           2 MILLIAMPS CURRENT LEAKAGE@1500 VOLTS AC.
+     2.5 INSULATION RESISTANCE：5000 MEGOHMS MIN.
+     2.6 IP--CLASS：IP67.
+     2.7 MATING CYCLES DURABILITY：500 CYCLES(MIN).
+     2.8 ROHS COMPLIANT.
+3.  SUITABLE CONTACTS ：20# CONTACTS.
+4.  ALL DIMENSIONS ARE FOR REFERENCE USE ONLY.
+
+ecomate® RM/RSSM/Aquarius™ - Contact Size 20 Options
+Crimp Contacts, Machined
+Crimp Contacts, Stamped & Formed
+Part Number
+AWG
+Wire Range (mm²)
+Plating
+Part Number
+AWG
+Wire Range 
+(mm²)
+Plating
+Male
+Female
+Male
+Female
+MP20W23F
+MS20W23F
+22-20
+0.34-0.50
+Gold Flash
+SP20W2F
+SS20W2F
+22-20
+0.34-0.50
+Gold Flash
+MP20W23G5
+MS20W23G5
+22-20
+0.34-0.50
+Gold 5µ”
+SP20W2G5
+SS20W2G5
+22-20
+0.34-0.50
+Gold 5µ”
+MP20W23G10
+MS20W23G10
+22-20
+0.34-0.50
+Gold 10µ”
+SP20W2G10
+SS20W2G10
+22-20
+0.34-0.50
+Gold 10µ”
+MP20W23G15
+MS20W23G15
+22-20
+0.34-0.50
+Gold 15µ”
+SP20W2G15
+SS20W2G15
+22-20
+0.34-0.50
+Gold 15µ”
+MP20W23G30
+MS20W23G30
+22-20
+0.34-0.50
+Gold 30µ”
+SP20W2G30
+SS20W2G30
+22-20
+0.34-0.50
+Gold 30µ”
+MP24W23F
+MS24W23F
+26-24
+0.13-0.25
+Gold Flash
+SP24W2F
+SS24W2F
+26-24
+0.14-0.25
+Gold Flash
+MP24W23G5
+MS24W23G5
+26-24
+0.13-0.25
+Gold 5µ”
+SP24W2G5
+SS24W2G5
+26-24
+0.14-0.25
+Gold 5µ”
+MP24W23G10
+MS24W23G10
+26-24
+0.13-0.25
+Gold 10µ”
+SP24W2G10
+SS24W2G10
+26-24
+0.14-0.25
+Gold 10µ”
+MP24W23G15
+MS24W23G15
+26-24
+0.13-0.25
+Gold 15µ”
+SP24W2G15
+SS24W2G15
+26-24
+0.14-0.25
+Gold 15µ”
+MP24W23G30
+MS24W23G30
+26-24
+0.13-0.25
+Gold 30µ”
+SP24W2G30
+SS24W2G30
+26-24
+0.14-0.25
+Gold 30µ”
+MP28W23F
+MS28W23F
+30-28
+0.05-0.08
+Gold Flash
+SP28W2F
+SS28W2F
+30-28
+0.05-0.08
+Gold Flash
+MP28W23G5
+MS28W23G5
+30-28
+0.05-0.08
+Gold 5µ”
+SP28W2G5
+SS28W2G5
+30-28
+0.05-0.08
+Gold 5µ”
+MP28W23G10
+MS28W23G10
+30-28
+0.05-0.08
+Gold 10µ”
+SP28W2G10
+SS28W2G10
+30-28
+0.05-0.08
+Gold 10µ”
+MP28W23G15
+MS28W23G15
+30-28
+0.05-0.08
+Gold 15µ”
+SP28W2G15
+SS28W2G15
+30-28
+0.05-0.08
+Gold 15µ”
+MP28W23G30
+MS28W23G30
+30-28
+0.05-0.08
+Gold 30µ”
+SP28W2G30
+SS28W2G30
+30-28
+0.05-0.08
+Gold 30µ”
+Tooling, Machined
+Tooling, Stamped & Formed
+Part Number
+Description
+Part Number
+Description
+QXRT20
+Contact Extraction Tool, #20 (Ø 1.0) Contact
+QXRT20
+Contact Extraction Tool, #20 (Ø 1.0) Contact
+MFX-3959
+Hand Crimp Tool for Machined Contacts
+MFX-3958
+Hand Tool, Stamped & Formed Contact, Size 20, 20-28AWG
+MFX-3960
+Pneumatic Crimp Tool for Machined Contact
+MFX-3957
+Crimp Die for Stamped & Formed Contact
+Plating Options, All
+Misc Tooling, All
+Symbol
+Plating
+Part Number
+Description
+T
+Tin Plated (for Stamped & Formed Contacts)
+CA-4020-59
+Sealing Plug, Size 16 & 20
+S
+Silver Plated 5Um (for Machined Contacts)
+F
+Gold Plated
+Standard Quantity Order Options
+G5
+Gold Plated (Thickness 5µ”)
+Machined
+Stamped & Formed
+G10
+Gold Plated (Thickness 10µ”)
+Bulk Package, 500 Pieces
+Reel, 3000 Pieces
+G15
+Gold Plated (Thickness 15µ”)
+G30
+Gold Plated (Thickness 30µ”)
+Amphenol Sine Systems  44724 Morley Drive, Clinton Township, MI 48036 USA  www.amphenol-sine.com  09/2021
+
+ecomate® RM/RSSM - Contact Size 20, PC Tail Options
+PC Tail Contacts, Machined
+PC Tail Contacts, Stamped & Formed
+Part Number
+AWG
+Description
+Plating
+Part Number
+AWG
+Description
+Plating
+Male
+Female
+Male
+Female
+MP20W12E06F
+MS20W12E06F
+20
+Short Version
+Gold Flash
+N/A
+MP20W12E06G5
+MS20W12E06G5
+20
+Short Version
+Gold 5µ"
+N/A
+MP20W12E06G10
+MS20W12E06G10
+20
+Short Version
+Gold 10µ"
+N/A
+MP20W12E06G15
+MS20W12E06G15
+20
+Short Version
+Gold 15µ"
+N/A
+MP20W12E06G30
+MS20W12E06G30
+20
+Short Version
+Gold 30µ"
+N/A
+MP20W12E09F
+MS20W12E09F
+20
+Long Version
+Gold Flash
+N/A
+MP20W12E09G5
+MS20W12E09G5
+20
+Long Version
+Gold 5µ"
+N/A
+MP20W12E09G10
+MS20W12E09G10
+20
+Long Version
+Gold 10µ"
+N/A
+MP20W12E09G15
+MS20W12E09G15
+20
+Long Version
+Gold 15µ"
+N/A
+MP20W12E09G30
+MS20W12E09G30
+20
+Long Version
+Gold 30µ"
+N/A
+PCB Contact Dimensions - Nominal Length G
+(Size 20 PC Tail dimensions for ecomate® RM and ecomate® RSSM connectors only.)
+Pin Contact
+Shell
+Size
+MP20W12E06xx
+MP20W12E09xx
+MP16M12E04xx
+MP16M12E06xx
+MP10B12E05xx
+MP10B12E08xx
+10
+4.0mm
+9.5mm
+4.0mm
+8.0mm
+-
+-
+12
+4.0mm
+9.5mm
+4.0mm
+8.0mm
+5.0mm
+-
+14
+4.0mm
+9.5mm
+4.0mm
+8.0mm
+5.2mm
+-
+16
+4.0mm
+9.5mm
+4.0mm
+8.0mm
+-
+-
+18
+-
+9.5mm
+4.0mm
+8.0mm
+-
+-
+20
+-
+9.5mm
+4.0mm
+8.0mm
+-
+-
+24
+-
+-
+-
+3.9mm
+-
+-
+Socket Contact
+Shell
+Size
+MP20W12E06xx
+MP20W12E09xx
+MP16M12E04xx
+MP16M12E06xx
+MP10B12E05xx
+MP10B12E08xx
+10
+3.3mm
+8.5mm
+2.4mm
+3.0mm
+-
+-
+12
+3.3mm
+8.5mm
+2.4mm
+3.0mm
+-
+-
+14
+3.3mm
+8.5mm
+2.4mm
+3.0mm
+-
+-
+16
+3.3mm
+8.5mm
+2.4mm
+3.0mm
+-
+-
+18
+--
+8.5mm
+2.4mm
+-
+-
+-
+20
+--
+8.5mm
+2.4mm
+-
+-
+-
+24
+-
+-
+-
+-
+-
+-
+Standard Quantity Order Options
+Machined
+Stamped & Formed
+Bulk Package, 500 Pieces
+N/A
+NOTE: For ecomate® Aquarius™ PC Tail options, see our ecomate® Aquarius™ PCB Mount Jam Nut Receptacles Flyer online at www.amphenol-sine.com.
+Amphenol Sine Systems  44724 Morley Drive, Clinton Township, MI 48036 USA  www.amphenol-sine.com  09/2021

@@ -1,0 +1,219 @@
+1
+2
+3
+4
+5
+6
+7
+8
+Anzugsdrehmoment: 1.0 Nm
+torque value:
+*)
+**)
+*)
+*)
+10
+30
+40
+50 *)
+60 *)
+80 *)
+90
+100**)
+70
+20
+A
+A
+Markierungspunkt
+red dot
+vor der 
+Schnittebene
+/in front of 
+cutting plane
+Nur Einsatz dargestellt
+view only insert
+10.9
+12.9
+A
+SW 10
+B
+B
+Fuer diese Unterlage behalten wir uns alle Rechte vor, auch fuer den
+Fall der Patenterteilung oder Gebrauchsmustereintragung. Sie darf
+ohne unsere vorherige schriftliche Zustimmung weder vervielfaeltigt
+12
+SW 10
+17
+32.8
+K41F1C-___
+ca. 53
+Markierungspunkt
+C
+C
+red dot
+Ansicht der Kodierung in Richtung "A" !
+view of coding in direction "A" !
+empfohlene Abisolierlaenge
+/recommended cable preparation
+2.5
+2.5
+Schirm
+/shield
+Isolierung
+/insulation
+2:1
+D
+D
+> 6.5 - 7.0 mm
+K41F_C-P08LFG0-700S
+9
+Einzelader
+/wire
+> 6.0 - 6.5 mm
+K41F_C-P08LFG0-650S
+Nur rot gestempelte oder auf Laufkarte gedruckte Dokumente 
+unterliegen dem Aenderungsdienst und sind zur Fertigung freigegeben. 
+Only red stamped or on jobcard printed documents 
+are managed. These documents are approved for production. 
+Kabel
+/cable
+> 5.5 - 6.0 mm
+K41F_C-P08LFG0-600S
+> 5.0 - 5.5 mm  
+K41F_C-P08LFG0-550S
+> 4.5 - 5.0 mm
+K41F_C-P08LFG0-500S
+K41F2C-___
+> 4.0 - 4.5 mm
+K41F_C-P08LFG0-450S
+  *) Darstellung nur Beispiel
+> 3.5 - 4.0 mm
+K41F_C-P08LFG0-400S
+    figure on only for example
+> 3.0 - 3.5 mm
+K41F_C-P08LFG0-350S
+Technische Daten/Technical Data:
+> 2.5 - 3.0 mm
+K41F_C-P08LFG0-300S
+E
+E
+2
+0.7 mm
+**) Scheibe nur bei Kabel-�n� 
+<  4.5mm
+> 2.0 - 2.5 mm
+K41F_C-P08LFG0-250S
+0.38mm
+    washer only at cable-�n� 
+<  4.5mm 
+> 1.5 - 2.0 mm
+K41F_C-P08LFG0-200S
+Loet/solder
+AWG 22
+> 1.0 - 1.5 mm
+K41F_C-P08LFG0-150S
+0.9 kV AC (SAE AS 13441) 
+Knickschutztuelle separat bestellen
+order cable bend relief separately
+Cu-Legierung
+/cu-alloy
+Cu-Legierung
+/cu-alloy
+PEEK
+Kabel�n�
+cable�n�
+Oxaion-ID
+7.5 A
+Kontakt�n�/Contact�n�:
+Anschluß/Termination:
+ 
+ 
+Pruefspannung/Test Voltage:
+ 
+Strombelastung/Current Load:
+Einzelkontakte/single contacts:
+R
+Benennung/description:  
+Werkstoff:
+material:  
+All Rights reserved, including possible patents 
+or trademarks. Documents shall not be provided
+to a third party or duplicated in any form
+without prior written permission.
+Kabelteil cpl.
+see BOM
+Gehaeuse/Housing:
+matt verchromt
+matt chrome-plated
+Werkstoffe/Materials:
+Gehaeuse/Housing:               
+                           
+Kontakte/Contacts: 
+                            
+Isolierkoerper/Insulation Body:    
+ 
+Oberflaechen/Surfaces:
+ 
+ 
+Kontakte/Contacts:               
+gal. Au
+Maßstab: 
+scale:
+F
+ 
+Schutzart/Protection class:        
+IP 68
+Allgemeintoleranz/general tol.:
+DIN ISO 2768-mH
+Tolerierung  / Tolerancing:
+DIN ISO 8015   
+CAD-Nr.:
+design-ID:
+4:1
+im gesteckten Zustand
+  
+Status/state:
+Version: 
+revision:
+00147816 Format:
+/plugged condition
+size:
+Approved
+- Teile-ID:
+part-ID:   
+A3
+Erstellt/prepared13.09.2018tschroedl
+Einheit:
+dim.:     mm 
+Geaendert/revised13.09.2018tschroedl
+Oxaion-Nr.: 
+Bei den hier dargestellten ODU-Steckverbindern handelt es sich nach
+DIN EN 61984:2009 um Steckverbinder ohne Schaltleistung (COC) !
+/the pictured ODU-connectors are in relation to DIN EN 61984:2009
+connectors without switching capacity (COC) !
+Freigabe/released18.09.2018rtrager
+K41F_C-P08LFG0-__0S Bl.: 
+ODU-MUEHLDORF
+Datum/date
+Name/name
+Ursprung/origin.: 
+sheet:  1
+noch sonstwie benutzt, noch Dritten zugaenglich gemacht werden.
+CAD: Creo Parametric
+1
+2
+3
+4
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  K41F1C-P08LFG0-450S

@@ -1,0 +1,276 @@
+https://www.phoenixcontact.com/pi/products/1411068
+Data connector - SACC-MSD-4QO SH PN SCO - 1411068
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Data connector, PROFINET CAT5 (100 Mbps), 4-position, halogen-free, shielded, Plug straight M12
+SPEEDCON, Coding: D, Insulation displacement connection, knurl material: Zinc die-cast, nickel-plated,
+external cable diameter 5 mm ... 9.7 mm
+Your advantages
+ Safe use in the field, thanks to a high degree of protection
+ Flexible: connectors for on-site assembly
+ Save time, thanks to installation with SPEEDCON fast locking system
+ Insulation displacement connection: innovative and time-saving assembly without stripping the single wire
+ Reliable signal transmission - 360° shielding in environments with electromagnetic interference
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4046356921794
+Technical data
+Dimensions
+Wrench size, union nut
+15 mm
+Diameter housing
+19 mm
+Length
+58 mm
+External cable diameter
+5 mm ... 9.7 mm
+Stripping length of the sheath
+≥ 80 mm
+Ambient conditions
+Ambient temperature (operation)
+-40 °C ... 85 °C (Plug / socket)
+Ambient temperature (assembly)
+-5 °C ... 50 °C
+Degree of protection
+IP65
+IP67
+General
+09/11/2020   Page 1 / 7
+
+https://www.phoenixcontact.com/pi/products/1411068
+Data connector - SACC-MSD-4QO SH PN SCO - 1411068
+Technical data
+General
+Note
+This product corresponds to the PROFINET Cabling and Interconnection
+Technology Guideline for PROFINET regulations, version 2.00, order
+no: 2.252, Chapter 8.2 Connectors for Outside Environment (Balanced
+cabling)
+NOTE: Observe the permissible bending radii when laying conductors,
+since the degree of protection may be put in jeopardy if the bending
+forces are too high. Alleviate mechanical loads upstream of the
+connector, e.g. by using cable ties.
+Rated current at 40°C
+4 A
+Rated voltage
+48 V AC
+60 V DC
+Number of positions
+4
+Insulation resistance
+≥ 100 MΩ
+Coding
+D - data
+Standards/regulations
+M12 connector according to IEC 61076-2-101
+Shock, vibration EN 50155:2001
+Signal type/category
+PROFINET CAT5 (on the basis of IEC 11801), 100 Mbps
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Insulation displacement connection
+Conductor cross section
+0.25 mm² ... 0.5 mm² (flexible)
+0.25 mm² ... 0.5 mm² (solid)
+Conductor cross section AWG
+24 ... 20 (flexible)
+24 ... 20 (solid)
+Wire diameter including insulation
+0.75 mm ... 2 mm
+Frequency of connections between conductors of the same cross
+section
+10
+Wire insulation material
+PVC / PE / PP / rubber
+Structure of individual litz in acc. with VDE 0295 / smallest wire diameter Class 2-6
+Insertion/withdrawal cycles
+≥ 100
+Torque
+5 Nm (Pressure nut)
+Transmission characteristics (category)
+CAT5
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuSn
+Contact surface material
+Ni/Au
+Contact carrier material
+PA 6.6
+Material of grip body
+Zinc die-cast, nickel-plated
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+NBR
+Standards/regulations
+PA 6.6: Fire protection in rail vehicles - requirement sets R22, R23, R24,
+and R26 acc. to DIN EN 45545-2 (Risk level HL1 - HL3)
+09/11/2020   Page 2 / 7
+
+https://www.phoenixcontact.com/pi/products/1411068
+Data connector - SACC-MSD-4QO SH PN SCO - 1411068
+Technical data
+Standards and Regulations
+Standards/specifications
+M12 connector according to IEC 61076-2-101
+Shock, vibration EN 50155:2001
+Flammability rating according to UL 94
+V0
+Standards/regulations
+acc. to DIN EN 45545-2
+Environmental Product Compliance
+China RoHS
+Environmentally friendly use period: unlimited = EFUP-e
+No hazardous substances above threshold values
+Drawings
+Functional drawing
+Dimensional drawing
+Plug, M12 x 1, straight, shielded
+09/11/2020   Page 3 / 7
+
+https://www.phoenixcontact.com/pi/products/1411068
+Data connector - SACC-MSD-4QO SH PN SCO - 1411068
+Schematic diagram
+Pin assignment M12 male connector, 4-pos., D-coded, male side
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27060300
+eCl@ss 4.1
+27060300
+eCl@ss 5.0
+27061800
+eCl@ss 5.1
+27061800
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440104
+eCl@ss 8.0
+27440104
+eCl@ss 9.0
+27440102
+09/11/2020   Page 4 / 7
+
+https://www.phoenixcontact.com/pi/products/1411068
+Data connector - SACC-MSD-4QO SH PN SCO - 1411068
+Classifications
+ETIM
+ETIM 5.0
+EC002635
+ETIM 6.0
+EC002635
+ETIM 7.0
+EC002635
+Approvals
+Approvals
+Approvals
+EAC / EAC
+Ex Approvals
+Approval details
+ 
+ EAC-Zulassung
+EAC 
+
+ 
+ RU C-
+DE.BL08.B.00511
+EAC 
+
+Accessories
+Accessories
+Data cable by the meter
+Network cable - VS-OE-OE-93B/... - 1417362
+Network cable, PROFINET CAT5 (100 Mbps), 4-position, PVC, green RAL 6018, shielded, free cable end, on free
+cable end, cable length: Free entry (0.5 ... 400 m)
+ 
+ 
+Electronics pliers
+09/11/2020   Page 5 / 7
+
+https://www.phoenixcontact.com/pi/products/1411068
+Data connector - SACC-MSD-4QO SH PN SCO - 1411068
+Accessories
+Diagonal cutter - MICROFOX-SB - 1212489
+Electronic diagonal cutter, round head, without chamfer, with opening spring, mirror-polished and oiled, 2-component
+grip, cutting capacity: soft 0.2 - 2.0 mm; medium hard 1.2 mm; hard 0.5 mm diameter
+ 
+ 
+Protective cap
+Sealing cap - PROT-M12 FS-PA-CHAIN - 1430873
+M12 sealing cap made of plastic with fixing band, for sensor cables, for free M12 plugs
+ 
+ 
+Screwdriver tools
+Tool - SACC BIT M12-D20 - 1208445
+Nut for assembling M12 connectors for assembly with a knurl diameter of 20 mm, for 4 mm hexagonal drive
+ 
+ 
+Adapter insert - TSD-M SAC-BIT ADAPTER - 1212600
+Adapter bit for TSD-M...torque tools, E6.3-1/4" drive with 4 mm hexagon to accommodate SAC bits
+ 
+ 
+Stripping tool
+Stripping tool - WIREFOX-D 40 - 1212161
+Stripping tool, for stripping cables of 4.5 mm ‑ 40 mm‑Ø, insulation thickness of up to 4.5 mm, pivoting blade for
+round, lengthwise, and spiral cuts
+ 
+ 
+Torque tool
+09/11/2020   Page 6 / 7
+
+https://www.phoenixcontact.com/pi/products/1411068
+Data connector - SACC-MSD-4QO SH PN SCO - 1411068
+Accessories
+Torque screwdriver - TSD 04 SAC - 1208429
+Torque screwdriver, with preset torque of 0.4 Nm and 4 mm hexagonal drive for M12 connectors
+ 
+ 
+Torque screwdriver - TSD-M 1,2NM - 1212224
+Torque screw driver, accuracy as per EN ISO 6789 standard, adjustable from 0.3 ‑ 1.2 Nm
+ 
+ 
+Shielding foil - VS-08-RJ45-FOLIEN-SET - 1417184
+Shielding foil set, 25 pieces, replacement for RJ45 and M12 Quickon connector
+ 
+ 
+Stripping tool - VS-CABLE-STRIP-VARIO - 1657407
+Stripping tool, for the multi-level stripping of shielded cables
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 7 / 7
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1411068

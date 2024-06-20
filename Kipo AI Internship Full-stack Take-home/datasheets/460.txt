@@ -1,0 +1,173 @@
+Technical specification:
+Rated voltage:
+IEC 61076-2-101
+4pos       5pos 
+250 V     60 V   
+M12
+x1
+4 A at 40°C
+Current rating:
+IEC 61076-2-101
+Ω
+>=100 M
+Insulation resistance:
+IEC 60512
+ 
+3/2
+Sealing
+Pollution degree:
+IEC 60664-1
+17,8
+width
+across
+flats 14
+Panel thickness
+     min 2mm - max 3mm
+2
+IP 67, in 
+mated condition
+Degree of protection:
+IEC 60529
+ 
+9
+Temperature range:
+EN 60512-11-10
+EN 60512-11-4
+-30°C ... +85°C  
+-40°C
+-40°C ... +85°C
+4
+>=100
+Mating cycles:
+IEC 60512-9a
+Materials:
+width
+across
+flats 15
+20,7
+Contact:
+CuZn, Ni b / Au 0,2 gal.
+PA GF, UL 94 V-0
+Contact carrier:
+17
+FPM 
+Sealing:
+8,5
+Socket housing:
+CuZn, nickel plated
+Shroud:
+spring steel, nickel plated
+15
+19
+Installation specification:
+  
+recommended
+torque:
+ 
+Conec 
+installation tool:
+Shroud
+ 
+  
+0,8-1 Nm
+ 
+ 
+Torque wrench: 
+36-000200
+Insert across flats 14: 
+36-000370
+Insert across flats 15: 
+36-000320
+Panel
+feedthrough 
+25
+n1,3
+Hole for
+optional 
+shroud
+9
+n2,8
+4
+3
+4
+5
+12,5 - 0,2
++0
+n
+n2,35
+1
+2
+n1,2
+45°
+n5
+Pin layout 
+PCB 1,60mm
+15
+Note:
+Part no:
+Description:
+Pos
+43-01204
+SAL - 12 - FSHW4
+4
+43-01205
+4
+with shroud
+SAL - 12S - FSHW4
+43-01206
+5
+SAL - 12 - FSHW5.1
+5
+43-01207
+SAL - 12S - FSHW5.1
+with shroud
+title:
+dim. in mm
+name
+date
+Index: b 21.08.13 MG Ä4884
+Data sheet revised, width across flats of the
+counternut changed, installation specification
+added
+drawn
+Fromm
+17.10.07
+Male socket M12x1 angled,
+backmounting, dip solder
+ 
+appd.
+tolerance of wire:
+dwg no:
+29.02.08
+W. Schmidt
+R
+general tolerance:
+43K1A512
+RoHS & REACH compliant
+± 0,50mm
+± 0,25mm
+± 0,10mm 
+± 1,5°
+0
+0,0
+0,00
+ ∢
+part no:
+DO NOT ALTER CAD DRAWING BY HAND
+ 
+THIS DRAWING MAY NOT BE COPIED OR REPRODUCED IN ANY WAY, AND
+MAY NOT BE PASSED ON TO A THIRD PARTY WITHOUT WRITTEN PERMISSION.
+OWNERSHIP AND COPYRIGHT OF CONEC GmbH
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  43-01205  43-01207  43-01206

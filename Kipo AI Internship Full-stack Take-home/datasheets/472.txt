@@ -1,0 +1,141 @@
+ 
+940  Extension 
+ 
+6-pin 
+EMC - Shielding 
+ 
+ 
+ 
+Earth-to-Housing Connection according to VDE 0627 
+Anti-vibration o-ring 
+ 
+Technical Data 
+number of pins 
+6 
+power 
+4 (3+PE) 
+C KU A 267 NN 00 45 0051 000 
+C K A 267 N 00 45 0051 000 
+signal 
+2 
+temperature range 
+-20 °C to 130 °C 
+clamping range 
+Ø 16.5 mm to Ø 25.0 mm 
+protection type 
+when connected  IP 66/67 
+ 
+ 
+Electrical Data 
+power 
+signal 
+rated current 
+max. 75 A* 
+max. 30 A* 
+ 
+rated voltage 
+630V (AC/DC) 
+250 V (AC/DC) 
+ 
+rated insulation voltage (L-L) 
+6000 V 
+4000 V 
+ 
+ 
+ 
+ 
+ 
+ 
+mating cycles 
+500 
+ 
+ 
+ 
+Data according to VDE 0110/EN61984, Paragraph 6.19.2.2 
+pollution degree 
+3 
+over voltage category 
+III 
+max. height for operation 
+2000 m 
+Contact Arrangement 
+mating view 
+ 
+Material 
+housing 
+zinc diecast / nickel plated 
+insulation insert 
+PA 6.6 mod., UL 94/V0 
+ 
+seals 
+FKM 
+clamp ring 
+zinc diecast / nickel plated 
+  
+  
+ 
+ 
+Contacts (not part of product contents) 
+ 
+ 
+Tools (not part of product contents) 
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+© 2018 TE Connectivity 
+ 
+TE Connectivity, TE connectivity (logo), intercontec (logo) and speedtec 
+are trademarks. 
+ 
+While TE Connectivity (TE) has made every reasonable effort to ensure the 
+accuracy of the information in this presentation, TE does not guarantee that it is 
+error-free, nor does TE make any other representation, warranty or guarantee 
+that the information is accurate, correct, reliable or current. TE reserves the 
+right to make any adjustments to the information contained herein at any time 
+without notice. TE expressly disclaims all implied warranties regarding the 
+information contained herein, including, but not limited to, any implied 
+warranties of merchantability or fitness for a particular purpose. The dimensions 
+in this article are for reference purposes only and are subject to change without 
+notice. Specifications are subject to change without notice. Consult TE for the 
+latest dimensions and design specifications. 
+ 
+    
+*for max. wire cross-section 
+ 
+TE Connectivity Industrial GmbH 
+Bernrieder Straße 15 
+94559 Niederwinkling, Deutschland 
+Tel.: +49 9962 2002-0 
+Fax: +49 9962 2002-70 
+E-Mail: intercontec@te.com 
+Web: www.intercontec.biz 
+  pay attention to the 
+Main Dimensions 
+issue: 03.09.2018 
+ 
+  cross-section of used contacts 
+Extension 
+ 
+ 
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ TE Connectivity:  
+ 
+  CKUA267NN00450051000

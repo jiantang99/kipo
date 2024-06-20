@@ -1,0 +1,323 @@
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+D
+LEN17C0606~621
+2017/12/15
+Ethan
+Add O-Ring Dimensions And Modify Dimensions
+E
+C180282
+2018/11/01
+Xiaofeng
+Drawings Change
+F
+F
+C210614
+2021/04/13
+Xiaofeng
+X3
+F
+E
+QC
+15.8
+Cap
+Membrane
+Housing
+O-Ring
+(HEX.)
+16
+10.0
+D
+D
+17.0
+M12*1.5
+QC
+D
+QC
+O-Ring 10*2
+C
+With Nut
+Without Nut
+成品料號(Product no.) 透氣量ml/min@70mbar 主體顏色(Body Colour)
+O-Ring Color
+疏油性(Oleophobic)
+Waterproof Rate
+成品料號(Product no.) 透氣量ml/min@70mbar 主體顏色(Body Colour)
+O-Ring Color
+疏油性(Oleophobic)
+Waterproof Rate
+VENT-PS1YGY-N8001
+>1000
+Gray
+Blue
+N
+IP68/IP69K
+VENT-PS1NGY-N8001
+>1000
+Gray
+Blue
+N
+IP68/IP69K
+VENT-PS1YBK-N8001
+>1000
+Black
+Blue
+N
+IP68/IP69K
+VENT-PS1NBK-N8001
+>1000
+Black
+Blue
+N
+IP68/IP69K
+VENT-PS1YGY-O8001
+>550
+Gray
+Black
+Y
+IP68/IP69K
+VENT-PS1NGY-O8001
+>550
+Gray
+Black
+Y
+IP68/IP69K
+B
+VENT-PS1YBK-O8001
+>550
+Black
+Black
+Y
+IP68/IP69K
+VENT-PS1NBK-O8001
+>550
+Black
+Black
+Y
+IP68/IP69K
+VENT-PS1YGY-O8002
+>1000
+Gray
+Green
+Y
+IP68/IP69K
+VENT-PS1NGY-O8002
+>1000
+Gray
+Green
+Y
+IP68/IP69K
+VENT-PS1YBK-O8002
+>1000
+Black
+Green
+Y
+IP68/IP69K
+VENT-PS1NBK-O8002
+>1000
+Black
+Green
+Y
+IP68/IP69K
+VENT-PS1YGY-N8002
+>3000
+Gray
+Red
+N
+IP68
+VENT-PS1NGY-N8002
+>3000
+Gray
+Red
+N
+IP68
+VENT-PS1YBK-N8002
+>3000
+Black
+Red
+N
+IP68
+VENT-PS1NBK-N8002
+>3000
+Black
+Red
+N
+IP68
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+M12*1.5 VENT 
+Xiaofeng
+2018/11/01
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+VENT-PS1XXX-XXXXX
+Feng-li
+2018/11/01
+2:1
+A4  
+   
+1    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Jerry
+2018/11/01
+F
+A.7  QC :Inspection item
+      TOLERANCE
+      .X          #0.25
+      .XX         #0.1
+      .XXX        #0.05
+      ANGLES      #1$
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+F
+Screw Nut: Optional part
+No.: APTP-ABKPA012-001
+F
+螺母作為選配件
+E
+Recommended 
+M12*1.5
+installation orientation
+建議安裝朝向
+Through-hole
+D
+← Install
+2.0~3.5
+12.2  # 0.1
+Recommended Panel Cut-Out
+C
+建議開孔尺寸
+60.0$  # 2.0$
+F
+Threaded-hole
+14.30  # 0.20
+Polish
+← Install
+QC
+B
+T
+F
+M12x1.5
+E
+Note:
+*   Important Dimension.
+* Cap: Nylon+GF, 94V-0, UV Resistance
+* Membrane: ePTFE
+* Body: Nylon+GF, 94V-0, UV Resistance
+* O-Ring: Silicone, 94V-0
+* Recommended Torque: 6.0~8.0 Kgf.cm
+Recommended Panel Cut-Out
+建議開孔尺寸
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+M12*1.5 VENT 
+Xiaofeng
+2018/11/01
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+VENT-PS1XXX-XXXXX
+Feng-li
+2018/11/01
+2:1
+A4  
+   
+2    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Jerry
+2018/11/01
+F
+A.7  QC :Inspection item
+      TOLERANCE
+      .X          #0.25
+      .XX         #0.1
+      .XXX        #0.05
+      ANGLES      #1$
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  VENT-PS1NGY-N8001  VENT-PS1YGY-O8001  VENT-PS1NGY-O8001  VENT-PS1NGY-O8002  VENT-PS1YBK-
+O8001  VENT-PS1YBK-N8001  VENT-PS1YGY-N8001  VENT-PS1YBK-O8002  VENT-PS1NBK-O8001  VENT-
+PS1YGY-O8002  VENT-PS1NBK-O8002  VENT-PS1NBK-N8001  APTP-ABKPA012-001

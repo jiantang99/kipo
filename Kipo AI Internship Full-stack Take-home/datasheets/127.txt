@@ -1,0 +1,1019 @@
+Amphenol
+ECTA 544
+Serie ECTA
+
+2
+Summary | Übersicht | Sommaires
+3 
+Technical characteristics / Technische Beschreibung / Caractéristiques techniques
+4
+How to order / Bestellschlüssel / Référence
+5
+Contact arrangements / Polbilder / Arrangements de contacts
+6
+Shells / Gehäuse / Boîtiers
+7
+Accessories / Zubehör / Accessoires
+8
+Contacts / Kontakte / Contacts
+9
+Speciﬁc connectors / Sonderstecker / connecteurs spéciﬁques
+10
+Technical informations / Technische Daten / Données techniques
+11
+Technical informations / Technische Daten / Données techniques
+Our products are the subject of continuous development and we reserve the right to introduce changes in their design.
+Wir sind bestrebt, unsere Produkte weiter zu entwickeln und behalten uns maßliche oder techniche Änderungen 
+an den Steckverbindungen vor. 
+Ce document n’est pas contractuel. Les informations contenues dans ce catalogue sont susceptibles d’évolution.
+
+3
+Technical characteristics | Technische Beschreibung |
+Caractéristiques techniques
+The 544 serie offer a range of plastic circular connectors for industrial applications 
+(robotics, laboratory test equipment,transportation industry and tool interconnection).
+3 shell sizes, 11 contact arrangements from 3 to 27 contacts up to 25 A. 
+This serie permits the use of machined, stamped-rolled, coax and ﬁber optical contacts.
+These connectors can’t be connected or disconnected under voltage.
+locking system:
+push-pull
+temperature range :
+-40°C to +125°C
+mating/unmating operations:
+1000 operations (with machined contacts)
+250 operations (with stamped rolled contacts) 
+assembly operations:
+25 operations (assembly and disassembly of the insulator) 
+IP rating:
+up to IP 67 
+shells material:
+thermoplastic with glass ﬁber (UL 94-V0, DIN 5510-2-S1)
+contacts material:
+copper alloy with nickel and gold plating.
+insulator material:
+thermoplastic with glass ﬁber (UL 94-V0, DIN 5510-2-S1)
+salt spray:
+>1000 hours if connector coupled  
+vibration :
+IEC 60512 (IEC 68-2-6) 10-2000 Hz / 10g / 10 cycles per axis
+shock :
+IEC 60512 (IEC 68-2-29) 25g / 6ms / 50 bumps per direction
+norms:
+IEC 48B/560/CD (VDE 0627) for connectors
+UL 1977 (in preparation)
+Bei der Baureihe 544 handelt es sich um Rundsteckverbinder für den Einsatz in der Industrie, im Labor, 
+im Apparate- und Fahrzeugbau.
+3 Gehäusegrößen, 11 Polbilder von 3 bis 27 Kontakten für Ströme bis 25 A.
+Diese Serie ermöglicht die Verwendung von gedrehten, gestanzt-gerollten, Koax- und LWL- Kontakten.
+Diese Steckverbinder dürfen betriebsmäßig nicht unter Spannung gesteckt und getrennt werden.
+Verriegelung:
+Push-Pull
+Zulässige Umgebungstemperatur:
+-40°C bis +125°C
+Steckzyklen:
+1000 Zyklen (mit gedrehten Kontakten)
+250 Zyklen (mit gestanzt-gerollten Kontakte)
+Ein-Ausbauzyklen:
+25 Zyklen (Montage/Demontage des Isolierkörpers) 
+Schutzart:
+bis IP 67
+Werkstoff  Gehäuse:
+Glasfaserverstärktes Thermoplast (UL 94-V0, DIN 5510-2-S1)
+Werkstoff  Kontakte:
+Kupferlegierung vergoldet auf Nickel
+Werkstoff  Isolierkörper:
+Glasfaserverstärktes Thermoplast (UL 94-V0, DIN 5510-2-S1)
+Salzsprühtest:
+> 1000 Stunden in gestecktem Zustand
+Vibrationen :
+IEC 60512 (IEC 68-2-6) 10-2000 Hz / 10g / 10 Zyklen pro Achse
+Shocks :
+IEC 60512 (IEC 68-2-29) 25g / 6ms / 50 Schocks pro Richtung
+Normen:
+IEC 48B/560/CD (VDE 0627 )  
+UL 1977 (in Bearbeitung)
+Les connecteurs circulaires de la série 544 ont été élaborés pour différents secteurs d’activités tels que l’industrie, 
+la robotique, les laboratoires, les transports ainsi que tous les types d’appareillages pouvant faire appel à la connectique.
+Elle se décline en 3 tailles de boîtier, 11 arrangements de 3 à 27 contacts pour des intensités jusqu’à 25 A.
+Cette série permet l’utilisation de contacts décolletés, découpés-roulés, coax ou ﬁbre optique.
+Ces connecteurs ne doivent en aucun cas être connectés ou déconnectés sous tension. 
+verrouillage:
+push-pull
+température ambiante admissible:
+-40°C à +125°C
+cycles d’accouplement :
+1000 cycles (avec contacts décolletés)
+250 cycles (avec contacts découpés roulés)
+cycle de montage/démontage :
+25 cycles (montage et démontage de l’isolant)
+étanchéité :
+jusqu’à IP 67 
+matière boîtiers:
+thermoplastique chargé ﬁbre de verre (UL 94-V0, DIN 5510-2-S1)
+matière contacts :
+alliage cuivreux avec dorure sur nickel 
+matière isolants :
+thermoplastique chargé ﬁbre de verre (UL 94-V0, DIN 5510-2-S1)
+tenue au brouillard salin :
+> 1000 heures pour connecteur accouplé
+vibrations :
+IEC 60512 (IEC 68-2-6) 10-2000 Hz / 10g / 10 cycles par axe
+chocs :
+IEC 60512 (IEC 68-2-29) 25g / 6ms / 50 chocs par direction
+normes:
+IEC 48B/560/CD (VDE 0627)  
+UL 1977 (en préparation)
+
+4
+How to order | Bestellschlüssel | référence
+To order a connector you need the Part-Number of the connector (follow table below) and of the contacts (given in table on page 7).
+Zum Bestellen eines Steckverbinders, benötigen Sie die Artikelnummer des Steckergehäuses (siehe Tabelle unten) 
+und die Artikelnummer der Kontakte (siehe Tabellen auf Seite 7).
+Pour votre commande, il vous faut déterminer la référence du connecteur (voir tableau ci-dessous) 
+et la référence des contacts (directement donnée dans les tableaux page 7).
+serie / Baureihe / série
+5440
+MDA
+1 03
+F
+E
+receptacle / Steckdose / embase
+MDA
+plug / Stecker / mobile 
+MDB
+plug / Stecker / mobile
+MCA
+elbow plug / Winkel stecker / mobile coudée
+MCB
+elbow plug / Winkel stecker / mobile coudée
+PDA
+cable-cable plug / Verlängerungssteckdose / prolongateur
+PDB
+cable-cable plug / Verlängerungssteckdose / prolongateur 
+103
+Serie 544  ( 3 x 5-10 A )
+105
+Serie 544  ( 5 x 5-10 A )
+107
+Serie 544  ( 7 x 5-10 A )
+209
+Serie 544  ( 9 x 5-10 A )
+212
+Serie 544  ( 12 x 5-10 A )
+219
+Serie 544  ( 19 x 5-10 A )
+327
+Serie 544  ( 27 x 5-10 A )
+293
+Serie 544  ( 3 x 15 A )
+295
+Serie 544  ( 5 x 15 A )
+203
+Serie 544  ( 3 x 25 A )
+205
+Serie 544  ( 5 x 25 A )
+M
+male contact / Stiftkontakt / contact mâle
+F
+female contact / Buchsenkontakt / contact femelle
+
+5
+Contacts arrangements | Polbilder |
+Arrangements Contacts
+SERIE 544
+signal transmission
+Datenübertragung
+signal
+shell size/contact arrangement
+Gehäusegröße/Polbild
+1-03
+1 - 05
+1 - 07
+2 - 09
+3 x 5 A
+5 x 5 A
+7 x 5 A
+9 x 5 A
+3 x 10 A
+5 x 10 A
+7 x 10 A
+9 x 10 A
+taille de boîtier/arrangement
+max. current/contact
+Max Nennstrom/Kontakt
+intensité max/contact
+kontakt type
+Kontaktanschlussart
+S – Z -Y
+S – Z -Y
+S – Z -Y
+S – Z -Y
+type de raccordement du contact
+rated voltage
+Nennspannung 
+1000 V
+630 V
+630 V
+630 V
+tension nominale
+SERIE 544
+signal transmission
+Datenübertragung
+signal
+shell size/contact arrangement
+Gehäusegröße/Polbild
+2 - 12
+2 - 19
+3 - 27
+12 x 5 A
+19 x 5 A
+27 x 5 A
+12 x 10 A
+19 x 10 A
+27 x 10 A
+taille de boîtier/arrangement
+max. current/contact
+Max Nennstrom/Kontakt
+intensité max/contact
+kontakt type
+Kontaktanschlussart
+S – Z -Y
+S – Z -Y
+S – Z -Y
+type de raccordement du contact
+rated voltage
+Nennspannung 
+630 V
+630 V
+630 V
+tension nominale
+SERIE 544
+power transmission
+Netzstecker
+alimentation
+shell size/contact arrangement
+Gehäusegröße/Polbild
+2 – 93
+2 – 95
+2 – 03
+2 – 05
+taille de boîtier/arrangement
+max. current/contact
+Max Nennstrom/Kontakt
+3 x 15 A
+5 x 15 A
+3 x 25 A
+5 x 25 A
+intensité max/contact
+kontakt type
+Kontaktanschlussart
+S – Z
+S – Z
+S – Z
+S – Z
+type de raccordement du contact
+rated voltage
+Nennspannung 
+1000 V
+1000 V
+1000 V
+800 V
+tension nominale
+The max. current/contact is given for 40°C ambient temperature. For other temperature see page 9.
+Rated voltage for pollution category 1. For other pollution category, see page 10. 
+The drawings showing male insulators from the mating side and the female insulator from the rear side.
+Maximaler Nennstrom pro Kontakte ist bei 40°C gegeben, bei anderen Umgebungstemperaturen siehe Kennlinie Seite 9.
+Nennspannung ist angegeben bei Verschmutzungsgrad 1, bei anderem Verschmutzungsgrad siehe Seite 10.  
+Abbildungen sind für Stiftisolierkörper vorderseitig und Buchsenisolierkörper rückseitig gegeben.
+L’intensité max/contact est donnée pour une température ambiante de 40° C. Pour une autre température voir page 9.
+La tension max. est donnée pour le degré de pollution 1. Pour un autre degré de pollution voir page 10.  
+Repérage face avant pour l’isolant mâle et face arrière pour l’isolant femelle.
+
+6
+Shells | Gehäuse | boitiers
+E
+receptacle with ﬂange 
+Flanschsteckdose
+embase carrée
+shell/Gehäuse/boîtier
+1
+2
+3
+A
+18,26
+24,61
+29,36
+B
+24,5
+31
+37
+Ø C
+3,5
+3,5
+3,5
+D
+3
+3
+3
+F
+3
+3
+3
+G
+2
+2
+2
+Ø K
+18,5
+25,8
+31,6
+L
+12
+12
+12
+Fixation screw like / Befestigungsschrauben nach / vis de ﬁxation d’après: EN ISO 1207
+MD
+plug
+Stecker
+mobile
+shell/Gehäuse/boîtier
+1
+2
+3
+type/Typ/type
+MDA
+MDB
+MDA
+MDB
+MDA
+MDB
+cable/Kabel/câble Ø (mm)
+2 - 6
+4 – 8
+7 - 12
+10 - 14
+9 - 16
+13 - 18
+Ø A
+24,8
+32,5
+38,8
+Ø B
+21
+30
+36,5
+L
+58
+64
+67
+MC
+plug
+Stecker
+mobile
+shell/Gehäuse/boîtier
+1
+2
+3
+type/Typ/type
+MCA
+MCB
+MCA
+MCB
+MCA
+MCB
+cable/Kabel/câble Ø (mm)
+2 - 6
+4 – 8
+7 - 12
+10 - 14
+9 - 16
+13 - 18
+Ø A
+24,8
+32,5
+38,8
+B
+23,5
+32,5
+40
+H
+45,5
+59,5
+73,5
+L
+64
+74,5
+80,5
+P
+line mount receptacle
+Verlängerungssteckdose
+prolongateur
+shell/Gehäuse/boîtier
+1
+2
+3
+type/Typ/type
+PDA
+PDB
+PDA
+PDB
+PDA
+PDB
+cable/Kabel/câble Ø (mm)
+2 - 6
+4 – 8
+7 - 12
+10 - 14
+9 - 16
+13 - 18
+Ø A
+23,3
+30,6
+36,4
+Ø B
+21
+30
+36,5
+L
+56
+62
+65
+
+7
+Accesories | Zubehör | Accessoires
+BE
+cap for receptacles and cable-cable plug IP67
+Verschluss für Flanschsteckdose und Verlängerungs-
+steckdose IP67 
+BE
+cap for receptacles and cable-cable plug IP67
+Verschluss für Flanschsteckdose und Verlängerungs-
+steckdose IP67.
+Bouchon pour embase et prolongateur IP67
+shell/Gehäuse/boîtier
+1
+2
+3
+Ref.
+5440 1 BE
+5440 2 BE
+5440 3 BE
+Ø A
+24,8
+32,5
+38,8
+B
+150
+150
+150
+L
+45
+45
+45
+Ø P
+3,5
+3,5
+3,5
+BM
+cap for plug IP67
+Verschluss für Stecker IP67
+bouchon de mobile IP67
+shell/Gehäuse/boîtier
+1
+2
+3
+Ref.
+5440 1 BM
+5440 2 BM
+5440 3 BM
+Ø A
+23,5
+30,5
+36,5
+B
+150
+150
+150
+L
+26
+26
+26
+Ø P
+3,5
+3,5
+3,5
+JT
+O ring seal for receptacle
+O-Ring Dichtung für Flanschsteckdose
+joint torique pour embase carrée
+shell/Gehäuse/boîtier
+1
+2
+3
+Ref.
+54401JT
+54402JT
+54403JT
+Ø A
+18
+25
+31
+Ø B
+1
+1,5
+1,5
+Flange seal on request / Flanschdichtung auf Anfrage / joint d’embase sur demande
+OT
+Insert/extract tool
+Ein-Ausbauwerkzeug
+Outil de montage/démontage
+shell/Gehäuse/boîtier
+1
+2
+3
+Ref.
+5440OT01
+5440OT02
+5440OT03
+Ø A
+15
+22
+28
+L
+50
+50
+50
+This tool permit to disconnect the insulator from the connector shell and to demounting the contacts.
+Dieses Werkzeug ermöglicht den Ausbau des Isolierkörpers und die Demontage der Kontakte.
+Cet outil permet le démontage de l’insert du boîtier ainsi que le démontage des contacts.
+
+8
+Contacts | Kontakte | Contacts
+machined contacts
+Gedrehte Kontakte
+contacts décolletés
+male contact
+female contact
+package
+current
+section
+Ø insulation max.
+crimp plier
+locator
+Stiftkontakt
+Buchsenkotakt
+Verpackung
+Nennstrom
+Querschnitt
+Isolations Ø max.
+Crimpzange
+Lokators
+contact mâle
+contact femelle
+conditionnement
+intensité
+section
+Ø isolation max.
+pince à sertir
+jeu de mors
+5440020M100 5440020F100
+100
+10 A
+0,25-1 mm2
+2,6 mm
+5440OP04
+5440OS15
+M22520/2-01
+M22520/2-08
+5440016M100 5440016F100
+100
+15 A
+0,6-2 mm2
+3,2 mm
+5440OP01
+5440OS16
+M22520/1-01
+M22520/1-04
+5440012M100 5440012F100
+100
+25 A
+2-3 mm2
+4,5 mm
+5440OP01
+5440OS16
+M22520/1-01
+M22520/1-04
+5440112M100 5440112F100
+100
+25 A
+0,6-2 mm2
+3,7 mm
+5440OP01
+5440OS16
+M22520/1-01
+M22520/1-04
+For application without advanced contact (for 10A), assemble a shortened contacts (on request) in cavity (A) on the male insert.
+Für einen Einsatz ohne voreilenden Massekontakt (bei 10A), kann in die Kammer (A) des Stiftisolierteils ein verkürzter Kontakt 
+montiert werden (auf Anfrage).
+Pour une utilisation sans contact de masse avancé (pour 10A), possibilité de montage d’un contact raccourci (sur demande) 
+dans la cavité (A) de l’insert mâle.  
+stamped rolled contacts
+Gestanzt-gerollte Kontakte
+contacts découpés-roulés
+male contact
+female contact
+package
+current
+section
+Ø insulation max.
+crimp plier
+Stiftkontakt
+Buchsenkotakt
+Verpackung
+Nennstrom
+Querschnitt
+Isolations Ø max.
+Crimpzange
+contact mâle
+contact femelle
+conditionnement
+intensité
+section
+Ø isolation max.
+pince à sertir
+5440220M100 5440220F100
+100
+5 A
+0,25-0,6 mm2
+1,52 mm
+5440OP05
+5440320M100 5440320F100
+100
+5 A
+0,1-0,25 mm2
+1,02 mm
+5440OP05
+Contacts on strip with left or right winding on request.
+Kontakte auf Rollen links- oder rechtsgerollt auf Anfrage. 
+Contact sur rouleau avec enroulement à gauche ou à droite sur demande.
+coax contacts
+Koax Kontakte
+contacts coax
+A
+B
+crimp plier
+locator
+crimp plier
+locator
+Crimpzange
+Lokators
+Crimpzange
+Lokators
+male contact
+female contact
+package
+suitable use with cable
+Stiftkontakt
+Buchsenkotakt
+Verpackung
+Geeignet für Kabel
+contact mâle
+contact femelle
+conditionnement
+approprié pour cable:
+pince à sertir
+jeu de mors
+pince à sertir
+jeu de mors
+MIL-C17/119 RG 174 50 Ω
+5440OP10
+544OS21
+5440OP04
+544OS22
+M22520/4-01 M22520/4-02 M22520/2-01 M22520/2-35
+5440016MC1 5440016FC1
+1
+MIL-C17/094 RG 179 75 Ω
+MIL-C17/113 RG 316 50 Ω
+5440016MC2 5440016FC2
+1
+MIL-C17/093 RG 178 50 Ω
+5440OP10
+544OS21
+5440OP04
+544OS22
+M22520/4-01 M22520/4-02 M22520/2-01 M22520/2-35
+MIL-C17/119 RG 174 50 Ω
+5440OP08
+544OS20
+5440OP04
+544OS19
+M22520/31-01M22520/31-02
+M22520/2-01 M22520/2-34
+5440012MC1 5440012FC1
+1
+MIL-C17/094 RG 179 75 Ω
+MIL-C17/113 RG 316 50 Ω
+5440012MC2 5440012FC2
+1
+MIL-C17/095 RG 180 95 Ω
+5440OP08
+544OS20
+5440OP04
+544OS19
+M22520/31-01M22520/31-02
+M22520/2-01 M22520/2-34
+
+9
+Speciﬁc connectors | Sonderstecker |
+Connecteurs spéciﬁques
+Fiber optical contacts / LWL Kontakte / Contacts ﬁbre optique :
+male contact
+female contact
+package
+suitable for  glass ﬁber :
+tooling
+Stiftkontakt
+Buchsenkotakt
+Verpackung
+Geeignet für Glasfaser :
+Werkzeuge
+Contact mâle
+Contact femelle
+conditionnement
+Approprié pour ﬁbre de verre :
+outillage
+5440012ML1
+5440012FL1
+1
+Multimode 50-62,5/125 µm
+On request / auf Anfrage / sur demande
+5440012ML2
+5440012FL2
+1
+Monomode 9/125 µm
+On request / auf Anfrage / sur demande
+RJ45 Connector / RJ45 Steckverbinder / Connecteur RJ45: 
+RJ45 Connection system (more details on request):
+With the Rjstop system you can use a standart RJ45 cordset (no cabling operation, no tools required).
+- for harsh environment, IP protection up to IP67.
+- receptacle available with a female RJ45 or a RJ45 cordset.
+- available in metallized version.   
+- for Industrial and Telecom applications. 
+RJ 45 Stecksystem (weitere Angaben auf Anfrage):
+Durch den Rjstop System wird ein Standard RJ45 Anschlusskabel verwendet (ohne Verkabelung, ohne Werkzeug). 
+- für Anwendungen unter Rauhen Bedingungen, IP Schutzart bis IP 67.
+- Steckdose vorhanden mit RJ45 Buchsenstecker oder RJ45 Anschlusskabel.
+- Metallisierte Version vorhanden.
+- geeignet für Anwendungen im Industrie- und Telekombereich. 
+Raccordement RJ45 (informations complémentaires sur demande):
+Le système Rjstop permet l’utilisation de connecteur RJ45 standard cablé (pas de cablâge, pas d’outillage). 
+- pour application en environnement sévère, indice de protection jusqu'à IP 67.
+- l’embase est disponible avec une sortie RJ 45 femelle ou un cordon RJ45.
+- possibilité de version métallisée.
+- approprié pour des applications industrielle et télécom.
+
+10
+Speciﬁc connectors | Sonderstecker |
+Connecteurs spéciﬁques
+Polarizations / Kodierung / Polarisation
+The insulation can be installed in one of three positions. 
+This permits 3 polarization settings. On the back of the
+socket or plug, there are 3 positions marked 1, 2 & 3.
+For polarization place the projecting tab or slot of the 
+insert opposite the selected 1, 2 or 3 ident  and push in 
+until locked.
+Der Isolierkörper kann in 3 verschiedenen Stellungen 
+in den Steckverbinder montiert werden. Dies ermöglicht 3
+Kodierungspositionen. Auf der Rückseite des Steckers und
+der Steckdose sind 3 Positionen gekennzeichnet 1, 2 und 3.
+Bei Kodierung, Steg oder Nut des Isolierkörpers gegenüber
+der ausgewählter Markierung 1, 2 oder 3 bis zum Einrasten
+eindrücken. 
+L’insert peut être monté dans 3 positions différentes dans 
+le boîtier du connecteur et par conséquent permet 3 
+polarisations. Ces positions sont indiquées sur l’arrière des
+boîtiers par les marquages 1, 2 ou 3. Pour la polarisation pla-
+cer le tenon ou la mortaise de l’insert en face du marquage
+retenu 1, 2 ou 3 et insérer jusqu'à obtenir le clipsage.
+Current ratings / Strombelastbarkeit / intensité admissible:
+Current rating maximums in amperes are shown for
+each type of connector at an ambient temperature of
++40°C.
+In that case where contacts are not loaded with the
+same current, it is recommended that the contacts with
+the highest load are located on the circumference of the
+connector 
+( contacts A, B, C etc ).
+Die maximale Strombelastbarkeit (Nennstrom) ist bei
+allen Steckertypen für eine Umgebungstemperatur von
++40°C angegeben.
+Sollten nicht alle Kontakte mit dem höchsten Strom 
+belastet sein, wird empfohlen, die Kontakte mit dem 
+höchsten Nennstrom auf den äußeren Kammern 
+( A-B-C usw. ) anzuordnen.
+L’intensité admissible maximale est donnée pour 
+chaque type de connecteur pour une température 
+ambiante de 40°C.
+Il est conseillé de raccorder les câbles à l’intensité la
+plus haute sur les cavités du connecteur les plus pro-
+ches du boîtier ( A, B, C etc ). 
+Nr.
+arrangement / Polbild / arrangement
+1
+203 - 205
+2
+293 - 295
+3
+103 - 105 - 107 - 209 - 212
+4
+219 - 327
+5
+With stamped-rolled contact/mit gestanzt gerollt Kontakte/avec contact découpé-roulés
+
+11
+Technical Informations | Technische Daten |
+Informations techniques
+Voltage/pollutions categories –
+Nennspannung/Verschmutzungsgrad – tension/degré de pollution
+AC or DC rated voltage for pollution categorie:
+arrangements
+Nennspannungen gelten für AC und DC bei Verschmutzungsgrad:
+Polbilder
+Tension d'utilisation en fonction du degré de pollution:
+arrangements
+1
+2
+3
+4
+IP 30
+IP 67
+IP 30
+IP 67
+IP 30
+IP 67
+IP 30
+IP 67
+5440-103
+1000
+1000
+320
+1000
+200
+320
+-
+200
+5440-105
+630
+630
+200
+630
+63
+200
+-
+63
+5440-107
+630
+630
+160
+630
+32
+160
+-
+32
+5440-203
+1000
+1000
+500
+1000
+320
+500
+-
+320
+5440-205
+800
+800
+250
+800
+160
+250
+-
+160
+5440-209
+630
+630
+200
+630
+125
+200
+-
+125
+5440-212
+630
+630
+200
+630
+100
+200
+-
+100
+5440-219
+630
+630
+160
+630
+40
+160
+-
+40
+5440-293
+1000
+1000
+630
+1000
+400
+630
+-
+400
+5440-295
+1000
+1000
+320
+1000
+200
+320
+-
+200
+5440-327
+630
+630
+200
+630
+100
+200
+-
+The above values in volts are given for an altitude of 2000 meter – for other altitudes see corrective factor 
+(table 2b in VDE  0110 part 1).
+Spannungsangabe in Volt für Höhen bis 2000 Meter über NN - Höhenkorrekturfaktoren (Tabelle 2b aus VDE 0110 Teil 1).
+Les valeurs en volts sont données pour une altitude de 2000 mètres –  voir facteur de correction 
+(tableau 2b de la VDE 0110 partie 1). 
+Pollution categories (deﬁned in IEC 664 and 664A):
+- pollution category 1: no signiﬁcant pollution.
+- pollution category 2: non-conductive pollution, but there is an occasional risk of condensation which is temporarily conductive.
+- pollution category 3: both non-conductive and conductive pollution dust present as well as condensation. 
+- pollution category 4: conductive pollution, for example conductive dust, rain or snow.
+Note: the amount of pollution for a connector is that which occurs around the inner insulation element. 
+Verschmutzungsgrade (nach IEC 664 und 664A):
+- Verschmutzungsgrad 1: Es tritt keine oder nur trockene, nichtleitfähige Verschmutzung auf. 
+- Verschmutzungsgrad 2: Nur nichtleitfähige Verschmutzung. Gelegentlich muss mit vorübergehender Leitfähigkeit
+durch Betauung gerechnet werden.
+- Verschmutzungsgrad 3: Leitfähige Verschmutzung oder trockene, nichtleitfähige Verschmutzung, die leitfähig wird, 
+da Betauung zu erwarten ist.    
+- Verschmutzungsgrad 4: Leitfähige Verschmutzung, zum Beispiel hervorgerufen durch leitfähigen Staub, Regen oder Schnee.          
+Bemerkung: Der Verschmutzungsgrad für einen Steckverbinder ist der der unmittelbaren Umgebung des inneren Isolierkörpers.
+Degrés de pollution (déﬁnies par la IEC 664 et 664A):
+- degré de pollution catégorie 1: pas de pollution signiﬁcative.
+- degré de pollution catégorie 2: pollution non conductible mais risque occasionnel de condensation temporairement conductible.
+- degré de pollution catégorie 3: pollution conductible ou pollution non conductible pouvant par condensation devenir conductible. 
+- degré de pollution catégorie 4: pollution conductible par exemple poussière conductible, pluie ou neige.
+Nota: le degré de pollution pour un connecteur est déﬁni pour l’environnement autour de l’isolant.
+Securing couple (max.) – 
+Drehmoment (max.) – couple de serrage (max.)
+shell/Gehäuse/boîtier
+1
+2
+3
+0,08 m.daN
+0,08 m.daN
+0,08 m.daN
+ﬁxing Screw for receptacle / Befestigungsschrauben
+für Steckdose / vis de ﬁxation pour embase
+backshell / Endgehäuse / raccord
+0,20 m.daN
+0,30 m.daN
+0,50 m.daN
+
+ECTA 544
+Gedruckt auf chlorfrei gebleichtem Papier, Änderungen vorbehalten.
+Copyright 06/02 by Amphenol-Air LB GmbH, Germany
+Amphenol
+Amphenol-Air LB GmbH
+Am Kleinbahnhof 4 · D-66740  Saarlouis . Telefon 0 68 31 / 98 10 - 0 · Telefax 0 68 31 / 98 10-20 · http://www.amphenol-airlb.de
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  5440220M100  5440MDA103F  5440MDA327F  5440MDA327M  5440MDB105F  5440020F100  5440PDA212F 
+5440PDA327F  5440PDB205F  5440E205M  5440MDA205M  5440112F100  54401BM  54401JT  54402JT  54403JT 
+5440MDB205M  5440PDA209F  5440MDA295M  5440MDB103M  5440MDB107M  5440MDB209M  5440012F100 
+54401BE  5440MDA103M  5440MDA105F  5440MDA107M  5440MDA203F  5440MDA209M  5440MDA219F 
+5440E209F  5440E212M  5440E219M  5440E295F  5440E327F  5440E327M  5440MDA205F  5440E103F 
+5440E103M  5440E105M  5440E107F  5440E203M

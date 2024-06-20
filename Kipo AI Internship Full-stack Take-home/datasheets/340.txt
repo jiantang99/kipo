@@ -1,0 +1,276 @@
+https://www.phoenixcontact.com/pi/products/1404413
+Connector - SACC-M12FR-12SOL-PG 9-M SH - 1404413
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Connector, Universal, 12-position, shielded, Socket angled M12, Coding: A, Solder connection, knurl material:
+Zinc die-cast, nickel-plated, cable gland Pg9, external cable diameter 6 mm ... 8 mm
+Your advantages
+ Safe use in the field, thanks to a high degree of protection
+ Flexible: connectors for on-site assembly
+ Save space – with high-pos. connectors
+ Reliable signal transmission - 360° shielding in environments with electromagnetic interference
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4046356693868
+Technical data
+Dimensions
+Diameter housing
+19.6 mm
+Length
+36.9 mm
+External cable diameter
+6 mm ... 8 mm
+Stripping length of the sheath
+40 mm
+Stripping length of the individual wire
+4 mm
+Ambient conditions
+Ambient temperature (operation)
+-40 °C ... 85 °C (Plug / socket)
+Degree of protection
+IP67
+General
+Note
+NOTE: Observe the permissible bending radii when laying conductors,
+since the degree of protection may be put in jeopardy if the bending
+09/11/2020   Page 1 / 7
+
+https://www.phoenixcontact.com/pi/products/1404413
+Connector - SACC-M12FR-12SOL-PG 9-M SH - 1404413
+Technical data
+General
+forces are too high. Alleviate mechanical loads upstream of the
+connector, e.g. by using cable ties.
+Rated current at 40°C
+1.5 A (up to 40 °C)
+Rated voltage
+30 V AC
+30 V DC
+Number of positions
+12
+Insulation resistance
+> 10 GΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Signal type/category
+Universal
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Solder connection
+Conductor cross section
+0.08 mm² ... 0.25 mm² (without ferrule)
+0.08 mm² ... 0.25 mm² (solid)
+Conductor cross section AWG
+28 ... 24 (without ferrule)
+Insertion/withdrawal cycles
+≥ 100
+Torque
+0.4 Nm (M12 knurl)
+0.8 Nm ... 1 Nm (Pressure screw)
+Tightening torque
+Screw plug insert with sleeve housing as far it will go
+Assembly instructions
+The connector pin assignment can be rotated 90° to the cable outlet
+Material
+Flammability rating according to UL 94
+HB
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PA
+Material of grip body
+Zinc die-cast, nickel-plated
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+NBR
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Flammability rating according to UL 94
+HB
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 2 / 7
+
+https://www.phoenixcontact.com/pi/products/1404413
+Connector - SACC-M12FR-12SOL-PG 9-M SH - 1404413
+Schematic diagram
+Pin assignment M12 socket, 12-pos., A-coded, view female side
+09/11/2020   Page 3 / 7
+
+https://www.phoenixcontact.com/pi/products/1404413
+Connector - SACC-M12FR-12SOL-PG 9-M SH - 1404413
+Dimensional drawing
+M12 x 1 socket, angled, shielded
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440104
+eCl@ss 8.0
+27440104
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 3.0
+EC002062
+ETIM 4.0
+EC002062
+ETIM 5.0
+EC002062
+09/11/2020   Page 4 / 7
+
+https://www.phoenixcontact.com/pi/products/1404413
+Connector - SACC-M12FR-12SOL-PG 9-M SH - 1404413
+Classifications
+ETIM
+ETIM 6.0
+EC002062
+UNSPSC
+UNSPSC 6.01
+30211824
+UNSPSC 7.0901
+39121413
+UNSPSC 11
+39121413
+UNSPSC 12.01
+39121413
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / cUL Recognized / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+1 A
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+cUL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+1 A
+09/11/2020   Page 5 / 7
+
+https://www.phoenixcontact.com/pi/products/1404413
+Connector - SACC-M12FR-12SOL-PG 9-M SH - 1404413
+Approvals
+ 
+ 
+cULus Recognized 
+
+Accessories
+Accessories
+Plug for cable screw gland
+Screw plug - PROT-M12 MS-PA-CHAIN - 1430899
+M12 sealing cap with fixing band, for sensor cables, for free M12 sockets
+ 
+ 
+Screwdriver tools
+Tool - SACC BIT M12-D20 - 1208445
+Nut for assembling M12 connectors for assembly with a knurl diameter of 20 mm, for 4 mm hexagonal drive
+ 
+ 
+Adapter insert - TSD-M SAC-BIT ADAPTER - 1212600
+Adapter bit for TSD-M...torque tools, E6.3-1/4" drive with 4 mm hexagon to accommodate SAC bits
+ 
+ 
+Stripping tool
+Stripping tool - WIREFOX SAC - 1212623
+Stripping pliers, for halogen-free sensor/actuator cables (SAC cables), with PUR and PVC insulation, from Ø of 4.4 to
+7 mm, any stripping length
+ 
+ 
+Torque tool
+09/11/2020   Page 6 / 7
+
+https://www.phoenixcontact.com/pi/products/1404413
+Connector - SACC-M12FR-12SOL-PG 9-M SH - 1404413
+Accessories
+Torque screwdriver - TSD 04 SAC - 1208429
+Torque screwdriver, with preset torque of 0.4 Nm and 4 mm hexagonal drive for M12 connectors
+ 
+ 
+Torque screwdriver - TSD-M 1,2NM - 1212224
+Torque screw driver, accuracy as per EN ISO 6789 standard, adjustable from 0.3 ‑ 1.2 Nm
+ 
+ 
+Stripping tool - VS-CABLE-STRIP-VARIO - 1657407
+Stripping tool, for the multi-level stripping of shielded cables
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 7 / 7
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1404413

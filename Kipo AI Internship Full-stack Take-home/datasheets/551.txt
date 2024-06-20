@@ -1,0 +1,222 @@
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+B 
+C210383 
+2021-03-24 
+Ouyang 
+   X1 
+B
+F
+29.90
+    White Printing
+QC
+E
+19.00
+D
+O-Ring
+Housing
+B
+QC
+C
+14.20
+ # 0.10
+B
+13.50
+ # 0.10
+Note:
+* RoHS Compliant
+*    Important Dimension
+* Waterproof Rate: IPX8, Unmated 1m/24h
+* Connector
+   Housing: Thermoplastic, Black
+   Pin: Copper Alloy, Gold Plated 
+* Nut: Metal / Thermoplastic, Black
+* O-Ring: Rubber, Gray
+* Use Without Waterproof Cap 
+    Panel Thickness Max: 4.0mm
+* Use With Waterproof Cap 
+    Panel Thickness Max: 3.0mm
+* Gasket and nut are packed separately in PE bag
+* Nut is packed separately in PE bag
+* O-Ring / Gasket and nut are assembled on connectors
+ 
+Recommended Panel Cut-out
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+X Lok A-Size Receptacle
+Front Fastened M Conn M Pin 16A 
+Ouyang
+2021-01-23
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+      TOLERANCE
+ 
+AG-XXPMJS-QC800P
+Jerry
+2021-01-23
+1:1
+A4  
+   
+1    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Fred
+2021-01-23
+B
+.0  QC :Inspection item
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+F
+AG- XX P M J S- Q C 8 0 0 P
+E
+D
+NUT
+(AG)16A
+ 
+ 
+03: 3Pin 
+04: 4Pin 
+05: 5Pin 
+ 
+ 
+ 
+ 
+P: Front Fastened
+   
+M: Male Connector(公座)
+ 
+J: Male Pin And 
+Female grounding Pin
+8: IP68(防水等級68)
+   
+C: Circular Backshell
+ 
+Q: Push Lock
+ 
+S: Solder Type
+C
+Pin Assignments Front View
+PE
+PE
+PE
+B
+4
+1
+1
+2
+3
+2
+3
+2
+3
+3Pin
+4Pin
+5Pin
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+X Lok A-Size Receptacle
+Front Fastened M Conn M Pin 16A 
+Ouyang
+2020-09-07
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+      TOLERANCE
+ 
+AG-XXPMJS-QC800P
+Jerry
+2020-09-07
+1:1
+A4  
+   
+2    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Fred
+2020-09-07
+B
+.0  QC :Inspection item
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  AG-05PMJS-QC800P

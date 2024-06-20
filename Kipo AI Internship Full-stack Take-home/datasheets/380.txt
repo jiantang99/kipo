@@ -1,0 +1,291 @@
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Sensor/actuator flush-type plug, 8-pos., M12 SPEEDCON, rear/screw mounting with M16 thread, with 0.5 m
+TPE litz wire, 8 x 0.25 mm²
+Your advantages
+ Pre-assembled with litz wires for immediate use
+ Customer-specific assemblies and litz wire lengths available
+ Sealed on the litz wire side for optimum leak-tightness
+ All standard pin assignments and codings for signal, data, and power transmission with a uniform design-in design
+ For high transmission safety: shield connection to the housing with optional EMC nut
+ SPEEDCON fast locking system reduces cabling times
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4046356533539
+Technical data
+Dimensions
+Length of cable
+0.5 m
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+Degree of protection
+IP67 (When plugged in)
+IP65 (When plugged in)
+General
+Note
+The electrical and mechanical data specified assume that the connector
+pair is correctly locked and mounted. If the connector is unlocked and if
+there is a danger of contamination, the connector must be sealed using
+a protective cap > IP54. Influences arising from litz wires, cables or PCB
+assembly must also be taken into consideration.
+09/11/2020   Page 1 / 8
+
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Technical data
+General
+Rated current at 40°C
+2 A
+Rated voltage
+30 V
+Rated surge voltage
+0.8 kV
+Number of positions
+8
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Signal type/category
+Universal
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Individual wires
+Insertion/withdrawal cycles
+> 100
+Torque
+3 Nm ... 4 Nm (Installation-side)
+Mounting type
+Rear mounting M16 x 1.5 With flat nut
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PA 6.6
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+FKM
+Cable
+Cable type
+TPE litz wire
+Conductor cross section
+0.25 mm²
+AWG signal line
+24
+Conductor structure signal line
+14x 0.15 mm
+Core diameter including insulation
+1.15 mm ±0.07 mm
+Thickness, insulation
+0.21 mm
+Wire colors
+Brown, blue, white, gray, pink, red, yellow, green
+Material conductor insulation
+TPE
+Conductor material
+Tin-plated Cu litz wires
+Standards/specifications
+M12 connector IEC 61076-2-101
+Insulation resistance
+≥ 20 MΩ*km
+Conductor resistance
+≤ 80 mΩ/m
+Nominal voltage, cable
+300 V
+Test voltage, cable
+2000 V AC
+Ambient temperature (operation)
+-40 °C ... 85 °C (cable, fixed installation)
+-25 °C ... 85 °C (cable, flexible installation)
+09/11/2020   Page 2 / 8
+
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Technical data
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+Schematic diagram
+Pin assignment M12 plug, 8-pos., view plug side
+09/11/2020   Page 3 / 8
+
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Dimensional drawing
+M12 flush-type plug
+Dimensional drawing
+Housing cutout for M16 fastening thread, mounting panel with thread
+09/11/2020   Page 4 / 8
+
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Dimensional drawing
+Housing cutout for M16 fastening thread, mounting panel with feed-through hole (alternatively with area as anti-rotation protection for panel
+thicknesses > 2 mm up to max. 4.5 mm)
+09/11/2020   Page 5 / 8
+
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Circuit diagram
+Contact assignment of the M12 plug
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 2.0
+EC001297
+ETIM 3.0
+EC002061
+ETIM 4.0
+EC002061
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+09/11/2020   Page 6 / 8
+
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Classifications
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 118976
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+2 A
+mm²/AWG/kcmil
+24
+ 
+ B.01687
+EAC 
+
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm  E221474-20140616
+cULus Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+2 A
+mm²/AWG/kcmil
+24-22
+09/11/2020   Page 7 / 8
+
+https://www.phoenixcontact.com/pi/products/1419687
+Flush-type connector - SACC-DSI-M12MS-8CON-M16/0,5 - 1419687
+Accessories
+Accessories
+Protective cap
+Sealing cap - PROT-M12 FS - 1560251
+M12 sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-type plugs and I/O devices in the field
+ 
+ 
+Sealing cap - PROT-M12 FS-M - 1430488
+M12 metal sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-type plugs and I/O devices in the
+field
+ 
+ 
+Seal
+Flat gasket - SACC-M16-SEAL CLM - 1430394
+M16 flat gasket, for rear mounting of M12 flush-type connectors with M16 fastening thread
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 8 / 8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1419687

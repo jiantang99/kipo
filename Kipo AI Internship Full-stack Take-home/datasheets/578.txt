@@ -1,0 +1,77 @@
+GA2L0C-P03QS00-0000
+series_l, type_ga
+General information
+Part number
+GA2L0C-P03QS00-0000
+Termination
+pcb
+Size
+2
+Locking principle
+break , push
+Keying
+0_key
+Contact insert description
+Number of contacts
+3
+Contact type
+sockets
+Contact diameter
+16mm
+Insulator material
+peek
+Termination
+pcb
+Termination diameter
+07mm
+reverse_gender_on_request
+Technical information
+Max. creepage and air clearance distance
+17_mm
+15_mm
+Nominal current single contact
+16_a
+iec_60512_5_2
+Nominal current insert
+16 A
+vde_0298_4
+Test voltage
+24_kv_ac
+sae_13441
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ip50
+Operating temperature
+40_120_c
+Mating cycles
+5000
+mated_unmated
+Material and surface treatments
+Housing
+m_chrome
+Contact
+cu_alloy_gold
+GA2L0C-P03QS00-0000 series_l, type_ga
+230522
+1 / 2
+
+safety_text_2
+ul_text
+illustrative_text
+GA2L0C-P03QS00-0000 series_l, type_ga
+230522
+2 / 2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  GA2L0C-P03QS00-0000

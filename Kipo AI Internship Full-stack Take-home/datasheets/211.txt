@@ -1,0 +1,101 @@
+FFA.1S.130.CTAC62
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+1
+Image is for illustrative purpose only
+Series
+1S
+Download
+Male solder
+Termination type
+Request a quote
+IP rating
+50
+Eplan
+AWG wire size
+0.00 - 12.00
+Catalog
+Cable Ø
+5.20 - 6.20 mm
+Status
+active
+Matching parts
+ERA.1S.130.CTL
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FFA*: Straight plug, cable collet
+Keying
+Circular, male
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+17.64 g
+Performance
+Configuration
+1S.130 : 1 Low Voltage
+Insulator
+T: PTFE
+Rated Current
+25 Amps
+Specifications
+Contact Type: Solder 
+Vtest (contact-shell): 1500 V (AC), 2150 V (DC) 
+Vtest (contact-contact): 1500 V (AC), 2150 V (DC) 
+Others
+Endurance (Shell): 5000 mating cycles 
+Temp (min / max): -55°C / +250°C 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+Salt Spray Corrosion: >144 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+L
+M
+S2
+mm.
+12
+42.5
+31.5
+8.5
+in.
+0,47
+1,67
+1,24
+0,33
+RECOMMENDED BY LEMO
+Tools
+Spanner wrench: 
+DCD.1S.015.PA085
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FFA.1S.130.CTAC62

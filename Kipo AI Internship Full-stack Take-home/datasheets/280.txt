@@ -1,0 +1,124 @@
+Product data sheet
+21 03 861 1805
+M12-SD-CC-CRIMP-8P-YCOD-M-STR-SHLD
+M12-SD-CC-CRIMP-8P-YCOD-M-STR-SHLD
+Part number
+21 03 861 1805
+Specification
+M12-SD-CC-CRIMP-8P-YCOD-M-STR-
+SHLD
+HARTING eCatalogue
+https://b2b.harting.com/21038611805
+Image is for illustration purposes only. Please refer to product description.
+Identification
+Category
+Connectors
+Series
+Circular connectors M12
+Identification
+Power
+Element
+Cable connector
+Specification
+Straight
+Version
+Termination method
+Crimp termination
+Gender
+Male
+Shielding
+Shielded
+Number of contacts
+8
+Coding
+Y-coding
+Locking type
+Screw locking
+Details
+Please order crimp contacts separately.
+Details
+For Fast Ethernet applications only
+Technical characteristics
+Conductor cross-section
+0.13 ... 0.82 mm²
+0.08 ... 0.25 mm² Data
+Conductor cross-section
+AWG 26 ... AWG 18
+AWG 28 ... AWG 23 Data
+Rated current
+6 A
+Rated voltage
+50 V
+Rated impulse voltage
+1.5 kV
+Page 1 / 2 | Creation date 2021-12-04 | Please note that the data specified here were taken as extracts from the online catalogue. Please refer to
+the user documentation for the complete and up-to-date information and data. Please also note that the user is responsible for validating functionality,
+conformity with applicable laws and directives, as well as for the electrical safety in the particular application.
+HARTING Electronics GmbH | Marienwerderstraße 3 | 32339 Espelkamp | Germany
+Phone +49 5772 47-97200 | electronics@HARTING.com | www.HARTING.com
+
+Product data sheet
+21 03 861 1805
+M12-SD-CC-CRIMP-8P-YCOD-M-STR-SHLD
+Technical characteristics
+Pollution degree
+3
+Rated current (data)
+0.5 A
+Overvoltage category
+III
+Insulation resistance
+>108 Ω
+Contact resistance
+≤10 mΩ
+Tightening torque
+0.6 Nm
+Wrench size (knurled screw / knurled nut)
+17
+Ambient temperature
+-40 ... +85 °C
+Mating cycles
+≥500
+Degree of protection acc. to IEC 60529
+IP65 / IP67 mated condition
+Cable diameter
+5.7 ... 8.8 mm
+Isolation group
+I (600 ≤ CTI)
+Material properties
+Material (insert)
+Polyamide (PA)
+Material (hood/housing)
+Zinc die-cast
+Specifications and approvals
+Specifications
+IEC 61076-2-113
+Commercial data
+Packaging size
+1
+Net weight
+48.1 g
+Country of origin
+Romania
+European customs tariff number
+85366990
+eCl@ss
+27440102 Circular connector (for field assembly)
+Page 2 / 2 | Creation date 2021-12-04 | Please note that the data specified here were taken as extracts from the online catalogue. Please refer to the
+user documentation for the complete and up-to-date information and data. Please also note that the user is responsible for validating functionality,
+conformity with applicable laws and directives, as well as for the electrical safety in the particular application.
+HARTING Electronics GmbH | Marienwerderstraße 3 | 32339 Espelkamp | Germany
+Phone +49 5772 47-97200 | electronics@HARTING.com | www.HARTING.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ HARTING:  
+ 
+  21038611805

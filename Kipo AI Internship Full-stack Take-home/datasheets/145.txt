@@ -1,0 +1,228 @@
+IDS-97
+®
+Amphenol
+LPT Connector Series
+Features:
+• 
+Aluminum shell, light and reliable 
+• 
+Multiple shell plating options, including Gray ZnNi which is 
+effective up to 500 hours of salt spray
+The new LPT Series from Amphenol Industrial Operations 
+(AIO) is based on the MIL-C-26482 Series I. Amphenol’s 
+original PT Series is a cost effective metal bayonet 
+connector versed in all major global signal application 
+markets. 
+• 
+Standard PT shell and coupling nut, intermateable with PT 
+Series
+• 
+3-tine Stamped & Formed crimp contacts
+• 
+Accepts wire gauges from 22AWG/0.34mm2 to 
+12AWG/3.5mm2
+• 
+Quick positive bayonet coupling and 5 key/keyway mating 
+• 
+High Shock and High Vibration capabilities 
+• 
+IP67 Rating (mated)
+The LPT Series is an evolution of AIO’s well-known 
+PT connector, with the same 26482 Series I industry 
+standard mating compatibility, ability to accept wire 
+gauges from 22AWG/0.34mm2 to 12AWG/3.5mm2, and 
+an IP67 rating. Available in several styles, with varying 
+design characteristics and custom options to meet cost 
+considerations and provide maximum design flexibility. 
+• 
+500 mating cycles
+• 
+UL94 V-0 (Self-Extinguishing)
+• 
+Wide Operating Temperature Range (-40°C to 125°C)
+The LPT Series is the ideal choice for signal applications 
+and industrial installations around the world.
+www.amphenol-industrial.com
+
+Specifications:
+Electrical Characteristics
+• 
+5 milliohms max
+• 
+Accepts wire gauges from 22AWG/0.34mm2 to 12AWG/3.5mm2
+Test Current
+20# contact 7.5A
+16# contact 13A
+12# contact 23A
+Recommended operating AC voltage
+I# 250V
+II# 500V
+Test voltage AC, 60 Hz
+I# 1500V
+II# 2300V
+Mechanical Characteristics
+• 
+Standard PT shell and coupling nut, intermateable with PT Series
+• 
+Accepts wire gauges from 22AWG/0.34mm2 to 12AWG/3.5mm2
+• 
+Quick positive bayonet coupling
+• 
+5 key/keyway mating
+• 
+Wide Operating Temperature Range (-40°C to 125°C)
+• 
+UL94 V-0 (Self-Extinguishing)
+Environmental Protection
+• 
+IP67 rating (mated)
+*Contacts sold separately. Please refer to LPT catalog (IC-7)
+How to Order
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+LPT
+06
+SE
+12-
+10
+S
+W
+(023)
+(EMI)
+(LC)
+Product Line
+Shell Style
+Service Classes
+Shell Size
+Insert Arrangement
+Gender
+Insert Rotation
+Shell Plating
+Variations
+Less 
+LPT
+00: Wall Mount 
+Receptacle
+A: General Duty
+8
+4
+P: Pin
+W
+(023): Nickel
+(SR): Strain 
+relief clamo
+contacts
+01: Inline Receptacle
+SE: Open Wire 
+Sealing
+10
+2,5,6
+S: Socket
+X
+(027): Black Zinc 
+(conductive)
+Based on 
+application
+02: Box Mount 
+Receptacle
+G: Heat shrink 
+boot adapter
+12
+3,4,8,10
+Y
+(025): Black Zinc 
+(non-conductive)
+07: Jam Nut 
+Receptacle
+SE(SR): Strain 
+relief clamp
+14
+4,5,8,12,15,19,22,AA
+Z
+(072): Gray ZiNi
+06: Straight Plug
+PG: Cable gland
+16
+8,26
+(005B): Black 
+Anodized
+18
+5,
+20
+16,41
+22
+25,36,55
+24
+31,61
+00: Wall Mount Receptacle
+01: Inline Receptacle
+02: Box Mount Receptacle
+07: Jam Nut Receptacle
+06: Straight Plug
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications.  All statements, information and data given herein are believed to be accurate and reliable but 
+are presented without guarantee, warranty, or responsibility of any kind, expressed or implied.  Statements of suggestions concerning possible use of our products are made without representation or warranty that any such use is free of patent 
+infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indicated or that other measures may not be required. Specifications are typical and may not apply to all connectors.
+For further information on your individual application requirements, contact: Amphenol Corporation
+North America:
+Amphenol Industrial Operations
+180 N. Freeport Drive, Plant 4
+Nogales, AZ 85621
+Tel: (888) 364-9011
+Fax: (520) 285-5134
+Europe:
+Amphenol Industrial Operations Europe
+Via Barbaiana 5
+1-20020 Lainate (MI) Italy
+Tel: +39 02 93254.204
+Fax: +39 02 93254.444
+Middle East:
+Amphenol Middle East Enterprises FZE
+Office C-37 PO Box 21107
+Ajman Free Zone, UAE
+Tel: +9 716-7422494
+Fax: +9 716-7422941
+Asia: 
+Amphenol Technology (Zhuhai) Co., Ltd. 
+No. 63 Xing Han Road, San Zao Town 
+Jin Wan District, Zhuhai City, China 519040 
+Tel: +86 756-3989760 
+Fax: +86 756-3989768 
+Email: tech@amphenol-aio.com
+Email: info@amphenol-aio.com 
+Email: jhussain@amphenol-industrial.com
+Email: enquiry@amphenol-aio.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  LPT02SE-10-6P(023)(LC)  LPT02SE-10-6P(027)(LC)  LPT02SE-10-6P(072)(LC)  LPT02SE-12-10P(023)(LC) 
+LPT02SE-12-10P(027)(LC)  LPT02SE-12-10P(072)(LC)  LPT06SE-10-6S(027)(LC)  LPT06SE-10-6S(072)(LC) 
+LPT06SE-12-10S(023)(LC)  LPT06SE-12-10S(027)(LC)  LPT06SE-12-10S(072)(LC)  LPT06SE-12-4S(023)(LC) 
+LPT02SE-20-41P(027)(LC)  LPT02SE-20-41P(072)(LC)  LPT02SE-8-4P(023)(LC)  LPT02SE-8-4P(027)(LC)  LPT02SE-
+8-4P(072)(LC)  LPT06SE-10-6S(023)(LC)  LPT02SE-18-05P(027)(LC)  LPT02SE-18-05P(072)(LC)  LPT02SE-18-
+32P(023)(LC)  LPT02SE-18-32P(027)(LC)  LPT02SE-18-32P(072)(LC)  LPT02SE-20-41P(023)(LC)  LPT02SE-14-
+19P(027)(LC)  LPT02SE-14-19P(072)(LC)  LPT02SE-16-26P(023)(LC)  LPT02SE-16-26P(027)(LC)  LPT02SE-16-
+26P(072)(LC)  LPT02SE-18-05P(023)(LC)  LPT02SE-12-8P(023)(LC)  LPT02SE-12-8P(027)(LC)  LPT02SE-12-
+8P(072)(LC)  LPT02SE-14-19P(023)(LC)  LPT06SE-8-4S(027)(LC)  LPT06SE-8-4S(072)(LC)  LPT06SE-18-
+32S(027)(LC)  LPT06SE-18-32S(072)(LC)  LPT06SE-20-41S(023)(LC)  LPT06SE-20-41S(027)(LC)  LPT06SE-20-
+41S(072)(LC)  LPT06SE-8-4S(023)(LC)  LPT06SE-16-26S(027)(LC)  LPT06SE-16-26S(072)(LC)  LPT06SE-18-
+05S(023)(LC)  LPT06SE-18-05S(027)(LC)  LPT06SE-18-05S(072)(LC)  LPT06SE-18-32S(023)(LC)  LPT06SE-12-
+8S(027)(LC)  LPT06SE-12-8S(072)(LC)  LPT06SE-14-19S(023)(LC)  LPT06SE-14-19S(027)(LC)  LPT06SE-14-
+19S(072)(LC)  LPT06SE-16-26S(023)(LC)  LPT02SE-12-4P(023)(LC)  LPT02SE-12-4P(027)(LC)  LPT02SE-12-
+4P(072)(LC)  LPT06SE-12-4S(027)(LC)  LPT06SE-12-4S(072)(LC)  LPT06SE-12-8S(023)(LC)

@@ -1,0 +1,2219 @@
+®
+Amphenol
+TM
+Micro Bayonet Connector
+Micro-B
+www.amphenol-industrial.com
+
+Amphenol
+www.amphenol-industrial.com
+Company Introduction
+Amphenol Industrial Operations
+Amphenol Technology (Zhuhai)
+Amphenol Industrial Operations (AIO), headquartered in a 
+20,000 square foot facility in Endicott, N.Y., provides a full range 
+of high reliability power/signal connectors and interconnection 
+systems specifically for the industrial markets including rail/
+mass transit, process control, automotive manufacturing, heavy 
+equipment, wireless base stations and power generation.
+Established in 2007, Amphenol Technology (Zhuhai) Co., Ltd. 
+is a manufacturing facility for the Amphenol Industrial Products 
+Group, which serves a number of industrial markets, included 
+but not limited to Factory Automation, Transportation, Heavy 
+Equipment, Alternative Energy, Oil & Gas, Server/Data Comm 
+and Power Distribution.
+Products include ruggedized-for-industry cylindrical, fiber optic, 
+rectangular, and industrialized versions of Amphenol’s MIL-
+DTL-5015 cylindrical, MIL-DTL-26482 miniature cylindrical and 
+GT reverse bayonet cylindrical connectors. The facility is both 
+ISO9001 certified and qualified to MIL-STD-790 requirements.
+Amphenol Technology (Zhuhai) Co., Ltd. covers an area of 
+306,449 square feet (28,470m²) and is equipped with CNCs, 
+plating, injection molding and assembly workshops. This 
+plant specializes in the design and manufacturing of industrial 
+connectors featuring high power, high density inserts, 
+medium to high voltage electrical properties, and harsh 
+environment applications.
+Many of the products produced here have been certified by 
+independent standards including UL, IEC/TUV, ATEX, IECEx 
+and MA. The facility is also certified to ISO 9001, ISO 14001 
+and TS16949.
+Table of Contents
+Micro-B Product Introduction ....................2
+Market Application ....................................3
+Technical Specifications ...........................4
+Insert Arrangements .................................5
+Keying ......................................................5
+Shell Styles ..............................................6
+Shell Dimensions ......................................7
+How to Order ............................................8
+Contacts ...................................................9
+Accessories ............................................10
+Tools ......................................................12
+Crimp Instructions ..................................13
+Cable Assembly Instructions ...................14
+
+Amphenol
+www.amphenol-industrial.com
+Micro-BTM Product Introduction
+Amphenol Industrial offers a high performance circular connector product range developed for industrial applications 
+where electrical performance must be met with affordability. High mating cycles, along with the ability to operate in difficult 
+environments are the benchmark of rugged connectors. Amphenol’s new Micro-Bayonet series provides the solution that 
+meets your budget and performance goals. 
+Made from an aluminum shell, Micro-B utilizes a robust triple bayonet coupling (1/4 turn mating) mechanism and stamped & 
+formed contacts. Various mounting options are available including in-line and 2-hole flange mount configurations.
+Micro-B meets the requirements of today’s electrical equipment for a connector with a small footprint, light in 
+weight, high density insert patterns, and high reliability.
+Micro-B meets all RoHS requirements. With Gray ZnNi 
+Plating, Micro-B can withstand up to 500 hours salt spray 
+without corrosion detrimental to its operation.
+Features and Benefits
+• 
+Operating temperature range: -40°C~125°C  
+• 
+Aluminum shell construction provides high strength 
+while being light in weight
+• 
+Protection up to IP54 when in the mated condition with 
+Backshell
+• 
+Stamped and formed crimp contacts, easy for            
+cable assembly
+• 
+5 Key/keyway mating
+• 
+¼ turn positive bayonet coupling, quick coupling
+• 
+High density
+• 
+Small Footprint 
+• 
+Multiple shell plating options (up to 500H salt spray 
+protection)
+• 
+PCB Tail contact option is available
+• 
+High shock and high vibration resistance
+• 
+UL certifications in process             
+2
+
+Amphenol
+www.amphenol-industrial.com
+Market Application
+Widely used in general and hash environments, Micro-B is suitable for markets using signal 
+connections  including  but not limited to the following:   
+• Telecommunications
+• Hybrid/Electric Vehicle
+• Robotics/Factory Automation
+• Industrial Instrumentation
+• Security
+• Test Equipment
+• Unmanned Aerial Vehicles
+Micro-B™
+3
+
+Amphenol
+www.amphenol-industrial.com
+Technical Specifications
+Shell Material
+Aluminum
+EMI-Ring
+Copper Alloy  
+Retaining Ring
+Stainless steel
+Wave Ring
+Stainless steel
+Insert Material
+Plastic (PA66)
+Material
+Copper Alloy
+Contact
+Plating
+Tin/Gold Plated
+Termination
+Crimp
+Temperature Range
+-40°C ~ 125°C 
+Ingress Protection
+With a Cable Gland Backshell, the ingress protection level is IP54 
+in the mated condition.
+Test Current
+#22D Contact 3A
+Recommended Operating Voltage
+AC 250V  RMS
+Test Voltage
+AC 500V  RMS
+Insulation Resistance
+500V, 1000MΩ Min
+Contact Resistance
+22mΩ Max
+Mating Cycles
+500 Cycles (30µ Gold Plated, Selective Area on Contacts)
+Vibration
+In accordance with test procedure EIA-364-28D
+Thermal Shock
+In accordance with test procedure EIA-364-32D
+1. Gray ZnNi (Conductive): 500H
+Salt Spray
+2. Electroless Nickel (Conductive): 48H
+RoHS
+Compliant
+4
+
+Amphenol
+www.amphenol-industrial.com
+Insert Arrangements
+Bayonet
+ntam
+PDS-240-5
+Bayonet
+ntam
+Bayonet
+ntam
+PDS-240-5
+PDS-240-5
+Bayonet
+ntam
+PDS-240-5
+Bayonet
+ntam
+PDS-240-5
+Pole
+7
+9
+15
+net
+m
+net
+m
+net
+m
+net
+m
+net
+m
+BANTAM 1/4 Turn Bayonet Coupling
+BANTAM 1/4 Turn Bayonet Coupling
+BANTAM 1/4 Turn Bayonet Coupling
+BANTAM 1/4 Turn Bayonet Coupling
+BANTAM 1/4 Turn Bayonet Coupling
+.
+3.
+4.
+5.
+6.
+7.
+3.
+4.
+5.
+6.
+7.
+.
+3.
+4.
+5.
+6.
+7.
+Insert
+3.
+4.
+5.
+6.
+7.
+3.
+4.
+5.
+6.
+7.
+Arrangement
+PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+N
+N
+08-07
+P
+N
+PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+N
+N
+08-07
+P
+N
+N
+N
+08-07
+P
+N
+N
+N
+08-07
+P
+N
+N
+N
+08-07
+P
+N
+3. CLASS
+4. INSERT ARRANGEMENTS
+S
+2. SHELL PLATING
+3. CLASS
+3. CLASS
+8-7
+9-10
+10-15
+4. INSERT ARRANGEMENTS
+4. INSERT ARRANGEMENTS
+S
+2. SHELL PLATING
+S
+2. SHELL PLATING
+3. CLASS
+4. INSERT ARRANGEMENTS
+S
+2. SHELL PLATING
+N
+Non Environmental
+3. CLASS
+4. INSERT ARRANGEMENTS
+Insert Arrg
+#22D
+#20
+#16
+gral Backshell
+N
+Electroless Nickel
+S
+2. SHELL PLATING
+N
+Non Environmental
+N
+Non Environmental
+Total Contacts
+7
+10
+15
+Insert Arrg
+#22D
+#20
+#16
+ral Backshell
+N
+Electroless Nickel
+Insert Arrg
+#22D
+#20
+#16
+gral Backshell
+N
+Electroless Nickel
+N
+Non Environmental
+Insert Arrg
+#22D
+#20
+#16
+ral Backshell
+N
+Electroless Nickel
+N
+Non Environmental
+08-07
+7
+Insert Arrg
+#22D
+#20
+#16
+ral Backshell
+N
+Electroless Nickel
+Contact Size
+22D
+22D
+22D
+08-07
+7
+08-07
+7
+ceptacle, 
+ackshell
+08-07
+7
+10-15
+15
+08-07
+7
+ceptacle, 
+ckshell
+eceptacle, 
+ackshell
+10-15
+15
+10-15
+15
+ceptacle, 
+ackshell
+ceptacle, 
+ackshell
+10-15
+15
+10-12*
+11
+1
+10-15
+15
+10-12*
+11
+1
+10-12*
+11
+1
+nge  
+e
+10-12*
+11
+1
+10-04*
+4
+10-12*
+11
+1
+nge  
+e
+nge  
+e
+10-04*
+4
+10-04*
+4
+nge  
+e
+nge  
+e
+10-04*
+4
+10-07*
+4
+3
+10-04*
+4
+10-07*
+4
+3
+10-07*
+4
+3
+10-07*
+4
+3
+*Coming soon
+10-07*
+4
+3
+*Coming soon
+*Coming soon
+*Coming soon
+*Coming soon
+7. OPTIONAL CODE
+NTACTS
+6. KEYING
+6 - Keying
+Keying
+7. OPTIONAL CODE
+7. OPTIONAL CODE
+TACTS
+6. KEYING
+NTACTS
+6. KEYING
+7. OPTIONAL CODE
+TACTS
+6. KEYING
+7. OPTIONAL CODE
+NTACTS
+6. KEYING
+B
+Shield Termination Micro 
+Band Included
+&F)
+B
+Shield Termination Micro 
+Band Included
+B
+Shield Termination Micro 
+Band Included
+N
+&F)
+S&F)
+120°
+150°
+210°
+240°
+B
+Shield Termination Micro 
+Band Included
+N
+N
+B
+Shield Termination Micro 
+Band Included
+&F)
+ts
+120°
+150°
+210°
+240°
+120°
+150°
+210°
+240°
+&F)
+N
+N
+N
+s
+120°
+150°
+210°
+240°
+ts
+120°
+150°
+210°
+240°
+s
+ntacts
+s
+tacts
+ntacts
+(Standard)
+To avoid cross-plugging within applications requiring the use of 
+more than one miniature cylindrical connector of the same size and 
+arrangement, alternate insert rotations are available.
+tacts
+hined crimp barrel
+tacts
+ined crimp barrel
+hined crimp barrel
+ined crimp barrel
+A
+machined crimp barrel)
+ined crimp barrel
+120°
+150°
+210°
+240°
+A
+A
+machined crimp barrel)
+machined crimp barrel)
+120°
+150°
+210°
+240°
+120°
+150°
+210°
+240°
+A
+machined crimp barrel)
+th .150
+A
+machined crimp barrel)
+A
+120°
+150°
+210°
+240°
+120°
+150°
+210°
+240°
+th .150
+gth .150
+th .150
+Length .150
+th .150
+ength .150
+Length .150
+ength .150
+Length .150
+As shown in the diagram to the left, the front face of the plug shell is 
+rotated in a clockwise direction from the normal shell keying position. 
+The receptacle shell is rotated counterclockwise the same number of 
+degrees in respect to the normal shell key position.
+120°
+150°
+B
+120°
+150°
+120°
+150°
+210°
+240°
+B
+B
+120°
+150°
+120°
+150°
+B
+210°
+240°
+210°
+240°
+B
+B
+210°
+240°
+210°
+240°
+120°
+150°
+C
+A plug with a given rotation letter will mate with a receptacle with the 
+same rotation letter. The degree angles for a given connector are 
+the same whether it contains pin or socket. Inserts are not rotated in 
+conjunction with the master key/keyway.
+120°
+150°
+120°
+150°
+210°
+240°
+C
+C
+C
+120°
+150°
+120°
+150°
+210°
+240°
+210°
+240°
+C
+C
+210°
+240°
+210°
+240°
+   
+D
+D
+°
+150°
+210°
+240°
+D
+D
+150°
+210°
+240°
+°
+150°
+210°
+240°
+D
+D
+150°
+210°
+240°
+°
+150°
+210°
+240°
+to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be-
+but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products are 
+warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indicated 
+e required. Specifications are typical and may not apply to all connectors. 
+mark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be-
+but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products are 
+arranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indicated 
+e required. Specifications are typical and may not apply to all connectors. 
+mark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+t to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be-
+but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products are 
+warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indicated 
+be required. Specifications are typical and may not apply to all connectors. 
+mark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be-
+but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products are 
+arranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indicated 
+e required. Specifications are typical and may not apply to all connectors. 
+mark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be-
+but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products are 
+arranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indicated 
+e required. Specifications are typical and may not apply to all connectors. 
+mark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+on Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+on Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+on Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+on Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+on Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+5
+
+Amphenol
+www.amphenol-industrial.com
+Shell Styles
+1.   Receptacle: 01H/01T/03H/03A 
+01H
+01T
+03H
+03A
+2.   Plug: 06T/06H
+06T
+06H
+6
+
+Amphenol
+www.amphenol-industrial.com
+Shell Dimensions
+Receptacles
+01H
+01T
+Shell 
+Size
+ØA
+ØB
+ØC
+D
+E
+Shell 
+Size
+ØA
+ØB
+C
+ØD
+E
+08
+12.2
+11.6
+11
+22.40
+3.50
+08
+11.6
+12.2
+22.40
+10
+3.50
+09
+14.8
+14.2
+13
+22.40
+3.50
+09
+14.2
+14.8
+22.40
+12
+3.50
+10
+17.2
+16.6
+15
+22.40
+3.50
+10
+16.6
+17.2
+22.40
+15
+3.50
+Receptacle In-line version
+03H
+03A
+Shell 
+Size
+ØA
+B
+ØC
+D
+E
+F
+G
+Shell 
+Size
+ØA
+B
+ØC
+D
+E
+F
+G
+08
+11.6
+22.40
+11
+2.30
+12
+19.3
+25.3
+08
+11.6
+22.40
+10
+2.30
+12.80
+19.3
+25.3
+09
+14.2
+22.40
+13
+2.30
+12
+22
+29
+09
+14.2
+22.40
+12
+2.30
+12.80
+22
+29
+10
+16.6
+22.40
+15
+2.30
+12
+24.9
+33.1
+10
+16.6
+22.40
+14
+2.30
+12.80
+24.9
+32.9
+Plugs
+06H
+06T
+Shell 
+Size
+ØA
+ØB
+C
+ØD
+E
+F
+Shell 
+Size
+ØA
+ØB
+C
+ØD
+E
+F
+08
+8.5
+14.8
+22.40
+10
+0.89
+11.63
+08
+8.5
+14.8
+22.40
+10
+0.89
+11.63
+09
+10.95
+17.2
+22.40
+13
+0.89
+11.63
+09
+10.95
+17.2
+22.40
+12
+0.89
+11.63
+10
+13
+19.5
+22.40
+15
+0.89
+11.63
+10
+13
+19.5
+22.40
+15
+0.89
+11.63
+7
+
+Amphenol
+www.amphenol-industrial.com
+How to Order
+Bayonet
+B antam
+PDS-24
+Bayonet
+B antam
+Bayonet
+B antam
+PDS-24
+PDS-2
+Bayonet
+B antam
+PDS-24
+1
+2
+3
+4
+5
+6
+7
+Bayonet
+B antam
+PDS-24
+Series
+Shell Style
+Service Class
+Insert Arrangement
+Contacts
+Keying
+Options
+MB
+06T
+E
+10-15
+P
+N
+(072)
+Bayonet
+B antam
+Bayonet
+B antam
+Bayonet
+B antam
+Bayonet
+B antam
+Bayonet
+B antam
+How to Order - BANTAM 1/4 Turn Bayonet Coupling
+How to Order - BANTAM 1/4 Turn Bayonet Coupling
+How to Order - BANTAM 1/4 Turn Bayonet Coupling
+How to Order - BANTAM 1/4 Turn Bayonet Coupling
+How to Order - BANTAM 1/4 Turn Bayonet Coupling
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+2 - Shell Style
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+1 - Series
+SERIES
+SHELL PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+SERIES
+SHELL PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+SERIES
+SHELL PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+01T
+Cable connecting receptacle with metric thread
+MB
+Designates Micro-B™  
+SERIES
+SHELL PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+BP
+N
+N
+08-07
+P
+N
+SERIES
+SHELL PLATING
+CLASS
+INSERT ARRANGEMENT
+CONTACTS
+KEYING
+OPTIONAL 
+CODE
+BP
+N
+N
+08-07
+P
+N
+BP
+N
+N
+08-07
+P
+N
+01H
+Cable connecting receptacle with Heat Shrink Tubing grooves
+BP
+N
+N
+08-07
+P
+N
+BP
+N
+N
+08-07
+P
+N
+3. CLASS
+4. INSERT ARRANGEMENTS
+1. SERIES
+2. SHELL PLATING
+03T
+2 Hole flanged receptacle with metric thread
+3. CLASS
+3. CLASS
+4. INSERT ARRANGEMENTS
+4. INSERT ARRANGEMENTS
+1. SERIES
+2. SHELL PLATING
+1. SERIES
+2. SHELL PLATING
+3. CLASS
+4. INSERT ARRANGEMENTS
+1. SERIES
+2. SHELL PLATING
+N
+Non Environmental
+3. CLASS
+4. INSERT ARRANGEMENTS
+Insert Arrg
+#22D
+#20
+#16
+BP
+Plug, Integral Backshell
+N
+Electroless Nickel
+1. SERIES
+2. SHELL PLATING
+N
+Non Environmental
+N
+Non Environmental
+Insert Arrg
+#22D
+#20
+#16
+BP
+Plug, Integral Backshell
+N
+Electroless Nickel
+Insert Arrg
+#22D
+#20
+#16
+03H
+2 Hole flanged receptacle with Heat Shrink Tubing grooves
+BP
+Plug, Integral Backshell
+N
+Electroless Nickel
+N
+Non Environmental
+Insert Arrg
+#22D
+#20
+#16
+BP
+Plug, Integral Backshell
+N
+Electroless Nickel
+N
+Non Environmental
+08-07
+7
+Insert Arrg
+#22D
+#20
+#16
+BP
+Plug, Integral Backshell
+N
+Electroless Nickel
+08-07
+7
+08-07
+7
+06T
+Straight plug with metric thread
+BR
+In-Line Receptacle, 
+Integral Backshell
+08-07
+7
+10-15
+15
+08-07
+7
+BR
+In-Line Receptacle, 
+Integral Backshell
+BR
+In-Line Receptacle, 
+Integral Backshell
+10-15
+15
+10-15
+15
+BR
+In-Line Receptacle, 
+Integral Backshell
+BR
+In-Line Receptacle, 
+Integral Backshell
+10-15
+15
+10-12*
+11
+1
+10-15
+15
+06H
+Straight plug with Heat Shrink Tubing grooves
+10-12*
+11
+1
+10-12*
+11
+1
+BF
+2 Hole Flange  
+Receptacle
+10-12*
+11
+1
+10-04*
+4
+10-12*
+11
+1
+BF
+2 Hole Flange  
+Receptacle
+BF
+2 Hole Flange  
+Receptacle
+03A
+2 Hole flanged receptacle with no grooves and no thread
+10-04*
+4
+10-04*
+4
+BF
+2 Hole Flange  
+Receptacle
+BF
+2 Hole Flange  
+Receptacle
+10-04*
+4
+10-07*
+4
+3
+10-04*
+4
+10-07*
+4
+3
+10-07*
+4
+3
+Bayonet
+B antam
+10-07*
+4
+3
+*Coming soon
+10-07*
+4
+3
+*Coming soon
+*Coming soon
+*Coming soon
+3 - Class
+5 - Contacts
+7 - Options
+*Coming soon
+A
+Non-Environmental
+(072)
+Gray ZnNi
+7. OPTIONAL CODE
+5. CONTACTS
+6. KEYING
+6 - Keying
+(See Alternate 
+Keying, page 5)
+7. OPTIONAL CODE
+7. OPTIONAL CODE
+Amphenol’s Bantam Product Series was inspired by the need to
+tive while maintaining the high performance demanded by today
+5. CONTACTS
+6. KEYING
+5. CONTACTS
+6. KEYING
+7. OPTIONAL CODE
+5. CONTACTS
+6. KEYING
+7. OPTIONAL CODE
+P
+Pin Crimp (S&F)
+5. CONTACTS
+6. KEYING
+(023)
+Electroless Nickel
+P
+P
+Pin Crimp (S&F)
+P
+Pin Crimp (S&F)
+B
+Shield Termination Micro 
+Band Included
+P
+Pin Crimp (S&F)
+S
+Socket Crimp (S&F)
+E
+Environmental with 
+proper backshell
+P
+Pin Crimp (S&F)
+B
+Shield Termination Micro 
+Band Included
+B
+Shield Termination Micro 
+Band Included
+N
+S
+Socket Crimp (S&F)
+S
+Socket Crimp (S&F)
+designates S&F pin 
+contacts,  order separately 
+and packaged by reel, see 
+page 9
+120°
+150°
+210°
+240°
+B
+Shield Termination Micro 
+Band Included
+N
+N
+B
+Shield Termination Micro 
+Band Included
+S
+Socket Crimp (S&F)
+A
+Pin, less contacts
+120°
+150°
+210°
+240°
+120°
+150°
+210°
+240°
+S
+Socket Crimp (S&F)
+N
+(424)
+Electroless Nickel finish 
+with cable clamp
+N
+N
+A
+Pin, less contacts
+120°
+150°
+210°
+240°
+A
+Pin, less contacts
+120°
+150°
+210°
+240°
+A
+Pin, less contacts
+B
+Socket, less contacts
+A
+Pin, less contacts
+B
+Socket, less contacts
+B
+Socket, less contacts
+4 - Insert Arrrangements
+(Standard)
+B
+Socket, less contacts
+C
+Pin Crimp (machined crimp barrel
+B
+Socket, less contacts
+S
+(425)
+Electroless Nickel finish 
+with cable gland
+C
+Pin Crimp (machined crimp barrel
+C
+Pin Crimp (machined crimp barrel
+C
+Pin Crimp (machined crimp barrel
+A
+D
+Socket Crimp (machined crimp barrel)
+C
+Pin Crimp (machined crimp barrel
+120°
+150°
+210°
+240°
+designates S&F socket 
+contacts, order separately 
+and packaged by reel, see 
+page 9 
+A
+A
+D
+Socket Crimp (machined crimp barrel)
+D
+Socket Crimp (machined crimp barrel)
+Refer to page 5 for insert 
+availability.
+120°
+150°
+210°
+240°
+120°
+150°
+210°
+240°
+A
+D
+Socket Crimp (machined crimp barrel)
+E
+Pin PC Tail-Length .150
+A
+D
+Socket Crimp (machined crimp barrel)
+A
+120°
+150°
+210°
+240°
+(574)
+Gray ZnNi finish with 
+cable clamp
+120°
+150°
+210°
+240°
+E
+Pin PC Tail-Length .150
+E
+Pin PC Tail-Length .150
+E
+Pin PC Tail-Length .150
+F
+Socket PC Tail-Length .150
+E
+Pin PC Tail-Length .150
+F
+Socket PC Tail-Length .150
+ FEATURES:
+ • Low Cost 
+ • Simplified Termination with tape and reel contacts 
+ • Small Form Factor 
+ • Secure Latching 
+ • Tool-less & Fast Mate 
+ • Lightweight
+F
+Socket PC Tail-Length .150
+“10-15” designates insert 
+arrangement.
+F
+Socket PC Tail-Length .150
+F
+Socket PC Tail-Length .150
+(575)
+Gray ZnNi finish with 
+cable gland
+120°
+150°
+B
+120°
+150°
+120°
+150°
+210°
+240°
+B
+B
+120°
+150°
+(EMI)
+EMI Band
+120°
+150°
+210°
+240°
+B
+210°
+240°
+B
+B
+210°
+240°
+210°
+240°
+120°
+150°
+C
+120°
+150°
+120°
+150°
+210°
+240°
+C
+C
+C
+120°
+150°
+120°
+150°
+210°
+240°
+210°
+240°
+C
+C
+210°
+240°
+210°
+240°
+D
+D
+120°
+150°
+210°
+240°
+D
+D
+120°
+150°
+210°
+240°
+120°
+150°
+210°
+240°
+D
+D
+120°
+150°
+210°
+240°
+120°
+150°
+210°
+240°
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be
+lieved to be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products 
+made without representation or warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indica
+or that other measures may not be required. Specifications are typical and may not apply to all connectors. 
+AMPHENOL is a registered trademark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be
+lieved to be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products a
+made without representation or warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indica
+or that other measures may not be required. Specifications are typical and may not apply to all connectors. 
+AMPHENOL is a registered trademark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are b
+lieved to be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products 
+made without representation or warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indic
+or that other measures may not be required. Specifications are typical and may not apply to all connectors. 
+AMPHENOL is a registered trademark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+Note: Contacts are sold separately, please refer to page 9.
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be
+lieved to be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products a
+made without representation or warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indica
+or that other measures may not be required. Specifications are typical and may not apply to all connectors. 
+AMPHENOL is a registered trademark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are be
+lieved to be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements or suggestions concerning possible use of our products a
+made without representation or warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should assume that all safety measures are indica
+or that other measures may not be required. Specifications are typical and may not apply to all connectors. 
+AMPHENOL is a registered trademark of Amphenol Corporation. 
+©2015 Amphenol Corporation         REV:1/12/2016
+ 
+CONTACT: Jon Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+ 
+CONTACT: Jon Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+ 
+CONTACT: Jon Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+ 
+CONTACT: Jon Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+ 
+CONTACT: Jon Prouty 
+E-mail: jprouty@amphenol-aao.com  
+Phone: 607-643-1736
+Example:  MB 06T E 10-15 PN(425) equals Straight plug with Cable Gland, Electroless Nickel 
+Plated Shell, N Keyway. 
+By including a cable gland (E service class), this connector can reach IP54 when in the mated 
+condition.
+KEY FEATURES AND BENEFITS: 
+ • High Density 
+ • Shell to Shell Shielding 
+ • EWIS and RoHS Compliant 
+ • Bayonet Coupling provides quick  
+  and positive locking 
+ • Compact and Lightweight 
+ • Quick Termination Process 
+ • Meets Smoke, Toxicity and  
+  Flammability Requirements 
+ • High Reliability interconnect for  
+  demanding applications
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein 
+are believed to be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind, expressed or implied. Statements of suggestions concerning possible use of 
+our products are made without representation or warranty that any such use is free of patent infringement and are not recommendations to infringe and any patent. The user should assume that all 
+safety measures are indicated or that other measures may not be required. Specifications are typical and may not apply to all connectors.
+8
+PERFORMANCE: 
+ • Operating Temperature: -55C to 125C 
+ • Durability: > 500 Mating Cycles 
+• Dielectric Withstanding Voltage: 500VRMS
+
+Amphenol
+www.amphenol-industrial.com
+#22D Stamped & Formed Contacts
+Current
+Wire
+Size
+PIN/SOCKET
+Plating
+Part No
+Pcs/Reel
+(A)
+AWG
+mm2
+Tin plating
+C10-737688-221
+Gold flash
+C10-737688-222
+S & F PIN
+22-26
+0.14-0.30
+10u" gold plating
+C10-737688-223
+30u" gold plating
+C10-737688-224
+3000pcs / Reel 
+22D#
+3
+(Order Separately)
+Tin plating
+C10-737689-221
+Gold flash
+C10-737689-222
+S & F POCKET
+22-26
+0.14-0.30
+10u" gold plating
+C10-737689-223
+30u" gold plating
+C10-737689-224
+9
+
+Amphenol
+www.amphenol-industrial.com
+Accessories – Cable Clamps, Cable Glands, Caps
+Non-Environmental Cable Clamp
+Environmental Cable Gland 
+(EMI Shielding & IP54)
+H
+L
+V
+L
+V
+CableRange
+ØD
+REF
+ØD
+Shell 
+Size
+ØA
+±0.1
+±0.1
+±0.1
+Thread
+Shell 
+Size
+ØA
+±0.1
+REF
+Thread
+8
+12
+15
+17
+4.1
+M10x0.5-6H
+8
+14
+28.8
+3.5~6.5
+M10x0.5-6H
+9
+14
+16.5
+17
+5.6
+M12x0.5-6H
+9
+15.5
+28.8
+4.8~8
+M12x0.5-6H
+10
+17
+18.5
+17
+7.8
+M15x1.0-6H
+10
+17
+28.8
+8.5~10
+M15x1.0-6H
+Non-Environmental Cable Clamp
+Environmental Cable Gland (EMI Shielding & IP54)
+10
+
+09
+18.6
+11
+17.1
+15.5
+C10-738666-09M2
+50-250 MILIMETERS
+C10-738666-09M3
+75-300 MILIMETERS
+C10-738666-09M4
+100-350 MILIMETERS
+C10-738666-10M
+OF 1
+REV.
+PA1
+10
+21
+11
+19.5
+15.5
+LESS LANYARD
+C10-738666-10M0
+0 -150 MILIMETERS
+C10-738666-10M1
+25-200 MILIMETERS
+C10-738666-10M2
+50-250 MILIMETERS
+C10-738666-10M3
+75-300 MILIMETERS
+C10-738666-10M4
+100-350 MILIMETERS
+2
+4
+3
+DOCUMENT NO.
+10-738666-XXMX
+SHEET 1 OF 1
+REV.
+PA1
+Amphenol
+www.amphenol-industrial.com
+REVISIONS
+REV.
+DESCRIPTION
+DATE
+C
+C
+B
+0.1
+D
+0.1
+L
+0.1
+STRAP LENGTH CODE
+PA1
+INITIAL  RELEASE
+2016-08-24
+PART NUMBER
+CAP SIZE
+A
++0.13
+0
+ 
+A 
+ 
+D 
+C10-738666-08M
+D
+08
+16
+11
+14.5
+15.5
+Accessories – Cable Clamps, Cable Glands, Caps
+LESS LANYARD
+C10-738666-08M0
+0 -150 MILIMETERS
+C10-738666-08M1
+25-200 MILIMETERS
+C10-738666-08M2
+50-250 MILIMETERS
+C10-738666-08M3
+75-300 MILIMETERS
+C10-738666-08M4
+100-350 MILIMETERS
+C10-738666-09M
+09
+18.6
+11
+17.1
+15.5
+ B 
+LESS LANYARD
+C10-738666-09M0
+0 -150 MILIMETERS
+C10-738666-09M1
+25-200 MILIMETERS
+C10-738666-09M2
+50-250 MILIMETERS
+C10-738666-09M3
+75-300 MILIMETERS
+C10-738666-09M4
+100-350 MILIMETERS
+C10-738666-10M
+ L 
+10
+21
+11
+19.5
+15.5
+LESS LANYARD
+C10-738666-10M0
+0 -150 MILIMETERS
+C10-738666-10M1
+25-200 MILIMETERS
+C10-738666-10M2
+50-250 MILIMETERS
+C10-738666-10M3
+75-300 MILIMETERS
+C10-738666-10M4
+100-350 MILIMETERS
+Receptacle Metal Cap
+BLACK NYLON STRAP
+C
+ 
+4.40 
+B
+ 
+A 
+ 
+D 
+DOCUMENT NO.
+10-738666-XXMX
+SHEET 1 OF 1
+REV.
+PA1
+ 150 REF 
+ B 
+ L 
+ØA
+UNLESS OTHERWISE SPECIFIED
+APPROVALS
+DATE
+BLACK NYLON STRAP
+ 
+4.40 
+B
+L
+PREPARED BY:
+Qing Xu
+Part Number
+Cap Size
++0.13
+±0.1
+ØD
+±0.1
+±0.1
+Strap Length Code
+ENGINEER IN CHANGE:
+AMPHENOL INDUSTRIAL OPERATIONS
+Amphenol Technology(Zhuhai)Co.,Ltd
+No.63, Xinghan Road, Sanzao Town, Jinwan, Zhuhai, PRC
+0
+ LINEAR DIMENSIONS ARE IN MILIMETERS TOLERANCES:
+     .XXXX= .0005      ANGLES= ±2°
+       .XXX= .010
+         .XX= .03
+           .X= .1
+Mar-18-17
+L
+Lisa Li
+DESIGN MANAGER:
+NOTES:
+A
+A
+DOCUMENT NO.
+10-738666-XXMX
+SHEET 1 OF 1
+REV.
+PA1
+PRODUCT GROUP:
+C&3
+Ran Xiao
+C10-738666-08M
+Less Lanyard
+RECEPTACLE CAP, METAL
+MICRO BAYONET SERIES
+AIPG DIVISION:
+MATERIAL SPEC
+PROCESS SPEC
+ 150 REF 
+   DIM. & TOL. PER ASME Y14.5M-1994;
+   DRM PER MIL-DTL-31000;
+   OTHER AMPHENOL STANDARDS: 9-3800
+                              LEGENDS:
+                     =FLAG NOTE CALL OUT
+                       REFERENCE
+C10-738666-08M0
+150 Milimeters
+6061-T6
+SIZE
+CAGE CODE
+DOCUMENT NUMBER
+REV
+THIS DOCUMENT CONTAINS PROPRIETARY INFORMATION AND
+SUCH INFORMATION MAY NOT BE DISCLOSED TO OTHERS FOR
+ANY PURPOSE OR USED FOR MANUFACTURING PURPOSES
+WITHOUT WRITTEN PERMISSION FROM THE AMPHENOL CORP.
+THIRD ANGLE PROJECTION
+C10-738666-08M1
+200 Milimeters
+PA1
+9-7543
+10-738666-XXMX
+08
+16
+11
+14.5
+15.5
+ 
+SCALE: 4:1
+REF: 
+SHEET 1 OF 1
+77820
+C
+C10-738666-08M2
+250 Milimeters
+REV.
+SHEET 1 OF 1
+PA1
+DOCUMENT NO.
+10-738666-XXMX
+1
+2
+3
+C10-738666-08M3
+300 Milimeters
+UNLESS OTHERWISE SPECIFIED
+APPROVALS
+DATE
+PREPARED BY:
+Qing Xu
+C10-738666-08M4
+350 Milimeters
+ENGINEER IN CHANGE:
+AMPHENOL INDUSTRIAL OPERATIONS
+Amphenol Technology(Zhuhai)Co.,Ltd
+No.63, Xinghan Road, Sanzao Town, Jinwan, Zhuhai, PRC
+ LINEAR DIMENSIONS ARE IN MILIMETERS TOLERANCES:
+     .XXXX= .0005      ANGLES= ±2°
+       .XXX= .010
+         .XX= .03
+           .X= .1
+Mar-18-17
+L
+Lisa Li
+DESIGN MANAGER:
+C10-738666-09M
+Less Lanyard
+ES:
+A
+PRODUCT GROUP:
+C&3
+Ran Xiao
+RECEPTACLE CAP, METAL
+MICRO BAYONET SERIES
+AIPG DIVISION:
+C10-738666-09M0
+150 Milimeters
+MATERIAL SPEC
+PROCESS SPEC
+   DIM. & TOL. PER ASME Y14.5M-1994;
+   DRM PER MIL-DTL-31000;
+   OTHER AMPHENOL STANDARDS: 9-3800
+                              LEGENDS:
+                     =FLAG NOTE CALL OUT
+                       REFERENCE
+6061-T6
+SIZE
+CAGE CODE
+DOCUMENT NUMBER
+REV
+DOCUMENT CONTAINS PROPRIETARY INFORMATION AND
+H INFORMATION MAY NOT BE DISCLOSED TO OTHERS FOR
+PURPOSE OR USED FOR MANUFACTURING PURPOSES
+OUT WRITTEN PERMISSION FROM THE AMPHENOL CORP.
+THIRD ANGLE PROJECTION
+C10-738666-09M1
+200 Milimeters
+PA1
+9-7543
+10-738666-XXMX
+09
+18.6
+11
+17.1
+15.5
+ 
+SCALE: 4:1
+REF: 
+SHEET 1 OF 1
+77820
+C
+C10-738666-09M2
+250 Milimeters
+REV.
+SHEET 1 OF 1
+PA1
+DOCUMENT NO.
+10-738666-XXMX
+1
+2
+3
+C10-738666-09M3
+300 Milimeters
+C10-738666-09M4
+350 Milimeters
+C10-738666-10M
+Less Lanyard
+C10-738666-10M0
+150 Milimeters
+C10-738666-10M1
+200 Milimeters
+10
+21
+11
+19.5
+15.5
+C10-738666-10M2
+250 Milimeters
+C10-738666-10M3
+300 Milimeters
+C10-738666-10M4
+350 Milimeters
+11
+
+Amphenol
+www.amphenol-industrial.com
+Tools
+Part Number
+10-738141-22D
+Part Number
+C10-737871-000
+Description
+Insertion / Extraction Tool
+Description
+Crimp Tool
+12
+
+Amphenol
+www.amphenol-industrial.com
+Crimp Instructions
+Wire Preparation 
+CONTACT AND WIRE SIZES
+CONTACT AND WIRE SIZES 
+Contact Size 
+Wire size 
+Insulation O.D. 
+Stripping Length "A" 
+22D 
+22AWG 
+0.643mm 
+3-4mm 
+ 
+Contact Size
+Wire Size
+Insulation O.D.
+Stripping Length “A”
+Strip wire to length shown in chart. 
+DO not cut or nick wire strands. Twist 
+wire strands back to their original lay.
+22D
+22AWG
+0.643
+3-4mm
+Amphenol Size 22D                                                    Rev. A 
+stamping contact                                               Date: 2016-7-5 
+crimping instructions 
+WIRE PREPARATION 
+Strip wire to length shown in chart. 
+Do not cut or nick wire strands. 
+Twist wire strands back to their 
+original lay. 
+ 
+Crimp Tool
+Part Number:  10-737871-000
+DMC GMT 220
+CRIMP TOOL 
+Part Number:  10-737871-000 
+ 
+ 
+ 
+ 
+ 
+Crimp Wire To Contacts 
+1. Put the wire into the contact. All wire strands should be in crimp barrel. Place contact crimp barrel on correct anvil of tool 
+with open side facing up. 
+ 
+ 
+                       A                        B 
+2. Slowly close jaws until the contact is retained by crimping jaws.
+3. Check that the wire is in place, making sure all wire strands are in crimp barrel. Continue to close the jaws slowly, until 
+the ratchet disengages.
+4. The tool will not release until the crimp cycle is complete.
+CRIMP WIRE TO CONTACTS 
+Put the wire into the contact (A), 
+all wire strands should be in crimp 
+barrel. Place contact crimp barrel 
+on correct anvil of tool with open 
+side facing up (B). Slowly close jaws 
+until the contact is retained by 
+crimping jaws (C). Check the wire 
+in the right place or not, making 
+sure all wire strands are in crimp 
+barrel. Continue to close the jaws 
+slowly, until the ratchet disengages 
+(D). The tool will not release until 
+the crimp cycle is complete. 
+ 
+ 
+ 
+                       C                         D 
+ 
+Amphenol 
+Industrial Products Group 
+Step One
+Step Two
+Step Three
+Step Four
+13
+
+Amphenol
+www.amphenol-industrial.com
+Cable Assembly Instructions
+Step 1: 
+Spread open the shielding braid and cover 
+with the copper Foil Tape then pass the 
+terminated contacts through the adaptor 
+and grommet.  
+Step 2: 
+Align the connector into their corresponding 
+insert holes. Press the cable gland down 
+into a tightly seated position into the rear of 
+the cable gland adaptor.
+Step 3: 
+Assemble the hex nut onto the adaptor and 
+tighten using a spanner. 
+14
+
+AMPHENOL CORPORATION 
+Amphenol Industrial
+Phone: 888-364-9011 
+20 Valley Street 
+Endwell, NY 13760-3600 
+www.amphenol-industrial.com
+IC-8-3
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are believed to 
+be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind expressed or implied. Statements or suggestions concerning possible use of our products are made without 
+representation or warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should not assume that all safety measures are indicated or that other 
+measures may not be required. Specifications are typical and may not apply to all connectors.
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  MB03TA11-23PN(072)  MB03TA10-15SN(574)  C10-738666-08M4  MB01HE09-10SN(072)  MB06TA10-6BN(072) 
+C10-738666-10M3  MB03HE10-4BN(072)  MB01TA11-23SN(575)  MB03A08-07PN(072)  MB06TA10-6AN(575) 
+MB01TA11-23PN(574)  MB01TA10-4BN(574)  C10-738666-09P2  MB06TA10-6AN(574)  MB06HE10-4BN(072) 
+MB03TA10-4AN(072)  MB01HE10-4AN(072)  MB06TA10-6AN(072)  MB06TE08-07PN(575)  MB06TE09-10PN(575) 
+MB03TA08-07PN(574)  MB03HE10-15SN(072)  MB03HE11-23PN(072)  C10-738666-09M1  MB06TA11-23SN(574) 
+MB03TA09-10PN(574)  MB01TE09-10PN(575)  MB03A10-15PN(072)  MB03HE09-10PN(072)  MB01TA10-6BN(574) 
+MB06TA10-4BN(575)  MB01HE11-23PN(072)  MB06HE09-10SN(072)  MB01TA09-10PN(072)  MB06TA09-10PN(574) 
+MB03TA10-6BN(574)  MB03HE10-6AN(072)  MB06TE08-07SN(575)  MB03TE09-10PN(575)  C10-738666-09P3 
+MB06TA08-07SN(574)  MB06TA08-07SN(072)  C10-738666-09P4  MB03A10-4AN(072)  MB01HE08-07SN(072) 
+MB03TA11-23PN(575)  MB03TA10-4BN(575)  MB06TA09-10PN(072)  MB06TA10-4BN(072)  MB03TA10-6AN(574) 
+MB03TA08-07SN(072)  MB03TA10-6BN(575)  MB01TA10-15PN(574)  MB01HE10-15PN(072)  MB03HE10-4AN(072) 
+MB03TA11-23SN(574)  MB03TA10-6BN(072)  MB01TA09-10SN(072)  C10-738666-08M  MB06TA09-10SN(574) 
+MB03TA10-6AN(072)  MB01HE08-07PN(072)  MB03TE10-15PN(575)  MB01TA08-07SN(072)  MB03HE11-23SN(072) 
+MB01TA09-10SN(574)  MB03A09-10PN(072)  MB03TA08-07SN(574)  C10-738666-10P2  MB03TA10-4AN(574) 
+MB01TA08-07PN(072)  C10-738666-08M3  MB06TA10-15SN(072)  MB01TA08-07PN(574)  MB01TA10-4BN(575)  C10-
+738666-09M4  MB01HE10-6BN(072)  MB06HE11-23SN(072)  C10-738666-10M0  MB01TA11-23SN(574)  MB03A10-
+15SN(072)  C10-738666-10M4  MB06TA10-6BN(574)  MB03TA10-4BN(072)  MB01TA11-23SN(072)  MB01TA10-
+4BN(072)  MB06TA11-23SN(072)  MB01TA10-6AN(574)  MB03A11-23SN(072)  MB03HE10-15PN(072)  C10-738666-
+09M0  MB01TA10-4AN(072)  MB03TA11-23SN(072)  MB01TE09-10SN(575)  C10-738666-08M0  MB06TA11-
+23PN(072)  MB03A10-4BN(072)  MB06TA10-4AN(575)  C10-738666-08P4  MB06TE10-15PN(575)

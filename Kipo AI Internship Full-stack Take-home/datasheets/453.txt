@@ -1,0 +1,309 @@
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Sensor/actuator flush-type connector, plug, 8-pos., A-coded, with angled solder connection, only contact
+insert
+Your advantages
+ Reduced mounting costs thanks to two-piece device connector
+ All common pin assignments and codings available
+ Easy device integration thanks to mechanical port screw connections with threaded attachment, press-in contour or direct integration in the front
+plate
+ Additional gasket for the device when not plugged in
+Key Commercial Data
+Packing unit
+20 pc
+Minimum order quantity
+20 pc
+GTIN
+GTIN
+4046356438551
+Technical data
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+-40 °C ... 85 °C (without mechanical actuation)
+Degree of protection
+IP67
+General
+Note
+The electrical and mechanical data specified assume that the connector
+pair is correctly locked and mounted. If the connector is unlocked and if
+there is a danger of contamination, the connector must be sealed using
+a protective cap > IP54. Influences arising from litz wires, cables or PCB
+assembly must also be taken into consideration.
+Rated current at 40°C
+2 A
+Rated voltage
+30 V
+Rated surge voltage
+0.8 kV
+09/11/2020   Page 1 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Technical data
+General
+Number of positions
+8
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Solder pins
+Insertion/withdrawal cycles
+> 100
+Torque
+3 Nm ... 4 Nm (Installation-side)
+Mounting type
+PCB mounting
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PA 6.6
+Sealing material
+FKM / EPDM
+Cable
+Standards/specifications
+M12 connector IEC 61076-2-101
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 2 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Schematic diagram
+Pin assignment M12 plug, 8-pos., A-coded, view plug side
+09/11/2020   Page 3 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Drilling diagram
+Drilling diagram only valid in connection with the SACC-M12-SCO PLUG L90 housing (order no. 1436709)
+09/11/2020   Page 4 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Dimensional drawing
+M12 flush-type connector, plug, contact carrier, side view
+09/11/2020   Page 5 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Dimensional drawing
+M12 flush-type connector, plug, contact carrier, front view
+09/11/2020   Page 6 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Dimensional drawing
+Optionally with O-ring (green) for tight seal when plugged in. 
+- the axial mating force of 80 N per connector may not be exceeded when using with assembled O-ring! 
+- Avoid radial forces!
+09/11/2020   Page 7 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Dimensional drawing
+Locked area on the PCB
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27260700
+eCl@ss 4.1
+27260700
+eCl@ss 5.0
+27260700
+eCl@ss 5.1
+27260700
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 3.0
+EC002061
+ETIM 4.0
+EC002061
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+09/11/2020   Page 8 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Classifications
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / EAC
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 118976
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+30 V
+Nominal current IN
+2 A
+mm²/AWG/kcmil
+24
+ 
+ B.01687
+EAC 
+
+Accessories
+Accessories
+Panel mounting base
+09/11/2020   Page 9 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Accessories
+Housing screw connection - SACC-M12-SCO PLUG - 1551493
+M12 SPEEDCON housing screw connection for M12 male inserts, with O-ring, for all SPEEDCON-capable THR and
+wave soldering contact carriers
+ 
+ 
+Housing screw connection - SACC-DSIV-M12-PLUG - 1416145
+Housing screw connection with M12 standard thread, with O-ring, for the two-piece straight M12 THR contact carrier
+and for the two-piece angled M12 contact carrier
+ 
+ 
+Housing screw connection - SACC-M12-SCO PLUG L90 - 1436709
+M12-SPEEDCON housing screw connection for M12 male inserts, with flat gasket, for all Speedcon-compatible THR
+and wave soldering contact carriers
+ 
+ 
+Housing screw connection - SACC-BP-M-M12/M15-6-THR - 1413997
+Housing screw connection, Plug, M12, Rear mounting, M15 x 1
+ 
+ 
+Housing screw connection - SACC-BP-M-M12/M15-7-THR - 1413996
+Housing screw connection, Plug, M12, Rear mounting, M15 x 1
+ 
+ 
+09/11/2020   Page 10 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Accessories
+Housing screw connection - SACC-BP-M-M12/M15-6-THR SCO - 1413999
+M12 SPEEDCON housing screw connection for M12 male inserts, with O-ring, for all SPEEDCON-capable THR and
+wave soldering contact carriers
+ 
+ 
+Housing screw connection - SACC-BP-M-M12/M15-7-THR SCO - 1413998
+Housing screw connection, Plug, M12-SPEEDCON, Rear mounting, M15 x 1
+ 
+ 
+Housing screw connection - SACC-M12 PLUG PRESS - 1437892
+M12 pin, housing screw connection, press-in version, for all Speedcon-compatible THR and wave soldering contact
+carriers
+ 
+ 
+Housing screw connection - SACC-DSIV-M12-PLUG-9 THR - 1417984
+M12 pin, front mounting THR with M14 screw fastening
+ 
+ 
+Housing screw connection - SACC-BP-M-M12-THR PP - 1027661
+Housing screw connection, Plug, M12-Push-Pull, Rear mounting, THR- und Wellenlötkontakte
+ 
+ 
+09/11/2020   Page 11 / 12
+
+https://www.phoenixcontact.com/pi/products/1436987
+Flush-type connector - SACC-CI-M12MS-8CON-L90 SCO - 1436987
+Accessories
+Housing screw connection - SACC-FP-M-M12-THR PP - 1027679
+Housing screw connection, Plug, M12-Push-Pull, Front mounting, THR- und Wellenlötkontakte
+ 
+ 
+Protective cap
+Sealing cap - PROT-M12 FS - 1560251
+M12 sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-type plugs and I/O devices in the field
+ 
+ 
+Sealing cap - PROT-M12 FS-M - 1430488
+M12 metal sealing cap for unoccupied M12 plugs of the sensor/actuator cable, flush-type plugs and I/O devices in the
+field
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 12 / 12
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1436987

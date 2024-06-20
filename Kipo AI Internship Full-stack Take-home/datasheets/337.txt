@@ -1,0 +1,4141 @@
+Amphenol LTW 
+Innovation in Waterproof Solution
+CATALOGUE
+http://www.amphenolltw.com
+
+M Series Sensor Connector 
+9
+IP 65 . 67 . 68
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M Series Sensor Connector
+3-1  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Range Overview
+Range Overview
+ Receptacle to Overmolded with Cable
+ In Line
+Amphenol
+Amphenol
+Amphenol
+Overmolded with Cable
+Receptacle
+Overmolded with Cable
+Overmolded with Cable
+Amphenol
+Amphenol
+Amphenol
+Amphenol
+Amphenol
+Receptacle
+Field Installable
+Overmolded with Cable
+Overmolded with Cable
+Amphenol
+Amphenol
+ Receptacle to Field Installable
+Field Installable
+Field Installable
+Amphenol
+Amphenol
+Amphenol
+Field Installable
+Receptacle
+Overmolded with Cable
+Amphenol
+Amphenol
+Amphenol
+Amphenol
+Overmolded with Cable
+Field Installable
+Receptacle
+Field Installable
+Amphenol
+Amphenol
+ Others
+Field Installable
+Receptacle
+Insert
+M12 to RJ45 Adaptor
+ Accessories
+Amphenol
+Amphenol
+Amphenol
+Amphenol
+   T Cable                Y Cable                  T Adaptor               Y Adaptor               I Adaptor          Waterproof Cap       
+See page 21-2    See page 21-3        See page 21-5       See page 21-6       See page 21-8      See page 21-14       
+Innovation in Waterproof Solution   3-2
+
+M Series Sensor Connector I Specification
+9
+IP 65 . 67 . 68
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+Specification
+Identifications
+M8, M10.5, M12 (A, B, D code), Heavy Duty
+Shielded Connector, M23
+Description
+Receptacle
+Overmolded with Cable
+Field Installable
+Current Rating / Data
+1.5A~28A
+Material
+Contacts: Copper Alloy, Gold Plated
+Connector Body (Housing) : Nylon+GF or PU, UL
+Recognized
+Metal Screw Nut: Zinc Alloy or Copper Ally, Nickel Plated
+Waterproof Rating
+IP65, IP67~68
+Temperature Range
+Receptacle: -40°C~105°C
+Overmolded with Cable: PVC Cable: -20°C~80°C
+                                     PU Cable: -20°C~85°C
+Field Installable: -40°C~105°C
+* Higher working temperature upon request.
+Contact Resistance
+≤10mΩ
+Standard Cable Length
+01~99M
+Mating Cycle 
+100*Minimum
+Vibration
+10 ~ 500 Hz and 0.35 mm
+Standards
+IEC 61076-2-101
+IEC 61076-2-104
+* Design and specification are subject to change without notice.
+3-3  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Ordering Information
+Ordering Information
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Specification / Size
+>Heavy Duty Shielded Connector,
+(HB20)  Metal, Salt Spray Test 500H, 10A
+(LB20)  Metal, Salt Spray Test 48H, 10A
+(HC20) Metal, Salt Spray Test 500H, 20A
+(LC20)  Metal, Salt Spray Test 48H, 20A
+(HD20) Metal, Salt Spray Test 500H, 5A
+(LD20) Metal, Salt Spray Test 48H, 5A
+>M23 Size
+(LJ23)  Metal, Salt Spray Test 48H, 28A
+>M8 Size
+(8) M8
+(8P)  M8 (Plastic)
+(8A)  M8 W/ KEY
+(8AP)  M8 W/ KEY (Plastic)
+>M10.5 Size
+(105)  M10.5
+>M12 Size:
+(12)  M12 A-Coded
+(12L)  M12 A-Coded inserted with
+LED
+(12P) M12 A-Coded (Plastic)
+(12S) M12 A-Coded (Shielded)
+(12B) M12 B-Coded
+(SBP)  M12 B-Coded (Plastic)
+(SBS)  M12 B-Coded (Shielded)
+(12D)  M12 D-Coded
+(SDP)  M12  D-Coded (Plastic)
+(SDS)  M12  D-Coded (Shielded)
+Number of Contacts
+02, 03....,14...Contacts
+EX. (02) = 2 Contacts
+Connector Body (Style)
+> For Receptacle
+(P) Panel
+> For Overmolded with Cable
+(A) With Strain Relief
+(B)  Without Strain Relief
+> For Field installable
+(B) Without Strain Relief
+(D)  With Ground Pin
+Connector (Housing) Gender
+(M) Male Connector
+(F) Female Connector
+(I) I style (Male+Female)
+Contact Gender
+(M) Male
+(F) Female
+> For Overmolded with Cable
+(M) Overmolded with Cable
+Assemble Style
+> For Receptacle
+(S)  Solder Type
+(P) 180° PCB Type
+(R) 90° PCB Type
+(C) Crimp Type
+> For Field Installable
+(A)  Field installable(Solder)
+(B)  Field installable(Screw)
+(C) Field installable(Crimp)
+(D) Field Installable (IDC)
+Mating Style
+(S) Screw Thread
+(Q) Quick
+> For Overmolded with Cable
+(L)  Straight
+(R)  Right Angle
+> For Field Installable
+(L)  Straight
+(R)  Right Angle
+Backshell
+> For Receptacle
+(C) Circular (Rear Fastened)
+(F) Hexagonal Front Fastened
+(H)  Rear Hexagonal  (Rear
+Fastened)
+> For Receptacle
+(W) Square Front Fastened with
+Screw
+(N) Square Rear Fastened with
+Nut
+Waterproof Rating
+(5) IP65 (Quick Type)
+(7)  IP 67
+(8)  IP 68
+> For Overmolded with Cable
+(□ )+(■ ) : Cable Type + Cable Length
+EX. (A01) = UL2464 Cable + 1M
+Cable information
+> For Receptacle
+(001) / (002) : PG9
+(003)  / (004) / (005) : M16
+(006) : M12
+(■ ) : Cable Length
+From 1M to 99M
+EX. (01) = 1M
+(□ ) : Cable Type
+(A) PVC UL2464  Cable
+(B) PU VW-1 Cable
+> For Receptacle with wire harness
+(□ )+(■ ) : Cable Type + Wire Length
+EX. (A15) = UL 1007 (For M8) + 150mm
+(□ ) Cable Type
+(A) UL 1007 (For M8)
+(B) UL1061 (For M12-PG9 W/ O Logo)
+(C) UL1061 (For M12-M16 W / O Logo)
+(■ )  Wire length
+(15) 150mm
+(30) 300mm
+(50) 500mm
+* UL2517 / UL20549 available by 2014
+Innovation in Waterproof Solution   3-4
+
+M Series Sensor Connector I Physical Dimension
+Receptacle I Overmolded with Cable I Field Installable  
+9
+IP 65 . 67 . 68
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+Physical Dimension
+Receptacle 
+Panel Cut-Out
+Type
+L  / W
+OD 
+Type
+L  / W
+OD 
+Size
+Dimension
+A
+C
+OD
+Female
+Male
+OD
+L
+M8
+M8 X 1.0
+W
+B
+D
+OD
+M12
+OD
+W
+L
+HDSC*
+M22 X 1.0
+L
+M3*4
+Size
+Thread Description
+M105
+M10.5 X 0.75
+-
+-
+-
+A
+-
+10.9
+B
+7.1
+8.1
+B
+7.1
+8.1
+-
+-
+-
+A
+-
+8.1
+M12 X 1.0 - PG9
+B
+13.6
+15.4
+B
+13.6
+15.4
+M12 X 1.0 - M16.0 X 1.5
+B
+13.6
+16.1
+B
+13.6
+16.1
+M12.0 X 1.0
+B
+10.5
+12.2
+B
+10.5
+12.2
+-
+-
+-
+C
+19.2
+20.2
+-
+-
+-
+D
+19.2 / 23.0
+20.2
+M23
+M23 X 1.0
+-
+-
+-
+C
+24.4
+25.1
+*HDSC: Heavy Duty Shielded Connector
+Connector Dimension
+L (A)
+L (A)
+Series
+Receptacle
+Panel Thickness
+Conn. Gender
+Type
+Female
+Male
+L (B)
+L (A) L (B)
+Front Fastened
+Rear Fastened
+L (A)
+L (B)
+Amphenol
+L (B)
+M8
+Straight 
+18.0 13.8 16.4 11.5
+3.0 mm Max.
+3.5 mm Max.
+M8
+M12 PG9/M16 (RA)
+-
+M105
+Straight 
+-
+-
+18.0 15.0
+6.0 mm Max.
+Straight 
+20.0 20.8 20.5 20.8
+L (A)
+4.5mm Max.
+4.0mm Max.(Plastic)
+4.5mm Max.
+M12
+PG9/ M16
+Right Angle 20.0 20.8 20.5 20.8
+3.0mm  Max.
+M12*1.0 Right Angle 16.9 15.0 16.2 15.0
+Straight 
+-
+-
+23.5 29.0
+9.0mm Min.
+5.0 mm Max.
+HDSC*
+ALTW
+L (B)
+Straight 
+-
+-
+36.0 29.0
+6.0 mm Max.
+M23
+-
+*HDSC: Heavy Duty Shielded Connector
+M23
+Overmolded with Cable
+OD
+Amphenol
+OD
+Amphenol
+Amphenol
+L
+L
+L 
+OD 
+L
+OD
+Size
+Dimension
+Size
+Dimension
+Female
+Size
+Thread Description
+Female
+Male
+Female
+Male
+Size
+Thread Description
+M105
+M10.5 X 0.75
+36.5
+8.4
+M105
+M10.5 X 0.75
+41.5
+-
+12.0
+-
+M8
+M8 X 1.0
+38.1
+42.7
+10.1
+10.5
+M12
+M12.0 X 1.0
+43.3
+44.4
+14.5
+14.4
+Dimensions are shown in millimeters
+3-5  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Physical Dimension
+Receptacle I Overmolded with Cable I Field Installable  
+OD
+Amphenol
+Amphenol
+OD
+Amphenol
+L 
+L 
+* Snap-In type
+* Screw thread type
+L 
+OD 
+L 
+OD 
+Size
+Dimension
+Size
+Dimension
+Size
+Thread Description
+Female
+Male
+Female
+Male
+Size
+Type
+Female
+Male
+Female
+Male
+M12
+M12.0 X 1.0
+39.2
+40.1
+14.5
+14.5
+M8
+Screw Thread M8 X 1.0
+36.0
+40.5
+10.1
+10.5
+M8
+Snap-In M8 X 1.0
+36.5
+-
+8.4
+-
+M105
+Screw Thread M10.5 X 0.75
+37.2
+-
+12.0
+-
+M12
+Screw Thread M12.0 X 1.0
+43.3
+44.4
+14.5
+14.4
+L (A)
+L (A)
+Amphenol
+L (B)
+L (B)
+OD
+OD
+L [A] 
+L [B}
+OD 
+L [A] 
+L [B}
+OD 
+Size
+Dimension
+Size
+Dimension
+Size
+Thread Description
+Female Male
+Female Male
+Female Male
+Size
+Thread Description
+Female
+Male Female
+Male Female
+Male
+M105
+M10.5 X 0.75
+24.0
+-
+24.0
+-
+12.0
+-
+M105
+M10.5 X 0.75
+19.0
+-
+24.0
+-
+12.0
+-
+20.0
+25.5
+10.1
+10.5
+20.7
+M8
+M8 X 1.0
+20.7
+21.0
+25.6
+10.1
+10.5
+25.0
+25.0
+M8
+M8 X 1.0
+M12
+M12.0 X 1.0
+28.0
+28.0
+27.9
+28.9
+14.5
+14.4
+M12
+M12.0 X 1.0
+35.0
+35.0
+26.9
+27.9
+14.5
+14.4
+Field Installable
+L
+L
+OD
+Amphenol
+OD
+Amphenol
+L
+L
+Amphenol
+Amphenol
+OD
+OD
+L
+L
+Amphenol
+Amphenol
+L 
+OD 
+Pin Type
+OD
+L [A] 
+L [B] 
+Size
+Dimension
+Size
+Dimension
+Pin Type
+Size
+Type
+Female Male Female Male
+Size Thread Description
+Female Male Female Male Female Male
+M12
+M12.0 X 1.0
+Screw In 
+38.9
+38.9
+38.9
+38.9
+52.3
+52.3
+52.3
+52.3
+20.8
+20.8
+20.8
+20.8
+M8
+M8 X 1.0
+Screw In 
+55.4
+59.1
+16.7
+16.7
+M12 
+Plastic
+Dimensions are shown in millimeters
+M12
+M12.0 X 1.0
+Solder 
+Screw In 
+40.5
+61.3
+41.8
+61.3
+14.5
+20.8
+14.4
+20.8
+Solder 
+M12
+Plastic
+M12.0 X 1.0
+Screw In 
+40.5
+61.3
+41.8
+61.3
+14.8
+20.8
+13.8
+20.4
+-
+72.5
+-
+27.7
+-
+HDSC*
+M22 X 1.0
+-
+M23
+M23 X 1.0
+73.0
+-
+28.5
+-
+*HDSC: Heavy Duty Shielded Connector
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-6
+
+M Series Sensor Connector I Contact Configuration                                                                   
+1.5A I 2A I 3A I 4A I 5A I 10A I 20A I 28A 
+9
+IP 65 . 67 . 68
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+Contact Configuration
+(1.5A)
+4
+5
+MM or FF
+MM or FF
+MM or FF
+MF or FM
+MM or FF
+MF or FM
+MM or FF
+MF or FM
+MM or FF
+MF or FM MMF or FFM MF or FM
+(3A)
+M8
+(2A)
+M105
+(3~5P: 4A I 8P: 2A)
+M12 A Code
+(4A)
+M12 B Code
+(4A)
+M12 D Code
+(4A)
+M12 I Style
+  2Pin
+(02)
+R    C    F
+R    C    
+  3Pin
+(03)
+R    C    
+R          F
+R    C    F
+R          F
+R    C    F
+R    C    F
+  4Pin
+(04)
+R    C    
+R    C    F
+R    C    F
+R    C    F
+R    C    F
+R    C    F
+  5Pin
+(05)
+R    C    
+R    C    F    
+R    C    F    
+R    C    F    
+R    C    F    
+R    C    F
+  6Pin
+(06)
+R    C    F
+  7Pin
+(07)
+  8Pin
+(08)
+R    C    F
+10Pin
+(10)
+12Pin
+(12)
+14Pin
+(14)
+More to know:
+No. of Poles & Contact Configuration (Connection side view)
+2
+1
+1
+1
+1
+2
+2
+5
+3
+8
+7
+Male
+Male
+3
+4
+3
+4
+4
+3
+4
+6
+5
+3               4                  5                                       8
+1
+1
+1
+2
+1
+2
+5
+8
+2
+3
+Female
+Female
+6
+7
+4
+3
+4
+3
+4
+3
+4
+5
+3                4                 5                                        8
+Color Identification:
+1 = Brown, 2 = White, 3 = Blue, 4 = Black, 5 = Green
+Color Identification:
+1 = White, 2 = Brown, 3 = Green, 4 = Yellow, 
+5 = Gray, 6 = Pink, 7 = Blue, 8 = Red
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+3-7  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Contact Configuration
+1.5A I 2A I 3A I 4A I 5A I 10A I 20A I 28A 
+R: receptacle
+C: overmolded with cable 
+F: field installable 
+MM or FF
+MF or FM
+MM or FF
+MF or FM
+MM or FF
+MF or FM
+MM or FF
+MF or FM
+(5A)
+HDSC*
+(10A)
+HDSC*
+(20A)
+HDSC*
+(28A)
+M23
+1
+  1.5A (M8)
+R          F
+2A 
+(M105/M12 A)
+(M8)
+  3A 
+R          F
+▲   4A 
+(M12 A/M12 B/M12 D/
+ M12 I Style)
+  5A 
+(HDSC*)
+10A (HDSC*)
+R          F
+20A (HDSC*)
+28A (M23)
+R          F
+Contact Number:
+2
+Ex.2 contacts (02)
+R          F
+R          F
+Connector (Housing) Gender:
+4
+Male(M) or Female(F)
+R          F    
+Contact Gender:
+5
+Male(M) or Female(F)
+Male + Female (I) 
+More to Choose:
+6
+R          F
+● Solder (S)
+   - Solder Cup         
+R          F
+R          F    
+*HDSC: Heavy Duty Shielded Connector
+● PCB Type
+   - 90° PCB (R)       - 180° PCB (P)
+M12 Panel Version
+Screw Thread Size
+Logo
+001
+M12XPG9
+With Logo
+002
+M12XPG9
+Without Logo
+003
+M12XM16.0X1.5
+With Logo
+004
+M12XM16.0X1.5
+Without Logo
+More to know:
+005
+M12XM16.0X1.5
+Without Logo
+A-Code    B-Code    D-Code    I-Style
+006
+M12X1.0
+With Logo
+007
+M12X1.0
+Without Logo
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-8
+
+M Series Sensor Connector I Product Features
+Receptacle I Overmolded with Cable I Field Installable
+9
+IP 65 . 67 . 68
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+Product Features
+ Receptacle
+7
+Mating Style
+Amphenol
+ Rear Fastened 
+Screw Thread (S)
+8
+Backshell
+ Front Fastened (P)
+Hexagonal (H)(F)
+Circular (C)
+Square (N)(W)
+Overmolded with Cable 
+7
+3
+Connector Body(Style)
+Mating Style
+Amphenol
+With Strain Relief (A)
+Screw Thread (S)
+(For M12)
+ 
+8
+Backshell
+Amphenol
+Without Strain Relief (B)
+Quick (Q)
+Amphenol
+(For M8)
+Straight
+(L)
+Right Angle
+(R)
+Field Installable
+7
+3
+Connector Body(Style)
+Mating Style
+Amphenol
+Screw Thread (S)
+Amphenol
+Without Strain Relief (B)
+8
+Backshell
+Amphenol
+Amphenol
+Straight (L)
+Right Angle (R)
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+3-9  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+                       M8 (Metal)
+        Receptacle > Male Connector 
+                                  
+Find Our Standard Products 
+M8 (Metal) > Receptacle > Male Connector > Front Fastened
+> IEC 61076-2-104
+Amphenol
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+PCB Pin
+-
+8-03PMMP-SF7001
+8-04PMMP-SF7001
+-
+-
+Solder Pin
+-
+8-03PMMS-SF7001
+8-04PMMS-SF7001
+-
+-
+Wire Leads (150mm)
+-
+8-03PMMS-SF715
+8-04PMMS-SF715
+-
+-
+Wire Leads (300mm)
+-
+8-03PMMS-SF730
+8-04PMMS-SF730
+-
+-
+Wire Leads (500mm)
+-
+8-03PMMS-SF750
+8-04PMMS-SF750
+-
+-
+> with alignment Key
+Amphenol
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+PCB Pin
+8A-02PMMP-SF7001 8A-03PMMP-SF7001 8A-04PMMP-SF7001 8A-05PMMP-SF7001 8A-06PMMP-SF7001
+Solder Pin
+8A-02PMMS-SF7001 8A-03PMMS-SF7001 8A-04PMMS-SF7001 8A-05PMMS-SF7001 8A-06PMMS-SF7001
+M8 (Metal) > Receptacle > Male Connector > Rear Fastened
+> IEC 61076-2-104
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+PCB Pin
+-
+8-03PMMP-SH7001 8-04PMMP-SH7001
+-
+-
+Solder Pin
+-
+8-03PMMS-SH7001 8-04PMMS-SH7001
+-
+-
+Wire Leads (150mm)
+-
+8-03PMMS-SH715
+8-04PMMS-SH715
+-
+-
+Wire Leads (300mm)
+-
+8-03PMMS-SH730
+8-04PMMS-SH730
+-
+-
+Wire Leads (500mm)
+-
+8-03PMMS-SH750
+8-04PMMS-SH750
+-
+-
+> with alignment Key
+Amphenol
+Amphenol
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+Solder Pin
+8A-02PMMS-SH7001 8A-03PMMS-SH7001 8A-04PMMS-SH7001 8A-05PMMS-SH7002 8A-06PMMS-SH7002
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-10
+
+M Series Sensor Connector I Find Our Standard Products
+M8 (Metal)  
+Receptacle > Female Connector
+Overmolded with Cable > Male Connector
+IP 65 . 67 9
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M8 (Metal) Receptacle > Female Connector > Rear Fastened
+> IEC 61076-2-104
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+Solder Pin
+-
+8-03PFFS-SH7001
+8-04PFFS-SH7001
+-
+-
+Wire Leads (150mm)
+-
+8-03PFFS-SH715
+8-04PFFS-SH715
+-
+-
+Wire Leads (300mm)
+-
+8-03PFFS-SH730
+8-04PFFS-SH730
+-
+-
+Wire Leads (500mm)
+-
+8-03PFFS-SH750
+8-04PFFS-SH750
+-
+-
+> with alignment Key
+Amphenol
+Amphenol
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+Solder Pin
+8A-02PFFS-SH7001
+8A-03PFFS-SH7001
+8A-04PFFS-SH7001
+8A-05PFFS-SH7002
+8A-06PFFS-SH7002
+M8 (Metal) > Overmolded with cable > Male Connector > Right Angle
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8-03AMMM-SR7
+8-04AMMM-SR7
+-
+-
+Without Strain Relief
+-
+8-03BMMM-SR7
+8-04BMMM-SR7
+-
+-
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8A-02AMMM-SR7
+8A-03AMMM-SR7
+8A-04AMMM-SR7
+8A-05AMMM-SR7
+8A-06AMMM-SR7
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-11  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M8 (Metal)
+Overmolded with Cable > Male / Female Connector
+M8 (Metal) > Overmolded with cable > Male Connector > Straight
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8-03AMMM-SL7
+8-04AMMM-SL7
+-
+-
+Without Strain Relief
+-
+8-03BMMM-SL7
+8-04BMMM-SL7
+-
+-
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8A-02AMMM-SL7
+8A-03AMMM-SL7
+8A-04AMMM-SL7
+8A-05AMMM-SL7
+8A-06AMMM-SL7
+M8 (Metal) > Overmolded with cable > Female Connector > Right Angle
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8-03AFFM-SR7
+8-04AFFM-SR7
+-
+-
+Without Strain Relief
+-
+8-03BFFM-SR7
+8-04BFFM-SR7
+-
+-
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8A-02AFFM-SR7
+8A-03AFFM-SR7
+8A-04AFFM-SR7
+8A-05AFFM-SR7
+8A-06AFFM-SR7
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-12
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M8 (Metal)  
+Overmolded with Cable > Female Connector 
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M8 (Metal) > Overmolded with cable > Female Connector > Straight
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8-03AFFM-SL7
+8-04AFFM-SL7
+-
+-
+Without Strain Relief
+-
+8-03BFFM-SL7
+8-04BFFM-SL7
+-
+-
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8A-02AFFM-SL7
+8A-03AFFM-SL7
+8A-04AFFM-SL7
+8A-05AFFM-SL7
+8A-06AFFM-SL7
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-13  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products          
+M8 (Plastic)
+Receptacle > Male Connector
+Overmolded with Cable > Male Connector
+M8 (Plastic) > Receptacle > Male Connector > Front Fastened
+> IEC 61076-2-104
+Amphenol
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+PCB Pin 
+-
+8P-03PMMP-SF7001
+8P-04PMMP-SF7001
+-
+-
+Solder Pin
+-
+8P-03PMMS-SF7001
+8P-04PMMS-SF7001
+-
+-
+> with alignment Key
+Amphenol
+Backshell: Hexagonal
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+PCB Pin
+8AP-02PMMP-SF7001 8AP-03PMMP-SF7001 8AP-04PMMP-SF7001 8AP-05PMMP-SF7001 8AP-06PMMP-SF7001
+Solder Pin
+8AP-02PMMS-SF7001 8AP-03PMMS-SF7001 8AP-04PMMS-SF7001 8AP-05PMMS-SF7001 8AP-06PMMS-SF7001
+M8 (Plastic) > Overmolded with cable > Male Connector > Right Angle
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8P-03AMMM-SR7
+8P-04AMMM-SR7
+-
+-
+Without Strain Relief
+-
+8P-03BMMM-SR7
+8P-04BMMM-SR7
+-
+-
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8AP-02AMMM-SR7
+8AP-03AMMM-SR7
+8AP-04AMMM-SR7
+8AP-05AMMM-SR7
+8AP-06AMMM-SR7
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-14
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M8 (Plastic)
+Overmolded with Cable > Male / Female Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M8 (Plastic) > Overmolded with cable > Male Connector > Straight
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8P-03AMMM-SL7
+8P-04AMMM-SL7
+-
+-
+Without Strain Relief
+-
+8P-03BMMM-SL7
+8P-04BMMM-SL7
+-
+-
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8AP-02AMMM-SL7
+8AP-03AMMM-SL7
+8AP-04AMMM-SL7
+8AP-05AMMM-SL7
+8AP-06AMMM-SL7
+M8 (Plastic) > Overmolded with cable > Female Connector > Right Angle
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8P-03AFFM-SR7
+8P-04AFFM-SR7
+-
+-
+Without Strain Relief
+-
+8P-03BFFM-SR7
+8P-04BFFM-SR7
+-
+-
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8AP-02AFFM-SR7
+8AP-03AFFM-SR7
+8AP-04AFFM-SR7
+8AP-05AFFM-SR7
+8AP-06AFFM-SR7
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-15  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products           
+M8 (Plastic)
+Overmolded with Cable > Female Connector
+Field Installable > Male / Female Connector 
+M8 (Plastic) > Overmolded with cable > Female Connector > Straight
+> IEC 61076-2-104
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+-
+8P-03AFFM-SL7
+8P-04AFFM-SL7
+-
+-
+Without Strain Relief
+-
+8P-03BFFM-SL7
+8P-04BFFM-SL7
+-
+-
+* Mating style (Quick) also avaliable for 3 & 4 contacts
+> with alignment Key
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+With Strain Relief
+8AP-02AFFM-SL7
+8AP-03AFFM-SL7
+8AP-04AFFM-SL7
+8AP-05AFFM-SL7
+8AP-06AFFM-SL7
+* Mating style (Quick) also avaliable for 3 & 4 contacts
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+M8 (Plastic) > Field Installable > Male Connector > Straight
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+Solder
+-
+-
+-
+-
+Screw-in
+8P-03BMMB-SL7001 8P-04BMMB-SL7001
+Without Strain Relief
+M8 (Plastic) > Field Installable > Female Connector > Straight
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+6 Contacts
+Solder
+-
+-
+-
+-
+Screw-in
+-
+8P-04BFFB-SL7001
+-
+-
+Without Strain Relief
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-16
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M10.5 (Metal)
+Receptacle > Male Connector
+Overmolded with Cable > Male Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M10.5 (Metal) > Receptacle > Male Connector > Rear Fastened
+Backshell: Hexagonal
+Backshell: Circular
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+Backshell: Hexagonal
+Solder Pin (180
+0)
+105-02PMFS-SH7001 105-03PMFS-SH7001 105-04PMFS-SH7001 105-05PMFS-SH7001
+Backshell: Circular
+Solder Pin (180
+0)
+105-02PMFS-SC7001 105-03PMFS-SC7001 105-04PMFS-SC7001 105-05PMFS-SC7001
+M10.5 (Metal) > Overmolded with cable > Male Connector > Right Angle
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+With Strain Relief
+105-02AMMM-SR7A 105-03AMMM-SR7A 105-04AMMM-SR7A 105-05AMMM-SR7A
+Without Strain Relief
+105-02BFMM-SR7A
+105-03BFMM-SR7A
+105-04BFMM-SR7A
+105-05BFMM-SR7A
+M10.5 (Metal) > Overmolded with cable > Male Connector > Straight
+Type
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+With Strain Relief
+105-02AFMM-SL7A
+105-03AFMM-SL7A
+105-04AFMM-SL7A
+105-05AFMM-SL7A
+Without Strain Relief
+105-02BFMM-SL7A
+105-03BFMM-SL7A
+105-04BFMM-SL7A
+105-05BFMM-SL7A
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-17  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products          
+M12 A Code (Metal)
+Receptacle > Male Connector 
+                                           
+M12 A (Metal) > Receptacle > Male Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting
+Thread
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+PG9
+12-03PMMP-SF8001
+12-04PMMP-SF8001
+12-05PMMP-SF8001
+12-08PMMP-SF8001
+PCB Pin (180
+0)
+M16.0
+12-03PMMP-SF8003
+12-03PMMP-SF8004
+12-04PMMP-SF8003
+12-04PMMP-SF8004
+12-05PMMP-SF8003
+12-05PMMP-SF8004
+12-08PMMP-SF8003
+12-08PMMP-SF8004
+M12
+12-03PMMR-SF7001
+12-04PMMR-SF7001
+12-05PMMR-SF7001
+12-08PMMR-SF7001
+M12 (Shielded)
+12S-03PMMR-SF7001
+12S-04PMMR-SF7001
+12S-05PMMR-SF7001
+12S-08PMMR-SF7001
+PCB Pin (90
+0)
+PG9
+12-03PMMR-SF8001
+12-04PMMR-SF8001
+12-05PMMR-SF8001
+-
+M16.0
+12-03PMMR-SF8003
+12-04PMMR-SF8003
+12-05PMMR-SF8003
+-
+PG9
+12-03PMMS-SF8001
+12-04PMMS-SF8001
+12-05PMMS-SF8001
+12-08PMMS-SF8001
+Solder Pin (180
+0)
+M16.0
+12-03PMMS-SF8003
+12-03PMMS-SF8004
+12-04PMMS-SF8003
+12-04PMMS-SF8004
+12-05PMMS-SF8003
+12-05PMMS-SF8004
+12-08PMMS-SF8003
+12-08PMMS-SF8004
+PG9
+12-03PMMS-SF8B15
+12-04PMMS-SF8B15
+12-05PMMS-SF8B15
+12-08PMMS-SF8B15
+Wire Leads
+(150mm)
+M16.0
+12-03PMMS-SF8C15
+12-04PMMS-SF8C15
+12-05PMMS-SF8C15
+12-08PMMS-SF8C15
+PG9
+12-03PMMS-SF8B30
+12-04PMMS-SF8B30
+12-05PMMS-SF8B30
+12-08PMMS-SF8B30
+Wire Leads
+(300mm)
+M16.0
+12-03PMMS-SF8C30
+12-04PMMS-SF8C30
+12-05PMMS-SF8C30
+12-08PMMS-SF8C30
+PG9
+12-03PMMS-SF8B50
+12-04PMMS-SF8B50
+12-05PMMS-SF8B50
+12-08PMMS-SF8B50
+M16.0
+12-03PMMS-SF8C50
+12-04PMMS-SF8C50
+12-05PMMS-SF8C50
+12-08PMMS-SF8C50
+Wire Leads
+(500mm)
+M12 A (Metal) > Receptacle > Male Connector > Rear Fastened
+Type
+Mounting
+Thread
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+PG9
+12-03PMMS-SH8001
+12-04PMMS-SH8001
+12-05PMMS-SH8001
+12-08PMMS-SH8001
+Solder Pin (180
+0)
+M16.0
+12-03PMMS-SH8003
+12-03PMMS-SH8004
+12-04PMMS-SH8003
+12-04PMMS-SH8004
+12-05PMMS-SH8003
+12-05PMMS-SH8004
+12-08PMMS-SH8003
+12-08PMMS-SH8004
+PG9
+12-03PMMS-SH8B15
+12-04PMMS-SH8B15
+12-05PMMS-SH8B15
+12-08PMMS-SH8B15
+Wire Leads
+(150mm)
+M16.0
+12-03PMMS-SH8C15
+12-04PMMS-SH8C15
+12-05PMMS-SH8C15
+12-08PMMS-SH8C15
+PG9
+12-03PMMS-SH8B30
+12-04PMMS-SH8B30
+12-05PMMS-SH8B30
+12-08PMMS-SH8B30
+Wire Leads
+(300mm)
+M16.0
+12-03PMMS-SH8C30
+12-04PMMS-SH8C30
+12-05PMMS-SH8C30
+12-08PMMS-SH8C30
+PG9
+12-03PMMS-SH8B50
+12-04PMMS-SH8B50
+12-05PMMS-SH8B50
+12-08PMMS-SH8B50
+Wire Leads 
+(500mm)
+M16.0
+12-03PMMS-SH8C50
+12-04PMMS-SH8C50
+12-05PMMS-SH8C50
+12-08PMMS-SH8C50
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-18
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 A Code (Metal)
+Receptacle > Female Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 A (Metal) > Receptacle > Female Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting
+Thread
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+PG9
+12-03PFFP-SF8001
+12-04PFFP-SF8001
+12-05PFFP-SF8001
+12-08PFFP-SF8001
+PCB Pin (180
+0)
+M16.0
+12-03PFFP-SF8003
+12-03PFFP-SF8004
+12-03PFFP-SF8005
+12-04PFFP-SF8003
+12-04PFFP-SF8004
+12-04PFFP-SF8005
+12-05PFFP-SF8003
+12-05PFFP-SF8004
+12-05PFFP-SF8005
+12-08PFFP-SF8003
+12-08PFFP-SF8004
+12-08PFFP-SF8005
+M12
+12-03PFFR-SF7001
+12-04PFFR-SF7001
+12-05PFFR-SF7001
+12-08PFFR-SF7001
+M12 (Shielded)
+12S-03PFFR-SF7001
+12S-04PFFR-SF7001
+12S-05PFFR-SF7001
+12S-08PFFR-SF7001
+PCB Pin (90
+0)
+PG9
+12-03PFFR-SF8001
+12-04PFFR-SF8001
+12-05PFFR-SF8001
+-
+M16.0
+12-03PFFR-SF8003
+12-04PFFR-SF8003
+12-05PFFR-SF8003
+-
+PG9
+12-03PFFS-SF8001
+12-04PFFS-SF8001
+12-05PFFS-SF8001
+12-08PFFS-SF8001
+Solder Pin (180
+0)
+M16.0
+12-03PFFS-SF8003
+12-03PFFS-SF8004
+12-04PFFS-SF8003
+12-04PFFS-SF8004
+12-05PFFS-SF8003
+12-05PFFS-SF8004
+12-08PFFS-SF8003
+12-08PFFS-SF8004
+PG9
+12-03PFFS-SF8B15
+12-04PFFS-SF8B15
+12-05PFFS-SF8B15
+12-08PFFS-SF8B15
+Wire Leads
+(150mm)
+M16.0
+12-03PFFS-SF8C15
+12-04PFFS-SF8C15
+12-05PFFS-SF8C15
+12-08PFFS-SF8C15
+PG9
+12-03PFFS-SF8B30
+12-04PFFS-SF8B30
+12-05PFFS-SF8B30
+12-08PFFS-SF8B30
+Wire Leads
+(300mm)
+M16.0
+12-03PFFS-SF8C30
+12-04PFFS-SF8C30
+12-05PFFS-SF8C30
+12-08PFFS-SF8C30
+PG9
+12-03PFFS-SF8B50
+12-04PFFS-SF8B50
+12-05PFFS-SF8B50
+12-08PFFS-SF8B50
+Wire Leads
+(500mm)
+M16.0
+12-03PFFS-SF8C50
+12-04PFFS-SF8C50
+12-05PFFS-SF8C50
+12-08PFFS-SF8C50
+M12 A (Metal) > Receptacle > Female Connector > Rear Fastened
+Type
+Mounting
+Thread
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+PG9
+12-03PFFS-SH8001
+12-04PFFS-SH8001
+12-05PFFS-SH8001
+12-08PFFS-SH8001
+Solder Pin (180
+0)
+M16.0
+12-03PFFS-SH8003
+12-03PFFS-SH8004
+12-04PFFS-SH8003
+12-04PFFS-SH8004
+12-05PFFS-SH8003
+12-05PFFS-SH8004
+12-08PFFS-SH8003
+12-08PFFS-SH8004
+Wire Leads
+(150mm)
+PG9
+12-03PFFS-SH8B15
+12-04PFFS-SH8B15
+12-05PFFS-SH8B15
+12-08PFFS-SH8B15
+Wire Leads
+(300mm)
+PG9
+12-03PFFS-SH8B30
+12-04PFFS-SH8B30
+12-05PFFS-SH8B30
+12-08PFFS-SH8B30
+Wire Leads
+(500mm)
+PG9
+12-03PFFS-SH8B50
+12-04PFFS-SH8B50
+12-05PFFS-SH8B50
+12-08PFFS-SH8B50
+3-19  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products           
+M12 A Code (Metal)
+Overmolded with cable > Male Connector
+M12 A (Metal) > Overmolded with cable > Male Connector > Right Angle
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+With Strain Relief
+12-03AMMM-SR7
+12-04AMMM-SR7
+12-05AMMM-SR7
+12-08AMMM-SR7
+Without Strain Relief
+12-03BMMM-SR7
+12-03BMMM-SR8
+12-04BMMM-SR7
+12-04BMMM-SR8
+12-05BMMM-SR7
+12-05BMMM-SR8
+12-08BMMM-SR7
+12-08BMMM-SR8
+M12 A (Metal) > Overmolded with cable > Male Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+With Strain Relief
+12-03AMMM-SL7
+12-04AMMM-SL7
+12-05AMMM-SL7
+12-08AMMM-SL7
+12-03BMMM-SL7
+12-03BMMM-SL8
+12-04BMMM-SL7
+12-04BMMM-SL8
+12-05BMMM-SL7
+12-05BMMM-SL8
+12-08BMMM-SL7
+12-08BMMM-SL8
+Without Strain Relief
+12S-03BMMM-SL7
+ (Shielded)
+12S-04BMMM-SL7
+(Shielded)
+12S-05BMMM-SL7
+ (Shielded)
+12S-08BMMM-SL7
+ (Shielded)
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-20
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 A Code (Metal) 
+Overmolded with cable > Female Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 A (Metal) > Overmolded with cable > Female Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+With Strain Relief
+12-03AFFM-SR7
+12-04AFFM-SR7
+12-05AFFM-SR7
+12-08AFFM-SR7
+12L-03BFFM-SR7
+(With LED)
+12-03BFFM-SR8
+Without Strain Relief
+12-04BFFM-SR8
+12-05BFFM-SR8
+12-08BFFM-SR8
+M12 A (Metal) > Overmolded with cable > Female Connector > Straight
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+With Strain Relief
+12-03AFFM-SL7
+12-04AFFM-SL7
+12-05AFFM-SL7
+12-08AFFM-SL7
+12S-03BFFM-SL7
+(Shielded)
+12S-04BFFM-SL7
+(Shielded)
+12S-05BFFM-SL7
+(Shielded)
+12S-08BFFM-SL7
+(Shielded)
+Without Strain Relief
+12-03BFFM-SL8
+12-04BFFM-SL8
+12-05BFFM-SL8
+12-08BFFM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-21  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M12 A Code (Metal)
+                 Field Installable > Male / Female Connector
+     
+M12 A (Metal) > Field Installable > Male Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Without Strain Relief
+Screw Type
+12-03BMMB-SR7001
+12-04BMMB-SR7001
+12-05BMMB-SR7001
+-
+M12 A (Metal) > Field Installable > Male Connector > Straight
+Amphenol
+Solder Type
+Amphenol
+Screw Type
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Solder Type
+12-03BMMA-SL8001
+12-04BMMA-SL8001
+12-05BMMA-SL8001
+12-08BMMA-SL8001
+Screw Type
+12-03BMMB-SL7001
+12-04BMMB-SL7001
+12-05BMMB-SL7001
+-
+Without Strain Relief
+M12 A (Metal) > Field Installable > Female Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Without Strain Relief
+Screw Type
+12-03BFFB-SR7001
+12-04BFFB-SR7001
+12-05BFFB-SR7001
+-
+M12 A (Metal) > Field Installable > Female Connector > Straight
+Solder Type
+Amphenol
+Screw Type
+Amphenol
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Solder Type
+12-03BFFA-SL8001
+12-04BFFA-SL8001
+12-05BFFA-SL8001
+12-08BFFA-SL8001
+Screw Type
+12-03BFFB-SL7001
+12-04BFFB-SL7001
+12-05BFFB-SL7001
+-
+Without Strain Relief
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-22
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 A Code (Plastic) 
+Receptacle > Male / Female Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 A (Plastic) > Receptacle > Male Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting
+Thread
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+PCB Pin (90
+0)
+M12
+12P-03PMMR-SF8001
+12P-04PMMR-SF8001
+12P-05PMMR-SF8001
+-
+M12 A (Plastic) > Receptacle > Female Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting
+Thread
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+PCB Pin (180
+0)
+M16.0
+12P-03PFFP-SF8003
+12P-04PFFP-SF8003
+12P-05PFFP-SF8003
+12P-08PFFP-SF8003
+PCB Pin (90
+0)
+M16.0
+12P-03PFFR-SF8003
+12P-04PFFR-SF8003
+12P-05PFFR-SF8003
+-
+M16.0
+12P-03PFFS-SF8003
+12P-04PFFS-SF8003
+12P-05PFFS-SF8003
+12P-08PFFS-SF8003
+Solder Pin (180
+0)
+3-23  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M12 A Code (Plastic)
+                 Overmolded with cable > Male / Female Connector
+     
+M12 A (Plastic) > Overmolded with cable > Male Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Without Strain Relief
+12P-03BMMM-SR8
+12P-04BMMM-SR8
+12P-05BMMM-SR8
+12P-08BMMM-SR8
+M12 A (Plastic) > Overmolded with cable > Male Connector > Straight
+ALTW
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Without Strain Relief
+12P-03BMMM-SL8
+12P-04BMMM-SL8
+12P-05BMMM-SL8
+12P-08BMMM-SL8
+M12 A (Plastic) > Overmolded with cable > Female Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Without Strain Relief
+12P-03BFFM-SR8
+12P-04BFFM-SR8
+12P-05BFFM-SR8
+12P-08BFFM-SR8
+M12 A (Plastic) > Overmolded with cable > Female Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Without Strain Relief
+12P-03BFFM-SL8
+12P-04BFFM-SL8
+12P-05BFFM-SL8
+12P-08BFFM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-24
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 A Code (Plastic)
+Field Installable > Male / Female Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 A (Plastic) > Field Installable > Male Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Solder Type
+-
+-
+-
+-
+Screw Type
+12P-03BMMB-SR7001
+12P-04BMMB-SR7001
+12P-05BMMB-SR7001
+-
+Without Strain Relief
+M12 A (Plastic) > Field Installable > Male Connector > Straight
+Amphenol
+Solder Type
+Amphenol
+Screw
+Type
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Solder Type
+12P-03BMMA-SL7001
+12P-03BMMA-SL8001
+12P-04BMMA-SL7001
+12P-04BMMA-SL8001
+12P-05BMMA-SL7001
+12P-05BMMA-SL8001
+12P-08BMMA-SL8001
+Screw Type
+12P-03BMMB-SL7001
+12P-04BMMB-SL7001
+12P-05BMMB-SL7001
+Without Strain Relief
+M12 A (Plastic) > Field Installable > Female Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Solder Type
+-
+-
+-
+-
+Screw Type
+12P-03BFFB-SR7001
+12P-04BFFB-SR7001
+12P-05BFFB-SR7001
+-
+Without Strain Relief
+M12 A (Plastic) > Field Installable > Female Connector > Straight
+Amphenol
+Solder Type
+Amphenol
+Screw
+Type
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+8 Contacts
+Contact Type
+Solder Type
+12P-03BFFA-SL8001
+12P-04BFFA-SL8001
+12P-05BFFA-SL8001
+12P-08BFFA-SL8001
+Screw Type
+12P-03BFFB-SL7001
+12P-04BFFB-SL7001
+12P-05BFFB-SL7001
+Without Strain Relief
+3-25  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M12 B Code (Metal)
+                Receptacle > Male Connector
+M12 B (Metal) > Receptacle > Male Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+12B-03PMMP-SF8001
+12B-04PMMP-SF8001
+12B-05PMMP-SF8001
+PCB Pin (180
+0)
+M16
+12B-03PMMP-SF8003
+12B-04PMMP-SF8003
+12B-04PMMP-SF8004
+12B-05PMMP-SF8003
+12B-05PMMP-SF8004
+M12
+-
+-
+SBS-05PMMR-SF7001
+PCB Pin (90
+0)
+PG9
+12B-03PMMR-SF8001
+12B-04PMMR-SF8001
+12B-05PMMR-SF8001
+12B-05PMMR-SF7001
+M16
+12B-03PMMR-SF8003
+12B-04PMMR-SF8003
+12B-05PMMR-SF8003
+PG9
+12B-03PMMS-SF8001
+12B-04PMMS-SF8001
+12B-05PMMS-SF8001
+Solder Pin (180
+0)
+M16
+12B-03PMMS-SF8003
+12B-04PMMS-SF8003
+12B-04PMMS-SF8004
+12B-05PMMS-SF8003
+12B-05PMMS-SF8004
+PG9
+-
+-
+12B-05PMMS-SF8B15
+Wire Leads (150mm)
+M16
+-
+-
+12B-05PMMS-SF8C15
+PG9
+-
+-
+12B-05PMMS-SF8B30
+Wire Leads (300mm)
+M16
+-
+-
+12B-05PMMS-SF8C30
+PG9
+-
+-
+12B-05PMMS-SF8B50
+Wire Leads (500mm)
+M16
+-
+-
+12B-05PMMS-SF8C50
+M12 B (Metal) > Receptacle > Male Connector > Rear Fastened
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+12B-03PMMS-SH8001
+12B-04PMMS-SH8001
+12B-05PMMS-SH8001
+PCB Pin (180
+0)
+M16
+12B-03PMMS-SH8003
+12B-04PMMS-SH8003
+12B-04PMMS-SH8004
+12B-05PMMS-SH8003
+12B-05PMMS-SH8004
+PG9
+-
+-
+12B-05PMMS-SH8B15
+Wire Leads (150mm)
+M16
+-
+-
+12B-05PMMS-SH8C15
+PG9
+-
+-
+12B-05PMMS-SH8B30
+Wire Leads (300mm)
+M16
+-
+-
+12B-05PMMS-SH8C30
+PG9
+-
+-
+12B-05PMMS-SH8B50
+Wire Leads (500mm)
+M16
+-
+-
+12B-05PMMS-SH8C50
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-26
+
+M Series Sensor Connector I Find Our Standard Products
+M12 B Code (Metal)  
+Receptacle > Female Connector 
+IP 65 . 67 9
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 B (Metal) Receptacle > Female Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+12B-03PFFP-SF8001
+12B-04PFFP-SF8001
+12B-05PFFP-SF8001
+PCB Pin (180
+0)
+M16
+12B-03PFFP-SF8003
+12B-04PFFP-SF8003
+12B-04PFFP-SF8004
+12B-04PFFP-SF8005
+12B-05PFFP-SF8003
+12B-05PFFP-SF8004
+12B-05PFFP-SF8005
+M12
+-
+-
+SBS-05PFFR-SF7001
+PCB Pin (90
+0)
+PG9
+12B-03PFFR-SF8001
+12B-04PFFR-SF8001
+12B-05PFFR-SF8001
+12B-05PFFR-SF7001
+M16
+12B-03PFFR-SF8003
+12B-04PFFR-SF8003
+12B-05PFFR-SF8003
+PG9
+12B-03PFFS-SF8001
+12B-04PFFS-SF8001
+12B-05PFFS-SF8001
+Solder Pin (180
+0)
+Wire Leads (150mm)
+Wire Leads (300mm)
+Wire Leads (500mm)
+M16
+12B-03PFFS-SF8003
+12B-04PFFS-SF8003
+12B-04PFFS-SF8004
+12B-05PFFS-SF8003
+12B-05PFFS-SF8004
+PG9
+-
+-
+12B-05PFFS-SF8B15
+M16
+-
+-
+12B-05PFFS-SF8C15
+PG9
+-
+-
+12B-05PFFS-SF8B30
+M16
+-
+-
+12B-05PFFS-SF8C30
+PG9
+-
+-
+12B-05PFFS-SF8B50
+M16
+-
+-
+12B-05PFFS-SF8C50
+M12 B (Metal) > Receptacle > Female Connector > Rear Fastened
+Amphenol
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+12B-03PFFS-SH8001
+12B-04PFFS-SH8001
+12B-05PFFS-SH8001
+PCB Pin (180
+0)
+M16
+12B-03PFFS-SH8003
+12B-04PFFS-SH8003
+12B-04PFFS-SH8004
+12B-05PFFS-SH8003
+12B-05PFFS-SH8004
+Wire Leads (150mm)
+PG9
+-
+-
+12B-05PFFS-SH8B15
+Wire Leads (300mm)
+PG9
+-
+-
+12B-05PFFS-SH8B30
+Wire Leads (500mm)
+PG9
+-
+-
+12B-05PFFS-SH8B50
+3-27  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M12 B Code (Metal)
+Overmolded with cable > Male / Female Connector
+M12 B (Metal) > Overmolded with cable > Male Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12B-03BMMM-SR8
+12B-04BMMM-SR8
+12B-05BMMM-SR8
+M12 B (Metal) > Overmolded with cable > Male Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12B-03BMMM-SL8
+12B-04BMMM-SL8
+12B-05BMMM-SL8
+M12 B (Metal) > Overmolded with cable > Female Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12B-03BFFM-SR8
+12B-04BFFM-SR8
+12B-05BFFM-SR8
+MM12 B (Metal) > Overmolded with cable > Female Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12B-03BFFM-SL8
+12B-04BFFM-SL8
+12B-05BFFM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-28
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 B Code (Metal)  
+Field Installable > Male / Female Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 B (Metal) > Field Installable > Male Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+12B-03BMMB-SR7001
+12B-04BMMB-SR7001
+12B-05BMMB-SR7001
+M12 B (Metal) > Field Installable > Male Connector > Straight
+Amphenol
+Solder Type
+Screw Type
+Amphenol
+Contact Type
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Solder Type
+12B-03BMMA-SL8001
+12B-04BMMA-SL8001
+12B-05BMMA-SL8001
+Screw Type
+12B-03BMMB-SL7001
+12B-04BMMB-SL7001
+12B-05BMMB-SL7001
+Without Strain Relief
+M12 B (Metal) > Field Installable > Female Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+12B-03BFFB-SR7001
+12B-04BFFB-SR7001
+12B-05BFFB-SR7001
+M12 B (Metal) > Field Installable > Female Connector > Straight
+Solder Type
+Amphenol
+Screw Type
+Amphenol
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Contact Type
+Solder Type
+12B-03BFFA-SL8001
+12B-04BFFA-SL8001
+12B-05BFFA-SL8001
+Screw Type
+12B-03BFFB-SL7001
+12B-04BFFB-SL7001
+12B-05BFFB-SL7001
+Without Strain Relief
+3-29  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products          
+M12 B Code(Plastic)
+Receptacle > Male / Female Connector
+Overmolded with cable > Male / Female Connector
+M12 B (Plastic) > Receptacle > Male Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PCB Pin (90
+0)
+M12
+-
+-
+SBP-05PMMR-SF8001
+M12 B (Plastic) > Receptacle > Female Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PCB Pin (90
+0)
+M12
+-
+-
+SBP-05PFFR-SF8001
+M12 B (Plastic) > Overmolded with cable > Male Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SBP-03BMMM-SR8
+SBP-04BMMM-SR8
+SBP-05BMMM-SR8
+M12 B (Plastic) > Overmolded with cable > Male Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SBP-03BMMM-SL8
+SBP-04BMMM-SL8
+SBP-05BMMM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-30
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 B Code (Plastic)
+Overmolded with cable > Female Connector
+Field Installable > Male Connector 
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 B (Plastic) > Overmolded with cable > Female Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SBP-03BFFM-SR8
+SBP-04BFFM-SR8
+SBP-05BFFM-SR8
+M12 B (Plastic) > Overmolded with cable > Female Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SBP-03BFFM-SL8
+SBP-04BFFM-SL8
+SBP-05BFFM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+M12 B (Plastic) > Field Installable > Male Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+SBP-03BMMB-SR7001
+SBP-04BMMB-SR7001
+SBP-05BMMB-SR7001
+3-31  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products           
+M12 B Code (Plastic)
+Field Installable > Male / Female Connector 
+M12 B (Plastic) > Field Installable > Male Connector > Straight
+Amphenol
+Solder Type
+Screw Type
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Solder Type
+SBP-03BMMA-SL8001
+SBP-04BMMA-SL8001
+SBP-05BMMA-SL8001
+Screw Type
+SBP-03BMMB-SL7001
+SBP-04BMMB-SL7001
+SBP-05BMMB-SL7001
+Without Strain Relief
+M12 B (Plastic) > Field Installable > Female Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+SBP-03BFFB-SR7001
+SBP-04BFFB-SR7001
+SBP-05BFFB-SR7001
+M12 B (Plastic) > Field Installable > Female Connector > Straight
+Solder Type
+Amphenol
+Amphenol
+Screw Type
+Contact Type
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Solder Type
+SBP-03BFFA-SL8001
+SBP-04BFFA-SL8001
+SBP-05BFFA-SL8001
+Screw Type
+SBP-03BFFB-SL7001
+SBP-04BFFB-SL7001
+SBP-05BFFB-SL7001
+Without Strain Relief
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-32
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 D Code (Metal)
+Receptacle > Male Connector 
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 D (Metal) > Receptacle > Male Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+-
+12D-04PMMP-SF8001
+12D-05PMMP-SF8001
+PCB Pin (180
+0)
+M16.0
+-
+12D-04PMMP-SF8003
+12D-04PMMP-SF8004
+12D-05PMMP-SF8003
+12D-05PMMP-SF8004
+PG9
+-
+12D-04PMMR-SF7001
+12D-04PMMR-SF8001
+-
+PCB Pin (90
+0)
+M12
+12D-04PMMR-SF7007
+-
+-
+M12 (Shielded)
+SDS-04PMMR-SF7007
+PG9
+12D-03PMMS-SF8001
+12D-04PMMS-SF8001
+12D-05PMMS-SF8001
+Solder Pin (180
+0)
+M16.0
+-
+12D-04PMMS-SF8003
+12D-04PMMS-SF8004
+12D-05PMMS-SF8003
+12D-05PMMS-SF8004
+PG9
+-
+12D-04PMMS-SF8B15
+-
+Wire Leads (150mm)
+M16.0
+-
+12D-04PMMS-SF8C15
+-
+PG9
+-
+12D-04PMMS-SF8B30
+-
+Wire Leads (300mm)
+M16.0
+-
+12D-04PMMS-SF8C30
+-
+PG9
+-
+12D-04PMMS-SF8B50
+-
+Wire Leads (500mm)
+M16.0
+-
+12D-04PMMS-SF8C50
+-
+M12 D (Metal) > Receptacle > Male Connector > Rear Fastened
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+12D-03PMMS-SH8001
+12D-04PMMS-SH8001
+12D-05PMMS-SH8001
+Solder Pin (180
+0)
+M16.0
+-
+12D-04PMMS-SH8003
+12D-04PMMS-SH8004
+12D-05PMMS-SH8003
+12D-04PMMS-SH8004
+PG9
+-
+12D-04PMMS-SH8B15
+-
+Wire Leads (150mm)
+M16.0
+-
+12D-04PMMS-SH8C15
+-
+PG9
+-
+12D-04PMMS-SH8B30
+-
+Wire Leads (300mm)
+M16.0
+-
+12D-04PMMS-SH8C30
+-
+PG9
+-
+12D-04PMMS-SH8B50
+-
+M16.0
+-
+12D-04PMMS-SH8C50
+-
+Wire Leads (500mm)
+3-33  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products          
+M12 D Code (Metal)
+                               Receptacle > Female Connector 
+                                                   
+M12 D (Metal) > Receptacle > Female Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+12D-03PFFP-SF8001
+12D-04PFFP-SF8001
+12D-05PFFP-SF8001
+PCB Pin (180
+0)
+M16.0
+-
+12D-04PFFP-SF8003
+12D-04PFFP-SF8004
+12D-04PFFP-SF8005
+12D-05PFFP-SF8003
+12D-05PFFP-SF8004
+12D-05PFFP-SF8005
+PG9
+12D-03PFFR-SF8001
+12D-04PFFR-SF7001
+12D-04PFFR-SF8001
+12D-05PFFR-SF8001
+PCB Pin (90
+0)
+M16.0
+12D-03PFFR-SF8003
+12D-04PFFR-SF8003
+12D-05PFFR-SF8003
+M12
+12D-04PFFR-SF7007
+-
+-
+M12  (Shielded)
+SDS-04PFFR-SF7007
+PG9
+12D-03PFFS-SF8001
+12D-04PFFS-SF8001
+12D-05PFFS-SF8001
+Solder Pin (180
+0)
+M16.0
+12D-03PFFS-SF8003
+12D-04PFFS-SF8003
+12D-04PFFS-SF8004
+12D-05PFFS-SF8003
+12D-05PFFS-SF8004
+PG9
+-
+12D-04PFFS-SF8B15
+-
+Wire Leads (150mm)
+M16.0
+-
+12D-04PFFS-SF8C15
+-
+PG9
+-
+12D-04PFFS-SF8B30
+-
+Wire Leads (300mm)
+M16.0
+-
+12D-04PFFS-SF8C30
+-
+PG9
+-
+12D-04PFFS-SF8B50
+-
+Wire Leads (500mm)
+M16.0
+-
+12D-04PFFS-SF8C50
+-
+M12 D (Metal) > Receptacle > Female Connector > Rear Fastened
+Amphenol
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PG9
+12D-03PFFS-SH8001
+12D-04PFFS-SH8001
+12D-05PFFS-SH8001
+Solder Pin (180
+0)
+M16.0
+12D-03PFFS-SH8003
+12D-04PFFS-SH8003
+12D-04PFFS-SH8004
+12D-05PFFS-SH8003
+12D-05PFFS-SH8004
+Wire Leads (150mm)
+PG9
+-
+12D-04PFFS-SH8B15
+-
+Wire Leads (300mm)
+PG9
+-
+12D-04PFFS-SH8B30
+-
+Wire Leads (500mm)
+PG9
+-
+12D-04PFFS-SH8B50
+-
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-34
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 D Code (Metal)
+Overmolded with cable > Male / Female Connector 
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 D (Metal) > Overmolded with cable > Male Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12D-03BMMM-SR8
+12D-04BMMM-SR8
+12D-05BMMM-SR8
+M12 D (Metal) > Overmolded with cable > Male Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12D-03BMMM-SL8
+12D-04BMMM-SL8
+12D-05BMMM-SL8
+M12 D (Metal) > Overmolded with cable > Female Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12D-03BFFM-SR8
+12D-04BFFM-SR8
+12D-05BFFM-SR8
+M12 D (Metal) > Overmolded with cable > Female Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+12D-03BFFM-SL8
+12D-04BFFM-SL8
+12D-05BFFM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-35  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products           
+M12 D Code (Metal)
+                      Field Installable > Male / Female Connector
+M12 D (Metal) > Field Installable > Male Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+12D-03BMMB-SR7001
+12D-04BMMB-SR7001
+12D-05BMMB-SR7001
+M12 D (Metal) > Field Installable > Male Connector > Straight
+Amphenol
+Solder Type
+Screw Type
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Solder Type
+12D-03BMMA-SL8001
+12D-04BMMA-SL8001
+12D-05BMMA-SL8001
+Screw Type
+12D-03BMMB-SL7001
+12D-04BMMB-SL7001
+12D-05BMMB-SL7001
+Without Strain Relief
+M12 D (Metal) > Field Installable > Female Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+12D-03BFFB-SR7001
+12D-04BFFB-SR7001
+12D-05BFFB-SR7001
+M12 D (Metal) > Field Installable > Female Connector > Straight
+Amphenol
+Solder Type
+Amphenol
+Screw Type
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Contact Type
+Solder Type
+12D-03BFFA-SL8001
+12D-04BFFA-SL8001
+12D-05BFFA-SL8001
+Screw Type
+12D-03BFFB-SL7001
+12D-04BFFB-SL7001
+12D-05BFFB-SL7001
+Without Strain Relief
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-36
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 D Code (Plastic)
+Receptacle > Male / Female Connector 
+Overmolded with cable > Male Connector 
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 D (Plastic) > Receptacle > Male Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PCB Pin (90
+0)
+M12
+-
+SDP-04PMMR-SF8001
+-
+M12 D (Plastic) > Receptacle > Female Connector > Front Fastened
+Backshell: Hexagonal
+Type
+Mounting Thread
+3 Contacts
+4 Contacts
+5 Contacts
+PCB Pin (90
+0)
+M12
+-
+SDP-04PFFR-SF8001
+-
+M12 D (Plastic) > Overmolded with cable > Male Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SDP-03BMMM-SR8
+SDP-04BMMM-SR8
+SDP-05BMMM-SR8
+M12 D (Plastic) > Overmolded with cable > Male Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SDP-03BMMM-SL8
+SDP-04BMMM-SL8
+SDP-05BMMM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-37  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M12 D Code (Plastic)
+                      Overmolded with cable > Female Connector 
+Field Installable > Male Connector 
+M12 D (Plastic) > Overmolded with cable > Female Connector > Right Angle
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SDP-03BFFM-SR8
+SDP-04BFFM-SR8
+SDP-05BFFM-SR8
+M12 D (Plastic) > Overmolded with cable > Female Connector > Straight
+Amphenol
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+SDP-03BFFM-SL8
+SDP-04BFFM-SL8
+SDP-05BFFM-SL8
+M12 D (Plastic) > Field Installable > Male Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+SDP-03BMMB-SR7001
+SDP-04BMMB-SR7001
+SDP-05BMMB-SR7001
+M12 D (Plastic) > Field Installable > Male Connector > Straight
+Solder Type
+Amphenol
+Screw Type
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Solder Type
+SDP-03BMMA-SL8001
+SDP-04BMMA-SL8001
+SDP-05BMMA-SL8001
+Screw Type
+SDP-03BMMB-SL7001
+SDP-04BMMB-SL7001
+SDP-05BMMB-SL7001
+Without Strain Relief
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-38
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 D Code (Plastic)
+Field Installable > Female Connector
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 D (Plastic) > Field Installable > Female Connector > Right Angle
+Amphenol
+Type
+Contact Type
+3 Contacts
+4 Contacts
+5 Contacts
+Without Strain Relief
+Screw Type
+SDP-03BFFB-SR7001
+SDP-04BFFB-SR7001
+SDP-05BFFB-SR7001
+M12 D (Plastic) > Field Installable > Female Connector > Straight
+Amphenol
+Solder Type
+Amphenol
+Screw Type
+Contact Type
+Type
+3 Contacts
+4 Contacts
+5 Contacts
+Solder Type
+SDP-03BFFA-SL8001
+SDP-04BFFA-SL8001
+SDP-05BFFA-SL8001
+Screw Type
+SDP-03BFFB-SL7001
+SDP-04BFFB-SL7001
+SDP-05BFFB-SL7001
+Without Strain Relief
+3-39  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M12 I Style (Metal)
+                      Receptacle > Male / Female Connector (Housing) 
+M12 I (Metal) > Receptacle > Male Connector (Housing) > Front Fastened 
+(Male+Female Contact)
+Backshell: Hexagonal
+Type
+Mounting Thread
+5 Contacts
+PG9
+12-05PMIP-SF8001
+PCB Pin (180
+0)
+M16.0
+12-05PMIP-SF8003
+12-05PMIP-SF8004
+PG9
+12-05PMIR-SF8001
+PCB Pin (90
+0)
+M16.0
+12-05PMIR-SF8003
+PG9
+12-05PMIS-SF8001
+Solder Pin (180
+0)
+M16.0
+12-05PMIS-SF8003
+12-05PMIS-SF8004
+M12 I (Metal) > Receptacle > Male Connector (Housing) > Rear Fastened 
+(Male+Female Contact)
+Type
+Mounting Thread
+5 Contacts
+PG9
+12-05PMIS-SH8001
+M16.0
+12-05PMIS-SH8003
+12-05PMIS-SH8004
+Solder Pin (180
+0)
+M12 I (Metal) > Receptacle > Female Connector (Housing) > Front Fastened
+(Male+Female Contact)
+Backshell: Hexagonal
+Type
+Mounting Thread
+5 Contacts
+PG9
+12-05PFIP-SF8001
+PCB Pin (180
+0)
+M16.0
+12-05PFIP-SF8003
+12-05PFIP-SF8004
+PG9
+12-05PFIR-SF8001
+PCB Pin (90
+0)
+M16.0
+12-05PFIR-SF8003
+PG9
+12-05PFIS-SF8001
+Solder Pin (180
+0)
+M16.0
+12-05PFIS-SF8003
+12-05PFIS-SF8004
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-40
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 I Style (Metal) 
+Receptacle > Female / Male Connector (Housing)
+Overmolded with cable > Male Connector (Housing)
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 I (Metal) > Receptacle > Female Connector (Housing) > Rear Fastened 
+(Male+Female Contact)
+Amphenol
+Type
+Mounting Thread
+5 Contacts
+PG9
+12-05PFIS-SH8001
+M16.0
+12-05PFIS-SH8003
+12-05PFIS-SH8004
+Solder Pin (180
+0)
+M12 I (Metal) > Overmolded with cable > Male Connector (Housing) > 
+Right Angle (Male+Female Contact)
+Type
+5 Contacts
+With Strain Relief
+12-05AMIM-SR7
+Without Strain Relief
+12-05BMIM-SR8
+M12 I (Metal) > Overmolded with cable > Male Connector (Housing) > 
+Straight (Male+Female Contact)
+Amphenol
+Type
+5 Contacts
+With Strain Relief
+12-05AMIM-SL7
+Without Strain Relief
+12-05BMIM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+3-41  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+        M12 I Style (Metal)
+Overmolded with cable > Female / Male Connector (Housing)
+     
+M12 I (Metal) > Overmolded with cable > Female Connector (Housing) > 
+Right Angle (Male+Female Contact)
+Amphenol
+Type
+5 Contacts
+With Strain Relief
+12-05AFIM-SR7
+Without Strain Relief
+12-05BFIM-SR8
+M12 I (Metal) > Overmolded with cable > Female Connector (Housing) > 
+Straight
+Type
+5 Contacts
+With Strain Relief
+12-05AFIM-SL7
+Without Strain Relief
+12-05BFIM-SL8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-42
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M12 I Style (Metal) 
+Field Installable > Female / Male Connector (Housing)
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M12 I (Metal) > Field Installable>Male Connector (Housing) > 
+Straight (Male+Female Contact)
+Type
+Contact Type
+5 Contacts
+Without Strain Relief
+Solder Type
+12P-05BMIA-SL8001
+M12 I (Plastic) > Field Installable > Female Connector (Housing) >
+Straight (Male+Female Contact)
+Amphenol
+Amphenol
+Type
+Contact Type
+5 Contacts
+Without Strain Relief
+Solder Type
+12P-05BFIA-SL8001
+3-43  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+M12 I Style (Plastic)
+Overmolded with cable > Female / Male Connector (Housing)
+M12 I (Plastic) > Overmolded with cable > Female Connector (Housing) > 
+Right Angle (Male+Female Contact)
+Amphenol
+Type
+5 Contacts
+Without Strain Relief
+12P-05BFIM-SR8
+M12 I (Plastic) > Overmolded with cable > Female Connector (Housing) >
+Straight (Male+Female Contact)
+Type
+5 Contacts
+Without Strain Relief
+12P-05BFIM-SL8
+M12 I (Plastic) > Overmolded with cable > Male Connector (Housing) >
+Straight (Male+Female Contact)
+Amphenol
+Amphenol
+Type
+5 Contacts
+Without Strain Relief
+12P-05BMIM-SL8
+M12 I (Plastic) > Overmolded with cable > Male Connector (Housing) >
+Right Angle (Male+Female Contact)
+Amphenol
+Type
+5 Contacts
+Without Strain Relief
+12P-05BMIM-SR8
+Cable Type
+1M
+3M
+5M
+10M
+PVC
+A01
+A02
+A05
+A10
+PU
+B01
+B02
+B05
+B10
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-44
+
+M Series Sensor Connector I Find Our Standard Products
+9
+IP 67 . 68
+M23 Style (Metal)
+Receptacle (Field Installable Typle) > Male Connector (Housing)
+Field Installable > Female Connector (Housing)
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+M23 (Metal) > Receptacle (Field Installable Type) > Male Connector (Housing) 
+> Front Fastened
+Backshell: Hexagonal
+Type
+Contact Gender
+6 Contacts
+Crimp Pin
+Male
+LJ23-06PMMC-SF7001
+M23 (Metal) > Receptacle (Field Installable Type) > Male Connector (Housing) 
+> Front Fastened
+Backshell: Hexagonal
+Type
+Contact Gender
+6 Contacts
+Crimp Pin
+Female
+LJ23-06PMFC-SF7001
+M23 (Metal) > Field Installable > Female Connector (Housing) > Straight
+Type
+Contact Type
+Contact Gender
+6 Contacts
+Without Strain Relief Crimp Pin
+Male
+LJ23-06DFMC-SL7001
+M23 (Metal) > Field Installable > Female Connector (Housing) > Straight
+Type
+Contact Type
+Contact Gender
+6 Contacts
+Without Strain Relief Crimp Pin
+Female
+LJ23-06DFFC-SL7001
+LJ23-06DFFC-SL7002
+3-45  Amphenol LTW Technology Co., Ltd.                                                       
+
+M Series Sensor Connector I Find Our Standard Products
+Heavy Duty Shielded Connector (Metal)
+              Receptacle > Male Connector
+     
+Heavy Duty Shielded Connector (Metal) > Receptacle > Male Connector 
+(Housing) > Front Fastened
+Amphenol
+Backshell: Square
+Mating style: Screw Thread
+Mounting Thread: M3*4 pics
+Current Rating
+Contact Type  Salt Spray Test
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+48H
+-
+-
+LB20-04PMFS-SW8001
+LB20-05PMFS-SW8001
+10A
+PCB Pin (180
+0) 
+/ Female
+500H
+-
+-
+HB20-04PMFS-SW8001
+HB20-05PMFS-SW8001
+48H
+LC20-02PMFS-SW8001
+LC20-03PMFS-SW8001
+-
+-
+PCB Pin (180
+0) 
+/ Female
+20A
+500H
+HC20-02PMFS-SW8001
+HC20-03PMFS-SW8001
+-
+-
+Amphenol
+Backshell: Square
+Mating style: Screw Thread
+Mounting Thread: M3*4 pics
+Current Rating
+Contact Type  Salt Spray Test
+7 Contacts
+10 Contacts
+12 Contacts
+14 Contacts
+48H
+-
+LD20-10PMFS-SW8001
+LD20-12PMFS-SW8001
+LD20-14PMFS-SW8001
+5A
+PCB Pin (180
+0) 
+/ Female
+500H
+-
+HD20-10PMFS-SW8001
+HD20-12PMFS-SW8001
+HD20-14PMFS-SW8001
+48H
+LB20-07PMFS-SW8001
+-
+-
+-
+500H
+HB20-07PMFS-SW8001
+-
+-
+-
+10A
+PCB Pin (180
+0) 
+/ Female
+Heavy Duty Shielded Connector (Metal) > Receptacle > Male Connector 
+(Housing) > Rear Fastened
+Amphenol
+Backshell: Square
+Mating style: Screw Thread With Nut
+Mounting Thread: M20
+Current Rating
+Contact Type  Salt Spray Test
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+48H
+-
+-
+LB20-04PMFS-SN8001
+LB20-05PMFS-SN8001
+10A
+PCB Pin (180
+0) 
+/ Female
+500H
+-
+-
+HB20-04PMFS-SN8001
+HB20-05PMFS-SN8001
+48H
+LC20-02PMFS-SN8001
+LC20-03PMFS-SN8001
+-
+-
+20A
+PCB Pin (180
+0) 
+/ Female
+500H
+HC20-02PMFS-SN8001
+HC20-03PMFS-SN8001
+-
+-
+Amphenol
+Backshell: Square
+Mating style: Screw Thread With Nut
+Mounting Thread: M20
+5A
+PCB Pin (180
+0) 
+/ Female
+10A
+PCB Pin (180
+0) 
+/ Female
+Current Rating
+Contact Type  Salt Spray Test
+7 Contacts
+10 Contacts
+12 Contacts
+14 Contacts
+48H
+-
+LD20-10PMFS-SN8001
+LD20-12PMFS-SN8001
+LD20-14PMFS-SN8001
+500H
+-
+HD20-10PMFS-SN8001
+HD20-12PMFS-SN8001
+HD20-14PMFS-SN8001
+48H
+LB20-07PMFS-SN8001
+-
+-
+-
+500H
+HB20-07PMFS-SN8001
+-
+-
+-
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   3-46
+
+M Series Sensor Connector I Find Our Standard Products
+Heavy Duty Shielded Connector (Metal)
+Field Installable > Female Connector
+     
+IP 65 . 67 9
+Receptacle I Unmated
+Overmolded with Cable I Mated
+Field Installable I Mated
+Heavy Duty Shielded Connector (Metal) > Field Installable > Female Connector
+(Housing) > Straight
+Amphenol
+Without Strain Relief
+Current Rating
+Contact Type  Salt Spray Test
+2 Contacts
+3 Contacts
+4 Contacts
+5 Contacts
+48H
+-
+-
+LB20-04BFMA-SL8001
+LB20-05BFMA-SL8001
+10A
+Solder Type / 
+Male
+500H
+-
+-
+HB20-04BFMA-SL8001
+HB20-05BFMA-SL8001
+48H
+LC20-02BFMA-SL8001
+LC20-03BFMA-SL8001
+-
+-
+Solder Type / 
+Male
+20A
+500H
+HC20-02BFMA-SL8001
+HC20-03BFMA-SL8001
+-
+-
+Amphenol
+Without Strain Relief
+Current Rating
+Contact Type  Salt Spray Test
+7 Contacts
+10 Contacts
+12 Contacts
+14 Contacts
+48H
+-
+LD20-10BFMA-SL8001
+LD20-12BFMA-SL8001
+LD20-14BFMA-SL8001
+500H
+-
+HD20-10BFMA-SL8001
+HD20-12BFMA-SL8001
+HD20-14BFMA-SL8001
+5A
+Solder Type / 
+Male
+48H
+LB20-07BFMA-SL8001
+-
+-
+-
+500H
+HB20-07BFMA-SL8001
+-
+-
+-
+10A
+Solder Type / 
+Male
+3-47  Amphenol LTW Technology Co., Ltd.                                                       
+
+Amphenol LTW
+Memo
+Innovation in Waterproof Solution
+
+Amphenol LTW Technology Co., Ltd. (Headquarter)
+Kunshan plant, China
+9F., No.657-12, Zhongzheng Rd., Xinzhuang Dist., New 
+Taipei City 242, Taiwan
+Telephone: +886-2-29085626   Fax: +886-2-29029787
+www.amphenolltw.com
+No. 62 Da Tung Road, Peng Lang Street, Kunshan City , 
+Jiangsu Province, China
+Telephone: +86-512-5761-0501   
+Fax: : +86-512-5761-0515
+Shulin plant, Taiwan
+For further information, please contact :
+Sales & Marketing Department | Email : sales@ltw-tech.com
+No.10, Shutan St., Shulin Dist., New Taipei City 238, 
+Taiwan 
+Scan to visit our website
+Copyright 2013 by ALTW Technology Co., Ltd Printed in Taiwan 
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  M12A-04PFFC-SH8B50  M12A-04PFFS-SF8001  M12A-05BMMB-SL7001  M12A-12BFFA-SL7001  M12A-08BMMB-
+SL7001  M12A-05BFFB-SR7001  M12A-04BMMB-SR7001  M12A-08BFFB-SL7001  M12A-04BFFB-SL7001  M12A-
+05BFFB-SL7001  M12A-05PMMR-SF8001  M12A-04PMMR-SF8001  M12A-03BFFB-SR7001  M12A-04PFFS-SF8002 
+M12A-08PFFS-SH8001  M12A-12PFFS-SF8001  M12D-04PMMP-SF8001  M12A-12PFFP-SF8001  M12A-03PMMS-
+SF8001  M12A-05PFFP-SF8002  M12A-12PMMS-SH8001  M12A-03BMMB-SL7001  M12A-03PMMS-SH8001  M12A-
+05PFFS-SF8002  M12A-05PMMS-SF8002  M12A-08PMMS-SH8001  M12A-12PMMP-SF8001  M12D-04PFFP-SF8002
+  M12A-08PFFP-SF8001  M12A-03PFFS-SF8001  M12A-08PFFS-SF8002  M12A-08PMMP-SF8001  M12A-12PFFS-
+SH8001  M12D-04PFFS-SH8002  M12A-05PMMP-SF8001  M12A-04PMMS-SF8001  M12A-03PMMS-SH8002  M12A-
+04BMMB-SL7001  M12A-04PMMS-SH8002  M12A-12PMMS-SF8001  M12A-08PFFP-SF8002  M12A-08PMMP-SF8002
+  M12A-04PFFP-SF8001  M12A-04PMMP-SF8001  M12A-05PMMP-SF8002  M12D-04PFFS-SH8001  M12D-04PFFS-
+SF8002  M12A-03PMMP-SF8001  M12A-03PFFP-SF8001  M12A-04PFFS-SH8001  M12A-04PFFS-SH8002  M12A-
+04PMMS-SH8001  M12D-04PFFS-SF8001  M12D-04PMMS-SF8001  M12A-03PFFS-SH8001  M12A-05PFFS-SF8001 
+M12A-08PMMS-SF8002  M12A-03BFFB-SL7001  M12A-08BFFA-SL8001  M12A-04BFFA-SL8001  M12A-05BFFA-
+SL8001  M12A-04BMMA-SL8001  M12A-05BMMA-SL8001  M12A-03BFFA-SL8001  M12D-04BMMA-SL8001  M12A-
+02BFFM-SL8C01  M12A-02BFFM-SL8C02  M12A-02BFFM-SL8C05  M12A-02BFFM-SL8C10  M12A-02BMMM-SL8C01
+  M12A-02BMMM-SL8C02  M12A-02BMMM-SL8C05  M12A-02BMMM-SL8C10  M12A-02PFFP-SF8001  M12A-
+02PMMP-SF8001

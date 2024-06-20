@@ -1,0 +1,72 @@
+G81YAR-P05UJ00-000L
+amc, type_g8
+General information
+Part number
+G81YAR-P05UJ00-000L
+Termination
+pcb
+Size
+1
+Locking principle
+break , push
+Keying
+a_key_amc
+Cable Diameter
+cable_amc_1
+Contact insert description
+Number of contacts
+5
+Contact type
+sockets
+Contact diameter
+09mm
+Insulator material
+peek
+Termination
+pcb
+Termination diameter
+07mm
+reverse_gender_on_request
+Technical information
+Nominal current single contact
+07_a
+iec_60512_5_2
+Nominal current insert
+5,25 A
+vde_0298_4
+Test voltage
+135_kv_ac
+eia_364_20f
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ipsk8_ip6k9k
+Operating temperature
+51_125_c
+Mating cycles
+5000
+mated
+Material and surface treatments
+Housing
+ruthenium
+Contact
+cu_alloy_gold
+safety_text_2
+ul_text
+illustrative_text
+G81YAR-P05UJ00-000L amc, type_g8
+230522
+1 / 1
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  G81YAR-P05UJ00-000L

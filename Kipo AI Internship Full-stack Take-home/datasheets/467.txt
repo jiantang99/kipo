@@ -1,0 +1,128 @@
+ 
+623  Receptacle angled 
+rotatable 
+ 
+12-pin 
+insulation insert uncoded 
+ 
+ 
+ 
+housing code 1 
+flange mount /Flange 25x25 
+Anti-vibration o-ring 
+ 
+Technical Data 
+number of pins 
+12 
+temperature range 
+-20 °C to 130 °C 
+A ED C 052 NN 00 00 1215 000 
+A G C 052 N 00 00 1215 000 
+protection type 
+when connected  IP 66/67 
+rotation range 
+330° 
+ 
+ 
+Electrical Data 
+signal 
+rated current 
+max. 7 A* 
+rated voltage 
+160 V (AC/DC) 
+rated insulation voltage (L-L) 
+2500 V 
+ 
+ 
+ 
+mating cycles 
+500 
+ 
+ 
+Data according to VDE 0110/EN61984, Paragraph 6.19.2.2 
+pollution degree 
+3 
+ 
+over voltage category 
+III 
+max. height for operation 
+2000 m 
+Contact Arrangement 
+mating view 
+ 
+Material 
+housing 
+zinc diecast / chromated 
+insulation insert 
+PBT, UL 94 / V0 
+seals 
+FKM 
+ 
+  
+  
+ 
+ 
+Contacts (not part of product contents) 
+ 
+ 
+Tools (not part of product contents) 
+  
+  
+  
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+© 2018 TE Connectivity 
+ 
+TE Connectivity, TE connectivity (logo), intercontec (logo) and speedtec 
+are trademarks. 
+ 
+While TE Connectivity (TE) has made every reasonable effort to ensure the 
+accuracy of the information in this presentation, TE does not guarantee that it is 
+error-free, nor does TE make any other representation, warranty or guarantee 
+that the information is accurate, correct, reliable or current. TE reserves the 
+right to make any adjustments to the information contained herein at any time 
+without notice. TE expressly disclaims all implied warranties regarding the 
+information contained herein, including, but not limited to, any implied 
+warranties of merchantability or fitness for a particular purpose. The dimensions 
+in this article are for reference purposes only and are subject to change without 
+notice. Specifications are subject to change without notice. Consult TE for the 
+latest dimensions and design specifications. 
+ 
+    
+*for max. wire cross-section 
+ 
+TE Connectivity Industrial GmbH 
+Bernrieder Straße 15 
+94559 Niederwinkling, Deutschland 
+Tel.: +49 9962 2002-0 
+Fax: +49 9962 2002-70 
+E-Mail: intercontec@te.com 
+Web: www.intercontec.biz 
+  pay attention to the 
+Main Dimensions 
+issue: 24.07.2018 
+ 
+  cross-section of used contacts 
+Receptacle angled rotatable 
+ 
+ 
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ TE Connectivity:  
+ 
+  AEDC052NN00001215000

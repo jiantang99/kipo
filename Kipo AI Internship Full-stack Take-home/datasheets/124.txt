@@ -1,0 +1,234 @@
+MKJ Clip Lock (MKJ CL) Miniature Circular Connector 
+Small, Lightweight & Competitively Priced, Our New MKJ CL Connector for Avionics 
+& Cabin System Applications utilizes a Clip Lock Latching System.
+The CANNON Difference
+• Smaller, lighter design packages and configurations
+• Committed partner for off-the-shelf or custom 
+    interconnect solutions 
+• High performance and reliability in the 
+ harshest environments
+The Challenge
+Today’s commercial aerospace manufacturers are 
+increasingly challenged to meet the ongoing demand for 
+lighter, high reliability interconnect solutions that support 
+a wide range of modernized Avionics and Cabin System 
+applications. From high speed data and signal transfer 
+for IFE/C, to glass cockpit functionality and aircraft 
+environmental lighting, there is an increasing need for 
+small, lightweight and competitively priced electrical 
+connectors that deliver the highest level of performance, 
+no matter the conditions or environment.   
+Key Product Features
+The Solution
+ITT Cannon’s new MKJ Clip Lock (MKJ CL) miniature 
+circular connector offers an ideal solution for today’s 
+connectivity needs. Our smaller, lighter MKJ CL 
+interconnect features an innovative clip lock latching 
+system that we repurposed from a design originally 
+used for the automotive industry. By eliminating higher 
+cost components, we transformed it into a mil-style 
+connector with a proven snap on positive lock dimension 
+that is both robust and competitively priced.    
+• Easy-to-use and install with quick connect 
+ clip lock feature
+• Multiple keying options prevent mismating  
+ 
+ with 6 clocking positions  
+ 
+• Available with diverse contact options 
+ - high-density size 23, size 20HD, size 16 
+ or size 12 machined contacts
+•  Fully machined aluminium or stainless steel shells
+• Field repairable
+• Plating: Electroless Nickel, Olive Drab   
+ 
+ Cadmium Black Zinc Nickel and Teflon Nickel
+Markets & Applications 
+COMMERCIAL AEROSPACE
+AVIONICS & CABIN SYSTEMS
+DEFENSE
+MISSILE SYSTEMS & MUNITIONS
+MILITARY
+SOLDIER-WORN COMMUNICATIONS
+MEDICAL
+DIAGNOSTIC & MONITORING EQUIPMENT
+
+MKJ Clip Lock Miniature Circular Connector   
+How to Order | Part Number Configurator
+MKJCL
+1
+A
+1
+7-10
+P
+A
+**
+F
+Series
+MKJCL 
+MKJ Clip Lock Series
+Coupling
+1 
+Positive Locking
+Class
+A  
+Environmental Plug and Receptacle with Banding/Overmolding Attachment
+B   
+Environmental Plug and Receptacle with Threaded Accessory Attachment
+C 
+Potted Plug - PC/Flex/Solder
+J  
+Non-Environmental (un-sealed) Plug and Receptacle with 
+ 
+Banding/Overmolding Attachment
+K 
+Non-Enivornmental with Threaded Accessory Attachment   
+Shell Style
+1 
+In-Line Receptacle.
+6 
+Straight Plug.
+4    
+Plug Flange Mount
+11     
+Plug Flange Mount, Rotated 30 Degrees
+12     
+Plug Flange Mount, Rotated 45 Degrees  
+ 
+ 
+Contact ITT for your additional configuration requirements
+Material/Plating
+F 
+Aluminum/Electroless Nickel
+T 
+Aluminum/Teflon Nickel    
+ 
+     
+W 
+Aluminum/OD Cad  
+Z 
+Aluminum/Zinc Nickel, Black 
+N 
+Stainless Steel/Electroless Nickel            
+Shell Size/Contact Arrangement
+6-1 
+1 Size 16  
+     
+6-23 
+3 Size 20HD 
+6-4 
+4 Size 23 
+6-6 
+6 Size 23
+7-1 
+1 Size 12  
+      
+     
+7-25 
+5 Size 20HD
+7-10 
+10 Size 23 
+9-4 
+4 Size 16 
+9-2 
+10 Size 20HD
+9-19 
+19 Size 23
+Contact Style
+P 
+Pin, Crimp, Removable  
+S  
+Socket, Crimp, Removable
+B   
+Pin, PC Tail  
+D   
+Socket, PC Tail 
+E   
+Pin, Solder Cup, Potted, Non-Removable 
+F   
+Socket, Solder Cup, Potted, Non-Removable
+Shell Clocking (Position)
+Omit for Single Key/Keyway               K1° 
+K2°
+A  
+Normal 
+ 
+ 
+               150° 
+210°
+B 
+Clocking Position B                
+ 95° 
+210°
+C  
+Clocking Position C                 
+135° 
+270°
+D  
+Clocking Position D                 
+110° 
+245°
+E  
+Clocking Position E                 
+285° 
+285°
+F  
+Clocking Position F                 
+105° 
+255°
+Modification Codes
+- F0  
+Less Contacts (“F0” not stamped on the connector, but must be included on the P.O.) 
+- 518 
+Potted connectors sealed are tested to maintain a helium leak rate of less than 1 x 10-4 cc/second 
+ 
+at one atmosphere pressure differential (E & F contact style only)  
+Connect with your ITT Cannon representative today or visit us at www.ittcannon.com
+Follow us
+KOREA
++82.2.702.7111
+UK - Basingstoke
++44.1256.347400
+SHANGHAI
++ 86.21.2231.2222.2
+ITALY - Lainate
++39.02938721
+GERMANY - Weinstadt
++49.7151.699.0
+CHINA - Shenzhen City
++86.755.2726.7888
+MEXICO - Nogales
++52.631.311005
+USA - Irvine, CA
++1.800.854.3028
+SINGAPORE
++65 66974205
+JAPAN - Kanagawa
++81.462.57.2010
+HONG KONG
++852.2732.2720
+FRANCE
++33.1.60.04.93.93
+© 2021 ITT Inc
+ITT Cannon MKJ CL SS 032021
+The “ITT Engineered Blocks“ symbol, “Engineered for life”, “ITT”, “Cannon” and “Veam“ are registered trademarks of ITT Inc.
+Specification and other data are based on information available at the time of printing, and are subject to change without notice.
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ITT Cannon:  
+ 
+  MKJCL1A6F6-6SA  MKJCL1A1Z7-10PA  MKJCL1A1F7-10PA  MKJCL1A6Z9-4SA  MKJCL1A1Z6-6PA  MKJCL1A1Z9-
+4PA  MKJCL1C11F6-6DA  MKJCL1C11Z6-6DA  MKJCL1A1F6-7PA  MKJCL1C12F9-19DA  MKJCL1C11F6-4DA 
+MKJCL1C11F7-10DA  MKJCL1A6Z6-4SA  MKJCL1A1F9-19PA  MKJCL1A6F7-10SA  MKJCL1A6F6-4SA 
+MKJCL1A1F6-4PA  MKJCL1A6F9-4SA  MKJCL1C11Z6-4DA  MKJCL1A1F9-4PA  MKJCL1A6Z7-10SA  MKJCL1A6Z9-
+19SA  MKJCL1A1Z6-4PA  MKJCL1A6Z6-7SA  MKJCL1C11F6-7DA  MKJCL1A1Z9-19PA  MKJCL1C12Z9-19DA 
+MKJCL1C11Z7-10DA  MKJCL1A1F6-6PA  MKJCL1A6F6-7SA  MKJCL1A6Z6-6SA  MKJCL1C11Z6-7DA 
+MKJCL1A1Z6-7PA  MKJCL1A6F9-19SA

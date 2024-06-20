@@ -1,0 +1,131 @@
+FFC.00.250.CTAC27
+www.lemo.com
+SUMMARY
+# Wires
+Coax
+1
+Image is for illustrative purpose only
+Series
+00
+Download
+Male solder
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+0.00 - 0.00
+Cable Ø
+2.30 - 2.70 mm
+Status
+active
+Matching parts
+ERA.00.250.CTL
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FFC*: Straight plug with flats on latch sleeve and cable collet
+Keying
+Circular, male
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+2.90 g
+Performance
+Configuration
+00.250 : 1 Coax (50 Ohm)
+Insulator
+T: PTFE
+Rated Current
+4 Amps
+Specifications
+Contact Type: Coaxial 50 Ohm (Solder) 
+Contact Dia.: 0.7 mm (0.028in) 
+Bucket Dia.: 0.6 mm (0.024in) 
+Test voltage: 2.1 kV (rms) 
+R (max): 6.1 mOhm 
+Vtest: 2100 V (AC), 3000 V (DC) 
+ � 
+Impedance: 50 Ohm 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/3
+
+VSWR: 1.09 + 0.11 * f/GHz 
+Cable type: RG 316 /U 
+Others
+Endurance (Shell): 5000 mating cycles 
+F ret (min): 100 N 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+RECOMMENDED BY LEMO
+Tools
+Spanner wrench: 
+DCD.00.003.PA050
+Cables
+17450
+COPOLYMER
+Black
+18700
+PTFE
+White
+18800
+PTFE
+White
+CCX.50.RG0.58AU14B
+FEP
+White
+CCX.50.RG1.74-U25N
+PVC
+Black
+CCX.50.RG1.74U25N
+PVC
+Black
+CCX.50.RG1.88AU24B
+TFE
+White
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/3
+
+CCX.50.RG1.88AU26B
+PFA
+White
+CCX.50.RG1.88AU26B
+PTFE
+White
+CCX.50.RG3.16BU26M
+FEP
+Brown
+CCX.75.RG1.79BU26M
+FEP
+Brown
+CCX.75.RG1.87AU26B
+PFA
+White
+CCX.75.RG1.87AU27B
+PTFE
+White
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FFC.00.250.CTAC27

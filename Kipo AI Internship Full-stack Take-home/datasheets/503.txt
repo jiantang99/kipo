@@ -1,0 +1,272 @@
+2
+7
+5
+3
+1
+4
+6
+8
+max. 48
+Assembly instruction see N 22 091 0033 U
+14
+F
+F
+(14-a)
+C091 11H014 000 5 U
+C091 11H014 002 5 U
+21
+12
+(12-a)
+C091 11H012 000 5 U
+C091 11H012 002 5 U
+8
+(08-a)
+C091 11H008 000 5 U
+C091 11H008 002 5 U
+E
+E
+cable sealings included in versions for 4-8,5mm cable diameter
+7
+(07-b)
+C091 11H107 000 5 U
+C091 11H107 002 5 U
+6,5
+8,2
+for 4-6mm
+for 6-8,5mm 
+cable diameter
+cable diameter
+Copying of this document and giving it to others and the use
+or communication of the contents thereof, are forbidden with-
+out express authority. Offenders are liable to the payment of
+damages. All rights are reserved in the event of the grant of
+a patent or the registration of the utility model or design.
+7
+cable sealings included in versions for 8,5-10,5mm cable diameter
+(07-a)
+C091 11H007 000 5 U
+C091 11H007 002 5 U
+9,5
+10,5
+for 9,5-10,5mm 
+D
+D
+for 8,5-9,5mm 
+cable diameter
+cable diameter
+6
+(06-a)
+C091 11H006 000 5 U
+C091 11H006 002 5 U
+Number of contacts
+Standard
+3
+4
+5
+5
+6
+7
+7
+8
+12
+14
+Contact arrangement
+IEC 61076-2-106
+03-a
+04-a
+05-a
+05-b
+06-a
+07-a
+07-b
+08-a
+12-a
+14-a
+5
+Rated voltage
+IEC 60664-1
+150 V
+100 V
+32 V
+100 V
+32 V
+(05-b)
+C091 11H105 000 5 U
+C091 11H105 002 5 U
+Rated impulse
+withstand voltage
+IEC 60664-1
+1500 V
+800 V
+15000 V
+800 V
+1)
+Pollution degree
+IEC 60664-1
+3
+5
+Installation category
+IEC 60664-1
+I
+Insulation group
+IEC 60664-1
+II, 400 < CTI < 600
+(05-a)
+C091 11H005 000 5 U
+C091 11H005 002 5 U
+C
+Current rating
+IEC 60512-5-3
+10A/+40°C
+7A/+40°C
+3A/+40°C
+C
+2)
+Insulation resistance
+IEC 60512-3-1
+>10
+10 Ohm
+4
+Contact resistance
+IEC 60512-2-1
+<5mOhm
+(04-a)
+C091 11H004 000 5 U
+C091 11H004 002 5 U
+Climatic category
+IEC 60668-1
+40 / 100 / 21
+Temperatur range
+-40°C...+100°C / -40°F...+212°F
+IP degree
+ÎEC 60529
+IP 68 (in mated condition)
+3
+Insertion and
+withdrawal force
+IEC 60512-13-2
+25N
+30N
+35N
+35N
+50N
+55N
+55N
+60N
+50N
+50N
+(03-a)
+C091 11H003 000 5 U
+C091 11H003 002 5 U
+mechanical operation
+IEC 60512-9-1
+>500 mating cycles
+B
+material housing
+thermoplastic
+Number of contacts
+(Contact
+Part number
+Part number
+dielectric material
+thermoplastic
+Contact arrangement
+View on mating side
+arrangement acc.
+for cable diameters 4-8,5mm
+for cable diameters 8,5-10,5mm
+sealing material
+chloroprene, silicone
+DIN EN 61076-2-106)
+contacts
+silver or gold plated, please order contacts separately acc. to
+Gewicht (errechnet) / Calc WT :
+drawing M-N 01 015 00XX X (3-8pol) or M-N 01 010 0158 X (12-14pol)
+Maßstab / Scale :
+2:1
+Zul. Abw./Tolerances :
+A3
+ 
+termination technique
+crimp
+0,50
+Prüfmaß / Testdimension
+ 
+Teileindex / Partindexnumber: 
+DIN / ISO
+0,09-1,0m
+ 
+CUSTOMER DRAWING
+wire gauge
+0,09-1,0mm²
+0,09-0,75
+Bagatelle change:  
+13715
+  
+mm²
+m²
+0,09-0,75mm²
+0,09-0,25mm²
+19.02.2020
+flamability
+UL 94 VO
+MCARLE
+Drawn
+Gez.
+Kabelstecker Quicklock 
+locking system
+Quicklock System
+Released
+A
+1) designed according pollution degree 2, can be used under pollution degree 3 if the rules according IEC 60664-1 are fulfiled
+25.06.2021
+Gepr.
+Status
+Male cable connector Quicklock
+ 
+8 Ohm
+2) under operating conditions >10
+MBERTSCH
+Checked
+04
+25.06.2021 MCARL
+201800273
+Blatt/Sheet
+MCARL
+17.06.2021
+201800273
+1
+02
+MCARL
+M
+C091 11HXXX 00X 5 U
+01.12.2020
+201800273
+Do not connect or disconnect under load. Metal housing parts shall be securely incoporated to protected ground.
+All technical data have been measured in a laboratory environment and can be different during pratical usage of the product. Any product
+informtion is for descriptive usage only and not legally binding; particulary the information does not constitute or provide any legal guaranties
+("Beschaffenheitsgarantie" or " Haltbarkeitsgarantie").
+03
+Amphenol Tuchel
+Industrial GmbH
+1
+01
+Bl.
+MCARL
+201800273
+25.02.2020
+NXM-V01  FAI2021-002813
+8
+7
+6
+5
+Name
+Datum/Date
+Index
+Änderung/Description
+Ers. f. / Replacement for :
+Weitergabe sowie Vervielfältigung dieser Unterlage, Verwertung
+und Mitteilung ihres Inhalts nicht gestattet, soweit nicht
+ausdrücklich zugestanden. Zuwiderhandlungen verpflichten
+zu Schadenersatz. Alle Rechte für den Fall der Patenterteilung
+oder Gebrauchsmuster-Eintragung vorbehalten.

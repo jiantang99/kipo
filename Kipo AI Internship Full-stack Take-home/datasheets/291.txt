@@ -1,0 +1,143 @@
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+A
+2022-01-03
+Sam Ho
+Rev.01 to A, Initial Released
+5P
+PVC
+6.8
+20
+ASD-05BFFM-QL8FXX
+Contacts
+Cable Jacket
+Cable OD
+AWG
+Item No.
+F
+QC
+L(mm)
+49.9
+E
+14.8
+ASD-XXBFFM-QL8FXX
+    
+                  XX:L=0~99Meters
+                  01:L=1Meters
+                  02:L=2Meters
+                   :
+                  99:L=99Meters
+ 
+       XX: No. Of Pin
+ 
+16.0
+Connector
+D
+Cable
+QC
+Shield  Braid 
+C
+              編織
+5    Yellow   黃
+4    Orange   橘
+3    Red      紅
+2    Brown    棕
+1    Black    黑
+ 
+Pin #    Wire
+B
+5P 
+Pin Assignments 
+Note:
+* RoHS Compliant
+*    Important dimension
+* Waterproof rate: IPX8, mated 1m/24h
+* Connector
+  Housing: Thermoplastic, Black
+  Pin: Copper alloy, Gold plated
+  Shield: Metal
+  Nut: Metal
+  Outer mold: Thermoplastic, Black
+* Cable: UL21996, PVC Jacket, Black
+* Cable length tolerance: 
+    1M: +50/-0 mm
+    1M < L ≦  3M: +100/-0 mm
+    3M < L ≦  5M: +150/-0 mm
+    5M < L ≦ 10M: ±100 mm
+   10M < L ≦ 20M: ±200 mm
+   20M < L ≦ 30M: ±300 mm
+   30M < L ≦ 99M: ±500 mm
+Front View
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+XLOK, A SHLD-5A, 05P, CABLE W/O SR
+Sam Ho
+2021-09-15
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+    TOLERANCE
+ 
+ASD-XXBFFM-QL8FXX
+Fred Lee
+2021-09-15
+2:1
+A4  
+   
+1    
+1
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Fred Lee
+2021-09-15
+A
+QC :Inspection item
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  ASD-05BFFM-QL8F01

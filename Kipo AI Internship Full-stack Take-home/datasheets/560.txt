@@ -1,0 +1,178 @@
+https://www.phoenixcontact.com/pi/products/1047344
+Panel feed-through - IPD WD 5P2,5 M25 GY - 1047344
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Panel feed-through, Push-in connection, number of positions: 4+PE, 0.5 mm² ... 2.5 mm², 690 V, 20 A, light
+gray, cable diameter range: 7 mm ... 11 mm and 11 mm ... 16 mm, Push-in connection
+Your advantages
+ Convenient: quick and easy assembly without special tools
+ Efficient - by using panel feed-throughs, devices no longer need to be opened in order to connect cables
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4055626646152
+Technical data
+General
+Color
+light gray
+Connection method
+Push-in connection
+Push-in connection
+Number of positions
+5
+Note number of positions
+4+PE
+Conductor cross section flexible min.
+0.5 mm²
+Conductor cross section flexible max.
+2.5 mm²
+Conductor cross section solid min.
+0.5 mm²
+Conductor cross section solid max.
+2.5 mm²
+Conductor cross section AWG min.
+20
+Conductor cross section AWG max.
+14
+Cabel
+External cable diameter
+7 mm ... 11 mm
+11 mm ... 16 mm
+09/12/2020   Page 1 / 5
+
+https://www.phoenixcontact.com/pi/products/1047344
+Panel feed-through - IPD WD 5P2,5 M25 GY - 1047344
+Technical data
+Cabel
+Position marking
+1, 2, 3, N, PE
+Ambient conditions
+Degree of protection
+IP66
+IP68 (2 m / 24 h)
+IP69K
+Ambient temperature (operation)
+-40 °C ... 100 °C
+Ambient temperature (storage/transport)
+-40 °C ... 100 °C
+Temperature when conductor connected
+-5 °C ... 50 °C
+Electrical characteristics
+Nominal current IN
+20 A
+Nominal voltage UN
+690 V AC
+690 V DC
+Rated current
+20 A
+Rated voltage (III/3)
+690 V
+Rated surge voltage (III/3)
+6 kV
+Mechanical characteristics
+Frequency of connections
+max. 10
+Insertion/withdrawal cycles
+10
+Category of shock impact
+IK07
+Material data
+Contact material
+Cu
+Overvoltage category
+III
+Degree of pollution
+3
+Standards and Regulations
+Category of shock impact
+IK07
+Halogen-free
+yes
+Environmental Product Compliance
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/12/2020   Page 2 / 5
+
+https://www.phoenixcontact.com/pi/products/1047344
+Panel feed-through - IPD WD 5P2,5 M25 GY - 1047344
+Diagram
+Derating diagram for 1.0 mm²
+Diagram
+Derating diagram for 1.5 mm²
+09/12/2020   Page 3 / 5
+
+https://www.phoenixcontact.com/pi/products/1047344
+Panel feed-through - IPD WD 5P2,5 M25 GY - 1047344
+Diagram
+Derating diagram for 2.5 mm²
+Dimensional drawing
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440602
+eCl@ss 7.0
+27440602
+eCl@ss 8.0
+27440602
+eCl@ss 9.0
+27440602
+09/12/2020   Page 4 / 5
+
+https://www.phoenixcontact.com/pi/products/1047344
+Panel feed-through - IPD WD 5P2,5 M25 GY - 1047344
+Classifications
+ETIM
+ETIM 5.0
+EC002566
+ETIM 6.0
+EC002566
+ETIM 7.0
+EC002566
+Approvals
+Approvals
+Approvals
+VDE Zeichengenehmigung
+Ex Approvals
+Approval details
+ http://www2.vde.com/de/Institut/Online-Service/
+VDE-gepruefteProdukte/Seiten/Online-Suche.aspx
+ 40049992
+VDE Zeichengenehmigung 
+
+ 
+ 
+Nominal voltage UN
+690 V
+Nominal current IN
+20 A
+mm²/AWG/kcmil
+2.5
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/12/2020   Page 5 / 5
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1047344

@@ -1,0 +1,128 @@
+FGG.0B.302.CLAD21
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+2
+Image is for illustrative purpose only
+Series
+0B
+Download
+Male solder
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+28.00 - 20.00
+See video assembly instructions
+Cable Ø
+1.40 - 2.20 mm
+Status
+obsolete
+Alternative part
+FGG.0B.302.CLAD22
+Matching parts
+EGG.0B.302.CLL
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FG*: Straight plug, cable collet
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+8.61 g
+Performance
+Configuration
+0B.302 : 2 Low Voltage
+Insulator
+L: PEEK (UL 94 / V-0/1.5)
+Rated Current
+10 Amps
+Specifications
+Contact Type: Solder 
+Contact Dia.: 0.9 mm (0.035in) 
+Bucket Dia.: 1.0 mm (0.039in) 
+Max. Solid Conductor: 0.56 mm^2 (AWG 20) 
+Max. Stranded Conductor: 0.56 mm^2 (AWG 20) 
+R (max): 4.8 mOhm 
+Vtest (contact-shell): 1050 V (AC), 1490 V (DC) 
+Vtest (contact-contact): 1000 V (AC), 1400 V (DC) 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/3
+
+Others
+Endurance (Shell): 5000 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+L
+M
+S1
+S2
+mm.
+9.5
+36
+26
+8
+7
+in.
+0,37
+1,42
+1,02
+0,31
+0,28
+RECOMMENDED BY LEMO
+Tools
+Spanner wrench: 
+DCD.0B.005.PA070
+Caps: 
+BFG.0B.100.PCSG
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/3
+
+Cables
+20550
+PUR
+Black
+20560
+PUR
+White
+CMB.02.210.635
+PUR
+Black
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FGG.0B.302.CLAD21

@@ -1,0 +1,202 @@
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user 
+documentation. Our general terms of use for downloads are valid.
+Cable gland, material for screw connection: Brass, nickel-plated, external cable diameter 32 mm 
+... 42 mm, shielding: yes, connecting thread: M63 x 1.5, color: silver, with O-ring
+Commercial data
+Item number
+1411194
+Packing unit
+1 pc
+Minimum order quantity
+1 pc
+Sales key
+BF68
+Product key
+BF7DBX
+Catalog page
+Page 690 (C-2-2019)
+GTIN
+4046356923255
+Weight per piece (including packing)
+379.3 g
+Weight per piece (excluding packing)
+379.3 g
+Customs tariff number
+74198090
+Country of origin
+DE
+Aug 25, 2023, 5:16 AM     Page 1 (8)
+
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Technical data
+Mounting
+Assembly instructions
+Method 1 
+Cut the outer sheath, but do not remove it. Feed the cable 
+through the screw connection and then remove the outer sheath. 
+Now pull the cable back until the connection is established 
+between the cable shield and the contact spring. 
+ 
+Method 2 
+Push the braided shield back around 15 ... 20 mm over the outer 
+sheath. Insert the cables into the screw connection until the 
+connection is established between the cable shield and the 
+contact spring.
+Product properties
+Product type
+Full screw connection
+No. of conductors
+1
+Manufacturer
+Jacob
+Manufacturer Designation
+50.663 M/EMVD
+Shielded
+yes
+Execution of the strain relief
+A
+Characteristics
+Category of shock impact
+7
+Design, Strain relief
+A
+Dimensions
+Dimensional drawing
+Length
+52 mm
+Length of the connecting thread
+10 mm
+Hole diameter
+63.1 mm ... 63.3 mm
+Wrench size, union nut
+65 mm
+Wrench size, support
+65 mm
+Hexagon angular dimension
+70 mm
+Thread type connection side
+M63 x 1.5
+Thread pitch
+1.5 mm
+Material specifications
+Color
+Brass
+Material 
+PA 6
+Seal material O-ring
+Perbunan
+Aug 25, 2023, 5:16 AM     Page 2 (8)
+
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Seal material Cable seal
+CR/NBR
+Material for screw connection
+Brass, nickel-plated
+Cable/line
+External cable diameter (Cable 1)
+32 mm ... 42 mm
+Halogen-free
+no
+Environmental and real-life conditions
+Ambient conditions
+Degree of protection
+IP68 (5 bar, 30 minutes)
+Ambient temperature (operation)
+-40 °C ... 100 °C (static)
+Aug 25, 2023, 5:16 AM     Page 3 (8)
+
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Drawings
+Dimensional drawing
+≈52
+10
+70
+M63
+65
+65
+Dimensional drawing
+Functional drawing
+See assembly instruction
+Aug 25, 2023, 5:16 AM     Page 4 (8)
+
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Approvals
+To download certificates, visit the product detail page: https://www.phoenixcontact.com/us/products/1411194
+
+cUL Recognized 
+Approval ID: QCRV8.E140310
+
+UL Recognized 
+Approval ID: QCRV2.E140310
+
+UL Listed 
+Approval ID: QCRV.E140310
+
+cUL Listed 
+Approval ID: QCRV7.E140310
+cULus Recognized
+cULus Listed
+Aug 25, 2023, 5:16 AM     Page 5 (8)
+
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Classifications
+ECLASS
+ECLASS-11.0
+27144432
+ECLASS-12.0
+27140801
+ECLASS-13.0
+27140801
+ETIM
+ETIM 8.0
+EC000441
+UNSPSC
+UNSPSC 21.0
+39121300
+Aug 25, 2023, 5:16 AM     Page 6 (8)
+
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Environmental product compliance
+REACh SVHC
+Lead 7439-92-1
+Environmentally Friendly Use Period = 50 years
+China RoHS
+For information on hazardous substances, refer to the 
+manufacturer’s declaration available under “Downloads”
+Aug 25, 2023, 5:16 AM     Page 7 (8)
+
+G-INSEC-M63-L68N-NCRS-S - Cable gland
+1411194
+https://www.phoenixcontact.com/us/products/1411194
+Accessories
+A-INLE-M63-N-S - EMC nut
+1411274
+https://www.phoenixcontact.com/us/products/1411274
+EMC nut, for threads M63 x 1.5, color: silver
+SEALING PLUG 35X35 RD - Closing cap
+1421865
+https://www.phoenixcontact.com/us/products/1421865
+Closing cap, color: red
+Phoenix Contact 2023 © - all rights reserved 
+https://www.phoenixcontact.com
+Phoenix Contact USA 
+586 Fulling Mill Road 
+Middletown, PA 17057, United States 
+(+717) 944-1300 
+info@phoenixcon.com
+Aug 25, 2023, 5:16 AM     Page 8 (8)

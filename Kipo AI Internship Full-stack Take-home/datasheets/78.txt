@@ -1,0 +1,320 @@
+SJT/TV DATA CONNECTOR 
+ for High-Speed data transmission  
+up to CAT6A, USB 3.0, HDMI, DVI
+Data connector from Series SJT/VG96912 and TV/38999III for  
+High-Speed Data transmission as a complete solution including shielding 
+through SQ-Backshell. 
+Also available as tested harness according to specifications.  
+CAT6A-connection including measurement report. 
+WE CONNECT THE WORLD AND BEYOND
+www.amphenol-airlb.de
+
+DATA CONNECTOR SJT/TV
+TECHNICAL CHARACTERISTICS 
+• 
+Connector according to VG96912 or 38999 III with mechanically protected contact system
+• 
+500 mating cycles, when terminated and connected IP68
+• 
+Operating temperature range: -65°C to +175°C 
+• 
+The data connectors enable the following transmission depending on the contact arrangement:
+• 12-35 according to VG96912-6 / 13-35 according to 38999 III for applications up to Ethernet CAT6A, 
+ 
+ 2 x CAT6, 2 x USB 3.0, HDMI 1.4 or DVI-D
+• 10-35 according to VG96912-6 / 11-35 according to 38999 III for applications up to Ethernet CAT6 or USB 3.0
+• 
+Wire size of the 22D crimp contacts AWG28-22 / 0.09-0.38mm²
+DATA CONNECTOR SJTxx12-35 OR TVxx13-35 ENABLES THE FOLLOWING APPLICATIONS
+• 
+10Gbit Ethernet = CAT6A according to ISO / IEC 11801 up to 500 MHz 
+• 
+up to 2 x 1Gbit Ethernet = CAT6 according to ISO / IEC 11801 up to 250 MHz
+• 
+up to 2 x USB 3.0 (max. 5 Gbit / s)
+• 
+HDMI (up to 1.4), DVI-D
+• 
+The connector SJTG06RT12-35Dx 0xx SQ fulfills category CAT6A with a connected CAT7-HFFR cable of type 
+VG95218T031B001 and pin assignment according to VG96912-6
+Contact assignment according to VG96912-6:
+MEASUREMENT ACCORDING TO ISO / IEC 61935-1 AND 11801-1-4, IEEE 802.3
+PRE-ASSEMBLED CAT6A DATA CABLE ACCORDING TO VG96912-6 ASSIGNMENT, L = 50M
+
+OVERVIEW OF CONNECTION ASSIGNMENTS SJTxx12-35 OR TVxx13-35
+DIMENSIONS SJT DATA PLUG, CONTACT ARRANGEMENT 12-35
+• 
+Straight plug with shielded backshell: SJTG06RT12-35Dx 0xx SQ
+(x= Contact type Pin or Socket / xx= Plating)
+• 
+Shielded SQ-Backshell (Basic form VG96912L12, 42415-053, VG96912L12B, 42415-063-029J)
+• 
+Needed heat shrink boot :
+Ordering example TE, version inclusive adhesive coating :
+0°= 202 K132-25/225-0 or 90°= 222 K132-25/225-0
+DIMENSIONS SJT DATA FLANGE RECEPTACLE, CONTACT ARRANGEMENT 12-35
+• 
+Flange receptacle : SJT00RT12-35Dx 0 xx SQ
+(x= Contact type Pin or Socket / xx= Plating)
+• 
+SQ-backshell (if needed) : cadmium-plated VG96912L12, nickel-plated 42415-053, marine bronze VG96912L12B, 
+J version 42415-063-029J
+• 
+Electrically conductive seal with 80 dB screening attenuation: EF-D12-Y3-A
+
+DIMENSIONS SJT DATA JAM NUT RECEPTACLE, CONTACT ARRANGEMENT 12-35
+• 
+Jam nut receptacle SJT07RT12-35Dx 0 xx SQ
+(x= Contact type Pin or Socket / xx= Plating)
+• 
+SQ-backshell (if needed): cadmium-plated VG96912L014, nickel-plated 42417-055, marine bronze 
+VG96912L014B, J-version 42417-065-029J
+• 
+Electrically conductive seal with 80 dB attenuation: EL-DH12-Y3-A
+DATA CONNECTOR SJTxx10-35 OR TVxx11-35 ENABLES THE FOLLOWING APPLICATIONS
+• 
+1Gbit Ethernet = CAT6 according to ISO/IEC 11801, DIN EN 50173-1 up to 250 MHz
+• 
+USB 3.0 (max. 5 Gbit/s)
+• 
+The connector SJTG06RT10-35Dx 0xx SQ fulfills the category CAT6 with a connected CAT7-HFFR cable of type 
+191-031200-xx (VG95218T031B001) or CAT6A-HFFR of type 191-031179-00 and the specified contact assign- 
+ment
+Contact assignment :
+MEASUREMENT ACCORDING TO ISO/IEC 61935-1 AND 11801-1-4, IEEE 802.3
+PRE-ASSEMBLED CAT6 DATA CABLE, L = 50M 
+
+OVERVIEW CONTACT ASSIGNMENTS SJTXX10-35 OR TVXX11-35
+DIMENSIONS SJT DATA PLUG, CONTACT ASSIGNMENT 10-35
+• 
+Straight plug with shielded backshell : SJTG06RT10-35Dx 0xx SQ
+(x= Contact type Pin or Socket / xx= Plating)
+• 
+Shielded SQ-Backshell (Basic form VG96912L003, 42416 053, VG96912L003B, 42416-063-029J)
+• 
+Needed heat shrink boot :
+Ordering example TE, version inclusive adhesive coating : 
+0°= 202 K132-25/225-0 bzw. 90°= 222 K132-25/225-0
+DIMENSIONS SJT DATA FLANGE RECEPTACLE, CONTACT ASSIGNMENT 10-35 
+• 
+Flange receptacle : SJT00RT10-35Dx 0 xx SQ
+• 
+(x= Contact type Pin or Socket / xx= Plating)
+• 
+SQ-backshell (if needed): cadmium-plated VG96912L003, nickel-plated 42416 053, marine bronze VG96912L003B, 
+in J-version 42416-063-029J
+• 
+Electrically conductive seal with 80 dB screening attenuation: EF-D10-Y3-A
+
+DIMENSIONS SJT DATA JAM NUT RECEPTACLE, CONTACT ASSIGNMENT 10-35
+• 
+Jam nut receptacle SJT07RT10-35Dx 0 xx SQ
+• 
+(x= Contact type Pin or Socket / xx= Plating)
+• 
+SQ-backshell (if needed): VG96912L12, nickel-plated 42415 053, marine bronze VG96912L12B,  
+J-version 42415-063-029J
+• 
+Electrically conductive seal with 80 dB attenuation: EL-DH10-Y3-A
+AVAILABLE SJT DATA CONNECTORS IN CADMIUM-PLATED VERSION
+Cadmium-plated version, contact arrangement 12-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT12-35DP 014 SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT12-35DS 014 SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT12-35DP 014
+• 
+Flange receptacle with socket contacts : 
+SJT00RT12-35DS 014
+• 
+Jam nut receptacle with pin contacts : 
+SJT07RT12-35DP 014
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT12-35DS 014
+Cadmium-plated version, contact arrangement 10-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT10-35DP 014 SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT10-35DS 014 SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT10-35DP 014
+• 
+Flange receptacle with socket contacts :  
+SJT00RT10-35DS 014
+• 
+Jam nut receptacle with pin contacts :  
+SJT07RT10-35DP 014
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT10-35DS 014
+AVAILABLE SJT DATA CONNECTORS IN MARINE BRONZE 
+Marine bronze version, contact arrangement 12-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT12-35DP F6 SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT12-35DS F6 SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT12-35DP F6
+• 
+Flange receptacle with socket contacts :  
+SJT00RT12-35DS F6
+• 
+Jam nut receptacle with pin contacts :  
+SJT07RT12-35DP F6
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT12-35DS F6
+Marine bronze version, contact arrangement 10-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT10-35DP F6 SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT10-35DS F6 SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT10-35DP F6
+• 
+Flange receptacle with socket contacts :  
+SJT00RT10-35DS F6
+• 
+Jam nut receptacle with pin contacts :  
+SJT07RT10-35DP F6
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT10-35DS F6
+
+AVAILABLE SJT DATA CONNECTORS IN NICKEL-PLATED VERSION
+Nickel-plated version, contact arrangement 12-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT12-35DP 023 SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT12-35DS 023 SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT12-35DP 023
+• 
+Flange receptacle with socket contacts :  
+SJT00RT12-35DS 023
+• 
+Jam nut receptacle with pin contacts :  
+SJT07RT12-35DP 023
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT12-35DS 023
+Nickel-plated version, contact arrangement 10-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT10-35DP 023 SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT10-35DS 023 SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT10-35DP 023
+• 
+Flange receptacle with socket contacts :  
+SJT00RT10-35DS 023
+• 
+Jam nut receptacle with pin contacts :  
+SJT07RT10-35DP 023
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT10-35DS 023
+SJT DATA CONNECTORS IN J-VERSION (ZINC TIN) AVAILABLE FROM MID 2021
+J-Version, contact arrangement 12-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT12-35DP 029J SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT12-35DS 029J SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT12-35DP 029J
+• 
+Flange receptacle with socket contacts :  
+SJT00RT12-35DS 029J
+• 
+Jam nut receptacle with pin contacts : 
+SJT07RT12-35DP 029J
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT12-35DS 029J
+J-Version, contact arrangement 10-35 according to VG96912:
+• 
+Plug with pin contacts :  
+ 
+ 
+SJTG06RT10-35DP 029J SQ
+• 
+Plug with socket contacts :   
+ 
+SJTG06RT10-35DS 029J SQ
+• 
+Flange receptacle with pin contacts :   
+SJT00RT10-35DP 029J
+• 
+Flange receptacle with socket contacts :  
+SJT00RT10-35DS 029J
+• 
+Jam nut receptacle with pin contacts :  
+SJT07RT10-35DP 029J
+• 
+Jam nut receptacle with socket contacts :  
+SJT07RT10-35DS 029J
+These data connectors are also available as TVxx11-35 and TVxx13-35 on request.
+SJT Datensteckverbinder
+Änderungen vorbehalten.
+© 02/2021 V.30092021 by Amphenol-Air LB, Deutschland
+WE CONNECT THE WORLD AND BEYOND
+www.amphenol-airlb.de
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  SJT00RT10-35DS014  SJT00RT10-35DS029J  SJT00RT12-35DS014  SJT00RT12-35DS029J  SJT07RT10-35DS014
+  SJT07RT10-35DS029J  SJT07RT12-35DS014  SJT07RT12-35DS029J  SJTG06RT10-35DP014SQ  SJTG06RT10-
+35DP029JSQ  SJTG06RT12-35DP014SQ  SJTG06RT12-35DP029JSQ

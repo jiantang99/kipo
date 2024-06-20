@@ -1,0 +1,295 @@
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Cable connector, straight, SPEEDCON locking, M17, number of positions: 17, type of contact: Socket,
+shielded: yes, cable diameter range: 9 mm ... 11.2 mm, number of positions: 17, connection method: Crimp
+connection
+The figure shows the 8-pos. product
+version
+Your advantages
+ Reduced size: ideal for compact devices
+ Consistent EMC protection for reliable connection solutions in the industrial environment
+ Crimping connection: vibration- and temperature-resistant assembly
+ Flexible use: reliably connect various cable diameters
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4046356708616
+Technical data
+General
+Note
+Order information: Order crimp contacts Ø 0.6 mm separately
+Type of locking
+SPEEDCON locking
+Direction of rotation of contact chamber numbering
+Standard
+Coding
+N
+Contact connection method
+Crimp connection
+Type of contacts
+Socket
+Number of positions
+17
+Contact diameter of power contacts
+0.6 mm
+Rated current for power contacts
+3.6 A
+Conductor entry
+9 mm ... 11.2 mm
+Pg housing screw connection
+none
+09/11/2020   Page 1 / 8
+
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Technical data
+Ambient conditions
+Ambient temperature
+-40 °C ... 125 °C
+Degree of protection
+IP67
+Specifications according to DIN EN 61984:2001
+Installation height max.
+3000 m
+Nominal / operating voltage of power contacts
+60 V
+Rated surge voltage of power contacts
+1.5 kV
+Overvoltage category of power contacts
+III
+Degree of pollution of power contacts
+3
+Standards and Regulations
+Safety note
+WARNING: The connectors may not be plugged in or disconnected
+under load. Ignoring the warning or improper use may damage persons
+and/or property.
+• WARNING: Commission properly functioning products only. The
+products must be regularly inspected for damage. Decommission
+defective products immediately. Replace damaged products. Repairs
+are not possible.
+• WARNING: Only electrically qualified personnel may install and
+operate the product. They must observe the following safety notes.
+The qualified personnel must be familiar with the basics of electrical
+engineering. They must be able to recognize and prevent danger. The
+relevant symbol on the packaging indicates that only personnel familiar
+with electrical engineering are allowed to install and operate the product.
+• The products are suitable for applications in plant, controller, and
+electrical device engineering.
+• When operating the connectors in outdoor applications, they must be
+separately protected against environmental influences.
+• Assembled products may not be manipulated or improperly opened.
+• Only use mating connectors that are specified in the technical data
+of the standards listed (e.g. the ones listed in the product accessories
+online at phoenixcontact.com/products).
+• When using the product in direct connection with third-party
+manufacturers, the user is responsible.
+• For operating voltages > 50 V AC, conductive connector housings must
+be grounded
+• Ensure that the protective or functional ground has been properly
+connected.
+• VDE 0100/1.97 § 411.1.3.2 and DIN EN 60 204/11.98 § 14.1.3 are
+applicable when combining several circuits in a cable and/or connector
+• Only use tools recommended by Phoenix Contact
+• The installation notes/Design In documents online on the download
+page at phoenixcontact.com/products must be observed for this product.
+• Operate the connector only when it is fully plugged in and interlocked.
+• Ensure that when laying the cable, the tensile load on the connectors
+does not exceed the upper limit specified in the standards.
+• Observe the minimum bending radius of the cable. Lay the cable
+without twisting it.
+09/11/2020   Page 2 / 8
+
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Technical data
+Standards and Regulations
+• The connector warms up in normal operation. Depending on the
+ambient conditions, the surface of the connector can continue to warm
+up. In this case, the user is responsible for posting warnings (e.g. DIN
+EN ISO 13732-1:2008-12).
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+Diagram
+I = current strength, ϑ = ambient temperature, 17x 3.6 A
+09/11/2020   Page 3 / 8
+
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Dimensional drawing
+09/11/2020   Page 4 / 8
+
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Schematic diagram
+Connector pin assignment
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27260700
+eCl@ss 4.1
+27260700
+eCl@ss 5.0
+27260700
+eCl@ss 5.1
+27260700
+eCl@ss 6.0
+27260700
+eCl@ss 7.0
+27440102
+eCl@ss 8.0
+27440102
+eCl@ss 9.0
+27440102
+09/11/2020   Page 5 / 8
+
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Classifications
+ETIM
+ETIM 3.0
+EC001121
+ETIM 4.0
+EC002635
+ETIM 5.0
+EC002635
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+43172015
+UNSPSC 7.0901
+43201404
+UNSPSC 11
+43172015
+UNSPSC 12.01
+43201404
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / cUL Recognized / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 335019
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+60 V
+Nominal current IN
+1 A
+mm²/AWG/kcmil
+26
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 335019
+cUL Recognized 
+
+ 
+ 
+Nominal voltage UN
+60 V
+09/11/2020   Page 6 / 8
+
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Approvals
+ 
+ 
+Nominal current IN
+1 A
+mm²/AWG/kcmil
+26
+ 
+ B.01687
+EAC 
+
+ 
+ 
+cULus Recognized 
+
+Accessories
+Accessories
+Crimp contact
+Crimp contact - ST-06KS010 - 1607580
+Crimp contact, turned, contact diameter: 0.6 mm, crimp range: 0.06 mm² ... 0.25 mm²
+ 
+ 
+Crimp contact - ST-06KS020 - 1607581
+Crimp contact, turned, contact diameter: 0.6 mm, crimp range: 0.14 mm² ... 0.34 mm²
+ 
+ 
+Crimp contact - ST-06KS030 - 1607582
+Crimp contact, turned, contact diameter: 0.6 mm, crimp range: 0.34 mm² ... 0.5 mm²
+ 
+ 
+Mounting material
+09/11/2020   Page 7 / 8
+
+https://www.phoenixcontact.com/pi/products/1613325
+Cable connector - ST-17S1N8A8K04S - 1613325
+Accessories
+Color-coding - ST-Z0016 - 1617993
+Color-coding, color: green
+ 
+ 
+Color-coding - ST-Z0017 - 1618049
+Color-coding, color: orange
+ 
+ 
+Color-coding - ST-Z0018 - 1618050
+Color-coding, color: black
+ 
+ 
+Protective cover
+Protective cap - ST-Z0024 - 1621904
+Plastic protection cap for connectors with M17 compact knurled nut and M17 compact SPEEDCON knurled nut
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 8 / 8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1613325

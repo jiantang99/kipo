@@ -1,0 +1,1224 @@
+Amphenol 
+ 
+Circular Interconnects 
+ 
+ECTA 544 Plastic Circular Push-Pull IP67 Connector System with Crimp Contacts 
+Mechanical 
+Temp Range 
+ 
+– -40°C ~ 125°C 
+Durability 
+Machined Contacts – 1000 Cycles 
+Stamped Contacts – 250 Cycles 
+ 
+Materials 
+Shells  
+ 
+ 
+– Thermoplastic UL94V-0 
+Contacts 
+ 
+ 
+– Copper Alloy 
+Contact Plating  
+– Gold over Nickel 
+Inserts   
+ 
+ 
+– Thermoplastic UL94V-0 
+ 
+Also Available 
+Polarization  
+ 
+– 3 Positions 
+Contacts 
+ 
+ 
+– Fibre Optic and Coaxial 
+ Right Angle Plugs & In-Line Receptacles 
+Related Information 
+Tools 
+ 
+ 
+ 
+– Catalogue ECTA 544 
+Contacts for Connectors must be ordered separately see below 
+Plug ØD 
+Backshell 
+Mating Halves ( If Plug has Pins, Receptacle must have Sockets) 
+Shell 
+mm 
+Type 
+Cable Ø 
+In-Line Plug includes backshell 
+Square Flange Receptacle 
+MDA 
+2~6mm 
+1 
+24.8 
+MDB 
+4~8mm 
+MDA 
+7~12mm 
+2 
+32.5 
+MDB 
+10~14m
+m 
+MDA 
+9~16mm 
+ 
+ 
+3 
+38.8 
+MDB 
+13~18m
+m 
+Part Number 
+Part Number 
+Inserts 
+Sockets 
+Pins 
+Sockets 
+Pins 
+Sockets 
+Pins 
+103 
+5440MDA103F 
+5440MDA103M 
+5440MDB103F 
+5440MDB103M 
+5440E103F 
+5440E103M 
+105 
+5440MDA105F 
+5440MDA105M 
+5440MDB105F 
+5440MDB105M 
+5440E105F 
+5440E105M 
+107 
+5440MDA107F 
+5440MDA107M 
+5440MDB107F 
+5440MDB107M 
+5440E107F 
+5440E107M 
+203 
+5440MDA203F 
+5440MDA203M 
+5440MDB203F 
+5440MDB203M 
+5440E203F 
+5440E203M 
+205 
+5440MDA205F 
+5440MDA205M 
+5440MDB205F 
+5440MDB205M 
+5440E205F 
+5440E205M 
+209 
+5440MDA209F 
+5440MDA209M 
+5440MDB209F 
+5440MDB209M 
+5440E209F 
+5440E209M 
+212 
+5440MDA212F 
+5440MDA212M 
+5440MDB212F 
+5440MDB212M 
+5440E212F 
+5440E212M 
+219 
+5440MDA219F 
+5440MDA219M 
+5440MDB219F 
+5440MDB219M 
+5440E219F 
+5440E219M 
+293 
+5440MDA293F 
+5440MDA293M 
+5440MDB293F 
+5440MDB293M 
+5440E293F 
+5440E293M 
+295 
+5440MDA295F 
+5440MDA295M 
+5440MDB295F 
+5440MDB295M 
+5440E295F 
+5440E295M 
+327 
+5440MDA327F 
+5440MDA327M 
+5440MDB327F 
+5440MDB327M 
+5440E327F 
+5440E327M 
+ 
+Inserts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insert 
+Representation 
+ 
+Inserts Shown from 
+the Plug Mating 
+Side 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+209 
+9 
+630V/5A or 10A 
+205 
+5 
+800V/25A 
+203 
+3 
+1000V/25A 
+107 
+7 
+630V/5A or 10A 
+105 
+5 
+630V/5A or 10A 
+103 
+3 
+1000V/5A or 10A 
+Insert 
+Contacts 
+Rating 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insert 
+Representation 
+ 
+Inserts Shown from 
+the Plug Mating 
+Side 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+327 
+27 
+630V/5A or 10A 
+295 
+5 
+1000V/15A 
+293 
+3 
+1000V/15A 
+219 
+19 
+630V/5A or 10A 
+212 
+12 
+630V/5A or 10A 
+Insert 
+Contacts 
+Rating 
+ 
+Crimp Contacts 
+Machined Contacts 
+Stamped Contacts 
+Part Numbers 
+Part Numbers 
+Pins 
+Sockets 
+Wire Ø 
+Max 
+Contacts
+/Package 
+Current 
+Pins 
+Sockets 
+Wire Ø 
+Max 
+Contacts
+/Package 
+Current 
+5440020M100 
+5440020F100 
+2.6 
+10A 
+5440220M100 
+5440220F100 
+1.52 
+5440016M100 
+5440016F100 
+3.2 
+15A 
+5440320M100 
+5440320F100 
+1.02 
+100 
+5A 
+5440012M100 
+5440012F100 
+4.5 
+100 
+25A 
+Consult representative for Crimp Toll requirements. Contacts on Strips available. 
+ 
+Accessories 
+Caps 
+For Receptacles 
+For Plugs 
+Shell Size 
+Part Number 
+Shell Size 
+Part Number 
+1 
+54401BE 
+1 
+54401BM 
+2 
+54402BE 
+2 
+54402BM 
+ 
+3 
+54403BE 
+3 
+54403BM 
+ 
+Part Number 
+Shell 
+Description 
+Description 
+Shell 
+Part Number 
+5440JT01 
+1 
+1 
+5440OT01 
+5440JT02 
+2 
+2 
+5440OT02 
+O Ring Seal for 
+Receptacles 
+Insert/Extract Tool to 
+Disconnect Insert 
+and Extract Contacts 
+3 
+5440OT03 
+ 
+ 
+5440JT03 
+3 
+AirLB 
+Current indicated as maximum/contact at 40°C. IP67 
+ 
+D-23 
+
+Amphenol 
+ 
+Circular Interconnects 
+ 
+ECTA 133 Metal Circular Push-Pull IP67 Connector System 
+Also Available 
+Terminations 
+ 
+– Crimp and PCB 
+Polarization  
+ 
+– 4 Positions 
+Shells  
+ 
+ 
+– Various next page 
+Other  
+ 
+ 
+– Fibre Optic Inserts 
+ 
+ 
+ 
+ 
+ 
+Materials 
+Shells  
+ 
+ 
+– Aluminum Alloy 
+Shell Plating 
+ 
+– Nickel 
+Locking Ring 
+ 
+– Black Anodized 
+Contacts 
+ 
+ 
+– Copper Alloy 
+Contact Plating  
+– Gold over Nickel 
+Inserts   
+ 
+ 
+– Fiber Glass UL94-V0 
+ 
+Mechanical 
+Temp Range 
+ 
+– -40°C ~ 125°C 
+Durability 
+ 
+ 
+– 1000 Cycles 
+ 
+Related Information 
+Full Catalogue  
+– ECTA 133 
+Accessories 
+ 
+– Next Page 
+Tools 
+ 
+ 
+ 
+– Catalogue ECTA 133 
+Connector Solutions below are Solder Terminated Standard Polarization (for Crimp replace ‘Z’ with ‘S’ and for PCB with ‘Y’) 
+Plug ∅D 
+Mating Halves (Plug mates with any one type of Receptacle. If Plug has Pins, Receptacle must have Sockets) 
+Shell 
+mm 
+Receptacle 
+Plug 
+0 
+15 
+Requires Backshell 
+Requires Backshell 
+1 
+20 
+2 
+24 
+3 
+26 
+4 
+30.5 
+5 
+36 
+6 
+49.8 
+7 
+56.2 
+ 
+ 
+ 
+ 
+Inserts 
+Square Flange 
+Jam Nut 
+In-Line 
+In-Line 
+Power 
+Signal 
+Sockets 
+Pins 
+Sockets 
+Pins 
+Sockets 
+Pins 
+Sockets 
+Pins 
+ 
+003 
+1332E003FZ 
+1332E003MZ 
+1332EV003FZ 
+1332EV003MZ 
+1332P003FZ 
+1332P003MZ 
+1332M003FZ 
+1332M003MZ 
+ 
+006 
+1332E006FZ 
+1332E006MZ 
+1332EV006FZ 
+1332EV006MZ 
+1332P006FZ 
+1332P006MZ 
+1332M006FZ 
+1332M006MZ 
+ 
+103 
+1332E103FZ 
+1332E103MZ 
+1332EV103FZ 
+1332EV103MZ 
+1332P103FZ 
+1332P103MZ 
+1332M103FZ 
+1332M103MZ 
+103 
+ 
+1331E103FZ 
+1331E103MZ 
+1331EV103FZ 
+1331EV103MZ 
+1331P103FZ 
+1331P103MZ 
+1331M103FZ 
+1331M103MZ 
+ 
+107 
+1332E107FZ 
+1332E107MZ 
+1332EV107FZ 
+1332EV107MZ 
+1332P107FZ 
+1332P107MZ 
+1332M107FZ 
+1332M107MZ 
+193 
+ 
+1331E193FZ 
+1331E193MZ 
+1331EV193FZ 
+1331EV193MZ 
+1331P193FZ 
+1331P193MZ 
+1331M193FZ 
+1331M193MZ 
+ 
+204 
+1332E204FZ 
+1332E204MZ 
+1332EV204FZ 
+1332EV204MZ 
+1332P204FZ 
+1332P204MZ 
+1332M204FZ 
+1332M204MZ 
+205 
+ 
+1331E205FZ 
+1331E205MZ 
+1331EV205FZ 
+1331EV205MZ 
+1331P205FZ 
+1331P205MZ 
+1331M205FZ 
+1331M205MZ 
+ 
+212 
+1332E212FZ 
+1332E212MZ 
+1332EV212FZ 
+1332EV212MZ 
+1332P212FZ 
+1332P212MZ 
+1332M212FZ 
+1332M212MZ 
+295 
+ 
+1331E295FZ 
+1331E295MZ 
+1331EV295FZ 
+1331EV295MZ 
+1331P295FZ 
+1331P295MZ 
+1331M295FZ 
+1331M295MZ 
+303 
+ 
+1331E303FZ 
+1331E303MZ 
+ 
+ 
+1331P303FZ 
+1331P303MZ 
+1331M303FZ 
+1331M303MZ 
+ 
+319 
+1332E319FZ 
+1332E319MZ 
+ 
+ 
+1332P319FZ 
+1332P319MZ 
+1332M319FZ 
+1332M319MZ 
+405 
+ 
+1331E405FZ 
+1331E405MZ 
+ 
+ 
+1331P405FZ 
+1331P405MZ 
+1331M405FZ 
+1331M405MZ 
+ 
+426 
+1332E426FZ 
+1332E426MZ 
+ 
+ 
+1332P426FZ 
+1332P426MZ 
+1332M426FZ 
+1332M426MZ 
+ 
+541 
+1332E541FZ 
+1332E541MZ 
+ 
+ 
+1332P541FZ 
+1332P541MZ 
+1332M541FZ 
+1332M541MZ 
+605 
+ 
+1331E605FZ 
+1331E605MZ 
+ 
+ 
+1331P605FZ 
+1331P605MZ 
+1331M605FZ 
+1331M605MZ 
+706 
+ 
+1331E706FZ 
+1331E706MZ 
+ 
+ 
+1331P706FZ 
+1331P706MZ 
+1331M706FZ 
+1331M706MZ 
+ 
+ Inserts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insert 
+Representation 
+ 
+Inserts Shown from 
+the Plug Mating 
+Side 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inserts 
+Contacts 
+Rating 
+003 
+3 
+500V/7.5A 
+006 
+6 
+320V/5A 
+103 
+3 
+500V/10A 
+103 
+2+PE 
+1000V/13A 
+107 
+7 
+500V/7.5A 
+193 
+2+PE 
+800V/13A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insert 
+Representation 
+ 
+Inserts Shown from 
+the Plug Mating 
+Side 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+319 
+19 
+500V/7.5A 
+303 
+2+PE 
+1000V/40A 
+295 
+4+PE 
+800V/13A 
+212 
+12 
+500V/7.5A 
+205 
+4+PE 
+800V/13A 
+204 
+4 
+500V/25A 
+Inserts 
+Contacts 
+Rating 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insert 
+Representation 
+ 
+Inserts Shown from 
+the Plug Mating 
+Side 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+706 
+4+PE x 125A/1 x 10A 
+1000V 
+605 
+2+PE x 100A/2 x 10A 
+1000V 
+541 
+41 
+500V/7.5A 
+426 
+26 
+500V/7.5A 
+405 
+4+PE 
+1000V/13A 
+Inserts 
+Contacts 
+Rating 
+AirLB 
+Current indicated as maximum/contact at 40°C. IP67 Rating dependant on Backshell 
+The following Inserts are not compatible: Power 103 and Signal 103; Signal 103 and 193; 205 and 295 
+ 
+D-24 
+
+Amphenol 
+ 
+Circular Interconnects 
+ECTA 133 Metal Circular Push-Pull IP67 Connector System Accessories 
+Backshell IP67  
+IP67 Backshell 
+Part Number 
+Shell 
+Cable Ø (mm) 
+Part Number 
+Shell 
+Cable Ø (mm) 
+1330 0 P2 
+0 
+4.5~6 
+1330 1 P3 
+1 
+9~12.5 
+1330 1 P1 
+1 
+5~6.5 
+1330 2 P3 
+2 
+11.5~14.5 
+1330 1 P2 
+1 
+6.5~9 
+1330 3 P2 
+3 
+12.5~15 
+1330 2 P1 
+2 
+8~10 
+1330 3 P3 
+3 
+15~18 
+ 
+1330 2 P2 
+2 
+10~13.5 
+1330 4 P1 
+4 
+15~18 
+ 
+1330 4 P2 
+4 
+18~21 
+1330 3 P1 
+3 
+10.5~12.5 
+Backshell IP67 with Braid Clamping and Cable Clamp 
+Backshell IP67 with Braid Clamping 
+Part Number 
+Shell 
+Cable Ø (mm) 
+Part Number 
+Shell 
+Cable Ø (mm) 
+1330 1 PES 1 
+1 
+5.5~9 
+1330 0 PEM 
+0 
+2.5~5 
+1330 1 PES 2 
+1 
+9~12 
+1330 1 PEM 
+1 
+8~13 
+1330 2 PES 1 
+2 
+5.5~9 
+1330 2 PEM 
+2 
+8~13 
+1330 2 PES 2 
+2 
+9~12 
+1330 3 PEM 
+3 
+13~18 
+1330 3 PES 1 
+3 
+10~18 
+ 
+1330 4 PES 1 
+4 
+10~ 18 
+ 
+1330 4 PEM 
+4 
+13~ 18 
+Adapter with Metric Thread 
+Backshell IP30 with Cable Clamp 
+Part Number 
+Shell 
+Thread 
+Part Number 
+Shell 
+Cable Ø (mm) 
+1330 0 PM 12 
+0 
+M12 x 1,5 
+1330 1 DS 1 
+1 
+2~6 
+1330 1 PM 16 
+1 
+M16 x 1,5 
+1330 1 DS 2 
+1 
+7~10 
+1330 1 PM 20 
+1 
+M20 x 1,5 
+1330 1 DS 3 
+1 
+10~13 
+1330 2 PM 16 
+2 
+M16 x 1,5 
+1330 2 DS 2 
+2 
+10.5~14 
+1330 2 PM 20 
+2 
+M20 x 1,5 
+1330 2 DS 3 
+2 
+14~17.5 
+ 
+1330 3 PM 20 
+3 
+M20 x 1,5 
+1330 3 DS 1 
+3 
+12.5~14.5 
+1330 3 PM 25 
+3 
+M25 x 1,5 
+1330 3 DS 2 
+3 
+14.5~18 
+ 
+1330 4 PM 20 
+4 
+M20 x 1,5 
+1330 4 DS 0 
+4 
+11.75~15.5 
+1330 4 PM 25 
+4 
+M25 x 1,5 
+1330 4 DS 1 
+4 
+15.5~18 
+1330 4 DS 2 
+4 
+18~ 21.5 
+1330 5 PM 25 
+5 
+M25 x 1,5 
+1330 6 PM 32 
+6 
+M32 x 1,5 
+The PM Adapter is 
+designed for  use on 
+any standard 
+backshell with metric 
+thread (to IP67) 
+1330 7 PM 50 
+7 
+M50 x 1,5 
+Also available: 90°Adapter for plug and cable-cable plug extension 
+ 
+Metal Cap for All Receptacles (IP67) 
+Metal Cap for Plug (IP67) 
+Flange Seal 
+Part Number 
+Shell 
+Part Number 
+Shell 
+Part Number 
+Shell 
+1330 0 BE 
+0 
+1330 0 BM 
+0 
+1330 0 JE 
+0 
+1330 1 BE 
+1 
+1330 1 BM 
+1 
+1330 1 JE 
+1 
+1330 2 BE 
+2 
+1330 2 BM 
+2 
+1330 2 JE 
+2 
+1330 3 BE 
+3 
+1330 3 BM 
+3 
+1330 3 JE 
+3 
+ 
+1330 4 BE 
+4 
+1330 4 BM 
+4 
+1330 4 JE 
+4 
+ 
+1330 5 BE 
+5 
+1330 5 BM 
+5 
+1330 5 JE 
+5 
+ 
+1330 7 JE 
+7 
+1330 6 JE 
+6 
+Also available upon request, a  single hole fixing bulkhead with  pressure differentials up to 5 bars. 
+The technical characteristics are identical to those of standard connectors. 
+ 
+SOCAPEX
+TM SL61 19 Contact Lighting Connectors 
+ 
+Amphenol’s SOCAPEX connector is accepted as a worldwide standard in the Lighting Industry 
+Configuration 
+Number of Contacts 
+- 19 
+Coupling Nut 
+ 
+ 
+- Threaded 
+Backshell  
+ 
+ 
+- Two Piece 
+Cable Clamp 
+ 
+ 
+- Adaptable 
+Termination  
+ 
+ 
+- Solder 
+Temperature Range 
+- -40°C ~ 85°C 
+Also Available 
+• 
+Right Angle Versions 
+• 
+Various Shell Sizes and Contacts 
+• 
+Cap Accessories 
+• 
+Crimp Versions 
+• 
+Earth Protection 
+• 
+Cadmium-Free Versions 
+ 
+Materials 
+Body 
+ 
+ 
+ 
+- Aluminium Alloy 
+Inserts  
+ 
+ 
+- Alkyde 
+Contacts 
+ 
+ 
+- Machined Gold Plated 
+ 
+Electrical 
+Working Voltage 
+- 400V 
+Current  
+ 
+ 
+- 25A 
+ 
+Part Number 
+ 
+SLFMD419AR 
+SLFFDR419AR 
+SLEME419AR                    S      SLEF419AR 
+Description 
+Cable Pin Plug 
+In-Line Socket Receptacle 
+Panel Pin Plug 
+Panel Socket Receptacle 
+ 
+ 
+ 
+Representation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diagram 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AirLB/ASF-T 
+D-25 
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  1332EV212FZ  1332-M-212-FZ  1332M212MZ

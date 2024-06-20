@@ -1,0 +1,16203 @@
+Infinite Options Beyond the Mil-Spec Limits 
+FOR MILITARY, AEROSPACE AND HARSH ENVIRONMENTS 
+AMPHENOL CORPORATION 
+40-60 Delaware Avenue, Sidney, NY 13838-1395 • 800-678-0141 
+www.amphenol-aerospace.com • www.amphenolmao.com
+����    �
+
+About Amphenol Aerospace
+Your Source for Interconnect Products
+Contact Us:
+Amphenol Aerospace
+40-60 Delaware Avenue
+Sidney, NY 13838-1395
+Customer Service:  
+Mon - Fri  8AM - 5PM
+Phone: (800) 678-0141
+Fax: (607) 563-5157
+Online: www.amphenol-aerospace.com
+Amphenol Aerospace, Amphenol Commercial Air,  
+and Amphenol Industrial Operations Main Facility in Sidney, NY USA
+About Amphenol Aerospace: 
+Amphenol Aerospace, a Division of Amphenol Corporation, is one  
+of the largest manufacturers of interconnect products in the world for the Military, 
+Commercial Aerospace and Industrial markets. Amphenol designs, manufactures and 
+markets circular and rectangular, electronic, fiber optic, EMI/EMP filter, and a variety of 
+special applications connectors and interconnect systems. 
+Our state-of-the-art facility is nestled at the foothills of the Catskill Mountains in Sidney, 
+NY. The Amphenol complex houses many technologies including CNC machining, 
+die-casting, molding, impact and extruding, plating, screw machining and process 
+controls. Our fully equipped material evaluation lab and engineering organization utilize 
+the latest in computer aided design software and analysis tools, allowing us to design, 
+test, and qualify advanced interconnect systems. Amphenol’s interconnect products are 
+supplied to thousands of OEMs worldwide and are supported by our worldwide sales 
+and engineering force, including the largest global network of electronic distributors.
+Customer-Centric:
+Customer-Centric:  
+Our #1 priority is our customers who 
+deserve quality product on time.
+CARE
+Accountable:  
+Clear owners, clear  
+actions, clear results.
+Quality Assurance:
+Amphenol Aerospace has been awarded 
+both AS9100 - Revision C and ISO9001:2008 
+Quality Assurance Certifications.
+Reliable:  
+What we build 
+matters and quality 
+is imperative.
+Enthusiastic:  
+Challenges create rewarding 
+opportunities. Enthusiasm is 
+contagious and we will spread it.
+
+Contents
+About Amphenol® Aerospace .........................................................................................................................................1
+Infinite Possibilities/Beyond the Mil-Spec ......................................................................................................................4-5
+Shell Styles .....................................................................................................................................................................6
+Amphenol RoHS Compliant Platings: Alternative to Cadmium .......................................................................................7
+MIL-DTL-38999, Series III TV: Finish Data ......................................................................................................................8
+ 
+38999 PCB Connectors .....................................................................................................................................9
+PCB D38999, Series III TV: How to Order (Commercial) .................................................................................................10
+Wall Mounting Receptacles: Back Panel Mounting  TVP00, TVPS00, CTVP00, TVP10, TVPS10 ...................................11
+Wall Mounting Receptacles with Clinch Nuts: Back Panel Mounting TVP10, TVPS10, CTVP10 & CTVPS10  ................12
+Wall Mounting Double Flange Receptacles: TVP40,TVPS40, CTVP40 & CTVPS40 ........................................................13
+Box Mounting Receptacles: TVP02 ,TVPS02, CTVP02 & CTVPS02 ...............................................................................14
+Box Mounting Receptacles with Clinch Nuts: TVP12 & TVPS12 .....................................................................................15
+Jam Nut Receptacles: TV07, TVS07, CTV07 & CTVS07 .................................................................................................16
+Jam Nut, Double Flange Receptacles: TV47 & TVS47 ....................................................................................................17
+Reduced Flange Jam Nut Receptacles: TV97, TV 98 ......................................................................................................18
+38999 PCB Connector with Ground Pins ........................................................................................................................19
+ 
+Series III High Density Interconnects ........................................................................................................20
+High Density Interconnects: How to Order .....................................................................................................................21
+Tri-Power with RADSOK® Technology ......................................................................................................22
+Tri-Power with Radsok Contacts: How to Order .............................................................................................................23
+Bulkhead Feed-Through, Connector Savers & Plug Adapters ....................................................24
+Bulkhead Feed-Through & Connector Savers: How to Order (Ex: BTV07RW-21-35SPB) ..............................................25
+Bulkhead Feed-Through Connectors:  
+BTV00-Wall Mount, BTV10 Wall Mount with Clinch Nuts, BTV01-Line Mount ................................................................26
+Bulkhead Feed-Through Connectors: BTV07 - Jam Nut ................................................................................................27
+Plugs: 38999 Connectors with Integral Accessories ........................................................................28
+Connectors with Integral Accessories: How to Order .....................................................................................................29
+Plug with Integral Banding Platform: TV96, TVS96 .........................................................................................................30
+Jam Nut with Integral Banding Platform: TV87, TVS87 ...................................................................................................30
+Wall Mount with Integral Banding Platform: TVP80, TVPS80: Plug with Integral Strain Relief: TV76, TVS76 ..................31
+High Vibration Dualok ........................................................................................................................................32
+High Vibration Dualok, 38999 Series III Type: How to Order (TV56, TVS56) ....................................................................33
+High Vibration Dualok 38999 Series III Type: Plug (TV56, TVS56, CTV56, CTVS56) ........................................................34
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+38999 Series III, TV, Plugs: How to Order (Commercial) ..................................................................35
+RotoLok High Vibration Plug Solutions
+Wing Nut Plug with Integral Banding Platform ................................................................................................................36
+TV Breakaway Fail-Safe Lanyard Release: Commercial Versions .............................................37
+TV Breakaway Fail-Safe Lanyard Release: Commercial (725010, 725014, 725041) Version of D38999/31 Type 6 .........38
+TV Breakaway Fail-Safe Lanyard Release: Commercial (725010) Version of D38999/31 Type 6 ....................................39
+TV Breakaway Fail-Safe Lanyard Release ......................................................................................................................40
+Commercial (725014 & 725041) Version of D38999/31 Type 6........................................................................................41
+TV Breakaway Fail-Safe Lanyard Release Plug: (88-5565 & 91-5565) Commercial Version of D38999/29 and /30 ........42
+PCB Hermetic Series III, D38999 ..................................................................................................................43
+PCB Hermetic Box Mounting Receptacle  ......................................................................................................................44
+PCB Hermetic Jam Nut Receptacle  ...............................................................................................................................45
+PCB Hermetic Solder Mounting Receptacle  ..................................................................................................................46
+PCB Hermetic Weld Mounting Receptacle  ....................................................................................................................47
+2
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+AmpheSEAL: 38999 High Pressure Solution .........................................................................................47
+Ground Plane Connectors: Coax/Triax/Twinax ...............................................................................................................48
+OCS (Oval Contact System: Newest 38999 Style Connector .......................................................49
+OCS (Oval Contact System) Connectors: BTVContact Eye Pattern at 10 Gbps .............................................................50
+OCS (Oval Contact System) Connectors: How to Order .................................................................................................51
+OCS (Oval Contact System) Connectors: Insert Arrangements - Front face of pins illustrated .......................................52
+OCS (Oval Contact System) Connectors: TVP00 - Crimp, Metal & CTVP00 - Crimp, Composite Wall Mounting ...........53
+TV07R-Crimp, Metal & CTV07R-Crimp, Composite Jam Nut Receptacle ......................................................................53
+Quadrax Contacts  ..............................................................................................................................................54
+How to Order D38999, Series III Connectors with Standard 100 Ohm Quadrax Contacts ..............................................55
+Octonet Contacts: Superior Ethernet Contact System for 38999, Series III ........................56
+Octonet Contacts: Superior Ethernet Contact System for MIL-DTL-38999, Series III ....................................................57
+Signal Integrity Contact Data: Insertion and Return Loss ...............................................................................................58
+Fiber Optic Connectors: 38999 Style ....................................................................................................59
+Multi Channel Fiber Optic Tri-Start: How to Order ..........................................................................................................60
+MT38999 connectors and fiber optic cable assemblies..................................................................................................61
+MT38999 Connectors: How to Order ..............................................................................................................................62
+MT38999 Fiber Optic Cable Assemblies: How to Order .................................................................................................63
+Filter Section ..........................................................................................................................................................64
+How to Order - Standard: Filter Connectors ...................................................................................................................65
+How to Order - Special: Filter Connectors (EMI Check Sheet) ........................................................................................66-67
+Connector Accessories ....................................................................................................................................68
+MIL-DTL-38999, Series III TV: Receptacle Protection Cap .............................................................................................69
+MIL-DTL-38999, Series III TV: Plug Protection Cap ........................................................................................................70
+MIL-DTL-38999, Series III TV: Wall Mount Dummy Receptacle ......................................................................................71
+MIL-DTL-38999, Series III TV: Jam Nut Dummy Receptacle ..........................................................................................72
+MIL-DTL-38999, Series III TV: Universal “Header Assembly” for Flex Print or PC Board ................................................73
+MIL-DTL-38999, Series III TV: Universal “Header Assembly” for Flex Print or PC Board ................................................74
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Technical Data
+MIL-DTL-38999, Series III TV, HD: Insert Availability and Identification Chart .................................................................75-77
+MIL-DTL-38999, Series III TV, HD: Insert Arrangements .................................................................................................78-82
+MIL-DTL-38999, Series III TV: Special Insert Arrangements ...........................................................................................83
+Alternate Keying Information ..........................................................................................................................................84
+MIL-DTL-38999, Series III TV, HD: Contact Ratings/ Service Ratings .............................................................................85
+MIL-DTL-38999, Series III TV: Service Rating/Sealing Plugs ..........................................................................................86
+3
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+INFINITE OPTIONS
+Amphenol Aerospace is the industry leader in the design and development of D38999 Series III 
+connectors.  While the qualified Mil-Spec versions offer plenty of features, the customization and 
+design options outside of the Mil-Spec are virtually endless.  This catalog collects many of these 
+customized options while offering additional ways to take advantage of the most popular circular 
+connector in the military and aerospace industries.
+38999 + PCB Tails
+38999 + PCB Tails  
++ Double Flange
+38999 + Reduced 
+Flange Receptacle
+38999 + PCB Tails  
++ Ground Pins
+38999 + High Density
+38999 + Power
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+38999 +  
+38999 + Integral 
+38999 +  
+Connector Saver
+Accessories
+High Vibration Plug 
+4
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+BEYOND THE MIL-SPEC LIMITS
+Amphenol Aerospace offers the largest range of 38999 connectors on the market and  
+manufactures many different types beyond the Mil-Spec limits. See our separate D38999  
+Circular Catalog for all of our Mil-Spec Offerings.
+38999 + Breakaway 
+Fail-Safe Lanyard 
+38999 + PCB Tails  
+38999 + High Pressure 
+Release
++ Hermetics
+Solutions
+38999 +  
+38999 + High Speed
+Data Transmissions
+38999 + Fiber Optics
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+38999 + Custom  
+Materials and Finishes
+38999 + Filtering
+38999 + Accessories
+5
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Shell Style Quick Reference
+Shell Styles:
+Amphenol's standard and derivative 38999 Plus products are intermateable with all industry standard D38999 solutions. Amphenol 
+offers a vast array of 38999 style options which can be found in the table below. If your design requires a custom solution contact 
+Amphenol Aerospace for further options.
+TVP40 - Pg 13
+TVP00 - Pg 11 
+Wall Mount 
+Receptacle
+Double Flange 
+Wall Mount
+TV47 - Pg 17
+TV01  
+Line  
+Receptacle
+Double Flange 
+Jam Nut
+TV97 - Pg 18
+TVP02  
+Box Mount  
+Receptacle
+Reduced Flange 
+Jam Nut
+TV06 
+Straight 
+Plug
+TV98 - Pg 18 
+Reduced Flange 
+Jam Nut with 
+Standoff
+TVP10 - Pg 12
+TV07  
+Jam Nut
+Receptacle
+Wall Mount with 
+Clinch Nuts  
+(self-locking)
+TVP12 - Pg 15
+TV56 - Pg 33 
+Dualok Plug
+Box Mount with 
+Clinch Nuts 
+(self-locking)
+TV06 - Pg 36
+Plug with Winged  
+Coupling Nut
+TV09  
+Flange  
+Mounting Plug
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+TV96 - Pg 30 
+Plug with Integral 
+Banding Platform
+Deep Reach 
+Receptacle
+TV87 - Pg 30 
+Jam Nut with 
+Integral Banding 
+Platform
+TVP80 - Pg 32
+Solder Mount  
+Hermetic  
+Receptacle
+Wall Mount with 
+Integral Banding 
+Platform
+TV76 - Pg 31
+Lanyard - Pg 37 
+Release Plug
+Plug with Integral 
+Strain Relief
+6
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Amphenol RoHS Compliant Platings
+Alternative to Cadmium
+TM
+DURMALON
+Alternative to Cadmium
+The Defense Logistics Agency (DLA) has added the following cadmium alternative 
+finishes to MIL-DTL-38999, Rev L (and other connector specs):
+• Nickel Fluorocarbon Polymer
+• Zinc-Nickel
+DURMALONTM 
+Amphenol’s Answer to EU RoHS/ELV/Cadmium Free Restrictions. Commercial, 
+Industrial & Military markets are rapidly moving away from restricted materials such 
+as Cadmium (Cd) & Hexavalent Chromium (Cr(VI)).  Both of these restricted materials 
+are toxic and are known carcinogens. Amphenol is offering alternative finishes that 
+comply with all customer requirements tied to these specifications.
+ 
+Amphenol has qualified Durmalon, with internal part number coding “DT” finish, 
+which meets or exceeds the 38999 designated class “T” finish, Nickel Fluorocarbon 
+Polymer.  Durmalon is also EU RoHS and Reach compliant and is Cadmium free, 
+Lead free, and Hexavalent Chromium free.
+Durmalon, like Olive-Drab Cadmium plating (Class W), meets 500 hours of dynamic 
+salt spray, combined with 500 mating cycles and meets specified millivolt drop 
+shell-to-shell conductivity. Durmalon has been proven to meet Potassium  
+Formate-Deicer fluid testing performed by Boeing.
+BLACK ZINC NICKEL 
+Black Zinc Nickel is a non-reflective, conductive black finish approved for 500 hrs 
+salt spray making it an excellent choice for harsh environments.  Black Zinc Nickel 
+has been qualified by the DLA, with internal part number coding “DZ” finish, which 
+meets or exceeds the 38999 designated class “Z” finish. Black Zinc Nickel is RoHS 
+& Reach compliant.
+Requirements
+Cadmium
+DurmalonTM
+Black Zinc 
+Nickel
+Coupling Torque
+   Post 500 hr. salt
+Shell to Shell Conduc-
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+tivity
+  <2.5 millivolts
+Cycles of Durability
+   500 mates
+Salt Spray
+  Dynamic 500 hours
+Temperature Rating
+   175° C
+Non-Reflective
+EU RoHS/ELV Compli-
+ant*
+Non-Magnetic
+De-icing Fluid**
+* Meets EU RoHS/ELV maximum concentration values (MCV) of 
+ 
+1000 ppm (0.1% w/w) or (0.01% w/w) per homogenous material.
+** Potassium Formate/Acetate based de-icing fluids.
+Note: Specifications are subject to change without notice.
+7
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV
+Shell and Finish Data
+ALUMINUM & STEEL SHELL COMPONENTS NON-HERMETIC*
+Salt Spray (hours)
+Finish
+Shell Material
+Military
+Amphenol 
+Commercial
+Anodic Coating (Non-Conductive)
+Aluminum
+C
+RX (005)
+500
+Electroless Nickel
+Aluminum
+F
+RF
+48
+Olive Drab Cadmium Plate, Nickel Base
+Aluminum
+W
+RW
+500
+Durmalon™ (Nickel PTFE)
+Aluminum
+T
+DT
+500
+Black Zinc Nickel
+Aluminum
+Z
+DZ
+500
+Electroless Nickel Space Grade
+Aluminum
+G
+RF (453)
+48
+Black Electroless Nickel
+Aluminum
+ 
+DB
+100
+Olive Drab Cadmium, Nickel Base (1,000 hour)
+Aluminum
+ 
+DW
+1,000
+Marine Bronze
+Aluminum Bronze
+ 
+RB
+500
+Passivated Stainless Steel
+Stainless Steel
+K
+RK
+500
+Passivated Stainless Steel (non-firewall)
+Stainless Steel
+ 
+RKN
+500
+Stainless Steel w. Nickel Plate
+Stainless Steel
+L
+RL
+500
+Stainless Steel w. Nickel Plate (non-firewall)
+Stainless Steel
+S
+RS
+500
+Electroless Nickel
+Composite
+M
+RF
+2,000
+Olive Drab Cadmium Plate, Nickel Base
+Composite
+J
+RW
+2,000
+Titanium, Passivated
+Titanium
+ 
+TR
+500
+Titanium, Conductive Plate
+Titanium
+ 
+TNR
+500
+ZINC NICKEL  
+DURMALON 
+MARINE  
+BRONZE
+ELECTROLESS 
+NICKEL PLATED 
+PLATED  
+PLATED  
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+ALUMINUM
+ALUMINUM
+ALUMINUM
+SELECT NON-STANDARD PLATING-USE RX SERVICE CLASS AND ADD SUFFIX BELOW
+Salt Spray (hours)
+Finish
+Shell Material
+Amphenol 
+Commercial
+Black Anodized (Non-Conductive)
+Aluminum
+(002)
+500
+Black Zinc Cobalt
+Aluminum
+(027)
+200
+Green Zinc Cobalt
+Aluminum
+(024)
+200
+Green Zinc Nickel
+Aluminum
+(037)
+500
+**Amphenol Aerospace has an on-site plating facility and offers even more plating options if the above platings do not meet your needs.   
+Please contact Amphenol factory for further details and requests**
+8
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999 Connectors with  
+PCB Contacts
+PCB RECEPTACLES 
+Amphenol has simplified the process of ordering a D38999 Series III connector with  
+PC tails with the new 38999 Plus catalog. Currently all Series III arrangements  
+(mil-spec or proprietary) with size 23, 22D, 20, 16 or 12 gauge contacts  
+(including mixed arrangements) are available for order using the following How To Order 
+pages (contact AAO for size 8 and larger contacts). 
+PCB Connectors are available in a number of shell styles and PCB lengths. Contact our 
+factory for customized solutions.
+DOUBLE FLANGE RECEPTACLES
+REDUCED FLANGE RECEPTACLES
+9
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB MIL-DTL-38999, Series III TV 
+How to Order (Commercial)
+Complete steps 1-8 to create your part number
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Connector Type
+Shell Style
+Service Class
+Shell Size - Insert 
+Arrangement
+Contact Type
+Alternate Position
+PCB Length
+Modifications
+TV or PTV  
+07
+RF
+15-35
+P
+A
+(P25)
+(optional)
+(Potted Version)
+1. Connector Type
+3.  175°C  Service Class
+4. Shell Size - 
+Insert Arrangement
+TV
+Tri-Start, 175 °C
+RW
+Corrosion resistant olive drab cadmium 
+plated aluminum, 500 hour extended salt 
+spray
+TVS
+Tri-Start, 200 °C
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+TVP
+Panel Mounted, 175°C
+o
+R
+DT
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Durmalon plated, alternative to cadmium. 
+Corrosion resistant, 500 hour extended 
+salt spray
+TVPS
+Panel Mounted, 200°C
+Shell Size & Insert  
+Arrangements are on pages 
+75-83. First number  
+represents Shell Size, 
+second number is the  
+Insert Arrangement. 
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+*Add P prefix for potted ex: PTV
+R
+DZ
+Black Zinc-Nickel alternative to cadmi-
+um. 500 hour salt spray, conductive
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+2. Shell Style
+ 00
+Wall Mount Receptacle
+DW
+Corrosion resistant olive drab cadmium 
+plated aluminum, 1,000 hour extended 
+salt spray
+ 02
+Box Mount Receptacle
+ 07
+Jam Nut Receptacle
+5. Contact Type
+3. 200°C Service Class
+h
+p
+e
+n
+m
+P
+Pin Contacts
+o
+A
+l
+Marine Bronze - 500 hour salt spray
+2. Shell Style Double Flange
+S
+H
+o
+R
+RB
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+S
+Socket Contacts
+ 40
+Wall Mount Double Flange
+h
+p
+e
+n
+m
+o
+A
+l
+ 47
+Jam Nut Double Flange
+S
+H
+o
+R
+RF
+Electroless nickel plated aluminum, 48 
+hour salt spray
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+2. Shell Style Reduced Flange
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+ 97
+Reduced Flange Jam Nut
+RK
+C
+E
+6. Alternate Position
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant stainless steel, fire-
+wall capability, plus 500 hour salt spray 
+resistance
+ 98
+Reduced Flange Jam Nut 
+with Standoff
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RKN
+C
+E
+E
+U
+/
+/
+5
+2
+9
+A, B, C, D, E omit for normal 
+rotation parts. See page 84 for 
+complete information
+2. Shell Style Clinch Nuts
+0
+/
+0
+2
+Corrosion resistant stainless steel, 
+Nonfirewall capability, plus 500 hour salt 
+spray resistance
+ 10
+Wall Mount (Clinch Nuts)
+h
+h
+p
+p
+e
+e
+n
+n
+m
+m
+o
+o
+A
+A
+l
+l
+S
+S
+H
+H
+o
+o
+Alignment Disc Data
+R
+R
+RL
+C
+C
+E
+E
+E
+E
+U
+U
+/
+/
+/
+/
+5
+5
+2
+2
+12
+Box Mount (Clinch Nuts)
+9
+9
+0
+0
+/
+/
+0
+0
+2
+2
+Corrosion resistant steel, electro  
+deposited nickel, 500 hour salt spray, 
+non firewall
+D
+.032
+±.005
+DIA.
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+7. PCB CONTACT
+RS
+Nickel plated, corrosion resistant steel, 
+firewall capability, 500 hour salt spray
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Contact 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Type
+PCB Stickout ± .040
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+Black Electroless Nickel, 100 hour salt 
+spray
+DB
+(P15)
+.150" w/ pins
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+(P25)
+.250" w/ pins
+(P35)
+.350" w/ pins
+(S15)
+.150" w/ sockets
+Shell 
+Size
+D Dia. 
+±.010
+9
+.234
+(S25)
+.250" w/ sockets
+(S35)
+.350" w/ sockets
+11
+.350
+With Alignment Disk
+13
+.500
+(P15AD)
+.150" w/ pins
+15
+.725
+(P25AD)
+.250" w/ pins
+17
+.750
+(P35AD)
+.350" w/ pins
+19
+.850
+(S15AD)
+.150" w/ sockets
+21
+.953
+(S25AD)
+.250" w/ sockets
+23
+1.147
+(S35AD)
+.350" w/ sockets
+Pre-Tin Options  
+Add "T" to end of suffix for 
+Pre-tinned PC tails 
+Ex: (P15T), (S25ADT)
+25
+1.250
+Note: Stick out is measured from  
+the end of the connector shell to end of the contact
+10
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Wall Mounting Receptacles 
+Back Panel Mounting  TVP00, TVPS00, CTVP00, TVP10, TVPS10
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+COMPOSITE
+CTVP00RW 
+CTVPS00RF
+STAINLESS STEEL
+TVPS00RK 
+TVPS00RKN
+TVPS00RS 
+TVPS00RL
+ALUMINUM
+TVPS00RF 
+TVP00RW
+TVP00DT 
+TVP00DZ
+TVPS00RB
+TVPS00DB
+TVP00DW
+S
+LL
+LL1
+2 PLACES
+R1
+2 PLACES
+B
+THREAD
+R2
+M
+M1
+L
+L1
+AA
+2 PLACES
+PCB TAIL STICKOUT SEE STEP 7 
+HOW TO ORDER
+TV00
+.062
+               .001 DIA.
+               
+FOR SIZE 16 CONTACTS
+.001 DIA.
+FOR SIZE 20 & 22D CONTACTS
+.019 
+RED
+BAND 
+TT
+T
+.005
+M
+4 PLACES
+4 PLACES
+BLUE
+BAND 
+V THREAD
+1.240 MAX.
+ † 
+Red band indicates fully mated
+†† 
+Blue band indicates rear release contact retention system
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+M 
+M1 
+LL 
+L 
+L1 
+T 
+V 
+LL1 
+TT 
+R1
+R2
+S 
+Shell 
+Size
+B Thread 
+Class 2A 
+(Plated) 
+Max.
+AA 
+Max. 
+Panel 
+Max. 
+(TV)
+Max. 
+(CTV)
++.008 
+–.006
+Thread 
+Metric
+±.005 
+(CTV)
++.008 
+–.006
+0.1P-0.3L-TS
++.000 
+–.005 
+(TV)
++.000 
+–.005 
+(CTV)
+Thickness
++.006 
+–.000 
+(TV)
+ 9
+ .6250
+.469
+.514
+.820
+.773
+ .719
+ .594
+ .948
+.128
+M12X1-6g
+.234
+.905
+.908
+.216
+11
+ .7500
+.469
+.514
+.820
+.773
+ .812
+ .719
+1.043
+.128
+M15X1-6g
+.234
+.905
+.908
+.194
+13
+ .8750
+.469
+.514
+.820
+.773
+ .906
+ .812
+1.137
+.128
+M18X1-6g
+.234
+.905
+.908
+.194
+15
+1.0000
+.469
+.514
+.820
+.773
+ .969
+ .906
+1.232
+.128
+M22X1-6g
+.234
+.905
+.908
+.173
+17
+1.1875
+.469
+.514
+.820
+.773
+1.062
+ .969
+1.323
+.128
+M25X1-6g
+.234
+.905
+.908
+.194
+19
+1.2500
+.469
+.514
+.820
+.773
+1.156
+1.062
+1.449
+.128
+M28X1-6g
+.234
+.905
+.908
+.194
+21
+1.3750
+.500
+.545
+.790
+.741
+1.250
+1.156
+1.575
+.128
+M31X1-6g
+.204
+.905
+.904
+.194
+23
+1.5000
+.500
+.545
+.790
+.741
+1.375
+1.250
+1.701
+.154
+M34X1-6g
+.204
+.905
+.904
+.242
+25
+1.6250
+.500
+.545
+.790
+.741
+1.500
+1.375
+1.823
+.154
+M37X1-6g
+.204
+.905
+.904
+.242
+  Designates true position dimensioning
+All dimensions for reference only. 
+Most common options are shown; other options are available. 
+11
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Wall Mounting Receptacles with Clinch Nuts 
+Back Panel Mounting TVP10, TVPS10, CTVP10 & CTVPS10 
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+COMPOSITE
+CTVPS10RF 
+CTVP10RW
+STAINLESS STEEL
+TVPS10RK 
+TVPS10RKN
+TVPS10RS 
+TVPS10RL
+ALUMINUM
+TVPS10RF 
+TVP10RW
+TVP10DT 
+TVP10DZ
+TVPS10RB 
+TVPS10DB
+TVP10DW
+CONNECTOR WITH CLINCH NUTS
+(4 PLACES)
+S
+LL
+LL1
+2 PLACES
+R
+B
+THREAD
+2 PLACES
+M
+M1
+L
+L1
+AA
+PCB TAIL STICKOUT SEE STEP 7
+HOW TO ORDER
+.062
+               .001 DIA.
+               
+FOR SIZE 16 CONTACTS
+.001 DIA.
+FOR SIZE 20 & 22D CONTACTS
+.019 
+RED
+BAND 
+ T
+THREAD
+CLINCH NUT
+.005
+M
+BLUE
+BAND 
+V THREAD
+1.240 MAX.
+M 
+M1 
+LL 
+L 
+L1 
+V 
+LL1 
+T 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+R
+S 
+Shell 
+Size
+B Thread 
+Class 2A 
+(Plated) 
+Max.
+Thread
+AA 
+Max. 
+Panel 
+Max. 
+(TV)
+Max. 
+(CTV)
+Thread 
+Metric
+±.005 
+(CTV)
+0.1P-0.3L-TS
++.000 
+–.005 
+(TV)
++.000 
+–.005 
+(CTV)
+Thickness
++.006 
+–.000 
+(TV)
+ 9
+ .6250
+.469
+.514
+.820
+.773
+ .719
+1.094
+.112-40UNC-3B
+M12X1-6g
+.234
+.905
+.908
+11
+ .7500
+.469
+.514
+.820
+.773
+ .812
+1.187
+.112-40UNC-3B
+M15X1-6g
+.234
+.905
+.908
+13
+ .8750
+.469
+.514
+.820
+.773
+ .906
+1.281
+.112-40UNC-3B
+M18X1-6g
+.234
+.905
+.908
+15
+1.0000
+.469
+.514
+.820
+.773
+ .969
+1.344
+.112-40UNC-3B
+M22X1-6g
+.234
+.905
+.908
+17
+1.1875
+.469
+.514
+.820
+.773
+1.062
+1.437
+.112-40UNC-3B
+M25X1-6g
+.234
+.905
+.908
+19
+1.2500
+.469
+.514
+.820
+.773
+1.156
+1.531
+.112-40UNC-3B
+M28X1-6g
+.234
+.905
+.908
+21
+1.3750
+.500
+.545
+.790
+.741
+1.250
+1.625
+.112-40UNC-3B
+M31X1-6g
+.204
+.905
+.904
+23
+1.5000
+.500
+.545
+.790
+.741
+1.375
+1.750
+.138-32UNC-3B
+M34X1-6g
+.204
+.905
+.904
+25
+1.6250
+.500
+.545
+.790
+.741
+1.500
+1.875
+.138-32UNC-3B
+M37X1-6g
+.204
+.905
+.904
+All dimensions for reference only. 
+Consult Amphenol for more information on ordering connectors with clinch nuts.
+Most common options are shown; other options are available. 
+  Designates true position dimensioning
+ †  Red band indicates fully mated
+†† Blue band indicates rear release contact retention system 
+12
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Wall Mounting Double Flange Receptacles 
+TVP40,TVPS40, CTVP40 & CTVPS40
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+COMPOSITE
+CTVPS40RF 
+CTVP40RW
+STAINLESS STEEL
+TVPS40RK 
+TVPS40RKN
+TVPS40RS 
+TVPS40RL
+ALUMINUM
+TVPS40RF 
+TVP40RW
+TVP40DT 
+TVP40DZ
+TVPS40RB
+TVPS40DB
+TVP40DW
+M (TV)
+M  (CTV)
+.673 ±.002
+1
+S
+2 PLACES
+BLUE
+BAND ††
+R
+CONTACT STICKOUT SEE STEP 7
+HOW TO ORDER
+2 PLACES
+45°
+RED
+BAND
+†
+W
+2 PLACES
+.019 ±.001 DIA
+FOR SIZE 20 & 22D
+CONTACTS
+.062 ±.001 DIA 
+SIZE 16 
+CONTACTS
+B THREAD
+AA
+T
+(4) CORROSION RESISTANT STEEL
+.112-40 UNC-3B HELICAL INSERTS
+.005 M
+A
+(4) CORROSION RESISTANT STEEL
+SELF-LOCKING CLINCH NUTS
+.112-40 UNC-3B PER MIL-N-45938/6-4C
+EXCEPT FOR TV40 SHELL SIZES 23 & 25:
+.138-32 UNC-3B PER MIL-N-45938/6-6C
+.005 M
+PCB Mounting 
+R 
+R 
+M 
+M1 
+S 
+S 
+AA Max. 
+Dimensions
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Panel 
+Shell 
+Size
+B Thread 
+Class 2A 
+(Plated) 
+(Panel 
+Mount 
+T Dia. (TV) 
+W (CTV) 
+MS Shell 
+Size Code 
+(For Ref.)
+A Dia. 
+±.005 
+(TV)
+A Dia. 
+±.005 
+(CTV)
++.000 
+–.005
+±.003 
+(CTV)
+Max. 
+(TV)
+Max. 
+(CTV)
+Thickness
+0.1P-0.3L-TS
+(Panel 
+Mount) 
+(CTV)
+(TV)
+TP
+TP
+ 9
+A
+NA
+1.016
+ .6250
+.820
+.770
+ .719
+N/A
+NA
+ .949
+.234
+ NA
+ .532
+11
+B
+1.062 1.148
+ .7500
+.820
+.770
+ .812
+.766
+1.187
+1.042
+.234
+. .850
+ .601
+13
+C
+1.250 1.250
+ .8750
+.820
+.770
+.906
+.859
+1.281
+1.136
+.234
+ .994
+ .703
+15
+D
+1.375 1.375
+1.0000
+.820
+.770
+ .969
+.938
+1.344
+1.230
+.234
+1.119
+ .791
+17
+E
+1.500 1.500
+1.1875
+.820
+.770
+1.062
+1.016
+1.437
+1.323
+.234
+1.237
+ .875
+19
+F
+1.625 1.625
+1.2500
+.820
+.770
+1.156
+1.110
+1.531
+1.449
+.234
+1.379
+ .975
+21
+G
+1.750 1.750
+1.3750
+.820
+.738
+1.250
+1.206
+1.625
+1.573
+.204
+1.489
+1.053
+23
+H
+1.875 1.875
+1.5000
+.820
+.738
+1.375
+1.312
+1.750
+1.699
+.204
+1.619
+1.195
+25
+J
+2.000 2.000
+1.6250
+.820
+.738
+1.500
+1.438
+1.875
+1.823
+.204
+1.744
+1.233
+All dimensions for reference only. 
+ † Red band indicates fully mated         
+††  Blue band indicates rear release contact retention system
+13
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Box Mounting Receptacles 
+TVP02 ,TVPS02, CTVP02 & CTVPS02
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+COMPOSITE
+CTVPS02RF 
+CTVP02RW 
+STAINLESS STEEL
+TVPS02RK 
+TVPS02RKN
+TVPS02RS 
+TVPS02RL
+ALUMINUM
+TVPS02RF 
+TVP02RW
+TVP02DT 
+TVP02DZ
+TVPS02RB
+TVPS02DB
+TVP02DW
+S
+2 PLACES
+R1
+L
+L1
+2 PLACES
+BLUE
+BAND 
+R2
+2 PLACES
+RED
+BAND 
+.019  ± .001 DIA.
+FOR SIZES 20 & 22D
+.062 ± .001 DIA.
+FOR SIZE 16 CONTACTS
+T
+PCB TAIL STICKOUT SEE STEP 7
+HOW TO ORDER
+AA
+B
+THREAD
+4 PLACES
+.005 M
+TT
+4 PLACES
+M
+M1
+LL
+LL1
+M 
+M1 
+ LL 
+L 
+L1 
+T 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+TT 
+R1
+R2
+S 
+Shell 
+Size
+B Thread 
+Class 2A 
+(Plated) 
+Max.
+AA 
+Max. 
+Panel 
+±.008
+Max. 
+(TV)
+Max. 
+(CTV)
++.008 
+–.006
+ LL1 
+±.005 
+(CTV)
+0.1P-0.3L-TS
++.000 
+–.005 
+(TV)
++.000 
+–.005 
+(CTV)
+Thickness
++.006 
+–.000 
+(TV)
+ 9
+ .6250
+.205
+.250
+.820
+.773
+ .719
+ .594
+ .948
+.128
+.234
+.905
+.908
+.216
+11
+ .7500
+.205
+.250
+.820
+.773
+ .812
+ .719
+1.043
+.128
+.234
+.905
+.908
+.194
+13
+ .8750
+.205
+.250
+.820
+.773
+ .906
+ .812
+1.137
+.128
+.234
+.905
+.908
+.194
+15
+1.0000
+.205
+.250
+.820
+.773
+ .969
+ .906
+1.232
+.128
+.234
+.905
+.908
+.173
+17
+1.1875
+.205
+.250
+.820
+.773
+1.062
+ .969
+1.323
+.128
+.234
+.905
+.908
+.194
+19
+1.2500
+.205
+.250
+.820
+.773
+1.156
+1.062
+1.449
+.128
+.234
+.905
+.908
+.194
+21
+1.3750
+.235
+.280
+.790
+.741
+1.250
+1.156
+1.575
+.128
+.204
+.905
+.904
+.194
+23
+1.5000
+.235
+.280
+.790
+.741
+1.375
+1.250
+1.701
+.154
+.204
+.905
+.904
+.242
+25
+1.6250
+.235
+.280
+.790
+.741
+1.500
+1.375
+1.823
+.154
+.204
+.905
+.904
+.242
+  
+Designates true position dimensioning
+All dimensions for reference only. 
+Most common options are shown; other options are available. 
+ †  
+Red band indicates fully mated
+†† 
+Blue band indicates rear release contact retention system 
+14
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Box Mounting Receptacles with Clinch Nuts
+TVP12 & TVPS12
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+STAINLESS STEEL
+TVPS12RK 
+TVPS12RKN
+TVPS12RS 
+TVPS12RL
+ALUMINUM
+TVPS12RF 
+TVP12RW
+TVP12DT 
+TVP12DZ
+TVPS12RB
+TVPS12DB
+TVP12DW
+CONNECTOR WITH CLINCH NUTS
+(4 PLACES)
+S
+2 PLACES
+L
+L1
+R
+BLUE
+BAND 
+2 PLACES
+RED
+BAND 
+.062    .001 DIA.
+FOR SIZE 16 CONTACTS
+.019    .001 DIA.
+FOR SIZES 20 & 
+22D CONTACTS
+B
+THREAD
+PCB TAIL STICKOUT SEE STEP 7
+HOW TO ORDER
+AA
+ T
+THREAD
+CLINCH NUT
+.005
+M
+M
+M1
+LL
+LL1
+M 
+M1 
+LL 
+LL1 
+L 
+L1 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+T 
+R
+S 
+Shell 
+Size
+B Thread 
+Class 2A 
+(Plated) 
+Max.
+Thread
+AA 
+Max. 
+Panel 
+Max. 
+(TV)
+Max. 
+(CTV)
+0.1P-0.3L-TS
++.000 
+–.005 
+(TV)
++.000 
+–.005 
+(CTV)
+Thickness
++.006 
+–.000 
+(TV)
++.006 
+–.000 
+(CTV)
+ 9
+ .6250
+.205
+.250
+.820
+.773
+ .719
+1.031
+.112-40UNC-3B
+.234
+.905
+.908
+11
+ .7500
+.205
+.250
+.820
+.773
+ .812
+1.125
+.112-40UNC-3B
+.234
+.905
+.908
+13
+ .8750
+.205
+.250
+.820
+.773
+ .906
+1.172
+.112-40UNC-3B
+.234
+.905
+.908
+15
+1.0000
+.205
+.250
+.820
+.773
+ .969
+1.281
+.112-40UNC-3B
+.234
+.905
+.908
+17
+1.1875
+.205
+.250
+.820
+.773
+1.062
+1.375
+.112-40UNC-3B
+.234
+.905
+.908
+19
+1.2500
+.205
+.250
+.820
+.773
+1.156
+1.469
+.112-40UNC-3B
+.234
+.905
+.908
+21
+1.3750
+.235
+.280
+.790
+.741
+1.250
+1.562
+.112-40UNC-3B
+.204
+.905
+.904
+23
+1.5000
+.235
+.280
+.790
+.741
+1.375
+1.750
+.112-40UNC-3B
+.204
+.905
+.904
+25
+1.6250
+.235
+.280
+.790
+.741
+1.500
+1.875
+.112-40UNC-3B
+.204
+.905
+.904
+ 
+Designates true position dimensioning
+All dimensions for reference only. 
+Most common options are shown; other options are available.
+ † Red band indicates fully mated
+†† Blue band indicates rear release  
+ 
+contact retention system 
+15
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Jam Nut Receptacles 
+ TV07, TVS07, CTV07 & CTVS07
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+COMPOSITE
+CTV07RW 
+CTVS07RF 
+STAINLESS STEEL
+TVS07RK 
+TVS07RKN
+TVS07RS 
+TVS07RL
+ALUMINUM
+TVS07RF 
+TV07RW
+TV07DT 
+TV07DZ
+TVS07RB
+TVS07DB
+TV07DW
+.378 MAX.
+PANEL HOLE 
+DIMENSIONS
+C
+BLUE
+BAND 
+PANEL THICKNESS
+.062 MIN.
+.125 MAX.
+D1
+PCB TAIL STICKOUT SEE STEP 7
+HOW TO ORDER
+D2
+B THREAD
+JAM NUT
+D-HOLE
+MOUNTING
+.062    .001 DIA.
+FOR SIZE 16 CONTACTS
+.019    .001 DIA.
+FOR SIZES 20 & 22D
+CONTACTS
+RED
+BAND 
+H
+V THREAD
+S
+2 PLACES
+1.280 MAX.
+A* 
+D1 
+D2 
+T 
+C 
+S 
+V Thread 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Shell 
+Size
+B Thread 
+Class 2A 
+(Plated) 
+Max.
+±.010
+Metric
++.000 
+–.010
++.010 
+–.000
++.010 
+–.000
+H Hex 
++.017 
+–.016
++.010 
+–.000
+0.1P-0.3L-TS
+ 9
+ .669
+ .6250
+1.199
+ .700
+ .670
+ .875
+1.062
+ .697
+M12X1-6g
+11
+ .769
+ .7500
+1.386
+ .825
+ .770
+1.000
+1.250
+ .822
+M15X1-6g
+13
+ .955
+ .8750
+1.511
+1.010
+.955
+1.188
+1.375
+1.007
+M18X1-6g
+15
+1.084
+1.0000
+1.636
+1.135
+1.085
+1.312
+1.500
+1.134
+M22X1-6g
+17
+1.208
+1.1875
+1.761
+1.260
+1.210
+1.438
+1.625
+1.259
+M25X1-6g
+19
+1.333
+1.2500
+1.949
+1.385
+1.335
+1.562
+1.812
+1.384
+M28X1-6g
+21
+1.459
+1.3750
+2.073
+1.510
+1.460
+1.688
+1.938
+1.507
+M31X1-6g
+23
+1.575
+1.5000
+2.199
+1.635
+1.585
+1.812
+2.062
+1.634
+M34X1-6g
+25
+1.709
+1.6250
+2.323
+1.760
+1.710
+2.000
+2.188
+1.759
+M37X1-6g
+ † 
+Red band indicates fully mated         
+††  Blue band indicates rear release contact retention system
+All dimensions for reference only. 
+Most common options are shown; 
+other options are available. 
+  H 
+.059 dia. min. 3 lockwire holes or formed lockwire hole design (6 holes).  
+ 
+ 
+*“D” shaped mounting hole dimensions
+16
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Jam Nut, Double Flange Receptacles 
+TV47 & TVS47
+ 
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+D1
+D2
+PANEL HOLE 
+DIMENSIONS
+STAINLESS STEEL
+TVS47RK 
+TVS47RKN
+TVS47RS 
+TVS47RL
+JAM NUT
+D-HOLE
+MOUNTING
+ALUMINUM
+TVS47RF 
+TV47RW
+TV47DT 
+TV47DZ
+TVS47RB
+TVS47DB
+TV47DW
+.673 ±.002
+C
+.889 MAX.
+S
+††
+CONTACT
+STICKOUT SEE STEP 7
+HOW TO ORDER
+45°
+RED
+BAND
+†
+BLUE
+BAND
+W
+2 PLACES
+.019  ± .001 DIA.
+FOR SIZES 20 & 22D
+.062 ± .001 DIA.
+FOR SIZE 
+16 CONTACTS
+B THREAD
+V
+H
+HEX
+R THREAD
+.062-.125
+PANEL THICKNESS
+M
+(4) CORROSION RESISTANT STEEL
+.112-40 UNC-3B HELICAL INSERTS
+.005
+M
+PCB Mounting 
+C 
+H 
+D1 
+D2 
+R Thread 
+S 
+Dimensions
+B Thread 
+Class 2A 
+±.005 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Shell 
+Size
+0.1P-0.3L-TS 
+(Jam Nut 
+V Dia. (TV) 
+W (CTV) 
+MS Shell 
+Size Code 
+(For Ref.)
++.010 
+–.000
++.000 
+–.010
+Metric 
+(Plated)
++.011 
+–.010
+(Plated)
+Flange Dia.
+Hex 
++.017 
+–.016
+M 
+Dia. 
+±.005
+(TV )
+ M 
+Dia. 
+±.005
+(CTV)
+TP 
+TP
+  9
+A
+  .6250
+1.188
+.700
+.670
+ .875
+1.062
+1.016
+M17X1-6g0.100R
+1.062
+.753
+ .532
+11
+B
+  .7500
+1.375
+.825
+.770
+1.000
+1.062
+1.148
+M20X1-6g0.100R
+1.250
+.850
+ .601
+13
+C
+  .8750
+1.500
+1.010
+.955
+1.188
+1.250
+1.250
+M25X1-6g0.100R
+1.375
+.994
+ .703
+15
+D
+1.0000
+1.625
+1.135
+1.085
+1.312
+1.375
+1.375
+M28X1-6g0.100R
+1.500
+1.119
+ .791
+17
+E
+1.1875
+1.750
+1.260
+1.210
+1.438
+1.500
+1.500
+M32X1-6g0.100R
+1.625
+1.237
+.875
+19
+F
+1.2500
+1.937
+1.385
+1.335
+1.562
+1.625
+1.625
+M35X1-6g0.100R
+1.812
+1.379
+.975
+21
+G
+1.3750
+2.062
+1.510
+1.460
+1.688
+1.750
+1.750
+M38X1-6g0.100R
+1.937
+1.489
+1.053
+23
+H
+1.5000
+2.188
+1.635
+1.585
+1.812
+1.875
+1.875
+M41X1-6g0.100R
+2.062
+1.644
+1.145
+25
+J
+1.6250
+2.312
+1.760
+1.710
+2.000
+2.000
+2.000
+M44X1-6g0.100R
+2.188
+1.744
+1.233
+H   .059 dia. min. (1.5 dia. min.) 3 lockwire holes or
+ 
+formed lockwire hole design (6 holes).
+All dimensions for reference only.
+†  Red band indicates fully mated
+†† Blue band indicates rear release contact retention system.
+17
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Reduced Flange Jam Nut Receptacles
+TV97, TVS97, TV98, TVS98
+PART NUMBER BUILDER Page 10 
+ONLINE CONFIGURATOR www.amphenol-aerospace.com
+STAINLESS STEEL
+TVPS97RK 
+TVPS97RKN
+TVPS97RS 
+TVPS97RL
+ALUMINUM
+TVS97RF, TVS98RF 
+TV97RW, TV98RW 
+TV97DT, TV98DT 
+TV97DZ, TV98DZ
+TVS97RB, TVS98RB
+TVS97DB, TVS98DB
+TV97DW, TV98DW
+1.220 REF.
+C DIA.
+A
+M
+D1
+‘O’ RING
+RED
+BAND†
+D2
+TVS97 
+1.235
+MAX
+1.335
+MAX
++.005
+–.000
+.043
+JAM NUT
+D-HOLE
+PANEL THICKNESS
+.062 MIN  .125 MAX
+MOUNTING
+BLUE BAND†
+ØGG
+1.235
+MAX
+B THREAD
+.456
+REF
+STANDARD D38999
+MATING INTERFACE
+R THREAD
+LOCK WIRE HOLES
+4 PLACES
+.062 –.125
+PANEL THICKNESS
+ØB
+.125
+±.005
+.094
+±.005
+4 PLACES
+A
+Shell 
+Size
+Footprint
+Reduction
+Ø B 
+Max
+Ø GG 
+Max
+Ø C 
+MAX
+1.235
+MAX
+1.335
+MAX
+9
+42%
+.443
+.915
+.744
+PANEL THICKNESS
+.062 MIN  .125 MAX
+ØGG
+1.235
+MAX
+11
+46%
+.567
+1.042
+.862
+.456
+REF
+ØB
+13
+37%
+.680
+1.240
+1.020
+ØC
+15
+36%
+.811
+1.357
+1.141
+A
+17
+21%
+.936
+1.630
+1.385
+TVS98 
+19
+21%
+1.042
+1.816
+1.531
+21
+21%
+1.167
+1.942
+1.656
+VIEW AT A
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+23
+21%
+1.292
+2.067
+1.782
+25
+22%
+1.417
+2.190
+1.910
+ØC
+1
+2
+A 
+D
+D
+Shell 
+Size
+MS Shell 
+Size Code
+B Thread Class 
+2A 0.1P-0.3L-TS 
+C Dia.
+Max.
+(Plated)
++.010 
+–.005
++.010 
+–.000
++.000 
+–.010
+M
+R Thread 
+(Plated) 
+9-7543
+ 9
+A
+  .6250
+.104
+.915
+.693
+.657
+.871
+M17X1-6g
+11
+B
+  .7500
+.104
+1.042
+.825
+.770
+.871
+M20X1-6g
+VIEW AT A
+13
+C
+  .8750
+.104
+1.240
+1.010
+.955
+.878
+M25X1-6g
+15
+D
+1.0000
+.104
+1.357
+1.135
+1.085
+.878
+M28X1-6g
+17
+E
+1.1875
+.104
+1.630
+1.260
+1.210
+.878
+M32X1-6g
+19
+F
+1.2500
+.135
+1.816
+1.385
+1.335
+.878
+M35X1-6g
+21
+G
+1.3750
+.135
+1.942
+1.510
+1.460
+.878
+M38X1-6g
+23
+H
+1.5000
+.135
+2.067
+1.635
+1.585
+.878
+M41X1-6g
+25
+J
+1.6250
+.135
+2.190
+1.760
+1.710
+.878
+M44X1-6g
+18
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+38999 PCB Connector with Ground Pins
+ 
+• Available in box mount and jam nut style shells
+• Intermateable with any MIL-DTL-38999  
+ Series III plugs and Accessories
+• Allows for PCB to be grounded  
+ directly to board
+• Multiple ground pin positions available
+• Available in aluminum with all Amphenol  
+ 
+ standard plating options
+Example: TV07DZ-15-35P(P25B)
+Only available is shell style 02 and 07. See page 10 for complete How to Order options.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Connector Type
+Shell Style
+Service Class
+Shell Size - Insert 
+Arrangement
+Contact Type
+Alternate Position
+PCB Length
+Pin Orientation
+TV or PTV  
+07
+RF
+15-35
+P
+A
+(P25)
+B
+(Potted Version)
+Ground Pin Orientation Table
+Shell 
+Size
+P
+# of Pins
+Location
+Suffix
+9
+.194
+Upper
+U
+See How to Order Page 
+1
+11
+.257
+Lower
+L
+13
+.315
+2
+Both
+B
+15
+.378
+17
+.441
+19
+.494
+21
+.556
+23
+.619
+25
+.681
+19
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+High Density Interconnects
+H 38999
+High Density
+The HD38999 family of connectors has 30% more contact density than the highest density Mil Spec 38999 connectors 
+of comparable size. This series of connectors was designed to utilize Military Specified 38999 components with the 
+exception of the contacts and inserts arrangement. Utilizing existing qualified M39029 size 23 contacts and 38999 insert 
+materials, these connectors are essentially a drop-in replacement for a standard 38999 connector.
+HD38999 is tested and meets the requirements of MIL-DTL-38999 Series III. If you need a customized version please 
+contact us with your requirment.
+Signal-Ground Pin Configuration 
+Wiring Recommendations
+Orange
+Blue
+White/Blue
+Filtered HD38999 Connectors -  
+for EMI/EMP Protection
+White/Orange
+1
+White/Green
+9 7
+8
+2
+3
+High density patterns are available in filter 38999  
+connectors - consult Amphenol Aerospace for ordering.
+Ground/or 
+cavity not used
+5
+4
+6
+Brown
+Green
+White/Brown
+View Rear of Connector
+HD38999 for Gigabit  
+Ethernet Applications
+The HD38999 is available for high speed (Gigabit 
+Ethernet) data transmission in the size 9-9 insert 
+pattern. Data transmission performance of this 
+connector insert:
+• 10 Base T, 100 Base TX, and 1000 Base T  
+ 
+ networks using Cat 5e per TIA/EIA568B  
+ 
+ and Class D per ISO/IEC 11801. 
+ (Test report available - consult AmphenolAero  
+ space for more information)
+20
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+High Density Interconnects
+How to Order
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+PCB 
+Connector Type
+Shell Style
+Service Class
+Shell Size - Insert 
+Arrangement
+Contact Type
+Alternate 
+Positions 
+Optional
+TV or PTV  
+07
+RW
+23-151
+P
+B
+(P25)
+(Potted version)
+P (prefix forPotted)
+3.  Service Class (ALL 175°C)
+1. Connector Type
+2. Shell Style
+TV
+Tri-Start Series Connector
+00
+Wall Mount Receptacle
+RW
+Corrosion resistant olive drab cad-
+mium plated aluminum, 500 hour 
+extended salt spray
+TVP
+Panel Mounted Receptacle
+40
+Wall Mount Double 
+Flange Receptacle
+h
+p
+e
+n
+m
+o
+A
+l
+CTV
+Composite Tri-Start Series
+S
+H
+o
+R
+DT
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+CTVP
+Panel Mounted Composite
+10
+Wall Mount (Clinch 
+Nuts)
+Durmalon plated, alternative to 
+cadmium. Corrosion resistant, 500 
+hour extended salt spray
+*Add P prefix for potted ex: PTV
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+80
+Wall Mount with Integral 
+Backshell
+DZ
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Black Zinc-Nickel alternative to 
+cadmium. 500 hour salt spray, 
+conductive
+02
+Box Mount Receptacle
+4. Shell Size –  Insert Arrangement
+Shell Size
+Insert Arrangement 
+12
+Box Mount (Clinch Nuts)
+DW
+Number
+Corrosion resistant olive drab cad-
+mium plated aluminum, 1,000 hour 
+extended salt spray
+01
+Line Receptacle
+9-
+9
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+07
+Jam Nut Receptacle
+RB
+Marine Bronze - 500 hour salt spray
+C
+E
+E
+U
+/
+11-
+19
+/
+5
+2
+9
+0
+/
+0
+2
+13-
+32
+47
+Jam Nut Double Flange 
+Receptacle
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+15-
+55
+C
+E
+E
+U
+RF
+Electroless nickel plated aluminum, 
+48 hour salt spray
+/
+/
+5
+2
+9
+0
+/
+0
+2
+87
+Jam Nut with Integral 
+Backshell
+17-
+73
+h
+p
+e
+n
+m
+o
+A
+l
+19-
+88
+S
+H
+o
+97
+Reduced Flange Jam 
+Nut Receptacle
+R
+RK
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+21-
+121
+Corrosion resistant stainless steel, 
+firewall capability, plus 500 hour salt 
+spray resistance
+98
+Reduced Flange Jam 
+Nut with Standoffs
+23-
+151
+h
+p
+e
+n
+m
+o
+A
+l
+S
+06
+Straight Plug
+H
+o
+R
+25-
+187
+RKN
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant stainless steel, 
+Nonfirewall capability, plus 500 hour 
+salt spray resistance
+Shell Sizes are MIL-DTL-38999, Series III.
+96
+h
+Straight Plug with  
+Integral Backshell (not 
+available in composite)
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RL
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant steel, electro  
+deposited nickel, 500 hour salt 
+spray, non firewall
+76
+Plug with  
+Integral Strain Relief
+5. Contact Type
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+P
+500 Cycle Pin Contacts
+o
+R
+RS
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+S
+500 Cycle Socket Contacts
+6. Alternate Position
+(Non-hermetic connectors), Nickel 
+plated, corrosion resistant steel, 
+firewall capability, 500 hour salt 
+spray
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+H
+1500 Cycle Pin Contacts
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+C
+E
+E
+U
+/
+J
+1500 Cycle Socket Contacts
+/
+DB
+Black Electroless Nickel,  100 hour 
+salt spray
+5
+2
+9
+0
+/
+0
+2
+A, B, C, D, E and omit for  
+normal Rotation. See page 84 
+for complete information
+7. PCB Contact Options
+Socket Contacts
+Socket Contacts with 
+PCB tail stickout +/-
+Pin Contacts
+Pin Contacts with 
+Alignment Disc*
+Alignment Disc
+.040 inch
+P1
+P1AD
+S1
+S1AD
+.100* 
+Pre-Tin Options  
+Add "T" to end of suffix 
+for Pre-tinned PC tails 
+Ex: (P15T), (S25ADT)
+P15
+P15AD
+S15
+S15AD
+.150*
+P2
+P2AD
+S2
+S2AD
+.200*
+P25
+P25AD
+S25
+S25AD
+.250*
+P3
+P3AD
+S3
+S3AD
+.300*
+P35
+P35AD
+S35
+S35AD
+.350*
+21
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Tri-Power with RADSOK® Technology
+Amphenol has combined the reliability of D38999 connectors  
+with the high-current RADSOK® contact design.
+The Amphenol Power Connectors incorporate the proven design of the MIL-DTL-38999 
+Series III Tri-Start connectors with the evolving technology of the High Power RADSOK® 
+contacts. This newly designed product enables customers to choose contacts ranging from 
+70 to 120 amps (240 to 620 amps per connector) allowing more power in a  
+smaller connector. 
+Using standard shell sizes for 38999 connectors will allow the Power Connectors to mate to  
+existing mounting holes without changing the customer’s original design. In addition,  
+Amphenol offers oversized 38999-style shells which are able to provide more power  
+and amperage, while maintaining the proven, trusted MIL-DTL-38999 style design.
+High Reliability:
+Unique RADSOK® design and 
+construction technology create 
+an electrical contact interface 
+that exceeds typical interconnect 
+requirements. Applications in 
+aerospace, medical, industrial, 
+automotive, mining, offshore, and 
+other harsh environments depend 
+on high reliability of the Amphenol 
+RADSOK® technology.
+Low Contact Resistance:
+The large interface area between the socket lamella and pin surface 
+result in very low contact resistance, enabling the RADSOK® contacts’ 
+high current ratings compared to traditional power contact designs.
+High Mating Cycle Durability:
+Even with continuous exposure to harsh environmental abuse (salt, 
+sand, and high humidity), RADSOK® contacts have been tested to 
+maintain low contact resistance beyond 10,000 mating cycles.
+Low Contact Engagement/ 
+Separation Forces:
+The hyperbolic lamella socket 
+contact construction distributes 
+normal forces over a high percent-
+age of the mating pin surface. This 
+creates a smooth, even engage-
+ment effort. 
+22
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Tri-Power with Radsok Contacts
+How to Order
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Connector Type
+Shell Style
+Service Class
+Shell Size
+Insert Arrangement
+Contact Type
+Alternate Positions
+MP
+00
+RF
+21
+AH
+P
+B
+33-6
+(2) Size 8 (4) Size 4
+33-5
+(5) Size 4
+25L-3
+(2) Size 4 (1) Size 8
+1. Connector Type
+2. Shell Style
+3. Service Class
+MP
+Tri-Power
+00
+Wall Mount Receptacle
+RS
+06
+Plug
+25L-7
+(7) Size 8 Contacts
+21-AH
+(4) Size 8 Contacts
+25-AH
+(2) Size 4 Contacts
+Nickel plated, corrosion  
+resistant steel, firewall  
+capability, 500 hour salt 
+spray, 200°C
+07
+Jam Nut Receptacle
+33-6
+(2) Size 8 (4) Size 4
+33-5
+(5) Size 4
+25L-3
+(2) Size 4 (1) Size 8
+4. Shell Size
+5. Insert Arrangement
+RF
+Electroless nickel plated  
+aluminum 48 hour salt spray, 
+200°C
+See drawings to the right
+21
+MIL Shell Size G
+23*
+MIL Shell Size H
+37-5
+(4) Size 0
+RW
+25
+MIL Shell Size J
+25L-7
+(7) Size 8 Contacts
+21-AH
+(4) Size 8 Contacts
+25-AH
+(2) Size 4 Contacts
+Corrosion resistant olive drab 
+cadmium plated aluminum, 
+500 hour extended salt spray, 
+175°C
+25L
+-Proprietary
+33
+-Proprietary
+ * Consult Amphenol for availability
+DT
+Durmalon: Gray non-reflec-
+tive finish, RoHS® compliant 
+cad & Hexavalent Chromium 
+free. 500 hours extended salt 
+spray, 175°C
+6. Contact Type
+7. Alternate Position
+37-5
+(4) Size 0
+P
+Pin Contacts
+DZ
+33-6
+(2) Size 8 (4) Size 4
+33-5
+(5) Size 4
+25L-3
+(2) Size 4 (1) Size 8
+Black Zinc-Nickel alterna-
+tive to cadmium. Corrosion  
+resistant, 500 hour salt 
+spray, conductive, 175°C
+S
+Socket Contacts
+A, B, C, D, E omit for normal  
+rotation parts. See page 84 for  
+complete information
+33-6
+(2) Size 8 (4) Size 4
+33-5
+(5) Size 4
+25
+(2) Size 4
+ * For Special termination methods such as 
+threaded or solder cup, contact factory
+25L-7
+(7) Size 8 Contacts
+21-AH
+(4) Size 8 Contacts
+25-AH
+(2) Size 4 Contacts
+25L-7
+(7) Size 8 Contacts
+21-AH
+(4) Size 8 Contacts
+25-
+(2) Size 4
+37-5
+(4) Size 0
+RADSOK Contact Derating Chart
+37
+(4) S
+33-6
+(2) Size 8 (4) Size 4
+33-5
+(5) Size 4
+25L-3
+(2) Size 4 (1) Size 8
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+33-6
+(2) Size 8 (4) Size 4
+33-5
+(5) Size 4
+25L-3
+(2) Size 4 (1) Size 8
+25L-7
+(7) Size 8 Contacts
+21-AH
+(4) Size 8 Contacts
+25-AH
+(2) Size 4 Contacts
+33-6
+(2) Size 8 (4) Size 4
+33-5
+(5) Size 4
+25L
+(2) Size 4 (
+25L-7
+(7) Size 8 Contacts
+21-AH
+(4) Size 8 Contacts
+25-AH
+(2) Size 4 Contacts
+37-5
+(4) Size 0
+25L-7
+(7) Size 8 Contacts
+21-AH
+(4) Size 8 Contacts
+25-A
+(2) Size 4 C
+Standard 
+Contacts
+RADSOK 
+Contacts
+37-5
+(4) Size 0
+Size
+Amps
+Size
+Amps
+8
+46
+8
+70
+4
+80
+4
+120
+37-
+(4) Si
+0
+150
+0
+250
+23
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Bulkhead Feed-Throughs,  
+Connector Savers & Plug Adapters
+Bulkhead Feed-Through Connectors remove the need for 
+discrete wire termination when assembling the connector
+Features & Benefits:
+Amphenol Aerospace's Bulkhead Feed-Through connectors are double-ended 
+receptacles with feed through contacts that mate to standard MIL-DTL-D38999 plugs. 
+Available in multiple shell and contact gender configurations, they are designed to 
+meet applicable requirements for 38999 series III and allow for usage in new applica-
+tions where standard connectors won't suffice.
+Connector Savers:
+Amphenol's Connector Savers protect connectors subjected to repeated mating 
+cycles and prevent costly repairs associated with replacement of connectors and/or 
+cables. These connectors can also be used when mating plugs to alternate plated 
+receptacle in efforts to avoid corrosion. Fully compatible with standard MIL-DTL-38999 
+connectors and protection caps.
+• Corrosion Resistance: 
+ Several Shell Finishes capable of  
+ withstanding 500 hours of salt spray.
+• Environmentally Sealed: 
+ Environmentally sealed when mated  
+ with Mil-Spec plug.
+• Gender Availability: 
+ Available in a variety of gender options  
+ tailored to your application needs.
+• Contact Protection: 
+ Recessed pins in this 100%  
+ scoop-proof connector minimize   
+ potential contact damage.
+• Versitile:  
+ Mates to standard D38999  
+ plug connectors (D38999/26).
+• Temperature: 
+ Performs in ranges from 
+  -65°C through 200°C.
+Options:
+• Fully tooled in all Standard D38999 insert patterns 
+• Contact Amphenol for Firewall Capability
+• Amphenol standard platings available for both  
+ aluminum and stainless steel shells
+• Also avaiblable: thermocouple, filtering, custom, mixed keying   
+ arrangements, and high speed. Contact Amphenol for 
+    more information.
+24
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Bulkhead Feed-Through & Connector Savers
+How to Order (Ex: BTV07RW-21-35SPB)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Connector Type
+Shell Style
+Service Class
+Shell Size - Insert 
+Arrangement
+Contact Type
+Alternate Positions
+Modifications
+BTV
+07
+RW
+21-35
+SP
+B
+(Optional)
+Note: Panel Accomodations .060 - .150"
+3.  175°C  Service Class
+2. Shell Style
+1. Connector Type
+00
+Wall Mount Receptacle
+RW
+BTV
+Bulkhead Feed-
+Through Connector
+Corrosion resistant olive drab cadmium 
+plated aluminum, 500 hour extended salt 
+spray
+01
+Line Receptacle  
+(Plug Adapter)
+TVCS
+Connector Saver
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+07
+Jam Nut Receptacle
+R
+DT
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Durmalon plated, alternative to cadmium. 
+Corrosion resistant, 500 hour extended 
+salt spray
+10
+Wall Mount with  
+Clinch Nuts
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+Omit for Connector Saver
+C
+E
+E
+U
+/
+/
+DZ
+Black Zinc-Nickel alternative to cadmi-
+um. 500 hour salt spray, conductive
+5
+2
+9
+0
+/
+0
+2
+DW
+Corrosion resistant olive drab cadmium 
+plated aluminum, 1,000 hour extended 
+salt spray
+3. 200°C Service Class
+5. Contact Type
+4. Shell Size - Insert 
+Arrangement
+h
+p
+e
+n
+m
+o
+A
+l
+SP
+Socket-Pin
+S
+H
+o
+R
+9-
+RB
+Marine Bronze - 500 hour salt spray
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+PS
+Pin-Socket
+11-
+PP
+Pin-Pin
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+13-
+SS
+Socket-Socket
+C
+E
+E
+U
+RF
+Electroless nickel plated aluminum, 48 
+hour salt spray
+/
+/
+5
+2
+9
+0
+/
+0
+2
+15-
+Fill in applicable 
+h
+17-
+p
+e
+n
+m
+o
+A
+l
+38999 Insert Pattern
+S
+H
+o
+R
+RK
+C
+E
+19-
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant stainless steel, fire-
+wall capability, plus 500 hour salt spray 
+resistance
+21-
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+23-
+RL
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Note: For Jam Nut/Wall Mount versions the 
+first letter designates the panel side of the 
+connector (see drawing) while the second 
+letter in the sequence designates the  
+opposite side. The In-Line can be reversed.
+For connector savers, the first letter  
+designates the contact gender on the plug 
+side of the connecot saver
+Corrosion resistant steel, electro  
+deposited nickel, 500 hour salt spray, 
+non firewall
+25-
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+6. Alternate Position
+C
+E
+E
+U
+/
+/
+DB
+Black Electroless Nickel,  100 hour salt 
+spray
+5
+2
+9
+0
+/
+0
+2
+A, B, C, D, E omit for normal 
+rotation parts. See page 84 for 
+complete information
+7. Modifications
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+MOUNTING PANEL
+(PWR)
+Replace coax/twinax  
+contacts with power 
+contacts
+BTV07XXXX-XXPS
+JAMNUT CONNECTOR
+BTV00XXXX-XXPS
+WALL MOUNT CONNECTOR
+25
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Bulkhead Feed-Through Connectors
+BTV00-Wall Mount, BTV10 Wall Mount with Clinch Nuts 
+BTV01-Line Mount
+1.738 REF
+1.738 REF
+.158 REF
+1.013 REF
+.158 REF
+1.013 REF
+S
+2 PLACES
+S
+2 PLACES
+R1
+2 PLACES
+R2
+2 PLACES
+BTV00 - Wall Mount
+BTV10 -  Wall Mount with 
+ 
+Clinch Nuts
+R1
+2 PLACES
+R2
+2 PLACES
+PP
+4 PLACES
+B THREAD
+BOTH ENDS
+PP
+4 PLACES
+B THREAD
+BOTH ENDS
+.005
+P
+4 PLACES
+4 PLACES
+.005
+P
+Connector 
+B Thread Class 2A, 
+P 
+PP 
+R1
+R2
+S 
+Size
+Blunt Start per 9-3200-2
+±.007
+±.007
+±.010
+9
+.6250-0.IP-0.3L-TS
+.128
+.216
+.719
+.594
+.937
+11
+.7500-0.IP-0.3L-TS
+.128
+.194
+.812
+.719
+1.031
+13
+.8750-0.IP-0.3L-TS
+.128
+.194
+.906
+.812
+1.126
+15
+1.0000-0.IP-0.3L-TS
+.128
+.173
+.969
+.906
+1.220
+17
+1.1875-0.IP-0.3L-TS
+.128
+.194
+1.062
+.969
+1.311
+19
+1.2500-0.IP-0.3L-TS
+.128
+.194
+1.156
+1.062
+1.437
+21
+1.3750-0.IP-0.3L-TS
+.128
+.194
+1.250
+1.156
+1.563
+23
+1.5000-0.IP-0.3L-TS
+.154
+.242
+1.375
+1.250
+1.689
+25
+1.6250-0.IP-0.3L-TS
+.154
+.242
+1.500
+1.375
+1.811
+1.738 REF
+1.738 REF
+.300 REF
+.300 REF
+COMMON
+DIAMETERS
+4 FLATS
+TANGENT TO SHELL
+COMMON
+DIAMETERS
+4 FLATS
+TANGENT TO SHELL
+BTV01- Line Mount
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+GG
+GG
+B THREAD
+BOTH ENDS
+B THREAD
+BOTH ENDS
+Connector 
+B Thread Class 2A,
+Ø GG
+Size
+Blunt Start
+9
+.6250-0.IP0.3L-TS
+.725
+11
+.7500-0.IP0.3L-TS
+.850
+13
+.8750-0.IP0.3L-TS
+.975
+15
+1.0000-0.IP0.3L-TS
+1.100
+17
+1.1875-0.IP0.3L-TS
+1.290
+19
+1.2500-0.IP0.3L-TS
+1.350
+21
+1.3750-0.IP0.3L-TS
+1.475
+23
+1.5000-0.IP0.3L-TS
+1.600
+25
+1.6250-0.IP0.3L-TS
+1.725
+26
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Bulkhead Feed-Through Connectors 
+BTV07 - Jam Nut
+1.738 REF
+H
+.158 REF
+1.013 REF
+.150 MAX
+PANEL THICKNESS
+S
+2 PLACES
+BTV07 - Jam Nut
+B THREAD
+BOTH ENDS
+F
+GG
+RR THREAD
+VALUE BASED ON A 76” RADIUS PANEL
+AND .250 HEX NUT.
+Connector 
+F
+Size
+B Thread Class 2A
+S
+Ø GG
+RR Thread
+H Hex 
+±.016
+.184 + .002 
+9
+.6250-0.IP-0.3L-TS
+1.062
+1.188
+M17X1-6g
+N/A
+.875
+     -.005
+11
+.7500-0.IP-0.3L-TS
+1.250
+1.375
+M20X1-6g
+N/A
+1.000
+.250 + .010 
+13
+.8750-0.IP-0.3L-TS
+1.375
+1.500
+M25X1-6g
+N/A
+1.188
+     -.000
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+15
+1.0000-0.IP-0.3L-TS
+1.500
+1.625
+M28X1-6g
+N/A
+1.312
+17
+1.1875-0.IP-0.3L-TS
+1.625
+1.750
+M32X1-6g
+31.92-31.80
+1.438
+19
+1.2500-0.IP-0.3L-TS
+1.812
+1.938
+M35X1-6g
+N/A
+1.562
+21
+1.3750-0.IP-0.3L-TS
+1.938
+2.062
+M38X1-6g
+N/A
+1.688
+23
+1.5000-0.IP-0.3L-TS
+2.062
+2.188
+M41X1-6g
+N/A
+1.812
+25
+1.6250-0.IP-0.3L-TS
+2.188
+2.312
+M44X1-6g
+N/A
+2.000
+27
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+38999 Connectors with Integral Accessories
+The 38999 Series III style connectors feature integral  
+accessories that eliminate the need for an additional backshell
+The backshell feature is incorporated into the rear of the connector shell, allowing the user to attach the shield of 
+their cable directly to the connector, or provide strain relief for their wire bundle. This provides superior EMI 
+shielding, enhanced sealing and ease for overmold applications. These are available in aluminum and stainless 
+steel shells with most Amphenol platings.
+Features & Benefits:
+• Eliminates need for additional accessory
+• Time savings during order and installation
+• Cost effective
+• Space and weight savings
+• EMI protection
+• Compatible with overmolding processes  
+ (Integral banding platform)
+• Integral strain relief eliminates accessory  
+ backoff concern
+• Eliminates industry problem of  
+ misaligned accessory teeth
+28
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Connectors with Integral Accessories
+How to Order
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Connector Type
+Shell Style
+Service Class
+Shell Size - Insert Arrangement
+Contact Type
+Alternate Position
+Modifications
+(Optional)
+TVS
+76
+DZ
+15-35
+P
+A
+3.  175°C  Service Class
+2. Shell Style
+1. Connector Type
+TV
+Tri-Start 175°C
+96
+Plug with Integral 
+Banding Platform
+RW
+TVS
+Tri-Start 200°C
+Corrosion resistant olive drab cadmium 
+plated aluminum, 500 hour extended salt 
+spray
+h
+p
+e
+n
+m
+o
+A
+l
+87  
+Jam Nut with Integral 
+Banding Platform
+TVPS
+Panel Mounted, 200°C
+S
+H
+o
+R
+DT
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Durmalon plated, alternative to cadmium. 
+Corrosion resistant, 500 hour extended 
+salt spray
+80
+Wall Mount with Integral
+Banding Platform
+h
+p
+e
+n
+m
+o
+A
+l
+4. Shell Size - 
+Insert Arrangement
+S
+H
+o
+R
+DZ
+81
+Line Mount with Integral
+Banding Platform
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Black Zinc-Nickel alternative to  
+cadmium. 500 hour salt spray, conduc-
+tive
+See page 75-83 for Insert
+Arrangements chart and illustrations.
+76
+Plug with Integral Strain 
+Relief
+DW
+5. Contact Type
+Corrosion resistant olive drab cadmium 
+plated aluminum, 1,000 hour extended 
+salt spray
+6. Alternate Position Pg 84
+P
+Pin
+Blank for normal rotation
+3. 200°C Service Class
+S
+Socket
+h
+p
+e
+n
+m
+o
+A
+A rotation
+A
+l
+S
+H
+o
+R
+H
+1500 Cycle Pin Contacts
+RB
+Marine Bronze - 500 hour salt spray
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+B
+B rotation
+J
+1500 Cycle Socket Contacts
+h
+p
+e
+n
+m
+o
+C
+C rotation
+A
+l
+S
+H
+o
+R
+C
+E
+E
+U
+RF
+Electroless nickel plated aluminum, 48 
+hour salt spray
+/
+/
+5
+2
+9
+0
+7. Modifications (Optional)
+/
+0
+2
+D
+D rotation
+E
+E rotation
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RK
+*See page 84 for more information.
+C
+E
+E
+U
+/
+/
+5
+2
+(PWR) 
+9
+0
+/
+0
+2
+Corrosion resistant stainless steel, fire-
+wall capability, plus 500 hour salt spray 
+resistance
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+Replace coax/
+twinax 
+contacts with 
+power 
+contacts
+o
+R
+RL
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant steel, electro  
+deposited nickel, 500 hour salt spray, 
+non firewall
+h
+p
+e
+n
+m
+o
+A
+l
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+S
+H
+o
+R
+C
+E
+E
+U
+/
+/
+DB
+Black Electroless Nickel,  100 hour salt 
+spray
+5
+2
+9
+0
+/
+0
+2
+29
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Plug with Integral Banding Platform
+TV96, TVS96
+PART NUMBER BUILDER Page 29
+.500 ±.002
+A DIA.
+B  
+C 
+A 
+BLUE BAND†
+Shell Size
+MS Shell 
+Size Code
+Max.
++.005 
+-.000
++.003  
+-.002
++.001
+–.002
+.376
+9
+A
+.859
+.416
+.472
+11
+B
+.969
+.524
+.580
+C
+13
+C
+1.141
+.652
+.708
+2 PLACES
+15
+D
+1.266
+.810
+.866
+B
+2 PLACES
+17
+E
+1.391
+.928
+.984
+19
+F
+1.500
+1.046
+1.102
+21
+G
+1.625
+1.164
+1.220
++.001
+–.002
+.063
+.313 ±.002
+23
+H
+1.750
+1.282
+1.338
+25
+J
+1.875
+1.400
+1.456
+1.600
+MAX.
+Jam Nut with Integral Banding Platform 
+TV87, TVS87
+1.700 MAX
+C
+.680
+REF
+SHELL SIZES 9/11
+.871 REF
+SHELL SIZES 13/25
+.878 REF
+C
+Panel Hole 
+Dimensions
+.313 ± .003
+B
+THREAD
+D1
+.063 ± .002
+D2
+G
+2 PLACES
+F
+2 PLACES
+H
+.376 ± .005
+JAM NUT
+D-HOLE
+MOUNTING
+J
+H
+.500 ± .005
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+S
+2 PLACES
+M
+S
+PANEL
+THICKNESS
+.062 MIN .125 MAX
+2 PLACES
+.107
+REF
+G 
+F 
+D1
+D2
+B Thread 
+Class 2A
+C 
+S 
+0.1P-0.3L-TS
+Shell 
+Size
+Max.
+±.010
++.005 
+-.000
++.003  
+-.002
++.010
+-.000
++.010
+-.000
+H Hex
++.017
+-.016
+(Plated)
+MS  
+Shell 
+Size  
+Code
+9
+A
+.416
+.472
+.6250
+1.199
+.693
+.657
+.875
+1.062
+11
+B
+.524
+.580
+.7500
+1.386
+.825
+.770
+1.000
+1.250
+13
+C
+.652
+.708
+.8750
+1.511
+1.010
+.955
+1.188
+1.375
+15
+D
+.810
+.866
+1.0000
+1.636
+1.135
+1.085
+1.312
+1.500
+17
+E
+.928
+.984
+1.1875
+1.761
+1.260
+1.210
+1.438
+1.625
+19
+F
+1.046
+1.102
+1.2500
+1.949
+1.385
+1.335
+1.562
+1.812
+21
+G
+1.164
+1.220
+1.3750
+2.073
+1.510
+1.460
+1.688
+1.938
+23
+H
+1.282
+1.338
+1.5000
+2.199
+1.635
+1.585
+1.812
+2.062
+25
+J
+1.400
+1.456
+1.6250
+2.323
+1.760
+1.710
+2.000
+2.188
+30
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Wall Mount with Integral Banding Platform
+TVP80, TVPS80
+PART NUMBER BUILDER Page 29
+Panel Hole 
+Dimensions
+1.550 MAX
+S
+2 PLACES
+R1
+.905 +.006
+-.000
+S
+2 PLACES
+2 PLACES
+.680
+REF
+R1
+2 PLACES
+R2
+2 PLACES
+A1
+R2
+2 PLACES
+.313 ± .003
+A1
+SHELL SIZES 9/19
+.820 REF
+SHELL SIZES 21/25
+.790 REF
+BACK PANEL
+MOUNTING
+.063 ± .002
+BACK PANEL
+MOUNTING
+F
+2 PLACES
+G
+2 PLACES
+A2
+A2
+.376 ± .005
+.005
+M
+.005
+M
+T
+4 PLACES
+TT
+4 PLACES
+B
+THREAD
+T
+4 PLACES
+TT
+4 PLACES
+.13
+M
+.13
+M
+.500 ± .005
+FRONT PANEL
+MOUNTING
+FRONT PANEL
+MOUNTING
+A1 
+A2 
+G 
+F 
+B Thread 
+Class 2A
+T
+TT
+R
+R
+S
+0.1P-0.3L-TS
+Shell 
+Size
+Max
+±.008
+±.008
++.005 
+-.000
++.003  
+-.002
+(Plated)
+MS  
+Shell 
+Size  
+Code
+Back
+Panel 
+Mount
+Front
+Panel
+Mount
+9
+A
+.416
+.472
+.6250
+.719
+.594
+.948
+.128
+.655
+.516
+.216
+11
+B
+.524
+.580
+.7500
+.812
+.719
+1.043
+.128
+.796
+.625
+.194
+13
+C
+.652
+.708
+.8750
+.906
+.812
+1.137
+.128
+.922
+.750
+.194
+15
+D
+.810
+.866
+1.0000
+.969
+.906
+1.232
+.128
+1.047
+.906
+.173
+17
+E
+.928
+.984
+1.1875
+1.062
+.969
+1.323
+.128
+1.219
+1.016
+.194
+19
+F
+1.046
+1.102
+1.2500
+1.156
+1.062
+1.449
+.128
+1.297
+1.141
+.194
+21
+G
+1.164
+1.220
+1.3750
+1.250
+1.156
+1.575
+128
+1.442
+1.266
+.194
+23
+H
+1.282
+1.338
+1.5000
+1.375
+1.250
+1.701
+.154
+1.547
+1.375
+.242
+25
+J
+1.400
+1.456
+1.6250
+1.500
+1.375
+1.823
+.154
+1.672
+1.484
+.242
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Plug with Integral Strain Relief
+TV76, TVS76
+         
+MS Shell 
+A 
+L            
+T            
+Shell Size
+REF
+Max.
+C
+D DIA       
+REF
+REF
+Size 
+Code
+ØD
+REF
+L
+REF
+T
+REF
+9
+A
+0.859
+0.688
+0.950
+1.890
+0.815
+11
+B
+0.969
+0.812
+1.110
+1.985
+0.910
+13
+C
+1.141
+0.945
+1.270
+2.080
+1.005
+C
+15
+D
+1.266
+1.062
+1.430
+2.175
+1.100
+ØD
+REF
+17
+E
+1.391
+1.250
+1.590
+2.270
+1.195
+19
+F
+1.500
+1.344
+1.750
+2.365
+1.290
+21
+G
+1.625
+1.500
+1.880
+2.490
+1.415
+23
+H
+1.750
+1.656
+2.010
+2.615
+1.540
+25
+J
+1.875
+1.781
+2.150
+2.740
+1.665
+31
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+High Vibration Dualok
+High Vibration 
+Dualok Connector 
+Testing on D38999 
+Series III aluminum 
+plugs with Dualok 
+showed 75% less 
+millivolt drop than 
+Mil-Spec requirements. 
+����    �
+Dualok is an enhanced anti-decoupling mechanism designed to perform under severe vibration 
+environments – far exceeding the performance of MIL-DTL-38999 Series III plugs.
+The Dualok represents the latest in high performance connector designs from Amphenol. Featuring a newly developed locking 
+mechanism, the Dualok plug ensures rock-solid coupling and metal-to-metal bottoming in the most severe vibration environments.  
+ 
+The Dualok system is proven to mitigate the negative effects of high vibration operation by eliminating connector back-off and 
+reducing conditions that can cause fretting corrosion. Dualok is compatible with all D38999 Series III receptacle interfaces and has 
+beenqualified to Boeing Specification BACC63EK.  
+Minimized Contact Fretting:
+The pin-socket interface remains tight 
+under mated conditions. Dualok yields 
+more consistent integrity across the 
+contacts and reduces friction-induced 
+oxides formation.
+Features and Benefits:
+• Mates with standard D38999 receptacles  
+ and utilizes standard D38999 inserts.
+• Designed to withstand and stay mated under  
+ vibration levels that exceed  
+ MIL-DTL-38999 levels
+• Dualok stainless steel provides a weight savings  
+ of up to 42%compared to standard D38999  
+ stainless steel designs
+• Stainless steel, aluminum, composite, or  
+ aluminum bronze materials of construction
+• Dualok aluminum provides ~ 10% weight  
+ reduction over D38999 Aluminum
+• Coupling mechanism that does not “settle”  
+ under vibration levels exceeding MIL-DTL-38999
+• Metal-to-metal bottoming for maximum EMI  
+ shielding under extreme vibration
+• Improved performance under lighting strikes
+32
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+High Vibration Dualok, 38999 Series III Type
+How to Order (TV56, TVS56)
+1.
+2.
+3.
+4.
+5.
+6.
+Connector Type
+Shell Style
+Service Class
+Shell Size - Insert Arrangement
+Contact Type
+Alternate Position
+TVS
+56
+RF
+15-35
+P
+A
+3.  175°C  Service Class
+1. Connector Type
+2. Shell Style
+TV
+Tri-Start 175°C
+56
+Dualok Plug
+RW
+TVS
+Tri-Start 200°C
+Corrosion resistant olive drab cadmium 
+plated aluminum, 500 hour extended  
+salt spray
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+DT
+C
+E
+E
+U
+/
+/
+5. Contact Type
+5
+2
+9
+0
+/
+0
+2
+Durmalon plated, alternative to cadmium. 
+Corrosion resistant, 500 hour extended 
+salt spray
+4. Shell Size - 
+Insert Arrangement
+P
+500 Cycle Pin Contacts
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+DZ
+S
+500 Cycle Socket Contacts
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Black Zinc-Nickel alternative to  
+cadmium. 500 hour salt spray,  
+conductive
+H
+1500 Cycle Pin Contacts
+J
+1500 Cycle Socket Contacts
+3. 200°C Service Class
+6. Alternate Position
+h
+p
+e
+n
+m
+o
+A
+l
+S
+Shell Size & Insert  
+Arrangements are on 
+pages 75-83. First number  
+represents Shell Size, 
+second number is the 
+Insert Arrangement.  
+* Size 7 and 7H are Double 
+Start Threads only
+H
+o
+R
+C
+E
+E
+U
+RF
+Electroless nickel plated aluminum, 48 
+hour salt spray
+/
+/
+5
+2
+9
+0
+/
+0
+2
+See page 84 for complete 
+information
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RK
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant stainless steel, fire-
+wall capability, plus 500 hour salt spray 
+resistance
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RKN
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant stainless steel, 
+Nonfirewall capability, plus 500 hour salt 
+spray resistance
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RL
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant steel, electro  
+deposited nickel, 500 hour salt spray, 
+non firewall
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RS
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+(Non-hermetic connectors), Nickel 
+plated, corrosion resistant steel, firewall 
+capability, 500 hour salt spray
+*Firewall connectors have stainless steel shell and coupling nut.
+*Non-Firewall connectors have stainless steel shell and composite 
+coupling nut.
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+33
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+High Vibration Dualok 38999 Series III Type
+Plug (TV56, TVS56, CTV56, CTVS56)
+PART NUMBER BUILDER Page 33
+COMPOSITE
+CTVS56RF 
+CTV56RW
+CTV56RGF 
+CTV56RGW
+STAINLESS STEEL
+TVS56RK 
+TVS56RKN
+TVS56RS 
+TVS56RL
+ALUMINUM
+TVS56RF 
+TV56RW
+TV56DT 
+TV56DZ
+TV56RGF 
+TV56RGW
+TVS56RB
+VIEW D
+FOR SIZE 8 COAXIAL ONLY,
+RELATIVE TO
+–A–
+1.656 MAX
+1.336 MAX
+B THREAD
+D
+ØE MAX
+–A–
+VIEW D
+FOR SIZE 8 TWINAX ONLY,
+RELATIVE TO
+1.797 MAX
+V THREAD
+BLUE BAND†
+.359 MAX
+–A–
+.591 +.003
+–.000
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+E 
+Shell Size
+B Thread 0.1-0.3L-TS-2B (Plated)
+V Thread 
+Metric.
+Dia. 
+Max.
+ 9
+  .6250
+.953
+M12X1-6g
+11
+  .7500
+1.053
+M15X1-6g
+13
+  .8750
+1.252
+M18X1-6g
+15
+1.0000
+1.365
+M22X1-6g
+19
+1.2500
+1.605
+M28X1-6g
+21
+1.3750
+1.735
+M31X1-6g
+25
+1.6250
+1.975
+M37X1-6g
+34
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+38999 Series III, TV, Plugs
+How to Order (Commercial)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Connector Type
+Shell Style
+Service Class
+Shell Size - Insert 
+Arrangement
+Contact Type
+Alternate Position
+Modifications
+TV or TVS 
+06
+RF
+15-35
+P
+A
+(474)
+1. Connector Type
+2. Shell Style
+3.  175°C  Service Class
+ 06
+Straight Plug
+TV
+Plug, 175 °C
+RW
+Corrosion resistant olive drab cadmium 
+plated aluminum, 500 hour extended salt 
+spray
+ 09
+Flange Mounted Plug
+TVS
+Plug, 200 °C
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+DT
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Durmalon plated, alternative to cadmium. 
+Corrosion resistant, 500 hour extended 
+salt spray
+5. Contact Type
+h
+p
+e
+n
+m
+o
+4. Shell Size - 
+Insert Arrangement
+A
+l
+S
+H
+o
+R
+P
+Pin Contacts
+C
+E
+E
+U
+/
+/
+DZ
+Black Zinc-Nickel alternative to cadmi-
+um. 500 hour salt spray, conductive
+5
+2
+9
+0
+/
+0
+2
+S
+Socket Contacts
+H
+1500 Cycle Pin Contacts
+DW
+Corrosion resistant olive drab cadmium 
+plated aluminum, 1,000 hour extended 
+salt spray
+J
+1500 Cycle Socket Contacts
+Shell Size & Insert  
+Arrangements are on pages 
+75-83. First number represents 
+Shell Size, second number is 
+the Insert Arrangement. 
+3. 200°C Service Class
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RB
+Marine Bronze - 500 hour salt spray
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+6. Alternate Position
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+C
+E
+E
+U
+RF
+Electroless nickel plated aluminum, 48 
+hour salt spray
+/
+/
+5
+2
+9
+0
+/
+0
+2
+A, B, C, D, E omit for normal 
+rotation parts. See page 84 for 
+complete information
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RK
+7. Modifications
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+Corrosion resistant stainless steel, fire-
+wall capability, plus 500 hour salt spray 
+resistance
+(474)
+RotoLok Plug see page 36
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+RKN
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+(734)
+Corrosion resistant stainless steel, 
+Nonfirewall capability, plus 500 hour salt 
+spray resistance
+Wing Nut Plug 
+(Glove applications) see 
+page 36
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+Alignment Disc Data
+R
+Contact Amphenol for other  
+RL
+C
+E
+E
+U
+/
+/
+5
+2
+9
+0
+/
+0
+2
+modification codes.
+Corrosion resistant steel, electro  
+deposited nickel, 500 hour salt spray, 
+non firewall
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+C
+E
+E
+U
+/
+/
+RS
+Nickel plated, corrosion resistant steel, 
+firewall capability, 500 hour salt spray
+5
+2
+9
+0
+/
+0
+2
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+h
+p
+e
+n
+m
+o
+A
+l
+S
+H
+o
+R
+C
+E
+E
+U
+/
+/
+DB
+Black Electroless Nickel, 100 hour salt 
+spray
+5
+2
+9
+0
+/
+0
+2
+35
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+RotoLok High Vibration Plug Solutions
+Add the (474) suffix to the end of TV06 or TVS06 Part Number
+PART NUMBER BUILDER Page 33
+Amphenol extends its high vibration family of products with the RotoLok 
+plugs. These plugs have been tried and tested for years in the field and 
+remain a trusted product for high vibration requirements in the most 
+demanding of environments.
+Please refer to page 33 How-to-order. Add suffix (474) to modification 
+code to order RotoLok high vibration plug
+TV06 - add suffix (474)
+TVS06 - add suffix (474)
+• All Aluminum shell sizes  
+ available in most finishes
+• Intermateable with any  
+ MIL-DTL-38999 Series III receptacle  
+ and accessory
+• Improves electrical performance by 
+ minimizing contact fretting
+• EMI/RFI shielding advantages of  
+ 
+ D38999 Series III plugs
+Wing Nut Plug
+Add the (734) suffix to the end of TV06 or TVS06 Part Number
+TV06 - add suffix (734)
+TVS06 - add suffix (734)
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+B Thread
+0.1P-0.3L-YS
+Shell 
+Size
+B Dia 
+Max.
+B Dia. 
+Max.
+Q Dia. 
+Max.
+(Plated)
+9
+.6250
+.830
+.830
+1.485
+11
+.7500
+.935
+.935
+1.598
+13
+.8750
+1.106
+1.106
+1.772
+15
+1.0000
+1.234
+1.234
+1.898
+17
+1.1875
+1.371
+1.371
+2.024
+19
+1.2500
+1.478
+1.478
+2.134
+21
+1.3750
+1.605
+1.605
+2.256
+23
+1.5000
+1.722
+1.722
+2.382
+25
+1.6250
+1.849
+1.849
+2.677
+36
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+TV Breakaway Fail-Safe Lanyard Release
+Commercial version of D38999/31, Type 6 & others
+Quick-disconnect 
+with an axial pull 
+of lanyard
+Features and Benefits:
+• 25 lanyard lengths
+• Available in all size  
+ 25 arrangements
+• Low force separation  
+ capabilities
+• Compatible with all mil-spec  
+ backshells and accessories
+• Mates to existing D38999 
+ receptacles
+Amphenol offers a commercial version of D38999/31 Series III, Type 6 connectors. Built from the same time-tested and quality 
+components used in its Mil-Spec counterpart, Amphenol’s commercial variant is designed to accept a wider variety of insert 
+arrangements the Mil-Spec does not include. Available in shell size 25, these fail-safe connectors adopt an incredible amount of 
+versatility without sacrificing performance or durability. Consult Amphenol Aerospace for more information.
+Backshells are offered for 
+use with Breakaway Fail 
+Safe Connectors  
+in three heights
+Low Profile Backshells in shell size 25  
+with the following features: 
+•  90 degree termination 
+•  Low profile design with three 
+ 
+heights ranging from 1.010 to 1.660 
+•  Rear access covers to help ease 
+ 
+harness assembly and repairability
+• Amphenol part numbers: 
+ 10-640000-XXX
+Metal shells with Composite Operating Sleeve
+New Hybrid Lanyard Breakaway Fail-Safe connector with a  
+composite  thermoplastic outer operating sleeve for  
+greater durability.
+Amphenol’s hybrid lanyard design offers greater durability over 
+D38999 aluminum and composite designs because of its ability to 
+handle abuse taken after weapons release.
+Other Advantages Include:
+• Lower profile compared to  
+ full metal breakaway 
+ Fail-Safe connectors
+• Less weight
+• Meets MIL-DTL-38999/31
+• Random & sine vibration
+• Ice resistance
+• Fluid immersion and hydrolytic  
+ stability test.
+• Available in shell sizes 25 and 17
+37
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+TV Breakaway Fail-Safe Lanyard Release
+Commercial (725010, 725014, 725041) Version of D38999/31 Type 6
+HOW TO ORDER
+1.
+2.
+3.
+4.
+5.
+Service Class
+Shell  
+Style
+Insert Arrg.
+Alternate Keying
+Position (End A)
+Lanyard Length Code
+88
+725010-
+04
+P
+K
+1. Service Class*
+3. Insert Arrangement
+4. Keying
+2. Shell Style
+Key 
+04
+25-4
+Position
+Pin
+Socket
+88-
+Olive Drab  
+Cadmium
+725010-
+D38999/31 
+Type 6
+07
+25-7
+N
+P
+S
+91-
+Electroless Nickel
+725014-
+Extended  
+Backskirt
+11
+25-11
+A
+G
+H
+17
+25-17
+B
+I
+J
+F2
+725041-
+Integrated  
+Banding 
+Platform
+C
+K
+L
+20
+25-20
+Black Zinc-Nickel 
+alternative to cad-
+mium. Corrosion 
+resistant, 500 hour 
+salt spray, 175°C
+D
+M
+N
+24
+25-24
+E
+R
+T
+26
+25-26
+F7
+29
+25-29
+5. Lanyard Length Code
+35
+25-35
+Durmalon plated, 
+alternative to 
+cadmium. Corro-
+sion resistant, 500 
+hour extended salt 
+spray, 175°C
+Lanyard 
+Length 
+37
+25-37
+Lanyard 
+Length 
+Lanyard 
+Length 
+Code For 
+Part 
+(in.) ± .236
+(mm) ± 6.0
+41
+25-41
+Number
+43
+25-43
+4.016
+102
+A
+46
+25-46
+4.528
+115
+B
+* Contact Amphenol for 
+availability of other finishes.
+61
+25-61
+5.000
+127
+C
+62
+25-62
+5.512
+140
+D
+90
+25-90
+6.024
+153
+E
+F4
+25-F4
+6.535
+166
+F
+187
+25-187
+7.008
+178
+G
+7.520
+191
+H
+7.992
+203
+I
+8.503
+216
+J
+9.016
+229
+K
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+9.528
+242
+L
+10.000
+254
+M
+10.512
+267
+N
+11.024
+280
+P
+11.535
+293
+R
+12.008
+305
+S
+12.520
+318
+T
+13.031
+331
+U
+14.016
+356
+V
+15.000
+381
+W
+16.024
+407
+X
+17.008
+432
+Y
+18.031
+458
+Z
+38
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+TV Breakaway Fail-Safe Lanyard Release
+Commercial (725010) Version of D38999/31 Type 6
+PART NUMBER BUILDER Page 38
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+39
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+TV Breakaway Fail-Safe Lanyard Release
+Commercial (725014 & 725041) Version of D38999/31 Type 6
+PART NUMBER BUILDER Page 38
+R
+2.186
+MAX
+725041 Integrated 
+Banding Platform
+Ø1.400
+REF
+2 PLACES
+Ø1.456
+REF
+2 PLACES
+.216 REF
+.255 REF
+.379 REF
+.419 REF
+88-725014 Extended Backskirt
+2.534 REF
+.787
+REF
+1.747
+REF
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+.280 MINIMUM 
+FULL THREAD
+R
+40
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+TV Breakaway Fail-Safe Lanyard Release Plug
+(88-5565 & 91-5565) Commercial Version of D38999/29 and /30
+HOW TO ORDER
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type/Alternate 
+Service Class
+Shell  
+Style
+Insert Arrg.
+Required Field
+Lanyard Length 
+Code
+Keying Position
+88
+-5565
+04
+0
+P
+K
+1. Service Class*
+5. Lanyard Length Code
+88-
+Olive Drab Cadmium
+Lanyard 
+Length 
+Code For 
+91-
+Electroless Nickel
+Lanyard 
+Length 
+Lanyard 
+Length 
+Part 
+(in.) ± .236
+(mm) ± 6.0
+Number
+METAL
+F2
+4.016
+102
+A
+Black Zinc-Nickel alternative to 
+cadmium. Corrosion resistant, 
+500 hour salt spray, conductive, 
+-65°C to +175°C
+4.528
+115
+B
+.374 MAX
+OUTER SLEEVE MOVEMENT
+DURING UNMATING THREAD RELEASE
+.359 MAX
+5.000
+127
+C
+F7
+5.512
+140
+D
+Durmalon plated, alternative to 
+cadmium. Corrosion resistant, 
+500 hour extended salt spray, 
+175°C
+6.024
+153
+E
+D
+* Contact Amphenol for 
+availability of other finishes.
+B
+6.535
+166
+F
+7.008
+178
+G
+LANYARD
+PULLED TAUT
+AGAINST A 
+.500 ±.031
+DIA MANDREL
+2. Shell Style
+7.520
+191
+H
+BLUE BAND †
+1.781 MAX
+-5565
+Designates MIL-DTL-38999, Series 
+III Tri-Start Lanyard Release Plug
+7.992
+203
+I
+2.375 MAX
+V THREAD
+METRIC
+8.503
+216
+J
+LANYARD LENGTH
+(See Lanyard Length Table)
+3. Insert Arrangement
+3. Insert Arrangement
+9.016
+229
+K
+08
+11-2
+40
+19-35
+9.528
+242
+L
+06
+11-35
+47
+21-11
+10.000
+254
+M
+†  Blue band indicates rear release 
+contact retention system
+Inches
+07
+11-98
+48
+21-16
+MS Shell 
+10
+13-4
+10.512
+267
+N
+49
+21-35
+D Max  
+11
+13-8
+51
+21-39
+Shell 
+Size
+Size 
+Code
+B Max
+Accessory Dia.
+11.024
+280
+P
+14
+13-35
+50
+21-41
+11
+B
+1.846
+1.109
+11.535
+293
+R
+13
+13-98
+57
+23-21
+13
+C
+1.972
+1.250
+12.008
+305
+S
+18
+15-5
+58
+23-35
+15
+D
+2.079
+1.375
+12.520
+318
+T
+23
+15-15
+59
+23-53
+17
+E
+2.205
+1.500
+13.031
+331
+U
+22
+15-18
+61
+23-54
+19
+F
+2.301
+1.625
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+19
+15-19
+60
+23-55
+21
+G
+2.472
+1.750
+14.016
+356
+V
+20
+15-35
+71
+25-4
+23
+H
+2.594
+1.875
+15.000
+381
+W
+21
+15-97
+66
+25-19
+25
+J
+2.705
+2.000
+16.024
+407
+X
+27
+17-6
+74
+25-20
+17.008
+432
+Y
+28
+17-8
+72
+25-24
+18.031
+458
+Z
+29
+17-26
+67
+25-29
+30
+17-35
+68
+25-35
+6. Contact Type/Alternate Keying Position
+31
+17-99
+69
+25-43
+Pin Contacts
+Socket Contacts
+37
+19-11
+73
+25-46
+MS Letter
+Amphenol letter
+MS Letter
+Amphenol Letter
+39
+19-32
+70
+25-61
+PN
+P (normal)
+SN
+S (normal)
+PA
+G
+SA
+H
+* Contact Amphenol for other 
+availability arrangement.
+PB
+I
+SB
+J
+PC
+K
+SC
+L
+4. Required Field
+PD
+M
+SD
+N
+0
+The required 
+field is always 0
+PE
+R
+SE
+T
+41
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Series III
+Tri-Start, MIL-DTL-38999, Series III with Stainless Steel shells
+Amphenol Tri-Start 38999 Series III hermetic connec tors offer the highest performance capabilities for severe 
+environment applications; meeting or exceeding MIL-DTL-38999 Series III require ments.
+Features:
+• Hermetic 
+ Air leakage limited  
+ 
+ to 1 X 10-7 cm3 per  
+ second
+• Fused Glass 
+ 
+ 
+ Fused glass in stainless  
+ or carbon steel shell
+• Tail Lengths  
+ 
+ 
+ Three standard stickout  
+ lengths available
+Stainless Steel with 
+Nickel Plating 
+Passivated  
+Stainless Steel and 
+Carbon Stainless Steel
+42
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Box Mounting Receptacle 
+S
+2 PLACES
+R
+.913+.011
+–.000
+1
+2 PLACES
+R2
+2 PLACES
+.093+.006
+–.000
+Size 22 Ø.030±.0005
+        20 Ø.040±.001
+        16 Ø.0625±.001
+B .100±.03
+D .200±.03
+F .300±.03
+T
+4 PLACES
+.005 M
+B THREAD
+RED
+BAND †
+PCB TAIL STICKOUT
+TT
+4 PLACES
+1.
+2.
+3.
+4.
+5.
+6.
+Base Number
+Coded Shell 
+Size
+Insert Arrg.
+Contact Type/
+Alt. Keying
+Shell Finish
+Tail Length
+PART #
+See chart below
+10-626
+501
+-35
+P
+1
+B
+HOW TO ORDER
+1. Base Number
+4. Contact Type/Alternate Keying
+P
+Designates Pin Contacts in Normal Position. 
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+Refer to page 84 for alternate rotation letters to use.
+2. Coded Shell Size
+5. Shell Finish
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+See chart below 501-509, designates  
+size 9-25 shell size.
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+3
+Carbon Steel w/reflowed tin plate
+3. Insert Arrangements
+6. Tail Length
+B
+.100±.03
+-35
+Designates Insert Arrangement Number.  
+Refer to chart on pages 75-83.
+D
+.200±.03
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+F
+.300±.03
+B Thread 
+† Red band indicates  
+ 
+fully mated 
+T 
+TT 
+0.1P-0.3L-TS 
+R1
+R2
+S 
+Shell 
+Size
+Part Number
+±.010
+±.008
+±.008
+(Plated)
+9
+10-626501-XXX
+  .6250
+  .719
+  .594
+  .938
+.128
+.216
+11
+502-XXX
+  .7500
+  .812
+  .719
+1.031
+.128
+.194
+ 
+NOTE: Consult Amphenol 
+Aerospace for availability  
+of non-glass-sealed  
+versions with printed circuit  
+tail contacts.
+13
+503-XXX
+  .8750
+  .906
+  .812
+1.125
+.128
+.194
+15
+504-XXX
+1.0000
+  .969
+  .906
+1.219
+.128
+.173
+17
+505-XXX
+1.1875
+1.062
+  .969
+1.312
+.128
+.194
+19
+506-XXX
+1.2500
+1.156
+1.062
+1.438
+.128
+.194
+21
+507-XXX
+1.3750
+1.250
+1.156
+1.562
+.128
+.194
+23
+508-XXX
+1.5000
+1.375
+1.250
+1.688
+.154
+.242
+25
+509-XXX
+1.6250
+1.500
+1.375
+1.812
+.154
+.242
+All dimensions for reference.
+    Designates true position dimensioning
+43
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Jam Nut Receptacle 
+C
+PCB TAIL 
+STICKOUT
+L
+PANEL THICKNESS
+.062 MIN  .125 MAX
+PANEL HOLE 
+DIMENSIONS
+D1
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+D2
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+RED
+BAND†
+B THREAD
+H
+JAM NUT
+D-HOLE
+MOUNTING
+K REF
+SHELL SIZES 9/11 – .871
+S
+2 PLACES
+SHELL SIZES 13/25 – .878  
+1.
+2.
+3.
+4.
+5.
+6.
+Base Number
+Coded Shell 
+Insert Arrg.
+Contact Type/
+Shell Finish
+Tail Length
+Size
+Alt. Keying
+PART #
+See chart below
+10-626
+471
+-35
+P
+1
+B
+HOW TO ORDER
+1. Base Number
+4. Contact Type/Alternate Keying
+P
+Designates Pin Contacts in Normal Position. 
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+Refer to page 84 for alternate rotation letters to use.
+2. Coded Shell Size
+5. Shell Finish
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+See chart below 471-479, designates  
+size 9-25 shell size.
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+3
+Carbon Steel w/reflowed tin plate
+3. Insert Arrangements
+6. Tail Length
+B
+.100±.03
+-35
+Designates Insert Arrangement Number.  
+Refer to chart on pages 75-83.
+D
+.200±.03
+ † Red band indicates fully mated         
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+F
+.300±.03
+  H .059 dia. min. (1.5 dia. min.) 3 lockwire holes. Formed 
+ 
+lockwire hole design (6 holes) is optional.
+A+
+D1 
+D1 
+T+
+C 
+L 
+S 
+KK +.011 
+Shell 
+Size
+Part Number
+Max
+Max
+±.010
+–.000
+ +.000 
+–.010
++.010 
+–.000 
++.000 
+–.010
+H Hex 
++.017 
+–.016
+ +.010 
+–.000
+B Thread 
+Class 2A 
+0.1P-0.3L-
+TS (Plated)
+  9
+10-626471-XXX
+  .669
+  .6250
+1.199
+ .700
+ .670
+  .875
+.357
+1.062
+  .697
+  .642
+11
+472-XXX
+  .769
+  .7500
+1.386
+ .825
+ .770
+1.000
+.357
+1.250
+  .822
+  .766
+13
+473-XXX
+  .955
+  .8750
+1.511
+1.010
+ .955
+1.188
+.357
+1.375
+1.007
+  .892
+15
+474-XXX
+1.084
+1.0000
+1.636
+1.135
+1.085
+1.312
+.357
+1.500
+1.134
+1.018
+17
+475-XXX
+1.208
+1.1875
+1.761
+1.260
+1.210
+1.438
+.357
+1.625
+1.259
+1.142
+19
+476-XXX
+1.333
+1.2500
+1.949
+1.385
+1.335
+1.562
+.381
+1.182
+1.384
+1.268
+21
+477-XXX
+1.459
+1.3750
+2.073
+1.510
+1.460
+1.688
+.381
+1.938
+1.507
+1.392
+23
+478-XXX
+1.575
+1.5000
+2.199
+1.635
+1.585
+1.812
+.381
+2.062
+1.634
+1.518
+25
+ 479-XXX
+1.709
+1.6250
+2.323
+1.760
+1.710
+2.000
+.381
+2.188
+1.759
+1.642
+All dimensions for reference only. 
+44
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Solder Mounting Receptacle 
+L
+M
+PCB TAIL 
+STICKOUT
+.031
++.006
+ 
+–.005
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+KK
+B THREAD
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+GG
+RED BAND†
+1.
+2.
+3.
+4.
+5.
+6.
+Base Number
+Coded Shell 
+Insert Arrg.
+Contact Type/
+Shell Finish
+Tail Length
+Size
+Alt. Keying
+PART #
+See chart below
+10-626
+481
+-35
+P
+1
+B
+HOW TO ORDER
+1. Base Number
+4. Contact Type/Alternate Keying
+P
+Designates Pin Contacts in Normal Position. 
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+Refer to page 84 for alternate rotation letters to use.
+2. Coded Shell Size
+5. Shell Finish
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+See chart below 481-489, designates  
+size 9-25 shell size.
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+3
+Carbon Steel w/reflowed tin plate
+3. Insert Arrangements
+6. Tail Length
+B
+.100±.03
+-35
+Designates Insert Arrangement Number.  
+Refer to chart on pages 75-83.
+D
+.200±.03
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+F
+.300±.03
+†  Red band indicates fully mated
+L
+M
+B Thread Class 
+2A 0.1P-0.3L-
+Shell 
+Size
+Part Number
+TS (Plated)
++.011
+–.005
++.006
+–.005
+GG Dia.
++.011
+–.010
+KK Dia
++.011
+–.005
+  9
+10-626481-XXX
+  .6250
+.806
+.125
+  .750
+  .672
+11
+482-XXX
+  .7500
+.806
+.125
+  .844
+  .781
+13
+483-XXX
+  .8750
+.806
+.125
+  .969
+  .906
+15
+484-XXX
+1.0000
+.806
+.125
+1.094
+1.031
+17
+485-XXX
+1.1875
+.806
+.125
+1.218
+1.156
+19
+486-XXX
+1.2500
+.806
+.125
+1.312
+1.250
+21
+487-XXX
+1.3750
+.806
+.125
+1.438
+1.375
+23
+488-XXX
+1.5000
+.838
+.156
+1.563
+1.500
+25
+489-XXX
+1.6250
+.838
+.156
+1.688
+1.625
+45
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB Hermetic Weld Mounting Receptacle  
+L
+GG
+M
+PCB TAIL 
+STICKOUT
+B .100 ±.03
+D .200 ±.03
+F .300 ±.03
+B THREAD
+Size 22 Ø.030 ±.0005
+        20 Ø.040 ±.001
+        16 Ø.0625 ±.001
+RED BAND†
+†  Red band indicates fully mated
+1.
+2.
+3.
+4.
+5.
+6.
+Base Number
+Coded Shell 
+Insert Arrg.
+Contact Type/
+Shell Finish
+Tail Length
+Size
+Alt. Keying
+PART #
+See chart below
+10-626
+491
+-35
+P
+1
+B
+HOW TO ORDER
+1. Base Number
+4. Contact Type/Alternate Keying
+P
+Designates Pin Contacts in Normal Position. 
+10-626
+Base Number for MIL-DTL-38999 Series III 
+Hermetic with PCB Tail
+Refer to page 84 for alternate rotation letters to use.
+2. Coded Shell Size
+5. Shell Finish
+1
+Hermetic seal, passivated Stainless Steel, 200°C
+See chart below 491-499, designates  
+size 9-25 shell size.
+2
+Hermetic seal, Stainless Steel w/Nickel Plate
+3
+Carbon Steel w/reflowed tin plate
+3. Insert Arrangements
+6. Tail Length
+B
+.100±.03
+-35
+Designates Insert Arrangement Number.  
+Refer to chart on pages 75-83.
+D
+.200±.03
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+F
+.300±.03
+B Thread Class 2A 
+L
+M
+0.1P-0.3L-TS 
+Shell 
+Size
+Part Number
+(Plated)
++.011
+–.000
++.006
+–.005
+GG Dia.
++.011
+–.010
+9
+10-626491-XXX
+  .6250
+.806
+.125
+ .973
+11
+492-XXX
+  .7500
+.806
+.125
+1.095
+13
+493-XXX
+  .8750
+.806
+.125
+1.221
+15
+494-XXX
+1.0000
+.806
+.125
+1.347
+17
+495-XXX
+1.1875
+.806
+.125
+1.434
+19
+496-XXX
+1.2500
+.806
+.125
+1.579
+21
+497-XXX
+1.3750
+.806
+.125
+1.721
+23
+498-XXX
+1.5000
+.838
+.156
+1.886
+25
+499-XXX
+1.6250
+.838
+.156
+1.973
+* Not available for weld mount. All dimensions for reference only. 
+46
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+AmpheSEAL
+38999 High Pressure Solution
+The AmpheSEAL connectors provide sealing between the plug and receptable interfaces and have been tested to 
+withstand pressure to at least 300 PSI. Not intermateable with standard products. Must use AmpheSEAL on both  
+sides of mated pair.
+Features: 
+• Internal O-ring seals to at least 300 PSI
+• Rear connector sealing method  
+ 
+ 
+ customized to meet the   
+ 
+ 
+ specific application
+• Any D38999 size and insert  
+ arrangement is available
+• All Aluminum shell sizes available in most finishes
+• EMI/RFI shielding advantages of  
+ 
+ 
+ D38999 Series III plugs
+• Contact Amphenol for how to order information
+47
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Ground Plane Connectors
+Coax/Triax/Twinax
+For High Speed Data Bus, LAN and Coax, Triax and Twinax Data Transmission:
+MIL-DTL-38999 type connectors are available with metal inserts to maintain a common ground plane  
+with the connector shell for all the shielded contacts contained in the connector.
+ Insert 
+Arrangement
+Available
+9-5
+11-2
+13-4
+15-5
+These electrical connectors are available for all MIL-DTL-38999 insert patterns using size 16, 10, 12 or  
+8 contacts. This data sheet contains some of the popular insert patterns that are commonly used for  
+ground plane connector applications. Options include crimp termination and printed circuit tail contacts  
+in either solder or compliant pin configurations. Composite shells are also available.  
+To order contact Amphenol Aerospace.
+15-15
+15-97
+17-2
+17-6
+17-8
+17-22
+17-99
+19-11
+19-31
+21-11
+Applications:
+21-16
+21-39
+Applications for ground plane connectors include MIL-STD 1553B 
+data bus as well as video, signal and multiplex transmission.
+21-75
+23-21
+23-54
+25-4
+25-11
+25-19
+25-20
+25-24
+25-29
+25-37
+25-43
+25-46
+48
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+OCS (Oval Contact System) 
+Newest 38999 Style Connector
+Plug
+Receptacle
+The OCS (Oval Contact System) is the newest 38999 Interconnect Product 
+offering that provides many advantages for high speed data transmission. 
+ 
+OCS Mechanical/Physical Properties
+• Mating Cycles 500 (min.)
+• Operating temperature –65C to 175C
+• Contact materials and platings  
+ consistent w/AS39029
+• IR 500 VDC
+• DWV 500 VAC rms
+ Max Current Rating:
+• 1.5 amps inner contacts
+• 3.0 amps outer contacts 
+ 
+   
+Features and Benefits:
+• A wide variety of insert  
+ arrangements available 
+• Patterns range from (1) to (21), 100 Ohm  
+ 
+ differential pairs capable of delivering  
+ 
+ data transfer speeds of 10Gbps per pair
+• MIL-DTL-38999 shell styles available  
+ 
+ from size 9 to 25
+• Front-release, rear-removable contact  
+ 
+Applications:
+High Speed Applications-for use with, 
+but not limited to, the following 
+electrical protocols (Cable selection 
+may limit data rate of protocols). 
+• 10G Base T
+• HDMI
+• Fibre Channel (AI)
+• 40G Base-T
+• SATA 2.0
+• SATA 3.0 (limited to 3 meters max)
+• Serial RapidIO
+• PCI Express 3.0 
+ system for easy repair
+• Meets environmental requirements of 
+ MIL-DTL-38999
+• Uses off-the-shelf Mil Spec backshells
+• PCB Tails contacts available, sockets  
+ 
+ only, epoxy backfilled.
+49
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+OCS (Oval Contact System) Connectors
+BTVContact Eye Pattern at 10 Gbps
+OCS Signal Integrity Performance
+Data rate:  
+10Gbps per pair
+Insertion loss:  
+<0.3 dB up to 5 GHz
+Return loss:  
+>20 dB up to 5 GHz
+NEXT and FEXT:  >40 dB up to 5 GHz
+Differential to 
+common mode 
+conversion: 
+>50 dB up to 5 GHz 
+Eye diagram (Real Part)
+1.5
+1.4
+1.3
+1.2
+1.1
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0
+50
+100
+150
+200
+250
+300
+Individually Shielded Twinax cable is recommended for use with the OCS connectors. Other type of wires can  
+be used, but will not be compatable with the rear accessory supplied with the connectors. Below is a list of  
+recommended cables. Additional cables can be used if they meet specifications.
+The provided grommet assembly will accommodate cable diameters ranging from Ø.124 to Ø.175. Larger  
+diameters may work based on cable construction. 
+Conductor 
+Cable 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Impedance (Ohms)
+(AWG)
+Pairs
+Part Number 
+Tensolite 24463/9P025X-2(LD)
+Thermax MX100-24
+PIC E10224
+24
+1
+Gore GSC-05-82559-00 
+(space rated)
+100
+Gore DXN2602
+24
+4
+Gore RCN 9034-24  
+(CAT6A Ethernet)*
+4
+Gore RCN 9034-26 
+(CAT6A Ethernet)*
+26
+1
+Spectra Strip 160-2699-952
+*Optimized for 13-53 insert pattern.
+OCS cable assemblies available, please consult Amphenol Aerospace for details.
+50
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+OCS (Oval Contact System) Connectors
+How to Order
+1.
+2.
+3.
+4.
+5.
+6.
+Connector Type and
+Shell Style
+Service Class
+Shell Size – 
+Insert Arrangement
+Contact Type
+Alternate Keying 
+Position
+Suffix Code
+TVP00
+RZW 
+13 –53
+P
+B
+(595)
+1. Connector Type
+2. Service Class
+(Z) Threaded  
+TVP00
+Wall Mount Back panel mounted  
+receptacle with metal shells
+(W) Integral 
+Backshell 
+Description
+Backshell Style
+Style*
+CTVP00
+Wall Mount Back panel mounted  
+receptacle with composite shells
+RZF
+RWF
+Electroless nickel plated 
+TV06
+Straight Plug
+RGZF
+RGWF
+Electroless nickel plated ground plane
+CTV06
+Straight Plug composite shells
+RZW
+RWW
+Olive drab cadmium plate
+TV07
+Jam Nut
+RGZW
+RGWW
+Olive drab cadmium plated ground 
+plane
+CTV07
+Jam Nut composite shells
+RZB
+RWB
+NiAlBronze
+3. Shell Size -Insert Arrangement
+RGZB
+RGWB
+NiAlBronze ground plane
+RZK
+RWK
+Corrosion resistance stainless steel
+RGZK
+RGWK
+Stainless steel ground plane
+Shell Size & Insert Arrangements are on pages 52. 
+First number represents Shell Size, second 
+number is the Insert Arrangement. 
+ZDT
+WDT
+Durmalon plated, Nickel-PTFE  
+alternative to cadmium
+4. Contact Type
+GZDT
+GWDT
+Groundplane Durmalon
+P
+Pin contacts 21-033585-001
+ZDZ
+WDZ
+Black Zinc
+S
+Socket contacts 21-033586-001
+Inner contacts accept 28, 26, and 24 awg cable.
+6. Suffix code
+5. Alternate Keying PosiTion
+595
+Space Grade
+A, B, C, D , and omit for Normal Position. See 
+page 84 for more information.
+591
+Space Grade with critical dimensions verified at 100%
+A plug with a given rotation letter will mate with a 
+receptacle with the same rotation letter. 
+Order information for Removal  
+Tool OCS Contact
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+10-6460C1-001
+* Integral Backshell - an integral backshell style eliminates 
+the need for costly backshell accessories, and allows the 
+user to attach the shield of their cable directly to the 
+backshell. The integral shell style also provides superior 
+EMI shielding and ease for overmold applications.
+For unused OCS connector cavities:
+• Leave the contact insert cavity empty 
+ in the connector. 
+• Size 12 MS27488-12-2 (orange color)  
+ sealing plug can be installed into the  
+ grommet of the backshell large end first.
+51
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+OCS (Oval Contact System) Connectors
+Insert Arrangements - Front face of pins illustrated
+15-54
+15-59
+15-59
+17-65
+A
+15-59
+17-65
+A
+15-54
+17-65
+A
+D
+A
+15-59
+A
+D
+A
+17-65
+A
+A
+D
+A
+D
+A
+A
+15-59
+A
+17-65
+A
+13-53
+A
+15-54
+13-53
+A
+D
+A
+A
+15-54
+13-53
+A
+13-53
+A
+9-51
+1
+2
+A
+11-52
+15-54
+13-53
+A
+B
+G
+F
+9-51
+1
+2
+E
+A
+11-52
+D
+B
+G
+F
+E
+9-51
+1
+2
+D
+A
+11-52
+9-51
+1
+2
+B
+G
+F
+A
+11-52
+F
+B
+E
+B
+G
+F
+E
+D
+E
+D
+F
+B
+E
+9-51
+1
+2
+F
+B
+E
+A
+11-52
+B
+G
+F
+F
+B
+E
+E
+D
+3
+4
+B
+3
+A
+4
+F
+B
+E
+3
+B
+B
+4
+E
+H
+A
+B
+3
+B
+A
+4
+E
+H
+B
+B
+E
+H
+A
+D
+C
+3
+4
+B
+E
+H
+D
+C
+B
+A
+C
+C
+B
+E
+H
+C
+B
+C
+C
+C
+D
+C
+B
+D
+C
+C
+B
+C
+D
+C
+C
+D
+D
+C
+C
+B
+D
+C
+C
+D
+15-59
+C
+B
+D
+A
+D
+A
+A
+15-59
+A
+C
+D
+15-54
+13-53
+A
+15-54
+13-53
+A
+Insert 
+Arrangement
+9-51
+11-52
+13-53*
+15-54
+15-59*
+9-51
+9-51
+2
+2
+A
+11-52
+A
+11-52
+E
+E
+D
+D
+1
+2
+4
+6
+5 OCS, 4 22D
+F
+B
+E
+F
+B
+E
+A
+25-49
+23-58
+A
+Number of 
+Contacts
+3
+3
+A
+4
+4
+B
+21-57
+A
+M
+B
+B
+25-49
+23-58
+A
+A
+A
+A
+J
+B
+B
+25-49
+23-58
+A
+N
+19-86
+A
+B
+B
+21-57
+A
+M
+M
+N
+B
+21-57
+A
+M
+J
+G
+D
+D
+N
+19-86
+A
+C
+C
+B
+A
+C
+J
+K
+B
+M
+N
+N
+19-86
+A
+B
+25-49
+23-58
+A
+P
+L
+X
+B
+M
+N
+G
+C
+C
+A
+C
+B
+C
+B
+H
+C
+G
+K
+B
+25-49
+23-58
+A
+B
+21-57
+A
+M
+L
+P
+C
+P
+K
+B
+L
+X
+B
+K
+J
+B
+21-57
+A
+M
+C
+P
+N
+19-86
+A
+L
+X
+H
+B
+N
+H
+B
+Y
+L
+P
+M
+N
+H
+J
+V
+N
+19-86
+A
+D
+L
+K
+P
+B
+G
+C
+M
+N
+K
+F
+K
+N
+H
+Y
+C
+C
+L
+P
+W
+K
+B
+C
+R
+G
+K
+V
+N
+H
+R
+Y
+D
+P
+L
+X
+B
+C
+K
+B
+V
+K
+F
+D
+G
+H
+C
+L
+P
+W
+J
+P
+L
+X
+B
+C
+K
+F
+R
+T
+K
+U
+L
+P
+R
+C
+L
+P
+W
+H
+J
+R
+D
+K
+K
+R
+V
+L
+G
+P
+M
+J
+E
+J
+C
+D
+N
+H
+T
+G
+Y
+K
+U
+T
+J
+C
+V
+J
+T
+E
+D
+U
+D
+N
+H
+Y
+V
+E
+U
+H
+J
+D
+M
+K
+F
+V
+D
+J
+E
+D
+V
+D
+23-58
+A
+23-58
+A
+38999 Insert 
+Arrangements
+The list is available 
+patterns incorporating 
+Octonet, Quadrax and 
+Differential twinax 
+contacts with D38999, 
+Series III connectors. 
+Unless otherwise 
+stated, size 8 cabities 
+can be filled with 
+Quadrax or Differential 
+Twinax contacts. 
+C
+L
+P
+W
+T
+M
+R
+J
+E
+D
+K
+F
+E
+K
+F
+E
+R
+T
+B
+B
+21-57
+A
+21-57
+A
+C
+L
+P
+W
+E
+U
+H
+R
+E
+F
+K
+F
+G
+H
+G
+D
+G
+J
+J
+R
+E
+19-86
+A
+19-86
+A
+U
+H
+J
+C
+D
+T
+M
+N
+M
+N
+F
+E
+U
+G
+G
+G
+J
+J
+C
+F
+E
+T
+U
+F
+F
+G
+H
+G
+V
+C
+C
+K
+B
+K
+B
+M
+J
+J
+15-59
+F
+E
+F
+G
+H
+G
+D
+B
+B
+17-65
+A
+V
+T
+D
+A
+M
+H
+H
+J
+E
+D
+E
+L
+L
+P
+P
+T
+E
+U
+H
+E
+D
+E
+ Insert 
+Arrangement
+Available
+N
+H
+N
+H
+U
+H
+D
+1
+2
+F
+E
+V
+V
+B
+G
+F
+D
+D
+E
+K
+F
+K
+F
+F
+E
+B
+F
+F
+G
+H
+G
+C
+L
+C
+L
+P
+P
+9-5
+K
+K
+R
+R
+F
+F
+G
+H
+G
+3
+4
+G
+G
+J
+J
+C
+C
+17-2
+U
+U
+E
+H
+M
+M
+J
+J
+E
+E
+D
+D
+17-22
+T
+T
+E
+E
+C
+B
+C
+D
+D
+D
+17-25
+F
+E
+F
+E
+F
+G
+H
+F
+G
+H
+15-59
+17-65
+A
+17-65
+A
+17-52
+D
+A
+D
+A
+A
+15-59
+A
+15-54
+13-53
+A
+15-54
+13-53
+A
+17-60
+51
+9-51
+1
+1
+2
+2
+A
+11-52
+A
+11-52
+Insert 
+Arrangement
+17-65
+19-86*
+21-57*
+B
+G
+F
+B
+G
+F
+E
+E
+D
+D
+F
+B
+E
+F
+B
+E
+19-18
+8
+10
+14
+3
+3
+4
+4
+A
+B
+B
+A
+A
+25-49
+23-58
+A
+19-31
+B
+B
+E
+H
+E
+H
+Number of 
+Contacts
+B
+M
+C
+C
+N
+B
+19-AB
+N
+D
+C
+D
+C
+C
+B
+C
+B
+C
+D
+C
+D
+C
+19-AD
+P
+L
+X
+P
+K
+21-65
+C
+Y
+D
+21-75
+W
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+R
+R
+25-49
+25-49
+21-79
+T
+A
+A
+J
+23-58
+A
+23-58
+A
+D
+V
+23-6
+B
+B
+21-57
+A
+21-57
+A
+M
+M
+E
+T
+J
+J
+N
+N
+-86
+A
+B
+B
+M
+N
+M
+N
+E
+U
+H
+25-7
+C
+C
+K
+B
+K
+B
+P
+P
+L
+X
+L
+X
+B
+B
+H
+F
+F
+G
+25-8
+G
+L
+L
+P
+P
+K
+K
+C
+C
+N
+H
+N
+H
+Y
+Y
+25-17
+V
+V
+D
+D
+C
+L
+C
+L
+P
+P
+W
+W
+R
+R
+K
+K
+R
+R
+25-20
+G
+G
+J
+C
+C
+T
+T
+U
+U
+J
+J
+D
+D
+25-26
+V
+V
+M
+M
+J
+J
+E
+E
+D
+D
+T
+T
+25-46
+E
+E
+U
+U
+H
+H
+D
+F
+E
+F
+E
+25-62
+F
+F
+F
+G
+H
+F
+G
+H
+G
+G
+25-AT
+Insert Arrangement
+23-58*
+25-49*
+Number of Contacts
+18
+21
+*  Indicates Insert currently tooled 
+• Designates pin 1 location within the OCS contact assembly
+52
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+OCS (Oval Contact System) Connectors
+TVP00 - Crimp, Metal & CTVP00 - Crimp, Composite Wall Mounting
+A
+M
+L
+VIEW D
+FOR SIZE 8 COAXIAL ONLY,
+RELATIVE TO
+–A–
+B THREAD
+S
+2 PLACES
+LL (TV)
+LL  (CTV)
+1
+R1
+2 PLACES
+PANEL HOLE 
+DIMENSIONS
+.861 MAX
+21.87 MAX
+(TV)   
+M (TV)
+M  (CTV)
+1
+L (TV)
+L  (CTV)
+1
+R2
+2 PLACES
+V THREAD
+AA
+B
+THREAD
+D
+A1
+.909 MAX
+23.09 MAX
+(CTV)
+BACK PANEL
+MOUNTING
+–A–
+VIEW D
+FOR SIZE 8 TWINAX ONLY,
+RELATIVE TO
+RED
+BAND†
+Z (TV)
+Z  (CTV)
+1
+M
+.005
+BLUE
+BAND††
+–A–
+T
+4 PLACES
+TT
+4 PLACES
+1.037 MAX
+26.34 MAX
+(TV)
+M
+.13
+AA
+1.240 MAX
+31.50 MAX
+V  THREAD
+A2*
+RED BAND†
+FRONT PANEL
+MOUNTING
+LL
+1.084 MAX
+27.53 MAX
+(CTV)
+LL 
+L
+M +.000 
+M
+A
+A
+AA Max. 
+LL
+T 
+TT
+V Thread 
+2
+S 
+R
+1
+R
+Panel 
+Shell 
+Size
+L’ Max. 
+(CTV)
+Max.
+±.008
+±.008
+Metric
+Max. 
+(TV)
+–.005 
+(TV)
+1 +.000 
+–.005 
+(CTV)
+1 Back 
+Panel 
+Mount
+2 Front 
+Panel 
+Mount
+Thickness
+±.005
+(CTV)
+B Thread 
+Class 2A 
+0.1P-0.3L-
+TS (Plated)
++.006 
+–.000 
+(TV)
+9
+ .6250
+1.039
+1.086
+.820
+.773
+ .719
+ .594
+  .948
+.128
+.655
+.845
+.234
+.905
+.908
+.216
+M12X1-6g
+11
+ .7500
+1.039
+1.086
+.820
+.773
+ .812
+ .719
+1.043
+.128
+.796
+.963
+.234
+.905
+.908
+.194
+M15X1-6g
+13
+ .8750
+1.039
+1.086
+.820
+.773
+ .906
+ .812
+1.137
+.128
+.922
+1.081
+.234
+.905
+.908
+.194
+M18X1-6g
+15
+1.0000
+1.039
+1.086
+.820
+.773
+ .969
+ .906
+1.232
+.128
+1.047
+1.239
+.234
+.905
+.908
+.173
+M22X1-6g
+17
+1.1875
+1.039
+1.086
+.820
+.773
+1.062
+ .969
+1.323
+.128
+1.219
+1.357
+.234
+.905
+.908
+.194
+M25X1-6g
+19
+1.2500
+1.039
+1.086
+.820
+.773
+1.156
+1.062 1.449
+.128
+1.297
+1.475
+.234
+.905
+.908
+.194
+M28X1-6g
+21
+1.3750
+1.069
+1.118
+.790
+.741
+1.250
+1.156 1.575
+.128
+1.442
+1.593
+.204
+.905
+.904
+.194
+M31X1-6g
+23
+1.5000
+1.069
+1.118
+.790
+.741
+1.375
+1.250 1.701
+.154
+1.547
+1.711
+.204
+.905
+.904
+.242
+M34X1-6g
+25
+1.6250
+1.069
+1.118
+.790
+.741
+1.500
+1.375 1.823
+.154
+1.672
+1.829
+.204
+.905
+.904
+.242
+M37X1-6g
+† Red band indicates fully mated             * A2 dimensions are larger than standard D38999 dimensions to accomodate backshell.    All dimensions for reference only.
+BLUE BAND††
+OCS (Oval Contact System) Connectors
+TV07R-Crimp, Metal & CTV07R-Crimp, Composite Jam Nut Receptacle
+PANEL THICKNESS
+.062 MIN  .125 MAX
+1.57 MIN  3.18 MAX
+C
+.378 MAX
+9.60 MAX
+A
+1
+D
+VIEW D
+FOR SIZE 8 COAXIAL ONLY,
+RELATIVE TO
+–A–
+.794 MAX
+20.17 MAX  
+D
+.062 MIN - .125 MAX
+PANEL THICKNESS
+REAR 
+ACCESSORY
+D2
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+*
+V THREAD
+LOCKWIRE
+HOLES
+B THREAD
+RED
+BAND†
+H
+JAM NUT
+D-HOLE
+MOUNTING
+.091 MAX
+2.31 MAX
+–A–
+VIEW D
+FOR SIZE 8 TWINAX ONLY,
+RELATIVE TO
+S
+2 PLACES
+–A–
+K REF
+SHELL SIZES 9/11 –
+                               .871  22.12
+.940 MAX
+23.88 MAX
+1
+2
+D
+D
+SHELL SIZES 13/25 –
+                               .878  22.30
+V Thread 
+C Max.
+K Ref.
+S 
+Shell 
+Size
+±.010
+Metric
+1.280 MAX
+32.51 MAX
++.010 
+–.000
++.000 
+–.010
+H Hex
++.017 
+–.016
+B Thread 
+Class 2A 
+0.1P-0.3L-
+TS (Plated)
+ 9
+  .6250
+ 1.199
+.693
+.657
+.875
+.871
+1.062
+M12X1-6g
+B THREAD
+11
+  .7500
+1.386
+.825
+.770
+1.000
+.871 
+1.250
+M15X1-6g
+13
+  .8750
+1.511
+1.010
+.955
+1.188
+.878
+1.375
+M18X1-6g
+V THREAD
+RED BAND†
+15
+1.0000
+1.636
+1.135
+1.085
+1.312
+.878
+1.500
+M22X1-6g
+( K )
+17
+1.1875
+1.761
+1.260
+1.210
+1.438
+.878
+1.625
+M25X1-6g
+1.898 MAX
+19
+1.2500
+1.949
+1.385
+1.335
+1.562
+.878
+1.812
+M28X1-6g
+21
+1.3750
+2.073
+1.510
+1.460
+1.688
+.878
+1.938
+M31X1-6g
+23
+1.5000
+2.199
+1.635
+1.585
+1.812
+.878
+2.062
+M34X1-6g
+25
+1.6250
+2.323
+1.760
+1.710
+2.000
+.878
+2.188
+M37X1-6g
+† Red band indicates fully mated
+* .059 dia min., 3 lockwire holes,  
+ 
+Formed lockwire hole design (6 holes) is optional
+53
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Quadrax Contacts 
+Quadrax Pin with 8P8C “RJ45” Jack
+Typical Quadrax 
+Socket Contacts 
+Has socket outer  
+contact with  
+a socket  
+inner contact
+Amphenol Quadrax Contacts 
+Offers several advantages for high data transfer rates, low power  
+consumption, and excellent EMI compatibility. Four strategically spaced 
+inner contacts form two 100 or 150 Ohm matched impedance differential 
+pairs. The Outer contact has a rugged wall section for durability.   
+Available in size 8 crimp termination style. Also available in size 8 with PC 
+tails see online High-Speed Contact Product Guide. Requires modification of  
+MIL-DTL-38999 connector to accommodate keyed contacts.
+Cable Illustration - Quadrax Contact
+BRAID
+JACKET
+(4) CENTER
+CONDUCTORS
+INSULATION
+Quadrax Contacts are Gold Plated, Crimp Termination
+Finish of mating contact parts: supplied with 0.000050 min. gold over nickel 
+on mating interface.
+Quadrax Size 8 Contact 
+Performance:
+Bandwidth:  
+Up to 1.25 GHz
+Data Rate:  
+Exceeding 2.5 Gbps.
+Typical Quadrax  
+Pin Contact:
+Has pin outer  
+con tact with a pin  
+inner contact
+Voltage Rating:  
+500 Vrms max. @ sea level
+Dielectric Withstanding Voltage:
+1000 VAC rms between all inner contacts  
+@ sea level, 500 VAC rms between inner  
+and outer contacts @ sea level
+54
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+How to Order D38999, Series III Connectors 
+with Standard 100 Ohm Quadrax Contacts
+21-033385-051 Socket, 21-033384-051 Pin Contacts*
+For all other quadrax contacts or differential twinax contacts, please consult Amphenol Aerospace for part numbers.
+1.
+2.
+3.
+4.
+5.
+6.
+Connector Type
+Shell Type
+Service Class
+Shell Size – 
+Insert Arrangement
+Contact Type
+Alternate Keying 
+Position
+TVP
+00
+RQW
+21–75
+P
+B
+1. Connector Type
+6. Alternate Keying Position
+TV
+Tri-Start series connector with metal shells
+A, B, C, D, and omit for normal rotation please see page 84 
+for more information.
+TVP
+Back panel mounted receptacle with metal shells
+CTV
+Tri-Start series connector with composite shells
+CTVP
+Back panel mounted receptacle with composite shells
+2. Shell Style
+00
+Wall mount receptacle
+02
+Box mount receptacle available only with the PCB tails and 
+epoxy backfilled (non-removable)
+06
+Straight plug
+07
+Jam nut receptacle
+3. Service Class with Quadrax
+RQF
+Electroless nickel plated 
+RGQF
+Electroless nickel plated ground plane
+RQW
+Olive drab cadmium plate
+RGQW
+Olive drab cadmium plated ground plane
+RQK
+Corrosion resistance stainless steel
+RGQK
+Stainless steel ground plane
+QDT
+Durmalon plated, Nickel-PTFE alternative to cadmium
+GQDT
+Groundplane Durmalon
+QDZ
+Zinc nickel black conductive
+RQS
+Stainless steel
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+JFW
+Aluminum Bronze
+4. Shell Size and Insert Arrangement
+See insert arrangements available with Quadrax contacts on 
+pages 75-83. First number represents shell size, second number  
+is the insert arrangement.
+Suggested Numbering for Quadrax Contacts
+ORIENTATION
+KEY
+5. Contact Type
+1
+P
+Pin contacts
+4
+1
+2
+S
+Socket contacts
+3
+4
+2
+3
+* The incorporation of Quadrax or Differential Twinax contacts requires a modified 
+connector to accommodate keyed contacts.
+SOCKET CONTACT
+PIN CONTACT
+MATING FACE
+MATING FACE
+Differential Pairs, contacts 1-3, 2-4.
+Quadrax differential pairs are 1 and 3, 2 and 4.
+55
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Octonet Contacts
+Superior Ethernet Contact System for MIL-DTL-38999, Series III
+Eight strategically spaced inner 
+contacts form four 100 Ohm matched 
+impedance differential pairs.
+Pin for 24 awg
+Pin PCB Tail
+Socket for 24 awg
+Socket PCB Tail
+Specs:
+Environmental Sealing:  
+ 
+IAW connector specification
+Corrosion Resistance:  
+ 
+500 hours salt spray
+EMI Shielding:  
+ 
+ 
+360 degree shielding on each pair
+Mating Cycles:  
+ 
+ 
+500 cycles
+Voltage Rating:  
+ 
+ 
+500 Vrms max @ sea level
+Dielectric Withstanding Voltage:  
+500 VAC RMS sea level
+Features:
+• Available in size 8 crimp termination style
+• Can be installed in existing size 8 Quadrax cavities
+• Meets performance specifications of CAT-6A cable
+• 10G Ethernet compliant
+• Overall higher bandwidth than standard  
+ CAT5E Quadrax-supports up to 4.0 Gbps per pair
+• Enhanced crosstalk performance (compared to standard Quadrax)
+• Supports wire ranges 26 to 24 gauge
+• Requires modification of MIL-DTL-38999 connector to  
+ accommodate keyed contacts
+• Operating Temp -65°C to 175°C
+• Requires special backshell.
+• Easy drop-in replacement to installed connectors 
+• Self removing contact feature - no extra contact  
+ extraction tool needed (24 Gauge only) no need to redesign
+56
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Octonet Contacts
+Superior Ethernet Contact System for MIL-DTL-38999, Series III
+*Not limited to cables shown
+Pin
+Socket
+*Cable
+AWG
+21-032904-001
+21-032905-001
+Thermax: MX10G-24HP
+21-032904-011
+21-032905-011
+W.L.Gore: RCN8966-24
+21-032904-021
+21-032905-021
+PIC E6A3824, Harbour 
+E10024065, E10024064
+24
+21-032904-031
+21-032905-031
+W.L.Gore: GSC-03-84043-01
+21-032904-041
+21-032905-041
+Axon P542810
+21-032904-051
+21-032905-051
+PIC E6A6826
+21-032904-061
+21-032905-061
+Thermax MX10G-24FLX4
+PCB Pin
+PCB Socket
+L Dimension + or - 15
+21-032906-001
+21-032907-001
+Pin .884 / Socket 1.024
+21-032906-011
+21-032907-011
+.884 
+21-032906-021
+21-032907-021
+.884 
+21-032906-031
+21-032907-031
+.950 
+21-032906-041
+21-032907-041
+.859
+21-032906-051
+21-032907-051
+.518
+21-032906-061
+21-032907-061
+.788
+PCB L dimension length given in 
+chart is the distance from the rear of 
+the contact retention shoulder to the 
+tip of the PCB tails.
+finish table
+Length table
+Prefix
+Description
+Prefix
+S  ±.060
+LENGTH
+F2
+  Black Zinc Nickel
+3
+  1.500
+INDICATED IN
+TABLE COLUMN
+F4
+ Green Zinc Nickel
+4
+ 2.000
+F7
+ Durmaol
+5
+ 2.500
+6
+3.000
+F9
+Thick OD Cadmium 
+plate, Nickle Base
+7
+3.500
+FH
+Thick Electroless Nickel
+8
+4.000
+FJ
+Black Electroless Nickel
+Note: it does not indicate stickout length 
+when installed in D38999 connector.
+9
+4.500
+Backshell Extender 
+Due to the protusion of the Octonet 
+Contacts through the rear of the 
+grommet, a Backshell Extender must be 
+used. The Extender is compatible with 
+any Mil-Spec Backshell. Consult the 
+factory for more information.
+ORIENTATION KEY
+ORIENTATION KEY
+1
+2
+1
+2
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+8
+8
+3
+3
+4
+7
+7
+4
+5
+6
+6
+5
+PIN CONTACT 
+MATING FACE
+SOCKET CONTACT 
+MATING FACE
+Part Number
+Shell Size
+FX-646409-01 (  )
+  9
+FX-646409-02 (  )
+ 11
+FX-646409-03 (  )
+ 13
+FX-646409-04 (  )
+15
+FX-646409-05 (  )
+17
+FX-646409-06 (  )
+19
+FX-646409-07 (  )
+21
+FX-646409-08 (  )
+23
+FX-646409-09 (  )
+25
+57
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Signal Integrity Contact Data
+Insertion and Return Loss
+CONTACT DIFFERENTIAL INSERTION LOSS
+CONTACT DIFFERENTIAL RETURN LOSS
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+CONTACT DIFFERENTIAL REAR-END CROSSTALK
+58
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Tri-Start, Series III Fiber Optic Connectors 
+38999 Style
+Our 38999 Fiber Optic connectors meets or exceeds MIL-DTL-38999 Series III requirements
+EMI Shielding-solid metal to metal coupling, grounding fingers, electroless nickel plating, 
+and thicker wall sections provide superior EMI shielding capability of 65dB min. at 10 GHz.
+Termini Protection-recessed pins in this 100% scoop-proof connector minimize potential 
+termini damage. Corrosion Resistance-shells of stainless steel or cadmium over nickel 
+plating withstand 500 hr. salt spray exposure. Vibration/Shock-operates under severe high 
+temperature vibration. Threaded coupling quickly and completely mates in one 360° turn of 
+the coupling nut Amphenol.
+Mechanical/Environmental:
+Parameter
+Performance
+Maintenance Aging
+MIL-STD-1344 Method 2002
+Mating Durability
+500 mating cycles
+Insert Retention
+100 PSI/25 lbs minimum
+Sine Vibration 
+60 G (140-2000 Hz), 4 hours each at ambi-
+ent, -55 deg C, and +175 deg C
+Standard Shock
+300 G half-sine, 3 ms duration
+High Impact Shock
+MIL-S-901 grade A with lightweight fixture
+Temperature Life
+1000 hours @ high temp rating
+Thermal Shock
+-55° C to +165° C - 5 cycles
+This illustration shows the key features of the  
+MIL-DTL-38999 CF-50- The highest optical  
+performance connector.
+1. Beryllium-copper retention clip for improved  
+ 
+termini stability 
+2. Precision-aligned inserts
+3. Modified master key
+4.  Integrated wave washer for improved  
+ 
+performance in high vibration environments
+59
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Multi Channel Fiber Optic Tri-Start
+How to Order
+Amphenol® Multi-Channel fiber optic connectors for use with multi-mode and single mode termini can be ordered by coded part 
+number. Ordering procedure is illustrated by part number CF-509017-8P as shown below:
+1.
+2.
+3.
+4.
+5.
+6.
+Contact Type and 
+Connector Type
+Series
+Finish
+Shell Style
+Shell Size and Insert Arrangement
+Key/Keyway 
+Position
+CF
+50
+9
+0
+17-8
+p
+1. Connector Type
+6. Contact Type and Key/keyway 
+Position
+5. Shell Size/
+Arrangement
+CF-
+Multi-channel fiber optic
+P
+Pin contacts
+S
+Socket contacts
+2. Series
+50
+Aluminum, tight tolerance
+For more information on key/keyway rotation, 
+see page 84, MIL-DTL-38999 Series III 
+section.
+60
+Aluminum, tight tolerance
+80
+Stainless steel shell, tight tolerance
+09-94
+09-98
+11-2
+11-5
+11-98
+11-99
+13-4
+13-8
+For key/keyway positioning, choose the alternate
+rotation suffix letter from the chart below.
+Suffix Letter
+Alternate 
+Position
+Pins
+Sockets
+3. Finish
+Normal
+P
+S
+4
+Electroless nickel plated aluminum, 48 
+hour salt spray resistance, 200°C
+A
+G
+H
+5
+Unplated composite
+B
+I
+J
+C
+K
+L
+6
+Corrosion resistant stainless steel, 500 
+hour salt spray resistance, 200°C
+D
+M
+N
+9
+Corrosion resistant olive drab cadmium
+13-13
+13-98
+15-5
+15-15
+15-18
+15-19
+15-97
+17-8
+17-26
+17-99
+E
+R
+T
+19-11
+D
+DurmalonTM (NIckel-PTFE)
+19-28
+19-32
+4. Shell Style
+21-16
+21-29
+21-39
+0
+Wall mount receptacle
+1
+Line receptacle
+2
+Box mount receptacle
+6
+Straight plug
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+7
+Jam nut receptacle
+21-41
+23-21
+23-53
+23-54
+23-55
+25-4
+25-11***
+25-20***
+25-24
+25-26
+25-29
+25-37
+25-41
+25-43
+25-46
+25-61
+25-90
+25-F4
+Fiber optic termini can be accommodated in any 
+size 16 or size 20 contact cavity of  
+MIL-DTL-38999 Series III type connector insert 
+patterns, as listed in the following chart.  
+See pages 73-80 for more information.
+60
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MT38999 Connectors and Fiber Optic  
+Cable Assemblies
+MT38999 Connectors
+Amphenol MT 38999 Connectors are designed for 
+high density fiber optic interconnect solutions.
+1
+2
+7
+3
+8
+15
+32
+24
+16
+25
+33
+58
+49
+41
+42
+50
+71
+66
+59
+67
+72
+73
+Features:
+• High fiber density in a relatively small circular connector package  
+ with all the advantages of the MIL-DTL-38999 series III connector
+• Three levels of alignment provide for precision fiber to fiber interface: 
+  - Shell to shell with keying to allow for alternate positions 
+  - Insert plug to insert receptacle 
+  - MT contact guide pins
+• Compatible with 12-fiber, 24-fiber, or 48-fiber MT ferrules in  
+ multi-mode PC single mode PC, and single mode APC configurations
+• Two arrangements are available, shell size 11 with one ferrule, and shell size            
+ 
+ 
+ 21 with four ferrules
+• Up to 48 fiber channels in a size 11 shell
+• Up to 192 fiber channels in a size 11 shell 
+8
+2
+1
+7 9
+3
+5
+4
+6
+61
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MT38999 Connectors
+How to Order
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Terminus 
+Connector Type
+Connector 
+Class
+Style
+Shell Finish
+Shell Style
+Shell Size- Insert 
+Arrangement
+Insert Type & Key/
+Keyway Position
+CF-
+6
+9
+9
+0
+11-01
+P
+1. Connector Type
+5. Shell Type
+CF-
+Multi-channel fiber optic connector
+0
+Wall mount receptacle
+1
+Line receptacle
+2. Connector Class
+6
+Straight plug
+5
+Aluminum
+7
+Jam nut receptacle
+6
+Composite
+8
+Stainless steel
+6. Select a Shell Size –  Insert Arrangement
+Shell Size-Insert Arrg
+3. Terminus Style
+9
+MT terminus - Flat ribbon cable
+Single cavity
+11- 01
+MT Insert 
+Availability
+Front face  
+of socket  
+inserts  
+illustrated
+A
+D
+4. Shell Finish
+4
+Electroless nickel
+B
+C
+Four cavity
+21 - 04
+6
+Corrosion resistant stainless steel  
+(connector class 8 only)
+9
+Olive drab cadmium
+7. Insert Type &  Keyway Position
+D
+DurmalonTM (Nickel-PTFE)
+Suffix Letter
+Alternate Position
+Pins
+Sockets
+Normal
+P
+S
+Durmalon is a trademark of Amphenol Aerospace. For more 
+information on Durmalon, go to amphenol-aerospace.com.
+Other shell finishes are available. Consult Amphenol Aero-
+space for more information.
+A
+G
+H
+B
+I
+J
+MT Assembly Tool
+Order Number: 11-100000-000
+C
+K
+L
+D
+M
+N
+E
+R
+T
+MT Removal Tool
+Order Number: CF-008025-000
+Insert Type and Keyway Position 
+P -designates pin insert, S-designates socket insert 
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Optical / Mechanical / Environment
+Parameter
+Performance
+MT Termini Assembly Kit
+Amphenol supplies MT termini assemblies in kits, minus the  
+MT ferrule. MT ferrules that meet the IEC1754-5 specification 
+are recommended for use.
+Insertion Loss (850 
+0.40 dB (typ)
+nm)*
+Return Loss (850 nm)
+–40.0 dB (typ)
+Thermal Cycling
+EIA-364-03D, test condition VII 
+–40° to 85°C
+Temperature Life
+TIA/EIA-455-4; 85° for 336 hours
+ 
+Kit Order Numbers 
+(MT Ferrules are not included with kit) 
+MT male assembly kit (flat ribbon): CF-198136-000 
+MT female assembly kit (flat ribbon): CF-198137-000
+Vibration
+MIL-STD-810F, Method 514.5
+COMPONENTS IN MT TERMINI ASSEMBLY KIT
+Parts are shipped unassembled.
+RETENTION CLIPS
+Mechanical Shock 
+(Operational)
+MIL-STD-810F, Method 516.5 
+75G half-sine, 10 ms duration
+MIL-STD-810F, Method 516.5 
+SPRINGS
+MT MALE
+(PIN CLAMP ASSEMBLY)
+Mechanical Shock 
+(Non-Operational)
+36-44G sawtooth, 10-12 ms duration
+Humidity
+TIA/EIA-455-5
+SHRINK
+SLEEVE
+STRAIN
+RELIEF
+MT BODY
+HALVES
+MT FERRULE
+Not provided with Amphenol
+MT Assembly Kit.  Must be
+purchased separately. 
+MT FEMALE
+(SOCKET
+CLAMP ASSEMBLY)
+* Values shown are typical. Optical loss performance dependant on 
+optical  launch conditions, end face geometry, end face quality, and 
+grade of MT ferrule.
+62
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MT38999 Fiber Optic Cable Assemblies
+How to Order
+1.
+2.
+3.
+4.
+5.
+6.
+Fiber Optic Connector
+Round Cable MT
+Shell Finish
+Shell Style
+Shell Size –Insert Pattern
+Alternate Position Suffix
+CF-
+5R
+4 
+7
+11-2
+Blank for Normal
+5. Shell Size - Insert Pattern
+1.  Fiber Optic Connector
+Insert Pattern
+ CF-
+Shell 
+Size
+11-2
+2 Single MT Ferrule
+2. Round Cable MT
+21-4
+4 Four MT Ferrules
+ 5R
+6. Alternate Position Suffix
+3. Shell Finish
+Suffix Letter
+4
+Electroless Nickel
+Alternate 
+Position
+Pins
+Sockets
+9
+Olive Drab
+Normal
+P
+S
+D
+Durmalon
+A
+G
+H
+4. Shell Style
+B
+I
+J
+0
+Wall mount receptacle
+C
+K
+L
+D
+M
+N
+1
+In line receptacle
+E
+R
+T
+6
+Straight plug
+7
+Jam nut
+MT38999 Fiber Optic Cable Assemblies:
+Amphenol Aerospace offers the High Performance Interconnect Solution for your High Speed Needs.
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Features and Benefits:
+• Maneuverability
+• Very high density in cylindrical  
+ 
+ 
+Round MT Cable Assemblies:
+• From simple to complex
+• Ruggedization with full testing  
+ 
+ 
+ connectors:
+• Up to 48 fiber channels in size 11 shell
+• Up to 192 fiber channels in size 21 shell 
+ (temperature, shock, vibration) 
+• Insertion loss and return loss  
+ testing capabilities
+• Industry leading polish and  
+ termination capabilities
+• Using COTS cable from across  
+ the country
+63
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+38999 Filter Section
+Being the original inventor of filter interconnects, Amphenol manufactures MIL-DTL 38999 Series III Filter Connectors, and are 
+available in multiple versions, including many environmental-classes, with high and medium density insert arrangements. The 
+“Tri-Start” mating thread makes them well suited to high-vibration and high-shock applications.  
+ 
+Amphenol’s Filter Connectors are available in several termination configurations, including PC tails, solder cups, and crimp 
+contacts.  They are also available with various plating and keying options, and are all intermateable with standard  
+MIL-DTL-38999 Series III connectors.
+Reliable
+• Triple-start, self-locking   
+ threaded coupling mechanism
+• 100% scoop proof design
+• Shell-to-Shell Continuity ( 
+ ground strap between shells)
+Specifications
+Environmental
+• Temperature Range: -55°C to 125°C
+• Physical Shock: Typical to EIA-364-27 
+• Vibration: Typical to EIA-364-28
+• Fungus Resistance: Based on MIL-STD-810
+• Fluid Immersion: Typically tested to EIA-364-10
+• Salt Spray: Typically based on EIA/ECA-364-26
+• Humidity: Typically EIA-364-31 test method IV
+• Durability: 1500 cycles for Classes J and M and 500 cycles 
+  for all other connectors as per 38999 spec 
+Filtering Capabilities
+• Capacitance Range:  
+ 50 pF to 1.6 µF
+• Capacitance Tolerance:  
+ Typically +/-20%
+• Filtering Types Available:   
+ C, PI, LC, CL, T
+Electrical
+• Grounded Line Resistance (Typ.): 30 mΩ max
+• Insulation Resistance (Typ.): >10 GΩ
+• Dielectric Withstand Voltage (Typ): 500 VDC
+• Working Voltage (Typ): 200 VDC max
+• Typical Test Specifications Used:
+• Mil-STD-810: Test Method Standard
+• Mil-STD-202: Electrical & Electrical Components Parts
+• RTCA DO-160: Test Procedures for Airborne Equipment
+• EIA-364: Electrical Connector & Socket Test Procedures
+Features Versatility:
+• Wide range of connector shell  
+ configurations
+• Configurable filter topologies 
+Mating Compatibility:
+• MIL-DTL-38999 Series III connectors
+• DEUTSCH DTS Series connectors
+• DEUTSCH ACT Series composite connectors
+Designed for  
+Harsh Environments:
+• Vibration and shock
+• Temperature extremes
+• High humidity
+• Altitude
+• Salt spray
+64
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+How to Order - Standard
+Filter Connectors
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Filter Connector 
+Connector and 
+Type of Contact and 
+Printed Circuit Board 
+Designator
+Filter Type
+Shell Finish
+Shell Styles
+Shell Size – 
+Insert Arrg.
+Keyway Position
+Tail Length
+21-
+24
+9
+2
+16-26
+P
+1
+2. Connector/Filter Type
+1. Connector Type
+50 
+FTV (UTS-crimp) with VHF-1 filter
+21-
+Filter Connector
+51 
+FTV (UTS-crimp) with HF-1 filter (long shell)
+3. Shell Finish
+52 
+FTV with VHF-1 filter
+0 
+Chromate
+53 
+FTV with HF-1 filter (long shell)
+76 
+FCTV with VHF-1 filter with composite shell
+1
+Bright cadmium
+77 
+FTV with VHF-1 filter and standard series III shells
+2 
+Stainless steel (electrolytic nickel plated)
+78
+FCTV PCB mount with standard flange and VHF-1 filter
+4 
+Electroless nickel, MS (F)
+79 
+Same as 77 with no filter - Epoxy sealed
+7 
+Cadmium plate over nickel, MS(A)
+8 
+Bright nickel
+80 
+FTV PCB mount with standard flange, standard nut and  
+VHF-1 filter
+81
+Same as 80 with no Filter - Epoxy sealed
+9 
+Cadmium plate, nickel base, OD, MS(B),  
+(500 hr. salt spray test)
+82 
+FTV with ±8 volt diode/VHF-1 filter combination
+D
+Durmalon™ Nickel-PTFE (cadmium alternative) 
+- 38999 Class T refer to page 7
+84 
+FTV (UTS-crimp) with ±8 volt diode only
+Z
+Black Zinc
+85
+Same as 76 with no filter - Epoxy sealed
+5. Shell Size and Insert Arrangement
+4. Shell Style
+9 through 25
+Shell sizes available for TV, Series III
+0 
+Wall mount receptacle
+2 
+Box mount receptacle
+4 
+Minimum penetration jam nut receptacle
+Shell Size & Insert Arrangements are together in one chart.  
+First number represents Shell Size, second number is  
+the Insert Arrangement. See pages 75-83.
+7 
+Jam nut receptacle
+6. Type of Contact 
+P  
+Pins in a normal rotation
+S
+Socket in a normal rotation
+7. (Optional) This will change Connector to  
+PCB Termination from default Solder Cup
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Code
+± .030
+Pre-Tinned?
+NO
+1 
+0.120
+2
+YES
+Note:
+NO
+3
+0.185
+Alternate Rotation 
+Suffix Letters
+4
+YES
+FTV FCTV
+NO
+5
+0.270
+Suffix Letter
+6
+YES
+Alternate 
+Position
+Pins
+Sockets
+-2XX Suffix
+Any combination of filters, non-filters, 
+grounds, and non-standard contact 
+terminations will require -2XX suffix. Please 
+consult Amphenol Aerospace for assis-
+tance in setting up these part numbers.
+• Standard voltage for diode is ±8 volts. 
+Normal
+P
+S
+Any devia tion requires a  
+–2XX suffix.
+A
+G
+H
+• Standard voltage for a MOV is 47 volts. 
+B
+I
+J
+Any devi ation requires a 
+–2XX suffix.
+C
+K
+L
+• Standard diode/filter combination is ±8 
+D
+M
+N
+volt/VHF-1 filter.   
+Any deviation requires a –2XX suffix.
+• Standard MOV/filter combination is 47 
+E
+R
+T
+volt/VHF-1 filter.   
+Any deviation requires a –2XX suffix.
+Federal Vendor Identification/FSCM 77820
+65
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+How to Order - Special
+Filter Connectors (EMI Check Sheet)
+Unable to find what you are looking for under our “How to Order” page? Fill out our EMI Check 
+Sheet and send it to Filterapps@amphenol-aao.com or call us directly at 800-678-0141
+Requesting Company: ______________________________________________________________________________________________________
+End Customer: _______________________________________________________________________________________________________________
+Program/Application: _______________________________________________________________________________________________________
+Date:___________________
+Required Insertion Loss
+Mil-Spec Series or Style: _________________   Shell Size-Arrangement:_______________
+Customer Part ID:______________________________________________________________
+Frequency (MHz)
+Enter Insertion Loss in db 
+and either "min or "max"
+Electrical Requirements
+0.3
+Filter Type
+1
+       PI
+       C
+3
+       CL
+       T
+10
+LC
+CASC PI
+30
+10
+100
+30
+300
+100
+1000
+300
+1000
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Email to Filtersapps@amphenol-aao.com
+66
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+67
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Connector Accessories
+For more information contact:
+Amphenol Aerospace: www.
+amphenol-aerospace.com  
+(phone: 800-678-0141)
+or visit www.backshellworld.com or 
+email: sales@backshellworld.com
+Amphenol offers a full range of accessories that are designed to enhance the  
+performance of Amphenol 38999 connectors, both military and non-military.
+Backshells are an integral part of any circular connector when it comes to reliable cable 
+connections. Amphenol divisions team up globally to provide a very large assortment of 
+backshells for use with 38999 Series of connectors, as well as other circular series.
+The variety of types of backshells and 
+adapters covered in the Backshells 
+section of this catalog include:
+• Non-environmental backshells
+• Environmental backshells
+• Non-environmental EMI/RFI backshells
+• Environmental EMI/RFI backshells
+• Shrink boot adapters
+• Crimp ring adapters
+• Band lock adapters
+• Pre-shield adapters
+68
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV 
+Receptacle Protection Cap
+.797 MAX
+20.24 MAX
+A
+.167 +.010
+–.005
+B
+4.24 +.25
+–.13
+6.000 APPROX
+152.40 APPROX
+A
+.578 MAX
+14.68 MAX
+*10-552943-XXX
+B
+.797 MAX
+20.24 MAX
+A
+*10-553310-XXX
+D
+*10-553970-XXX
+6.000 APPROX
+152.40 APPROX
+B
+*10-553120-XXX
+3.500 APPROX
+88.90 APPROX
+* To complete order number, add shell size and suffix number. 
+ 
+For example, shell size 11 with olive drab cadmium nickel 
+Millimeters
+Inches
+ 
+base, 10-552943-119
+MS Shell Size Code
+B Dia. Max.
+D Dia. +.25 
+A Thread Class 2B 
+D Dia. 
+Shell 
+Size
+–.00
+Shell 
+Size
+0.1P-0.3L-TS
+B Dia. 
+Max.
++.010 –.000
+ 9
+A
+22.23
+17.86
+ 9
+  .6250
+  .875
+  .703
+11
+B
+25.40
+21.44
+11
+  .7500
+1.000
+  .844
+13
+C
+28.58
+25.81
+13
+  .8750
+1.125
+1.016
+15
+D
+31.75
+28.98
+15
+1.0000
+1.250
+1.141
+17
+E
+36.53
+32.16
+17
+1.1875
+1.438
+1.266
+19
+F
+38.10
+35.33
+19
+1.2500
+1.500
+1.391
+21
+G
+41.28
+38.51
+21
+1.3750
+1.625
+1.516
+23
+H
+44.45
+41.68
+23
+1.5000
+1.750
+1.641
+25
+J
+47.63
+44.86
+25
+1.6250
+1.875
+1.766
+All dimensions for reference only. 
+Finish
+10-No Suffix
+Olive Drab, Cadmium, 
+-XX9
+TV Series III  
+MS Metal Protection Caps
+Nickel base
+Electroless Nickel
+-XXG
+Shell 
+Size
+MS Shell 
+Size Code
+MS Receptacle 
+Protection Cap
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+ 9
+A
+D38999/33W9X*
+11
+B
+D38999/33W11X*
+Consult Amphenol Aerospace for availability of 
+stainless steel protection caps, black zinc 
+nickel, Durmalon, and other plating options.
+13
+C
+D38999/33W13X*
+15
+D
+D38999/33W15X*
+17
+E
+D38999/33W17X*
+TV Series III  
+Plastic Protection Caps
+19
+F
+D38999/33W19X*
+Receptacle
+Shell 
+Size
+21
+G
+D38999/33W21X*
+  9
+10-70500-10
+23
+H
+D38999/33W23X*
+11
+10-70500-12
+25
+J
+D38999/33W25X*
+13
+10-70500-14
+15
+10-70500-16
+17
+10-70500-19
+*  To complete order number, replace X with applicable letter as follows:
+ 
+ 
+R - designates eyelet type
+ 
+ 
+N - designates washer type
+19
+10-70500-20
+21
+10-70500-22
+23
+10-70500-24
+MS metal protection caps are supplied with service class W which designates 
+corrosion resistant olive drab cadmium plate aluminum.
+Consult Amphenol Aerospace for more detailed information on ordering  
+MS Metal protection caps.
+25
+10-70524-1
+69
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV 
+Plug Protection Cap
+B
+1.166 MAX
+29.62 MAX
+.167 +.010
+–.005
+N
+*10-552944-XXX
+4.24 +.25
+–.13
+5.000 APPROX
+127.00 APPROX
+D
+B
+1.166 MAX
+29.62 MAX
+N
+*10-553998-XXX
+5.000 APPROX
+127.00 APPROX
+* To complete order number, add shell size and suffix number. 
+ 
+For example, shell size 11 with olive drab cadmium nickel 
+Millimeters
+ 
+base, 10-552944-119
+Inches
+A Thread Class 2B 
+D Dia. +.010 
+Shell 
+Size
+MS Shell Size Code
+D Dia.  
++.25 –.00
+N Dia. 
+Max.
+Shell 
+Size
+0.1P-0.3L-TS
+–.000
+N Dia. 
+Max.
+9
+A
+13.11
+22.73
+ 9
+  .6250
+  .516
+  .895
+11
+B
+16.28
+25.40
+11
+  .7500
+  .641
+1.000
+13
+C
+19.46
+29.74
+13
+  .8750
+  .766
+1.171
+15
+D
+22.63
+32.99
+15
+1.0000
+  .891
+1.299
+17
+E
+25.81
+36.47
+17
+1.1875
+1.016
+1.436
+19
+F
+28.98
+39.19
+19
+1.2500
+1.141
+1.543
+21
+G
+32.16
+42.42
+21
+1.3750
+1.266
+1.670
+23
+H
+34.11
+45.39
+23
+1.5000
+1.343
+1.787
+25
+J
+38.51
+48.62
+25
+1.6250
+1.516
+1.914
+All dimensions for reference only. 
+Finish
+10-No Suffix
+TV Series III  
+Olive Drab, Cadmium, 
+-XX9
+MS Metal Protection Caps
+Nickel base
+MS Plug Protection Cap
+Electroless Nickel
+-XXG
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Shell 
+Size
+MS Shell 
+Size Code
+ 9
+A
+D38999/32W9X*
+Consult Amphenol Aerospace for availability 
+of stainless steel protection caps, black zinc 
+nickel, Durmalon, and other plating options.
+11
+B
+D38999/32W11X*
+13
+C
+D38999/32W13X*
+TV Series III  
+15
+D
+D38999/32W15X*
+Plastic Protection Caps
+17
+E
+D38999/32W17X*
+Plug
+Shell 
+Size
+19
+F
+D38999/32W19X*
+  9
+10-70506-14
+21
+G
+D38999/32W21X*
+11
+10-70506-16
+23
+H
+D38999/32W23X*
+13
+10-70500-18
+25
+J
+D38999/32W25X*
+15
+10-70500-20
+17
+10-70500-22
+*  To complete order number, replace X with applicable letter as follows:
+ 
+ 
+R - designates eyelet type
+ 
+ 
+N - designates washer type
+19
+10-70500-24
+21
+10-70524-1
+23
+10-70506-28
+MS metal protection caps are supplied with service class W which designates 
+corrosion resistant olive drab cadmium plate aluminum.
+Consult Amphenol Aerospace for more detailed information on ordering  
+MS Metal protection caps.
+25
+10-70500-28
+70
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV
+Wall Mount Dummy Receptacle
+PART NUMBER REFERENCE. 
+SEE NOTE BELOW TO COMPLETE.
+*10-553974-XXX
+S
+2 PLACES
+R1
+2 PLACES
+R2
+M
+W
+2 PLACES
+B THREAD
+.005
+M
+T
+4 PLACES
+TT
+4 PLACES
+.13
+M
+* To complete order number, add shell size and suffix number. 
+ 
+For example, shell size 11 with olive drab cadmium nickel 
+ 
+base, 10-553974-119
+Inches
+B Thread 
+M 
+T 
+TT 
+MS Shell 
+W 
+2
+S 
+0.1P-0.3L-TS 
+R
+1
+R
+Shell 
+Size
+Size Coded
+±.010
+±.010
+(Plated)
++.020 
+–.000
+±.008 
+–.006
+±.008 
+–.006
+ 9
+A
+  .6250
+.822
+  .719
+  .594
+  .938
+.128
+.098
+.216
+11
+B
+  .7500
+.822
+  .812
+  .719
+1.031
+.128
+.098
+.194
+13
+C
+  .8750
+.822
+  .906
+  .812
+1.125
+.128
+.098
+.194
+15
+D
+1.0000
+.822
+  .969
+  .906
+1.219
+.128
+.098
+.173
+17
+E
+1.1875
+.822
+1.062
+  .969
+1.312
+.128
+.098
+.194
+19
+F
+1.2500
+.822
+1.156
+1.062
+1.438
+.128
+.098
+.194
+21
+G
+1.3750
+.791
+1.250
+1.156
+1.562
+.128
+.125
+.194
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+23
+H
+1.5000
+.791
+1.375
+1.250
+1.688
+.154
+.125
+.242
+25
+J
+1.6250
+.791
+1.500
+1.375
+1.812
+.154
+.125
+.242
+Millimeters
+M 
+T 
+MS Shell 
+W 
+R1
+R2
+S 
+Finish
+10-No 
+Suffix
+Shell 
+Size
+Size Coded
+±.25
+±.25
++.51 
+–.00
++.20 
+–.15
+TT 
++.20 
+–.15
+-XX9
+  9
+A
+20.88
+18.26
+15.09
+23.83
+3.25
+2.49
+5.49
+Olive Drab, Cadmium, 
+Nickel Base
+11
+B
+20.88
+20.62
+18.26
+26.19
+3.25
+2.49
+4.93
+Electroless Nickel
+-XXG
+13
+C
+20.88
+23.01
+20.62
+28.58
+3.25
+2.49
+4.93
+15
+D
+20.88
+24.61
+23.01
+30.96
+3.25
+2.49
+4.93
+Consult Amphenol Aerospace for availability 
+of stainless steel protection caps, black zinc 
+nickel, Durmalon, and other plating options.
+17
+E
+20.88
+26.97
+24.61
+33.32
+3.25
+2.49
+4.93
+19
+F
+20.88
+29.36
+26.97
+36.53
+3.25
+2.49
+4.93
+21
+G
+20.09
+31.75
+29.36
+39.67
+3.25
+3.18
+4.93
+23
+H
+20.09
+34.93
+31.75
+42.88
+3.91
+3.18
+6.15
+25
+J
+20.09
+38.10
+34.93
+46.02
+3.91
+3.18
+6.15
+All dimensions for reference only.
+Designates true position dimensioning.
+71
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV
+Jam Nut Dummy Receptacle
+Inches
+A 
+B Thread 
+M 
+S 
+MS Shell 
+RR Thread 
+0.1P-0.3L-TS 
+Shell 
+Size
+Size Coded
+Plated 9-7543
++.010 
+-.005
+(Plated)
++.020 
+–.000
+P Hex 
++.017 
+-.016
++.011 
+-.010
+ 9
+A
+.104
+  .6250
+.871
+  .875
+  1.062
+  M17X1-6g 0.100R
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+11
+B
+.104
+  .7500
+.871
+  1.000
+  1.250
+M20XI-6g 0.100R
+13
+C
+.104
+  .8750
+.878
+  1.188
+  1.375
+M25XI-6g 0.100R
+15
+D
+.104
+1.0000
+.878
+  1.312
+  1.500
+M28XI-6g 0.100R
+17
+E
+.104
+1.1875
+.878
+1.438
+  1.625
+M32XI-6g 0.100R
+19
+F
+.135
+1.2500
+.878
+1.562
+1.812
+M35XI-6g 0.100R
+21
+G
+.135
+1.3750
+.878
+1.688
+1.938
+M38XI-6g 0.100R
+23
+H
+.135
+1.5000
+.878
+1.812
+2.062
+M41XI-6g 0.100R
+25
+J
+.135
+1.6250
+.878
+2.000
+2.188
+M44XI-6g 0.100R
+72
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV
+Universal “Header Assembly” for Flex Print or PC Board
+Mounts to all MIL-DTL-38999 
+The universal header assembly from  
+Amphenol provides for easy separation  
+of the connector from the board.  
+The header assembly is comprised of a short 
+pin/socket contact. The tail end of the 
+contact is soldered to the through hole of the 
+flex or printed circuit board. The socket is 
+embedded in the insulator, making electrical 
+contact with the printed circuit tail of the 
+connector. 
+Headers provide easy 
+separation of the connector  
+from the PC board.
+Features and Benefits:
+• Circular and square header assemblies available 
+• Cost and time savings in the manufacturing process
+• Assemblies can be vapor phase or wave soldered to flex/printed  
+ circuit board
+• Allows electrical testing when installed properly. 
+• Connector assemblies can be easily removed from and reattached  
+ to the header assembly.
+Mounting Applications
+• Amphenol square universal headers are slotted to allow mounting to all  
+ 
+ series of MIL-DTL-38999 connectors without special alterations. 
+• Amphenol circular universal headers are designed to accommodate  
+ 
+Mounting to Rectangular ARINC  
+Connectors
+• Headers for ARINC connector arrangements   
+ accommodate up to 150 pins
+• Consult Amphenol Canada, Ontario for ARINC  
+ configurations.
+ the rear flange of PCB Board Mount shells, series  
+ MIL-DTL-38999 connectors without special alterations. 
+• The header assembly can be attached to connectors with standard flange   
+ placement or directly to the circuit board.
+• Connectors with dual flange mounting hardware can be provided to allow   
+ easy mounting to the panel or the header assembly. 
+- Forward flange would mount the connector to the panel 
+- Rear flange would be used to mount to the header assembly.
+• Various types of captivated or loose attaching screws can be utilized for  
+ 
+Materials
+• Body is molded or machined from FR-4.
+• Electrical engagement areas of the header  
+ contact are plated with .00003 inches  
+ minimum of gold over .00005 inches  
+ minimum of nickel.
+See drawing of standard header on next page.
+ unique applications.
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+73
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+.175 ±.005 
+MIL-DTL-38999, Series III TV
+Universal “Header Assembly” for Flex Print or PC Board
+SIZE 22 AND 23 
+CONTACT VIEW
+.020 ±.001
+The drawing below shows the standard header 
+assembly for use with MIL-DTL-38999 connectors. 
+L
+VISUAL
+INDICATOR NOTCH
+FOR TOP C OF
+INSERT PATTERN
+(SIZE & CONFIGURATION
+ OPTIONAL)
+S
+L
+R1
+J DIA.
+B
+PCB STICKOUT
+(SEE SUFFIX CHART BELOW)
+VISUAL
+INDICATOR NOTCH
+FOR TOP C OF
+INSERT PATTERN
+(SIZE & CONFIGURATION
+ OPTIONAL)
+R2
+T
+SIZE 16 AND 20
+CONTACT VIEW
+B
+PCB STICKOUT
+(SEE SUFFIX CHART BELOW)
+.050
+W
+.040 ±.001 (SIZE 20)
+.0625 ±.0010 (SIZE 16)
+TT
+.128 DIA. +.008
+- .006
+.195 ±.005 
+W
+F RADIUS
+NOTE:
+Size 16 accepts .048 to .064 dia. PCB tails.
+Size 20 accepts .037 to .043 dia. PCB tails.
+Size 22 & 23 accepts .018 to .022 dia. PCB tails
+Square 
+TT 
+F 
+S  
+Assembly Part 
+Circular  
+Shell 
+Size
+Radius
+± .005
+T + .008  
+– .006
+R1 
+TP†
+R2  
+TP†
+Number
++ .008
+– .006
+Assembly Part 
+Shell 
+Size
+J Dia.
+± .005
+W
+Number
+21-904008-XX( )
+9
+.094
+.938
+.128
+.719
+.594
+.216
+21-905008-XX( )
+9
+1.016
+.532
+21-904010-XX( )
+111
+.094
+1.031
+.128
+.812
+.719
+.194
+21-905010-XX( )
+11
+1.062
+.601
+21-904012-XX( )
+113
+.094
+1.125
+.128
+.906
+.812
+.194
+21-905012-XX( )
+13
+1.250
+.703
+21-904014-XX( )
+15
+.125
+1.219
+.128
+.969
+.906
+.173
+21-905014-XX( )
+15
+1.375
+.791
+21-904016-XX( )
+17
+.125
+1.312
+.128
+1.062
+.969
+.194
+21-905016-XX( )
+17
+1.500
+.875
+21-904018-XX( )
+19
+.125
+1.438
+.128
+1.156
+1.062
+.194
+21-905018-XX( )
+19
+1.625
+.975
+21-904020-XX( )
+21
+.125
+1.562
+.128
+1.250
+1.156
+.194
+21-905020-XX( )
+21
+1.750
+1.053
+21-904022-XX( )
+23
+.125
+1.688
+.154
+1.375
+1.250
+.242
+21-905022-XX( )
+23
+1.875
+1.145
+21-904024-XX( )
+25
+.125
+1.812
+.154
+1.500
+1.375
+.242
+21-905024-XX( )
+25
+2.000
+1.233
+† TP designates true position dimensioning.
+How to Order Information 
+For Header Assembly with MIL-DTL-38999 Connectors
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+4. Contact PCB Stickout
+1.
+2.
+3.
+4.
+Contact PCB Stickout Length
+Series
+Type
+Shell Size & 
+Insert Arrg.
+PCB Suffix
+Suffix
+Shell 
+Size*
+B ± .015 Stickout
+1
+08
+.120
+21-
+9040
+8-3
+1
+1
+09
+.120
+2
+10
+.185
+1. Series
+2. Type
+3
+12
+.270
+21-
+Header Assembly
+9040
+Square
+NA
+14
+NA
+15
+9050
+Circular
+2
+16
+.185
+3
+16
+.270
+18
+3. Shell Size and Insert Arrangement
+2
+20
+.185
+3
+20
+.270
+1
+22
+.120
+2
+22
+.185
+3
+22
+.270
+1
+23
+.120
+See insert arrangements available with 
+Quadrax contacts on pages 75-83. First 
+number represents shell size, second number  
+is the insert arrangement. See MIL-STD-1560 
+document for coordinates of inserts.
+*  Shell size designation for MIL-DTL-38999  
+24
+25
+74
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV, HD
+Insert Availability and Identification Chart
+Contact Size
+Total  
+Crimp
+22D
+22M
+22
+20
+16
+12
+12
+8
+8††
+Hermetic
+Service 
+Rating
+Contacts
+(Coax)
+(Coax)
+(Twinax)
+TV III
+TV*
+23
+HD
+9-5Hn
+Grounded
+1
+1
+9-9n
+X
+N
+9
+9
+9-35
+X
+P
+M
+6
+6
+9-94n
+u
+M
+2
+2
+9-98
+X
+P
+I
+3
+3
+11-2H
+X
+I
+2
+2
+11-4
+2
+I
+4
+4
+11-5
+X
+P
+I
+5
+5
+11-19n
+N
+19
+19
+11-35
+X
+P
+M
+13
+13
+11-54n
+X
+II
+4
+4
+11-98
+X
+P
+I
+6
+6
+11-99
+X
+P
+I
+7
+7
+13-4H
+X
+P
+I
+4
+4
+13-8
+X
+P
+I
+8
+8
+13-13n
+u
+I, Fiber 
+Optic
+4
+2**
+2
+13-26n
+2
+M
+8
+6
+2
+13-32n
+u
+N
+32
+32
+13-35
+X
+P
+M
+22
+22
+13-63n
+u
+l
+4
+2
+2
+13-98
+X
+P
+I
+10
+10
+15-ATn
+X
+I
+13
+10
+3
+15-4n
+u
+I
+4
+4
+15-5H
+X
+P
+II
+5
+5
+15-15
+X
+P
+I
+15
+14
+1
+15-18
+X
+P
+I
+18
+18
+15-19
+X
+P
+I
+19
+19
+15-35
+X
+P
+M
+37
+37
+15-55n
+u
+N
+55
+55
+15-97
+X
+P
+I
+12
+8
+4
+17-2
+X
+u
+M
+39
+38
+1
+17-EAn
+u
+M
+19
+10
+3
+2
+4
+17-ECn
+u
+M
+41
+32
+9
+17-6
+X
+P
+I
+6
+6
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+17-8H
+X
+P
+II
+8
+8
+17-22Hn
+u
+Coax
+4
+2
+2
+17-25n
+2
+M
+24
+22
+2
+17-26
+X
+P
+I
+26
+26
+17-35
+X
+P
+M
+55
+55
+17-52n
+X
+u
+M
+2
+2
+17-60n
+X
+I/Coax
+10
+8
+2
+17-73n
+X
+N
+73
+73
+17-99
+X
+I
+23
+21
+2
+19-ADn
+X
+u
+Inst.
+17
+16
+1
+19-FAn
+u
+M
+23
+6
+8
+7
+2
+19-11H
+X
+P
+II
+11
+11
+19-18
+2
+M
+18
+14
+4
+19-28
+X
+I
+28
+26
+2
+19-31n
+X
+M
+15
+12
+1
+2
+19-32
+X
+P
+I
+32
+32
+19-35
+X
+P
+M
+66
+66
+19-68
+X
+I
+18
+18
+75
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV, HD
+Insert Availability and Identification Chart
+Total
+Contact Size
+Crimp
+Hermetic
+Service 
+Rating
+8  
+4
+22D 22M 22
+20
+16
+16
+12
+12
+10
+8
+8
+8††
+Quadrax
+(Coax)
+(Coax)
+(Power)
+(Power)
+(Coax)
+(Twinax)
+TV III
+TV*
+23
+HD
+(Pwr)
+19-88n
+X
+N
+88
+88
+21-11H
+X
+I
+11
+11
+21-16H
+X
+P
+II
+16
+16
+21-29
+X
+I
+27
+19
+4
+4
+21-35
+X
+P
+M
+79
+79
+21-39
+X
+P
+I
+39
+37
+2
+21-41
+X
+P
+I
+41
+41
+21-48n
+X
+M
+4
+4
+21-75HG
+X
+M
+4
+4
+(4) 
+21-79n
+X
+II
+19
+17
+2
+(2)
+21-121n
+X
+N
+121
+121
+23-6Hn
+X
+M
+6
+6
+23-14n
+u
+I
+14
+14
+23-21H
+X
+P
+II
+21
+21
+23-35
+X
+P
+M
+100
+100
+23-53
+X
+P
+I
+53
+53
+23-54n
+X
+M
+53
+40
+9
+4
+23-55
+X
+P
+I
+55
+55
+23-63n
+S
+M
+57
+49
+4
+4
+23-151n
+X
+N
+151
+151
+25-4
+X
+P
+I
+56
+48
+8
+25-7
+X
+Twinax
+99
+97
+2
+25-8H
+u
+Twinax
+8
+8
+25-11***
+u
+N
+11
+2
+9
+25-16n
+u
+M
+8
+6
+2
+25-17n
+u
+M
+42
+36
+6
+25-19H
+X
+P
+I
+19
+19
+25-20***
+u
+N
+30
+10
+13
+4
+3
+25-24H
+X
+I
+24
+12
+12
+25-26nH
+F
+I
+25
+16
+5
+4
+25-29H
+X
+I
+29
+29
+25-35
+X
+P
+M
+128
+128
+25-37H
+X
+I
+37
+37
+25-41n
+N
+Inst.
+41
+22
+3
+11
+2
+3
+25-43
+u
+I
+43
+23
+20
+25-46
+u
+I
+46
+40
+4
+2
+25-61
+X
+P
+I
+61
+61
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+25-62 nH
+X
+u
+I
+12
+8
+4
+25-88H
+u
+Twinax/ 
+Coax
+8
+8
+25-90
+u
+I
+46
+40
+4
+2
+25-187n
+X
+N
+187
+187
+25-1An
+N
+8
+4
+4
+25-ATn
+X
+M
+60
+31
+12
+13
+2
+2
+2
+25-F4n
+X
+M/I
+66
+49
+13
+4
+X  Completely tooled. 
+ 
+ 
+ 
+HD designates High Density 38999 Series III insert patterns which  
+ 
+ 
+use size 23 contacts only. Not rated over 175°C.
+*  
+Hermetic inserts - solder termination standard. (Contact Amphenol  
+ 
+ 
+Aerospace for optional PCB or eyelet termination). 
+**  
+Two size 16 contacts dedicated to fiber optics. See the Fiber Optic  
+u  Not tooled for 02-R.
+P  Available with Pin contacts only
+S  Available with Socket contacts only
+P/S Available with Pin contacts or Socket contacts
+ 
+ 
+section for more information.
+***  
+For use in MIL-STD-1760 applications (see pages 75 and 76).
+H  Ground plane proprietary option available. Arrg. 9-5 is exclusively 
+ 
+ ground plane type. 
+†  
+For RG 180/U and RG 195/U cables only.
+n  Not Mil-Qualified.
+††  
+Size 8 Coax and Twinax are interchangeable.
+(2)  
+Not Tooled for RP or 02RE
+(3)  
+Pin inserts only, not tooled for RP or 02RE (Consult Amphenol  
+G  21-75 is Mil-Qualified with twinax contacts only. 
+ 
+ Note: MS connector 21-75 is supplied with size 8 twinax. 
+ 
+ 
+Aerospace  for avail.)
+ 
+ Commercial connector 21-75 is supplied with size 8 coax.
+(5)  
+MS Connector 21-79 has provision for two size 8 coax contacts.  
+ 
+ 
+Coax contacts are not supplied unless specified by customer.
+76
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV, HD
+Insert Availability and Identification Chart
+Select Shell Size - Special Insert Arrangement 
+(Not Mil-Spec Qualified)
+Total  
+Comments
+Contact Size
+Shell Size-Insert Arrg.
+Crimp
+Hermetics*
+Service 
+Rating
+Contacts
+22D
+20
+16
+12
+ 9-2
+X
+I
+2
+Formerly Pyle
+2
+15-4
+X
+II
+4
+Formerly Pyle
+4
+15-25
+X
+M
+25
+Formerly Pyle
+22
+3
+17-20
+X
+M
+20
+Formerly Pyle
+16
+4
+21-12
+X
+I
+12
+Formerly Pyle
+3
+9
+21-21
+X
+M/Inst.
+41
+Improved sealing
+32
+9
+21-99
+X
+M
+16
+Formerly Pyle
+5
+11
+25-92
+X
+M
+101
+Formerly Pyle
+92
+9
+25-97
+X
+M
+42
+Formerly Pyle
+26
+3
+13
+ 
+Contact Size
+Total 
+22D
+20
+8
+4
+0 
+Crimp
+Service 
+Rating
+Contacts
+Shell Size- 
+Insert Arrg.
+Select Non-Standard Shell Size
+- Special Insert Arrangement, contact 
+Amphenol Aerospace for connector 
+dimensional information
+25L-3
+X
+II
+3
+1
+2
+             
+25L-7
+X
+II
+7
+7
+33-3
+X
+II
+3
+1
+2
+33-5
+X
+II
+5
+5
+33-6
+X
+II
+6
+2
+4
+37-5
+X
+II
+4
+4
+Common Modification Options
+(Contact Amphenol for more options)
+Modification  
+Description
+Mod Code
+Plug
+Jam 
+Nut
+Wall 
+Mount
+Power contacts to replace coax/
+twinax
+(PWR)
+√
+√
+√
+Deep Reach Version
+(DPR)
+√
+√
+Radsok Contacts
+(RDS)
+√
+√
+√
+Temper Grip Contacts
+(B65)
+√
+√
+√
+Outgassing (Space Grade)
+(453)
+√
+√
+√
+5-Web Grommet Enhanced Sealing
+(539)
+√
+√
+√
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+AmpheSeal
+(737)
+√
+√
+√
+High Vibration Plug - "RotoLok"
+(474)
+√
+Wing Nut Plug for Gloved Applications
+(734)
+√
+Spanner Nut in place of Hex Nut
+(730)
+√
+Jet Fuel Resistance
+(481)
+√
+√
+√
+EMI Conductive O-Ring
+(735)
+√
+Compliant Pins/Press Fit Contacts
+See AAO 
+for details
+√
+√
+First Mate Last Break Contacts
+See AAO 
+for details
+√
+√
+√
+Thermocouple Contacts
+See AAO 
+for details
+√
+√
+√
+Solder Cup Contacts
+See AAO 
+for details
+√
+√
+√
+Right Angle PCB Contacts
+See AAO 
+for details
+√
+√
+77
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV, HD 
+Insert Arrangements
+Front face of pin inserts illustrated
+1
+2
+A
+1
+2
+9
+10
+11
+D
+A
+E
+C A
+13 14
+12
+11
+3
+5
+1
+A
+D
+A
+B
+19
+18
+2
+3
+12
+13
+15
+4
+8
+B
+B A
+4 6
+3
+B
+A
+8
+1 2
+9
+7
+3
+5
+4
+6
+B
+C
+D
+C
+B
+B
+C
+4
+5
+6
+7
+5
+6
+7
+8
+9
+10 17
+16
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+9-2
+9-5
+9-9 HD
+9-35
+9-94
+9-98
+11-2
+11-4
+11-5
+11-19 
+11-35
+11-54
+HD
+Service Rating
+I
+Grounded
+N
+M
+M
+I
+I
+I
+I
+N
+M
+II
+Number of Contacts
+2
+1
+9
+6
+2
+3
+2
+4
+5
+19
+13
+4
+Contact Size
+20
+8 Twinax
+23
+22D
+20
+20
+16
+20
+20
+23
+22D
+22D
+A
+1
+1
+A
+C
+F
+B
+C
+A
+A
+A
+H
+A
+B
+F
+B
+18
+29
+A
+B
+G
+E
+A
+B
+F
+G
+E
+F
+B
+B
+D
+21
+22
+H
+G
+C
+32
+B
+J
+K
+9
+8
+C
+D
+10
+7
+6
+1
+C
+C
+D
+E
+C
+D
+C
+D
+E
+D
+D
+E
+F
+2
+5
+3
+4
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+11-98
+11-99
+13-4
+13-8
+13-26
+13-32 HD
+13-35
+13-63
+13-98
+15-AT
+Service Rating
+I
+I
+I
+I
+M
+N
+M
+I
+I
+I
+Number of Contacts
+6
+7
+4
+8
+6
+2
+32
+22
+2
+2
+10
+10
+3
+Contact Size
+20
+20
+16
+20
+22D
+12
+23
+22D
+16
+12
+20
+22D
+12
+1
+3
+2
+1
+13
+A
+B
+A
+B
+10
+41
+3 9
+16
+L
+M
+A
+D
+J
+K
+K
+L
+M N
+N
+P
+4
+A
+B
+L
+21
+31
+C
+D
+A
+E
+A
+B
+12
+C
+R
+K
+L
+M
+N
+23
+22
+K
+J
+T U
+U
+V
+5
+P
+A
+B
+C
+R
+H
+24
+14
+15
+16
+17
+J
+24
+17
+31
+25
+39
+32
+C
+P
+6
+D
+J
+R
+S
+B
+C
+C
+B
+S
+T
+M
+25
+21
+D
+C
+D
+11
+D
+E
+F
+G
+H
+D
+E
+F
+G
+H
+18
+19
+20
+46
+52
+47
+40
+E
+F
+G
+55
+53
+E
+F
+G
+H
+7
+8
+9
+10
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+15-4*
+15-4
+15-5
+15-15
+15-18
+15-19
+15-25
+15-35
+15-55 HD
+15-97
+Service Rating
+II
+I
+II
+I
+I
+I
+M
+M
+N
+I
+Number of Contacts
+4
+4
+5
+14
+1
+18
+19
+22
+3
+37
+55
+8
+4
+Contact Size
+16
+12
+16
+20
+16
+20
+20
+22D
+16
+22D
+23
+20
+16
+20
+11
+1
+A
+A
+A
+2
+12
+18
+19
+21
+22
+23
+4
+3
+2
+1
+1
+E
+32
+3
+G
+B
+17
+34
+33
+5
+B
+18
+D
+10
+24
+13
+B
+17
+35
+16
+31
+H
+6
+19
+41
+40
+36
+6
+25
+F
+37
+D
+4
+17
+14
+9
+7
+38
+39
+30
+15
+F
+C
+16
+15
+26
+27
+5
+28
+29
+C
+30
+D
+E
+14
+8
+C
+9
+8
+6
+11
+13
+12
+11
+10
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+17-EA
+17-EC
+17-2
+17-6
+17-8
+17-22
+Service Rating
+M
+I
+II
+Coax
+Number of Contacts
+10
+3
+2
+4
+32
+9
+38
+1
+6
+8
+2
+2
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+Contact Size
+22D 20 16
+12
+22D
+20
+22D
+8 Twinax
+12
+16
+12 Coax
+8 Coax
+A
+17
+32
+10
+R
+1
+25
+1
+2
+7
+3
+8
+15
+4
+16
+15
+14
+3
+2
+40
+47
+1
+A
+B
+C
+A
+2
+8
+P
+A
+B
+C
+S
+T
+U
+1
+P
+R
+S
+T
+U
+53
+4
+13
+a
+b
+D
+B
+N
+Y
+Z
+D
+24
+16
+25
+33
+7
+9
+3
+D
+N
+5
+Z
+12
+10
+c
+58
+49
+41
+32
+42
+50
+M
+V
+W
+X
+E
+E
+M
+7
+6
+11
+10
+55
+C
+3
+6
+4
+V
+W
+X
+Y
+52
+B
+9
+8
+71
+66
+5
+9
+31
+16
+F
+G
+H
+J
+K
+L
+46
+59
+67
+72
+73
+24
+39
+G F
+H
+J
+K
+L
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+17-20
+17-26
+17-35
+17-52
+17-60
+17-73 HD
+17-99
+Service Rating
+M
+I
+M
+M
+I/Coax
+N
+I
+Number of Contacts
+16
+4
+26
+55
+2
+8
+2
+73
+21
+2
+Contact Size
+22D
+12
+20
+22D
+8 Twinax
+22D
+8 
+23
+20
+16
+Coax
+HD: High Density HD38999  
+(use size 23 contacts only)
+CONTACT LEGEND 
+8 
+10 
+12 
+16 
+20 
+22 
+22M 22D 
+23
+78
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV, HD 
+Insert Arrangements
+Front face of pin inserts illustrated
+1
+R
+A
+A
+2
+13
+A
+J
+f
+A
+B
+A
+B
+V
+W
+B
+P
+21
+14
+S
+U
+S
+T
+U
+V
+d
+C
+B
+C
+3
+S
+T
+U
+V
+R
+H
+R
+B
+C
+22
+K
+C
+N
+12
+e
+f
+20
+c
+d
+D
+15
+P
+W
+j
+P
+D
+W
+g
+h
+e
+M
+G
+C
+T
+U
+X
+E
+4
+D
+E
+L
+N
+b
+c
+11
+L
+b
+g
+h
+N
+16
+23
+E
+X
+19
+17
+F
+Z
+a
+N
+M
+F
+D
+Y
+K
+F
+5
+10
+Y
+Z
+a
+18
+S
+E
+K
+H
+J
+G
+E
+R
+M
+J
+K
+L
+M
+F
+G
+H
+G
+H
+J
+K
+L
+6
+7
+8
+9
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+19-FA
+19-11
+19-18
+19-28
+19-31
+19-32
+Service Rating
+M
+II
+M
+M
+M
+1
+Number of Contacts
+6
+8
+7
+2
+11
+14
+4
+26
+2
+2
+1
+12
+32
+Contact Size
+22D
+20
+16
+12
+16
+22D
+8 Twinax
+20
+16
+8 
+12
+22D
+20
+Coax
+1
+25
+34
+43
+17
+16
+31
+A
+J
+10
+51
+58
+4
+55
+30
+1
+2
+15
+3
+14
+H
+73
+64
+A
+1
+B
+84
+13
+4
+2
+88
+G
+C
+12
+5
+K
+L
+66
+3
+11
+8
+F
+D
+63
+9
+7
+10
+57
+16
+8
+9
+50
+24
+E
+33
+42
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+19-35
+19-88 HD
+19-AD
+21-11
+Service Rating
+M
+N
+Inst.
+I
+Number of Contacts
+66
+88
+16
+     1 
+11
+Contact Size
+22D
+23
+20
+8 Twinax
+12
+1
+1
+1
+2
+18
+19
+3
+J
+A
+2
+L
+A
+9
+10
+A
+A
+B
+C
+20
+31
+25
+T
+U
+V
+W
+17
+51
+23 24
+H
+J
+11
+12
+H
+B
+M
+K
+D
+B
+S
+i
+j
+X
+Y
+Z
+16
+25
+26
+K
+k
+4
+5
+13
+S
+N
+B
+21
+22
+3
+8
+a
+E
+J
+14
+79
+G
+15
+21
+C
+G
+R
+6
+20
+g
+h
+q
+r
+m
+n
+26
+27
+2827
+29
+3130
+32
+P
+R
+L
+C
+M
+15
+16
+19
+21
+22
+24
+H
+C
+61
+71
+23
+D
+F
+7
+F
+D
+N
+P
+17
+18
+7
+4
+p
+b
+c
+d
+e
+f
+12
+13
+14
+41
+8
+D
+E
+11
+E
+F
+G
+E
+9
+10
+11
+5
+6
+F
+G
+H
+J
+K
+L
+M
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+21-12
+21-16
+21-21
+21-29
+21-35
+21-39
+Service Rating
+I
+II
+M/Inst.
+I
+M
+1
+Number of Contacts
+3
+9
+16
+32
+9
+19
+4
+4
+79
+37
+2
+Contact Size
+20
+12
+16
+22D
+12
+20
+16
+12
+22D
+20
+16
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+1
+5
+A
+J
+A
+B
+6
+13
+A
+B
+C
+U
+V
+W
+R
+S
+T
+23
+22
+14
+L
+X
+Y
+32
+D
+T
+C
+i
+P
+A
+B
+C
+D
+H
+M
+K
+Z
+U
+V
+s
+D
+E
+j
+k
+m
+D
+A
+B
+S
+t
+h
+a
+S
+N
+33
+43
+44
+55
+56
+66
+67
+78
+r
+F
+R
+B
+C
+E
+G
+D
+g
+J
+n
+p
+q
+R
+P
+G
+79
+89
+90
+99
+100
+108
+P
+b
+c
+d
+e
+f
+109
+116
+117
+121
+F
+E
+C
+K
+L
+M
+N
+F
+G
+H
+H
+J
+K
+L
+M
+N
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+21-41
+21-48
+21-75
+21-79
+21-99
+21-121 HD
+Service Rating
+I
+M
+N
+II
+M
+N
+Number of Contacts
+41
+4
+4
+17 (See Note)
+5
+11
+121
+Contact Size
+20
+8 power
+(See Note)
+22D
+22D
+12
+23
+HD: High Density HD38999 
+(use size 23 contacts only)
+CONTACT LEGEND 
+8 
+10 
+12 
+16 
+20 
+22 
+22M 22D 
+23
+79
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Front face of pin inserts illustrated
+MIL-DTL-38999, Series III TV, HD 
+Insert Arrangements
+67
+25
+46
+A
+B
+C
+16
+N
+56
+35
+77
+A
+S
+8
+86
+2627
+A
+A
+B
+C
+P
+T
+U
+V
+W
+X
+Y
+M
+P
+D
+B
+52
+45
+46
+94
+R
+S
+T
+U
+V W
+k
+D
+A
+B
+N
+m
+n
+p
+q
+r
+19
+20
+21
+2223 24
+25
+Z
+1 2 3
+4
+5
+6
+R
+R
+z
+A
+B
+B
+41
+42
+43
+44
+k
+m
+n
+p
+q
+r
+28
+29
+GG
+HH
+j
+E
+y
+z
+AA
+BB
+C
+C
+51
+53
+47
+X
+C
+C
+E
+F
+h
+L
+E
+a
+M
+C
+W
+X
+30
+P
+y
+40
+s
+i
+G
+G
+HH
+DD
+EE
+FF
+F
+s
+t
+Y
+g
+L
+48
+49
+50
+F
+u
+V
+S
+1
+2
+3
+4
+5
+6
+t
+N
+DD
+EE
+FF
+K
+D
+v
+w
+x
+G
+C
+D
+9596
+97
+98
+99
+100
+u
+v
+w
+x
+7
+T
+U
+31
+32
+33
+34
+36
+37
+38
+39
+b
+c
+d
+e
+f
+g
+h
+K
+E
+Z
+a
+b
+c
+d
+e
+f
+H
+J
+K
+L
+M
+15
+93
+35
+G
+H
+J
+66
+24
+45
+85
+7
+8
+9
+10
+12 11
+14 13
+15
+16
+17
+18
+F
+G
+H
+J
+76
+55
+34
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+23-6
+23-21
+23-35
+23-53
+23-54
+23-55
+Service Rating
+M
+II
+M
+I
+M
+I
+Number of Contacts
+6
+21
+100
+53
+40
+9
+4
+55
+Contact Size
+8 Twinax
+16
+22D
+20
+22D
+16
+12
+20
+29
+64
+1
+4
+22
+72
+5
+11
+A
+B
+C
+16
+79
+46
+7
+85
+D
+22
+21
+12
+Y
+Z
+a
+b
+c
+24
+74
+G
+G
+44
+43
+u
+v
+w
+1
+94
+X
+E
+d
+46
+45
+46
+FF
+29
+28
+27 26
+x
+y
+HH
+6
+5
+4
+3
+2 1
+25
+81
+18
+67
+t
+32
+W
+24
+23
+22
+21
+20
+19
+59
+41
+F
+42
+41
+54
+E
+E
+L
+L
+z
+s
+JJ
+e
+f
+51
+V
+25
+75
+30
+40
+53
+47
+55
+57
+KK
+AA
+32
+33
+44
+45
+57
+58
+69
+70
+82
+83
+94
+95
+D
+D
+56
+r
+G
+60
+42
+48
+g
+7
+U
+39
+50
+33
+68
+82
+107
+119
+19
+BB
+C
+C
+32
+31
+q
+130
+108
+49
+H
+T
+140
+120
+33
+26
+76
+6
+99
+37 38
+36
+53
+147
+131
+J
+h
+k
+m
+n
+p
+93
+15
+141
+151
+148
+84
+21
+35
+34
+28
+N
+P
+R
+S
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+78
+K
+L
+M
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+23-63
+23-151 HD
+25-4
+25-7
+Service Rating
+M
+N
+I
+M
+Number of Contacts
+49
+4
+4
+151
+48
+8
+97
+2
+Contact Size
+22D
+16 Coax
+12 Coax
+23
+20
+16
+22D
+8 Twinax
+U
+A
+B
+A
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+T
+B
+F
+G
+C
+A
+B
+V
+G
+H
+J
+S
+a
+b
+c
+d
+D
+D
+C
+H
+C
+e
+R
+E
+H
+G
+K
+L
+q
+r
+s
+t
+w
+f
+B
+F
+Z
+W
+D
+u
+v
+n
+p
+D
+P
+F
+E
+g
+h
+k
+m
+E
+F
+N
+G
+A
+E
+C
+X
+Y
+M
+H
+J
+K
+L
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25-8 | 25-10^ | 25-88
+25-11***
+25-16
+25-17
+Service Rating
+Twinax / Coax
+N
+M
+M
+Number of Contacts
+8
+2
+9
+6
+2
+36
+6
+Contact Size
+8 Twinax / 8 Coax (88)
+20
+10
+20
+4
+22D
+8 Twinax
+HD: High Density HD38999 (use size 23 contacts only)
+Note: MS connector 21-75 is supplied with four size 8 twinax contacts.  
+Commercial connector 21-75 is supplied with four size 8 coax contacts.
+MS connector 21-79 has provision for two size 8 coax contacts. 
+Coax contacts are not supplied unless specified by customers.
+CONTACT LEGEND 
+8 
+10 
+12 
+16 
+20 
+22 
+22M 22D 
+23
+80
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV 
+Insert Arrangements
+Front face of pin inserts illustrated
+M
+A
+B
+A
+B
+S
+A
+B
+P
+R
+C
+C
+L
+N
+P
+C
+N
+Z
+R
+S
+P
+D
+T
+5
+4
+Y
+Z
+Y
+1
+U
+K
+U
+V
+R
+D
+E
+N
+D
+M
+T
+X
+6
+7
+M
+F
+2
+3
+J
+S
+T
+E
+E
+a
+L
+U
+V
+W
+X
+F
+L
+G
+F
+G
+H
+V
+W
+K
+H
+G
+H
+J
+K
+J
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25-19
+    25-20***
+25-24
+Service Rating
+I
+N
+I
+Number of Contacts
+19
+10
+13
+3
+4
+12
+12
+Contact Size
+12
+20
+16
+8 Twinax
+12 Coax
+16
+12
+(With Matched Impedance)
+59
+48
+1
+71
+36
+82
+U
+25
+A
+B
+94
+A
+B
+8
+15
+105
+115
+12
+2
+C
+T
+R
+S
+T
+1
+13
+f
+g
+V
+W
+S
+3
+D
+C
+P
+11
+14
+e
+h
+k
+U
+X
+b
+c
+25
+18
+19
+20
+21
+E
+4
+R
+q
+r
+D
+125
+N
+4
+V
+d
+f
+m
+Y
+d
+a
+10
+F
+P
+15
+n
+p
+M
+E
+e
+Z
+22
+23
+24
+c
+W
+5
+9
+Z
+7
+16
+17
+N
+G
+128
+a
+b
+L
+F
+6
+X
+Y
+121
+14
+K
+24
+114
+70
+104
+35
+L
+M
+58
+H
+J
+81
+G
+H
+J
+K
+7
+8
+47
+93
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25-26
+25-29
+25-35
+25-37
+Service Rating
+I
+I
+M
+I
+Number of Contacts
+16
+5
+4
+29
+128
+37
+Contact Size
+20
+12
+8 Coax
+16
+22D
+16
+ 
+A
+A
+B
+V
+W
+B
+P
+A
+B
+C
+D
+W
+X
+Y
+Z
+a
+s
+X
+Y
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+R
+Y
+C
+n
+p
+U
+C
+N
+t
+u
+v
+AA
+Z
+V
+E
+X
+S
+D
+T
+b
+m
+Z
+a
+q
+r
+q
+F
+U
+w
+D
+M
+E
+W
+T
+S
+p
+k
+c
+b
+m
+s
+t
+d
+e
+n
+p
+q
+g
+a
+c
+r
+x
+v
+z
+k
+h
+w
+E
+L
+R
+F
+d
+G
+h
+T
+r
+i
+K
+m
+n
+c
+d
+s
+t
+u
+P
+G
+b
+j
+x
+y
+H
+S
+e
+F
+U
+V
+N
+H
+e
+f
+g
+f
+g
+h
+k
+J
+K
+L
+M
+G
+H
+J
+J
+K
+L
+M
+N
+P
+R
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25-41
+25-43
+25-46
+Service Rating
+N/Inst.
+I
+I
+Number of Contacts
+22
+3
+11
+2
+3
+23
+20
+40
+4
+2
+Contact Size
+22D
+20
+16
+12 Coax
+8 Twinax
+20
+16
+20
+16
+8 Coax †
+CONTACT LEGEND 
+8 
+10 
+12 
+16 
+20 
+22 
+22M 22D 
+23
+81
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV, HD
+Insert Arrangements
+Front face of pin inserts illustrated
+W
+A
+1
+8
+46
+24
+13
+79
+67
+V
+B
+A
+B
+5
+90
+36
+57
+s
+t
+u
+X
+Y
+U
+C
+C
+X
+D
+A
+AA
+r
+v
+1
+98
+Z
+w
+t
+u
+v
+D
+D
+Y
+Z
+a
+b
+c
+d
+T
+GG
+HH
+W
+7
+2
+q
+a
+x
+F
+F
+E
+JJ
+s
+NN
+S
+e
+E
+99
+2
+V
+z
+PP
+p
+y
+b
+EE
+KK
+MM
+w
+F
+r
+U
+f
+R
+F
+c
+LL
+3
+z
+6
+3
+G
+g
+q
+DD
+m
+n
+T
+d
+P
+G
+x
+y
+100
+AA
+C
+B
+H
+k
+BB
+CC
+H
+N
+101
+4
+e
+f
+g
+h
+J
+h
+i
+k j
+m
+n
+p
+J
+K
+L
+M
+4
+5
+K
+L
+M
+N
+P
+R
+S
+12
+23
+35 45
+56
+66 78
+89 97
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25-61
+25-62
+25-90
+25-92
+Service Rating
+I
+I
+I
+M
+Number of Contacts
+61
+8
+4
+40
+4
+2
+92
+9
+Contact Size
+20
+16
+8
+20
+16
+8 Twinax
+22D
+16
+Ground Plane Only
+3
+1
+1
+27
+26
+A
+4
+11
+28
+M
+A
+25
+4
+3
+2
+H
+30
+38
+39
+40
+29
+24
+5
+21
+20
+12
+32
+B
+37
+50
+51
+41
+42
+43
+31
+33
+45
+23
+36
+6
+L
+B
+N
+46
+59
+54
+63
+62
+61
+32
+53
+52
+7
+22
+60
+72
+K
+C
+c
+d
+e
+P
+R
+S
+73
+86
+G
+60
+66
+64
+21
+8
+44
+55
+87
+101
+T
+j
+w
+h
+g
+f
+u
+v
+t
+C
+102
+9
+20
+59
+56
+65
+49
+J
+D
+115
+128
+33
+142
+116
+129
+X
+a
+U
+Z
+V
+r
+m
+p
+n
+k
+s
+b
+35
+19
+10
+58
+57
+F
+143
+155
+48
+45
+H
+E
+18
+156
+11
+167
+D
+Y
+W
+47
+46
+168
+12
+17
+E
+177
+176
+184
+185
+187
+G
+F
+34
+14
+13
+16
+15
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25-97
+25-F4
+25-187 HD
+25-1A
+Service Rating
+M
+Size 22D=M, Balance =I
+N
+N
+Number of Contacts
+26
+3
+13
+49
+13
+4
+187
+4
+4
+Contact Size
+22D
+16
+12
+22D
+16
+12
+23
+16
+4
+1
+2
+25
+26
+27
+24
+3
+4
+28
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+43
+44
+5
+23
+29
+51
+50
+42
+6
+52
+30
+45
+21
+22
+56
+58
+7
+59
+57
+20
+41
+60
+31
+8
+19
+40
+49
+55
+9
+32
+39
+18
+33
+46
+53
+10
+54
+48
+38
+17
+11
+47
+34
+35
+36
+37
+12
+13
+14
+15
+16
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25-AT
+Service Rating
+N
+Number of Contacts
+2
+2
+13
+12
+31
+Contact Size
+10
+12
+16
+20
+22D
+NOTE: Some specials shown here were formerly known as Pyle arrangements.  
+Consult Amphenol for how to order information for connectors with these inserts.  
+For further information on special arrangements consult Amphenol Aerospace, Sidney NY.
+* Pyle 15-4 does not mate with Amphenol Tri-Start 15-4 insert.
+†  Coax contacts for RG180/U or RG195/U cable.
+HD: High Density HD38999 
+(use size 23 contacts only)
+CONTACT LEGEND 
+8 
+10 
+12 
+16 
+20 
+22 
+22M 22D 
+23
+82
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV 
+Special Insert Arrangements
+Front face of pin inserts illustrated
+Non-Standard Shells or Large Contacts
+A
+F
+C
+A
+E
+G
+B
+C
+D
+B
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+25L-3
+25L-7
+Service Rating
+II
+II
+Number of Contacts
+1
+2
+7
+Contact Size
+8
+4
+8
+A
+A
+E
+C
+A
+E
+B
+B
+F
+C
+D
+B
+C
+D
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+33-3
+33-5
+33-6
+Service Rating
+II
+II
+II
+Number of Contacts
+1
+2
+5
+2
+4
+Contact Size
+4
+0
+4
+8
+4
+A
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+D
+B
+C
+Shell Size &  
+Insert Arrg. for:
+Series III TV
+37-5
+Service Rating
+II
+Number of Contacts
+4
+NOTE: Some specials shown here were formerly known as Pyle  
+arrangements. Consult Amphenol for how to order information for  
+connectors with these inserts.
+Consult Amphenol Aerospace for longer shell drawings.
+Contact Size
+0
+CONTACT LEGEND
+8
+4
+0
+22D
+83
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Alternate Keying Information
+6. Select a  Alternate Keying  
+A, B, C, D, E or blank for normal.
+AR° or 
+* An “N” designation is used on D38999 military 
+part number but not on the commercial versions
+Shell 
+Size
+Key & Keyway 
+Arrangement 
+Identification 
+AP° 
+BSC
+Letter
+BR° 
+or 
+BP° 
+BSC
+CR° 
+or 
+CP° 
+BSC
+DR° 
+or  
+DP° 
+BSC
+N*
+120
+240
+A
+132
+248
+B
+80
+230
+NA
+NA
+7,  
+7H
+C
+140
+275
+Key/Keyway Position
+A plug with a given rotation letter will mate with a receptacle 
+with the same rotation letter. The angles for a given connector 
+are the same whether it contains pins or sockets. Master key 
+stays fixed, minor keys rotate. Inserts are not rotated in 
+conjunction with the master key/keyway.
+D
+155
+234
+E
+131
+197
+N*
+105
+140
+215
+265
+RECEPTACLE 
+(front face shown)
+PLUG 
+(front face shown)
+A
+102
+132
+248
+320
+MAIN
+KEYWAY
+MAIN
+KEYWAY
+B
+80
+118
+230
+312
+9
+C
+35
+140
+205
+275
+˚
+AP
+BSC
+AR
+BSC˚
+D
+64
+155
+234
+304
+˚
+BP
+BSC
+BR
+BSC˚
+E
+91
+131
+197
+240
+N*
+95
+141
+208
+236
+˚
+˚
+DP
+BSC
+CP
+BSC
+DR
+BSC˚
+CR
+BSC˚
+A
+113
+156
+182
+292
+B
+90
+145
+195
+252
+C
+53
+156
+220
+255
+11, 
+13, 
+and 
+15
+A plug with a given rotation letter will mate with a receptacle with the same rotation 
+letter. The angles for a given connector are the same whether it contains pins or 
+sockets. Inserts are not rotated in conjunction with the master key/keyway.
+D
+119
+146
+176
+298
+E
+51
+141
+184
+242
+N*
+80
+142
+196
+293
+A
+135
+170
+200
+310
+B
+49
+169
+200
+244
+C
+66
+140
+200
+257
+17 
+and 
+19
+D
+62
+145
+180
+280
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+E
+79
+153
+197
+272
+N*
+80
+142
+196
+293
+A
+135
+170
+200
+310
+B
+49
+169
+200
+244
+C
+66
+140
+200
+257
+21, 
+23, 
+and 
+25
+D
+62
+145
+180
+280
+E
+79
+153
+197
+272
+N*
+80
+142
+188
+293
+A
+135
+170
+188
+310
+B
+49
+169
+188
+244
+C
+66
+140
+188
+257
+25L, 
+33, 
+and  
+37
+D
+62
+145
+188
+280
+E
+79
+153
+188
+272
+84
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV, HD
+Contact Ratings/ Service Ratings
+CONTACT RATING FOR TV III, HD
+Crimp Well Data
+Solder Well Data
+Test Current (Amps)
+Maximum 
+Millivolt 
+Contact 
+Contact 
+Well  
+Normal 
+Well  
+Nominal 
+Drop
+Size
+Maximum 
+Millivolt 
+Size
+Diameter
+Well Depth
+Diameter
+Well Depth
+Crimp
+Hermetic
+Drop Crimp*
+Hermetic*
+23
+5
+3
+73
+85
+23
+.0345 ± 
+.0010
+.141
+.0345 ± 
+.0010
+.130
+22M
+3
+2
+45
+60
+22M
+.028 ± .001
+.141
+.029  +.004
+        – .000
+22D
+5
+3
+73
+85
+22
+5
+3
+73
+85
+22D
+.0345 ± 
+.0010
+.141
+.036   +.004  
+           -.000
+.094
+20
+7.5
+5
+55
+60
+22
+.0365 ± 
+.0010
+.141
+.036   +.004  
+           -.000
+.094
+16
+13
+10
+49
+85
+12
+23
+17
+42
+85
+20
+.047 ± .001
+.209
+.044   +.004   
+           -.004
+.125
+10 (Power)
+33
+NA
+33
+NA
+16
+.067 ± .001
+.209
+.078   +.000      
+           -.004
+.141
+8 (Power)
+46
+NA
+26
+NA
+4
+80
+NA
+23
+NA
+12
+.100 ± .002
+.209
+.116   +.004     
+           -.002
+.141
+0
+150
+NA
+21
+NA
+10 (Power)
+.137 ± .002
+.355
+NA
+NA
+*When tested using silver plated wire.
+8
+.181 ± .002
+.490
+NA
+NA
+4
+.281 ± .002
+.490
+NA
+NA
+0
+.453 ± .002
+.585
+NA
+NA
+MIL-DTL-38999 SERIES III STANDARD 500 CYCLE  
+CONTACTS FOR TV AND CTV, P & S
+Contact Size
+TV/CTV Pins
+TV/CTV Sockets
+Military No.
+Supersedes
+Military No. 
+Supersedes
+8 (Coax)*
+M39029/60-367
+MS27536
+M39029/59-
+366
+MS27535
+8 (Power)
+Contact Factory
+“
+“
+“
+8 (Twinax)
+M39029/90-
+529**
+N/A
+M39029/91-
+530
+N/A
+10 (Power)
+M39029/58-528
+N/A
+M39029/56-
+527
+N/A
+12
+M39029/58-365
+MS27493-12
+M39029/56-
+353
+MS27490-12
+16
+M39029/58-364
+MS27493-16
+M39029/56-
+352
+MS27490-16
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+20
+M39029/58-363
+MS27493-20
+M39029/56-
+351
+MS27490-20
+22D
+M39029/58-360
+MS27493-22D
+M39029/56-
+348
+MS27490-22D
+4
+N/A
+N/A
+N/A
+N/A
+0
+N/A
+N/A
+N/A
+N/A
+Above part numbers include standard 500 cycle finish designation - gold plating over suitable underplate in accordance with SAE AS39029. For other 
+finish variations, consult Amphenol Aerospace. 
+*For use with RG180B/U and RG195A/U cable. For other size 8 coax or optional sizes 12 and 16 coax contacts available for use in Tri-Start connectors, 
+see High Speed catalog or consult Amphenol Aerospace.
+MIL-DTL-38999 SERIES III 1500 CYCLE CONTACTS,  CLASSES H & J
+Contact Size
+CTV Pins
+CTV Sockets
+Commercial No.
+Military No.
+Supersedes
+Commercial No.
+Military No. 
+Supersedes
+12
+10-597072-2X
+M39029/107-623
+–
+10-597073-2X
+M39029/106-617
+–
+16
+10-597068-2X
+M39029/107-622
+–
+10-597069-2X
+M39029/106-616
+–
+20
+10-597064-2X
+M39029/107-621
+–
+10-597065-2X
+M39029/106-615
+–
+22D
+10-597058-3X
+M39029/107-620
+–
+10-597061-2X
+M39029/106-614
+–
+85
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+MIL-DTL-38999, Series III TV
+Service Rating/Sealing Plugs
+SERVICE RATING**
+Suggested Oper. Voltage  
+Test Voltage 
+(Sea Level)
+Test Voltage (Sea 
+Service
+Rating
+Level)
+50,000 Ft.
+Test Voltage 70,000 Ft
+Test Voltage 110,000 Ft.
+AC (RMS)
+DC
+M
+400
+500
+1300 VRMS
+550 VRMS
+350 VRMS
+200 VRMS
+N
+300
+450
+1000 VRMS
+400 VRMS
+260 VRMS
+200 VRMS
+I
+600
+850
+1800 VRMS
+600 VRMS
+400 VRMS
+200 VRMS
+II
+900
+1250
+2300 VRMS
+800 VRMS
+500 VRMS
+200 VRMS
+** Please note that the establishment of electrical safety factors is left entirely in the designer’s hands, since they are in the best position to know  
+what peak voltage, switching surges, transients, etc. can be expected in a particular circuit.
+MIL-DTL-38999 SERIES III  
+SEALING PLUGS
+Contact Size
+Commercial No. 
+Military No.
+Standard Amphenol Contact AWG Ranges
+8 (Coax)
+10-482099-8
+N/A
+Contact Size
+Max
+Min
+23-22
+22
+28
+8 (Twinax)
+T3-4008-59P
+N/A
+22D
+22
+28
+8 (Power)
+10-405996-83
+MS27488-8-3
+22M
+24
+28
+10 (Power)
+T3-4010-59P
+M85049/81-10
+22
+22
+26
+PCB
+HD
+Power
+Bulk
+Integral
+Plug
+Hermetic
+Speed
+Filter
+Access
+Tech
+12
+10-405996-122
+MS27488-12-2
+20
+20
+24
+16
+10-405996-162
+MS27488-16-2
+16
+16
+20
+12 (Power)
+12
+14
+20
+10-405996-202
+MS27488-20-2
+10 (Power)
+10
+12*
+22D
+10-405996-222
+MS27488-22-2
+8 (Power)
+8
+10*
+4
+10-405996-43
+MS27488-4-3
+4 (Power)
+4
+6*
+0
+10-405996-03
+MS27488-0-3
+0 (Power)
+0
+2*
+*with crimp reducing adapter/bushing AS39029/112
+** For use with M17/M176-00002 cable.
+† Optional design - see slash sheet MS39029.
+For other contact options available for use in Tri-Start  
+connectors (wire wrap, thermocouple, fiber optic),  
+consult Amphenol.
+86
+Contact Amphenol Aerospace for more information at 800-678-0141  •  www.amphenol-aerospace.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  TVS06RF-19-32P  TVS06RF-19-35PD  TVS06RF-99-8PN  TVS06RF-25-17P  TVS06RF-23-54SA  TV06RW1713S 
+TV06RGQW95SLC  TV06RQW-17-22P-LC  TV06RGQW-9-5P-LC  TV06RQF-21-75S  TV06RQW-19-18S  TV06RQF-
+21-75S-LC  TV06RQF-25-8S  TV06QDT-25-8S  TVP00RQDZ-21-75SA-LC  TV06RQDZ-25-17P  TV06RQS-19-18S 
+TV06RQS-19-18S-LC  TV06QDT-25-8S-LC  TV06RQDZ-25-7S-LC  TV06QDT-25-7SC-LC  TVP00RGQW-25-8P-LC 
+TV06RQF-19-18P  TV06RQF-25-8P  TV06RQF-19-18PC-LC  TVP00RGQF-9-5SB  TVP00RGQF-21-75S  TV06RQF-
+17-2S-LC  TV06RQF-17-22S  TV06RGQW-9-5PA-LC  TVP00RQF-17-2P  TVP00QDT-25-17PA-LC  TVP00QDT-17-2P
+  TVP00RQF-25-7P  TVP00RQF-25-17S  TVP00RQF-21-75SA-LC  TVP00RQW-19-18SA-LC  TVP00RQW-17-60SA-LC
+  TV06RQF-25-20SA-LC  TV06RQF-25-20PA-LC  TV06RQF-25-17SA  TV06RQF-25-17PC-LC  TV06RQF-21-75P-LC 
+TV06RQK-25-8PB-LC  TV06RQK-25-17S  TV06RQF-25-8P-LC  TV06RQW-17-52SC  TV06RQS-25-17P-LC 
+TV06QDZ-25-8P-LC  TV06QDZ-23-6P-LC  TV06QDT-25-17S  TVS07RK-17-35PA  TV07RJ11-35DS  TV07RJ13-35DS
+  TV07RW11-35DS  TV07RW13-35DS  TVP00RJ11-35DS  TVP00RJ13-35DS  TVP00RW11-35DS  TVP00RW13-35DS

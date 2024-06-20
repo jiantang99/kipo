@@ -1,0 +1,91 @@
+PHG.1T.512.CTLC45
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+7
+Image is for illustrative purpose only
+Series
+1T
+Download
+Female solder
+Termination type
+Request a quote
+IP rating
+68
+Catalog
+AWG wire size
+30.00 - 26.00
+Cable Ø
+4.10 - 4.50 mm
+Status
+active
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+PH*: Free receptacle, cable collet
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Weight
+24.81 g
+Performance
+Configuration
+1T.512 : 4 High Speed, Low Voltage (1000BASE-T1 (IEEE 802.3bp)) + 3 Ground contacts
+Insulator
+T: PTFE
+Rated Current
+Others
+Endurance (Shell): >3000 mating cycles 
+Temp (min / max): -55°C / +200°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Resistance to vibration: 15 g [10 Hz - 2000 Hz] 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding efficiency (min): 75 dB (at 10 MHz) 
+Shielding efficiency (min): 40 dB (at 1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+L
+S1
+S2
+mm.
+12
+43.5
+10
+9
+in.
+0,47
+1,71
+0,39
+0,35
+RECOMMENDED BY LEMO
+Tools
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  PHG.1T.512.CTLC45

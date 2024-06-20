@@ -1,0 +1,1070 @@
+Amphenol Pcd
+LUMINUS
+GUIDE 2018
+
+LUMINUS
+Description:
+Luminus are lightweight, cost-effective connectors that are highly reliable and simple to use. With multiple configu-
+rations and arrangements available, a solution can be tailored to suit your application’s exact requirements. Proven 
+solutions can be found in single engine general aviation, multiple-engine business and passenger jets, and high per-
+formance rotary aircraft. Ideal where space is limited, these innovative, “scoop-proof” connectors feature a locking 
+mechanism that ensures stability, are suitable for blind-mating, and are RoHS compliant.
+Features and Benefits:
+1/4 turn bayonet style connection; push and snap connection - Makes wire installation and maintenance easy and effi-
+cient; positive “click” when locked
+Interfacial and Triple-Barrier Seal - Enables environmental sealing (IP 67 rating)
+Multiple Keying Positions - Ensures proper connectivity
+Multiple Configurations and Accessories - Tailored solutions to meet application needs
+Contacts - AS39029 MIL Spec contacts for broad application compatibility. Stamped & Formed available as lower cost 
+option
+Visual markings - Visual aid for easy assembly
+Rugged Polyamide Housings; 500 mating cycles - Durability
+Blind-Mate Connection - Enables simple, blind mating; easy assembly
+D160, M81714, FAR25 Compliance-Meets demanding military-aerospace environmental conditions
+Typical Applications:
+•
+Aerospace Lighting
+•
+Power & Signal Distribution
+•
+Cabin Service Systems
+•
+Actuation & Sensors
+Visit amphenolpcd.com for more information
+
+LUMINUS
+Shell Size
+05 (max dia: 0.318)
+10 (max dia: 0.630)
+ 
+ 
+2, size 22, Twist & Lock
+ 
+ 
+9: 4, size 16; 5 size 22Twist & Lock
+ 
+ 
+3, size 22, Twist & Lock
+ 
+ 
+10: 4, size 16; 6 size 22 Twist & Lock
+06 (max dia: 0.390)
+11 (max dia: 0.700)
+ 
+ 
+1, size 16 & 20, Push & Pull
+ 
+ 
+3, size 12, Twist & Lock
+ 
+ 
+3, size 16, Push & Pull
+07 (max dia: 0.448
+ 
+ 
+6, size 22, Twist & Lock
+14 (max dia: 0.875)
+ 
+ 
+8, size 22, Twist & Lock
+ 
+ 
+25, size 22, Twist & Lock
+ 
+ 
+1, size 12, Push & Pull
+08 (max dia: 0.528)
+ 
+ 
+4, size 16 , Twist & Lock
+ 
+ 
+5, size 22, Twist & Lock
+ 
+ 
+9: 1, size 16; 8 size 22 Twist & Lock
+ 
+ 
+9, size 22Twist & Lock
+ 
+ 
+3, size 16 Twist & Lock
+ 
+ 
+3, size 20 Push & Pull
+Visit amphenolpcd.com for more information
+
+LUMINUS
+Materials and Specifications
+Push & Pull
+Twist & Lock
+Insulator Body: Polyamide 6/6 (Nylon)
+Insulator Body: Polyamide 6/6 (Nylon)
+Grommet: Silicone Rubber
+Grommet & Face Seal: Silicone Rubber
+Materials
+Contact Retainer: Stainless Steel
+Contact Retainer: Stainless Steel
+Contacts: Copper Alloy Gold Plated
+Temperature Range
+-65˚C to 125˚C
+-65˚C to 125˚C
+Temperature Life
+150 hours @ 95 C
+500 hours @ 85˚C
+Insulation Resistance
+1500VAC, 60hz @ Sea Level
+5000 MΩ Min. @ 500 VDC
+1500 VAC, 60 Hz @ Sea Level, 1ma
+1500 VAC, 60 Hz @ Sea Level, 1ma
+Dielectric Withstanding
+300 VAC, 60 Hz @ 70,000 ft, 2ma
+300 VAC, 60 Hz @ 70,000 ft, 2ma
+Durability 
+50 mating cycles
+500 mating cycles
+5% salt solution, 75k feet
+5000Mohms @ 1500 VAC, sea level
+Altitude Immersion
+5% salt solution, 55k ft, DWV 1500VA
+5000Mohms @ 300 VAC, 70k ft
+5000Mohms @ 300 VAC, 100k ft
+Temperature Cycling
+5(1) Hour Cycles: 0 C to 95 C
+5(1) Hour Cycles: -65˚C to 125˚C
+Thermal Shock
+5(1) Hour Cycles: 0 C to 95 C
+-65˚C to 200˚C
+30G Sinusoidal; 43.96G Random
+Vibration
+Contact Factory
+Shock
+300G, 3msec, Half-Sine
+Salt Spray
+5% Salt Spray @ 95˚C for 48 Hours
+10 Days @ 25˚C to 65˚C,
+Humidity 
+10 Days @ 25˚C to 65˚C,
+90% - 95% RH
+90% - 95% RH
+Lubricating Oil per Mil-Prf-7808
+Cleaning Compound per Mil-Prf-87937, Alkaline Base
+Isopropyl Alcohol & Mineral Spirit Solution
+Skydrol Hydraulic Fluid
+Skydrol Hydraulic Fluid
+Fluid Immersion
+Hydraulic Fluids per MIL-PRF-83282 
+Hydraulic Fluids per MIL-PRF-83282
+MIL-PRF-87257
+MIL-PRF-87257
+Ethylene Glycol
+Ethylene Glycol
+Propylene Glycol
+Propylene Glycol
+Aviation Jet A
+Aviation Jet A
+Seal Rating
+IP67 
+IP67
+UL94, V0. 
+DOTG section 26.6.2 & 26.6.3
+Flammability
+UL94, V0. 
+FAR Part 25 App F Part I
+RoHS & REACH Compliance
+Yes
+Yes
+size 22
+10 lbs
+Contact Insertion & 
+size 20
+10 lbs
+Removal Force
+-
+size 16
+13 lbs
+(not to exceed)
+size 12
+15 lbs
+size 22
+10 lbs
+size 20
+15 lbs
+Contact Retention
+-
+(minimum)
+size 16
+25 lbs
+size 12
+30 lbs
+Visit amphenolpcd.com for more information
+
+LUMINUS
+Part Numbering (Twist & Lock)
+Jam Nut 
+Inline 
+Circular 
+Square 
+Jamnut 
+Oval 
+# of 
+Contact 
+Receptacle 
+Receptacle 
+Receptacle 
+PCB 
+Receptacle 
+Rear 
+Mount 
+Positions
+Size
+Shell Size
+Key
+Color
+Plug P/N
+P/N
+P/N
+PN
+Mount
+PN
+Receptacle 
+PN
+1
+Quadrax
+8
+-
+-
+SJS801110
+SJS801120
+-
+SJS801130*
+SJS801160*
+SJS801170*
+SJS801190*
+2
+22D
+5
+-
+black
+SJS830250
+SJS830270
+-
+-
+-
+SJS502170
+SJS502190
+3
+12
+11
+-
+black
+SJS103110*
+SJS103120*
+-
+-
+-
+-
+-
+3
+22D
+5
+-
+black
+SJS830210
+SJS830230
+-
+-
+-
+SJS503170
+SJ503190
+3
+20
+7
+-
+white
+SJS862300
+SJS862400
+-
+SJS862450
+-
+-
+-
+3
+16
+8
+A
+white
+SJS840310
+SJS840300
+SJS840320
+SJS803730
+-
+-
+-
+3
+16
+8
+B
+black
+SJS840340
+SJS840350
+SJS840330
+SJS803130
+-
+-
+-
+3
+12
+10
+-
+-
+SJS003110
+SJS003120
+-
+-
+-
+-
+-
+3
+12
+11
+-
+black
+SJS103110
+SJS103120
+-
+-
+-
+-
+-
+4
+16
+8
+A
+white
+SJS840410
+SJS840400
+SJS840420
+SJS804730
+SJS840760
+-
+SJS840790
+4
+16
+8
+B
+white
+SJS840440
+SJS840450
+SJS840430
+-
+-
+-
+-
+4
+20
+7
+-
+black
+SJS704110
+SJS704120
+-
+-
+-
+-
+-
+5
+22D
+8
+-
+white
+SJS860510
+SJS860500
+SJS860520
+SJS805730
+-
+-
+-
+5
+22D
+8
+-
+white
+SJS870510
+-
+SJS870520
+-
+-
+-
+-
+6
+22D
+7
+-
+black
+SJS861700
+SJS861800
+-
+-
+SJS706160
+-
+-
+8
+22D
+7
+A
+black
+SJS830100
+SJS830200
+-
+SJS830220
+SJS708160
+SJS708170
+SJS708190
+8
+22D
+7
+B
+green
+SJS830101
+SJS830201
+-
+SJS830221
+-
+-
+-
+8
+22D
+7
+C
+yellow
+SJS830102
+SJS830202
+-
+SJS830222
+-
+-
+-
+9
+22D
+8
+-
+black
+SJS862100
+SJS862200
+-
+SJS809130
+-
+-
+-
+12
+22D
+8
+-
+white
+SJS861300
+SJS861400
+-
+SJS812730
+SJS812760*
+-
+-
+12
+22D
+11
+A
+black
+SJS112110
+SJS112120
+-
+-
+SJS112160
+-
+-
+12
+22D
+11
+B
+-
+SJS112210
+SJS112220
+-
+-
+SJS112260
+-
+-
+12
+22D
+11
+C
+-
+SJS112310
+SJS112320
+-
+-
+SJS112360
+-
+-
+12
+22D
+11
+D
+-
+SJS112410
+SJS112420
+-
+-
+SJS112460
+-
+-
+25
+22D
+14
+A
+black
+SJS425110
+SJS425120
+-
+-
+SJS425160
+-
+-
+25
+22D
+14
+B
+-
+SJS425210
+SJS425220
+-
+-
+SJS425260
+-
+-
+25
+22D
+14
+C
+-
+SJS425310
+SJS425320
+-
+-
+SJS425360
+-
+-
+25
+22D
+14
+D
+-
+SJS425410
+SJS425420
+-
+-
+SJS425460
+-
+-
+12
+20
+14
+-
+-
+SJS412110
+SJS412120
+-
+-
+-
+-
+-
+12 (3)
+-
+-
+-
+-
+-
+5
+11
+-
+black
+SJS1AE110*
+SJ1AE120*
+22 (2)
+-
+-
+-
+-
+-
+16
+-
+-
+-
+-
+9
+8
+-
+white
+SJS860100
+SJS860200
+-
+22D
+-
+-
+-
+-
+16
+SJS0AA730
+-
+-
+-
+9
+10
+-
+white
+SJS860910
+SJS860900
+-
+22D
+-
+-
+-
+-
+16
+SJS0A8730*
+SJS0BB770*
+-
+-
+10
+10
+-
+white
+SJS861100
+SJS861200
+-
+22D
+SJS0AB730
+SJS0AB770
+-
+-
+Note: Above part numbers come without contacts; inquire within for “with contacts” part numbers
+* SJS870510 uses pin contacts; SJS870520 uses socket contacts
+*Available at extended lead timed.
+Visit amphenolpcd.com for more information
+
+LUMINUS
+Part Numbering (Push & Pull)
+Contact Size
+Contact Qty
+Shell Size
+Key
+Color
+Plug P/N
+Receptacle
+12
+1
+7
+n/a
+blue
+SJS512100
+SJS512200
+12
+1
+7
+n/a
+red
+SJS512110
+SJS512210
+16
+1
+6
+n/a
+blue
+SJS716100
+SJS716200
+16
+1
+6
+n/a
+red
+SJS716110
+SJS716210
+20
+1
+6
+n/a
+green
+SJS720100
+SJS720200
+20
+1
+6
+n/a
+yellow
+SJS720110
+SJS720210
+16
+3
+11
+A
+red
+SJS816100
+SJS816200
+16
+3
+11
+B
+white
+SJS816110
+SJS816210
+16
+3
+11
+C
+blue
+SJS816120
+SJS816220
+20
+3
+8
+A
+red
+SJS820100
+SJS820200
+20
+3
+8
+B
+white
+SJS820110
+SJS820210
+20
+3
+8
+C
+blue
+SJS820120
+SJS820220
+Part Numbering (Accessories)
+Double 
+Hard 
+Strain Relief 
+Single Side 
+Tape Tube 
+Side Tape 
+Double Side 
+Tape Mount 
+Protective 
+Shell 
+Size 
+Single
+Strain Relief 
+Single 90°
+Strain Relief 
+Single 45°
+Tube Mount 
+Dummy 
+Flanges
+Double 
+Strain 
+Relief
+Cradle
+Screw 
+Mount 
+Cradle
+Tube 
+Mount 
+Cradle
+Caps
+Mount 
+Cradle
+Cradle
+5
+SJSA55000
+SJSAA5100
+SJSAA5200
+SJSA56000
+SJS257000
+SJS257100
+SJSA5V000
+SJS5AV010
+SJS5AV020
+-
+SJSA5B000
+7
+SJS450350
+SJSA75100
+SJSA75200
+SJSA76000
+SJS883000
+SJS450250
+SJSA7V000
+SJSA7V010
+SJSA7V020
+SJS830220D
+SJSA7B000
+8
+SJSA85000
+SJSA85100
+SJSA85200
+SJSA86000
+SJS445000
+SJS450100
+SJSA8V000
+SJSA8V010
+SJSA8V020
+-
+SJSA8B000
+10
+SJSA05000
+SJSA05100
+SJSA05200
+SJSA06000
+SJS991000
+-
+SJSA0V000
+SJSA0V010
+SJSA0V020
+SJS0AA730D
+SJSA0B000
+Visit amphenolpcd.com for more information
+
+LUMINUS
+Contact Information: Machined and Stamped & Formed
+Now with Quadrax & Fiber Optic (M29504) capability
+Shipping Format
+Loose (Tape & reel not included)
+Dimensions
+AS39029 Compatible
+Mating Cycles
+500
+Machined
+Gold plate 50 micro-inches min over 
+Contact
+Body: Copper Alloy
+Plating Options  
+Materials
+Hood
+Stainless Steel
+Stamped & Formed
+Selective gold plate over engagement area 3-5 
+micro-inches thick over nickel under plate
+Sleeve
+Stainless Steel
+Contact Matrix
+Available
+Contact P/N
+Crimp Tensile 
+Contact Size
+Contact Style
+Contact      
+Retention
+QPL Part No.
+ (Machined Only)
+Strength
+Push-Pull
+Twist-Lock
+Machined
+Stamped &  
+Formed
+Pin
+Yes
+Yes
+CNP058365
+SCP058365
+M39029/58-365
+.012” [0,30mm] @ 
+12
+30lbf [133N]
+100lbf [445N]
+Socket
+No
+Yes
+CNS057359
+SCS057359
+M39029/57-359
+Socket-L
+Yes
+ No
+CNS056353
+n/a
+M39029/56-353
+Pin
+Yes
+Yes
+CNP058364
+SCP058364
+M39029/58-364
+16
+.012” [0,30mm] @ 
+25lbf [111N]
+40lbf [180N]
+Socket
+ No
+Yes
+CNS057358
+SCS057358
+M39029/57-358
+Socket-L
+Yes
+No
+CNS056352
+n/a
+M39029/56-352
+Pin
+Yes
+Yes
+CNP058363
+SCP058363
+M39029/58-363
+20
+.012” [0,30mm] @ 
+20lbf [90N]
+20lbf [90N]
+Socket
+ No
+Yes
+CNS057357
+SCS057357
+M39029/57-357
+Socket-L
+Yes
+ No
+CNS056351
+n/a
+M39029/56-351
+Pin
+ No
+Yes
+CNP058360
+n/a
+M39029/58-360
+.012” [0,30mm] @ 
+22D
+10lbf [44N] 
+10 lbf [45N] 
+Socket
+No
+Yes
+CNS057354
+n/a
+M39029/57-354
+Wire Accommodations
+Tool Information
+Contact 
+Size
+Size (AWG)
+Max Current  
+Rating (A)
+ØD Range
+Strip Length
+Basic Tool
+Positioner
+Insertion/Removal 
+Tool
+12
+23
+.097 - .142” [2,46 - 
+.209 - .240” 
+12
+3,61mm]
+[5,31 - 6,10mm]
+M22520/1-01
+M22520/1-04 (Yellow)
+M81969/14-04
+14
+17
+16
+13
+M22520/1-01
+M22520/1-04 (Blue)
+.065 - .109” [1,65 - 
+.209 - .240” 
+16
+M81969/14-03
+18
+10
+2,77mm]
+[5,31 - 6,10mm]
+M22520/7-01
+M22520/7-04
+20
+7.5
+20
+7.5
+M22520/1-01
+M22520/1-04 (Red)
+.040 - .083” [1,02 - 
+.209 - .240” 
+20
+M81969/14-11
+22
+5
+M22520/2-01
+M22520/2-10
+2,11mm]
+[5,31 - 6,10mm]
+24
+3
+M22520/7-01
+M22520/7-08
+22
+5
+.141 - .172” 
+M22520/2-01
+M22520/2-06
+24
+3
+.030 - .054” [0,76 - 
+22D
+[3,58 - 4,37mm]
+M81969/14-01
+1,37mm]
+26
+2
+M22520/7-01
+M22520/7-06
+28
+1.5
+Visit amphenolpcd.com for more information
+
+AMPHENOL PCD PRODUCTS
+BACKSHELLS
+CABLE SOLUTIONS
+CIRCULAR
+GROUND BLOCKS
+JUNCTION MODULES
+LUMINUS
+MILITARY AUDIO/POWER
+PEGASUS SERIES
+RECTANGULAR
+RELAY SOCKETS
+RUGGED SOLUTIONS
+SIM
+SOLARIS
+SYSTEM ATTACHMENTS
+Amphenol Pcd
+www.amphenolpcd.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  SJS512200  SJS445000  SJS830250  SJS830270  SJS840300  SJS840310  SJS840320  SJS840330  SJS840340 
+SJS840350  SJS840400  SJS840410  SJS860500  SJS860510  SJS860520  SJS860900  SJS860910  SJS991000 
+SJS830220  SJS830200  SJS830100  SJS860911  SJS720100  SJS716110  SJS512100  SJS816210  SJS720200 
+SJS720210  SJS820120  SJS716210  SJS512110  SJS816220  SJS816200  SJS716200  SJS816110  SJS716100 
+SJS820200  SJS720110  SJS512210  SJS820110  SJS816120  SJS820100  SJS820220  SJS820210  SJS830230 
+SJS516100  SJS883000  SJS820201  SJS831200  SJS861200  SJS830102  SJS840321  SJS840401  SJS830211 
+SJS830202  SJS720201  SJS720211  SJS830201  SJS830231  SJS830271  SJS860521  SJS831201  SJS820101 
+SJS831220  SJS840311  SJS840411  SJS840351  SJS861100  SJS831102  SJS840301  SJS831101  SJS840331 
+SJS860501  SJS831202  SJS860511  SJS860901  SJS816101  SJS450250  SJS840341  SJS820111  SJS831100 
+SJS830251  SJS820211  SJS820121  SJS716201  SJS512101  SJS512111  SJS512201  SJS820221  SJS716111 
+SJS716211  SJS816111  SJS816201  SJS716101  SJS816211  SJS816121  SJS816221  SJS830222  SJS830221 
+SJS862400

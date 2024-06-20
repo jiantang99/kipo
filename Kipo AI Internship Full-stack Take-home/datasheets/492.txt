@@ -1,0 +1,1429 @@
+Multi-contact Compact Circular Connectors
+RM Series
+Features
+1. Wide variations
+The RM Series provides a wide selection of 
+plug and receptacle types to satisfy various 
+kinds of application requirements.
+Available position counts : 2, 3, 4, 5, 6, 7, 8, 
+10, 12, 15, and 20.
+Available lock mechanisms : threaded 
+coupling type, bayonet sleeve type, and 
+quick detachable type.
+Product Speciﬁ cations
+Rated current
+[RM15] 
+10A (2 and 4 contacts)
+  
+5A (8, 10, and 12 contacts)
+[RM12, 21] 5A
+Operating 
+temperature 
+range
+-25 to +85ç
+Ratings
+Rated voltage
+Storage 
+temperature 
+range
+-10 to +60ç
+[RM12] AC 600V, DC 840V (2 contacts)
+ 
+AC 500V, DC 700V (3 and 4 contacts)
+  
+AC 350V, DC 490V (5, 6 and 7 contacts)
+[RM15] AC 600V, DC 840V (2 contacts)
+ 
+AC 500V, DC 700V (4 and 8 contacts)
+  
+AC 350V, DC 490V (10 and 12 contacts)
+[RM21] AC 500V, DC 700V (15 contacts)
+ 
+AC 350V, DC 490V (20 contacts)
+Items
+Speciﬁ cations
+Conditions 
+1. Contact 
+resistance
+[RM12, 21]  4mø max.
+[RM15]  4mø max. (8, 10, and 12 contacts)
+[RM15]  2mø max. (2 and 4 contacts)
+Measured at DC 1A
+2. Insulation 
+resistance
+1,000Mø min.
+Measured at DC 500V
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+3. Withstanding 
+voltage
+No ﬂ ashover or dielectric breakdown.
+[RM12] AC 1,800V for 1 minute (2 contacts)
+  
+AC 1,500V for 1 minute (3 and 4 contacts)
+ 
+AC 1,000V for 1 minute (5, 6 and 7 contacts)
+[RM15] AC 1,800V for 1 minute (2 contacts)
+ 
+AC 1,500V for 1 minute (4 and 8 contacts)
+ 
+AC 1,000V for 1 minute (10 and 12 contacts)
+[RM21] AC 1,500V for 1 minute (15 contacts)
+ 
+AC 1,000V for 1 minute (20 contacts)
+4. Vibration 
+resistance
+No electrical discontinuity for 10µs. or greater
+10 to 55Hz/cycle, full amplitude : 0.75mm, 3 axis directions, 
+2 hours each
+5. Shock 
+resistance
+No electrical discontinuity for 10µs. or greater
+Acceleration : 490m/s
+2, duration : 11ms
+3 axis directions, 3 times each
+6. Mating cycles
+Contact resistance : 8mø max.
+2,000 times
+7. Temperature 
+cycle
+Insulation resistance : 100Mø min.
+-55°C : 30 minutes ➝ Normal temperature : 10 to 15 minutes  
+➝ 85°C : 30 minutes ➝ Normal temperature : 10 to 15 
+minutes, left for 5 cycles
+8. Moisture 
+resistance
+Insulation resistance : 100Mø min. (when dry)
+Temperature : 40°C, relative humidity : 90 to 95%, left for 
+96 hours
+1
+2021.7⑥
+In cases where the application will demand a high level of reliability, such as automotive, 
+please contact a company representative for further information.
+
+RM Series●Multi-contact Compact Circular Connectors
+Product Number Structure
+Refer to the chart below when determining the product specifications from the product number.
+Please select from the product numbers listed in this catalog when placing orders.
+Plug
+RM 15 T P A - 2 S (**)
+q
+w
+e
+r
+t
+y
+u
+i
+qModel name : RM Series (Round Miniature Series)
+wShell size : The shell size refers to the outer shell diameter of the mating interface of the plug.
+eLock mechanism
+T : Threaded coupling type
+B : Bayonet sleeve type
+Q : Quick detachable type
+rConnector type
+(1)
+P : Plug
+J : Jack
+P-C : Plug cap
+R-F : Square ﬂ ange for receptacle
+(2)
+R : Receptacle
+R-C : Receptacle cap
+R-B : Cord bushing 
+tForm variation class : Indicates a variation or change within the series.
+yNumber of contacts
+uContact form
+P : Male contact
+S : Female contact
+iOther speciﬁ cations : A two-digit number is added to indicate other speciﬁ cations.
+Materials / Finish
+Items
+Material
+Finish
+Remarks
+Plated shell
+Brass, zinc alloy
+Aluminum alloy
+Nickel plating
+Chromium plating
+----------------------
+Insulator
+Diallyl phthalate resin
+Polycarbonate resin, PPS
+----------------------
+UL94V-0
+(Black)
+Contact
+Brass or copper alloy
+Silver plating
+----------------------
+Please note that materials will differ depending on the actual part number.
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+2
+
+RM Series●Multi-contact Compact Circular Connectors
+RM12B connectors (bayonet sleeve type)
+Plug
+41
+Ø 8
+Ø 18
+２
+１
+Ø 11.9
+Cable clamp range: 
+5mm min. to 8mm max.
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+Part No.
+HRS No.
+No. of contacts
+RM12BPE-2S(76)
+109-0423-0 76
+2
+RM12BPE-2PH(76)
+109-0417-7 76
+2
+RM12BPE-3S(76)
+109-0424-2 76
+3
+RM12BPE-3PH(76)
+109-0418-0 76
+3
+RM12BPE-4S(76)
+109-0425-5 76
+4
+RM12BPE-4PH(76)
+109-0419-2 76
+4
+RM12BPE-5S(76)
+109-0426-8 76
+5
+RM12BPE-5PH(76)
+109-0420-1 76
+5
+RM12BPE-6S(81)
+109-0427-0 81
+6
+RM12BPE-6PH(76)
+109-0421-4 76
+6
+RM12BPE-7S(76)
+109-0428-3 76
+7
+RM12BPE-7PH(76)
+109-0422-7 76
+7
+Receptacle (Jam nut to be fastened)
+A
+17(HEX)
+7
+1.5
+6.9
+6
+２
+１
+１
+２
+19.6
+Ø17
+Ø14.1
+M14×0.75
+(Representative example.)
+Part No.
+HRS No.
+No. of contacts
+A
+Part No.
+HRS No.
+No. of contacts
+A
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+RM12BRD-2PH(76)
+109-0823-8 76
+2
+RM12BRD-2S(76)
+109-0609-8 76
+2
+RM12BRD-3PH(76)
+109-0824-0 76
+3
+RM12BRD-3S(76)
+109-0610-7 76
+3
+RM12BRD-4PH(76)
+109-0825-3 76
+4
+RM12BRD-4S(76)
+109-0611-0 76
+4
+20.5
+21.6
+RM12BRD-5PH(76)
+109-0826-6 76
+5
+RM12BRD-5S(76)
+109-0612-2 76
+5
+RM12BRD-6PH(76)
+109-0827-9 76
+6
+RM12BRD-6S(81)
+109-0613-5 81
+6
+RM12BRD-7PH(76)
+109-0828-1 76
+7
+RM12BRD-7S(76)
+109-0619-1 76
+7
+Remarks : See page 12 for details on recommended panel cut-out.
+3
+
+RM Series●Multi-contact Compact Circular Connectors
+Receptacle (Integral, square flange)
+A
+21
+1.5
+16
+9
+4.5
+4 - Ø2.9
+21
+16
+2
+1
+Ø14.1
+Ø14.1
+(Representative example.)
+Part No.
+HRS No.
+No. of contacts
+A
+Part No.
+HRS No.
+No. of contacts
+A
+RM12BRB-2S(09)
+109-0577-3 09
+2
+RM12BRB-2PH(09)
+109-0817-5 09
+2
+RM12BRB-3S(09)
+109-0578-6 09
+3
+RM12BRB-3PH(09)
+109-0818-8 09
+3
+RM12BRB-4S(09)
+109-0579-9 09
+4
+RM12BRB-4PH(09)
+109-0819-0 09
+4
+21.6
+20.5
+RM12BRB-5S(09)
+109-0580-8 09
+5
+RM12BRB-5PH(09)
+109-0820-0 09
+5
+RM12BRB-6S(81)
+109-0581-0 81
+6
+RM12BRB-6PH(09)
+109-0821-2 09
+6
+RM12BRB-7S(09)
+109-0615-0 09
+7
+RM12BRB-7PH(09)
+109-0822-5 09
+7
+Remarks : 1. See page 12 for details on recommended panel cut-out.
+   
+2. Please note that the RM12BRB differs in mounting dimensions from the RM12BR-F.
+Jack
+40
+A maximum of 0.6mm
+7
+16
+Ø 8
+1
+2
+Ø 14.1
+Cable clamp range: 
+5mm min. to 8mm max.
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+Part No.
+HRS No.
+No. of contacts
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+RM12BJB-2S(09)
+109-0638-6 09
+2
+RM12BJB-2PH(09)
+109-0829-4 09
+2
+RM12BJB-3S(09)
+109-0639-9 09
+3
+RM12BJB-3PH(09)
+109-0830-3 09
+3
+RM12BJB-4S(09)
+109-0640-8 09
+4
+RM12BJB-4PH(09)
+109-0831-6 09
+4
+RM12BJB-5S(09)
+109-0641-0 09
+5
+RM12BJB-5PH(09)
+109-0832-9 09
+5
+RM12BJB-6S(81)
+109-0642-3 81
+6
+RM12BJB-6PH(09)
+109-0833-1 09
+6
+RM12BJB-7S(09)
+109-0643-6 09
+7
+RM12BJB-7PH(09)
+109-0834-4 09
+7
+4
+
+RM Series●Multi-contact Compact Circular Connectors
+RM15Q connectors (quick detachable type)
+Plug
+36.5
+Ø 23
+４
+１
+３
+２
+Ø11.5
+Ø 15.2
+Cable clamp range: 
+6.5mm min. to 11.5mm max.
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+Part No.
+HRS No.
+No. of contacts
+RM15QPS-2SA(76)
+109-0839-8 76
+2
+RM15QPS-2PA(76)
+109-0896-1 76
+2
+RM15QPS-4SA(81)
+109-0840-7 81
+4
+RM15QPS-4PA(76)
+109-0897-4 76
+4
+RM15QPS-8S(76)
+109-0852-6 76
+8
+RM15QPS-8PH(76)
+109-0850-0 76
+8
+RM15QPS-10S(76)
+109-0853-9 76
+10
+RM15QPS-10PH(76)
+109-0851-3 76
+10
+RM15QPS-12S(76)
+109-0981-9 76
+12
+RM15QPS-12PH(76)
+109-0980-6 76
+12
+Receptacle (Jam nut to be fastened)
+A
+21 (HEX)
+7.6
+7
+6.5
+1.5
+２
+１
+４
+４
+１
+24.2
+Ø20
+Ø17.4
+３
+２
+３
+M17×0.75
+0.5
+3
+(Representative example.)
+Part No.
+HRS No.
+No. of contacts
+A
+Part No.
+HRS No.
+No. of contacts
+A
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+RM15QRD-2PA(76)
+109-0880-1 76
+2
+21.0
+RM15QRD-4PA(76)
+109-0881-4 76
+4
+RM15QRD-2SA(76)
+109-0841-0 76
+2
+21.7
+RM15QRD-4SA(81)
+109-0842-2 81
+4
+RM15QRD-8PH(76)
+109-0854-1 76
+8
+RM15QRD-8S(76)
+109-0864-5 76
+8
+20.6
+RM15QRD-10PH(76) 109-0855-4 76
+10
+21.6
+RM15QRD-10S(76)
+109-0779-8 76
+10
+RM15QRD-12PH(76) 109-0982-1 76
+12
+RM15QRD-12S(76)
+109-0983-4 76
+12
+Remarks : See page 12 for details on recommended panel cut-out.
+5
+
+RM Series●Multi-contact Compact Circular Connectors
+RM [ ] T connectors (threaded coupling type)
+Plug
+L
+ØA
+ØD
+ØC
+(Maximum cord diameter)
+B
+(Representative example.)
+Part No.
+HRS No.
+No. of contacts
+ØA
+B
+ØC
+ØD
+L
+RM15TP-2SA(76)
+109-0845-0 76
+2
+RM15TP-2PA(76)
+109-0898-7 76
+RM15TP-4SA(81)
+109-0846-3 81
+4
+RM15TP-4PA(76)
+109-0899-0 76
+15.2
+M19×1
+11.5
+21.5
+34
+RM15TP-8S(76)
+109-0053-2 76
+8
+RM15TP-8PH(76)
+109-0856-7 76
+RM15TP-10S(76)
+109-0055-8 76
+10
+RM15TP-10PH(76)
+109-0857-0 76
+RM21TP-15S(81)
+109-0321-0 81
+15
+21
+TM25×2
+15
+28
+37
+RM21TP-15P(76)
+109-0323-5 76
+RM21TP-20S(81)
+109-0322-2 81
+20
+RM21TP-20P(76)
+109-0324-8 76
+Remarks : TM25×2 represents 30° trapezoidal thread proﬁ le.
+Receptacle (Jam nut to be fastened)
+A
+1.5
+21（HEX）
+M19×1
+6.5
+7
+7.6
+24.2
+Ø20
+0.5
+3
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+M17×0.75
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+A
+RM15TRH-2PA(76)
+109-0886-8 76
+2
+21
+RM15TRH-2SA(76)
+109-0847-6 76
+21.7
+RM15TRH-4SA(81)
+109-0848-9 81
+4
+21
+RM15TRH-4PA(76)
+109-0887-0 76
+RM15TRH-8PH(76)
+109-0858-2 76
+8
+20.6
+RM15TRH-8S(76)
+109-0868-6 76
+21.6
+RM15TRH-10PH(76)
+109-0859-5 76
+10
+20.6
+RM15TRH-10S(76)
+109-0869-9 76
+21.6
+Remarks : See page 12 for details on recommended panel cut-out.
+6
+
+RM Series●Multi-contact Compact Circular Connectors
+Receptacle (Jam nut to be fastened)
+D
+21
+B
+6
+6.5
+2.5
+φA
+C
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+ØA
+B
+C
+D
+RM21TR-15S(81)
+109-0327-6 81
+15
+27
+TM25×2
+M22×0.75
+23.5
+RM21TR-15P(76)
+109-0325-0 76
+RM21TR-20S(81)
+109-0328-9 81
+20
+RM21TR-20P(76)
+109-0326-3 76
+Remarks :  1. TM25×2 represents 30° trapezoidal thread proﬁ le.
+   
+2. See page 12 for details on recommended panel cut-out.
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+7
+
+RM Series●Multi-contact Compact Circular Connectors
+RM15T (type D) connectors
+Plug (solder type)
+50
+20
+TM20×2
+８ １
+９
+７
+２
+６
+３
+Ø23
+Ø9.8
+Ø15
+１０
+４
+５
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+RM15TPD-10P(76)
+109-0601-6 76
+10
+RM15TPD-10S(76)
+109-0686-9 76
+RM15TPD-12P(76)
+109-0660-5 76
+12
+RM15TPD-12S(76)
+109-0661-8 76
+Jack (solder type)
+49
+20
+８ １
+９
+７
+２
+６
+３
+Ø9.8
+Ø21
+１０
+４
+５
+TM20×2
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+RM15TJD-10P(76)
+109-0706-4 76
+10
+RM15TJD-10S(76)
+109-0603-1 76
+RM15TJD-12S(76)
+109-0665-9 76
+12
+Receptacle (solder type)
+A
+TM20×2
+24.2
+9
+6
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+３
+７
+６
+２
+８
+１
+９
+１
+１０
+９
+１０
+８
+４
+５
+４
+５
+21（HEX）
+２
+７
+３
+６
+M17×0.75
+7.6
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+A
+RM15TRD-10P(76)
+109-0687-1 76
+10
+20.5
+RM15TRD-10S(76)
+109-0602-9 76
+21.3
+RM15TRD-12P(76)
+109-0662-0 76
+12
+20.5
+RM15TRD-12S(76)
+109-0663-3 76
+21.3
+Remarks : See page 12 for details on recommended panel cut-out.
+8
+
+RM Series●Multi-contact Compact Circular Connectors
+Plug (crimp type)
+B
+A
+TM20×2
+８
+１
+７
+９
+２
+６
+１０
+３
+ØC
+Ø15
+Ø23
+５
+４
+ (Representative example.)
+Part No.
+HRS No.
+No. of contacts
+A
+B
+ØC
+RM15TPD-10PC(71)
+109-0677-8 71
+10
+50
+20
+9.8
+RM15TPN-10PC(31)
+109-0712-7 31
+40
+15
+8
+Receptacle (crimp type)
+TM20×2
+19.5
+9
+6
+６
+７
+８
+９
+１０
+１
+４
+５
+21（HEX）
+２
+３
+M17×0.75
+(Representative example.)
+Part No.
+HRS No.
+No. of contacts
+RM15TRD-10SC(71)
+109-0676-5 71
+10
+Remarks : See page 12 for details on recommended panel cut-out.
+Receptacle (dip type)
+A
+TM20×2
+Mating guide
+6
+9
+19.5
+６
+７
+８
+９
+１０
+１
+５
+４
+21（HEX）
+２
+３
+B
+M17×0.75
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Dip post arrangement dimensions when 
+viewed from the mating end
+Mating guide position
+Dip post diameter
+Ø0.8
+８
+１
+4
+９
+２
+７
+Part No.
+HRS No.
+No. of contacts
+A
+B
+６
+３
+4
+１０
+５
+４
+RM15TRD-10SB(71)
+109-0710-1 71
+10
+32.3
+8.3
+1.5
+1.5
+Remarks : See page 12 for details on recommended panel cut-out.
+4
+4
+2
+2
+ (Representative example.)
+9
+
+RM Series●Multi-contact Compact Circular Connectors
+RM Series accessories
+Cap
+Plug cap
+100
+Ø6
+φ3.3
+Ｄ
+Ｃ
+Ｂ
+Part No.
+HRS No.
+ØA
+B
+C
+D
+RM15TP-C(71)
+109-0079-6 71
+21.5
+M19×1
+12
+16.5
+RM21TP-C(71)
+109-0353-6 71
+28
+TM25×2
+17.5
+22
+ØＡ
+Receptacle cap
+100
+Ø 6
+Ø 3.3
+Ｄ
+Ｃ
+Ｂ
+ØＡ
+Part No.
+HRS No.
+ØA
+B
+C
+D
+RM15TR-C(31)
+109-0080-5 31
+21.5
+M19×1
+9
+13.5
+RM21TR-C(31)
+109-0354-9 31
+28
+TM25×2
+8
+12.5
+Square flange
+Ｃ
+Ｄ
+ØＡ
+Ｄ
+Ｃ
+Ｂ
+Part No.
+HRS No.
+ØA
+B
+C
+D
+RM12BR-F(71)
+109-0154-0 71
+14.1
+6
+18
+26
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+RM15TR-F(71)
+109-0319-8 71
+17.1
+7.6
+20.6
+28
+Cord bushing
+31
+Ø8
+Ø6.4
+Ø10.7
+Part No.
+HRS No.
+Remarks
+RM12BPG-B(71)
+109-0776-0 71
+-----------
+10
+
+RM Series●Multi-contact Compact Circular Connectors
+Contact
+Male contact
+Type
+Part No.
+HRS No.
+B
+C
+Applicable wire size
+A-A
+Ａ
+Ｂ
+Ｃ
+1.4
+Ａ
+16.7
+Loose piece 
+contacts
+RM-PC-112
+109-0668-7
+1.6
+2.0
+20 to 24 AWG
+RM-PC-122
+109-0672-4
+1.45
+1.5
+24 to 28 AWG
+Reel 
+contacts
+RM-PC-212
+109-0670-9
+1.6
+2.0
+20 to 24 AWG
+RM-PC-222
+109-0674-0
+1.45
+1.5
+24 to 28 AWG
+Female contact
+A-A
+Type
+Part No.
+HRS No.
+B
+C
+Applicable wire size
+Ａ
+Ｂ
+Ｃ
+1.4
+Ａ
+17
+Loose piece 
+contacts
+RM-SC-112
+109-0669-0
+1.6
+2.0
+20 to 24 AWG
+RM-SC-122
+109-0673-7
+1.45
+1.5
+24 to 28 AWG
+Reel 
+contacts
+RM-SC-212
+109-0671-1
+1.6
+2.0
+20 to 24 AWG
+RM-SC-222
+109-0675-2
+1.45
+1.5
+24 to 28 AWG
+Note : Loose piece contacts are available in 100 pcs/pack.  Reel contacts are available in 8,000 pcs/reel.
+Applicable tools
+Type
+Items
+Part No.
+HRS No.
+Applicable contact
+Applicable wire size
+HT802/RM-11
+150-0401-6
+RM-PC-112
+20 to 24 AWG
+RM-SC-112
+Manual
+Manual crimping 
+tool
+HT802/RM-12
+150-0402-9
+RM-PC-122
+24 to 28 AWG
+RM-SC-122
+Automatic crimping 
+press
+CM-105C
+901-0001-0
+----------------------
+----------------------
+Automatic
+Applicator
+AP-105-RM-1
+901-2017-4
+RM-PC-212
+20 to 24 AWG
+RM-SC-212
+AP-105-RM-2
+901-2018-7
+RM-PC-222
+24 to 28 AWG
+RM-SC-222
+Extraction tool
+RM-TP
+150-0008-7
+----------------------
+----------------------
+Manual crimping tool
+Contact extraction tool
+ Automatic crimping 
+press (Type CM-105C)
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+How to use the RM15Q connectors (quick detachable type)
+1. Insertion
+2.Extraction
+For smooth mating, while holding the plug tube, match the 
+guide of the receptacle with the key-way on the plug and 
+push straight it in as shown in the above ﬁ gure.
+To unmate, hold the locking sleeve and twist it approximately 
+30 degrees to the left, then pull it straight off as shown in the 
+above ﬁ gure.
+11
+
+RM Series●Multi-contact Compact Circular Connectors
+Receptacle-recommended panel cut-out
+ØＡ
+1.6
+For jam nut type
+For square flange type
+Recommended panel cut-out for shell 
+sizes 12 and 15
+Recommended panel cut-out for shell 
+sizes 21
+Ｄ
+Ｃ
+Ｂ
+4×ØＥ
+Ｄ
+ØＡ
+ØＡ
+Remarks : Use a 0.5 ~ 2 mm thickness panel for all shell sizes.
+Mounting method
+Shell size
+Sign
+Locking mechanism
+Nut tightening
+Square ﬂ ange
+12
+15
+21
+12
+BRD
+QRD
+TRH · TRD
+TR
+BRB
+ØA
+14.1
+17.1
+22.1
+14.5
+B
+6.1
+7.6
+----------------------
+----------------------
+C
+----------------------
+----------------------
+----------------------
+12.65
+----------------------
+D
+----------------------
+----------------------
+----------------------
+----------------------
+1.6
+ØE
+----------------------
+----------------------
+----------------------
+----------------------
+2.9
+Remarks : The dimensional tolerance to be +0.1 / 0.
+Contact Position Arrangement and Specifications
+Shell size : 12
+Shell size : 15
+6
+1
+5
+1
+1
+4
+4
+1
+1
+3
+2
+1
+1
+2
+7
+5
+2
+Contact 
+arrangement
+4
+2
+3
+2
+2
+3
+3
+4
+2
+3
+No. of contacts
+2
+3
+4
+5
+7
+2
+4
+Withstanding 
+voltage
+AC 1,800V for 
+one minute
+AC 1,500V for one minute
+AC 1,000V for one minute
+AC 1,800V for 
+one minute
+AC 1,500V for 
+one minute
+Rated current
+5A
+10A
+Insulation 
+resistance
+1,000Mø min.
+1,000Mø min.
+Contact 
+resistance
+4mø max.
+2mø max.
+Inner diameter 
+of solder pot
+Ø1.1mm
+Ø1.7mm
+Shell size : 15
+Shell size : 21
+9
+1
+1
+1
+1
+10
+10
+1
+10
+10
+8
+2
+2
+9
+9
+11
+11
+17
+18
+17
+18
+7
+2
+15
+15
+19
+19
+11
+11
+12
+2
+3
+2
+3
+3
+3
+16
+16
+12
+12
+8
+8
+6
+10
+3
+7
+8
+9
+7
+8
+9
+Contact 
+arrangement
+12
+12
+11
+4
+4
+20 13
+20 13
+15
+15
+14
+13
+14
+13
+5
+4
+4
+5
+14
+6
+4
+5
+14
+6
+7
+6
+5
+7
+6
+5
+No. of contacts
+8
+10
+12
+15
+20
+Withstanding 
+voltage
+AC 1,500V for 
+one minute
+AC 1,000V for one minute
+AC 1,500V for 
+one minute
+AC 1,000V for 
+one minute
+Rated current
+5A
+5A
+Insulation 
+resistance
+1,000Mø min.
+1,000Mø min.
+Contact 
+resistance
+4mø max.
+4mø max.
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Inner diameter 
+of solder pot
+Ø1.1mm
+Ø1.1mm
+Remarks
+1. The above figures show contact arrangements viewed from the mating end of the connectors with  female contacts.
+2. The "▼" marks shown in the above figures represent the position of the receptacle mating guide.
+3. Withstanding voltages are shown as test voltages.
+12
+
+RM Series●Multi-contact Compact Circular Connectors
+Precautions
+1. Be sure the power is off before mating/unmating a connector.
+2. Be sure to use a connector with female contacts for the power side of the circuit.
+3. Be sure to engage the lock mechanism on the connectors.
+4. Regarding plugs and jacks : the forces from cable clamping, cable rotation, and other forces may vary with the cable 
+construction. Please make sure that your cable is suitable for use with these connectors before usage and production.
+5. This product series uses silver plated contacts. Silver reacts easily to exposure to sulfur gas so the below conditions may 
+cause tarnishing.
+　・Dusty environments
+　・ Area with a high concentration area of gases such as sulfur dioxide gas, hydrogen sulfide gas, nitrogen dioxide gas 
+and so on.
+      Example; In close proximity to factory exhaust, automotive emissions, etc. 
+　・Close to heaters, or in other areas marked by extreme temperature differences or high humidity.
+　・Close to rubber products includes rubber adhesives.
+The Electrical connection is not affected by tarnishing on a silver surface due to the wiping effect of the contact pins.
+Storage
+Packing state; Packed in original packing or equivalent container
+Temperature  -10 to +60°C
+Humidity         85% Max
+ (It is recommended that the product be stored in an area of normal level of temperature and humidity, and free of any 
+temperature fluctuation)
+Please use this products within 6 months of delivery.
+(After 6 month, please check the solderbility before use)
+“Storage” means long-term storage of the unused products in sealed packaging, prior to assembly  to PCB.
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+2-6-3,Nakagawa Chuoh,Tsuzuki-Ku,Yokohama-Shi 224-8540,JAPAN
+https://www.hirose.com/
+The characteristics and the specifications contained herein are for reference purpose.  Please refer to the latest customer drawings prior to use.
+The contents of this catalog are current as of date of 07/2021. Contents are subject to change without notice for the purpose of improvements.
+13
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Hirose Electric:  
+ 
+  RM21TP-15S(71)  RM21TP-20S(71)  RM21TR-15S(71)  RM21TR-20S(71)  RM12BRB-6S  RM12BJB-6S(07) 
+RM12BPE-6S(71)  RM12BRD-6S(71)  RM15TP-4SA(71)  RM15TRH-4SA(71)  RM12BRB-3SA  RM15QJ-4S(71) 
+RM15QPN-8PB(71)  RM15QPS-4SA(71)  RM15QPS-4SA(72)  RM15QR-8SA(71)  RM15QRD-4PA(72)  RM15QRD-
+4SA(71)  RM15TP-C3(71)  RM15TPRG-10P(71)  RM15TR-C4(71)  RM15TR-C7(71)  RM15TRD-10SD(71)  RM12BRB-
+3S(02)  RM15TR-C7(72)  RM15TRH-10S(76)  RM15TRH-8PH(76)  RM12BJB-2PH(09)  RM12BJB-5S(09)  RM12BPE-
+4PH(76)  RM12BPE-5S(76)  RM12BRB-5PH(09)  RM12BRD-2PH(76)  RM12BRD-4PH(76)  RM12BRD-7S(76) 
+RM15QRD-10S(76)  RM15TPD-12S(76)  RM12BRD-4S(76)  RM15TRD-12S(76)  RM15TRH-2SA(76)  RM15WTRZA-
+12P(76)  RM12BRD-3S(76)  RM15WTLP-12P(34)  RM15WTLP-12S(33)  RM515EPA-10PC(71)  RM515ER-10SC(71) 
+RM515ERB-10SD(71)  RM12BPE-4S (76)

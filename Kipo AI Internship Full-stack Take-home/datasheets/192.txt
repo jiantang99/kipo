@@ -1,0 +1,362 @@
+REVISIONS
+REV
+DESCRIPTION
+DATE
+ECO
+APPR
+BY
+RELEASE NEW PRODUCT
+07/JAN/20
+ROOKIE
+A1
+--
+TOMMY
+LOUIE
+TOMMY
+A2
+--
+04/APR/20
+REVISE INSUL O.D.
+55.4±0.5
+5
+1 3/8-18 UNEF-2A 
+THREAD
+17.6
+22.0
+I
+ol
+n
+YY
+e
+h
+M
+p
+47.6
+33.8
+M
+m
+D
+A
+D
+0
+8
+S
+E
+AH
+P
+9
+D1
+3
+7
+-
+-
+9
+9
+1
+47.6
+ALIGNMENT ARROW
+( 3 ) PLACES
+M35X1.0 THREAD
+NOTES: UNLESS OTHERWISE SPECIFIED
+1. MATERIAL: 
+ HOUSING: THERMOPLASTIC; COLOR: GREEN
+ SEAL: SILICONE RUBBER 
+2. MODIFICATIONS: J1939 TYPE 2 KEY ARRANGEMENT
+3.2
+Ø35.2±0.12
+OF:
+SH:
+REV:
+DWG NO:
+TITLE:
+AHD17-9-1939PES80
+1
+1
+A2
+AHD17-9-1939PES80 
+RECEPTACLE,J1939 TYPE 2,9 POS,JAM NUT, EXTENDED SHELL,AHD SERIES
+ITEM
+DESCRIPTION
+PART NUMBER
+3. SPECIFICATIONS:
+ 3.1 CURRENT RATING: 13 AMPS
+ 3.2 OPERATING TEMPERATURE: -55°C TO +125°C.
+ 3.3 DIELECTRIC WITHSTANDING VOLTAGE: LESS THAN 2 
+ MILLIAMPS CURRENT LEAKAGE @ 1500 VOLTS AC.
+ 3.4 INSULATION RESISTANCE: 1000 MEGOHM MIN @ 25°C.
+ 3.5 MOISTURE RESISTANCE: IP67 ( MATED CONDITION ).
+ 3.6 MATING CYCLE DURABILITY: 100 CYCLES
+ 3.7 RoHS COMPLIANT
+QUANTITY
+MATERIALS LIST
+UNLESS OTHERWISE SPECIFIED
+SIGNATURES    
+DATE 
+4. MATING PART: AHD16-9-1939S80/S8R.
+DRAWN:
+LOUIE
+04/APR/20
+34.0+0.2
+0
+CHECKED:
+1) All dimensions are in metric(mm).
+2) Tolerances are as follows:
+1 PL DEC ±0.30
+2 PL DEC ±0.15
+Fractions ±1/64
+Angles ±1°
+ORION
+07/APR/20
+5. ALL DIMENSIONS ARE FOR REFERENCE USE ONLY.
+Sine Systems - www.amphenol-sine.com
+Amphenol
+3 PL DEC ±0.08
+ENGINEER:
+X
+3) Note reference =
+44724 Morley Drive
+Clinton Township, MI 48036
+APPROVAL:
+6. CONTACT SIZE AND WIRE RANGE:
+TOMMY
+09/APR/20
+MATERIAL SPECIFICATIONS:
+CUSTOMER:
+RECEPTACLE,J1939 TYPE 2,9 POS
+JAM NUT, EXTENDED SHELL,AHD SERIES
+CONTACT
+SIZE
+MIN. INSUL
+O.D.
+TYPICAL 
+WIRE RANGE
+MAX. INSUL
+O.D.
+MOUNTING HOLE DETAIL
+TYPE
+SIZE  
+PROCESS SPECIFICATIONS:
+16
+14 - 20 AWG
+USE P/N AHD17-PN01-GRN JAM NUT FOR MOUNTING
+2.24 mm
+(.088 in)
+3.68 mm
+(.145 in)
+REVISION
+DWG NO:
+C-
+B
+AHD17-9-1939PES80 A2
+NEXT ASS'Y:
+SCALE:
+THIS DRAWING IS SUPPLIED FOR 
+INFORMATION ONLY. DESIGN FEATURES, 
+SPECIFICATIONS AND PERFORMANCE DATA 
+SHOWN HEREON ARE THE PROPERTY OF 
+THE AMPHENOL CORPORATION. NO RIGHTS 
+OF REPRODUCTION ARE IMPLIED. ALL 
+DIMENSIONS ARE SUBJECT TO NORMAL 
+MANUFACTURING VARIATIONS.
+SHEET
+OF
+NONE
+1
+1
+
+AT Series™ - Contact Size 16 Options
+Stamped & Formed Contacts, Sockets & Pins
+Machined Contacts, Sockets & Pins
+Part Number
+Description
+Size
+AWG
+Type
+Part Number
+Description
+Size
+AWG
+Type
+AT60-14-0144
+Male Contact - Pin, Gold-plated    
+16
+14-16
+Stamped & Formed
+AT60-215-1631
+Male Contact - Pin, Gold-plated    
+16
+14
+Machined
+AT62-14-0144
+Female Contact - Socket, Gold-plated    
+16
+14-16
+Stamped & Formed
+AT62-209-1631
+Female Contact - Socket, Gold-plated    
+16
+14
+Machined
+AT60-14-0122
+Male Contact - Pin, Nickel-plated    
+16
+14-16
+Stamped & Formed
+AT60-215-16141
+Male Contact - Pin, Nickel-plated    
+16
+14
+Machined
+AT62-14-0122
+Female Contact - Socket, Nickel-plated    
+16
+14-16
+Stamped & Formed
+AT62-209-16141
+Female Contact - Socket, Nickel-plated    
+16
+14
+Machined
+AT60-16-0144
+Male Contact - Pin, Gold-plated    
+16
+16-18
+Stamped & Formed
+AT60-202-1631
+Male Contact - Pin, Gold-plated
+16
+16-20
+Machined
+AT62-16-0144
+Female Contact - Socket, Gold-plated
+16
+16-18
+Stamped & Formed
+AT62-201-1631
+Female Contact - Socket, Gold-plated    
+16
+16-20
+Machined
+AT60-16-0122
+Male Contact - Pin, Nickel-plated    
+16
+16-18
+Stamped & Formed
+AT60-202-16141
+Male Contact - Pin, Nickel-plated    
+16
+16-20
+Machined
+AT62-16-0122
+Female Contact - Socket, Nickel-plated    
+16
+16-18
+Stamped & Formed
+AT62-201-16141
+Female Contact - Socket, Nickel-plated    
+16
+16-20
+Machined
+AT60-16-0644
+Male Contact - Pin, Gold-plated    
+16
+18-20
+Stamped & Formed
+AT60-202-1631-22
+Male Contact - Pin, Gold-plated
+16
+22-24
+Machined
+AT62-16-0644
+Female Contact - Socket, Gold-plated    
+16
+18-20
+Stamped & Formed
+AT62-201-1631-22
+Female Contact - Socket, Gold-plated
+16
+22-24
+Machined
+AT60-16-0622
+Male Contact - Pin, Nickel-plated    
+16
+18-20
+Stamped & Formed
+AT60-202-16141-22
+Male Contact - Pin, Nickel-plated    
+16
+22-24
+Machined
+AT62-16-0622
+Female Contact - Socket, Nickel-plated    
+16
+18-20
+Stamped & Formed
+AT62-201-16141-22
+Female Contact - Socket, Nickel-plated    
+16
+22-24
+Machined
+AT60-16-0844
+Male Contact - Pin, Gold-plated
+16
+20-22
+Stamped & Formed
+AT62-16-0844
+Female Contact - Socket, Gold-plated    
+16
+20-22
+Stamped & Formed
+Tooling - Machined Contacts
+AT60-16-0822
+Male Contact - Pin, Nickel-plated    
+16
+20-22
+Stamped & Formed
+Part
+Part Number
+Description
+AT62-16-0822
+Female Contact - Socket, Nickel-plated    
+16
+20-22
+Stamped & Formed
+CA-5D12
+Universal Hand Crimp Tool, Size 12/16/20
+(Machined contacts only)
+Tooling - Stamped & Formed Contacts
+Part
+Part Number
+Description
+MFX-3950
+Crimp Die - Size 16, 18-20AWG (S&F contacts only)
+CA-5E12
+Pneumatic Crimp Tool, Size 12/16/20
+(Machined contacts only)
+MFX-3953
+Crimp Die - Size 16, 16-18AWG (S&F contacts only)
+MFX-3975
+Crimp Die - Size 16, 14-16AWG (S&F contacts only)
+Contact Removal Tools
+MFX-3990
+Crimp Die - Size 16, 20-22AWG (S&F contacts only)
+Part
+Part Number
+Description
+ATT-16-00
+Hand Crimp Tool - Size 16, 14-16AWG (S&F contacts only)
+ATRT-100
+Used for removal of contacts for A Series™ products
+ATT-16-01
+Hand Crimp Tool - Size 16, 18-20AWG (S&F contacts only)
+ATT-1612-03
+Hand Crimp Tool - Size 16, 20-22AWG (S&F contacts only)
+AT11-310-1605
+Contact Removal Tool, Plastic, Size 16
+Amphenol Sine Systems
+A114017
+Sealing Plug, Size 16, White
+44724 Morley Drive
+Clinton Township, MI 48036 USA
+www.amphenol-sine.com
+09/2021

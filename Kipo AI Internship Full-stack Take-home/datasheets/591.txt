@@ -1,0 +1,129 @@
+FFA.0S.250.CLAK66
+www.lemo.com
+SUMMARY
+# Wires
+Coax
+1
+Image is for illustrative purpose only
+Series
+0S
+Download
+Male solder Coaxial
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+0.00 - 0.00
+Cable Ø
+5.90 - 6.50 mm
+Status
+active
+Matching parts
+ERA.0S.250.CLL
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+FFA*: Straight plug with oversize cable collet
+Keying
+Circular, male
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell and collet nut, nickel plated [SAE AMS QQ N 290] 
+brass latch sleeve and mid pieces
+Performance
+Configuration
+0S.250 : 1 Coax (50 Ohm)
+Insulator
+L: PEEK (UL 94 / V-0/1.5)
+Rated Current
+6 Amps
+Specifications
+Contact Type: Coaxial 50 Ohm (Solder) 
+Contact Dia.: 0.9 mm (0.035in) 
+Bucket Dia.: 1 mm (0.039in) 
+Vtest: 3000 V (AC), 4200 V (DC) 
+Impedance: 50 Ohm 
+VSWR: 1.02 + 0.25 * f/GHz 
+Cable type: RG 178 B/U, RG 196 A/U, RG 188 A/U, RG 316 B/U, RG 174 A/U, HF-2114, RG 122 /U 
+Others
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/3
+
+Endurance (Shell): 5000 mating cycles 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+Salt Spray Corrosion: >144 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+B
+L
+M
+S1
+S2
+mm.
+9
+10
+45.5
+35.5
+9
+8.5
+in.
+0,35
+0,39
+1,79
+1,40
+0,35
+0,33
+RECOMMENDED BY LEMO
+Tools
+Spanner wrench: 
+DCD.0S.005.PA065
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/3
+
+Cables
+159580
+PVC
+Black
+62000
+PVC
+Black
+CCX.50.RG0.58AU61J
+PVC
+Yellow
+CCX.75.RG0.59BU62N
+PVC
+Black
+CCX.93.RG0.62AU62N
+PVC
+Black
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  FFA.0S.250.CLAK66

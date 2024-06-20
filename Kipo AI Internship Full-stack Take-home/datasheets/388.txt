@@ -1,0 +1,1122 @@
+Amphenol LTW 
+Innovation in Waterproof Solution
+CATALOGUE
+http://www.amphenolltw.com
+
+NMEA 2000 Connector 
+9
+IP 67 . 68
+Unmated or Mated
+NMEA 2000 Connector
+Range Overview
+ALTW
+ALTW
+ALTW
+ALTW
+ALTW
+ALTW
+Terminator
+T-Cable
+○ P14-8 (Micro)
+Field Installable
+Drop Line
+T-Adaptor
+○ P14-7 (Micro)
+○ P14-6 (Micro)
+○ P14-16(Mini)
+○ P14-8 (Micro)
+○ P14-9 (Micro)
+○ P14-15 (Mini)
+○ P14-15 (Mini)
+○ P14-14  (Mini)
+   
+○ P14-16  (Mini)
+   
+ALTW
+To Power Source
+ALTW
+Waterproof Cap
+ALTW
+Multi-port 
+(Tee)
+○ P14-13 (Micro)
+○ P14-18 (Mini)
+○ P14-11 (Micro)
+   
+   
+About NMEA 2000
+vessels. It is multi-master and self-configuring, and 
+there is no central network controller. Equipment 
+designed to this standard will have the ability to 
+Amphenol LTW Technology expands its coverage 
+targeting the marine industry that features the 
+NMEA 2000 standard.
+The NMEA 2000 standard contains the require-
+ments of a serial data communications network to 
+inter-connect marine electronic equipment on 
+share data, including commands and status with 
+other compatible equipment over a status with 
+other compatible equipment over a single channel.
+14-1  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector  I Range Overview
+ALTW
+ALTW
+ALTW
+ALTW
+ALTW
+Elbow
+Bulkhead
+Double-ended Cordset
+○ P14-10 (Micro)
+○ P14-7 (Micro)
+○ P14-5 (Micro)
+○ P14-17 (Mini)
+   
+○ P14-14 (Mini)
+   
+○ P14-13 (Mini)
+   
+ALTW
+Terminator
+(In-Line)
+○ P14-9 (Micro)
+ > Items (Micro to Mini)      
+ALTW
+Multi-port 
+(Box)
+○ P14-12 (Micro)
+   
+ALTW
+ALTW
+T-Adaptor
+○ P14-18
+I-Adaptor
+○ P14-19
+> Items for devices          
+> Items for power source
+ALTW
+ALTW
+Bulkhead
+T-cable
+<Micro>
+<Mini>
+○ P14-5 (Micro)
+Bulkhead (Right Angle)
+○ P14-6 (Micro)
+○ P14-8
+Power Tap Tee
+○ P14-17
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-2
+
+NMEA 2000 Connector I Specification
+9
+IP 67 . 68
+Unmated or Mated
+Specification
+Identifications
+Micro(AWG: 22 AWG, 24 AWG )
+Mini(AWG: 18 AWG, 15 AWG )
+Description
+Micro:
+ Bulkhead (With Wire / Double-ended / Right Angle)
+ Cable (Drop Line / Double-ended Cordset / Field
+Installable / T-Cable)
+ Network Terminator (Single-ended / In-line)
+ Adaptor (T-Adaptor / Elbow)
+ Multi-port
+ Waterproof Cap
+Mini:
+ Bulkhead (Double-ended)
+ Cable (Drop Line / Double-ended Cordset / Field
+Installable / T-Cable)
+ Network Terminator (Single-ended)
+ Adaptor (T-Adaptor / Elbow)
+ Power Tap Tee
+ Waterproof Cap
+Mini to Micro:
+ Adaptor (T-Adaptor / I-Adaptor)
+Current Rating / Data
+4A, 8A
+Material
+Contacts: Copper Alloy, Gold Plated
+Contacts Holder: PA
+Waterproof Rating
+IP67~68
+Temperature Range
+Receptacle: -40°C~85°C
+Overmolded with Cable: -20°C~80°C
+Field Installable: Nylon+GF: -40°C~105°C
+                        PU: -20°C~85°C
+* Higer working temperature upon request.
+14-3  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector I Specification
+Contact Configuration
+Micro-C   Mini-C
+4A 
+  8A 
+ 4A         8A
+Number of Contacts:
+FF or MM
+FF or MM
+Ex.2 contacts (02)
+  4Pin
+Connector (Housing) Gender:
+Male(M) or Female(F)
+  5Pin
+Contact Gender:
+Male(M) or Female(F)
+More to Choose:
+● Solder (S)
+   - Solder Cup        
+● Screw In (B)          
+Cabling Information
+Mini
+NMEA Approved
+(C): (18#*1P+AL) + (15#*1P+AL) + Drain + Braid
+Micro 
+NMEA Approved
+(A): (24#*1P+AL) + (22#*1P+AL) + Drain + Mylar + Braid
+Conforming
+(C): (18#*1P+AL) + (16#*1P+AL) + Drain + AL+Braid
+Conforming
+(A):  (24#*1P+AL) + (22#*1P+AL) + Drain + AL + Braid
+(B): (22#*1P+AL) + (18#*1P+AL) + Drain + AL + Braid
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-4
+
+NMEA 2000 Connector I Contact Configuration
+9
+IP 67 . 68
+Unmated or Mated
+Micro
+Bulkhead (Double-ended)
+               
+Find Our Standard Products 
+Micro > Bulkhead (Double-ended)
+● 5 Contacts     
+41.0
+● Screw Thread
+23.0
+●  Unmated IP68
+1
+2
+OD: 12
+18 (Hexagon)
+For Panel thickness Max 8.5mm
+Connector 
+Connector 1
+(Female Connector / Female Contacts)
+Type
+Connector 2
+(Male Connector / Male Contacts)
+ None- Certified NMEA 2000
+(4A, 60V)
+MC-000505-0FM-BS001
+ Certified NMEA 2000
+(4A, 60V)
+UMC-000505-0FM-BS001
+ Micro > Bulkhead
+* Front Fastened
+* Rear Fastened
+● 5 Contacts  
+Male: 25.9
+Female:22.9
+● Screw Thread
+Male: 20.5
+Female:20.0
+Male: 24.5
+Female:28.0
+Male: 22.0
+Female:22.6
+● For device side
+●  Unmated IP68
+OD: 15.4
+OD: 15.4
+13.6
+13.6
+18 (Hexagon)
+18 (Hexagon)
+Connector
+(Male Connector / Male Contacts)
+Connector 
+(Female Connector / Female Contacts)
+Connector 
+Type
+None- Certified NMEA 2000
+(4A, 60V)
+MC-05PMMS-SF8001
+MC-05PMMS-SH8001
+MC-05PFFS-SF8001
+MC-05PFFS-SH8001
+14-5  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector I Find Our Standard Products
+Micro
+Bulkhead (Right Angle) I Drop Line
+               
+Micro > Bulkhead (Right Angle)
+* IP 68 (Unmated)
+* IP 67 (Mated)
+● 5 Contacts  
+Male (24.8)
+Female (25.5)
+● Screw Thread
+Male (29.5)
+Female (29.0)
+Male (20.5)
+Female (20.0)
+● For device side
+Male (16.2)
+Female (16.9)
+Maximum Panel 
+Thickness: 4.5mm
+Maximum Panel 
+Thickness: 3.0mm
+● Unmated IP68 / 
+Mated IP67
+OD: 12.2
+OD: 15.4
+10.5
+13.6
+15.0 (Hexagon)
+18.0 (Hexagon)
+14.0 (Hexagon)
+Connector 
+Type
+Connector 
+(Male Connector / Male Contacts)
+Connector 
+(Female Connector / Female Contacts)
+ None- Certified NMEA 2000
+(4A, 60V)
+12-05PMMR-SF7001
+12-05PMMR-SF8001
+12-05PFFR-SF7001
+12-05PFFR-SF8001
+None- Certified NMEA 2000
+(Plastic / 4A, 60V)
+12P-05PMMR-SF8001
+12P-05PFFR-SF8001
+Micro > Cable > Drop Line
+● 5 Contacts  
+● Screw Thread
+Male (44.4)
+Female (43.3)
+● For power tap 
+  connection
+●  Mated IP68
+10
+ALTW
+Male (14.4)
+Female (14.5)
+       Cabling Information
+NMEA Approved 
+(A): (24#*1P+AL) + (22#*1P+AL) + Drain + Mylar + Braid
+Conforming
+(A): (24#*1P+AL) + (22#*1P+AL) + Drain + AL + Braid
+(B): (22#*1P+AL) + (18#*1P+AL) + Drain + AL + Braid
+ **Available in 1, 2, 5, 10 M.
+Connector 
+Type
+Connector 
+(Male Connector / Male Contacts)
+Connector 
+(Female Connector / Female Contacts)
+10
+10
+ None- Certified NMEA 2000
+(4A, 60V)
+MC-05BMMM-SL8      **
+MC-05BFFM-SL8      **
+10
+10
+None- Certified NMEA 2000
+(Plastic / 4A, 60V)
+MCP-05BMMM-SL8      **
+MCP-05BFFM-SL8      **
+10
+ Certified NMEA 2000
+(4A, 60V)
+UMC-05BMMM-SL8      **
+-
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-6
+
+NMEA 2000 Connector I Find Our Standard Products
+Micro
+Double-ended Cordset I Field Installable 
+9
+IP 67 . 68
+Unmated or Mated
+Micro > Cable > Double-ended Cordset
+● 5 Contacts  
+● Screw Thread
+●  Mated IP68
+1
+2
+ALTW
+ALTW
+*Available in 1, 2, 5, 10 M
+*Cable 22+24+B PVC 
+Connector 
+Connector 1
+(Male Connector 
+Male Contacts)
+Connector 1
+(Female Connector 
+Female Contacts)
+Type
+Connector 1
+(Male Connector
+Male Contacts)
+Connector 2
+(Male Connector 
+Male Contacts)
+Connector 2
+(Female Connector 
+Female Contacts)
+Connector 2
+(Female Connector 
+Female Contacts)
+ None- Certified NMEA 2000
+(4A, 60V)
+MC-000505-0MM-CS*
+MC-000505-0FF-CS*
+MC-000505-0MF-CS*
+None- Certified NMEA 2000
+(Plastic / (4A, 60V)
+PC-000505-0MM-CS*
+PC-000505-0FF-CS*
+PC-000505-0MF-CS*
+ Certified NMEA 2000
+(4A, 60V)
+-
+-
+UMC-000505-0MF-CSA*
+Micro > Cable > Field Installable
+61.3
+● 5 Contacts  
+● Screw Thread
+70.0
+● Screw-in Contacts
+Male (21.3)
+Female (20.8)
+ALTW
+●  Mated IP68
+ALTW
+52.3
+20.8
+ALTW
+38.9
+* NMEA approved
+* Conforming to NMEA
+Connector 
+Type
+Connector 
+(Male Connector / Male Contacts)
+Connector 
+(Female Connector / Female Contacts)
+12-05BFFB-SL7001
+12-05BFFB-SR7001
+12-05BMMB-SR7001
+None- Certified NMEA 2000
+(4A, 60V)
+12-05BMMB-SL7001
+(Ø4.5 ~Ø6.0mm; 18AWG Max.)
+12P-05BFFB-SL7001
+12P-05BMMB-SR7001
+12P-05BFFB-SR7001
+(Ø4.5 ~Ø6.0mm; 18AWG Max.)
+None- Certified NMEA 2000
+(Plastic / 4A, 60V)
+12P-05BMMB-SL7001
+(Ø4.5 ~Ø6.0mm; 18AWG Max.)
+(Ø4.5 ~Ø6.0mm; 18AWG Max.)
+ Certified NMEA 2000
+(4A, 60V)
+UMC-05BMMB-SL7001
+(Ø4.5 ~Ø7.5mm; 18AWG Max.)
+UMC-05BFFB-SL7001
+(Ø4.5 ~Ø7.5mm; 18AWG Max.)
+14-7  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector I Find Our Standard Products
+                Micro
+ T-Cable I Terminator
+Micro > Cable > T-Cable
+● 5 Contacts  
+55.8
+54.8
+56.8
+● Screw Thread
+ALTW
+● For Power Tap 
+  Connection
+ALTW
+1
+2
+1
+2
+1
+2
+ALTW
+●  Mated IP68
+*Cable 22+18+B PVC 
+*Available in 1, 2, 5, 10 M.
+Connector 
+Connector 1
+(Male Connector 
+ Male Contacts)
+Connector 1
+(Female Connector 
+Female Contacts)
+Connector 1
+(Female Connector 
+Female Contacts)
+Type
+Connector 2
+(Male Connector 
+Male Contacts)
+Connector 2
+(Female Connector 
+Female Contacts)
+Connector 2
+(Male Connector 
+Male Contacts)
+ None- Certified NMEA 2000
+(4A, 60V)
+MC-050500-MM0-TSB*
+MC-050500-FF0-TSB*
+MC-050500-FM0-TSB*
+None- Certified NMEA 2000 
+(Plastic) (4A, 60V)
+PC-050500-MM0-TSB*
+PC-050500-FF0-TSB*
+PC-050500-FM0-TSB*
+ Certified NMEA 2000
+(4A, 60V)
+-
+-
+UMC-050500-FM0-TSA*
+Micro > Network terminator > Terminator
+● 5 Contacts  
+43.3
+● Screw Thread
+44.4
+● With 120Ω Resistor
+●  Mated IP68
+14.5
+ALTW
+14.4
+ALTW
+Connector 
+Type
+Connector 
+(Male Connector / Male Contacts)
+Connector 
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+(4A, 60V)
+MC-05BMMT-SL8001
+MC-05BFFT-SL8001
+None- Certified NMEA 2000 
+(Plastic / 4A, 60V)
+MCP-05BMMT-SL8001
+MCP-05BFFT-SL8001
+ Certified NMEA 2000
+(4A, 60V)
+UMC-05BMMT-SL8001
+UMC-05BFFT-SL8001
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-8
+
+NMEA 2000 Connector I Find Our Standard Products
+Micro
+Terminator (In-Line) I T-Adaptor 
+9
+IP 67 . 68
+Unmated or Mated
+Micro > Network Terminator > Terminator (In-Line)
+● 5 Contacts  
+● Screw Thread
+50.0
+49.2
+● With 120Ω Resistor
+●  Mated IP68
+ALTW
+ALTW
+1
+2
+1
+2
+Connector 1
+(Male Connector / Male Contacts)
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Type
+Connector 2
+(Female Connector / Female Contacts)
+Connector 2
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+(4A, 60V)
+MC-000505-0MF-IS001
+* Please contact our sales team 
+for more information
+Micro > Adaptor > T-Adaptor
+● 5 Contacts  
+55.9
+● Screw Thread
+●  Mated IP68
+1
+2
+ALTW
+43.8
+3
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Type
+Connector 2
+(Male Connector / Male Contacts)
+Connector 3
+(Female Connector / Female Contacts)
+ None- Certified NMEA 2000 
+(4A, 60V)
+UMC-050505-FMF-TS001
+14-9  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector I Find Our Standard Products
+Micro
+  Elbow 
+Micro > Adaptor > Elbow
+● 5 Contacts  
+38.6
+● Screw Thread
+●  Mated IP68
+2
+ALTW
+44.3
+1
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Type
+Connector 2
+(Male Connector / Male Contacts)
+None- Certified NMEA 2000 
+(4A, 60V)
+MC-000505-0FM-ES001
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-10
+
+NMEA 2000 Connector I Find Our Standard Products
+Micro
+T-Adaptor 
+9
+IP 67 . 68
+Unmated or Mated
+Micro > Adaptor > T-Adaptor
+● 5 Contacts  
+● Screw Thread
+138.0
+●  Mated IP68
+ALTW
+1
+6
+47.4
+2
+3
+4
+5
+Connector 1
+(Female Connector / Female Contacts)
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Connector 2
+(Female Connector / Female Contacts)
+Connector 2
+(Female Connector / Female Contacts)
+Type
+(Female Connector / Female Contacts)
+Connector 3
+Connector 3
+(Female Connector / Female Contacts)
+Connector 4
+(Male Connector / Male Contacts)
+Connector 4
+(Female Connector / Female Contacts)
+-
+Connector 5
+(Female Connector / Female Contacts)
+-
+Connector 6
+(Male Connector / Male Contacts)
+S-555500-FFFM00-S001
+S-555555-FFFFFM-S001
+ None- Certified NMEA 2000 
+(4A, 60V)
+E-555500-FFFM00-S001
+E-555555-FFFFFM-S001
+ Certified NMEA 2000
+(4A, 60V)
+14-11  Amphenol LTW Technology Co., Ltd.
+
+NMEA 2000 Connector I Find Our Standard Products
+       Micro
+              Box
+Micro > Multi-port > Box
+Available in 1, 2, 5, 10 M.
+100.3
+● 5 Contacts  
+4
+2
+● Screw Thread
+●  Mated IP68
+56.3
+ALTW
+3
+1
+* Cable 22+18+B PVC 
+** Cable 22+24+B PVC 
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Connector 2
+(Female Connector / Female Contacts) 
+Type
+Connector 3
+(Female Connector / Female Contacts)  
+Connector 4
+(Female Connector / Female Contacts) 
+S-555500-FFFF00-SB*
+ None- Certified NMEA 2000 
+(4A, 30V)
+E-555500-FFFF00-SA**
+Certified NMEA 2000
+(4A, 30V)
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-12
+
+NMEA 2000 Connector I Find Our Standard Products
+Micro I Mini
+Waterproof Cap I Bulkhead (Double-ended) 
+9
+IP 67 . 68
+Unmated or Mated
+Micro > Cap > Waterproof Cap
+● Screw Thread
+Male (12.0)
+Female (10.5)
+●  Mated IP68
+Male (15.5)
+Female (12.0)
+14.5
+Male (14.0)
+Female (16.5)
+* Plastic     
+* Metal
+4
+           Choose gender of mating pair : Male(M) / Female(F)
+           Choose plastic(1) or metal(2) items
+7
+Size
+Mating Pair
+Mating Style
+Part Number
+Receptacle
+Screw Thread
+CAP-WBDMSPB2
+Micro
+4
+7
+Receptacle and 
+Overmolded with Cable
+Screw Thread
+CAP-WBD
+SMA
+Mini > Bulkhead (Double-ended)
+● 5 Contacts  
+Mini
+● Screw Thread
+48.5
+● Unmated IP68
+28.4
+OD: 22.2
+1
+2
+ALTW
+For Panel thickness Max 9.0mm
+Connector 
+Connector 1
+(Female Connector / Female Contacts)
+Type
+Connector 2
+(Male Connector / Male Contacts)
+None- Certified NMEA 2000 
+(8A, 600V)
+MN-000505-0FM-BS001
+Certified NMEA 2000
+(8A, 600V)
+UMN-000505-0FM-BS001
+14-13  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector I Find Our Standard Products
+                                                Mini
+                   Drop Line I Double-ended Cordset
+Mini > Cable > Drop Line
+● 5 Contacts  
+● Screw Thread
+Male (57.8)
+Female (58.0)
+●  Mated IP68
+25.5
+10
+ALTW
+       Cabling Information
+NMEA Approved 
+(C): (18#*1P+AL) + (15#*1P+AL) + Drain + Braid
+Conforming
+(C): (18#*1P+AL) + (16#*1P+AL) + Drain + AL+Braid
+**Available in 1, 2, 5, 10 M.
+Connector 
+(Male Connector / Male Contacts)
+Connector 
+(Female Connector / Female Contacts)
+Connector 
+Type
+10
+10
+ None- Certified NMEA 2000 
+(8A, 30V)
+MN-05AMMM-SL8
+**
+MN-05AFFM-SL8
+**
+10
+ NMEA Approved
+(8A, 600V)
+UMN-05AMMM-SL8
+**
+-
+Mini > Cable > Double-ended Cordset
+● 5 Contacts  
+● Screw Thread
+●  Mated IP68
+1
+2
+ALTW
+ALTW
+*Available in 1, 2, 5, 10 M
+Connector 1
+(Male Connector / Male Contacts)
+Connector 
+Type
+Connector 2
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+(8A, 30V)
+MN-000505-0MF-CSC*
+Certified NMEA 2000
+(8A, 600V)
+UMN-000505-0MF-CSC*
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-14
+
+NMEA 2000 Connector I Find Our Standard Products
+Mini
+Field Installable I T-Cable  
+9
+IP 67 . 68
+Unmated or Mated
+Mini > Cable > Field Installable
+● 5 Contacts  
+91.0
+74.0
+● Screw Thread
+● Screw-in Contacts
+●  Mated IP68
+ALTW
+ALTW
+25.5
+25.5
+* Conforming to NMEA
+* NMEA approved
+Connector 
+Type
+Connector 
+(Male Connector / Male Contacts)
+Connector 
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+(8A, 600V)
+MN-05BMMB-SL7001
+(Ø8 ~Ø11mm; 15AWG Max.)
+MN-05BFFB-SL7001
+(Ø8 ~Ø11mm; 15AWG Max.)
+Certified NMEA 2000
+(8A, 600V)
+UMN-05BMMB-SL7001
+(Ø8 ~Ø12.2mm; 15AWG Max.)
+UMN-05BFFB-SL7001
+(Ø8 ~Ø12.2mm; 15AWG Max.)
+Mini > Cable > T-Cable
+● 5 Contacts  
+81.0
+● Screw Thread
+●  Mated IP68
+ALTW
+1
+2
+* Cable: Refer to P14-4
+*Available in 1, 2, 5, 10 M.
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Type
+Connector 2
+(Male Connector / Male Contacts)
+None- Certified NMEA 2000 
+(8A, 30V)
+MN-050500-FM0-TSC*
+14-15  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector I Find Our Standard Products
+                       Mini
+     Terminator I T-Adaptor
+Mini > Network Terminator > Terminator
+32.7(REF.)
+● 5 Contacts  
+57.8
+● Screw Thread
+● With 120Ω Resistor
+25.0
+ALTW
+●  Mated IP68
+17.0
+35.3(REF.)
+58.0
+20.0
+20.0
+ALTW
+ALTW
+25.0
+ALTW
+* Conforming to NMEA
+* Signal function LED
+* NMEA approved
+19.1
+Connector 
+Type
+Connector 1
+(Male Connector / Male Contacts)
+Connector 1
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+(8A, 250V)
+MNL-05BMMT-SL8001
+MNL-05BFFT-SL8001
+Certified NMEA 2000
+(8A, 250V)
+UMN-05AMMT-SL8001
+UMN-05AFFT-SL8001
+Mini > Adaptor > T-Adaptor
+● 5 Contacts  
+81.0
+● Screw Thread
+●  Mated IP68
+ALTW
+1
+2
+53.6
+3
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Type
+Connector 2
+(Male Connector / Male Contacts)
+Connector 3
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+(8A, 300V)
+MN-050505-FMF-TS001
+Certified NMEA 2000
+(8A, 300V)
+UMN-050505-FMF-TS001
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-16
+
+NMEA 2000 Connector I Find Our Standard Products
+Mini
+Elbow I Power Tap Tee  
+9
+IP 67 . 68
+Unmated or Mated
+Mini > Adaptor > Elbow
+● 5 Contacts  
+53.2
+● Screw Thread
+●  Mated IP68
+2
+ALTW
+55.0
+1
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Type
+Connector 2
+(Male Connector / Male Contacts)
+None- Certified NMEA 2000 
+(8A, 300V)
+MN-000505-0FM-ES001
+Mini > Power Tap Tee
+● 5 Contacts  
+3
+2
+MN-04AFFM-SL8D**
+* Recommended Mating Pair for 
+● Screw Thread
+Male (57.8)
+Female (58.0)
+● With replaceable fuse
+●  Mated IP68
+ALTW
+3
+84.6
+25.5
+ALTW
+114.2
+1
+Cabling Information
+Conforming
+(C): (18#*1P+AL) + (16#*1P+AL) + Drain + AL+Braid
+**Available in 1, 2, 5, 10 M
+Connector 1
+(Male Connector / Male Contacts)
+Connector 
+Type
+Connector 2
+(Female Connector / Female Contacts)
+Connector 3
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+N-455000-MFF000-S001
+(8A, 250V)
+Certified NMEA 2000
+(8A, 250V)
+U-455000-MFF000-S001
+14-17  Amphenol LTW Technology Co., Ltd.                                                       
+
+NMEA 2000 Connector I Find Our Standard Products
+                         Mini
+                 Waterproof Cap
+Mini > Cap > Waterproof Cap
+● 5 Contacts  
+Male (25.2)
+Female (25.4)
+● Screw Thread
+●  Mated IP68
+25.5
+ALTW
+4 Choose gender of mating pair : Male(M) / Female(F)
+Size
+Mating Pair
+Mating Style
+P/N
+Mini
+Receptacle and 
+Overmolded with Cable
+Screw Thread
+CAP-WMN
+SMA1
+4
+* Design and specification are subject to change without notice.
+Innovation in Waterproof Solution   14-18
+
+NMEA 2000 Connector I Find Our Standard Products
+Mini to Micro
+T-Adaptor I I-Adaptor 
+9
+IP 67 . 68
+Unmated or Mated
+Mini to Micro > Adaptor > T-Adaptor
+● 5 Contacts  
+81.0
+● Screw Thread
+●  Mated IP68
+1
+2
+ALTW
+52.9
+3
+Connector 1
+(Female Connector / Female Contacts)
+Connector 
+Type
+Connector 2
+(Male Connector / Male Contacts)
+Connector 3
+(Female Connector / Female Contacts)
+None- Certified NMEA 2000 
+(4A, 60V)
+NC-050505-FMF-TS001
+Certified NMEA 2000
+(4A, 60V)
+UNC-050505-FMF-TS001
+Mini to Micro > I-Adaptor
+● 5 Contacts  
+● Screw Thread
+70.0
+●  Mated IP68
+1
+2
+25.0
+ALTW
+Connector 1
+(Male Connector / Male Contacts)
+Connector 
+Type
+Connector 2
+(Female Connector / Female Contacts)
+ None- Certified NMEA 2000 
+(4A, 60V)
+NC-000505-0MF-IS001
+14-19  Amphenol LTW Technology Co., Ltd.                                                       
+
+Amphenol LTW
+Memo
+Innovation in Waterproof Solution
+
+Kunshan Factory
+Amphenol LTW Technology Co., Ltd. 
+No. 62, DaTong Road, Development Zone, Kunshan City, 
+JiangSu Province, 215333 China
+Telephone: +86-512-5761-0501   
+Fax: : +86-512-5761-0515
+5F-3, No.51, Sec.4, Zhongyang Rd., Tucheng Dist., New 
+Taipei City 236, Taiwan
+Telephone: +886-2-77416888   Fax: +886-2-77416999
+www.amphenolltw.com
+For further information, please contact :
+Sales & Marketing Department | Email : sales@ltw-tech.com
+Copyright 2016 by ALTW Technology Co., Ltd Printed in Taiwan R.O.C
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  HPC-P-001  HPC-B-001

@@ -1,0 +1,203 @@
+1
+2
+3
+4
+5
+6
+7
+8
+Anzugsdrehmoment: 1.0 Nm
+torque value:
+A
+A
+*)
+10
+20
+30
+40
+50 *)
+60
+Markierungspunkt
+Red dot
+Nur Einsatz dargestellt
+View only insert
+A
+11.5
+B
+B
+Fuer diese Unterlage behalten wir uns alle Rechte vor, auch fuer den
+Fall der Patenterteilung oder Gebrauchsmustereintragung. Sie darf
+ohne unsere vorherige schriftliche Zustimmung weder vervielfaeltigt
+SW 10
+SW 10
+28.3
+ca.41
+K21L0_-___
+C
+C
+Weitere Kodierungen in Richtung "A":
+further codings in direction "A":
+3:1
+30�$�
+30�$�
+empfohlene Abisolierlaenge
+/recommended cable preparation
+ 1:1
+2.5
+2
+Schirm
+/shield
+Isolierung
+/insulation
+D
+D
+  *) Darstellung nur Beispiel
+    figure on only for example
+Nur rot gestempelte oder auf Laufkarte gedruckte Dokumente 
+unterliegen dem Aenderungsdienst und sind zur Fertigung freigegeben. 
+Only red stamped or on jobcard printed documents 
+are managed. These documents are approved for production. 
+9
+45�$�
+Einzelader
+/wire
+Knickschutztuelle separat bestellen
+order cable bend relief separately
+K21LA_-___
+K21LF_-___
+Kabel
+/cable
+K21LC_-___
+> 7.0 - 7.7 mm
+K21L__-P07LFG0-770S
+> 6.0 - 7.2 mm
+K21L__-P07LFG0-720S
+> 5.0 - 6.2 mm
+K21L__-P07LFG0-620S
+Technische Daten/Technical Data:
+> 4.0 - 5.2 mm
+K21L__-P07LFG0-520S
+E
+E
+K21L_C-P07LFG0-__0S
+matt verchromt
+2
+0.7 mm
+> 3.0 - 4.2 mm
+K21L__-P07LFG0-420S
+matt chrome plated
+0.38mm
+> 2.0 - 3.2 mm
+K21L__-P07LFG0-320S
+Loet/solder
+AWG 22
+K21L_S-P07LFG0-__0S schwarz verchromt
+black chrome plated
+> 1.5 - 2.2 mm
+K21L__-P07LFG0-220S
+1.0 kV AC (SAE AS 13441) 
+Oxaion-ID
+Oberfl. Gehaeuse/
+Cu-Legierung
+/cu-alloy
+Cu-Legierung
+/cu-alloy
+PEEK
+surface housing
+Kabel�n�
+cable�n�
+Oxaion-ID
+7.5 A
+Kontakt�n�/Contact�n�:
+Anschluß/Termination:
+ 
+ 
+Pruefspannung/Test Voltage:
+ 
+Strombelastung/Current Load:
+Einzelkontakte/single contacts:
+R
+Benennung/description:  
+Werkstoff:
+material:  
+All Rights reserved, including possible patents 
+or trademarks. Documents shall not be provided
+to a third party or duplicated in any form
+without prior written permission.
+Kabelteil cpl.
+seeBOM
+Gehaeuse/Housing:
+siehe Tabelle
+see table
+Werkstoffe/Materials:
+Gehaeuse/Housing:               
+                           
+Kontakte/Contacts: 
+                            
+Isolierkoerper/Insulation Body:    
+ 
+Oberflaechen/Surfaces:
+ 
+ 
+Kontakte/Contacts:               
+gal. Au
+Maßstab: 
+scale:
+F
+ 
+Schutzart/Protection class:        
+IP 50
+Allgemeintoleranz/general tol.:
+DIN ISO 2768-mH
+Tolerierung  / Tolerancing:
+DIN ISO 8015   
+CAD-Nr.:
+design-ID:
+4:1
+im gesteckten Zustand
+  
+Status/state:
+Version: 
+revision:
+00147292 Format:
+/plugged condition
+size:
+Approved
+- Teile-ID:
+part-ID:   
+A3
+Erstellt/prepared04.09.2018tschroedl
+Einheit:
+dim.:     mm 
+Geaendert/revised04.09.2018tschroedl
+Oxaion-Nr.: 
+Bei den hier dargestellten ODU-Steckverbindern handelt es sich nach
+DIN EN 61984:2009 um Steckverbinder ohne Schaltleistung (COC) !
+/the pictured ODU-connectors are in relation to DIN EN 61984:2009
+connectors without switching capacity (COC) !
+Freigabe/released07.09.2018srueckerl
+K21L__-P07LFG0-__0S Bl.: 
+ODU-MUEHLDORF
+Datum/date
+Name/name
+Ursprung/origin.: 
+sheet:  1
+noch sonstwie benutzt, noch Dritten zugaenglich gemacht werden.
+CAD: Creo Parametric
+1
+2
+3
+4
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  K21L0C-P07LFG0-320S

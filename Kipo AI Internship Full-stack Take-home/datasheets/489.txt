@@ -1,0 +1,124 @@
+https://www.phoenixcontact.com/pi/products/1419570
+Housing screw connection - SACC-BP-F-M12/
+SMD-1,6/2,3-9TIP - 1419570
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+M12 threaded sleeve with tolerance-compensating function, for straight, SMD-solderable M12 socket contact
+inserts. Suitable for 1.6 mm ... 2.3 mm thick front plates.
+Your advantages
+ Tolerance-compensating function between PCB and housing
+ Prevents force being applied to soldering spots
+ Easy integration thanks to tool-free mounting
+ Optional port sealing without protective cap
+Key Commercial Data
+Packing unit
+10 pc
+Minimum order quantity
+10 pc
+GTIN
+GTIN
+4055626207056
+Technical data
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 1 / 4
+
+https://www.phoenixcontact.com/pi/products/1419570
+Housing screw connection - SACC-BP-F-M12/
+SMD-1,6/2,3-9TIP - 1419570
+Dimensional drawing
+Dimensional drawing
+Mounting cutout
+09/11/2020   Page 2 / 4
+
+https://www.phoenixcontact.com/pi/products/1419570
+Housing screw connection - SACC-BP-F-M12/
+SMD-1,6/2,3-9TIP - 1419570
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+23100602
+eCl@ss 4.0
+23100600
+eCl@ss 4.1
+23100600
+eCl@ss 5.0
+23100600
+eCl@ss 5.1
+23100600
+eCl@ss 6.0
+23100600
+eCl@ss 7.0
+23100602
+eCl@ss 8.0
+23100602
+eCl@ss 9.0
+23100602
+ETIM
+ETIM 4.0
+EC001855
+ETIM 5.0
+EC002350
+ETIM 6.0
+EC002350
+ETIM 7.0
+EC002350
+Accessories
+Accessories
+Panel mounting base
+Housing screw connection - SACC-BP-F-FIX/NUT-BK-SMD - 1419568
+Fixing sleeve for M12 housing screw connection with tolerance-compensating function, for SMD-solderable M12
+socket contact inserts.
+ 
+ 
+Housing screw connection - SACC-BP-F-FIX/NUT-CY-SMD - 1419565
+Fixing sleeve for M12 housing screw connection with tolerance-compensating function, for SMD-solderable M12
+socket contact inserts.
+ 
+ 
+09/11/2020   Page 3 / 4
+
+https://www.phoenixcontact.com/pi/products/1419570
+Housing screw connection - SACC-BP-F-M12/
+SMD-1,6/2,3-9TIP - 1419570
+Accessories
+Housing screw connection - SACC-BP-F-FIX/NUT-GN-SMD - 1419566
+Fixing sleeve for M12 housing screw connection with tolerance-compensating function, for SMD-solderable M12
+socket contact inserts.
+ 
+ 
+Housing screw connection - SACC-BP-F-FIX/NUT-VT-SMD - 1419567
+Fixing sleeve for M12 housing screw connection with tolerance-compensating function, for SMD-solderable M12
+socket contact inserts.
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 4 / 4
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1419570

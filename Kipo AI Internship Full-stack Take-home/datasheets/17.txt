@@ -1,0 +1,216 @@
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+A
+Initial Release
+2018/03/24
+Ethan
+F
+L
+T
+E
+A
+W
+CONFIDENTIAL
+2018-03-24
+QC
+17.5
+16.0
+R&D DEPT.
+8.5
+D
+17.0
+M12*1.5
+QC
+C
+O-Ring 10*2
+QC
+B
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+Metal M12*1.5 VENT 
+VENT-MS1NMS-O8001 
+Ethan
+2018-03-24
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+VENT-MS1NMS-O8001
+Feng-li
+2018-03-24
+2:1
+A4  
+   
+1    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Jerry
+2018-03-24
+A
+A.6  QC :Inspection item
+      TOLERANCE
+      .X          #0.25
+      .XX         #0.1
+      .XXX        #0.05
+      ANGLES      #1$
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+Screw Nut: Optional part
+No.: APTM-AMBPC012-001
+F
+鐵件螺母作為選配件
+E
+M12*1.5
+Through-hole
+Recommended 
+D
+installation orientation
+建議安裝朝向
+← Install
+2.0~3.5
+12.2  # 0.1
+Recommended Panel Cut-Out
+C
+建議開孔尺寸
+Threaded-hole
+L
+T
+A
+W
+Polish
+14.30  # 0.20
+CONFIDENTIAL
+60$#2
+QC
+← Install
+t 10
+2018-03-24
+B
+R&D DEPT.
+M12x1.5
+Recommended Panel Cut-Out
+Note:
+*   Important Dimension.
+* Waterproof Rate: IP68(Immersion for 
+   60 minutes at a depth of 2 meter),IP69K
+* Housing:SUS316L
+* Cap: SUS316L
+* Membrane: ePTFE,Oleophobic
+* O-Ring:  Silicone, 94V-0
+* Air Permeability: >1600ml/min 
+@70mbar
+建議開孔尺寸
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+Metal M12*1.5 VENT 
+ VENT-MS1NMS-O8001  
+Ethan
+2018-03-24
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+VENT-MS1NMS-O8001 
+Feng-li
+2018-03-24
+2:1
+A4  
+   
+2    
+2
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Jerry
+2018-03-24
+A
+A.6  QC :Inspection item
+      TOLERANCE
+      .X          #0.25
+      .XX         #0.1
+      .XXX        #0.05
+      ANGLES      #1$
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+WI0814-03-表單01A2
+1
+2
+3
+4
+5
+6
+7
+8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  VENT-MS1NMS-O8001

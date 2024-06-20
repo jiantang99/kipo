@@ -1,0 +1,389 @@
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user 
+documentation. Our general terms of use for downloads are valid.
+Data connector, Ethernet CAT6A (10 Gbps), PROFINET CAT6A (10 Gbps), 8-position, shielded, 
+Plug straight M12, X, Crimp connection, knurl material: Zinc die-cast, tin-plated, external cable 
+diameter 6.5 mm ... 10 mm, without crimp contacts
+Your advantages
+Extremely compact, thanks to the small wiring space and high contact density
+•
+Safe use in the field, thanks to a high degree of protection
+•
+Safely shielded: reliable shield connection even under extreme mechanical strain
+•
+Robust connection: suitable for railway applications with high shock and vibration loads
+•
+Commercial data
+Item number
+1422844
+Packing unit
+1 pc
+Minimum order quantity
+1 pc
+Sales key
+BF34
+Product key
+BF2CJJ
+Catalog page
+Page 27 (C-2-2019)
+GTIN
+4055626381886
+Weight per piece (including packing)
+22.9 g
+Weight per piece (excluding packing)
+22.2 g
+Customs tariff number
+85366990
+Country of origin
+DE
+Aug 25, 2023, 5:16 AM     Page 1 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Technical data
+Notes
+General
+This product corresponds to the PROFINET Cabling and 
+Interconnection Technology Guideline for PROFINET 
+regulations, version 2.00, order no: 2.252, Chapter 8.2 
+Connectors for Outside Environment (Balanced cabling)
+General
+NOTE: Observe the permissible bending radii when laying 
+conductors, since the degree of protection may be put in 
+jeopardy if the bending forces are too high. Alleviate mechanical 
+loads upstream of the connector, e.g. by using cable ties.
+Mounting
+Assembly instructions
+Contacts can be clipped in place and unclipped without tools
+Connection method
+Crimp connection
+Product properties
+Product type
+Circular connector (cable-side)
+Sensor type
+Ethernet
+Number of positions
+8
+Application
+Data
+No. of cable outlets
+1
+Shielded
+yes
+Coding
+X
+Cable outlet
+straight
+Insulation characteristics
+Overvoltage category
+II
+Degree of pollution
+3
+Dimensions
+Dimensional drawing
+Length
+43 mm
+Wrench size, union nut
+15 mm
+Wrench size, counter nut
+14 mm
+External dimensions
+Outside diameter
+6.5 mm ... 10 mm
+Housing
+Diameter housing
+16 mm
+Material specifications
+Aug 25, 2023, 5:16 AM     Page 2 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Flammability rating according to UL 94
+V0
+Seal material 
+FKM
+Material of grip body
+Zinc die-cast, nickel-plated
+Contact carrier material
+PA 6.6
+Material for screw connection
+Zinc die-cast, tin-plated
+Standards/regulations
+PA 6.6: Fire protection in rail vehicles - requirement sets R22, 
+R23, R24, and R26 acc. to DIN EN 45545-2 (Risk level HL1 - 
+HL3)
+Connection data
+Conductor connection
+Connection method
+Crimp connection
+Connection cross section
+0.14 mm² ... 0.34 mm² (flexible)
+Connection cross section AWG
+26 ... 22 (flexible)
+Stripping length of the individual wire
+4 mm +0,5 mm
+0.4 Nm (M12 knurl)
+Tightening torque
+4 Nm (Pressure nut with coupling sleeve)
+Pin assignment
+Contact | Color (signal designation) | Contact (optional)
+1 = WHOG (D1+)
+2 = OG (D1-)
+3 = WHGN (D2+)
+4 = GN (D2-)
+5 = WHBN (D4+)
+6 = BN (D4-)
+7 = WHBU (D3-)
+8 = BU (D3+)
+Electrical properties
+Rated surge voltage
+0.8 kV
+Insulation resistance
+≥ 100 MΩ
+48 V AC
+Nominal voltage UN
+60 V DC
+Nominal current IN
+0.5 A
+Mechanical properties
+Mechanical data
+Insertion/withdrawal cycles
+≥ 100
+Connector
+Connection 1
+Head design
+Plug
+Head cable outlet
+straight
+Head thread type
+M12
+Aug 25, 2023, 5:16 AM     Page 3 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Coding
+X
+Cable/line
+Ethernet CAT6A (IEC 11801), 10 Gbps
+Signal type/category
+PROFINET CAT6A (IEC 11801), 10 Gbps
+Stripping length of the individual wire
+4 mm +0,5 mm
+Environmental and real-life conditions
+Ambient conditions
+IP65
+Degree of protection
+IP67
+Ambient temperature (operation)
+-40 °C ... 85 °C (Plug / socket)
+Ambient temperature (assembly)
+-5 °C ... 50 °C
+Standards and regulations
+Testing
+Standards/regulations
+PA 6.6: Fire protection in rail vehicles - requirement sets R22, 
+R23, R24, and R26 acc. to DIN EN 45545-2 (Risk level HL1 - 
+HL3)
+M12
+Standard designation
+M12 connector
+Standards/specifications
+IEC 61076-2-109
+Standard designation
+Shock, vibration
+Standards/specifications
+EN 50155:2001
+Aug 25, 2023, 5:16 AM     Page 4 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Drawings
+Dimensional drawing
+≈43
+Ø16
+M12x1
+14
+15
+Plug, M12 x 1, straight, shielded
+Functional drawing
+20
+0,14 - 0,34 mm²
+4 - 4,5
+1
+Click
+Ø 6,5 - 10 mm
+5 - 7 
+3
+2
+3
+14
+15
+4 Nm
+5
+6
+4
+Aug 25, 2023, 5:16 AM     Page 5 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Schematic diagram
+4
+5
+3
+6
+2
+7
+1
+8
+Pin assignment M12 plug, 8-pos., view plug side
+Aug 25, 2023, 5:16 AM     Page 6 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Approvals
+To download certificates, visit the product detail page: https://www.phoenixcontact.com/us/products/1422844
+
+EAC 
+Approval ID: RU C-DE.BL08.B.00511
+
+UL Listed 
+Approval ID: E335024-20120831
+
+cUL Listed 
+Approval ID: E335024-20120831
+cULus Listed
+Aug 25, 2023, 5:16 AM     Page 7 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Classifications
+ECLASS
+ECLASS-11.0
+27440102
+ECLASS-12.0
+27440116
+ECLASS-13.0
+27440116
+ETIM
+ETIM 8.0
+EC002635
+UNSPSC
+UNSPSC 21.0
+39121400
+Aug 25, 2023, 5:16 AM     Page 8 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Environmental product compliance
+Environmentally friendly use period: unlimited = EFUP-e
+China RoHS
+No hazardous substances above threshold values
+Aug 25, 2023, 5:16 AM     Page 9 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+Mandatory accessories
+CC0,6-TS-0,34M AU - Crimp contact
+1423643
+https://www.phoenixcontact.com/us/products/1423643
+Crimp contact,  contact diameter: 0.6 mm,  turned,  Pin,  contact material: CuZn, 
+ contact surface: Ni/Au,  connection cross section: 0.14 mm2 ... 0.34 
+mm2, AWG 26 ... 22
+Accessories
+CC0,6-TS-0,34M AU - Crimp contact
+1423643
+https://www.phoenixcontact.com/us/products/1423643
+Crimp contact,  contact diameter: 0.6 mm,  turned,  Pin,  contact material: CuZn, 
+ contact surface: Ni/Au,  connection cross section: 0.14 mm2 ... 0.34 
+mm2, AWG 26 ... 22
+Aug 25, 2023, 5:16 AM     Page 10 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+NBC-100,0-94S - Data cable
+1423514
+https://www.phoenixcontact.com/us/products/1423514
+Data cable, Ethernet CAT7 (10 Gbps), 8-position, cable length: 100 m
+CRIMPFOX-TC MP - Crimping pliers with digital display
+1212510
+https://www.phoenixcontact.com/us/products/1212510
+Crimping pliers, for turned contacts, universal cross section setting, up to a 
+maximum of 2.5 mm2, digital display with 0.01 mm increments, pressure lock can 
+be unlocked, including positioning tool
+Aug 25, 2023, 5:16 AM     Page 11 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+MICROFOX-SB - Diagonal cutter
+1212489
+https://www.phoenixcontact.com/us/products/1212489
+Electronic diagonal cutter, round head, without chamfer, with opening spring, 
+mirror-polished and oiled, 2-component grip, cutting capacity: soft 0.2 - 2.0 mm; 
+medium hard 1.2 mm; hard 0.5 mm diameter
+WIREFOX-D 13 - Stripping tool
+1212162
+https://www.phoenixcontact.com/us/products/1212162
+Stripping tool, for stripping installation lines of Ø 8 - 13 mm , e.g. NYM 3 x 1.5 
+mm2 to 5 x 2.5 mm2, single line stripping 0.2 mm2 - 4 mm2 , with longitudinal cut 
+blade and sliding knife
+Aug 25, 2023, 5:16 AM     Page 12 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+WIREFOX SAC - Stripping tool
+1212623
+https://www.phoenixcontact.com/us/products/1212623
+Stripping pliers, for halogen-free sensor/actuator cables (SAC cables), with PUR 
+and PVC insulation, from Ø of 4.4 to 7 mm, any stripping length
+TSD 04 SAC - Torque screwdriver
+1208429
+https://www.phoenixcontact.com/us/products/1208429
+Torque screwdriver, with preset torque of 0.4 Nm and 4 mm hexagonal drive for 
+M12 connectors
+Aug 25, 2023, 5:16 AM     Page 13 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+SAC BIT M12-D16 - Tool
+1200305
+https://www.phoenixcontact.com/us/products/1200305
+Nut for assembling sensor/actuator cables with M12 connector and M12 
+connectors for assembly, knurl diameter: 16 mm, for 4 mm hexagonal drive
+TSD-M 1,2NM - Torque screwdriver
+1212224
+https://www.phoenixcontact.com/us/products/1212224
+Torque screw driver, accuracy as per EN ISO 6789 standard, adjustable from 0. 
+3 ‑ 1.2 Nm
+Aug 25, 2023, 5:16 AM     Page 14 (15)
+
+SACC-M12MSX-8CT-CL SH - Data connector
+1422844
+https://www.phoenixcontact.com/us/products/1422844
+TSD-M SAC-BIT ADAPTER - Adapter insert
+1212600
+https://www.phoenixcontact.com/us/products/1212600
+Adapter bit for TSD-M...torque tools, E6.3-1/4" drive with 4 mm hexagon to 
+accommodate SAC bits
+Phoenix Contact 2023 © - all rights reserved 
+https://www.phoenixcontact.com
+Phoenix Contact USA 
+586 Fulling Mill Road 
+Middletown, PA 17057, United States 
+(+717) 944-1300 
+info@phoenixcon.com
+Aug 25, 2023, 5:16 AM     Page 15 (15)

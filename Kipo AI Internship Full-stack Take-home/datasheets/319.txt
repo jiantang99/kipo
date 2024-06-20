@@ -1,0 +1,212 @@
+https://www.phoenixcontact.com/pi/products/1440067
+Flush-type connector - SACC-DSIV-M12FS-5CON-L 90 SH - 1440067
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Sensor/actuator flush-type connector, socket, 5-pos., M12, shielded, A-coded, rear/screw mounting with M12
+thread, with polarity protection, with angled solder connection
+Key Commercial Data
+Packing unit
+10 pc
+GTIN
+GTIN
+4046356478663
+Technical data
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+Degree of protection
+IP67
+General
+Rated current at 40°C
+4 A
+Rated voltage
+60 V
+Number of positions
+5
+Insulation resistance
+≥ 100 MΩ
+Coding
+A - standard
+Standards/regulations
+M12 connector IEC 61076-2-101
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Solder pins
+Mounting type
+Rear mounting M12 x 1 With locking nut
+Material
+Flammability rating according to UL 94
+HB
+Contact material
+CuZn
+09/11/2020   Page 1 / 7
+
+https://www.phoenixcontact.com/pi/products/1440067
+Flush-type connector - SACC-DSIV-M12FS-5CON-L 90 SH - 1440067
+Technical data
+Material
+Contact surface material
+Au
+Contact carrier material
+PA 6.6
+Material, knurls
+Nickel-plated brass
+Sealing material
+NBR
+Cable
+Standards/specifications
+M12 connector IEC 61076-2-101
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Flammability rating according to UL 94
+HB
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 25;
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 2 / 7
+
+https://www.phoenixcontact.com/pi/products/1440067
+Flush-type connector - SACC-DSIV-M12FS-5CON-L 90 SH - 1440067
+Dimensional drawing
+Mounting cutout
+09/11/2020   Page 3 / 7
+
+https://www.phoenixcontact.com/pi/products/1440067
+Flush-type connector - SACC-DSIV-M12FS-5CON-L 90 SH - 1440067
+Drilling diagram
+M12 flush-type connector
+Dimensional drawing
+M12 flush-type connector
+09/11/2020   Page 4 / 7
+
+https://www.phoenixcontact.com/pi/products/1440067
+Flush-type connector - SACC-DSIV-M12FS-5CON-L 90 SH - 1440067
+Schematic diagram
+Pin assignment M12 socket, 5-pos., A-coded, socket side view
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+09/11/2020   Page 5 / 7
+
+https://www.phoenixcontact.com/pi/products/1440067
+Flush-type connector - SACC-DSIV-M12FS-5CON-L 90 SH - 1440067
+Classifications
+ETIM
+ETIM 3.0
+EC002061
+ETIM 4.0
+EC002061
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+31251501
+UNSPSC 7.0901
+31251501
+UNSPSC 11
+31251501
+UNSPSC 12.01
+31251501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / cUL Recognized / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+125 V
+Nominal current IN
+4 A
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 221474
+cUL Recognized 
+
+ 
+ 
+Nominal voltage UN
+125 V
+Nominal current IN
+4 A
+09/11/2020   Page 6 / 7
+
+https://www.phoenixcontact.com/pi/products/1440067
+Flush-type connector - SACC-DSIV-M12FS-5CON-L 90 SH - 1440067
+Approvals
+ 
+ B.01687
+EAC 
+
+ 
+ 
+cULus Recognized 
+
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 7 / 7
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1440067

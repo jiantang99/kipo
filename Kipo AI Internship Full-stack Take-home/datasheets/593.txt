@@ -1,0 +1,104 @@
+PRG.M0.7GL.LC65GZ
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+7
+Image is for illustrative purpose only
+Series
+1P
+Download
+Female solder
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+0.00 - 26.00
+Cable Ø
+5.30 - 6.50 mm
+Status
+active
+Matching parts
+PAG.M0.7GL.AC65GZ
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+PR*: Free receptacle with cable collet and nut for fitting a bend relief
+Keying
+1 key (alpha=0; Plug: male contact; Receptacle: female contact)
+Housing Material
+PSU (Polysulfone), gray
+Variant
+G  : Gray collet nut for bend relief
+Weight
+4.57 g
+Performance
+Configuration
+1P.M07 : 7 Low Voltage
+Insulator
+L: PEEK (UL 94 / V-0/1.5)
+Rated Current
+5 Amps
+Specifications
+Contact Type: Solder 
+Contact Dia.: 0.7 mm (0.0275in) 
+Bucket Dia.: 0.6 mm (0.024in) 
+Max. Solid Conductor: 0.14 mm^2 (AWG 26) 
+Max. Stranded Conductor: 0.14 mm^2 (AWG 26) 
+R (max): 6.5 mOhm 
+Test voltage (kV rms) Contact-contact:  1.05 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/3
+
+Air clearance min.: 0.85 mm 
+Creepage distance min.: 0.85 mm 
+Others
+Endurance (Shell): >2000 mating cycles 
+Temp (min / max): -50°C / +150°C 
+F ret (min): 50 N 
+F ret (max): 150 N 
+Steam sterilization: > 100 times (with potting on rear connection) 
+  
+  
+DRAWINGS
+Dimensions
+A
+L
+mm.
+14
+43
+in.
+0,55
+1,69
+RECOMMENDED BY LEMO
+Tools
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/3
+
+Cables
+Grey
+PVC
+270250
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+3/3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  PRG.M0.7GL.LC65GZ

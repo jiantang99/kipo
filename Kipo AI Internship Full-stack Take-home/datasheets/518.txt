@@ -1,0 +1,277 @@
+F
+D
+C
+H
+G
+E
+A
+B
+SIDE VIEW FOR EACH VERSION
+UTGX6JC-----
+UTGX6JC--E---
+B.3; Validé
+8
+WIRING AREA (between insert and backshell seal)
+E1
+WIRING AREA (between insert and backshell seal)
+E2
+7
+WIRING AREA (between insert and backshell seal)
+E4
+WIRING AREA (between insert and backshell seal)
+E3
+6
+5
+Sealing in MATED conditions with COUNTERPART:
+ 
+ -IP68 1 bar during 1 week: immersion under 10 m of water. (IEC 60529)
+ -IP69K : exposure to high pressure water of  cleaning equipement
+  (DIN 40050)
+Sealing in MATED conditions with COUNTERPART and UNMATED conditions:
+ 
+ -IP68 1 bar during 1 week: immersion under 10 m of water. (IEC 60529)
+ -IP69K : exposure to high pressure water of cleaning equipement
+  (DIN 40050) 
+UTGX6JC-----P
+UTGX6JC-----S
+SEALING
+CONDITIONS
+MATERIAL :
+ 
+- SHELL :PA UL94 V0, UL746C F1 Black color
+- COUPLING RING: PA + Nickel-plated brass
+- BACKSHELLS : PA UL94 V0 F1 Black color
+- BACKSHELL Seal : CR
+- INSERT (UTGX0-----) : PA UL94 V0, UL746C F1
+- INSERT (UTGX0--E---) : Polychloroprene
+- O'RING : NITRIL
+- MATING SEAL : SILICON 
+- CONTACTS: brass + coated depending on P/N
+ 
+PERFORMANCE CHARACTERISTICS :
+ 
+Operating temperature: -40
+C up to 105C
+Insulation resistance: 5000 M
+min
+Corrosion salt spray: 500 hours  
+Durability: 500 matings and unmatings
+Sealing conditions: SEE TABLE
+ 
+NOTA:
+ 
+1- Contact to be ordered separately for version
+UTGX6----- : refer to corresponding catalogue.
+2- Insert arrangement refer to:
+        UTO-CONTACT-L-C02 (Female insulator)
+        UTO-DHP-003-C01  (Female insulator #20)
+        UTO-DHP-002-C01 (Female insulator #16)
+        UTO-CONTACT-L-C01 (Male insulator)
+        UTO-DHP-003-C01  (Male insulator #20)
+        UTO-DHP-001-C01 (Male insulator #16)
+        C144-UTS1-A (HiSeal Version)
+3- This part shall be used at the place of the
+standard seal to accomodate with different cable 
+4- Plug, backshell and the reducing seal are delivered a
+a kit. The backshell already includes the standard seal.
+4
+CountryJurisdiction 
+& Control List
+FR
+NOT LISTED
+THREAD
+A MAX
+BACKSHELL
+BODY
+BACKSHELL
+NUT
+COUPLING RING
+BACKSHELL
+SEAL
+INSERT
+SOURIAU shall not be liable for any non-conformity or damage due to a use of the Products
+which does not comply with the Specifications issued by either of the Parties or by a third party
+(professional recommendation, technical notice.)
+         P/N : CROSS REF TABLE 
+BASIC SERIES
+UTGX 6 JC14 E 19 P
+  * P/N for example
+SHELL
+PLUG
+SHELL TYPE  6 Plug
+CAPACITY
+C
+3
+MATING
+SEAL
+BACKSHELL
+JC 
+Normal (no digit)
+W,X,Y,Z 
+O'RING
+HEXAGON D
+(See tightening torque in table)
+SHELL SIZE 
+10
+12
+14  
+TYPE OF
+CONTACTS 
+P: MALE
+S: FEMALE  
+B MAX
+COMMON QUOTES FOR ALL VERSION
+TYPE OF
+LAYOUT 
+Standard layout (No digit)
+E : HISEAL Handsolder contacts 
+INSERT
+ARRANGEMENT 
+See NOTA 2  
+25253J
+14/02/2020 --
+B
+-Update drawing
+2
+MOD N
+J.FEURPRIER
+Latest modification - by:
+DATE
+ISS
+10% (g.)
+SHELL
+SIZE
+UTGX CONNECTOR
+TITLE
+PLUG T6 WITH BACKSHELL JC - SIZE 10 12 & 14, Standard and Hiseal version
+CUSTOMER DRAWING 
+Date:10/05/19
+PE.LANDAIS
+Designed by:
+MAX
+MAX
+STANDARD 
+REDUCING
+SEAL (NOTA.3)
+HEXAGON backshell nut
+MAX
+THREAD
+CLASS 2A
+A
+B
+C
+D
+Tightening
+torque (N.m)
+E1
+E2
+E3
+E4
+MASS
+Scale
+10
+26.2
+66
+2.5 / 8
+1.5 / 5
+18.5
+1
+21
+34.1
+29
+33.5
+9/16-24 UNEF
+30
+Dimensions in mm
+General linear
+Tolerances:
+ 0.2
+3/2
+ 
+NPRDS / PROJECT 
+GBB
+ 
+12
+29.7
+69
+5 / 12
+3 / 9
+24
+2
+25
+38.1
+33
+37.5
+11/16-24 UNEF
+40
+8
+7
+6
+5
+4
+3
+2
+1
+1
+www.souriau.com
+14
+34.6
+75.5
+7 / 14
+5 / 12
+26
+2.5
+29
+42.1
+36
+40.5
+13/16-20 UNEF
+53
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+SHEET
+SOURIAU DRG N° 
+FORMAT
+1 / 1
+UTGX-0005A-C
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  UTGX6JC102W2S  UTGX6JC103P  UTGX6JC103W3P  UTGX6JC103W3S  UTGX6JC14E7P  UTGX6JC14E15P 
+UTGX6JC14E15S  UTGX6JC14E18P  UTGX6JC14E18S  UTGX6JC14E19P  UTGX6JC148P  UTGX6JC148S 
+UTGX6JC1492P  UTGX6JC1492S  UTGX6JC1419P  UTGX6JC142G1P  UTGX6JC147P  UTGX6JC12E4P 
+UTGX6JC12E14P  UTGX6JC12E14S  UTGX6JC12E2P  UTGX6JC12E2S  UTGX6JC12E3P  UTGX6JC12E3S 
+UTGX6JC124P  UTGX6JC128P  UTGX6JC12E10P  UTGX6JC12E10S  UTGX6JC10E7S  UTGX6JC10E98P 
+UTGX6JC10E98S  UTGX6JC1210P  UTGX6JC104P  UTGX6JC106P  UTGX6JC10E6P  UTGX6JC104PW 
+UTGX6JC104SW  UTGX6JC106PW  UTGX6JC106SW  UTGX6JC10E6PW  UTGX6JC10E6SW  UTGX6JC10E7PW 
+UTGX6JC10E7SW  UTGX6JC10E98PW  UTGX6JC10E98PX  UTGX6JC10E98PY  UTGX6JC10E98PZ 
+UTGX6JC10E98SW  UTGX6JC10E98SX  UTGX6JC10E98SY  UTGX6JC10E98SZ  UTGX6JC1210PW 
+UTGX6JC1210PX  UTGX6JC1210PY  UTGX6JC1210PZ  UTGX6JC1210SW  UTGX6JC1210SX  UTGX6JC1210SY 
+UTGX6JC1210SZ  UTGX6JC128PW  UTGX6JC128SW  UTGX6JC12E10PW  UTGX6JC12E10PX  UTGX6JC12E10PY
+  UTGX6JC12E10PZ  UTGX6JC12E10SW  UTGX6JC12E10SX  UTGX6JC12E10SY  UTGX6JC12E10SZ 
+UTGX6JC12E14PW  UTGX6JC12E14SW  UTGX6JC12E3PY  UTGX6JC12E3SY  UTGX6JC12E8PW 
+UTGX6JC12E8PX  UTGX6JC12E8PY  UTGX6JC12E8PZ  UTGX6JC12E8SW  UTGX6JC12E8SX  UTGX6JC12E8SY 
+UTGX6JC12E8SZ  UTGX6JC1412PW  UTGX6JC1412SW  UTGX6JC1419PW  UTGX6JC1419PX  UTGX6JC1419PY 
+UTGX6JC1419SW  UTGX6JC1419SX  UTGX6JC1419SY  UTGX6JC1492PW  UTGX6JC1492PX  UTGX6JC1492PY 
+UTGX6JC1492SW  UTGX6JC1492SX  UTGX6JC1492SY  UTGX6JC14E12PW  UTGX6JC14E12PX 
+UTGX6JC14E12SW  UTGX6JC14E12SX  UTGX6JC14E15PW

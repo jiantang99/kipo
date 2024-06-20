@@ -1,0 +1,145 @@
+1
+2
+3
+4
+5
+6
+7
+8
+REV.
+ECN NO.
+DATE
+SIGN
+DESCRIPTION
+A
+Initial Release
+2016-06-06
+Tom_Gu
+Change Rev.01 To Rev.A
+F
+L
+T
+A
+W
+CONFIDENTIAL
+QC
+19.0
+4.8
+25.4
+2016-06-06
+R&D DEPT.
+  0
+ -0.25
+E
+20.60
+(Ref.)
+29.3
+QC
+13/16"-28UNS
+D
+3
+Liquid Glue
+   White Printing
+QC
+Note:
+QC
+*   Important Dimension To Check.
+* Waterproof Rate: IP68(1M/24hours)
+C
+* Working Voltage Rating: AC 300V
+25.0
+* Working Current: 20A
+19.0
+* Housing: Nylon+GF, Black
+* Pin: Copper Alloy, Gold Plated
+* Nut: Nylon+GF, Black
+1
+3
+* Gasket: Silicone, Gray
+2
+Housing
+2
+1
+Pin
+20.80#0.1
+B
+* Use Without Waterproof Cap 
+    Panel Thickness Max: 4.2mm
+Nut
+5
+* Use With Waterproof Cap 
+Gasket
+4
+19.4#0.1
+    Panel Thickness Max: 3.0mm
+Pin Assignments
+ 
+Front View
+Recommernded Panel Cut-Out
+TITLE
+DATE
+DRAWN BY
+ITEM NO
+UNIT:mm
+X-Lok C Size Receptacle
+Front 3Pin 20A M Conn. F Pin
+CC-03PMFS-QC800P
+Tom_Gu
+2016-06-06
+DWG NO
+DATE
+CHECKED BY
+A
+Amphenol LTW
+SCALE
+SHEET
+OF
+SIZE
+CC-03PMFS-QC800P
+Spring_Liu
+2016-06-06
+3:2
+A4  
+   
+1    
+1
+CUSTOMER
+APPROVED BY
+DATE
+REV.
+WC-REV.
+ALTW
+Kevin_Hu
+2016-06-06
+A
+A.1  QC :Inspection item
+      TOLERANCE
+      .X          #0.25
+      .XX         #0.1
+      .XXX        #0.05
+      ANGLES      #1$
+THIS DOCUMENT IS SUBJECT TO CHANGE WITHOUT NOTICE. IT IS CONFIDENTIAL AND A 
+PROPERTY OF Amphenol LTW. DISCLOSURE TO THIRD PARTY HAS TO BE AUTHORIZED BY 
+Amphenol LTW.
+FMW10702-01-02A1
+1
+2
+3
+4
+5
+6
+7
+8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  CC-03PMFS-QC800P

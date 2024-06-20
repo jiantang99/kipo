@@ -1,0 +1,79 @@
+GK0L0C-P04LFG0-0000
+series_l, type_gk
+General information
+Part number
+GK0L0C-P04LFG0-0000
+Termination
+solder
+Size
+0
+Locking principle
+break , push
+Keying
+0_key
+Contact insert description
+Number of contacts
+4
+Contact type
+sockets
+Contact diameter
+07mm
+Insulator material
+peek
+Wire cross section
+22_awg
+Termination
+solder
+Termination diameter
+085mm
+Data transmission
+ethernet_100
+reverse_gender_on_request
+Technical information
+Max. creepage and air clearance distance
+06_mm
+08_mm
+Nominal current single contact
+075_a
+iec_60512_5_2
+Nominal current insert
+7,5 A
+vde_0298_4
+Test voltage
+09_kv_ac
+sae_13441
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ip50
+Operating temperature
+40_120_c
+Mating cycles
+5000
+mated_unmated
+Material and surface treatments
+Housing
+m_chrome
+Contact
+cu_alloy_gold
+data_text
+safety_text_2
+data_text
+ul_text
+illustrative_text
+GK0L0C-P04LFG0-0000 series_l, type_gk
+230522
+1 / 1
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  GK0L0C-P04LFG0-0000

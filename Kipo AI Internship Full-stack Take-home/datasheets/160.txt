@@ -1,0 +1,117 @@
+https://www.phoenixcontact.com/pi/products/1419567
+Housing screw connection - SACC-BP-F-FIX/NUT-VT-SMD - 1419567
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Fixing sleeve for M12 housing screw connection with tolerance-compensating function, for SMD-solderable
+M12 socket contact inserts.
+Your advantages
+ Tolerance-compensating function between PCB and housing
+ Prevents force being applied to soldering spots
+ Easy integration thanks to tool-free mounting
+ Optional port sealing without protective cap
+Key Commercial Data
+Packing unit
+10 pc
+Minimum order quantity
+10 pc
+GTIN
+GTIN
+4055626207025
+Technical data
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+-40 °C ... 85 °C (without mechanical actuation)
+Degree of protection
+IP67 (correctly plugged in and locked)
+General
+Note
+The electrical and mechanical data specified assume that the connector
+pair is correctly locked and mounted. If the connector is unlocked and if
+there is a danger of contamination, the connector must be sealed using
+a protective cap > IP54. Influences arising from litz wires, cables or PCB
+assembly must also be taken into consideration.
+Standards/regulations
+M12 connector IEC 61076-2-101 In line with
+Torque
+0.4 Nm (Tightening torque of mating connector)
+Mounting type
+Rear mounting 2-section, lockable
+09/11/2020   Page 1 / 3
+
+https://www.phoenixcontact.com/pi/products/1419567
+Housing screw connection - SACC-BP-F-FIX/NUT-VT-SMD - 1419567
+Technical data
+Material
+Flammability rating according to UL 94
+V0
+Sealing material
+FKM (O-ring (pin connector pattern))
+Additional material specifications
+PA 6.6 (Fixing sleeve)
+Color
+violet (Fixing sleeve)
+Cable
+Standards/specifications
+M12 connector IEC 61076-2-101 In line with
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101 In line with
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+Dimensional drawing
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 5.1
+27143423
+09/11/2020   Page 2 / 3
+
+https://www.phoenixcontact.com/pi/products/1419567
+Housing screw connection - SACC-BP-F-FIX/NUT-VT-SMD - 1419567
+Classifications
+eCl@ss
+eCl@ss 6.0
+27143423
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 4.0
+EC001855
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 3 / 3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1419567

@@ -1,0 +1,6120 @@
+Amphenol
+ECTA
+Push-Pull connectors
+Push-Pull Steckverbinder
+Connecteurs Push-Pull
+Connectors tested and certified according to EN 61984 per VDE registration number 6908 
+Steckerbaureihe geprüft und zertifiziert nach DIN EN 61984 unter VDE Reg.Nr. 6908
+Connecteurs testés et certifiés selons EN 61984 per VDE N. 6908
+
+Our products are the subject of continuous development and we reserve the right to introduce changes in their design.
+Wir sind bestrebt, unsere Produkte weiter zu entwickeln und behalten uns maßliche oder technische Änderungen an 
+den Steckverbindungen vor.
+Les informations contenues dans ce catalogue sont susceptibles d’évoluer.
+
+1
+Summary / Übersicht / Sommaire
+Serie 1331/1332
+How to order / Bestellschlüssel / Référence 
+2 - 3
+Technical characteristics / Technische Beschreibung / Caractéristiques techniques 
+4
+Generalities / Allgemeines / Généralités 
+5 - 6
+Arrangements / Polbilder / Arrangements 
+7 - 12
+Shells / Gehäuse / Boitiers 
+13 - 16
+Bulkhead / Schottdurchführungen / Traversée de cloison 
+17
+Backshells / Endgehäuse / Raccords 
+18 - 20
+Accessories / Zubehör / Accessoires 
+21 - 22
+Polarization / Kodierung / Polarisation 
+23
+Technical information / Technische Daten / Caractéristiques techniques 
+24 - 25
+Special contacts / Sonderkontakte / Contacts spéciaux 
+26
+Serie 1333
+Push-Pull connector for E2000 / Push-Pull-Stecker für E2000 / Connecteur Push-Pull pour E2000 
+27 - 28
+Serie 1334/1335
+Single pole power connector / Einpoliger Power-Steckverbinder / Connecteur power unipolaire 
+29 - 32
+Multipole power connector / Mehrpoliger Power-Steckverbinder / Connecteur power multipolaire 
+33 - 34
+Arrangements / Polbilder / Arrangements 
+35
+Dimensions / Abmessungen / Dimensions 
+36
+Polarization / Kodierung / Polarisation 
+37
+Overmolded connector and derivation box / Sonderstecker und Verteilerbox / Connecteur cablé et boite de distri. 38
+Guidelines to select a plug connector / Leitfaden zur Auswahl eines Steckverbinders /  
+39 - 47 
+Guide de sélection d'un connecteur 
+
+2
+How to order / Bestellschlüssel / Référence
+ 
+Serie / Baureihe / Série                                          (1) 33       1       E     103     M      Z       2        -  
+ 1 
+Aluminium / Aluminium / Aluminium 
+ 2 
+Brass / Messing / Laiton
+ 6 
+Stainless Steel / Edelstahl / Inox
+ 1 
+Power transmission / Netzstecker / Alimentation - VDE & UL listed
+ 2 
+Signal transmission / Datenübertragungsstecker / Signal - VDE & UL listed
+ E 
+Flange receptacle / Flanschsteckdose / Embase 
+ EC 
+Angular flange receptacle / Flanschsteckdose 90° / Embase 90°
+ ER 
+Flange receptacle with backshell connection / Flanschsteckdose mit Endg. Anschluss /  
+ 
+Embase pour montage d’un raccord
+ EV 
+Receptacle, single hole fixing / Steckdose, Einlochmontage / Embase monotrou
+ EVL 
+EV with conductive seal / EV mit leitender Dichtung / EV avec joint conducteur 
+ EVR 
+EV with backshell connection / EV mit Endg. Anschluss / EV avec montage d'un raccord
+ EVRL 
+EVR with conductive seal / EVR mit leitender Dichtung / EVR avec joint conducteur
+ EO 
+Receptacle with oval flange / ovale Steckdose / Embase ovale
+ M 
+Plug standard / Stecker standard / Mobile standard
+ ML  
+M with conductive seal / M mit leitender Dichtung / M avec joint conducteur 
+ MESV 
+Plug with flange, standard / Stecker mit Flansch, standard / Mobile carré, standard 
+ MESVL MESV with conductive seal / MESV mit leitender Dichtung / MESV avec joint conducteur
+ P 
+Inline receptacle / Kabelverlängerung / Prolongateur
+ 103 
+Serie X331 ( 2 + PE  13A )
+ 193 
+Serie X331 ( 2 + PE  13A )
+ 205 
+Serie X331 ( 4 + PE  13A )
+ 295 
+Serie X331 ( 4 + PE  13A )
+ 303 
+Serie X331 ( 2 + PE  40A ) 
+ 303A 
+Serie X331 ( 2 + PE  25A ) 
+ 303B 
+Serie X331 ( 2 + PE  30A )
+ 405 
+Serie X331 ( 4 + PE  40A ) 
+ 405A 
+Serie X331 ( 4 + PE  25A ) 
+ 405B 
+Serie X331 ( 4 + PE  30A )
+ 408 
+Serie X331 ( 2 ) + ( 1 + PE ) + Quadrax
+ 410 
+Serie X331 ( 2 + PE  40A ) + ( 7 x 10A ) 
+ 410A 
+Serie X331 ( 2 + PE  25A ) + ( 7 x 10A ) 
+ 410B 
+Serie X331 ( 2 + PE  30A ) + ( 7 x 10A )
+ 529 
+Serie X331 ( 3 + PE  13A ) + ( 25 x 10A )
+ 605 
+Serie X331 ( 2 + PE  100A ) + ( 2 x 13A )
+ 635 
+Serie X331
+ 706 
+Serie X331 ( 4 + PE  125A ) + ( 1 x 13A )
+ 003 
+Serie X332 ( 3 x 7,5A )
+ 006 
+Serie X332 ( 6 x 5A )
+ 103 
+Serie X332 ( 3 x 10A )
+ 107 
+Serie X332 ( 7 x 7,5A )
+ 204 
+Serie X332 ( 4 x 25A )
+ 212 
+Serie X332 ( 12 x 7,5A )
+ 319 
+Serie X332 ( 19 x 7,5A )
+ 426 
+Serie X332 ( 26 x 7,5A )
+ 510 
+Serie X332 ( 10 x 7,5A )
+ 517 
+Serie X332 ( 17 x 7,5A )
+ 518 
+Serie X332 ( 18 x 7,5A )
+ 541 
+Serie X332 ( 41 x 7,5A )
+ 6537 
+Serie X332
+ M 
+Contact male / Stiftkontakt / Contact mâle
+ F 
+Contact female / Buchsenkontakt / Contact femelle
+ S 
+Crimp version with machined contacts / Crimp-Ausführung mit gedrehten Kontakten / Version à sertir avec 
+ 
+contacts décoltés
+ Y 
+PCB version with installed machined contacts / PCB-Ausführung mit eingebauten gedrehten Kontakten / 
+ 
+Version à picot avec contacts décoltés installés
+ Z 
+Solder version with installed machined contacts / Löt-Ausführung mit eingebauten gedrehten Kontakten / 
+ 
+Version à souder avec contacts décoltés installés
+ X 
+Without contacts / Ohne Kontakte / Sans contacts
+ W 
+With power contacts (no signal contacts) only for arrangements 408-410-529 / Mit Powerkontakten (ohne  
+ 
+Signalkontakte) nur bei Polbilder 408-410-529 / Avec contacts power uniquement (sans contacts signaux) 
+ 
+pour arrangements 408-410-529
+ / 
+Standard polarization / Standard Kodierung / Polarisation standard
+ 1 
+Polarization / Kodierung / Polarisation
+ 2 
+Polarization / Kodierung / Polarisation
+ 3 
+Polarization / Kodierung / Polarisation
+ 4 
+Polarization / Kodierung / Polarisation
+ -  
+Without red locking label / Ohne rote Kennzeichnung / Sans marquage rouge de vérrouillage
+ A  
+With red locking label / Mit roter Kennzeichnung / Avec marquage rouge de vérrouillage
+
+3
+How to order backshells / Bestellschlüssel Endgehäuse / Référence raccords
+ Ref. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   
+   (X)330     1 
+    P 
+    2
+ 1 
+Aluminium / Aluminium / Aluminium
+ 2 
+Brass / Messing / Laiton 
+ 6 
+Stainless Steel / Edelstahl / Inox
+ Shell size / Gehäusegröße / Taille du boitier 
+ 
+ 
+ 
+ Backshell type / Endgehäusetyp / Type de raccord 
+ 
+ 
+ 
+ Index for cable diameter / Index für Kabeldurchmesser / Index pour section de câble 
+Clamping range of the backshells / Klemmbereiche der Endgehäuse / Plages de serrage des raccords
+Ø Cable/Kabel/Câble [mm] 2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 ...25
+ Size 
+Type 
+Partnum. 
+ Größe 
+Typ 
+Bestelln. 
+ Taille 
+Type 
+Ref.
+P2
+  
+P 
+(X)3300…
+0
+PEM
+  
+PEM 
+(X)3300…
+P1
+P2
+P3
+  
+P 
+(X)3301…
+PES2
+PES1
+  
+PES 
+(X)3301…
+1
+PEM
+  
+PEM 
+(X)3301…
+  
+DS 
+(1)3301…
+DS1
+DS2
+DS3
+P1
+P2
+  
+P 
+(X)3302…
+P3
+  
+P 
+(X)3302…
+2
+PES1
+PES2
+  
+PES 
+(X)3302…
+PEM
+  
+PEM 
+(X)3302…
+DS2
+DS3
+  
+DS 
+(1)3302…
+P1
+P2
+  
+P 
+(X)3303…
+P3
+  
+P 
+(X)3303…
+3
+  
+PES 
+(X)3303…
+PES1
+PEM
+  
+PEM 
+(X)3303…
+P1
+P2
+  
+P 
+(X)3304…
+PES1
+  
+PES 
+(X)3304…
+4
+PEM
+  
+PEM 
+(X)3304…
+  
+DS 
+(1)3304…
+DS0
+DS1
+DS2
+P0
+  
+P 
+(X)3305... 
+5
+  
+PEM 
+(X)3305...
+PEM
+For other cable diameters choose backshell PG or PM and attach a standard cable gland.
+Andere Kabeldurchmesser können mit PG oder PM Endgehäuse und einer Standardkabelverschraubung realisiert werden.
+Pour d'autres sections, utilisez un raccord PG ou PM et un presse-étoupe standard.
+
+4
+Technical characteristics / Technische Beschreibung / Caractéristiques techniques
+Locking system:  
+Push-Pull 
+Temperature range: 
+-40°C to +125°c
+Mating/unmating operations:  
+1000 operations for all shell types (5000 on request - Optional until 100.000)
+IP rating: 
+Up to IP 66/67 (depending on the choice of backshell) 
+Backshell type P: 
+ With complete touch protection. According to DIN EN 61984: 
+Can be used with both 1331 and 1332 connectors.
+Backshell type PEM, DS, CG: 
+Without complete touch protection. According to DIN EN 61984:
+PES, PM, PG 
+ Can be used with connectors serie 1331. 
+Can be used with connectors serie 1332 only with installed isolating transformer  
+and safety extra low voltage (SELV)  
+Shells material*: 
+Aluminium alloy with a nickel plated finish (locking ring: black anodized), brass nickel-
+ 
+plated, stainless steel passivated
+Contacts material*: 
+Copper alloy with nickel barrier layer and gold plating
+Insulator material*: 
+Fiber glass reinforced thermoplast (UL 94-V0, DIN EN 45545-2:2016-02)
+Salt spray: 
+48 hours for Aluminium - 1000 hours for brass and stainless steel
+Vibration: 
+DIN EN 60068-2-6 (VDE0468-2-6):2008-10 / 10-2000 Hz / 10g / 10 cycles per axis
+Shock: 
+DIN EN 60068-2-27 (VDE0468-2-27):2010-02 / 25g / 6ms / 50 bumps per direction
+Standards: 
+DIN EN 61984 Ber 1 (VDE0627 Ber 1):2012-03; UL 1977; Directive 2002/95/EC - RoHs
+Verriegelung: 
+Push-Pull
+Zulässige Umgebungs - 
+temperatur: 
+-40°C bis +125°C
+Steckzyklen: 
+1000 für alle Steckverbinder (5000 auf Anfrage - Optional bis 100.000).
+Schutzart: 
+bis IP 66/67 (abhängig vom Endgehäuse)
+Endgehäuse Typ P: 
+ Gehäuse mit vollem Berührungsschutz. Gemäß DIN EN 61984: 
+Einsetzbar bei Steckern der Serien 1331 und 1332. 
+Endgehäuse Typ PEM, DS, CG: 
+Gehäuse ohne vollen Berührungsschutz. Gemäß DIN EN 61984:
+PES, PM, PG 
+ Einsetzbar bei Steckverbindern der Serie 1331. 
+Einsetzbar bei Steckverbindern der Serie 1332 nur bei vorhandenem Trenntrafo  
+und Schutzkleinspannung (SELV) 
+Werkstoff - Gehäuse*: 
+Aluminium Legierung vernickelt (Verriegelungsring eloxiert), Messing vernickelt, Edelstahl   
+ 
+passiviert
+Werkstoff - Kontakte*: 
+Kupferlegierung vergoldet auf Nickel-Sperrschicht
+Werkstoff – Isolierkörper*: 
+Glasfaserverstärktes Thermoplast (UL 94-V0, DIN EN 45545-2:2016-02)
+Salzsprühtest: 
+48 Stunden für Aluminium - 1000 Stunden für Messing und Edelstahl
+Vibration: 
+DIN EN 60068-2-6 (VDE0468-2-6):2008-10 / 10-2000Hz / 10g / 10 Zyklen pro Achse
+Schock: 
+DIN EN 60068-2-27 (VDE0468-2-27):2010-02 / 25g / 6ms / 50 Shocks pro Richtung
+Normen: 
+DIN EN 61984 Ber 1 (VDE0627 Ber 1):2012-03; UL 1977; Richtlinie 2002/95/EC - RoHs
+Verrouillage: 
+Push-Pull
+Température d’utilisation: 
+-40°C à +125°C
+Cycles d’accouplement : 
+1000 pour tous les boîtiers (5000 sur demande - en option jusqu'à 100.000)
+Étanchéité: 
+Jusqu’à IP 66/67 (en fonction du raccord arrière)
+Raccords type P: 
+ Boîtier entièrement isolé. D’après la norme DIN EN 61984: 
+Approprié pour les connecteurs séries 1331 et 1332. 
+Raccords type PEM, DS. CG: 
+Boîtiers isolés partiellement. D’après la norme DIN EN 61984: 
+PES, PM, PG 
+ Appropriés pour les connecteurs série 1331. 
+Appropriés pour les connecteurs série 1332 uniquement jusqu'à très basse tension de 
+sécurité (SELV)
+Matière – boîtiers*: 
+Alliage d’aluminium nickelé (bague de verrouillage : alliage d’aluminium anodisée), laiton   
+ 
+nickelé, inox passivé
+Matière contacts*: 
+Alliage cuivreux avec dorure sur sous-couche nickel. 
+Matière isolants*: 
+Thermoplastique chargé verre (UL 94-V0, DIN EN 45545-2:2016-02)
+Tenue au brouillard salin: 
+48 heures pour l'aluminium - 1000 heures pour laiton et inox
+Vibrations: 
+DIN EN 60068-2-6 (VDE0468-2-6):2008-10 / 10-2000 Hz / 10g / 10 cycles par axe.
+Chocs: 
+DIN EN 60068-2-27 (VDE0468-2-27):2010-02 / 25g / 6ms / 50 chocs par direction.
+Normes: 
+DIN EN 61984 Ber 1 (VDE0627 Ber 1):2012-03; UL 1977; Directive 2002/95/EC - RoHs
+*RoHS and REACH compliant / RoHS und REACH konform / Certifiés RoHS et REACH 
+
+5
+Generalities / Allgemeines / Généralités
+Circular connector series ECTA 133:
+This connector was especially designed for industrial applications with its rugged design, convenient push-pull  
+operation, wide range of contact sizes and high contact density. It provides an ideal component to use in a wide  
+range of applications: 
+Typical industrial applications such as robotics and laboratory test equipment, the transportation industry (automobile, 
+trucks and railway) and tool interconnection.
+Serie 1331:   power transmission connector (to 125 A rated current) equipped with earth contact linked to the shell - 
+first make/last break. The arrangement 605 (100 A) and 706 (125 A) have additional pilot contacts - last 
+make/first break.
+Serie 1332:   signal transmission connector (25 A) for data or signal as well as power supply for low voltage transmis-
+sion. 
+A fiber optic version is also available (see page 27-28). 
+Possibility of cabled and overmolded connectors for quantity higher than 500 pieces (see page 38).  
+Possibility of specific development (for example: mixed arrangement, specific shells…..) for quantity higher than  
+1000 pieces (on request).
+The connectors series ECTA 133 are designed, produced and certified according to EN 61984.  
+Authoritative for the use of connectors are the respective requirements of the device specifications. 
+EN61984, Connectors – Safety requirements and tests 
+This international standard is valid for connectors with and without breaking capacity for ratings from 50V to 1000V 
+and rated currents up to 125A per contact for which either no type specification exists or which type specification 
+refers to this norm.
+DIN EN 60529 - Degrees of protection provided by enclosures (IP Code) 
+This defines requirements, and checks for the classification in protection classes, so-called IP-Codes. These specify 
+the protection against foreign objects and liquids. The protection class is composed of the two letters IP (Ingress  
+Protection) and 2 digits the first of which defines protection against contact and the second defines protection against 
+invasion of liquids.
+We aim at advancing our products and reserve the right to change measures or technical details. 
+The technical details given in this catalogue refer to connectors without breaking capacity. 
+All details concerning IP-Codes are only valid when using the appropriate ECTA133 backshells.
+These connectors can’t be connected or disconnected under voltage
+Rundsteckverbinder der Serie ECTA 133:
+Die Rundsteckverbinder ECTA 133 sind für den Einsatz in der Industrie, im Labor, sowie im Apparate- und Fahrzeug-
+bau entwickelt. Sie bewähren sich unter harten Betriebs- und Umgebungsbedingungen. Es handelt sich um wasser-
+dichte Steckverbinder mit Push-Pull Schnellverschluss.
+Serie 1331:   Netzstecker (bis 125 A Nennstrom) mit voreilendem und dem Steckergehäuse leitend verbundenem Mas-
+sekontakt. Polbild 605 (100 A) und Polbild 706 (125 A) mit zusätzlichem nacheilenden Pilotkontakt.
+Serie 1332:   Datenübertragungsstecker (25 A) zur Übertragung von Signalen und Daten sowie als Kleinspannungs-
+Versorgungsstecker geeignet.
+Eine LWL-Ausführung ist ebenfalls lieferbar (siehe Seite 27-28). 
+Für Mengen größer 500 Stück, besteht die Möglichkeit umspritzte Steckverbindungen zu fertigen (siehe Seite 38).  
+Für Mengen größer 1000 Stück, ist es möglich Stecker in Sonderausführung (zum Beispiel: Mischpolbild, Gehäuse  
+in Sonderausführung....) zu entwickeln. 
+Die Steckverbinder der Baureihe ECTA 133 werden nach EN 61984 konstruiert, gefertigt und geprüft. Verbindlich für 
+den Einsatz von Steckverbindern sind die jeweiligen Anforderungen der Gerätevorschriften.
+ 
+
+6
+Generalities / Allgemeines / Généralités
+EN 61984, Steckverbinder Sicherheitsanforderungen und Prüfungen 
+Diese internationale Norm gilt für Steckverbinder und Steckvorrichtungen für Bemessungsspannungen von 50V bis 
+1000V und Bemessungsströme bis 125A je Kontakt, für die es entweder keine Bauartspezifikation gibt, oder wenn 
+sich deren Bauartspezifikation hinsichtlich der Sicherheitsanforderungen auf die vorliegende Norm bezieht.
+ 
+DIN EN 60529 - Schutzarten durch Gehäuse (IP-Code) 
+Die internationale Norm entspricht der deutschen Norm VDE 0470-1. Hierin werden die Anforderungen und Prüfungen 
+für die Einteilungen in Schutzarten, sogenannte IP-Codes, festgelegt. Diese beschreiben den Schutz gegen feste 
+Fremdkörper und den Schutz gegen Wasser. Die Schutzart setzt sich immer zusammen aus den beiden Buchstaben 
+IP (Ingress protection) und 2 Ziffern, wobei die erste Ziffer für den Berührungsschutz und die zweite Ziffer für den 
+Schutz gegen das Eindringen von Wasser steht.
+Wir sind bestrebt unsere Produkte weiterzuentwickeln und behalten uns maßliche und technische Änderungen vor. 
+Die in diesem Katalog gemachten technischen Angaben beziehen sich auf Steckverbinder, also Bauteile, die nicht 
+unter Spannung gesteckt oder getrennt werden dürfen. 
+Angaben zu IP Schutzklassen werden nur unter Verwendung der passenden ECTA 133 Endgehäuse garantiert.
+Diese Steckverbinder dürfen betriebsmäßig nicht unter Spannung gesteckt oder getrennt werden.
+Connecteur circulaire série ECTA 133:
+Les connecteurs circulaires ECTA 133 ont été élaborés pour différents secteurs d’activités tels que l’industrie, la roboti-
+que, les laboratoires, les transports, ainsi que tous types d’appareillages pouvant faire appel à la connectique.
+Serie 1331:  connecteurs d’alimentation (jusqu’à 125 A courant nominal) équipés d’un contact de masse avancé relié 
+au boîtier. Les arrangements 605 (100 A) et 706 (125 A) ont également des contacts pilotes. 
+Serie 1332:   connecteurs de transmission de données et de signaux (25 A) ainsi que pour des alimentations de faible 
+puissance.
+Une version fibre optique est également disponible (voir page 27-28). 
+Possibilité de version surmoulée pour des quantités supérieures à 500 pièces  (voir page 38). 
+Pour des quantités supérieures à 1000 pièces, possibilité de développement de connecteurs spécifiques  
+(exemple: arrangement mixte, boîtiers spécifiques…).
+Les connecteurs ECTA répondent à la norme EN61984 . Pour l'utilisation il est nécessaire de se référer aux normes  
+spécifiques d´application. 
+EN61984, norme de sécurité et de test. 
+Cette norme internationale est applicable pour des connecteurs d´une tension d´utilisation de 50V à 1000V et de cou-
+rant par contact allant jusqu´à 125A.
+ 
+DIN EN 60529 - Norme de protection Code IP 
+Cette norme définit le degré de protection selon des codes IP suivis de deux chiffres. 
+Le premier chiffre indique le degré de protection contre les contacts fortuits et la pénétration contre les corps étrangers 
+solides. Le second chiffre indique le degré de protection contre les effets nuisibles dus à la pénétration de l'eau. 
+Cette gamme de produits étant susceptible d´évoluer, cela implique donc que les informations contenues dans ce 
+catalogue ne sont pas contractuelles.
+Les connecteurs présentés dans ce catalogue ne peuvent être accouplés/désaccouplés sous charge.  
+Ils doivent être manœuvrés hors tension. Les caractéristiques techniques présentées se réfèrent à des connecteurs qui 
+ne peuvent pas être accouplés/désaccouplés sous charge.
+Les indices de protection sont uniquement garantis avec le raccord arrière adéquat.
+ 
+Ces connecteurs ne doivent en aucun cas être couplés ou découplés sous tension.
+
+7
+Arrangements / Polbilder / Arrangements
+All figures are valid for machined contacts / Alle Angaben gelten für gedrehte Kontakte / Données valables pour contacts décoltés 
+SERIE 1331
+Power transmission
+Netzstecker
+Alimentation
+Shell size / Contact arrangement
+Gehäusegröße / Polbild
+Taille de boitier / Arrangement
+1-03(*)
+1-93(*)
+2-05(*)
+2-95(*)
+3-03
+3-03A
+3-03B
+Max. current / Contact at 40°C
+Max. Strom / Kontakt bei 40°C
+Intensité max. / Contact à 40°C
+2 + PE 13 A
+2 + PE 13 A
+4 + PE 13 A
+4 + PE 13 A
+2 + PE
+40 A
+2 + PE
+25 A
+2 + PE
+30 A
+Contact type 
+Kontaktanschlussart
+Type de raccordement du contact
+Y - Z
+S - Z
+Y - Z
+S - Z
+S - Y - Z
+Ø Contact [mm] 
+Ø Kontakt [mm]
+Ø Contact [mm]
+2
+1,6
+2
+1,6
+3
+Ø Area [mm]
+Ø Anschlussbereich [mm]
+Ø Zone de connection [mm]
+2,3
+1,6
+2,3
+1,6
+3,3
+2
+2,6
+Wire size [mm²]
+Anschlussquerschnitt [mm²]
+Section admissible [mm²]
+1,5 - 2,5
+0,75 - 1,5
+1,5 - 2,5
+0,75 - 1,5
+6
+2,5
+4
+Conductor length to be stripped [mm]
+Abisolierlänge des Leiters [mm]
+Longueur de dénudage [mm]
+6
+6
+6
+6
+7
+Rated voltage (~/-) / See page 25
+Nennspannung (~/-) / Siehe Seite 25
+Tension nominale (~/-) / Voir page 25
+1000 V
+800 V
+800 V
+800 V
+1000 V
+Rated impulse voltage
+Bemessungsstoßspannung
+Tension de choc mesurée
+4000 V
+4000 V
+4000 V
+4000 V
+4000 V
+133009__
+Replacement crimp contacts
+Ersatzcrimpkontakt
+Contact de sertissage substitut
+-
+1330 16F
+1330 16M
+-
+1330 16F
+1330 16M
+F
+M
+F1
+M1
+F2
+M2
+133009__
+Replacement mass contact
+Ersatzmassekontakt
+Contact masse substitut
+-
+1330 16F
+1330 16M
+-
+1330 16F
+1330 16M
+FM
+MM
+FM1
+MM1
+FM2
+MM2
+Stamped/rolled contacts
+Gestanzt-gerollte Kontakte
+Contacts découpés roulés
+-
+-
+-
+-
+-
+-
+-
+Insert / extraction tool
+Ein-/ Ausbauwerkzeug
+Outil d'extraction
+-
+1330 OD 16
+-
+1330 OD 16
+1330 OU 10
+Crimp plier
+Crimpzange
+Pince de sertissage
+-
+1330 OP 01
+-
+1330 OP 01
+1330 OP 02
+Positioner
+Crimpaufsatz
+Jeu de mors
+-
+1330 OS 01
+-
+1330 OS 01
+1330
+OS16
+1330
+OS17
+1330
+OS18
+(*) Arrangement 1-03 and 1-93 as well as 2-05 and 2-95 are not compatible
+(*) Polbild 1-03 und 1-93, sowie 2-05 und 2-95 sind nicht steckkompatibel
+(*) Arrangements 1-03 et 1-93, 2-05 et 2-95 non intermariables
+Note / Hinweis / Remarque: 
+For drilling plans (for PCB-Version), please look at our website: www.amphenol-airlb.de
+Bohrpläne (für PCB-Version) finden Sie auf unserer Homepage: www.amphenol-airlb.de
+Plans de perçage (pour version PCB) disponibles sur notre site: www.amphenol-airlb.de. 
+
+8
+Arrangements / Polbilder / Arrangements
+All figures are valid for machined contacts / Alle Angaben gelten für gedrehte Kontakte / Données valables pour contacts décoltés 
+SERIE 1331
+Power transmission
+Netzstecker
+Alimentation
+Shell size / Contact arrangement
+Gehäusegröße / Polbild
+Taille de boitier / Arrangement
+4-05
+4-05A
+4-05B
+4-08(3)
+4-10(4)
+4-10A
+4-10B
+5-29
+4+ PE 
+40A
+4+ PE 
+25A
+4+ PE 
+30A
+2 + PE
+30A
+3 + PE 13A
+25 x 10A
+Max. current / Contact at 40°C
+Max. Strom / Kontakt bei 40°C
+Intensité max. / Contact à 40°C
+2 + PE 
+40A 
+7x7,5A
+2 + PE
+25A
+7x7,5A
+2 + PE 
+30A 
+7x7,5A
+Contact type 
+Kontaktanschlussart
+Type de raccordement du contact
+S - Y - Z
+S
+S
+S
+3 x 3
+7 x 1
+4 x 1,6
+25 x 1
+Ø Contact [mm]
+Ø Kontakt [mm]
+Ø Contact [mm]
+5 x 3
+3 x 3
+4 x 1
+1 x Quadrax
+Ø Area [mm]
+Ø Anschlussbereich [mm]
+Ø Zone de connection [mm]
+3,3
+2
+2,6
+2,6
+3,3
+2
+2,6
+1,6
+1,1
+1,1
+1,1
+Wire size [mm²]
+Anschlussquerschnitt [mm²]
+Section admissible [mm²]
+6
+2,5
+4
+4
+6
+2,5
+4
+1,5
+0,25 - 1
+0,25 - 1
+0,25 - 1
+Conductor length to be stripped [mm]
+Abisolierlänge des Leiters [mm]
+Longueur de dénudage [mm]
+7,5
+3 x 7,5
+4 x 4
+3 x 7,5
+7 x 4
+4 x 6
+25 x 4
+Rated voltage (~/-) / See page 25
+Nennspannung (~/-) / Siehe Seite 25
+Tension nominale (~/-) / Voir page 25
+1000 V
+2 x 1000 V
+4 x 630 V
+2 x 1000 V
+7 x 630 V
+3 x 800 V
+25 x 630 V
+Rated impulse voltage
+Bemessungsstoßspannung
+Tension de choc mesurée
+4000 V
+4000 V
+2500 V
+4000 V
+2500 V
+4000 V
+2500 V
+Replacement crimp contact
+Ersatzcrimpkontakt
+Contact de sertissage substitut
+133009__
+133009__
+133009__
+1330 16 F
+1330 16 M
+F
+M
+F1
+M1
+F2
+M2
+F2
+M2
+F
+M
+F1
+M1
+F2
+M2
+5440 020 M
+Replacement signal contact
+Ersatzsignalkontakt
+Contact signal substitut
+-
+5440 020 F
+5440 020 M
+5440 020 F
+Replacement mass contact
+Ersatzmassekontakt
+Contact masse substitut
+133009__
+133009__
+133009__
+1330 16 F
+1330 16 M
+FM
+MM
+FM1
+MM1
+FM2
+MM2
+FM2
+MM2
+FM
+MM
+FM1
+MM1
+FM2
+MM2
+Stamped rolled contacts (1)(2)
+Gestanzt-gerollte Kontakte (1)(2)
+Contacts découpés-roulés (1)(2)
+-
+-
+-
+1330 20 FR100
+1330 20 MR100
+1330 20 FR100
+1330 20 MR100
+Reel of 10.000pcs
+Insert / extraction tool
+Ein-/ Ausbauwerkzeug
+Outil d'extraction
+1330 OU 10
+1330 OD 20S
+1330 OU 10
+1330 OD 20S
+1330 OU 10
+1330 OD 20S
+1330 OD 16
+Crimp plier
+Crimpzange
+Pince de sertissage
+1330 OP 02
+1330 OP 02
+1330 OP 02
+1330 OP 01
+1330
+OS16
+1330
+OS17
+1330
+OS18
+1330
+OS18
+1330
+OS16
+1330
+OS17
+1330
+OS18
+1330 OS 01
+Positioner
+Crimpaufsatz
+Jeu de mors
+Crimp plier for signal contacts
+Crimpzange für Signalkontakte
+Pince de sertissage pour c. de sign.
+-
+-
+-
+5440 OP 04
+5440 OP 04
+Positioner for signal contacts
+Crimpaufsatz für Signalkontakte
+Jeu de mors pour contacts signaux
+-
+-
+-
+5440 OS 15
+5440 OS 15
+(1) Stamped rolled contacts for 408-410-529 : The plug must be ordered in version W and signal contacts must be ordered separatly. 
+Gestanzt-gerollte Kontakte für 408-410-529 : Stecker in Ausführung W bestellen und Signalkontakte getrennt bestellen. 
+Contacts découpés-roulés pour 408-410-529 : Le connecteur doit être commandé en version W et les contacts signaux doivent être commandés 
+séparément.
+(2) For max. 5A / Für max. 5A / Pour max. 5A
+(3) Crimping tool coax / Crimpwerkzeug Coax / Outil de sertissage coax: 1330 OP 11
+(4) The power contact cannot be removed after cabling / Der Power-Kontakt ist nach der Verkabelung nicht mehr ausbaubar / Le contact power n'est 
+plus démontable après le câblage
+
+9
+Arrangements / Polbilder / Arrangements
+All figures are valid for machined contacts / Alle Angaben gelten für gedrehte Kontakte / Données valables pour contacts décoltés 
+SERIE 1331
+Power transmission
+Netzstecker
+Alimentation
+Shell size / Contact arrangement
+Gehäusegröße / Polbild
+Taille de boitier / Arrangement
+6-05
+6-35
+7-06
+2 + PE 100A
+2 x 13A
+4 + PE 13A
+30 x 7,5A
+4 + PE 125A
+1 x 13A
+Max. current / Contact at 40°C
+Max. Strom / Kontakt bei 40°C
+Intensité max. / Contact à 40°C
+Contact type 
+Kontaktanschlussart
+Type de raccordement du contact
+S
+S
+S
+3 x 7
+2 x 1,6
+30 x 1
+5 x 1,6
+5 x 7,2
+1 x 1,6
+Ø Contact [mm]
+Ø Kontakt [mm]
+Ø Contact [mm]
+6,3
+1,6
+1,6
+7,2
+1,6
+Ø Area [mm]
+Ø Anschlussbereich [mm]
+Ø Zone de connection [mm]
+3 x 16
+2 x 0,75 - 1,5
+5 x 0,75 - 1,5
+30 x 0,25 - 1,0
+5 x 25
+1 x 0,75 - 1,5
+Wire size [mm²]
+Anschlussquerschnitt [mm²]
+Section admissible [mm²]
+3 x 12
+2 x 6
+5 x 6
+30 x 4
+5 x 16
+1 x 6
+Conductor length to be stripped [mm]
+Abisolierlänge des Leiters [mm]
+Longueur de dénudage [mm]
+Rated voltage (~/-) / See page 25
+Nennspannung (~/-) / Siehe Seite 25
+Tension nominale (~/-) / Voir page 25
+1000 V
+4 x 1000 V
+30 x 630 V
+1000 V
+Rated impulse voltage
+Bemessungsstoßspannung
+Tension de choc mesurée
+4000 V
+4000 V
+2500 V
+4000 V
+1330 16 F
+1330 16 M
+1330 16 F
+1330 16 M
+1330 16 F
+1330 16 M
+Replacement signal contact
+Ersatzsignalkontakt
+Contact signal substitut
+1330 05 F
+1330 05 M
+5440 20 F 
+5440 20 M
+1330 02 F
+1330 02 M
+Replacement crimp contact
+Ersatzcrimpkontakt
+Contact de sertissage substitut
+1330 05 F
+1330 05 M
+1330 16 F
+1330 16 M
+1330 02 F
+1330 02 M
+Replacement mass contact
+Ersatzmassekontakt
+Contact masse substitu
+-
+Stamped rolled contacts (1)
+Gestanzt-gerollte Kontakte (1)
+Contacts découpés-roulés (1)
+-
+1330 20 FR100
+1330 20 MR100
+for signal contact / für Signalkon-
+takt / Pour contact signal
+Insert / extraction tool
+Ein-/ Ausbauwerkzeug
+Outil d'extraction
+1330 OD 16
+1330 OD 20 S
+1330 OD 16
+1330 OD 16
+Crimp plier
+Crimpzange
+Pince de sertissage
+1330 OP 03
+1330 OP 01
+1330 OP 03
+Positioner
+Crimpaufsatz
+Jeu de mors
+1330 OS 03
+1330 OS 01
+1330 OS 04
+Crimp plier for signal contacts
+Crimpzange für Signalkontakte
+Pince de sertissage pour c. de sign.
+1330 OP 01
+1330 OP 01
+1330 OP 01
+Positioner for signal contacts
+Crimpaufsatz für Signalkontakte
+Jeu de mors pour contacts signaux
+1330 OS 01
+1330 OS 01
+1330 OS 01
+(1) Stamped rolled contacts for 635 : The plug must be ordered in version W and signal contacts must be ordered separatly.
+Gestanzt-gerollte Kontakte für 635: Stecker in Ausführung W bestellen und Signalkontakte getrennt bestellen.
+Contacts découpés-roulés pour 635: Le connecteur doit être commandé en version W et les contacts signaux doivent être commandés séparé-
+ment.
+
+10
+Arrangements / Polbilder / Arrangements
+All figures are valid for machined contacts / Alle Angaben gelten für gedrehte Kontakte / Données valables pour contacts décoltés 
+SERIE 1332
+Signal transmission
+Datenübertragung
+Signal
+Shell size / Contact arrangement
+Gehäusegröße / Polbild
+Taille de boitier / Arrangement
+0-03
+0-06
+1-03
+1-07
+2-04
+2-12
+Max. current / Contact at 40°C
+Max. Strom / Kontakt bei 40°C
+Intensité max. / Contact à 40°C
+3 x 7,5 A
+6 x 5 A
+3 x 13 A
+7 x 7,5 A
+4 x 25 A
+12 x 7,5 A
+Contact type 
+Kontaktanschlussart
+Type de raccordement du contact
+S - Y - Z
+S - Y
+Y - Z
+S - Y - Z
+S - Z
+S - Y - Z
+Ø Contact [mm]
+Ø Kontakt [mm]
+Ø Contact [mm]
+1,3
+0,8
+2
+1,3
+3
+1,3
+Ø Area [mm]
+Ø Anschlussbereich [mm]
+Ø Zone de connection [mm]
+1,3
+0,8
+2,1
+1,3
+2,5
+1,2
+Wire size [mm²]
+Anschlussquerschnitt [mm²]
+Section admissible [mm²]
+0,34 - 1
+0,10 - 0,34
+2,5
+0,34 - 1
+4
+0,34 - 1
+Conductor length to be stripped [mm]
+Abisolierlänge des Leiters [mm]
+Longueur de dénudage [mm]
+4
+3,5
+5
+4
+6,5
+4
+Rated voltage (~/-) / See page 25
+Nennspannung (~/-) / Siehe Seite 25
+Tension nominale (~/-) / Voir page 25
+250 V
+200 V
+400 V
+320 V
+400 V
+320 V
+Rated impulse voltage
+Bemessungsstoßspannung
+Tension de choc mesurée
+1500 V
+800 V
+1500 V
+1500 V
+1500 V
+1500 V
+1330 20 F
+1330 20 M
+1330 22 F
+1330 22 M
+-
+1330 20 F
+1330 20 M
+1330 11 F
+1330 11 M
+1330 20 F
+1330 20 M
+Replacement crimp contact
+Ersatzcrimpkontakt
+Contact de sertissage substitut
+Stamped/rolled contacts possible
+Gestanzt-gerollte Kontakte möglich
+Contacts découpés roulés possibles
+-
+-
+-
+-
+-
+-
+Insert / extraction tool
+Ein-/ Ausbauwerkzeug
+Outil d'extraction
+1330 OD 20
+1330 OD 22
+-
+1330 OD 20
+1330 OU 14
+1330 OD 20
+Crimp plier
+Crimpzange
+Pince de sertissage
+1330 OP 01
+1330 OP 04
+-
+1330 OP 01
+1330 OP 02
+1330 OP 01
+Positioner
+Crimpaufsatz
+Jeu de mors
+1330 OS 01
+M: 1330 OS 14
+F. 1330 OS 13
+-
+1330 OS 01
+1330 OS 11
+1330 OS 01
+Thermocontact possible (1)
+Thermokontakt möglich (1)
+Thermocontact possible (1)
+4
+-
+-
+4
+-
+4
+For 100.000 mating cycles (1)
+Für 100.000 Steckzyklen (1)
+Pour 100.000 cycles de manoeuvre (1)
+4
+4
+-
+4
+-
+4
+(1) See page 26 / Siehe Seite 26 / Voir page 26
+
+11
+Arrangements / Polbilder / Arrangements
+All figures are valid for machined contacts / Alle Angaben gelten für gedrehte Kontakte / Données valables pour contacts décoltés 
+SERIE 1332
+Signal transmission
+Datenübertragung
+Signal
+Shell size / Contact arrangement
+Gehäusegröße / Polbild
+Taille de boitier / Arrangement
+3-19
+4-26
+5-10
+5-17
+Max. current / Contact at 40°C
+Max. Strom / Kontakt bei 40°C
+Intensité max. / Contact à 40°C
+19 x 7,5 A
+26 x 7,5 A
+10 x 7,5 A
+17 x 7,5 A
+Contact type 
+Kontaktanschlussart
+Type de raccordement du contact
+S - Y - Z
+S - Y - Z
+S - Y
+S - Y
+Ø Contact [mm]
+Ø Kontakt [mm]
+Ø Contact [mm]
+1,3
+1,3
+1,0
+1,0
+Ø Area [mm]
+Ø Anschlussbereich [mm]
+Ø Zone de connection [mm]
+1,2
+1,2
+1,2
+1,2
+Wire size [mm²]
+Anschlussquerschnitt [mm²]
+Section admissible [mm²]
+0,34 - 1
+0,34 - 1
+0,25 - 1
+0,25 - 1
+Conductor length to be stripped [mm]
+Abisolierlänge des Leiters [mm]
+Longueur de dénudage [mm]
+4
+4
+4
+4
+Rated voltage (~/-) / See page 25
+Nennspannung (~/-) / Siehe Seite 25
+Tension nominale (~/-) / Voir page 25
+250 V
+250 V
+250 V
+250 V
+Rated impulse voltage
+Bemessungsstoßspannung
+Tension de choc mesurée
+800 V
+800 V
+1500 V
+1500 V
+1330 20 F
+1330 20 M
+1330 20 F
+1330 20 M
+5440 020 F
+5440 020 M
+5440 020 F
+5440 020 M
+Replacement crimp contact
+Ersatzcrimpkontakt
+Contact de sertissage substitut
+Stamped rolled contacts possible (1)
+Gestanzt-gerollte Kontakte möglich (1)
+Contacts découpés-roulés possibles(1)
+-
+-
+1330 20 FR100
+1330 20 MR100
+1330 20 FR100
+1330 20 MR100
+Insert / extraction tool
+Ein-/ Ausbauwerkzeug
+Outil d'extraction
+1330 OD 20
+1330 OD 20
+1330 OD 20S
+1330 OD 20S
+Crimp plier
+Crimpzange
+Pince de sertissage
+1330 OP 01
+1330 OP 01
+1330 OP 01
+5440 OP 04
+Positioner
+Crimpaufsatz
+Jeu de mors
+1330 OS 01
+1330 OS 01
+1330 OS 01
+5440 OS 15
+(M22520/1-02)
+Thermocontact possible (2)
+Thermokontakt möglich (2)
+Thermocontact possible (2)
+4
+4
+-
+-
+For 100.000 mating cycles (2)
+Für 100.000 Steckzyklen (2)
+Pour 100.000 cycles de manoeuvre (2)
+4
+4
+4
+4
+(1) Stamped rolled contacts for 510 - 517 : The plug must be ordered in version W and signal contacts must be ordered separatly.
+Gestanzt-gerollte Kontakte für 510 - 517: Stecker in Ausführung W bestellen und Signalkontakte getrennt bestellen.
+Contacts découpés-roulés pour 510 - 517: Le connecteur doit être commandé en version W et les contacts signaux doivent être commandés  
+séparément.
+(2) See page 26 / Siehe Seite 26 / Voir page 26
+
+12
+Arrangements / Polbilder / Arrangements
+All figures are valid for machined contacts / Alle Angaben gelten für gedrehte Kontakte / Données valables pour contacts décoltés 
+SERIE 1332
+Signal transmission
+Datenübertragung
+Signal
+Shell size / Contact arrangement
+Gehäusegröße / Polbild
+Taille de boitier / Arrangement
+5-18
+5-41
+65-37
+Max. current / Contact at 40°C
+Max. Strom / Kontakt bei 40°C
+Intensité max. / Contact à 40°C
+18 x 7,5 A
+41 x 7,5 A
+37 x 10 A
+Contact type 
+Kontaktanschlussart
+Type de raccordement du contact
+S - Y
+S - Y
+S
+Ø Contact [mm]
+Ø Kontakt [mm]
+Ø Contact [mm]
+1,0
+1,0
+37 x 1,6
+Ø Area [mm]
+Ø Anschlussbereich [mm]
+Ø Zone de connection [mm]
+1,2
+1,2
+1,6
+Wire size [mm²]
+Anschlussquerschnitt [mm²]
+Section admissible [mm²]
+0,25 - 1
+0,25 - 1
+0,75 - 1,5
+Conductor length to be stripped [mm]
+Abisolierlänge des Leiters [mm]
+Longueur de dénudage [mm]
+4
+4
+6
+Rated voltage (~/-) / See page 25
+Nennspannung (~/-) / Siehe Seite 25
+Tension nominale (~/-) / Voir page 25
+250 V
+250 V
+320 V
+Rated impulse voltage
+Bemessungsstoßspannung
+Tension de choc mesurée
+1500 V
+1500 V
+1500 V
+5440 020 F
+5440 020 M
+5440 020 F
+5440 020 M
+1330 16F
+1330 16M
+Replacement crimp contact
+Ersatzcrimpkontakt
+Contact de sertissage substitut
+1330 20 FR100
+1330 20 MR100
+-
+Stamped rolled contacts (1)(2)
+Gestanzt-gerollte Kontakte (1)(2)
+Contacts découpés-roulés (1)(2)
+Insert / extraction tool
+Ein-/ Ausbauwerkzeug
+Outil d'extraction
+1330 OD 20S
+1330 OD 20S
+1330 OD 16
+Crimp plier
+Crimpzange
+Pince de sertissage
+5440 OP 04
+5440 OP 04
+1330 OP 01 
+Positioner
+Crimpaufsatz
+Jeu de mors
+5440 OS 15
+5440 OS 15
+1330 OS 01
+Thermocontact possible
+Thermokontakt möglich
+Thermocontact possible
+-
+-
+-
+For high mating cycles
+Für hohe Steckzyklen
+Pour des cycles de manoeuvre élevés
+4
+4
+-
+(1) Stamped rolled contacts for 518 - 541 : The plug must be ordered in version W and signal contacts must be ordered separatly.
+Gestanzt-gerollte Kontakte für 518 - 541: Stecker in Ausführung W bestellen und Signalkontakte getrennt bestellen.
+Contacts découpés-roulés pour 518 - 541: Le connecteur doit être commandé en version W et les contacts signaux doivent être commandés  
+séparément.
+(2) See page 26 / Siehe Seite 26 / Voir page 26
+
+13
+Shells / Gehäuse / Boitiers
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+M*/ ML* 
+(ML with conductive silicone seal / ML mit leitender Silikon-
+dichtung / ML avec joint conducteur en silicone) 
+Plug
+Stecker
+Mobile
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+65
+7
+Ø J
+17
+22
+26
+29
+32,5
+37,5
+54
+57
+67
+Ø K
+15
+20
+24
+26
+30,5
+36
+49,8
+53
+56,2
+L
+29
+29
+29
+30
+30
+32
+49,5
+63,3
+76
+Attenuation Curve: see page 24 / Dämpfungskennlinie: siehe Seite 24 / Courbe d’atténuation: voir page 24
+MESV / MESVL 
+(MESVL with conductive silicone seal / MESVL mit leitender Silikon-
+dichtung / MESVL avec joint conducteur en silicone)
+Plug with flange for front panel mounting
+Stecker mit Vierkantflansch für Vorderwandmontage
+Mobile carré pour montage face avant 
+Mates with inline receptacle P / Steckbar mit Kabelsteckdose P / Peut-être assemblé avec un prolongateur P
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+7
+Ø A
+-
+-
+-
+-
+28
+31,4
+-
+-
+B
+-
+-
+-
+-
+37
+37
+-
+-
+Ø C
+-
+-
+-
+-
+3,5
+3,5*
+-
+-
+D
+-
+-
+-
+-
+29
+29
+-
+-
+L
+-
+-
+-
+-
+29
+29
+-
+-
+*Bevelled screw / *Senkschraube / *Vis Chanfreinée
+Attenuation Curve: see page 24 / Dämpfungskennlinie: siehe Seite 24 / Courbe d’atténuation: voir page 24
+E 
+Receptacle with flange
+Flanschsteckdose
+Embase
+Front & back panel mounting (Wall thickness, see measures H)
+Vorderwand- und Hinterwandmontage (Wandstärke, siehe Maß H)
+Montage face avant et face arrière (Épaisseur de paroi, voir ligne H).  
+Shell/Gehäuse/
+Boitier
+0
+1
+2
+3(°)
+3
+4(°)
+4
+5
+6
+65
+7
+A
+12,7
+18
+21
+23
+23
+24,8
+24,8
+29
+38
+41
+47-49
+B
+18
+24
+27
+29
+29
+31
+31
+37
+47
+53
+62
+Ø C
+3,2
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+4,5
+4,5
+5,5
+D (max.)
+8,6
+13,2
+13,2
+6,5
+15
+7,5
+15
+13,5
+20
+40
+40
+F
+4,8
+5,6
+5,6
+5,1
+10,8
+5,1
+10,8
+8,4
+20
+40
+40
+G
+1,5
+1,6
+1,6
+1,5
+1,5
+1,5
+1,5
+2,7
+2,5
+4
+4
+H (max.)
+3
+3
+3
+3
+3
+3
+3
+3
+5,5
+11,8
+11,8
+Ø K
+12,5
+18,5
+23,5
+23,5
+23,5
+26,5
+26,5
+32
+42,5
+54,5
+54,5
+L
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+26
+35
+35
+(°) Receptacle used only for serie 1332 in solder version / Wird nur für Baureihe 1332 in Lötausführung benutzt / Utilisée uniquement pour la 
+série 1332 en version à souder.
+* For the shells ER, EVR/EVRL, M, and P the assembly of a backshell is necessary to hold the insulator in position. 
+* Bei den Gehäusen ER, EVR/EVRL, M und P ist die Montage eines Endgehäuses erforderlich um den Isolierkörper festzuhalten. 
+* Pour les boitiers ER, EVR/EVRL, M et P le montage d’un raccord est nécessaire pour le maintien de l’isolant. 
+
+14
+Shells / Gehäuse / Boitiers
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+EO
+Receptacle with oval flange
+Steckdose mit ovalem Flansch
+Embase ovale
+Front & back panel mounting (Wall thickness, see measures H
+Vorderwand- und Hinterwandmontage (Wandstärke, siehe Maß H)
+Montage face avant et face arrière (Épaisseur de paroi, voir ligne H).
+Other sizes upon request / andere Größen auf Anfrage / autres dimensions sur demande
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+7
+L
+-
+-
+27
+27
+-
+-
+-
+-
+L1
+-
+-
+26
+23
+-
+-
+-
+-
+L2
+-
+-
+20
+23
+-
+-
+-
+-
+L3
+-
+-
+13
+14
+-
+-
+-
+-
+L4
+-
+-
+2
+2
+-
+-
+-
+-
+Ø A
+-
+-
+18
+19
+-
+-
+-
+-
+Ø B
+-
+-
+23
+23
+-
+-
+-
+-
+Ø C
+-
+-
+4,5
+4,5
+-
+-
+-
+-
+H (max.)
+-
+-
+2,5
+3
+-
+-
+-
+-
+ER*
+Receptacle with flange and thread for backshell assembly 
+Flanschsteckdose mit Gewinde zur Montage eines Endgehäuses
+Embase permettant le montage d’un raccord
+Front & back panel mounting (Wall thickness, see measures H)
+Vorderwand- und Hinterwandmontage (Wandstärke, siehe Maß H)
+Montage face avant et face arrière (Épaisseur de paroi, voir ligne H)
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+7
+A
+16
+18
+21
+23
+24,8
+-
+38
+47-49
+B
+22
+24
+27
+29
+31
+-
+47
+62
+Ø C
+3,2
+3,5
+3,5
+3,5
+3,5
+-
+4,5
+5,5
+D
+16,5
+13,8
+13,8
+16,5
+16,5
+-
+15
+40
+G
+1,5
+1,5
+1,5
+1,5
+1,5
+-
+2,5
+4
+H (max.)
+2,4
+3,4
+3,4
+3,4
+3,4
+-
+5,5
+11,8
+Ø K
+15,1
+20
+24
+26
+30,5
+-
+42,5
+54,5
+L
+10,1
+10,1
+10,1
+10,1
+10,1
+-
+26
+35
+* For the shells ER, EVR/EVRL, M, and P the assembly of a backshell is necessary to hold the insulator in position. 
+* Bei den Gehäusen ER, EVR/EVRL, M und P ist die Montage eines Endgehäuses erforderlich um den Isolierkörper festzuhalten. 
+* Pour les boitiers ER, EVR/EVRL, M et P le montage d’un raccord est nécessaire pour le maintien de l’isolant. 
+
+15
+Shells / Gehäuse / Boitiers
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+EV / EVL 
+(EVL with conductive silicone O-Ring seal / 
+EVL mit leitender Silikon-O-Ring Dichtung / 
+EVL avec joint torique conducteur en silicone)
+Receptacle for back panel single hole fixing  
+(fixing with nut and with O-Ring seal)
+Steckdose für Hinterwand- Einlochbefestigung  
+(mit Gegenmutter und O-Ring Dichtung)
+Embase monotrou (fixation avec écrou 
+pour montage face arrière et joint torique)
+(Wall thickness, see measures C / Wandstärke, siehe Maß C / Épaisseur de paroi, voir ligne C)
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+7
+A
+24
+24
+24
+-
+29,7
+-
+-
+-
+B
+3,5
+3,5
+3,5
+-
+3,5
+-
+-
+-
+D
+4
+4
+4
+-
+4
+-
+-
+-
+F
+21
+24
+30
+-
+34
+-
+-
+-
+Ø G
+24,5
+27,5
+33,5
+-
+37,5
+-
+-
+-
+H
+19
+22
+26
+-
+32
+-
+-
+-
+J
+13,5
+16,5
+20,5
+-
+24,5
+-
+-
+-
+Ø K
+14
+17
+21
+-
+25
+-
+-
+-
+L
+10,5
+10,5
+10,5
+-
+10,5
+-
+-
+-
+C (max.)
+6
+6
+6
+-
+11,7
+-
+-
+-
+EVR* / EVRL*
+(EVRL with conductive silicone O-Ring seal / 
+EVRL mit leitender Silikon-O-Ring Dichtung / 
+EVRL avec joint torique conducteur en silicone)
+Receptacle for back panel single hole fixing with  
+flange and thread for backshell assembly
+Steckdose für Hinterwand- Einlochbefestigung  
+mit Gewinde zur Montage eines Endgehäuses 
+Embase (fixation avec écrou pour montage face arrière) 
+permettant le montage d'un raccord
+(Wall thickness, see measures C / Wandstärke, siehe Maß C / Épaisseur de paroi, voir ligne C)
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+7
+A
+-
+28,8
+28,8
+31,5
+38,1
+33,4
+-
+-
+B
+-
+3,5
+3,5
+3,5
+3,5
+3,5
+-
+-
+D
+-
+4
+4
+4
+4
+4
+-
+-
+F
+-
+26
+30
+34
+36
+42
+-
+-
+Ø G
+-
+28
+33,5
+38
+38
+44
+-
+-
+H 
+-
+22
+26
+32
+32
+40
+-
+-
+J
+-
+17,5
+21,5
+23,5
+27
+34
+-
+-
+Ø K 
+-
+18
+22
+24
+27,5
+35
+-
+-
+L
+-
+10,5
+10,5
+10,5
+10,5
+10,5
+-
+-
+M
+-
+8,3
+8,3
+8
+11,1
+9,9
+-
+-
+C (max.)
+-
+6
+6
+9
+12,5
+9
+-
+-
+* For the shells ER, EVR/EVRL, M, and P the assembly of a backshell is necessary to hold the insulator in position. 
+* Bei den Gehäusen ER, EVR/EVRL, M und P ist die Montage eines Endgehäuses erforderlich um den Isolierkörper festzuhalten. 
+* Pour les boitiers ER, EVR/EVRL, M et P le montage d’un raccord est nécessaire pour le maintien de l’isolant. 
+
+16
+Shells / Gehäuse / Boitiers
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+P*
+Cable receptacle
+Kabelverlängerung
+Prolongateur
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+7
+Ø K
+15
+20
+24
+26
+30,5
+36
+-
+-
+L
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+-
+-
+M
+20
+18,3
+18,3
+21
+21
+21,8
+-
+-
+EC 
+Receptacle with angular shell
+Flanschsteckdose 90°
+Embase coudée 90°
+Only in Aluminium / nur in Aluminium / uniquement en aluminium
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+7
+A
+-
+-
+64
+60,7
+-
+-
+-
+-
+B
+-
+-
+29
+29
+-
+-
+-
+-
+C
+-
+-
+2
+2
+-
+-
+-
+-
+D
+-
+-
+36
+32,7
+-
+-
+-
+-
+E
+-
+-
+27
+27
+-
+-
+-
+-
+F
+-
+-
+15
+15
+-
+-
+-
+-
+H
+-
+-
+5
+5
+-
+-
+-
+-
+I
+-
+-
+7,5
+7,5
+-
+-
+-
+-
+J
+-
+-
+14,5
+14,5
+-
+-
+-
+-
+K
+-
+-
+23
+23
+-
+-
+-
+-
+L
+-
+-
+29
+29
+-
+-
+-
+-
+M
+-
+-
+15,5
+15,5
+-
+-
+-
+-
+Other sizes upon request / andere Größen auf Anfrage / autres dimensions sur demande
+* For the shells ER, EVR/EVRL, M, and P the assembly of a backshell is necessary to hold the insulator in position. 
+* Bei den Gehäusen ER, EVR/EVRL, M und P ist die Montage eines Endgehäuses erforderlich um den Isolierkörper festzuhalten. 
+* Pour les boitiers ER, EVR/EVRL, M et P le montage d’un raccord est nécessaire pour le maintien de l’isolant. 
+
+17
+Bulkhead / Schottdurchführungen / Traversée de cloison 
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+Bulkhead for back panel single hole fixing (fixing with nut and with O-Ring seal) for pressure differentials up to 5 bar.
+Schottdurchführung für Hinterwand- Einlochbefestigung (mit Gegenmutter und O-Ring Dichtung) für Anwendungen bis 5 Bar Druck-
+differenzen.
+Traversée de cloison (fixation avec écrou pour montage face arrière et joint torique) pour des différentiels de pression jusqu’ à 5 bar.
+fS.2  
+S.1g
+(Wall thickness, see measures E / Wandstärke, siehe Maß E / Épaisseur de paroi, voir ligne E)
+Ref.
+Arrangement
+Polbild
+Arrangement
+S.1
+S.2
+A
+B
+C
+D
+F
+G
+H
+E
+(max.)
+(X)331 EE 103 FM
+1-03
+F
+M
+40
+3,5
+10,5
+4
+26
+29
+M 21 x 1
+11,5
+(X)331 EE 103 MF
+M
+F
+(X)331 EE 205 FM
+2-05
+F
+M
+40
+3,5
+10,5
+4
+32
+36
+M 25 x 1
+11,5
+(X)331 EE 205 MF
+M
+F
+(X)331 EE 303 FM
+3-03
+F
+M
+40
+3,5
+10,5
+4
+38
+40
+M 29 x 1
+11,5
+(X)331 EE 303 MF
+M
+F
+(X)331 EE 405 FM
+4-05
+F
+M
+40
+3,5
+10,5
+4
+46
+50
+M 36 x 1
+11,5
+(X)331 EE 405 MF
+M
+F
+(X)331 EE 529 FM
+5-29
+F
+M
+40
+3,5
+10,5
+4
+50
+55
+M 40 x 1
+11,5
+(X)331 EE 529 MF
+M
+F
+(X)332 EE 003 FM
+0-03
+F
+M
+40
+3,5
+10,5
+4
+22
+24
+M 17 x 1
+11,5
+(X)332 EE 003 MF
+M
+F
+(X)332 EE 107 FM
+1-07
+F
+M
+40
+3,5
+10,5
+4
+26
+29
+M 21 x 1
+11,5
+(X)332 EE 107 MF
+M
+F
+(X)332 EE 212 FM
+2-12
+F
+M
+40
+3,5
+10,5
+4
+32
+36
+M 25 x 1
+11,5
+(X)332 EE 212 MF
+M
+F
+(X)332 EE 319 FM
+3-19
+F
+M
+40
+3,5
+10,5
+4
+38
+40
+M 29 x 1
+11,5
+(X)332 EE 319 MF
+M
+F
+(X)332 EE 426 FM
+4-26
+F
+M
+40
+3,5
+10,5
+4
+46
+50
+M 36 x 1
+11,5
+(X)332 EE 426 MF
+M
+F
+(X)332 EE 541 FM
+5-41
+F
+M
+40
+3,5
+10,5
+4
+50
+55
+M 40 x 1
+11,5
+(X)332 EE 541 MF
+M
+F
+(X)332 EE 510 FM
+5-10
+F
+M
+40
+3,5
+10,5
+4
+50
+55
+M 40 x 1
+11,5
+(X)332 EE 510 MF
+M
+F
+(X)332 EE 518 FM
+5-18
+F
+M
+40
+3,5
+10,5
+4
+50
+55
+M 40 x 1
+11,5
+(X)332 EE 518 MF
+M
+F
+Leak rate is a maximum of 1 x 10-7 cm3/S for 1 bar difference.
+Leckrate ist max 1 x 10-7 cm3/S bei 1 bar.
+Le taux de fuite est au maximum 1 x 10-7 cm3/S pour 1 bar.
+
+18
+Backshells / Endgehäuse / Raccords
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+P  
+A :
+Backshell IP67 
+(the types A or B are dependent on the cable Ø).
+Endgehäuse IP67 
+(Typ A oder B abhängig vom Kabeldurchmesser Ø).
+Raccord IP67 
+(les types A et B sont dépendants du Ø du câble).
+ 
+B :
+(In accordance to EN61984 - See page 4 / Nach EN61984 - Siehe Seite 4 / En accordance avec l' EN61984 - Voir page 4)
+Ref.
+Shell/Gehäuse/Boitier
+A/B
+M
+Ø N
+Cable/Kabel/Câble ØP[mm²]
+(X)330 0 P2
+0
+A
+13
+14
+4,5 - 6
+(X)330 1 P1
+1
+A
+21,5
+18
+5 - 6,5
+(X)330 1 P2
+1
+A
+21,5
+18
+6,5 - 9
+(X)330 1 P3
+1
+B
+43
+22
+9 - 12,5
+(X)330 2 P1
+2
+A
+22,5
+22
+8 - 10
+(X)330 2 P2
+2
+A
+22,5
+22
+10 - 13,5
+(X)330 2 P3
+2
+B
+46
+25
+11,5 - 14,5
+(X)330 3 P1
+3
+A
+31
+25
+10,5 - 12,5
+(X)330 3 P2
+3
+B
+51
+28
+12,5 - 15
+(X)330 3 P3
+3
+B
+51
+28
+15 - 18
+(X)330 4 P1
+4
+B
+54
+31
+15 - 18
+(X)330 4 P2
+4
+B
+54
+31
+18 - 21
+(X)330 5 P0
+5
+B
+50,5
+37
+18 - 25
+PES
+Backshell IP67 with braid clamping
+Endgehäuse IP67 für Schirmanbindung 
+Raccord IP67 avec raccordement de blindage
+(In accordance to EN61984 - See page 4 / Nach EN61984 - Siehe Seite 4 / En accordance avec l' EN61984 - Voir page 4)
+Ref.
+Shell/Gehäuse/Boitier
+M
+Ø N
+Cable/Kabel/Câble ØP [mm²]
+(X)330 1 PES 1
+1
+42
+24
+5,5 - 9
+(X)330 1 PES 2
+1
+42
+24
+9 - 12
+(X)330 2 PES 1
+2
+42
+24
+5,5 - 9
+(X)330 2 PES 2
+2
+42
+24
+9 - 12
+(X)330 3 PES 1
+3
+45
+30
+13 - 18
+(X)330 4 PES 1
+4
+45
+30
+13 - 18
+PEM
+Backshell IP67 with braid clamping
+Endgehäuse IP67 für Schirmanbindung 
+Raccord IP67 avec raccordement de blindage
+(In accordance to EN61984 - See page 4 / Nach EN61984 - Siehe Seite 4 / En accordance avec l' EN61984 - Voir page 4)
+Ref.
+Shell/Gehäuse/Boitier
+M
+Ø N
+Cable/Kabel/Câble ØP [mm²]
+(X)330 0 PEM
+0
+22
+15
+2,5 - 5
+(X)330 1 PEM
+1
+28
+24
+8 - 13
+(X)330 2 PEM
+2
+28
+24
+8 - 13
+(X)330 3 PEM
+3
+33
+30
+13 - 18
+(X)330 4 PEM
+4
+33
+30
+13 - 18
+(X)330 5 PEM
+5
+33
+40
+18 - 25
+
+19
+Backshells / Endgehäuse / Raccords
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+PM / PG
+Adaptor with metric or PG thread 
+Adapter mit metrischem oder PG Innengewinde
+Raccord intermédiaire avec filetage métrique ou PG
+(In accordance to EN61984 - See page 4 / Nach EN61984 - Siehe Seite 4 / En accordance avec l' EN61984 - Voir page 4)
+Ref.
+Ref. PG
+Shell/Gehäuse/Boitier
+A (PM)
+A (PG)
+B
+Ø C
+D
+(X)330 0 PM 12
+(X)330 0 PG 7
+0
+M12 x 1,5
+PG 7
+14
+15
+5
+(X)330 1 PM 16
+(X)330 1 PG 11
+1
+M16 x 1,5
+PG 11
+20
+21
+6
+(X)330 1 PM 20
+-
+1
+M20 x 1,5
+-
+20
+24,7
+6
+(X)330 2 PM 16
+(X)330 2 PG 11
+2
+M16 x 1,5
+PG 11
+20
+24
+6
+(X)330 2 PM 20
+(X)330 2 PG 13
+2
+M20 x 1,5
+PG 13
+20
+25
+6
+(X)330 3 PM 20
+(X)330 3 PG 11
+3
+M20 x 1,5
+PG 11
+20
+26
+6
+(X)330 3 PM 25
+(X)330 3 PG 13
+3
+M25 x 1,5
+PG 13
+20
+30,7
+7
+(X)330 4 PM 20
+(X)330 4 PG 16
+4
+M20 x 1,5
+PG 16
+20
+30
+6
+(X)330 4 PM 25
+-
+4
+M25 x 1,5
+-
+20
+30,7
+7
+(X)330 5 PM 25
+(X)330 5 PG 21
+5
+M25 x 1,5
+PG 21
+20
+35
+7
+(X)330 6 PM 32
+(X)330 6 PG 29
+6
+M32 x 1,5
+PG 29
+35
+50
+8
+(X)330 65 PM 40
+-
+65
+M40 x 1,5
+-
+40
+50
+8
+(X)330 7 PM 50
+(X)330 7 PG 36
+7
+M50 x 1,5
+PG 36
+40
+57
+9
+-
+(X)330 7 PG 42
+7
+-
+PG 42
+45
+57
+9
+DS
+Backshell IP30
+Endgehäuse IP30
+Raccord IP30
+Only in Aluminium / nur in Aluminium / uniquement en aluminium
+(In accordance to EN61984 - See page 4 / Nach EN61984 - Siehe Seite 4 / En accordance avec l' EN61984 - Voir page 4)
+Ref.
+Shell/Gehäuse/Boitier
+M
+Ø N
+Cable/Kabel/Câble ØP [mm²]
+(1)330 1 DS 1
+1
+27
+22
+2 - 6
+(1)330 1 DS 2
+1
+27
+22
+7 - 10
+(1)330 1 DS 3
+1
+27
+22
+10 - 13
+(1)330 2 DS 2
+2
+29
+25
+10,5 - 14
+(1)330 2 DS 3
+2
+29
+25
+14 - 17,5
+(1)330 3 DS 1
+3
+29
+27,5
+12,5 - 14,5
+(1)330 3 DS 2
+3
+29
+27,5
+14,5 - 18
+(1)330 4 DS 0
+4
+30,5
+31
+11,75 - 15,5
+(1)330 4 DS 1
+4
+30,5
+31
+15,5 - 18
+(1)330 4 DS 2
+4
+30,5
+31
+18 - 21,5
+
+20
+Backshells / Endgehäuse / Raccords
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+CG
+90° backshell for plug M and cable receptacle extension P
+90° Endgehäuse für Stecker M und Kabelverlängerung P 
+Raccord coudé 90° pour mobile M et prolongateur P
+Only in aluminium / Nur in Aluminium / Existe qu'en aluminium
+(In accordance to EN61984 - See page 4 / Nach EN61984 - Siehe Seite 4 / En accordance avec l' EN61984 - Voir page 4)
+Ref.
+Shell/Gehäuse/Boitier
+D1
+D2
+D3
+UNEF 2A
+L1
+L2
+L3
+L4
+L5
+(1)330 0 CG 10
+0
+22,8
+6,5
+5/8" - 24
+24
+42
+100
+22,7
+30
+(1)330 1 CG 10
+1
+22,8
+6,5
+5/8" - 24
+24
+42
+100
+22,7
+30
+(1)330 1 CG 14
+1
+29,2
+9,0
+3/4" - 20
+24,5
+42
+100
+27,5
+30
+(1)330 2 CG 14
+2
+29,2
+9,0
+3/4" - 20
+26
+42
+100
+27,5
+30
+(1)330 2 CG 16
+2
+32,0
+11,0
+7/8" - 20
+27
+45
+100
+30,0
+35
+(1)330 3 CG 16
+3
+32,0
+11,0
+7/8" - 20
+27
+45
+100
+30,0
+35
+(1)330 3 CG 18
+3
+36,5
+14,2
+1" - 20
+30,5
+53
+100
+33,0
+35
+(1)330 4 CG 16
+4
+32,0
+11,0
+7/8" - 20
+28,5
+45
+100
+30,0
+35
+(1)330 4 CG 18
+4
+36,5
+14,2
+1" - 20
+30,5
+53
+100
+33,0
+35
+(1)330 4 CG 20
+4
+39,9
+15,8
+1 3/16" - 18
+36
+53
+100
+37,5
+35
+(1)330 5 CG 18
+5
+36,5
+14,2
+1" - 20
+34
+53
+100
+33,0
+35
+(1)330 5 CG 20
+5
+39,9
+15,8
+1 3/16" - 18
+39
+53
+100
+37,5
+35
+(1)330 5 CG 22
+5
+43,1
+15,8
+1 3/16" - 18
+36
+58
+100
+37,5
+40
+BT
+Clamp backshell for shielding braids with BAND-IT shell
+and overmolding
+Endgehäuse für Schirmanbindung mit BAND-IT-Schelle 
+und Umspritzung
+Raccord pour tresse de masse avec collier BAND-IT et surmoulage
+Shell/Gehäuse/
+Boitier
+(X)330-0-BT (X)330-1-BT (X)330-2-BT (X)330-3-BT (X)330-4-BT (X)330-5-BT (X)330-6-BT (X)330-7-BT
+A
+-
+-
+22
+23
+27
+-
+-
+-
+B
+-
+-
+23,9
+25,9
+30,2
+-
+-
+-
+D
+-
+-
+16,4
+17,5
+17,6
+-
+-
+-
+E
+-
+-
+13,5
+13,5
+14,8
+-
+-
+-
+F
+-
+-
+19,6
+19,6
+23,2
+-
+-
+-
+Torque value of the shells / Anzugsdrehmoment aller Engehäuse auf den Steckverbindern / Couple de serrage des 
+boîtiers
+0
+1
+2
+3
+4
+5
+6
+7
+Shell size / 
+Steckergehäuse Größe /
+Taille de boîtier
+3 Nm
+3 Nm
+3 Nm
+3 Nm
+5 Nm
+5 Nm
+5 Nm
+5Nm
+
+21
+Accessories / Zubehör / Accessoires
+Versions available / Lieferbare Ausführungen / Versions disponibles :  
+ (1)33: Aluminium / Aluminium / Aluminium
+  
+ 
+ 
+ 
+ 
+ (2)33: Brass / Messing / Laiton
+  
+ 
+ 
+ 
+ 
+ (6)33: Stainless Steel / Edelstahl / Inox
+BE
+Protection cap for receptacle and inline receptacle (IP67).
+Metall-Schutzkappe für Steckdose und Kabelverlängerung (IP67).
+Bouchon pour embase et prolongateur (IP67).
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+6-5
+7
+Ref.
+(X)330 0 
+BE
+(X)330 1 
+BE
+(X)330 2 
+BE
+(X)330 3 
+BE
+(X)330 4 
+BE
+(X)330 5 
+BE
+(X)330 6 
+BE
+(X)330 65 
+BE
+(X)330 7 
+BE
+Ø J
+17
+22
+26
+29
+32,5
+37,5
+54
+57
+67
+Ø K
+15
+20
+24
+26
+30,5
+36
+50
+53
+56
+L
+29
+29
+29
+30
+30
+32
+50
+63,5
+76
+S
+150
+150
+150
+150
+150
+150
+250
+250
+250
+Ø T
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+BM
+Protection cap for plug (IP67).
+Metall-Schutzkappe für Stecker (IP67).
+Bouchon de mobile (IP67).
+Shell/Gehäuse/Boitier
+0
+1
+2
+3
+4
+5
+6
+6-5
+7
+Ref.
+(X)330 0 
+BM
+(X)330 1 
+BM
+(X)330 2 
+BM
+(X)330 3 
+BM
+(X)330 4 
+BM
+(X)330 5 
+BM
+(X)330 6 
+BM
+(X)330 65 
+BM
+(X)330 7 
+BM
+Ø K
+15
+20
+24
+26
+30,5
+36
+46
+53
+55
+L
+10,5
+10,5
+10,5
+10,5
+10,5
+10,5
+26
+25
+37
+M
+4,5
+4,5
+4,5
+9,5
+9,5
+9,5
+11
+11
+11
+S
+150
+150
+150
+150
+150
+150
+250
+250
+250
+Ø T
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+5,3
+5,3
+5,3
+LHD*
+LHE
+LHE*
+Plastic locking key for shells M and MESV
+Entriegelungsschutz in Kunststoff für Push-
+Pull-Verriegelungsring am Stecker M und 
+MESV
+Accessoire de vérrouillage en plastique 
+pour boitiers M et MESV
+Shell/Gehäuse/
+Boitier
+0
+1
+2
+3
+4
+5
+6
+6-5
+7
+Ref.
+K330 0 
+LHE
+K330 1 
+LHE
+K330 2 
+LHE
+K330 3 
+LHE
+K330 4 
+LHE
+K330 5 
+LHE
+K330 6 
+LHE
+K330 6 
+LHE
+-
+Ref.
+K330 0 
+LHD
+K330 1 
+LHD
+K330 2 
+LHD
+K330 3 
+LHD
+K330 4 
+LHD
+K330 5 
+LHD
+K330 6 
+LHD
+K330 6 
+LHD
+-
+A
+3,5
+3,5
+3,5
+3,5
+3,5
+3,5
+7,0
+7,0
+-
+Ø B
+13,0
+16,0
+20,0
+22,0
+26,0
+30,0
+43,0
+43,0
+-
+C
+10,0
+10,0,
+16,0
+16,0
+23,0
+24,0
+37,0
+37,0
+-
+D
+20,0
+20,0
+26,0
+26,0
+36,0
+36,0
+50,0
+50,0
+-
+E
+4,0
+4,0
+4,0
+4,0
+4,0
+4,0
+4,0
+4,0
+-
+F
+150,0
+150,0
+150,0
+150,0
+150,0
+150,0
+200,0
+200,0
+-
+*LHD: Fixing on cable / Für Kabelbefestigung / Fixation sur le cable
+*LHE: Fixing on wall / Für Wandbefestigung / Fixation sur le mur
+
+22
+Accessories / Zubehör / Accessoires
+JE 
+JL
+Flange seal 
+Electroconductive flange seal
+Flanschdichtung 
+Flanschdichtung elektrisch leitend 
+Joint d’embase 
+Joint conducteur électrique
+Shell/Gehäuse/
+Boitier
+0
+1
+2
+3
+4
+5
+6
+6-5
+7
+Ref. JE
+1330 0 JE
+1330 1 JE
+1330 2 JE
+1330 3 JE
+1330 4 JE
+1330 5 JE
+1330 6 JE
+1330 65 JE
+1330 7 JE
+Ref. JL
+1330 0A JL
+1330 1A JL
+1330 2A JL
+1330 3A JL
+1330 4A JL
+1330 5A JL
+1330 6A JL
+1330 65 JL
+1330 7A JL
+A
+12,7
+18
+21
+23
+24,8
+29
+38
+41
+47-49
+B
+18
+24
+27
+29
+31
+37
+47
+53
+62
+Ø C
+3,2
+3,5
+3,5
+3,5
+3,5
+3,5
+4,5
+5,5
+5,5
+D
+1
+1
+1
+1
+1
+1
+2
+3
+3
+Ø F
+12,1
+19
+23
+23,1
+26,1
+32
+42,5
+47
+54,5
+JL
+Conductive seal / Leitende Dichtungen / Joint conducteur: 
+JE 
+Non conductive seal / nicht leitende Dichtung / Joint non conducteur: 
+Permissible ambient temperature: -55°C up to 160°C 
+Zulässige Umgebungstemperatur: -55°C bis 160°C
+Température ambiante admissible : -55°C à 160°C
+Permissible ambient temperature: -55°C up to 125°C 
+Zulässige Umgebungstemperatur: -55°C bis 125°C
+Température ambiante admissible : -55°C à 125°C
+Fluor silicone with Ag/Al conductive filler 
+Fluorsilikon gefüllt mit versilberten Aluminiumpartikeln
+Fluor silicon avec des particules Ag/Al
+Elastomer
+Elastomer
+Élastomère
+Hardness (65±10) Shore A according to DIN EN ISO 868
+Härte (65±10) Shore A nach DIN EN ISO 868
+Dureté (65±10) Shore A suivant DIN EN ISO 868
+Hardness (65±10) Shore A according to DIN EN ISO 868
+Härte (65±10) Shore A nach DIN EN ISO 868
+Dureté (65±10) Shore A suivant DIN EN ISO 868
+Colour: Green
+Farbe: Grün
+Couleur : Vert
+Colour: Dark grey / Black
+Farbe: Dunkelgrau / Schwarz
+Couleur : Gris foncé / Noir
+Shielding effectiveness: -80dB
+Abschirmeigenschaften: -80dB
+Courbe d'atténuation: -80dB
+Measuring curve for seals / Messekurve für Dichtungen / Courbe de mesures pour joints
+Other frequency range on request /Andere Frequenzbereiche auf Anfrage / Autres bandes de fréquences sur demande 
+
+23
+Polarization / Kodierung / Polarisation
+Male / Stift / Mâle
+Female / Buchse / Femelle
+To avoid cross-plugging problems in applications requiring the use of more than one connector with the same contact 
+size and arrangement (see chart) 
+– the male insert (front face) is rotated  within the shell in a clockwise direction from the normal shell key.  
+–  the female insert (front face) is rotated in a counterclockwise the same number of degrees in respect to  
+the normal shell key.
+Um Fehlsteckungen zwischen benachbarten identischen Steckverbindungen zu vermeiden, können die Isolierkörper  
+in verschiedenen Winkelstellungen in das Gehäuse eingebaut werden (siehe Tabelle) 
+–  das Stiftisolierteil (Ansicht Vorderseite) wird im Gehäuse mit dem entsprechenden Winkel im Uhrzeigersinn  
+eingebaut.
+–  das Buchsenisolierteil (Ansicht Vorderseite) wird im Gehäuse mit dem entsprechenden Winkel entgegen dem  
+Uhrzeigersinn eingebaut.
+Pour différencier les connecteurs juxtaposés de même arrangement, les inserts peuvent être montés dans le boitier 
+avec différents angles (voir tableau). 
+– l’insert mâle (face avant) est monté dans le boitier en le tournant dans le sens horaire en fonction de l’angle choisi.  
+–  l’insert femelle (face avant) est monté dans le boitier en le tournant dans le sens anti-horaire en fonction de l’angle 
+choisi.
+(°)
+1
+2
+3
+4
+1
+2
+3
+4
+Arrangement 
+/ Polbild / 
+Arrangement
+(°)
+Arrangement 
+/ Polbild / 
+Arrangement
+(X)331 103
+270
+315
+90
+-
+(X)332 003
+270
+315
+90
+180
+(X)331 193
+270
+315
+90
+45
+(X)332 006
+90
+180
+270
+-
+(X)331 205
+270
+315
+90
+-
+(X)332 103
+270
+315
+90
+180
+(X)331 295
+270
+315
+90
+45
+(X)332 107
+270
+-
+-
+-
+(X)331 303
+90
+45
+270
+-
+(X)332 204
+90
+180
+270
+-
+(X)331 405
+90
+45
+270
+-
+(X)332 212
+90
+180
+270
+288
+(X)331 408
+90
+160
+200
+270
+(X)332 294
+90
+45
+-
+-
+(X)331 410
+90
+170
+190
+270
+(X)332 305
+90
+45
+-
+-
+(X)331 529
+90
+170
+190
+270
+(X)332 319
+-
+165
+315
+-
+(X)331 605
+90
+125
+225
+270
+(X)332 426
+60
+180
+275
+338
+(X)331 635
+90
+270
+-
+-
+(X)332 510
+90
+160
+200
+270
+(X)331 706
+90
+45
+270
+-
+(X)332 517
+90
+160
+200
+270
+(X)332 518 
+90
+160
+200
+270
+(X)332 541
+90
+160
+200
+270
+(X)332 6537
+80
+100
+250
+280
+
+24
+Technical information / Technische Daten / Caractéristiques techniques
+Current ratings per contact / Strombelasbarkeit per Kontakt / Intensité admissible par contact:
+I [A]
+7
+6
+Current rating maximums in amperes are shown for each type  
+of connector at an ambient temperature of +40°C. In the case  
+where the contacts are not loaded with the same current, it is  
+recommended that the contacts with the highest load are located  
+on the circumference of the connector (contacts A, B, C etc).
+Die maximale Strombelastbarkeit (Nennstrom) ist bei jedem  
+Steckertyp für eine Umgebungstemperatur von +40°C  
+angegeben. Sollten nicht alle Kontakte mit dem höchsten  
+Nennstrom belastet sein, wird empfohlen, die Belegung mit  
+dem höchsten Nennstrom auf die äußeren Kontakte (A-B-C usw.) 
+zu verlegen.
+5
+4
+L’intensité admissible maximale est donnée pour chaque type  
+de connecteurs pour une température ambiante de 40°C. Il est 
+conseillé de raccorder les câbles à l’intensité la plus haute sur  
+les cavités du connecteur les plus proches du boitier (A, B, C etc). 
+T [°C]
+3
+2
+1
+Important / Wichtig / Important : 
+See page 40 for the current of your connector.
+Siehe Seite 43 für den Strom Ihres Steckers. 
+Voir page 46 pour le courant de votre connecteur.
+Contact / Kontakt / Contact
+Curve / Kurve / Courbe
+used in / verwendet in / utilisé en 
+1330-22*
+1
+1332-006
+1330-20* + 1330-20FH
+2
+1332 - (003,107,212,319,426,541)
+1330-16*
+3
+1331 - (103,193,205,295,529,605,706)
+1330-11*
+4
+1332 - 204
+1330-09*
+5
+1331 - (303,405, 410), 1332 - (294, 305)
+1330-05*
+6
+1331 - 605
+1330-02*
+7
+1331 - 706
+Attenuation Curve / Dämpfungskennlinie / Courbe d’atténuation: 
+Plug/Receptacle mated - Stecker/Steckdose im gesteckten Zustand - Connecteur/Embase enfichés
+Curve 1 corresponds to a connector M, MESV with standard inside seal. Curve 2 corresponds to a connector ML, MESVL 
+with inside seal, made from conductive silicone. Measurement according to IEC 62153-4-7.
+Kennlinie 1 entspricht einem Stecker M, MESV mit Standard-Innen dichtung. Kennlinie 2 entspricht einem Stecker ML, 
+MESVL mit leitender Silikondichtung. Messung nach IEC 62153-4-7.
+La courbe 1 correspond à un connecteur M, MESV équipé d’un joint non con ducteur. La courbe 2 correspond à un con-
+necteur ML, MESVL équipé d’un joint conducteur silicone. Mesure d'après IEC 62153-4-7.
+
+25
+Technical Information / Technische Erläuterungen / Informations techniques
+Voltage/pollutions categories - Nennspannung/Verschmutzungsgrad - Tension/degré de pollution
+Arrangements
+Polbilder
+Arrangements
+DC or AC rated voltage for pollution categorie
+Nennspannung in Wechsel oder Gleichspannung bei Verschmutzungsgrad
+Tension d'utilisation en fonction du degré de pollution
+1
+2
+3
+4
+IP 30
+IP 67
+IP 30
+IP 67
+IP 30
+IP 67
+IP 30
+IP 67
+(X)331-103
+1000
+1000
+320
+1000
+200
+320
+50
+200
+(X)331-193
+800
+800
+200
+800
+125
+200
+32
+125
+(X)331-205
+800
+800
+200
+800
+125
+200
+32
+125
+(X)331-295
+800
+800
+200
+800
+125
+200
+32
+125
+(X)331-303
+1000
+1000
+320
+1000
+200
+320
+50
+200
+(X)331-405
+1000
+1000
+320
+1000
+200
+320
+50
+200
+(X)331-408
+1000
+1000
+320
+1000
+200
+320
+-
+200
+(X)331-410
+1000
+1000
+250
+1000
+160
+250
+-
+160
+(X)331-410
+(Signal contacts)
+630
+630
+250
+630
+160
+250
+-
+160
+(X)331-529
+800
+800
+320
+800
+200
+320
+80
+200
+(X)331-529
+(Signal contacts)
+630
+630
+400
+630
+250
+400
+125
+250
+(X)331-605
+1000
+1000
+320
+1000
+200
+320
+50
+200
+(X)331-635
+400
+400
+200
+400
+80
+220
+-
+80
+(X)331-706
+1000
+1000
+320
+1000
+200
+320
+50
+200
+(X)332-003
+250
+250
+125
+225
+32
+80
+-
+32
+(X)332-006
+200
+200
+60
+150
+-
+60
+-
+-
+(X)332-103
+400
+400
+160
+300
+32
+160
+10
+32
+(X)332-107
+320
+320
+80
+300
+32
+80
+-
+32
+(X)332-204
+400
+400
+200
+300
+32
+200
+10
+32
+(X)332-212
+320
+320
+125
+300
+32
+125
+-
+32
+(X)332-319
+250
+250
+80
+150
+32
+80
+-
+32
+(X)332-426
+250
+250
+80
+300
+32
+80
+-
+32
+(X)332-541
+250
+250
+80
+150
+32
+80
+-
+32
+(X)332-6537
+1000
+1000
+320
+1000
+200
+320
+-
+200
+The above values are given for an altitude up to 2000 meter – for other altitudes see corrective factor (table A2 in EN60664 part 1). 
+Spannungsangabe bis 2000 Meter. Höhe – Korrekturfaktoren (Tabelle A2 aus EN60664 Teil 1).
+Les valeurs sont données pour une altitude de 2000 mètres –  voir facteur de correction (tableau A2 de la EN60664 partie 1). 
+Pollution categories (defined in DIN EN 60664-1 Bbl1 (VDE 0110-1 Bbl1): 2012-06):
+– pollution category 1: no significant pollution. 
+– pollution category 2: non-conductive pollution, but there is an occasional risk of condensation which is temporarily conductive. 
+– pollution category 3: both non-conductive and conductive pollution dust present as well as condensation.  
+– pollution category 4: conductive pollution, for example conductive dust, rain or snow.
+Verschmutzungsgrade (nach DIN EN 60664-1 Bbl1 (VDE 0110-1 Bbl1): 2012-06)
+– Verschmutzungsgrad 1: Es tritt keine oder nur trockene, nichtleitfähige Verschmutzung auf.  
+–  Verschmutzungsgrad 2:  Nur nichtleitfähige Verschmutzung. Gelegentlich muß mit vorübergehender Leitfähigkeit durch Betauung  
+gerechnet werden.
+–  Verschmutzungsgrad 3:  Leitfähige Verschmutzung oder trockene, nichtleitfähige Verschmutzung, die leitfähig wird, da Betauung 
+zu erwarten ist.    
+– Verschmutzungsgrad 4: Leitfähige Verschmutzung, zum Beispiel hervorgerufen durch leitfähigen Staub, Regen oder Schnee. 
+Degrés de pollution (définies par la DIN EN 60664-1 Bbl1 (VDE 0110-1 Bbl1): 2012-06):
+– degré de pollution catégorie 1: pas de pollution significative. 
+– degré de pollution catégorie 2: pollution non conductible, mais risque occasionnel de condensation temporairement conductible. 
+– degré de pollution catégorie 3: pollution conductible ou pollution non conductible pouvant par condensation devenir conductible.  
+– degré de pollution catégorie 4: pollution conductible par exemple poussière conductible, pluie ou neige.
+
+26
+Special contacts / Sonderkontakte / Contacts spéciaux 
+Stamped rolled contacts for current up to 5A / Gestanzt-gerollte Kontakte für Ströme bis 5A / Contacts 
+découpés roulés pour intensité jusqu’à 5A
+For arrangements / Für Polbilder / Pour arrangements : 410, 510, 517, 518, 529 und 541
+Per 100pcs / Per 100 verpackt / Emballés par 100
+Pin / Stift / Mâle:  
+ 
+ 
+1330 20 MG1
+Socket / Buchse / Femelle:  
+ 
+1330 20 FG1
+10.000 contacts per roll / Per Rolle 10.000 Kontakte / 10.000 contacts par rouleau
+Pin / Stift / Mâle:  
+ 
+ 
+1330 20 MR 100 (Rolled right / Rechts gerollt / roulé à droite)
+ 
+ 
+ 
+ 
+ 
+1330 20 ML 100 (Rolled left / Links gerollt / roulé à gauche)
+Socket / Buchse / Femelle: 
+ 
+1330 20 FR 100 (Rolled right / Rechts gerollt / roulé à droite)
+ 
+ 
+ 
+ 
+ 
+1330 20 FL 100 (Rolled left / Links gerollt / roulé à gauche)
+Crimp plier / Crimpzange / Pince de sertissage:  
+ 
+1330  OP 9
+Wire size / Anschlussquerschnitt / Section admissible:  
+AWG 20 24
+Bandoliered contacts in other sizes or rather in size AWG 24-28 on request. 
+Kontakte auf Rolle in anderen Liefergrößen bzw. in Querschnitt AWG 24-28 auf Anfrage. 
+Contacts sur rouleaux dans d'autres tailles plus particulièrement en taille AWG 24-28 sur demande.
+Special female contacts for 100.000 mating cycles / Sonder-Buchsenkontakt für 100.000 Steckzyklen / 
+Contact femelle spécial pour 100.000 cycles de manoeuvre
+For arrangements / Für Polbilder / Pour arrangements: 003, 107, 212, 319, 426
+Female contact / Buchsenkontakt / Contact femelle :   
+1330 20 FH
+For arrangements / Für Polbilder / Pour arrangements : 006
+Female contact / Buchsenkontakt / Contact femelle:  
+ 
+1330 22 FH
+For arrangements / Für Polbilder / Pour arrangements : 193, 295
+Female contact / Buchsenkontakt / Contact femelle:  
+ 
+1330 16 FH
+For arrangements / Für Polbilder / Pour arrangements : 510, 517, 518, 541
+Female contact / Buchsenkontakt / Contact femelle:  
+ 
+1330 20FK
+Thermo-couple / Thermokontakte / Thermocouple
+ 
+For arrangements / Für Polbilder / Pour arrangements: 003, 107, 212, 319, 426
+Chromel contact / Chromel-Kontakt / Contact chromel 
+Pin contact / Stiftkontakt / Contact mâle: 
+ 
+1330 20 M-TC-C
+Socket contact / Buchsenkontakt / Contact femelle: 
+1330 20 F-TC-C
+Alumel contact / Alumel-kontakt / Contact alumel
+Pin contact / Stiftkontakt / Contact mâle: 
+ 
+1330 20 M-TC-A
+Socket contact / Buchsenkontakt / Contact femelle: 
+1330 20 F-TC-A
+
+27
+Push-Pull connector for E2000 / Push-Pull-Stecker für E2000 / Connecteur Push-Pull pour E2000  
+The connector ECTA 133 FO enables the mounting of up to 2 pcs E2000 contacts to IEC 61754-15 and ensure the  
+protection class IP67 when plugged in. 
+Der Stecker ECTA 1333 FO ermöglicht den Einbau von bis zu 2 St. E2000-Kontakten nach IEC 61754-15 und gewähr- 
+leistet im gesteckten Zustand die Schutzart IP67. Dadurch ist dieser Steckverbinder auch im Außenbereich einsetzbar. 
+Le connecteur ECTA 133 FO permet le montage de jusqu'à 2 contacts E2000 selon IEC 61754-15 et garantie, en état  
+enfiché, une classe de protection IP67. 
+Serie / Baureihe / Série - Alu                                                    133       3         FO         5         M         1          1 
+ 
+3: Fiber Optic / Lichtwellenleiter / Fibre optique                                                                                                               
+ 
+   Accessories / Zubehör / Accessoires
+ Fiber Optic / Lichtwelleneleiter / Fibre optique
+ 
+FO
+ Size / Größe / Taille
+ 
+5
+ Type / Typ / Type
+ 
+M: Plug with backshell / Stecker mit Endgehäuse / Connecteur avec raccord
+ 
+E: Flange receptacle / Flanschsteckdose / Embase carrée
+ 
+BE: Metal cap for receptacle / Metallverschluss für Steckdose / Bouchon pour embase
+ 
+BM: Metal cap for plug / Metallverschluss für Stecker / Bouchon de mobile
+ Contact number / Kontaktanzahl / Nombre de contacts
+ 
+1
+ 
+2
+ Contact type / Kontakteinsatz / Type de contact 
+(Only for receptacle E / nur für Steckdose E / juste pour embase E)
+ 
+1: Singlemode blue / Singlemode blau / Singlemode bleu
+ 
+2: Angled physical contact green / Angled physical contact grün / Angled physical contact vert
+ 
+3: Singlemode premium green / Singlemode premium grün / Singlemode premium vert
+ 
+4: Multimode beige / Multimode beige / Multimode beige
+Adaptor for E2000 / Adapter für E2000 / Adaptateur pour E2000
+Insert / Kontakteinsatz / Insert
+Colour / Farbe / Couleur
+1
+SM
+Singlemode
+Blue / Blau / Bleu
+2
+APC
+Angled physical contact
+Green / Grün / Vert
+3
+SM APC
+Singlemode premium
+Green / Grün / Vert
+4
+MM
+Multimode
+Beige
+Specification / Spezifikation / Spécification
+Flammability :  
+ 
+UL 94 V-0
+Entflammbarkeit:   
+UL 94 V-0
+Inflammabilité :   
+UL 94 V-0
+Standard: 
+ 
+IEC 61754-15; TIA604-16
+Norm:   
+ 
+IEC 61754-15; TIA604-16
+Norme:   
+ 
+IEC 61754-15; TIA604-16
+Mating cycles: min. 1000
+Steckzyklen  min. 1000
+Cycles de manoeuvres : min. 1000
+Operating temperature :   
+-40 to +85°C
+Einsatztemperatur:  
+ 
+-40 bis +85°C
+Température d'utilisation :   
+-40 à +85°C
+
+28
+Push-Pull connector for E2000 / Push-Pull-Stecker für E2000 / Connecteur Push-Pull pour E2000  
+E
+Receptacle with contact type
+1, 2, 3 or 4
+Steckdose mit Kontakteinsatz
+1, 2, 3 oder 4
+Embase avec type de contact
+1, 2, 3 ou 4
+Shell / Gehäuse / Boitier
+5
+A
+29
+B
+37
+C
+3,5
+D max
+11,5
+E
+30,5
+F
+2,7
+G
+32
+M 
+Plug for mounting of E2000  
+contacts
+Stecker für den Einbau der E2000 
+Kontakte
+Prise pour montage des contacts 
+E2000
+Shell / Gehäuse / Boitier 
+5
+A
+86
+For cable Ø 2,7 to 3,5mm / Für Kabel Ø 2,7 bis 3,5mm / Pour cable Ø 2,7 à 3,5mm
+B
+37,5
+C max
+37,5
+D
+36
+BM
+Protection cap for plug
+Metall-Schutzkappe für Stecker 
+Bouchon pour mobile
+Accessories / Zubehör / Accessoires
+5
+A
+37,3
+Länge: 150mm
+Ø B
+34
+C
+15
+BE
+Protection cap for receptacle
+Metall-Schutzkappe für Steckdose
+Bouchon pour embase
+Accessories / Zubehör / Accessoires
+5
+A
+35
+Ø B
+37,3
+Länge: 150mm
+C
+15
+
+29
+1334 Single pole power connector / Einpoliger Power-Steckverbinder / Connecteur power unipolaire 
+Single pole high current and voltage connector, RoHS compliant and suitable for harsh applications up to protection class 
+IP67. This connector offers up to 6 mechanical and colour coding possibilities. It is also available as FG-version in shielded 
+version. 
+Einpoliger Hochstrom-/Hochspannung-Steckverbinder, RoHS-konform, geeignet für rauhe Applikationen bis IP67. Der Steck-
+verbinder bietet bis zu 6 mechanische und farbliche Codiermöglichkeiten und ist als FG-Version in gechirmter Ausführung 
+lieferbar. 
+Connecteur unipolaire à haute tension et courant élevé, certifié conforme RoHS et adapté aux applications rudes jusqu'à une 
+classe de protection IP67. Ce connecteur offre jusqu'à 6 possibilités (mécaniques et couleurs) de codage. Il est disponible en 
+version FG en version blindée.
+Mechanical properties / Mechanische Eigenschaften / Caractéristiques mécaniques
+Mating cycles / Steckzyklen / Cycles:  
+ 
+ 
+ 
+ 
+> 200
+Wire range / Anschlußbereich / Zone de raccord: 
+ 
+ 
+ 
+16 to 70 mm²
+Connection type / Anschlußart / Type de raccord: 
+ 
+ 
+ 
+Crimping / Crimpen / Sertissage
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(+ screws / Schrauben / Vis)
+Sealing / Schutzart / Classe de protection:  
+ 
+ 
+ 
+IP67 (mated / gesteckt / enfiché)
+Operating temperature / Betriebstemperatur / Température d'utilisation: 
+-40°C to 125°C
+Ambient temperature / Umgebungstemperatur /Température ambiente: 
+-40°C to 70°C
+Inflammability / Entflammbarkeit / Inflammabilité: 
+ 
+ 
+ 
+UL94V0
+Salt spray / Salzsprühtest / Test de brouillard salin: 
+ 
+ 
+ 
+96h
+Electrical properties / Elektrische Eigenschaften / Caractéristiques électriques
+Rated voltage / Nennspannung / Tension nominale  
+ 
+ 
+1000V DC
+Rated current / Nennsstrom / Courant nominal 
+ 
+ 
+ 
+250A Max
+Insulator resistance / Isolationswiderstand / Résistance d'isolement 
+ 
+> 2000MΩ
+Dielectric withstand voltage / Spannungsfestigkeit / Rigidité diélectrique 
+3000V AC
+Materials / Werkstoffe / Matériaux
+Shell / Gehäuse / Boîtier  
+ 
+ 
+Aluminium alloy with zinc, nickel plating, anodized locking ring 
+ 
+ 
+ 
+ 
+ 
+ 
+Zink-Aluminium-Legierung, vernickelt, Verriegelungsring eloxiert 
+ 
+ 
+ 
+ 
+ 
+ 
+Alliage d'aluminium avec zinc, nickelé, bague de verr. anodisée
+Contacts / Kontakte / Contacts 
+ 
+ 
+Copper alloy, silver plating 
+ 
+ 
+ 
+ 
+ 
+ 
+Kupferlegierung, versilbert 
+ 
+ 
+ 
+ 
+ 
+ 
+Alliage cuivreux, argenture
+Insulator / Kontaktträger / Isolant  
+ 
+Flame-retardant thermoplastic composition
+ 
+ 
+ 
+ 
+ 
+ 
+Flammwidriger Thermoplast 
+ 
+ 
+ 
+ 
+ 
+ 
+Thermoplastique ignifugé
+Sealing / Dichtung / Joint  
+ 
+ 
+Rubber
+ 
+ 
+ 
+ 
+ 
+ 
+Kautschuk
+ 
+ 
+ 
+ 
+ 
+ 
+Caoutchouc
+These connectors must not be connected or disconnected under voltage. 
+Diese Steckverbinder dürfen betriebsmäßig unter Spannung nicht gesteckt oder getrennt werden.
+Les connecteurs ne doivent pas être couplés ou découplés sous charge.
+
+30
+1334 Single pole power connector / Einpoliger Power-Steckverbinder / Connecteur power unipolaire
+How to order / Bestellschlüssel / Référence
+Power metal connector                                                        1334       M         X01        F         S          1        PC  
+Metall-Power-Steckerverbinder / 
+Connecteur power métallique
+ Shell type / Gehäusetyp / Type de boîtier : 
+ 
+E: Receptacle / Steckdose / Embase
+ 
+M: Straight plug / Stecker gerade / Connecteur droit 
+ 
+MC: Right angle plug / Stecker 90° abgewinckelt / 
+ 
+Connecteur à angle droit
+ Insert size / Insert Größe / Taille de l'insert: 
+ 
+201: 6mm Radsok (Rated current 120A)
+ 
+201: 6mm Radsok (Nennstrom 120A)
+ 
+201: 6mm Radsok (Courant nominal 120A)
+ 
+301: 8mm Radsok (Rated current 180A)
+ 
+301: 8mm Radsok (Nennstrom 180A)
+ 
+301: 8mm Radsok (Courant nominal 180A)
+ 
+501: 10mm Radsok (Rated current 250A)
+ 
+501: 10mm Radsok (Nennstrom 250A)
+ 
+501: 10mm Radsok (Courant nominal 250A)
+ Insert type / Inserttyp / Type d'insert: 
+ 
+F: Female contact / Buchsenkontakt / Contact femelle  
+ 
+(Only for type / Nur für Typ / Uniquement pour type M/MC)
+ 
+M: Male contact / Stiftkontakt / Contact mâle  
+ 
+(Only for type / Nur für Typ / Uniquement pour type E)
+ Termination / Anschluss / Raccordement:
+ 
+H: Copper bar / Stromschiene / Barre en cuivre  
+ 
+(Only for type / Nur für Typ / Uniquement pour type E)
+ 
+T: Screw connection / Schraubanschluss / Raccordement vissé  
+ 
+(Only for type E and insert 301 / Nur für Typ E und Insert 301 / 
+ 
+Uniquement pour type E et insert 301)
+ 
+S: Crimp / Crimp / Sertissage  
+ 
+(Only for type / Nur für Typ / Uniquement pour type M/MC)
+ Coding identification - color of the locking nut and marking of the receptacle / Kennzeichnung  
+ der Kodierung - Farbe des Verriegelungsrings und Markierung auf der Steckdose / Repérage de  
+ la codification - teinte de la bague de vérouillage et marquage sur l'embase: 
+ (See page 37 / Siehe Seite 37 / Voir page 37): 
+ 
+1: 30°, Red / Rot / Rouge
+ 
+2: 60°, Black / Schwarz / Noir
+ 
+3: 90°, Yellow / Gelb / Jaune
+ 
+4: 120°, Green / Grün / Vert
+ 
+5: 150°, Blue / Blau / Bleu
+ 
+6: 180°, Purple / Violett / Violet
+ Version / Ausführung / Version (Only for type / Nur für Typ / Uniquement pour type M/MC): 
+ 
+PC: Unshielded version / ungeschirmte Ausführung / Version non blindée
+ 
+FG: Shielded version / geschirmte Ausführung / Version blindée
+Notice / Hinweis / Remarque: 
+Female contact only for shell type M/MC / Buchsenkontakt nur für Gehäusetyp M/MC / Contact femelle uniquement pour type de boîtier M/MC.
+Male contact only for shell type E / Stiftkontakt nur für Gehäusetyp E / Contact mâle uniquement pour type de boîtier E.
+
+31
+1334 Single pole power connector / Einpoliger Power-Steckverbinder / Connecteur power unipolaire 
+M
+Straight plug
+Stecker, gerade
+Connecteur droit
+Insert size / Insert Größe / 
+Taille de l'insert
+D
+L1
+L2
+Wire size / Anschlußquerschnitt / Section 
+admissible (mm²) 
+Ø M
+201
+26,0
+2,0
+70
+16mm² to 25mm²
+11 - 13 mm
+301
+27,5
+2,0
+82
+35mm² to 50mm²
+13,5 - 17,5 mm
+501
+32,5
+1,5
+92
+50mm² to 70mm²
+16 - 20 mm
+Notice / Hinweis / Remarque: 
+The user has to ensure that the connector shall not be connected or disconnected when live or under load
+Der Anwender muss sicherstellen, dass der Steckverbinder nicht unter Last gesteckt oder getrennt werden darf.
+L'utilisateur doit s'assurer que le connecteur ne doit pas être couplé ou découplé sous charge.
+MC
+Right angle plug
+Stecker 90° abgewinckelt 
+Connecteur à angle droit
+Insert size / Insert Größe / 
+Taille de l'insert
+D
+L1
+L2
+L3
+L4
+L5
+Wire size / 
+Anschlußquerschnitt / 
+Section admissible (mm²)  
+Ø M
+201
+26,0
+1,8
+53,0
+12,5
+49,3
+25,0
+16mm² to 25mm²
+11 - 13 mm
+301
+27,5
+2,0
+62,0
+13,9
+58,5
+27,3
+35mm² to 50mm²
+13,5 - 17,5 mm
+501
+32,5
+1,5
+69,5
+16,0
+64,0
+31,5
+50mm² to 70mm²
+16 - 20 mm
+
+32
+1334 Single pole power connector / Einpoliger Power-Steckverbinder / Connecteur power unipolaire 
+EXX-H
+Receptacle with copper bar
+Steckdose mit Stromschiene
+Embase avec barre en cuivre
+Gasket 1mm
+Only for front mounting / Nur für Vorderwandmontage / Montage en face avant uniquement 
+Insert size / Insert Größe / 
+Taille de l'insert
+A
+B
+C
+D
+E
+L1
+L2
+L3
+L4
+L5
+TH
+201
+21.0
+28,6
+3,5
+21,0
+6,5
+62,7
+37,7
+30,7
+12,7
+3,8
+5,0
+301
+23,0
+31,0
+4,5
+23,0
+8,5
+76,7
+43,7
+35,7
+15,9
+/
+5,0
+501
+24,6
+33,0
+4,5
+26,0
+10,5
+85,9
+52,6
+40,6
+18,4
+0,8
+6,0
+Notice / Hinweis / Remarque: 
+Seal included in the scope of supply / Dichtung gehört zum Lieferumfang / Livrée avec le joint
+EXX-T
+Gasket 1mm
+Receptacle with screw connection
+Steckdose mit Schraubanschluss
+Embase avec raccordement vissé
+Only for front mounting / Nur für Vorderwandmontage / Montage en face avant uniquement 
+Insert size / Insert Größe / 
+Taille de l'insert
+A
+B
+Ø C
+D
+L1
+L2
+L3
+L4
+201
+-
+-
+-
+-
+-
+-
+-
+-
+301
+23
+31
+23
+M8 x 1,25
+75,5
+12
+15,9
+33
+501
+-
+-
+-
+-
+-
+-
+-
+-
+Notice / Hinweis / Remarque: 
+Seal included in the scope of supply / Dichtung gehört zum Lieferumfang / Livrée avec le joint
+
+33
+1335 Multipole power connector / Mehrpoliger Power-Steckverbinder / Connecteur power multipolaire
+Multipole high current and voltage connector, RoHS compliant and suitable for applications up to protection class IP67. 
+This connector offers up to 5 mechanical and colour coding possibilities. 
+Mehrpoliger Hochstrom-/Hochspannung-Steckverbinder, RoHS konform, geeignet für Applikationen bis IP67.  
+Der Steckverbinder bietet bis 5 mechanische und farbliche Kodiermöglichkeiten. 
+Connecteur multipolaire à haute tension et courant élevé, certifié conforme RoHS et adapté aux applications jusqu'à une 
+classe de protection IP67. Ce connecteur offre jusqu'à 5 possibilités (mécaniques et couleurs) de codage.
+Mechanical properties / Mechanische Eigenschaften / Caractéristiques mécaniques
+Mating cycles / Steckzyklen / Cycles:  
+ 
+ 
+ 
+ 
+> 200
+Wire range / Anschlußbereich / Zone de raccord: 
+ 
+ 
+ 
+0,5 to 10 mm²
+Connection type / Anschlußart / Type de raccord: 
+ 
+ 
+ 
+Crimping / Crimpen / Sertissage
+Sealing / Schutzart / Classe de protection:  
+ 
+ 
+ 
+IP67 (mated / gesteckt / enfiché)
+Temperature range / Temperatureinsatzbereich / Intervalle de température 
+-40°C to 125°C, short term to 150°C
+Inflammability / Entflammbarkeit / Inflammabilité 
+ 
+ 
+ 
+UL94V0
+Salt spray / Salzsprühtest / Test de brouillard salin 
+ 
+ 
+ 
+96h
+Electrical properties / Elektrische Eigenschaften / Caractéristiques électriques
+Rated voltage / Nennspannung / Tension nominale  
+ 
+ 
+690V to 800V DC
+Rated current / Nennsstrom / Courant nominal 
+ 
+ 
+ 
+50A Max
+Insulator resistance / Isolationswiderstand / Résistance d'isolement 
+ 
+> 2000MΩ
+Dielectric withstand voltage / Spannungsfestigkeit / Rigidité diélectrique 
+3000V AC
+Shielding / Geschirmte Ausführung / Version blindée  
+ 
+ 
+Yes / Ja / Oui
+Materials / Werkstoffe / Matériaux
+Shell / Gehäuse / Boîtier  
+ 
+ 
+Aluminium alloy with zinc, nickel plating, anodized locking ring
+ 
+ 
+ 
+ 
+ 
+ 
+Zink-Aluminium-Legierung, vernickelt, Verriegelungsring eloxiert 
+ 
+ 
+ 
+ 
+ 
+ 
+Alliage d'aluminium avec zinc, nickelé, bague de verr. anodisée
+Contacts / Kontakte / Contacts 
+ 
+ 
+Copper alloy, silver plating 
+ 
+ 
+ 
+ 
+ 
+ 
+Kupferlegierung, versilbert  
+ 
+ 
+ 
+ 
+ 
+ 
+Alliage cuivreux, argenture
+Insulator / Kontaktträger / Isolant  
+ 
+Flame-retardant thermoplastic composition 
+ 
+ 
+ 
+ 
+ 
+ 
+Flammwidriger Thermoplast 
+ 
+ 
+ 
+ 
+ 
+ 
+Thermoplastique ignifugé
+Sealing / Dichtung / Joint  
+ 
+ 
+Rubber
+ 
+ 
+ 
+ 
+ 
+ 
+Kautschuk
+ 
+ 
+ 
+ 
+ 
+ 
+Caoutchouc
+These connectors must not be connected or disconnected under voltage. 
+Diese Steckverbinder dürfen betriebsmäßig unter Spannung nicht gesteckt oder getrennt werden.
+Les connecteurs ne doivent pas être couplés ou découplés sous charge.
+
+34
+1335 Multipole power connector / Mehrpoliger Power-Steckverbinder / Connecteur power multipolaire
+How to order / Bestellschlüssel / Référence
+Power metal connector                                         1335       M      404N      M        S        1  
+Metall-Power-Steckverbinder
+Connecteur power métallique: 
+ Shell type / Gehäusetyp / Type de boîtier: 
+ 
+M: Plug / Stecker / Connecteur
+ 
+E: Flange receptacle / Flanschsteckdose /  
+ 
+    Embase à bride
+ Insert arrangement / Polbilder / Arrangements inserts: 
+ 
+404N: 2 X (23A) + 2 X 7.5A
+ 
+404H: 2 X (40A) + 2 X 7.5A
+ 
+405N: 3 X (23A) + 2 X 7.5A
+ 
+405H: 3 X (40A) + 2 X 7.5A
+ 
+406N: 4 X (23A) + 2 X 13A
+ 
+406H: 4 X (40A) + 2 X 13A
+ 
+408N: 6 X (23A) + 2 X 13A
+ 
+408H: 6 X (40A) + 2 X 13A
+ 
+494H: 2 X (50A) + 2 X 7.5A
+ Insert type / Inserttyp / Type d'insert:
+ 
+M: Male contact / Stiftkontakt / Contact mâle
+ 
+F: Female contact / Buchsenkontakt / Contact femelle
+ Contact type / Kontakttyp / Type de contact: 
+ 
+S: Crimp version / Crimp-Ausführung / Version à sertir
+ Coding identification - color of the locking nut and marking of the receptacle /
+ Kennzeichnung der Kodierung - Farbe des Verriegelungsrings und Markierung auf 
+ der Steckdose / Repérage de la codification - teinte de la bague de vérouillage et 
+ marquage sur l'embase:
+ 
+N: 0° standard position, Black/ 0° Normalstellung, Schwarz/ 0° position normale, noir
+ 
+1: 270°, Red / Rot / Rouge
+ 
+2: 315°, Green / Grün / Vert
+ 
+3: 90°, Blue / Blau / Bleu
+ 
+4: 45°, Yellow / Gelb / Jaune
+
+35
+1335 Arrangements / Polbilder / Arrangements 
+SERIE 1335
+Power transmission
+Netzstecker
+Alimentation
+Shell size / Contact arrangement
+Gehäusegröße / Polbild
+Taille de boitier / Arrangement
+404
+494
+405
+406
+408
+N: 3 x 23 A +
+2 x 7,5 A 
+N: 4 x 23 A + 
+2 x 13 A 
+N: 6 x 23 A +
+2 x 13 A 
+N: 2 x 23 A + 
+2 x 7,5 A 
+H: 2 x 50 A + 
+2 x 7,5 A
+Max. current / Contact at 40°C
+Max. Strom / Kontakt bei 40°C
+Intensité max. / Contact à 40°C
+H: 3 x 40 A +
+2 x 7,5 A
+H: 4 x 40 A + 
+2 x 13 A
+H: 6 x 40 A +
+2 x 13 A
+H: 2 x 40 A + 
+2 x 7,5 A
+Contact type 
+Kontaktanschlussart
+Type de raccordement du contact
+S
+S
+S
+S
+S
+2 x 3,0 
+2 x 1,0
+2 x 3,6
+2 x 1,0
+3 x 3,0
+2 x 1,0
+4 x 3,0
+2 x 1,6
+6 x 3,0
+2 x 1,6
+Ø Contact [mm] 
+Ø Kontakt [mm]
+Ø Contact [mm]
+N: 2 x 2,4
+2 x 1,25
+N: 6 x 2,4
+2 x 1,8
+N: 4 x 2,4
+2 x 1,8
+N: 3 x 2,4
+2 x 1,25
+2 x 4,7
+2 x 1,25
+Ø Area [mm]
+Ø Anschlussbereich [mm]
+Ø Zone de connection [mm]
+H: 6 x 3,3
+2 x 1,8
+H: 4 x 3,3
+2 x 1,8
+H: 3 x 3,3
+2 x 1,25
+H: 2 x 3,3
+2 x 1,25
+N: 2,5 - 3,0
+N: 2,5 - 3,0
+N: 2,5 - 3,0
+N: 2,5 - 3,0
+H: 6,0 - 10,0 
+H: 4,0 - 6,0
+H: 4,0 - 6,0
+H: 4,0 - 6,0
+H: 4,0 - 6,0
+Wire size [mm²]
+Anschlussquerschnitt [mm²]
+Section admissible [mm²]
+Signal: 0,5 - 1,0
+Signal: 0,5 - 1,0
+Signal: 0,5 - 1,0
+Signal: 0,5 - 1,0
+Signal: 0,5 - 1,0
+2 x 9
+2 x 6
+2 x 11
+2 x 6
+3 x 9
+2 x 6
+4 x 9
+2 x 7
+6 x 9
+2 x 7
+Conductor length to be stripped [mm]
+Abisolierlänge des Leiters [mm]
+Longueur de dénudage [mm]
+Rated voltage (~/-)(1)
+Nennspannung (~/-)(1)
+Tension nominale (~/-)(1)
+690 V
+690 V
+690 V
+800 V
+800 V
+Rated impulse voltage
+Bemessungsstoßspannung
+Tension de choc mesurée
+3000 V
+3000 V
+3000 V
+3000 V
+3000 V
+1335 30 F4
+1335 30 M4
+1335 30 F6
+1335 30 M6
+1335 30 F4
+1335 30 M4
+1335 30 F4
+1335 30 M4
+1335 30 F4
+1335 30 M4
+Replacement crimp contacts
+Ersatzcrimpkontakt
+Contact de sertissage substitut
+Replacement mass contact
+Ersatzmassekontakt
+Contact masse substitut
+-
+-
+-
+-
+-
+Stamped/rolled contacts
+Gestanzt-gerollte Kontakte
+Contacts découpés roulés
+-
+-
+-
+-
+-
+1335 OD 1
+1335 OD 2
+1335 OD 1
+1335 OD 3
+1335 OD 1
+1335 OD 2
+1335 OD 4
+1335 OD 2
+1335 OD 4
+1335 OD 2
+Insert / extraction tool
+Ein-/ Ausbauwerkzeug
+Outil d'extraction
+Crimp plier
+Crimpzange
+Pince de sertissage
+1330 OP 12
+1330 OP 12
+1330 OP 12
+1330 OP 12
+1330 OP 12
+Positioner
+Crimpaufsatz
+Jeu de mors
+1330 OS 19
+1330 OS 19
+1330 OS 19
+1330 OS 19
+1330 OS 19
+Crimp plier for signal contacts
+Crimpzange für Signalkontakte
+Pince de sertissage pour c. de sign.
+5440 OP 04
+5440 OP 04
+5440 OP 04
+5440 OP 04
+5440 OP 04
+Positioner for signal contacts
+Crimpaufsatz für Signalkontakte
+Jeu de mors pour contacts signaux
+1330 OS 18
+1330 OS 18
+1330 OS 18
+1330 OS 18
+1330 OS 18
+(1) Voltage/pollutions categories: according to IEC 60664
+Nennspannung/Verschmutzungsgrad: Nach IEC 60664
+Tension/degré de pollution: Certifié selon IEC 60664
+
+36
+1335 Dimensions / Abmessungen / Dimensions
+E
+L1
+L2
+A
+B
+C
+Flange receptacle
+Flanschsteckdose
+Embase à bride
+F
+A
+B
+D
+E
+Shell / Gehäuse / Boitier
+404
+494
+405
+406
+408
+A
+24,6
+24,6
+24,6
+24,6
+29,4
+B
+33,0
+33,0
+33,0
+33,0
+36,5
+Ø C
+4,5
+4,5
+4,5
+4,5
+4,5
+Ø D
+26,0
+26,0
+26,0
+26,0
+32,2
+Ø E
+19,3
+19,3
+19,3
+19,3
+25,0
+Ø F
+22,3
+22,3
+22,3
+22,3
+28,0
+L1
+17,8
+17,8
+17,8
+17,8
+17,3
+L2
+16,1
+16,1
+16,1
+16,1
+18,6
+M
+L1
+L2
+B
+Plug
+Stecker
+Connecteur
+E
+A
+Shell / Gehäuse / Boitier
+404
+494
+405
+406
+408
+Ø A
+29,5
+29,5
+29,5
+29,5
+35,10
+Ø B
+31,1
+31,1
+31,1
+31,1
+36,0
+L1
+43,0
+43,0
+43,0
+44,8
+-
+L2 (max.)
+70,1
+70,1
+70,1
+70,0
+74,8
+Ø E
+11 - 15
+11 - 15
+11 - 15
+11 - 15
+11 -15
+
+37
+1334/1335 Polarization / Kodierung / Polarisation
+To avoid cross-plugging problems in applications requiring the use of more than one connector with the same contact size 
+and arrangement, the connectors are delivred with different codifications (see chart) 
+– the male insert (front face) is rotated  within the shell in a counterclockwise direction from the normal shell key.  
+–  the female insert (front face) is rotated in a clockwise direction the same number of degrees in respect to the normal shell 
+key.
+Um Fehlsteckungen zwischen benachbarten identischen Steckverbindungen zu vermeiden, wird der Stecker in verschiede-
+nen Winkelkodierungen geliefert (siehe Tabelle) 
+–  das Stiftisolierteil (Ansicht Vorderseite) wird im Gehäuse mit dem entsprechenden Winkel entgegen dem Uhrzeigersinn ein-
+gebaut.
+–  das Buchsenisolierteil (Ansicht Vorderseite) wird im Gehäuse mit dem entsprechenden Winkel im Uhrzeigersinn  
+eingebaut. 
+Pour éviter des erreurs d'assemblage de même arrangement, les connecteurs sont livrés avec différentes codifications (voir 
+tableau). 
+– l’insert mâle (face avant) est monté dans le boitier en le tournant dans le sens anti-horaire en fonction de l’angle choisi. 
+–  l’insert femelle (face avant) est monté dans le boitier en le tournant dans le sens horaire en fonction de l’angle choisi.
+RECEPTACLE
+STECKDOSE
+EMBASE
+PLUG
+STECKER
+CONNECTEUR 
+(°)
+Plug / Stecker / 
+Connecteur
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+(°)
+Receptacle / 
+Steckdose / 
+Embase
+1334 201
+30
+60
+90
+120
+150
+180
+1334 201
+30
+60
+90
+120
+150
+180
+1334 301
+30
+60
+90
+120
+150
+180
+1334 301
+30
+60
+90
+120
+150
+180
+1334 501
+30
+60
+90
+120
+150
+180
+1334 501
+30
+60
+90
+120
+150
+180
+RECEPTACLE  
+STECKDOSE
+EMBASE
+STRAIGHT PLUG
+STECKER, GERADE
+CONNECTEUR DROIT
+(°)
+Plug / Stecker / 
+Connecteur
+1
+2
+3
+4
+N
+1
+2
+3
+4
+N
+(°)
+Receptacle /
+Steckdose / 
+Embase
+1335 404
+270
+315
+90
+45
+0
+1335 404
+270
+315
+90
+45
+0
+1335 405
+270
+315
+90
+45
+0
+1335 405
+270
+315
+90
+45
+0
+1335 406
+270
+315
+90
+45
+0
+1335 406
+270
+315
+90
+45
+0
+1335 408
+270
+315
+90
+45
+0
+1335 408
+270
+315
+90
+45
+0
+1335 494
+270
+315
+90
+45
+0
+1335 494
+270
+315
+90
+45
+0
+
+38
+Overmolded connector and derivation box / Sonderstecker und Verteilerbox / Connecteur cablé et boite 
+de distribution
+Overmolded connectors: 
+Cabled connectors with straight or 90° overmolding (to IP67) are possible for all contact layouts.  
+The technical details are identical to those of standard connectors.
+Overmolding for silicone, PUR and TPE cables, other types on request
+Umspritzte Steckverbinder: 
+Konfektionierte Steckverbinder mit gerader oder 90° Umspritzung (bis IP67) sind möglich für alle Polbilder.  
+Die technischen Eigenschaften sind identisch mit denen der Standard Steckverbinder (weitere Angaben auf Anfrage).
+Umspritzung für Silikon, PUR und TPE-Kabel, andere Typen auf Anfrage
+Connecteur surmoulé: 
+Possibilité de connecteur câblé surmoulé droite ou coudé (jusqu’à IP 67) pour tous les arrangements.  
+Les caractéristiques techniques sont identiques au connecteur standard (informations sur demande).
+Surmoulage pour silicone, PUR et cables TPE, d'autres types sur demande
+Derivation box / Verteilerbox / Boite de distribution
+Cabled boxes compliant with your specifications.
+Verkabelte Boxen konform mit Ihren Spezifikationen.
+Boxes cablées conformes à vos propositions.  
+
+39
+Guidelines to select a plug connector as per DIN EN 61984 (VDE 0627)
+Guidelines to select a plug connector as per DIN EN 61984 (VDE 0627)
+The EN 61984 standard replaces the former VDE 0627. This applies to plug connectors for rated voltages from 
+50 to 1000 V and rated currents to 500A for each contact, for which there is neither no construction type spe-
+cification, or this specification refers to this standard. Industrial plug connectors can be found in a great variety 
+on the market, but everyone does not meet the requirements of the EN 61984 standard in all its points. In too 
+many cases, the responsibility is on the user, when choosing a plug connector, assumes that every plug which is 
+offered on the market offers the highest safety. But this is not the case.
+The DIN EN 61984 standard differentiates between plug connectors with and without switching capacity. The 
+plug connectors without switching capacity and materials which should not be plugged or unplugged under load 
+or when conducting current. Plug connectors with switching capacity, on the other hand, can be plugged or 
+unplugged under current. A significant difference is that plug connectors with switching capacity, the protective 
+ground connection must first be advanced when plugging in and lagged when unplugged (EN 61984, 6.5.1). 
+The following information is important for a safe selection of a plug connector: Should one unplug under load, 
+one must ensure that the existing breaking capacity is sufficient, or has an enabling  device (such as pilot con-
+tacts in connection with a load switch). In this case, the plug connector must have an advanced ground contact. 
+This is connected with a metal plug device with the housing. It should be noted that the voltage must be present 
+in a separated state wherever the socket contacts are mounted. In addition to these important instructions, the 
+following information is needed:
+Electrical
+• 
+Rated current
+• 
+Operating voltage
+• 
+Type of voltage production
+Mechanical
+• 
+Number of contacts
+• 
+Wire cross-section
+• 
+Contact connection type
+• 
+(Solder, crimp, PCB, etc.)
+• 
+Needed number of plugging cycles
+• 
+Outside cable diameter
+• 
+Type of protection as per VDE 0470 or EN 60529
+Environmental influences
+• 
+Contamination in the plug environment
+• 
+Environmental temperature
+• 
+Environmental aggressiveness
+• 
+Requirements as per EMVG or EU Directive 89/336 (replaced by 2004/108)
+
+40
+Guidelines to select a plug connector as per DIN EN 61984 (VDE 0627)
+Rated current
+The continuous supplied current is always measured in accordance with ambient temperature. This maximum 
+allowed current can rapidly drop if the environmental temperature rises. The upper deployment temperature 
+given for the plug connector is the approved rated current equal to zero, as otherwise, the upper deployment 
+temperature will be exceeded due to self-heating. The maximum rated current determined in the derating curve 
+can be read for the respective ambient temperatures. The curve shown in this catalog (see page 24) is gi-
+ven per contact, this does not mean that all contacts can conduct this current in the case of a mul-
+tipole or high-pole connector. The total plug heating has to be considered for the calculation of the 
+current carrying capacity. 
+Rated voltage
+Rated voltage is only given for a certain level of contamination. The level of contamination is defined in DIN EN 
+60664-1 (VDE 0110) as follows:
+• 
+Contamination level 1 
+There is no, or only dry, non-conductive contamination. The contamination has no influence.
+• 
+Contamination level 2 
+Only non-conductive contamination is present. Occasionally, however, one can count on temporary conduc-
+tivity due to thawing.
+• 
+Contamination level 3 
+Conductive contamination on or dry, non-conductive contamination which is conductive because one can 
+expect thawing.
+• 
+Contamination level 4 
+Constant conductivity occurs, caused by conductive dust, rain or wetness. 
+The rated current depends upon various criteria for the user.
+User-specific: 
+The protection type of the plug connector and the contamination level of the connector environment as per EN 
+60664-1 (VDE 0110)
+Manufacturer-specific: 
+Depends upon the voltage strength of the material from which the insulated bodies are manufactured (see EN 
+60664-1, Comparative Tracking Index (CTI) as well as air and creepage paths). The user has no influence on 
+manufacturer-specific criteria, but user-specific criteria influence rated voltage. 
+Plugging cycles
+The minimum or maximum plugging cycles are given by the manufacturer. These depend upon contact quality 
+and contact surfaces. After the number of given plugging cycles, it is possible that contact resistance no longer 
+provides the value required by the standard.
+
+41
+Guidelines to select a plug connector as per DIN EN 61984 (VDE 0627)
+Backshell selection
+ 
+In selecting a backshell, it is important to know the outside cable diameter; this is for two reasons:
+• 
+Each backshell guarantees the cable pull forces set forth in DIN EN 61984 6.17 only within a specified termi-
+nal area
+• 
+The seal and thus the protection type (as per DIN EN 60529) of the plug connector is only ensured with re-
+gards to the cable diameter range as provided by the manufacturer
+Note: The information that the plug connector meets IP67 protection type does not assume that it also meets 
+IP66 protection type. Protection type IP67 is examined with penetration from temporary dunking in water; protec-
+tion type IP66 is for protection against strong water streams.
+A metallic backshell can only be deployed as per EN 61984 6.17 if:
+• 
+the plug connector has a ground connected to the housing, or
+• 
+only safety extra low voltage (SELV as per IEC 60364-4-41) is used, or
+• 
+touching with a test finger as per IEC 60529 is excluded.
+In all other cases, the backshell must, if made of metal, have a fully insulating covering.
+EMI protection Connecting to a shield
+Devices may only be placed on the market which fulfill the requirements of the EMVG [electromagnetic compati-
+bility of devices] and have the CE mark in accordance with the EMVG law.   
+Thus EMC requirements are derived for a plug connector to a great extent, although there are no statutory EMC 
+requirements for the plug connector itself. In selecting a plug connector with a shield connection, it is important 
+to know the attenuation values of a plug connector with a shield connection. This attenuation is for the most part 
+frequency-depended, and is derived from the characteristics provided by the plug connector manufacturer.
+
+42
+Leitfaden zur Auswahl eines Steckverbinders nach DIN EN 61984 (VDE 0627)
+Leitfaden zur Auswahl eines Steckverbinders nach DIN EN 61984 (VDE 0627)
+Die Norm EN 61984 ersetzt die ehemalige VDE 0627. Sie gilt für Steckverbinder mit Bemessungsspannungen 
+von 50V bis 1000V und Bemessungsströme bis 500A je Kontakt, für die es entweder keine Bauartspezifikation 
+gibt, bzw. deren Spezifikation sich auf diese Norm bezieht. Industriesteckverbinder sind am Markt in einer großen 
+Vielfalt zu finden, doch nicht jeder entspricht in allen Punkten den Anforderungen der Norm EN 61984. In zu vie-
+len Fällen ruht die Verantwortung auf dem Anwender, der bei der Auswahl des Steckverbinders davon ausgeht, 
+dass jeder auf dem Markt erhältliche Stecker die höchste Sicherheit bietet. Doch das ist nicht so.
+Die Norm DIN EN 61984 unterscheidet zwischen Steckverbindern mit oder ohne Schaltleistung. Die Steckverbin-
+der ohne Schaltleistung sind Betriebsmittel, die unter Last oder spannungsführend nicht gesteckt oder getrennt 
+werden dürfen. Steckverbinder mit Schaltleistung dagegen können unter Last oder Spannung gesteckt und 
+getrennt werden. Ein wesentlicher Unterschied ist, dass bei Steckverbindern mit Schaltleistung, der Schutzleiter-
+kontakt beim Stecken voreilend und beim Trennen nacheilend sein muss (EN 61984, 6.5.1).
+Zur sicheren Auswahl eines Steckverbinders sind nachstehende Informationen wichtig: Soll er unter Last getrennt 
+werden können, ist sicherzustellen, dass er der anstehenden Schaltleistung genügt, bzw. über eine Freischalt-
+vorrichtung verfügt (z. B. Pilotkontakte in Verbindung mit einem Lastschalter). In diesem Fall, muss der Steckver-
+binder einen voreilenden Schutzleiterkontakt haben. Dieser ist bei einer Metallsteckvorrichtung mit dem Gehäuse 
+verbunden. Dabei ist zu beachten, dass die Spannung in getrenntem Zustand immer dort anstehen soll, wo die 
+Buchsenkontakte montiert sind. Neben diesen wichtigen Angaben werden folgende Informationen benötigt:
+Elektrisch
+• 
+Nennstrom
+• 
+Betriebsspannung
+• 
+Art der Spannungserzeugung
+Mechanisch
+• 
+Anzahl der Kontakte
+• 
+Aderquerschnitt
+• 
+Anschlussart der Kontakte
+• 
+(Löt, Crimp, PCB, …)
+• 
+Benötigte Anzahl der Steckzyklen
+• 
+Kabelaußendurchmesser
+• 
+Benötigte Schutzart nach VDE 0470, bzw. EN 60529
+Umwelteinflüsse
+• 
+Verschmutzung im Steckerumfeld
+• 
+Umgebungstemperatur
+• 
+Aggressivität der Umgebung
+• 
+Forderungen gemäß EMVG, bzw. EG Richtlinie 89/336 (ersetzt durch 2004/108)
+
+43
+Leitfaden zur Auswahl eines Steckverbinders nach DIN EN 61984 (VDE 0627)
+Nennstrom
+Der zuführende Dauerstrom ist immer in Abhängigkeit einer Umgebungstemperatur zu bewerten. Dieser maxi-
+male zulässige Strom kann bei steigender Umgebungstemperatur rapide sinken. Bei der für den Steckverbinder 
+angegebenen, oberen Einsatztemperatur ist der zulässige Nennstrom gleich Null, da sonst die obere Einsatz-
+temperatur durch Selbsterwärmung überschritten würde. Der in der Derating-Kennlinie selbstermittelte maximale 
+Bemessungsstrom kann für die jeweiligen Umgebungstemperaturen abgelesen werden. Die in diesem Katalog 
+gezeigte Kennlinie (siehe Seite 24) ist pro Kontakt angegeben, dies bedeutet nicht, dass bei einem 
+mehr- bzw. hochpoligen Steckverbinder alle Kontakte diesen Strom führen können. Für die Berech-
+nung der gesamten Strombelastbarkeit muss die gesamte Erwärmung des Steckverbinders berück-
+sichtigt werden. 
+Nennspannung
+Die Nennspannung wird meistens nur für einen gewissen Verschmutzungsgrad angegeben.  
+Der Verschmutzungsgrad ist in DIN  EN 60664-1 (VDE 0110) wie folgt definiert:
+• 
+Verschmutzungsgrad 1 
+Es tritt keine oder nur trockene, nicht leitfähige Verschmutzung auf. Die Verschmutzung hat keinen Einfluss.
+• 
+Verschmutzungsgrad 2 
+Es tritt nur nichtleitfähige Verschmutzung auf. Gelegentlich muss jedoch mit vorübergehender Leitfähigkeit 
+durch Betauung gerechnet werden.
+• 
+Verschmutzungsgrad 3 
+Es tritt leitfähige Verschmutzung auf oder trockene, nicht leitfähige Verschmutzung, die leitfähig wird, da Be-
+tauung zu erwarten ist.
+• 
+Verschmutzungsgrad 4 
+Es tritt eine dauernde Leitfähigkeit auf, hervorgerufen durch leitfähigen Staub, Regen oder Nässe.
+Die Nennspannung ist für den Anwender von verschiedenen Kriterien abhängig:
+Anwenderspezifisch: 
+Von der Schutzart des Steckverbinders und dem Verschmutzungsgrad des Steckerumfeldes nach EN 60664-1 
+(VDE 0110)
+Herstellerspezifisch: 
+Von der Spannungsfestigkeit des Werkstoffes, aus dem der Isolierkörper hergestellt ist (siehe EN 60664-1 Com-
+parative Tracking Index (CTI)) sowie von Luft- und Kriechstrecken. Auf die herstellerspezifischen Kriterien hat der 
+Anwender keinen Einfluss, doch die anwenderspezifischen Kriterien beeinflussen die Nennspannung. 
+Steckzyklen
+Die Minimal- bzw. Maximalsteckzyklen werden vom Hersteller angegeben. Diese sind abhängig von der Kontakt-
+beschaffenheit und der Kontaktoberfläche. Nach der Anzahl der angegebenen Steckzyklen besteht die Möglich-
+keit, dass der Kontaktwiderstand nicht mehr dem von der Norm geforderten Wert entspricht.
+
+44
+Leitfaden zur Auswahl eines Steckverbinders nach DIN EN 61984 (VDE 0627)
+Endgehäuseauswahl
+Bei der Auswahl eines Endgehäuses ist es wichtig, den Kabelaußendurchmesser zu kennen, und zwar aus zwei 
+Gründen:
+• 
+Jedes Endgehäuse garantiert die in DIN EN 61984 6.17 geforderten Kabelzugkräfte nur in einem bestimmten 
+Klemmbereich
+• 
+Die Dichtigkeit und somit die Schutzart (nach DIN EN 60529) des Steckers sind nur unter Berücksichtigung 
+des vom Hersteller angegebenen Kabeldurchmesserbereichs gewährleistet
+Hinweis: Die Angabe, dass der Steckverbinder der Schutzart IP67 entspricht, setzt nicht voraus, dass er auch 
+der Schutzart IP66 entspricht. Bei der Schutzart IP67 wird die Einwirkung beim zeitweiligen Untertauchen in Was-
+ser geprüft, bei der Schutzart IP66 der Schutz gegen starkes Strahlwasser. 
+Ein metallisches Endgehäuse kann nach EN 61984 6.17 nur eingesetzt werden, wenn:
+• 
+der Steckverbinder einen mit dem Gehäuse verbundenen Schutzkontakt hat, oder
+• 
+nur Sicherheitskleinspannung (SELV nach IEC 60364-4-41) verwendet wird, oder
+• 
+die Berührung mit dem Prüffinger nach IEC 60529 ausgeschlossen ist.
+In allen anderen Fällen muss das Endgehäuse, wenn es aus Metall ist, über eine volle Isolierauskleidung verfügen. 
+EMV Schutz: Anbinden einer Abschirmung
+Mit dem Gesetz über elektromagnetische Verträglichkeit von Geräten (EMVG) dürfen nur noch Geräte in Verkehr 
+gebracht werden, die die Schutzziele des EMVG erfüllen und das CE Zeichen tragen. Dadurch werden in ver-
+stärktem Maße EMV-Anforderungen an den Steckverbinder abgeleitet, obwohl an den Steckverbinder selbst kei-
+ne gesetzlichen EMV-Forderungen gestellt werden. Bei der Auswahl des Steckverbinders mit Schirmanbindung 
+ist es wichtig, die Dämpfungswerte eines Steckverbinders mit Schirmanschluss zu kennen. Diese Dämpfung ist 
+weitgehend frequenzabhängig und geht aus der vom Steckerhersteller gestellten Kennlinie hervor.
+
+45
+Guide de sélection d’un connecteur selon la norme DIN EN 61984 (VDE 0627)
+Guide de sélection d’un connecteur selon la norme DIN EN 61984 (VDE 0627)
+La norme EN 61984 remplace l’ancienne norme VDE 0627. Elle s’applique aux connecteurs pour des tensions 
+assignées de 50 V à 1 000 V et des courants assignés de 500 A maximum par contact, pour lesquels il n’existe 
+aucune spécification de type ou dont la spécification se réfère à cette norme. Une grande variété de connecteurs 
+industriels est disponible dans le commerce. Cependant, tous ne répondent pas en tous points aux exigences 
+de la norme EN 61984. Trop souvent, la responsabilité repose sur l’utilisateur qui, lorsqu’il choisit un connecteur, 
+part du principe que chaque connecteur disponible sur le marché offre une sécurité maximale. Pourtant, ce n’est 
+pas le cas.
+La norme DIN EN 61984 différencie les connecteurs avec ou sans pouvoir de coupure. Les connecteurs sans 
+pouvoir de coupure sont des équipements qui ne doivent pas être branchés ou débranchés sous charge ou sous 
+tension, contrairement aux connecteurs avec pouvoir de coupure qui peuvent l’être. Une différence essentielle 
+est que le contact de mise à la terre des connecteurs avec pouvoir de coupure doit être à action avancée lors du 
+branchement et à action retardée lors du débranchement (EN 61984, 6.5.1). 
+Les informations ci-après sont importantes pour choisir en toute sécurité un connecteur : s’il doit pouvoir être 
+débranché sous charge, il faut s’assurer qu’il est suffisant pour le pouvoir de coupure existant ou qu’il possède 
+un dispositif de déconnexion (par ex. contacts pilotes reliés à un interrupteur à coupure en charge). Dans ce cas, 
+le connecteur doit avoir un contact de mise à la terre à action avancée. Celui-ci est raccordé au boîtier dans le 
+cas d’un dispositif de connexion métallique. Il est à noter que, lorsque le connecteur est débranché, les points de 
+montage des contacts femelles sont censés être toujours conducteurs de tension. Outre ces indications impor-
+tantes, les informations suivantes sont nécessaires:
+Caractéristiques électriques
+• 
+Courant nominal
+• 
+Tension de service
+• 
+Type de générateur de tension
+Caractéristiques mécaniques
+• 
+Nombre de contacts
+• 
+Section de conducteur
+• 
+Mode de raccordement des contacts
+• 
+(à souder, à sertir ou pour circuit imprimé, etc.)
+• 
+Nombre requis de cycles de connexion
+• 
+Diamètre extérieur de câble
+• 
+Indice de protection requis selon VDE 0470 ou EN 60529
+Influences environnementales
+• 
+Pollution dans l’environnement du connecteur
+• 
+Température ambiante
+• 
+Agressivité de l’environnement
+• 
+Exigences de la loi sur la compatibilité électromagnétique des appareils ou de la directive CE 89/336 (rempla-
+cée par 2004/108)
+
+46
+Guide de sélection d’un connecteur selon la norme DIN EN 61984 (VDE 0627)
+Courant nominal
+Le courant permanent d’alimentation doit toujours être évalué en fonction d’une température ambiante. Ce 
+courant maximal admissible peut rapidement baisser en cas de hausse de la température ambiante. Avec la 
+température d’utilisation supérieure indiquée pour le connecteur, le courant nominal admissible est égal à zéro. 
+Autrement, la température d’utilisation supérieure serait dépassée par auto-échauffement. Le courant assigné 
+maximal autodéterminé dans la caractéristique de réduction peut être relevé pour les températures ambiantes 
+respectives. La courbe représentée dans ce catalogue (voir page 24) est donnée par contact, cela ne 
+signifie pas que tous les contacts peuvent conduire ce courant dans le cas d'un connecteur multi-
+polaire ou de haute densité. Il faut également considérer l'échauffement total du connecteur pour le 
+calcul de l'intensité admissible.
+Tension nominale
+La plupart du temps, la tension nominale est indiquée uniquement pour un certain degré de pollution. Le degré 
+de pollution est défini dans la norme DIN EN 60664-1 (VDE 0110) comme suit :
+• 
+Degré de pollution 1 
+Il n’existe pas de pollution ou il se produit seulement une pollution sèche, non conductrice. La pollution n’a 
+pas d’influence.
+• 
+Degré de pollution 2 
+Il ne se produit qu’une pollution non conductrice. Cependant, on doit s’attendre de temps à autre à une 
+conductivité temporaire provoquée par la condensation.
+• 
+Degré de pollution 3
+• 
+Il existe une pollution conductrice ou une pollution sèche, non conductrice, qui devient conductrice à cause 
+de la condensation qui peut se produire.
+• 
+Degré de pollution 4 
+Il existe une conductivité persistante due à la poussière conductrice, à la pluie ou à l’humidité. 
+La tension nominale dépend de divers critères pour l’utilisateur :
+Critères spécifiques à l’utilisateur : 
+Indice de protection du connecteur et degré de pollution dans l’environnement du connecteur selon la norme EN 
+60664-1 (VDE 0110)
+Critères spécifiques au fabricant : 
+Rigidité diélectrique du matériau à partir duquel le corps isolant est fabriqué (voir EN 60664-1 indice de résis-
+tance au cheminement (IRC)) ainsi que distances d’isolement et lignes de fuite. L’utilisateur n’a pas d’influence 
+sur les critères spécifiques au fabricant. Pourtant, les critères spécifiques à l’utilisateur influent sur la tension 
+nominale. 
+Cycles de connexion
+Les cycles de connexion minimum et maximum sont indiqués par le fabricant. Ils dépendent de la nature des 
+contacts et de la surface de contact. Selon le nombre de cycles de connexion indiqués, il est possible que la 
+résistance de contact ne corresponde plus à la valeur exigée par la norme.
+
+47
+Guide de sélection d’un connecteur selon la norme DIN EN 61984 (VDE 0627)
+Choix du boîtier d’extrémité
+Lors du choix d’un boîtier d’extrémité, il est important de connaître le diamètre extérieur de câble, et ce, pour 
+deux raisons :
+• 
+Chaque boîtier d’extrémité garantit les forces de traction de câble requises par la norme DIN EN 61984 6.17, 
+uniquement dans une plage de serrage donnée.
+• 
+L’étanchéité et, donc, l’indice de protection (selon la norme DIN EN 60529) du connecteur sont assurés uni-
+quement en tenant compte de la plage de diamètres de câble indiquée par le fabricant.
+Remarque : la conformité du connecteur à l’indice de protection IP67 ne sous-entend pas qu’il satisfait égale-
+ment l’indice de protection IP66. On contrôle les effets d’une immersion temporaire dans l’eau pour l’indice de 
+protection IP67 et la protection contre les jets d’eau puissants pour l’indice de protection IP66. 
+Selon la norme EN 61984 6.17, l’utilisation d’un boîtier d’extrémité métallique est uniquement possible si :
+• 
+le connecteur a un contact de protection relié au boîtier ou
+• 
+seule une très basse tension de sécurité (TBTS selon CEI 60364-4-41) est utilisée ou
+• 
+tout contact avec le doigt d’épreuve est exclu selon CEI 60529.
+Dans tous les autres cas, le boîtier d’extrémité (s’il est en métal) doit disposer d’un revêtement d’isolation com-
+plet.
+Protection CEM : liaison d’un blindage
+Conformément à la loi sur la compatibilité électromagnétique des appareils, seuls les appareils qui répondent 
+aux objectifs de protection de cette loi et qui portent le sigle CE sont autorisés à être mis sur le marché. Les 
+exigences posées au connecteur en matière de compatibilité électromagnétique en sont déduites dans une large 
+mesure, bien que le connecteur en lui-même ne soit pas soumis à des exigences légales en la matière. Lors du 
+choix du connecteur avec raccordement de blindage, il est important de connaître les valeurs d’affaiblissement 
+de ce dernier. Cet affaiblissement dépend largement de la fréquence et résulte de la caractéristique établie par le 
+fabricant de connecteurs.
+
+48
+Notes / Notizen / Notes
+
+
+Amphenol Nexus Technologies
+www.nexus.com
+50 Sunnyside Avenue
+Stamford, CT 06902
++1 (203) 327-7300
+Amphenol Aerospace Operations
+www.amphenol-aerospace.com
+40-60 Delaware Avenue
+Sidney, NY 13838
++1 (800) 678-0141
+Amphenol Interconnect India
+www.amphenol-in.com
+105, Bhosari Industrial Area
+Pune – 411 026
+India
++91 20 27120363
+Amphenol Optimize
+www.amphenol-optimize.com
+Carretera Internacional Km 6.5
+Col. Parque Industrial
+Nogales, Sonora, México. C.P. 84094
++52 (631) 311-160
+Amphenol-Air LB GmbH
+www.amphenol-airlb.de
+Am Kleinbahnhof 4
+D-66740 Saarlouis
+Germany
++49 (0) 68 31/98 10 0
+Amphenol Invotec
+www.amphenol-invotec.com
+Unit 1-3, Hedging Lane Industrial 
+Estate
+Dosthill, Tamworth, B77 5HH
+United Kingdom
++44 (0) 1827 263000
+Amphenol PCD
+www.amphenolpcd.com
+72 Cherry Hill Drive
+Beverly, MA 01915
++1 (978) 624-3400
+Amphenol-Air LB SAS
+www.amphenol-airlb.fr
+2 Rue Clément Ader, Zac de Wé
+08110 Carignan
+France
++33 (0) 03 24 22 78 49
+Amphenol Ionix Systems
+www.ionix-systems.com
+Prospect House, Taylor Business Park
+Risley, Warrington, WA3 6HP
+United Kingdom
++44 (0) 1942 685200
+Amphenol Printed Circuits
+www.amphenol-apc.com
+91 Northeastern Boulevard
+Nashua, NH 03062
++1 (603) 324-4500
+Amphenol Bar-Tec Ltd
+www.bar-tec.com
+3 Hagavish st
+POB 2479 Kfar-Saba 44641
+Israel
++972-9-7644100
+Amphenol Ionix Systems OÜ
+www.ionix-systems.com
+Pikk Street 59b
+Kuressaare 93815 
+Estonia 
++372 4521 780
+Amphenol SEFEE
+www.sefee.com
+Z.I. des Cazes – BP243
+12402 Saint-Affrique Cedex
+France
++33 (0) 5 65 98 11 00
+Amphenol Borisch Technologies
+www.borisch.com
+4511 East Paris AVE
+Grand Rapids, MI 49512
++1 (616) 554-9820
+Amphenol Japan, Ltd.
+www.amphenol.co.jp
+471-1, Deba, Ritto-City
+Shiga, 520 3041
+Japan
++81 77 553 8501
+Amphenol Socapex
+www.amphenol-socapex.com
+948 Promenade De L’Arve – BP 29
+74311 Thyez
+France
++33 (0) 4 50 89 28 00
+Amphenol Canada
+www.amphenolcanada.com
+605 Milner Avenue
+Toronto, ON Canada M1B 5X6
++1 (416) 291-0647
+Amphenol Limited
+www.amphenol.co.uk
+Thanet Way
+Whitstable, Kent, CT5 3JF
+United Kingdom
++44 (0) 1227 773200
+Amphenol SV Microwave
+www.svmicrowave.com
+2400 Centrepark West Drive
+West Palm Beach, FL
++1 (561) 840-1800
+Amphenol Commercial Air Division
+www.amphenol-aerospace.com
+40-60 Delaware Avenue
+Sidney, NY 13838
++1 (800) 678-0141
+Amphenol Martec Limited
+www.martec.solutions
+St. Augustines Business Park
+Swalecliffe, Whitstable, Kent CT5 2QJ
+United Kingdom
++44 (0) 1227 793 733
+Amphenol Times Microwave, Inc.
+www.timesmicrowave.com
+358 Hall Avenue
+Wallingford, CT 06492
++1 (800) 867-2629
+Amphenol FSI
+www.fibersystems.com
+1300 Central Expressway North, 
+Suite 100
+Allen, TX 75013
++1 (214) 547-2400
+Phitek
+www.phitek.com
+Level 4, 2 Kingdon Street
+Newmarket, Auckland 1023
+New Zealand
++64 9 524 2984
+Amphenol Military & Aerospace 
+Operations – 
+European Sales Operations
+Via Barbaiana 5
+20020 Lainate
+Milano, Italy
++39 02 932 541
+Amphenol Griffith Enterprises
+www.griffithent.com
+6000 East Coury Drive
+Cottonwood, AZ 86326
++1 (928) 634-3685
+Amphenol-Air LB GmbH   Am Kleinbahnhof 4   D-66740 Saarlouis
+Telefon +49 (0)68 31 98 10 -0   Telefax +49(0)68 31 9810-20   E-mail: info@amphenol-airlb.de
+http://www.amphenol-airlb.de
+ECTA 
+Gedruckt auf chlorfrei gebleichtem Papier, Änderungen vorbehalten.
+Copyright 10/17 by Amphenol-Air LB GmbH, Germany
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  133016F  133016M  133020F  133020M  1331-M-295-FS  13301BE  13302BE  13302JE  133022M  13303JE 
+13304JE  1332EV003FS  1332EV212FS  133040F1  133040M1  1331E303AMS  1332MU319MS  13302PES1 
+1332EV006FS1  1332EV006FS  1332EV107FS  13303PEM  13302PM20  1332E212FZ  1332M003MS  1332M212FS 
+1332M212FZ  1331EV295MS  13305PM25  1331E193FS  1331E295MS  1331M205FZ  1331M295FS  1331M303MZ 
+1332E006MS  1331-EV-295-MS

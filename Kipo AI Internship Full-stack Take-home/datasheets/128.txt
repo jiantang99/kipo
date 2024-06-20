@@ -1,0 +1,1318 @@
+®
+Amphenol
+97 E Pre-Earth FMLB
+www.amphenol-industrial.com
+
+Amphenol
+www.amphenol-industrial.com
+Amphenol
+www.amphenol-industrial.com
+97 E Pre-Earth FMLB
+Amphenol® Pre-Earth/First Mate Last Break Connectors are designed for applications where a protective circuit from the ground 
+contact to the shell is critical. These connectors provide a path for any stray voltage to be shunted to a safe ground avoiding 
+harm to the operator and the voltage sensitive equipment.
+Specifications
+Features
+• Pre-earth (contact grounded to shell) design. 
+Electrical Characteristics
+• First mate, last break capability. 
+Contact Size
+#16
+#12
+#8
+#4
+Rated Current
+• Designed to meet IEC/EN 61984 (in 
+Amperes
+13
+23
+46
+80
+processing) UL recognition file E115497
+Rated Voltage
+Refer to individual insert pattern
+• Class IP67 protection, receptacle in unmated 
+and plug in mated condition. 
+Dielectric Withstanding Voltage
+2000V - 3000V AC
+• MIL-5015 dimensions and performance where 
+Insulation Resistance
+5000M (Min) @500V DC
+applicable. Intermateable with MS 5015 and 
+97 Series. 
+Materials and Mechanical
+• Offer shell styles: 3102A box mount, 3106A 
+straight plug.
+Components
+Material & Coating
+• Standard plating is black zinc alloy. Green zinc 
+Shell
+Aluminum Alloy with optional plating
+and other plating types are optional.
+Coupling nut
+Aluminum Alloy with optional plating
+Contact
+Copper alloy with silver plating(Au plating optional)
+Seal insert
+Silicon rubber
+Targeted Applications
+Hard insert
+Plastic resin
+• Servo motor
+Retaining Ring
+Copper alloy with nickel plating
+• Robots
+Earth pin
+Copper alloy with silver plating
+• Machinery
+Gasket
+Silicon rubber
+• Semiconductor Equipment
+Durability
+100 mating cycles minimum
+• Process control & testing
+Contact termination
+Soldering
+• Measurement equipment
+• FA equipment
+Environmental
+• Industrial equipment
+Waterproof Rating
+IP67
+Operating Temperature
+-55°C to 125°C
+Safety
+Pre-earth and First Mate Last Break
+Designed to meet IEC/EN 61984, certification in process
+Underwriters Laboratories approved
+
+Amphenol
+www.amphenol-industrial.com
+Amphenol
+www.amphenol-industrial.com
+Alternate Insert Positioning
+NORMAL
+W
+Z
+Y
+X
+FRONT FACE OF PIN INSERT
+Alternate Insert Position
+Contact Arrangement
+Total Contacts
+Contact Size
+W
+X
+Y
+Z
+10SL-3
+3
+#16
+-
+-
+-
+-
+14S-2
+4
+#16
+-
+120°
+240°
+-
+18-10
+4
+#12
+-
+120°
+240°
+-
+18-12
+6
+#16
+80°
+-
+-
+280°
+20-4
+4
+#12
+45°
+110°
+250°
+-
+20-15
+7
+#12
+80°
+-
+-
+280°
+20-18
+9
+6X #16, 3X #12
+-
+-
+-
+-
+22-22
+4
+#8
+-
+110°
+250°
+-
+22-23
+8
+#12
+35°
+-
+-
+-
+24-10
+7
+#8
+80°
+-
+-
+280°
+24-11
+9
+3X #8, 6X #12
+-
+-
+-
+-
+32-17
+4
+#4
+45°
+110°
+250°
+-
+Note: Shadowed are tooled, not shadowed will toon soon
+Applicable Cable Size
+Total Contacts
+Soldering Well 
+Diameter
+Wire AWG
+Wire Area
+#16
+ɸ1.76
+#22 - #16
+1.25mm2
+#12
+ɸ2.70
+#14 - #12
+3.50mm2
+#8
+ɸ4.70
+#10 - #8
+8.00mm2
+#4
+ɸ7.50
+#6 - #4
+22.00mm2
+
+Amphenol
+www.amphenol-industrial.com
+Insert Arrangement
+10SL-3
+14S-2
+18-10
+18-12
+D
+A
+F
+D
+A
+F
+D
+A
+F
+D
+A
+F
+A
+E
+A
+E
+A
+E
+A
+E
+A
+A
+A
+A
+C
+D
+A
+C
+D
+A
+C
+D
+A
+C
+D
+A
+Insert Pattern
+C
+B
+C
+B
+C
+B
+C
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+C
+C
+C
+C
+D
+A
+F
+D
+A
+F
+D
+A
+F
+D
+A
+F
+A
+E
+A
+E
+A
+E
+A
+E
+A
+A
+A
+A
+C
+D
+A
+C
+D
+A
+C
+D
+A
+C
+D
+A
+C
+B
+C
+B
+C
+B
+C
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+C
+C
+C
+C
+Contact Size
+#16
+#16
+#12
+#16
+D
+A
+F
+D
+A
+F
+D
+A
+F
+D
+A
+F
+A
+E
+A
+E
+A
+E
+A
+E
+A
+A
+A
+A
+C
+D
+A
+C
+D
+A
+C
+D
+A
+C
+D
+A
+Ground Pin Number
+C
+D
+D
+D
+C
+B
+C
+B
+C
+B
+C
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+B
+D
+C
+B
+B
+C
+C
+C
+C
+Rated Voltage (r.m.s)
+AC200V
+AC320V
+AC200V
+AC400V
+AC250V
+AC500V
+AC200V
+AC400V
+Overvoltage (r.m.s)
+III
+II
+III
+II
+III
+II
+III
+II
+Pollution Degree
+3
+2
+3
+2
+3
+2
+3
+2
+Dielectric Withstanding Voltage
+AC2000V (r.m.s)
+AC2000V (r.m.s)
+AC3000V (r.m.s)
+AC2000V (r.m.s)
+Current Capacity
+13A
+13A
+23A
+13A
+G
+H
+A
+G
+H
+A
+G
+H
+A
+G
+H
+A
+A
+A
+A
+A
+D
+A
+D
+A
+D
+A
+D
+A
+D
+A
+F
+D
+A
+F
+D
+A
+F
+D
+A
+F
+20-4
+20-15
+20-18
+22-22
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+C
+B
+C
+B
+C
+B
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+E
+D
+C
+E
+D
+C
+E
+D
+C
+E
+D
+C
+G
+H
+A
+G
+H
+A
+G
+H
+A
+G
+H
+A
+A
+A
+A
+A
+D
+A
+D
+A
+D
+A
+D
+A
+D
+A
+F
+D
+A
+F
+D
+A
+F
+D
+A
+F
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+C
+B
+C
+B
+C
+B
+C
+B
+Insert Pattern
+C
+D
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+E
+D
+C
+E
+D
+C
+E
+D
+C
+E
+D
+C
+G
+H
+A
+G
+H
+A
+G
+H
+A
+G
+H
+A
+A
+A
+A
+A
+D
+A
+D
+A
+D
+A
+D
+A
+D
+A
+F
+D
+A
+F
+D
+A
+F
+D
+A
+F
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+E
+G
+B
+F
+I
+B
+C
+B
+C
+B
+C
+B
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+C
+D
+C
+B
+E
+D
+C
+E
+D
+C
+E
+D
+C
+E
+D
+C
+Contact Size
+#12
+#12
+#12  #16
+#8
+Ground Pin Number
+D
+D
+D, E
+D
+Rated Voltage (r.m.s)
+AC250V
+AC400V
+AC250V
+AC250V
+AC250V
+AC500V
+Overvoltage (r.m.s)
+III
+II
+III
+III
+III
+II
+Pollution Degree
+3
+2
+3
+3
+3
+2
+A
+B
+C
+A
+B
+C
+A
+B
+C
+A
+B
+C
+F
+A
+F
+A
+F
+A
+F
+A
+D
+A
+D
+A
+D
+A
+D
+A
+G
+A
+G
+A
+G
+A
+G
+A
+F
+F
+F
+F
+Dielectric Withstanding Voltage
+AC2800V (r.m.s)
+AC2000V (r.m.s)
+AC2000V (r.m.s)
+AC3000V (r.m.s)
+B
+G
+E
+D
+E
+B
+G
+E
+D
+E
+B
+G
+E
+D
+E
+F
+B
+G
+E
+D
+E
+F
+F
+F
+H
+H
+H
+H
+E
+B
+E
+B
+E
+B
+E
+B
+C
+B
+C
+B
+C
+B
+C
+B
+Current Capacity
+23A
+23A
+#12:23A  #16:13A
+46A
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+G
+H
+I
+G
+H
+I
+G
+H
+I
+G
+H
+I
+A
+B
+C
+A
+B
+C
+A
+B
+C
+A
+B
+C
+F
+A
+F
+A
+F
+A
+F
+A
+D
+A
+D
+A
+D
+A
+D
+A
+G
+A
+G
+A
+G
+A
+G
+A
+F
+F
+F
+F
+B
+G
+E
+D
+E
+B
+G
+E
+D
+E
+B
+G
+E
+D
+E
+F
+B
+G
+E
+D
+E
+F
+F
+F
+22-23
+24-10
+24-11
+32-17
+H
+H
+H
+H
+E
+B
+E
+B
+E
+B
+E
+B
+C
+B
+C
+B
+C
+B
+C
+B
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+G
+H
+I
+G
+H
+I
+G
+H
+I
+G
+H
+I
+A
+B
+C
+A
+B
+C
+A
+B
+C
+A
+B
+C
+F
+A
+F
+A
+F
+A
+F
+A
+D
+A
+D
+A
+D
+A
+D
+A
+G
+A
+G
+A
+G
+A
+G
+A
+F
+F
+F
+F
+B
+G
+E
+D
+E
+B
+G
+E
+D
+E
+B
+G
+E
+D
+E
+F
+B
+G
+E
+D
+E
+F
+F
+F
+H
+H
+H
+H
+E
+B
+E
+B
+E
+B
+E
+B
+C
+B
+C
+B
+C
+B
+C
+B
+Insert Pattern
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+G
+H
+I
+G
+H
+I
+G
+H
+I
+G
+H
+I
+Contact Size
+#12
+#8
+#8  #12
+#4
+Ground Pin Number
+D
+D
+G, H
+D
+Rated Voltage (r.m.s)
+AC250V
+AC250V
+AC250V
+AC250V
+AC500V
+Overvoltage (r.m.s)
+III
+III
+III
+III
+II
+Pollution Degree
+3
+3
+3
+3
+2
+Dielectric Withstanding Voltage
+AC2000V (r.m.s)
+AC2000V (r.m.s)
+AC2000V (r.m.s)
+AC2800V (r.m.s)
+Current Capacity
+23A
+46A
+#8:46A  #12:23A
+80A
+• 
+Front view of pin insert or rear of socket insert illustrated.
+• 
+"●" indicate the ground contact location. 
+• 
+Overvoltage Category and Pollution Degree is prescribed in 
+a EN standard.
+• 
+Current capacity shows the maximum permitted current per contact. 
+• 
+UL certified under E115497, TUV certification is in process.
+
+Amphenol
+www.amphenol-industrial.com
+Alternate Insert Positioning
+1
+2
+3
+4
+5
+6
+7
+8
+9
+97
+-3102
+E
+-20
+-10
+P
+W
+(400)
+(955)
+Alternate 
+Product 
+Insert 
+Insert 
+Deviation
+Shell Finish Suffix
+Line
+Shell Style
+Service Class
+Shell 
+Size
+Arrangement
+Contact Type
+Position
+E:  
+3120
+Box 
+Environmental 
+10SL
+3
+P
+Pin 
+FMLB Contact 
+Grounded to 
+(955)
+Black zinc alloy 
+with less pre-
+Receptacle
+Contact
+W
+400
+resistant
+Shell
+filled cup
+3106
+Straight 
+FMLB Contact 
+W/O Grounded 
+(958)
+Gray zinc alloy
+Plug
+14S
+2
+S
+Socket 
+Contact
+X
+402
+to shell
+3108
+Angle 
+Plug
+18
+10, 12
+Y
+20
+4, 15, 18
+Z
+22
+22, 23
+24
+10, 11
+32
+17
+3102E
+3106E
+3108E
+Straight plug
+Angle plug
+Wall mount receptacle
+Water proof un-mated 
+Water proof mated 
+Water proof mated 
+
+AMPHENOL CORPORATION 
+Amphenol Industrial
+Phone: 888-364-9011 
+191 Delaware Avenue 
+Sidney, NY 13838-1395 
+www.amphenol-industrial.com
+IB-11
+Notice: Specifications are subject to change without notice. Contact your nearest Amphenol Corporation Sales Office for the latest specifications. All statements, information and data given herein are believed to 
+be accurate and reliable but are presented without guarantee, warranty, or responsibility of any kind expressed or implied. Statements or suggestions concerning possible use of our products are made without 
+representation or warranty that any such use is free of patent infringement and are not recommendations to infringe any patent. The user should not assume that all safety measures are indicated or that other 
+measures may not be required. Specifications are typical and may not apply to all connectors.
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  97-3102E-18-10P(400)(955)  97-3106E-24-10S(211)(400)(955)  97-3106E-24-10S(211)(400)(955)(G)

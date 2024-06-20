@@ -1,0 +1,306 @@
+2
+7
+5
+3
+1
+4
+6
+8
+14
+Panel Cutout M1:1
+(14-a)
+C091 11N014 000 2 U C091 11N014 009 2 U
+F
+F
+Alternative 2
+Alternative 1
+Valid for contact arrangement:
+Valid for contact arrangement:
+12
+05b, 07b, 08a, 12a, 14a
+03a, 04a, 05a, 06a, 07a
+(12-a)
+C091 11N012 000 2 U
+C091 11N012 009 2 U
+12,8
+12,8
+16,8
+max. 3,5
+18
++0,1
+ 0
++0,1
+ 0
+8
+(08-a)
+C091 11N008 000 2 U C091 11N008 009 2 U
++0,1
+ 0
+7
++0,1
+ 0
+8,2
+20
+20
+(07-b)
+C091 11N107 000 2 U
+C091 11N107 009 2 U
+18
+E
+0,1
+E
+M18x0,75
+M18x0,75
+max.chamfer
+7
+(07-a)
+C091 11N007 000 2 U C091 11N007 009 2 U
+2,1  0
+6
+max. 0,1
+Copying of this document and giving it to others and the use
+or communication of the contents thereof, are forbidden with-
+out express authority. Offenders are liable to the payment of
+damages. All rights are reserved in the event of the grant of
+a patent or the registration of the utility model or design.
+1,5
+1,5
+-0,1
+R
+(06-a)
+C091 11N006 000 2 U C091 11N006 009 2 U
+Unevenness max. 0,1mm
+17,4
+shown with ring nut
+Recommended roughness sealing surface Rz6,3 (Ra0,8)
+5
+Number of contacts
+Standard
+3
+4
+5
+5S
+6
+7
+7
+8
+12
+14
+(05-b)
+C091 11N105 000 2 U
+C091 11N105 009 2 U
+D
+D
+Contact arrangement
+DIN EN 61076-2-106
+03-a
+04-a
+05-a
+05-b
+06-a
+07-a
+07-b
+08-a
+12-a
+14-a
+1)
+-
+-
+-
+Contact arrangement
+IEC 60130-9
+5
+Rated voltage
+2)
+IEC 60664-1
+300 V
+(100 V)
+300 V
+(63 V)
+100 V
+(32 V)
+300 V
+(63 V)
+100 V
+(32 V)
+150 V
+(32 V)
+(05-a)
+C091 11N005 000 2 U C091 11N005 009 2 U
+Rated voltage
+UL 1977
+250 V
+60 V
+Rated impulse
+withstand voltage
+2)
+IEC 60664-1
+1500 V
+(840 V)
+1200 V
+(500 V)
+1500 V
+(840 V)
+1200 V
+(500 V)
+4
+3))
+Pollution degree
+2)
+IEC 60664-1
+1 (3
+(04-a) C091 11N004 000 2 U C091 11N004 009 2 U
+Installation category
+IEC 60664-1
+I
+Insulation group
+IEC 60664-1
+II, 400 < CTI < 600
+3
+Current rating
+IEC 60512-5-2
+C
+UL 1977
+10A/+40°C
+7A/+40°C/+104°F
+3A/+40°C/+104°F
+(03-a)
+C091 11N003 000 2 U C091 11N003 009 2 U
+4)
+Insulation resistance
+IEC 60512-3-1
+>10
+C
+10 Ohm
+Contact resistance
+IEC 60512-2-1
+<5m Ohm
+Climatic category
+IEC 60668-1
+40 / 100 / 56
+Temperatur range
+IEC 60668-1
+-40°C...+100°C / -40°F...+212°F
+type-number-crimp
+with ring nut
+type-number-crimp
+with hex nut SW20
+Number
+of
+contacts
+Contact
+arrangement
+View on
+mating side
+salt spray resistance
+DIN IEC 60068-2-11
+720h
+IP degree
+IEC 60529
+IP 69K / IP 67 / IP 65 (in mated condition)
+Insertion and
+withdrawal force
+IEC 60512-13-2
+25N
+30N
+35N
+50N
+55N
+60N
+50N
+20
+Mechanical operation
+IEC 60512-9-1
+silver >500 mating cycles
+gold >1000 mating cycles
+SW20
+dimension of nut
+B
+Housing material
+brass and / or zinc die cast, nickel plated
+Dielectric material
+thermoplastic
+Contacts
+silver or gold plated, please order contacts separately acc. to drawing
+23
+M-N 02 015 00XX X (3-8pol) or M-N 02 010 0157 X U (12-14pol)
+Termination technique
+crimp
+Gewicht (errechnet) / Calc WT :
+Maßstab / Scale :
+2:1;1:1
+0,09-0,25mm² /
+Zul. Abw./Tolerances :
+A3
+ 
+Wire gauge
+2-6 pol (exclusive 5S): 0,09-1,0mm² / 28-18 AWG
+5S, 7, 7S, 8pol: 0,09-0,75mm² / 28-20 AWG
+28-24 AWG
+ISO 2768-c
+Prüfmaß / Testdimension
+ 
+Teileindex / Partindexnumber: 
+DIN / ISO
+Flamability
+UL 94 VO
+ 
+CUSTOMER DRAWING
+Bagatelle change:  
+13715
+  
+locking system
+IEC 60130-9
+12.03.2020
+DIN EN 61076-2-106
+metal screw coupling; tightening torque 1,0-1,5Nm
+MCARLE
+Drawn
+Gez.
+1) Edition 2000-05
+Gerätedose
+2) values in brackets are according to DIN EN 61076-2-106
+Released
+A
+30.04.2020
+Gepr.
+Status
+female receptacle
+ 
+8 Ohm
+3) designed acc. pollution degree 2; can be used under pollution degree 3 when the rules of IEC 60644-1 are fulfilled
+4) under operating conditions >10
+MGRIMM
+Checked
+Blatt/Sheet
+1
+M
+All technical data have been measured in a laboratory environment and can be different during pratical usage of the product. Any product
+informtion is for descriptive usage only and not legally binding; particulary the information does not constitute or provide any legal guaranties.
+Do not connect or disconnect under load. Metal housing parts shall be securely incoporated to protected ground.
+Parts according to directive 2002/95/EG (RoHS).
+Amphenol Tuchel
+Industrial GmbH
+C091 11NXXX 00X 2 U
+1
+01
+Bl.
+MCARL
+30.04.2020
+NXM-V01  FAI2020-000921
+8
+7
+6
+5
+Name
+Datum/Date
+Index
+Änderung/Description
+202000001
+Ers. f. / Replacement for :
+M-C091 11NXXX 000 2 U Rev.01
+Weitergabe sowie Vervielfältigung dieser Unterlage, Verwertung
+und Mitteilung ihres Inhalts nicht gestattet, soweit nicht
+ausdrücklich zugestanden. Zuwiderhandlungen verpflichten
+zu Schadenersatz. Alle Rechte für den Fall der Patenterteilung
+oder Gebrauchsmuster-Eintragung vorbehalten.

@@ -1,0 +1,1034 @@
+BUCCANEER FOR POWER
+Standard Buccaneer
+Diameter over coupling ring 38mm
+IP68 rating tested at 1.054kg/sq cm (15lb/sq in) 10m
+depth for 2 weeks and 9.84kg/sq cm (140lb/sq in)
+100m depth for 12 hours
+Sealing caps available to maintain IP68 rating of
+unmated connectors
+IP69K, Tested in accordance with DIN 40050/Part 9 IP6k9k
+Water and dustproof to IP68 when mated
+7 body styles - flex cable, Inline cable, panel
+mount (front), panel mount (rear), PCB mount,
+bulkhead and flange mount
+2, 3, 4, 6, 7, 9, 12 and 25 Contact
+Leading earth contact for 3 Contact socket version
+12A, 277V AC/DC 2 Contact screw terminal, 3 Contact screw
+terminal and crimp contacts
+Positive locating keyways - cannot be mis-connected
+10A, 277V AC/DC 4 Contact screw terminal
+Easy assembly - no special tools required on screw
+terminal versions
+5A, 277V AC/DC6 and 7 Contact screw terminal
+Cable range from 3.5mm - 9mm
+5A, 150V AC/DC 9 Contact crimp contacts
+Colour coded identification variants
+5A, 50V AC/DC 12 Contact crimp and solder contacts
+Pre-wired, overmoulded cable assemblies
+1A, 50V AC/DC 25 Contact crimp and solder contacts
+ UL, CSA and VDE approvals
+Plug or socket connection in each body style
+Compact design
+EN60068-2-52 Test Kb Salt Mist (Cyclic) 
+Marine Severity Level 1
+Circular Power Connectors   21
+
+BUCCANEER FOR POWER
+Standard Buccaneer
+Flex Cable Connector
+   PX0731/P
+Mates with Inline or
+Panel Mounting Versions
+ Screw Locking Ring
+ Plug or Socket Versions
+ Leading Earth on 3 Contact
+connectors
+ Contacts 2, 3, 4, 6, 7, 9, 12, 25
+ Standard Cable Acceptance 
+(2 to 9 Contact) 6-8mm, 3.5-9mm
+with alternative glands - 
+See page 25
+Contacts  
+  Termination 
+  Plug Contacts      Socket Contact           Contacts 
+2 
+3
+3
+4 
+6
+7 
+9
+12
+25 
+Screw
+Screw
+Crimp
+Screw 
+Screw
+Screw
+Crimp
+Crimp/Solder
+Crimp/Solder
+PX0736/P
+PX0731/P
+PX0776/P
+PX0748/P
+PX0739/P
+PX0745/P
+PX0728/P
+PX0794/P
+PX0820/P
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Order Separately (SA3348/SA3347)
+Order Separately (SA3180/SA3179)
+PX0736/S
+PX0731/S
+PX0776/S
+PX0748/S
+PX0739/S
+PX0745/S
+PX0728/S
+PX0794/S
+PX0820/S
+  
+               
+Inline Cable Connector
+   PX0732/S
+Mates with Flex or
+Panel Mounting Versions
+ Screw Locking Ring
+ Plug or Socket Versions
+ Leading Earth on 3 Contact
+connectors
+ Contacts 2, 3, 4, 6, 7, 9, 12, 25
+ Standard Cable Acceptance 
+(2 to 9 Contact) 6-8mm, 3.5-9mm
+with alternative glands - 
+See page 25
+Contacts  
+  Termination 
+  Plug Contacts      Socket Contact           Contacts 
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Order Separately (SA3348/SA3347)
+Order Separately (SA3180/SA3179)
+PX0737/S
+PX0732/S
+PX0778/S
+PX0749/S
+PX0740/S
+PX0746/S
+PX0729/S
+PX0795/S
+PX0821/S
+Screw
+Screw
+Crimp
+Screw 
+Screw
+Screw
+Crimp
+Crimp/Solder
+Crimp/Solder
+PX0737/P
+PX0732/P
+PX0778/P
+PX0749/P
+PX0740/P
+PX0746/P
+PX0729/P
+PX0795/P
+PX0821/P
+2 
+3
+3
+4 
+6
+7 
+9
+12
+25 
+               
+Pre Wired Flex Cable Connector
+Overmoulded cable assemblies
+Up to 14mm dia cable with
+PVC or PU jackets
+ Mates with Inline
+connector and all panel 
+connectors
+PX0700
+22  Circular Power Connectors
+
+BUCCANEER FOR POWER
+Standard Buccaneer
+Front Panel Mounting Connector
+Mates with Flex Cable
+Connector
+Single Hole Fixing
+ Plug or Socket Versions
+ Contacts 2, 3, 4, 6, 7, 9, 12, 25
+PX0730/P
+Contacts  
+  Termination 
+  Plug Contacts      Socket Contact           Contacts 
+2 
+3
+3
+4
+6
+7 
+9
+12 
+25 
+Screw
+Screw
+Crimp
+Screw
+Screw
+Screw
+Crimp
+Crimp/Solder
+Crimp/Solder
+PX0735/P
+PX0730/P
+PX0779/P
+PX0747/P
+PX0738/P
+PX0744/P
+PX0727/P
+PX0796/P
+PX0822/P
+PX0735/S
+PX0730/S
+PX0779/S
+PX0747/S
+PX0738/S
+PX0744/S
+PX0727/S
+PX0796/S
+PX0822/S
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Order Separately
+Order Separately
+Rear Panel Mounting Connector
+Mates with Flex Cable
+Connector
+ Single Hole Fixing
+ Plug or Socket Versions
+ Contacts 2, 3, 4, 6, 7, 9, 12 or 25
+PX0709/P/03
+Contacts  
+  Termination 
+  Plug Contacts      Socket Contact           Contacts 
+2
+3
+3
+4 
+6 
+7
+9 
+12 
+25 
+Screw
+Screw
+Crimp
+Screw 
+Screw 
+Screw
+Crimp
+Crimp/Solder
+Crimp/Solder
+PX0709/P/02
+PX0709/P/03
+PX0708/P/03
+PX0709/P/04
+PX0709/P/06
+PX0709/P/07
+PX0708/P/09
+PX0708/P/12
+PX0708/P/25
+PX0709/S/02
+PX0709/S/03
+PX0708/S/03
+PX0709/S/04
+PX0709/S/06
+PX0709/S/07
+PX0708/S/09 
+PX0708/S/12
+PX0708/S/25
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Order Separately (SA3348/SA3347)
+Order Separately (SA3180/SA3179)
+Sprung Loaded Sealing Cap
+IP54 rated
+Spring loaded
+Clip shut to seal
+For use with front of panel
+mounting connector types
+PX0713
+Circular Power Connectors   23
+
+BUCCANEER FOR POWER
+Standard Buccaneer
+Rear PCB Mounting Connector
+Mates with Flex Cable
+connector
+ No. Contacts: 3, 4, 6, 9, 12 or 25
+ Plug or socket versions
+ Pre-loaded Gold Plated
+contacts
+PX0707/P/12
+Contacts  
+  Termination 
+  Plug Contacts      Socket Contact           Contacts 
+3
+4
+6 
+9 
+12
+25
+PCB
+PCB
+PCB
+PCB
+PCB
+PCB
+PX0707/P/03
+PX0707/P/04
+PX0707/P/06
+PX0707/P/09
+PX0707/P/12
+PX0707/P/25
+PX0707/S/03
+PX0707/S/04
+PX0707/S/06
+PX0707/S/09
+PX0707/S/12
+PX0707/S/25
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Bulkhead Flange Mounting Connector
+ Mates with Flex Cable
+Connector
+ Plug or Socket Versions
+ Contacts 2, 3, 4, 6, 7, 9, 12, 25 
+ Supplied with sealing gasket
+and screw sealing grommets
+PX0756/S
+Contacts  
+  Termination 
+  Plug Contacts      Socket Contact           Contacts 
+2
+3
+3 
+4
+6
+7 
+9
+12
+25
+Screw
+Screw
+Crimp
+Screw
+Screw
+Screw
+Crimp
+Crimp/Solder
+Crimp/Solder
+PX0757/P
+PX0756/P
+PX0787/P
+PX0761/P
+PX0758/P
+PX0760/P
+PX0762/P
+PX0798/P
+PX0823/P
+PX0757/S
+PX0756/S
+PX0787/S
+PX0761/S
+PX0758/S
+PX0760/S
+PX0762/S
+PX0798/S
+PX0823/S
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Order Separately (SA3348/SA3347)
+Order Separately (SA3180/SA3179)
+Low Profile Flange Mounting Connector
+Screw Flange Fixing
+Plug or Socket Versions
+ Contacts 2, 3, 4, 6, 7, 9, 12, 25
+ Mates with Flex Cable
+Connector
+Supplied with sealing gasket
+and screw sealing grommets 
+PX0765/S
+Contacts  
+  Termination 
+  Plug Contacts      Socket Contact           Contacts 
+2
+3 
+3
+4
+6 
+7
+9
+12
+25
+Screw
+Screw
+Crimp
+Screw
+Screw
+Screw
+Crimp
+Crimp/Solder
+Crimp/Solder
+PX0764/P 
+PX0765/P
+PX0781/P
+PX0766/P
+PX0767/P
+PX0768/P
+PX0769/P
+PX0797/P
+PX0824/P
+PX0764/S
+PX0765/S
+PX0781/S
+PX0766/S
+PX0767/S
+PX0768/S
+PX0769/S
+PX0797/S
+PX0824/S
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Supplied Fitted
+Supplied Fitted
+Supplied Fitted
+Supplied Loose
+Order Separately (SA3348/SA3347)
+Order Separately (SA3180/SA3179)
+24  Circular Power Connectors
+
+BUCCANEER FOR POWER
+Standard Buccaneer
+Accessories
+  
+Coloured Contact Inserts
+Contact Inserts Colour Options
+With or without matching
+gland nut
+ Positive visual identification
+Available in; Black, Blue,
+Green, Grey, Light Grey,
+Red, White and Yellow
+Part No              Suffix Colour
+Blank
+BL
+GN 
+GY
+LG
+RD
+WH
+YL
+Black
+Blue
+Green
+Grey
+Light Grey
+Red
+White
+Yellow
+Coloured Inserts
+Insert/Gland Nut Combinations
+1
+2
+Insert and Gland Nut Coloured
+Insert Only Coloured
+E.g. PX0731/P/YL1 = Yellow insert and gland nut
+Contacts for 12 and 25 Contact Inserts
+Contacts - Solder & Crimp for 12 and 25 Contact
+Solder
+Crimp
+Contacts (for 12 Contact)
+(Supplied in packs of 10)
+SA3348/1
+SA3347/1
+SA3348
+SA3347
+Plugs   
+Sockets                               
+Solder
+Crimp
+Crimp or Solder Plugs 
+and Sockets
+ Gold Plated
+ Current ratings:
+12 way: 5A, 50V
+25 way: 1A, 50V
+Contacts (for 25 Contact)
+(Supplied in packs of 10)
+SA3180/1
+SA3180
+12 and 25 way contacts
+SA 3179/1
+SA3179 
+Plugs                     
+Sockets                               
+Assembly Tools
+Tools
+Crimp Tools for 3, 9,12 and
+25 Contact crimp contacts
+ Insertion/Extraction Tool for 25
+Contact contacts
+PNo. 14025/1AMP
+PNo. 14025
+PNo. 14025/5AMP
+PNo. 13826
+PNo. 14232
+PNo. 14232/1
+PNo. 13027
+PNo. 13027/1
+PNo. 13027/3
+Crimp Tool (25 Contact) 
+Crimp Tool (12 Contact) 
+Positioner (12 Contact) 
+Crimp Tool (9 Contact) 
+Crimp Tool (3 Contact) 
+3 Contact positioner 
+Insertion/Extraction Tool (25 Contact) 
+Insertion/Extraction Tool (12 Contact) 
+Insertion/Extraction Tool (3 Contact) 
+PNo 14025 and 13027
+Cable Glands
+Cable Acceptance - Alternatives
+Gland
+Diameter
+Gland
+Part No.
+Gland
+Colour
+Additional
+Suffix
+Pack of alternative cable
+glands to suit cables from 3.5
+to 9mm dia. 
+Standard for 2-12 Contact
+Suffix /04†
+Suffix /05
+Suffix /07*
+6-8mm
+3.5-5mm
+5-7mm
+7-9mm
+Gland Pack
+12023
+SA3426
+12023/1
+12023/2
+SA3253
+Black
+Grey
+White
+Yellow
+Pack of 3 glands to suit cables
+3.5-5mm, 5-7mm & 7-9mm dia†
+12023/1, 12023/2 & SA3253
+*Note: 7-9mm gland standard for 25 way, no suffix required.
+†Includes additional black gland cage for 3.5-5mm dia. 
+cable range.
+To order connector with alternative cable gland add suffix to
+part no. e.g. PX0731/P/07 = PX0731 3 Plug connector with
+cable gland to suit 7-9mm dia. cable.
+Cable Acceptance - Standard as supplied
+No. Contacts
+Cable Diameter or Type
+2-12 Contact
+25 Contact
+6-8mm
+7-9mm
+Circular Power Connectors   25
+
+BUCCANEER FOR POWER
+Standard Buccaneer
+Accessories
+Sealing Cap and Assembling Tool
+ Maintains IP68 Rating of
+Unmated Connectors
+ Can be used to remove Inserts
+ PX0734 for Flex Cable
+Connector
+ PX0733 for Inline, Front Panel, 
+Bulkhead and Flange mount 
+connectors
+ PX0711 for PCB and Rear Panel 
+Mount connectors
+PX0734 & PX0733
+Rear of Panel Back Shell
+ Provides environmental seal to
+rear of panel
+ Standard cable acceptance
+6-8mm, 3.5 to 9mm with
+alternative glands
+ For use on front panel
+mounting connectors
+ Replaces mounting nut in
+panel connector
+ 
+         PX0799
+PVC Insulation Boot
+ Shock protection for rear of
+connector
+ Flammability Rating
+UL94V-0
+Fits Front Panel Mount
+Versions only
+                   PNo. 12855
+Cable Support Accessory
+Gives Extra Support to the
+Cable
+ Suitable for 5-7mm and
+7-9mm Cable Diameters
+                   PNo. 12237
+26  Circular Power Connectors
+
+BUCCANEER FOR POWER
+Part No System
+PX07XX
+X
+XX
+XX
+X
+Body Styles
+Contacts Type
+Insert/Gland Nut  
+Colour
+Insert/Gland Nut 
+Colour Combination
+Cable Acceptance or PCB/Rear Panel 
+Mounting
+P = Plug
+S = Socket
+1 = Insert and Gland Nut 
+Coloured
+2 = Insert only Coloured
+Flex Cable and Inline Connectors cable accept-
+ance use:
+Blank = 6-8mm (Black) standard for 2-12 Contact
+Blank = Black
+BL = Blue
+GN = Green
+GY = Grey
+04 = 3.5-5mm (Grey)
+05 = 5-7mm (White)
+07 = 7-9mm (Yellow) 
+(standard for 25 way, no suffix required)
+LG = Light Grey
+RD = Red
+WH = White
+YL = Yellow
+PCB (PX0707) and Rear Panel Mount connectors 
+(PX0708 and PX0709) use:
+02 = 2 Contact
+04 = 4 Contact
+07 = 7 Contact
+12 = 12 Contact 
+03 = 3 Contact
+06 = 6 Contact
+09 = 9 Contact
+25 = 25 Contact
+Front Panel, Bulkhead and Flange Mount - 
+not required:
+Examples:
+PX0707/P/06= PCB Panel connector, Plug contacts, 6 Contact
+PX0731/S = Flex Cable connector, socket contacts, 3 Contact
+PX0732/P/07/BL2 = Inline Cable connector, Plug contacts, 3 Contact, 7-9mm 
+cable acceptance, blue insert
+PX0736
+PX0731
+PX0776
+PX0748
+PX0739
+PX0745
+PX0728
+PX0794
+PX0820
+PX0737
+PX0732
+PX0778
+PX0749
+PX0740
+PX0746
+PX0729
+PX0795
+PX0821
+PX0735
+PX0730
+PX0779
+PX0747
+PX0738
+PX0744
+PX0727
+PX0796
+PX0822
+PX0709
+PX0708
+PX0707
+PX0757
+PX0756
+PX0787
+PX0761
+PX0758
+PX0760
+PX0762
+PX0798
+PX0823
+PX0764
+PX0765
+PX0781
+PX0766
+PX0767
+PX0768
+PX0769
+PX0797
+PX0824
+PCB Layouts
+Sockets
+Contact Nos viewed from rear of panel 
+Plugs
+Contact Nos viewed from rear panel rear of panel
+PX0707/S/03
+PX0707/S/04
+PX0707/P/03
+PX0707/P/04
+PX0707/S/06
+PX0707/S/09
+PX0707/P/06
+PX0707/P/09
+PX0707/S/12
+PX0707/S/25
+PX0707/P/12
+PX0707/P/25
+Circular Power Connectors   27
+
+BUCCANEER FOR POWER
+Specifications
+Electrical:
+Mechanical:
+2, 3       4        6, 7      9       12     25
+Sealing:
+IP69K, Tested in accordance with DIN 
+40050/Part 9 IP6k9k
+No. Contacts:
+Current Rating:
+VDE 
+UL, CSA
+Voltage Rating (AC/DC):
+Contact Resistance:
+12A     10A      5A      5A      5A    1A
+12A     10A      5A      5A      5A    1A
+277V   277V   277V  150V   50V  50V
+<10mΩ (2-9 Contact)
+<5mΩ (12 Contact)
+<5mΩ (25 Contact)
+IP68, EN 60529:1992+A2:2013 
+Tested @ 1.054kg/sq.cm. (15lb/sq.in.) 
+10m depth for 2 weeks.
+EN 60529:1992 +A2:2013 Tested @ 
+9.84kg/sq.cm. (140lb/sq.in.) 100m 
+depth for 12 hours.
+Insulation Resistance: 
+AC Breakdown voltage:
+Salt Mist: 
+EN60068-2-52 Test Kb Salt Mist 
+(Cyclic) Marine Severity Level 1
+>10⁴MΩ @ 500V DC (2-9 Contact)
+4kV Contact - Contact (2-9 Contact)
+6kV Contacts - Panel (Low Profile 
+Flange and Panel Types – 2-9 Con-
+tact)
+7.5kV Contacts - Panel (Other Types 
+– 2-9 Contact)
+Operating Temp. Range:
+–20°C to +70°C
+Cable Acceptance:
+2-12 Contact - standard gland:
+2-12 Contact - alternative glands: 
+25 Contact - standard gland:
+25 Contact - alternative glands:
+6-8mm dia
+3.5-9mm dia
+7-9mm dim
+3.5-7mm dim
+Approvals:
+         
+UL (Underwriters Laboratory)                          
+CSA (Canadian Standards Associations)            
+VDE (Verband der Elektrotechnik)
+                   E93288 and E337507
+                   LR80968-30
+                   40023148
+Overmoulded cable assemblies
+approvals to customer requirements.
+Contact Accommodation:
+2 and 3 Contact screw terminals:
+3 Contact crimp: 
+4, 6 and 7 Contact:
+9 Contact:
+12 Contact:
+25 Contact:
+2.5-4mm2 (12-14AWG)
+1-1.5mm2 (16-17AWG)
+1-1.5mm2 (17-16AWG)
+0.14-0.25mm2 (24-26AWG)
+0.25-0.34mm2 (22-24AWG)
+0.14-0.25mm2 (24-26AWG)
+Material:
+Terminations:
+2-7 Contact:
+3 Contact:
+9 Contact:
+12 Contact:
+25 Contact:
+Screw Terminals
+Screw Terminals & Crimp
+Crimp Contacts
+Crimp & Solder Contacts
+Crimp & Solder Contacts
+Tightening Torques:
+Flex Mounting/Inline: 
+Panel Mounting:
+Body Mouldings:
+Inserts (2-25 Contact):
+PX0707
+PX0708
+PX0709
+Glass Filled Polyamide UL94HB
+Polyamide UL94V-0
+Polyamide UL94V-0
+Polyamide UL94V-0
+Polyamide UL94V-0 
+Gland Nut: 1.13Nm (10lbf.in.)
+Rear Fixing Nut: 1.7Nm (15lbf.in.)
+Front Fixing Nut: 1.4Nm (12.4lbf.in.) 
+Surface/Bulkhead and Low
+Profile Flange Mounting:
+Overmoulded types:
+Body Mouldings:
+Flammability Rating:
+Polyurethane
+UL94V-HB
+Sealings Caps/Locking Ring:
+4 Fixing Screws (using washers 
+supplied) 0.34Nm (3lbf.in.)
+1.13Nm (10lbf.in.)
+Brass, Nickel Plated
+Copper Alloy, Tin Plated
+Rear thread, Front Panel Connector:
+Thread, Front Panel Connector:
+M27 x 1.0-6H
+M35 x 1.0-6H
+Contacts:
+Screw Terminal:
+Crimp (9 Contact):
+Crimp/Solder 
+(12+25 Contact):
+BNC inserts:
+BNC contacts:
+Copper Alloy, Gold Plated
+(0.1μm on Nickel)
+Brass, Nickel Plated
+Brass, Silver Plated
+RoHS
+Compliant
+28  Circular Power Connectors
+
+BUCCANEER FOR POWER
+Sealed Cable Joiner
+Cable Joiner
+IP68 & IP69k Rating
+For Sealed Inline Connections
+Standard Cable Acceptance
+6-8mm
+Cable Range 3.5-9mm (using
+alternative glands)
+Supplied with 4, 6 or 8 way
+Terminal Block
+Available Moulded in Black or
+Orange
+PX0777
+Specifications
+PX0777
+PX0777/4POLE, 6POLE, 8POLE
+POLE Configurations
+16A, 250V AC
+10A, 250V AC
+Rating:
+3 way Terminal Block
+4, 6, 8 way Terminal Block
+Wire Termination:
+2.5mm² max (14AWG)
+1.5mm² max (16AWG)
+Conductor Accommodation:
+Cable Acceptance:
+6-8mm dia
+alternative glands available
+on request
+6-8mm dia
+alternative glands available
+on request
+Glass Filled Polyamide UL94-HB
+Glass Filled Polyamide UL94-V0
+Material:
+Sealing:
+IP68 to BSEN 60529 : 1992
+1.054kg/sq.cm. (15lbs/sq.in.)
+10m depth for 2 weeks
+IP68 to BSEN 60529 : 1992
+1.054kg/sq.cm. (15lbs/sq.in.)
+10m depth for 2 weeks
+IP69k to DIN 40050-9
+IP69k to DIN 40050-9
+Salt Mist
+EN60068-2-52 Test Kb Salt Mist 
+(Cyclic) 
+Marine Severity Level 1
+EN60068-2-52 Test Kb Salt Mist 
+(Cyclic) 
+Marine Severity Level 1
+–20°C to +70°C
+–20°C to +70°C
+Operating Temp. Range:
+Colour:
+Black
+Orange (Add /OR to PNo.)
+Black
+Orange (Add /OR to PNo.)
+RoHS
+Compliant
+Compliant
+Examples
+PX0777 – 3 Contact 6-8mm Black.
+PX0777/04 –  3 Contact 3.5-5.0mm Black.
+PX0777/04/OR –3 Contact 3.5-5.0mm Orange.
+ 
+PX0777/4POLE – 4 Contact 6-8mm Black.
+PX0777/6POLE/04 – 6 Contact 3.5-5.0mm Black.
+PX0777/8POLE/04/OR – 8 Contact 3.5-5.0mm Orange.
+PX0777
+XPOLE
+XX
+XX
+Part No
+Blank = Black
+OR = Orange
+Blank  = 3 Contact
+4POLE = 4 Contact
+6POLE = 6 Contact
+8POLE = 8 Contact
+Blank =  6-8mm  
+04 = 3.5-5mm
+05 = 5-7mm
+07 = 7-9mm
+Circular Power Connectors   29
+
+BUCCANEER FOR POWER
+PX0777 WIRING AND ASSEMBLY INSTRUCTIONS
+Strip wires to dimensions shown.
+1.
+2.
+Assemble components parts onto cable as 
+shown, then connect wires to terminal block.
+ENSURING WIRES CONNECTED INTO ONE SIDE 
+OF TERMINAL BLOCK MATCH WIRES CONNECTED 
+INTO THE OTHER SIDE.
+Wire stripping details
+i.e. 
+Brown to Brown (Live)
+ 
+Blue to Blue (Neutral)
+ 
+Green/Yellow to Green/Yellow (Earth)
+3.
+Bring the two body mouldings together ensuring the ‘O’ 
+ring is correctly located in groove then lock together with 
+locking ring, ensure ring is fully tightened.
+Put gland cage over gland and push fully home into its 
+appropriate body then fully tighten gland nuts.
+4.
+To ensure a good seal, all surfaces must be completely 
+free of dust, grease or any other contamination.
+DANGER
+THIS CABLE CONNECTOR IS SUITABLE FOR 
+USE WITH LOADS NOTEXCEEDING 16 AMPS 
+USING 1.5mm2 CABLE
+DISCONNECT MAINS
+SUPPLY BEFORE
+DISMANTLING
+CONNECTOR
+ALWAYS USE WITH SUPPLY PROTECTED BY 
+AN RCD (RESIDUAL CABLE DEVICE), IF IN 
+DOUBT CONSULT A QUALIFIED ELECTRICIAN.
+30  Circular Power Connectors
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Bulgin:  
+ 
+  PX0758/S  PX0707/P/12  PX0707/P/06  PX0707/P/03  PX0707/P/09  PX0795/S  PX0822/P  PX0707/P/25  PX0746/S
+  PX0729/S  PX0711  PX0729/P  PX0765/P  PX0732/P  PX0736/P  PX0740/P  PX0731/S  12237  PX0730/P 
+PX0728/P/07  PX0747/S  PX0730/S  PX0737/P  PX0737/S  PX0736/S  SA3179  SA3180  PX0728/P  PX0731/P 
+PX0738/P  PX0738/S  PX0739/S  PX0748/P  PX0822/S  PX0727/P  PX0735/P  PX0734  PX0733  PX0728/S 
+PX0740/S  PX0820/P  SA3179/1  PX0732/S  PX0739/P  PX0745/P  PX0744/S  PX0727/S  PX0735/S  12023  12023/1
+  12023/2  12023/5  12855  PX0708/P/03  PX0708/P/09  PX0708/P/12  PX0708/P/25  PX0708/S/03  PX0708/S/09 
+PX0708/S/12  PX0708/S/25  PX0709/P/02  PX0709/P/03  PX0709/P/04  PX0709/P/06  PX0709/P/07  PX0709/S/02 
+PX0709/S/03  PX0709/S/04  PX0709/S/06  PX0709/S/07  PX0717/3/15/ST  PX0717/4/15/ST  PX0717/5/15/ST 
+PX0717/6/15/ST  PX0717/7/15/ST  PX0761/P  PX0761/S  PX0762/P  PX0762/S  PX0763/S/50OHM  PX0763/S/75OHM
+  PX0766/P  PX0766/S  PX0768/P  PX0768/S  SA3253  14232/1  PX0777/OR  PX0799  PX0796/S  PX0767/S 
+PX0769/S  PX0794/S  PX0765/S  PX0764/S  PX0756/S  PX0748/S  PX0757/P  PX0821/S

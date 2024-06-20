@@ -1,0 +1,329 @@
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Cable connector, straight short, Screw locking, M23, number of positions: 4+3+PE, type of contact: Socket,
+shielded: yes, cable diameter range: 7.5 mm ... 14 mm, number of positions: 8, connection method: Crimp
+connection
+Your advantages
+ Consistent EMC protection for reliable connection solutions in the industrial environment
+ Crimping connection: vibration- and temperature-resistant assembly
+ Flexible use: reliably connect cable diameters of 7.5 mm ... 14 mm
+ Molded designs with pre-assembled cables on one or both sides
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4046356182232
+Technical data
+General
+Note
+Order information: Order crimp contacts 4 x Ø 1 mm, 4 x Ø 2 mm
+separately
+Type of locking
+Screw locking
+Coding
+N
+Contact connection method
+Crimp connection
+Type of contacts
+Socket
+Number of positions
+8
+Contact diameter of power contacts
+2 mm
+Rated current for power contacts
+30 A
+Contact diameter of signal contacts
+1 mm
+Nominal current per signal contact
+9 A
+Conductor entry
+7.5 mm ... 14 mm
+Pg housing screw connection
+none
+09/11/2020   Page 1 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Technical data
+Ambient conditions
+Ambient temperature
+-40 °C ... 125 °C
+Degree of protection
+IP67
+Material
+Housing material
+Turned parts: copper zinc alloy (CuZn), die-cast parts: zinc (GD-Zn)
+Insulator material
+PA 6.6
+Gasket and O-ring material
+FPM
+Specifications according to DIN EN 61984:2001
+Installation height max.
+3000 m
+Nominal / operating voltage of power contacts
+630 V
+Rated surge voltage of power contacts
+6 kV
+Overvoltage category of power contacts
+III
+Degree of pollution of power contacts
+3
+Nominal / operating voltage of signal contacts
+250 V
+Rated surge voltage of signal contacts
+4 kV
+Overvoltage category of signal contacts
+III
+Degree of pollution of signal contacts
+3
+Standards and Regulations
+Safety note
+WARNING: The connectors may not be plugged in or disconnected
+under load. Ignoring the warning or improper use may damage persons
+and/or property.
+• WARNING: Commission properly functioning products only. The
+products must be regularly inspected for damage. Decommission
+defective products immediately. Replace damaged products. Repairs
+are not possible.
+• WARNING: Only electrically qualified personnel may install and
+operate the product. They must observe the following safety notes.
+The qualified personnel must be familiar with the basics of electrical
+engineering. They must be able to recognize and prevent danger. The
+relevant symbol on the packaging indicates that only personnel familiar
+with electrical engineering are allowed to install and operate the product.
+• The products are suitable for applications in plant, controller, and
+electrical device engineering.
+• When operating the connectors in outdoor applications, they must be
+separately protected against environmental influences.
+• Assembled products may not be manipulated or improperly opened.
+• Only use mating connectors that are specified in the technical data
+of the standards listed (e.g. the ones listed in the product accessories
+online at phoenixcontact.com/products).
+• When using the product in direct connection with third-party
+manufacturers, the user is responsible.
+• For operating voltages > 50 V AC, conductive connector housings must
+be grounded
+• Ensure that the protective or functional ground has been properly
+connected.
+09/11/2020   Page 2 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Technical data
+Standards and Regulations
+• VDE 0100/1.97 § 411.1.3.2 and DIN EN 60 204/11.98 § 14.1.3 are
+applicable when combining several circuits in a cable and/or connector
+• Only use tools recommended by Phoenix Contact
+• The installation notes/Design In documents online on the download
+page at phoenixcontact.com/products must be observed for this product.
+• Operate the connector only when it is fully plugged in and interlocked.
+• Ensure that when laying the cable, the tensile load on the connectors
+does not exceed the upper limit specified in the standards.
+• Observe the minimum bending radius of the cable. Lay the cable
+without twisting it.
+• The connector warms up in normal operation. Depending on the
+ambient conditions, the surface of the connector can continue to warm
+up. In this case, the user is responsible for posting warnings (e.g. DIN
+EN ISO 13732-1:2008-12).
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 3 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Schematic diagram
+Connector pin assignment
+09/11/2020   Page 4 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Diagram
+I = current strength, T = ambient temperature
+Dimensional drawing
+Dimensional drawing
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27260700
+09/11/2020   Page 5 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Classifications
+eCl@ss
+eCl@ss 4.1
+27260700
+eCl@ss 5.0
+27260700
+eCl@ss 5.1
+27260700
+eCl@ss 6.0
+27260700
+eCl@ss 7.0
+27440102
+eCl@ss 8.0
+27440102
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 3.0
+EC001121
+ETIM 4.0
+EC001121
+ETIM 5.0
+EC002635
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+43172015
+UNSPSC 7.0901
+43201404
+UNSPSC 11
+43172015
+UNSPSC 12.01
+43201404
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+EAC
+Ex Approvals
+Approval details
+ 
+ B.01687
+EAC 
+
+09/11/2020   Page 6 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Accessories
+Accessories
+Circular connectors (device side)
+Hook wrench - SF-Z0027 - 1607455
+Hook wrench
+ 
+ 
+Crimp contact
+Crimp contact - SF-7PS2000 - 1605636
+Crimp contact, turned, Single contact, contact diameter: 2 mm, crimp range: 0.25 mm² ... 1 mm²
+ 
+ 
+Crimp contact - SF-7NS2000 - 1605631
+Crimp contact, turned, Single contact, contact diameter: 2 mm, crimp range: 0.75 mm² ... 1.5 mm²
+ 
+ 
+Crimp contact - SF-7QS2000 - 1605643
+Crimp contact, turned, Single contact, contact diameter: 2 mm, crimp range: 1 mm² ... 2.5 mm²
+ 
+ 
+Crimp contact - SF-6CS2000 - 1605562
+Crimp contact, turned, Single contact, contact diameter: 1 mm, crimp range: 0.06 mm² ... 0.25 mm²
+ 
+ 
+09/11/2020   Page 7 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Accessories
+Crimp contact - SF-10KS004 - 1607356
+Crimp contact, turned, Single contact, contact diameter: 1 mm, crimp range: 0.14 mm² ... 0.5 mm²
+ 
+ 
+Crimp contact - SF-6FS2000 - 1605566
+Crimp contact, turned, Single contact, contact diameter: 1 mm, crimp range: 0.5 mm² ... 1.5 mm²
+ 
+ 
+Crimp contact - SF-6AS2000 - 1605557
+Crimp contact, turned, Single contact, contact diameter: 1 mm, crimp range: 0.25 mm² ... 1 mm²
+ 
+ 
+Mounting material
+Color-coding - SF-Z0064 - 1620585
+Color-coding, color: green
+ 
+ 
+Color-coding - SF-Z0065 - 1620586
+Color-coding, color: orange
+ 
+ 
+09/11/2020   Page 8 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Accessories
+Color-coding - SF-Z0066 - 1620587
+Color-coding, color: black
+ 
+ 
+Torque screwdriver - SF-Z0028 - 1607456
+Torque screwdriver
+ 
+ 
+Square mounting flange - SF-Z0068 - 1620927
+Square mounting flange, 4xM3, flange dimensions: 38 mm x 38 mm
+ 
+ 
+Protective cover
+Protective cap - RC-Z2058 - 1604223
+Plastic protection cap for connectors with M23 knurled nut
+ 
+ 
+Plastic anti-static dust protection cap - RC-Z2468 - 1611796
+Plastic protection cap, antistatic, for connectors with M23 knurled nut
+ 
+ 
+09/11/2020   Page 9 / 10
+
+https://www.phoenixcontact.com/pi/products/1605602
+Cable connector - SF-7ES1N8A80DU - 1605602
+Accessories
+Metal protective cap - SC-Z2322 - 1605459
+Metal dust protection cap with steel wire for power plugs with M23 knurled nuts
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 10 / 10
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1605602

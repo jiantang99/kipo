@@ -1,0 +1,439 @@
+Amphenol
+Kadmium- & Chrom(VI)-freie Steckverbinder
+Cadmium & Chrom(VI) free connectors
+J-Ausführung
+J-Version
+RoHS 3
+REACH 3
+
+Amphenol
+Amphenol Corporation, founded in 1932, is one of the 
+world’s largest manufacturers of connectors and related  
+electrical components. Amphenol develops, manufac-
+tures and markets electrical, electronic and fiber optic 
+connectors and connection systems. Furthermore also 
+coaxial, data and special cables. Amphenol products are 
+developed and manufactured in Europe, America and 
+Asia and sold through a worldwide organization.
+Die 1932 gegründete Amphenol Corporation ist welt-
+weit einer der größten Hersteller von Steckverbindern 
+und dazugehörigen elektrotechnischen Komponenten. 
+Amphenol entwickelt, fertigt und vertreibt elektrische, 
+elektronische und faseroptische Steckverbinder, sowie 
+Verbindungssysteme. Desweiteren auch Koaxial- Daten- 
+und Spezialkabel. Amphenol-Produkte werden in Europa, 
+Amerika und Asien entwickelt sowie hergestellt und über 
+eine weltweite Organisation vertrieben. 
+Reliable solutions for challenging  
+applications
+Zuverlässige Lösungen für anspruchs-
+volle Einsätze
+Amphenol-Air LB is one of the strongest partners of 
+the defense industry and, as the world market leader 
+for military connectors, offers a full range of products 
+and services for a wide range of application in all seg-
+ments. Our products can be found on land, sea and air, 
+in radar systems, military aircraft and drones, armored 
+vehicles, submarines, digital radios and active protec-
+tion systems. We develop innovative products in close  
+collaboration with companies within this industry in order 
+to meet requirements of the future.
+Amphenol-Air LB ist einer der stärksten Partner der 
+wehrtechnischen Industrie und bietet als Weltmarktführer 
+im Bereich der militärischen Steckverbinder ein umfas-
+sendes Produkt– und Leistungs-Sortiment für ein breites 
+Spektrum an Einsatzszenarien in allen Segmenten. Unsere 
+Produkte befinden sich auf Land, Wasser und in der Luft, 
+in Radaranlagen, militärisch genutzten Flugzeugen und 
+Drohnen, gepanzerten Fahrzeugen, U-Booten, digitalen 
+Funkgeräten und Active Protection Systemen. In enger 
+Zusammenarbeit mit Unternehmen der Branche entwick-
+eln wir innovative Produkte, die den Herausforderungen 
+der Zukunft ge-recht werden.
+
+Amphenol
+VG-standards : defense & equipment standards 
+are military technical standards, that basically meet 
+the DIN-EN standards. However, they include techni-
+cal and techno-economic requirements for products 
+and processes in the defense sector, which civil 
+standards cannot meet.
+VG-Standards: Verteidigungs-; Ausrüstungs- 
+standards sind militärtechnische Normen, die 
+grundsätzlich den DIN-EN-Normen entsprechen. 
+Sie umfassen jedoch technische und technoökono-
+mische Anforderungen an Produkte und Prozesse 
+des Verteidigungssektors, die durch zivilrechtliche 
+Standards nicht erreichbar sind.
+They are jointly developed by experts from the de-
+fense area and the relevant industry. The DIN takes 
+over the task of military standardization.
+Diese werden gemeinschaftlich von Experten aus 
+dem 
+Verteidigungsbereich 
+und 
+der 
+relevanten 
+Industrie entwickelt. Der DIN übernimmt hierbei die 
+Aufgabe der wehrtechnischen Normung. 
+Die Erwartungen an die militärtechnischen Standards 
+sind denen der zivilen Normung ähnlich: Standar-
+disierung der Typen, Kompatibilität, Sicherstellung 
+des Austauschs, Gewährleistung im Schadensfall, 
+Funktionssicherheit, Wettbewerbsfähigkeit, Zuverläs-
+sigkeit und damit Sicherheit und Qualität.
+The expectations of the military technical standards 
+are similar to those of civilian Standardization: 
+standardization of types, compatibility, ensuring 
+the replacement, warranty in the event of damage, 
+functionality, competitiveness, reliability and thus 
+safety and quality. 
+An important additional criterion of defense stan-
+dardization is also to ensure intermateability of the 
+connectors, which is of decisive importance for inter-
+national operations and the associated cooperation.
+Ein wichtiges zusätzliches Kriterium für diese Stan-
+dardisierung ist jedoch auch die Gewährleistung der 
+Steckkompatibilität des Materials, das für die inter-
+nationalen Operationen und die damit verbundene 
+Zusammenarbeit von entscheidender Bedeutung ist.
+
+J-Ausführung
+J-Version 
+Situation within VG-Countries
+Situation innerhalb der VG-Länder
+According to the VG standard, cadmium-plated versions 
+may no longer be used for new designs after December 
+31, 2018. Version J is, however, a full replacement for 
+cadmium-plated versions and can therefore be used for 
+all existing projects and also for repairs.
+Gemäß der VG-Norm darf die kadmierte Ausführung 
+nach dem 31.12.2018 nicht mehr für Neukonstruktionen 
+verwendet werden. Ausführung J gilt als 1:1 Ersatz für 
+die kadmierte Ausführung und kann daher für alle beste-
+henden Projekte und auch für Instandsetzung eingesetzt 
+werden. 
+What is J-Version ? **
+Was ist Ausführung J? **
+The connector has a zinc-tin-coated and electrically con-
+ductive shield connection system, which fully complies  
+with the values  of a cadmium-plated design in terms of 
+corrosion resistance, conductivity and shielding capabi-
+lity. A compatibility to cadmium or other listed platings 
+has been checked according to the table below. The 
+corrosion test is carried out in the same way as the cad-
+mium version according to VG95319-2 / test 5.50 (this 
+is a dynamic 5d test according to DIN EN 60068-2-52, 
+test Kb).
+Der Steckverbinder hat ein Zink-Zinn beschichtetes und 
+elektrisch leitendes Schirmanschlusssystem, das die 
+Werte einer kadmierten Ausführung in Bezug auf Korro-
+sionsbeständigkeit, sowie die Leit- und Schirmfähigkeit 
+1:1 einhält. Die Steck-Kreuzbarkeit zu kadmierten und 
+weiteren Oberflächen wurde gemäß der aufgeführten 
+Tabelle geprüft. Die Korrosionsprüfung erfolgt analog zu 
+der kadmierten Ausführung nach VG95319-2 / Prüfung 
+5.50 (es handelt sich hier um einen dynamischen 5d-Test 
+nach DIN EN 60068-2-52, Prüfung Kb). 
+Oberflächen Kompatibilität / Plating compatibility
+3
+** RoHS compliant to Directive 2011/65/EU +  
+    Directive (EU) 2015/863
+**REACH SVHC declaration on request
+**RoHS konform zur Richtlinie 2011/65/EU +   
+   Richtlinie (EU) 2015/863
+**REACH SVHC Deklaration auf Anfrage
+
+Steckverbinder / Connectors
+VG96912 / SJT
+VG95234 / GCB-B
+Robuste Reverse Bajonett Rundsteckverbinder, geschirmt, in 
+Größe 10SL bis 36, bis 1 bar druckwasserdicht, verschleiß- 
+und vibrationsfest, gut geeignet für raue Umgebungen.
+Eigenschaften
+ • Temperatureinsatzbereich: von -55°C bis +125°C
+ • 1 bis 61 pol.
+ • Anschlussart: Crimp + Löt, 0,14mm² - 50mm²
+ • Nennstrom bis 245 A / Kontakt
+VG-Zulassung: VG95234 Ausführung J
+Miniatur Rundsteckverbinder, geschirmt, mit Bajonettverriege-
+lung in Größe 8 bis 24. Baureihe mit sehr hoher Kontaktdichte 
+und einem 100% Kontaktschutz.
+Eigenschaften
+ • Temperatureinsatzbereich: von -65°C bis +175°C
+ • 2 bis 128 pol.
+ • Anschlussart: Crimp, AWG28 bis AWG12
+ • Nennstrom bis 23 A / Kontakt
+VG-Zulassung: VG96912 Ausführung J 
+Robust Reverse Bayonet circular connector, shielded, in size 
+10SL to 36, water pressure-tight up to 1 bar, wear and vibra-
+tion resistant, suitable for harsh environment. 
+Characteristics
+Miniature circular connector, shielded, with bayonet locking in 
+sizes 8 to 24. Series with very high contact density and 100% 
+contact protection. 
+Characteristics
+ • Operating temperature range: from -55°C to +125°C
+ • 1 to 61 pol.
+ • Connection type: crimp + solder, 0.14mm² - 50mm²
+ • Nominal current up to 245 A / contact 
+VG Approval: VG95234 Version J
+ • Operating temperature range: from -65°C to +175°C
+ • 2  to 128 pol.
+ • Connection type: Crimp, AWG28 to AWG12
+ • Nominal current up to 23 A / contact
+VG Approval: VG96912 Version J
+VG96955 / GCB-M
+VG96912 / SJT DATA CONNECTOR
+Datensteckverbinder, geschirmt, in Größe 12 inkl. Endgehäuse 
+für High-Speed und Ethernet Applikationen bis CAT6A 
+(10Gbit/s nach DIN EN 50173-1, bis 500 MHz).
+Eigenschaften
+ • Temperatureinsatzbereich: von -65°C bis +175°C
+ • Anschlussart: Crimp, 22 x AWG28 bis AWG22
+ • Genormtes Polbild 12-35 nach VG96912 für Datenübertra-
+gung bis CAT6A
+ • Getestet bis zu 2 x USB 3.0 / HDMI 1.4 / DVI-D / 2 x CAT6
+VG-Zulassung: VG96912 Ausführung J 
+Modular Reverse Bajonett Rundsteckverbinder, geschirmt, 
+in Gehäusegröße 32 nach VG95234, Aufnahme von bis zu 4 
+Kontakteinsätzen aus VG96513 für elektrische und optische 
+Kontakte (MT, MPO, Lumière, ARINC801), sowie RJ45, Koax-, 
+Triax-, Twinax- und Quadrax-Kontakte.
+Eigenschaften
+ • Temperatureinsatzbereich: von -65°C bis +150°C
+ • 4 – 120 pol. / 230.000 realisierbare Polbilder
+ • Anschlussart: Crimp, AWG 26 bis AWG 8
+ • Nennstrom bis 80 A / Kontakt
+VG-Zulassung: VG96955 Ausführung J in Vorbereitung
+Modular reverse bayonet circular connector, shielded, in hou-
+sing size 32 according to VG95234, to take up to 4 inserts 
+as per VG96513 for electrical and optical contacts (MT, MPO, 
+Lumière, ARINC801), as well as RJ45, coax, triax, twinax and 
+quadrax contacts. 
+Characteristics
+ • Operating temperature range: from -65°C to +150°C
+ • 4 - 120 pol. / 230,000 various pole arrangements
+ • Connection type: Crimp, AWG 26 to AWG 8
+ • Nominal current up to 80 A / contact
+VG Approval: VG96955 version J in progress
+Data connector, shielded, in size 12 including backshell for 
+High-speed and Ethernet applications up to CAT6A (10Gbit/s 
+according to DIN EN 50173-1, up to 500 MHz).
+Characteristics
+ • Operating temperature range: from -65°C to +175°C
+ • Connection type: Crimp, 22 x AWG28 to AWG22
+ • Standardized contact arrangement 12-35 according to 
+VG96912 for data transmission up to CAT6A
+ • Tested up to 2 x USB 3.0 / HDMI 1.4 / DVI-D / 2 x CAT6
+VG Approval: VG96912 Version J
+
+Steckverbinder / Connectors
+VG95328 / PT
+VG96976 / RHINO
+Miniatur Rundsteckverbinder, geschirmt, mit Bajonettverriege-
+lung in Größe 8 bis 24, mittlere Kontaktdichte.
+Eigenschaften
+ • Temperatureinsatzbereich: von -55C bis +125°C
+ • 2 bis 61 pol. 
+ • Anschlussart: Crimp + Löt, AWG24 bis AWG10
+ • Nennstrom bis 40 A / Kontakt
+VG-Zulassung: VG95328 Ausführung J
+Einpoliger  Hochstromsteckverbinder, geschirmt, für bis zu 875 
+VAC mit Tri-Start Schraubkupplung nach MIL-DTL-38999 Serie 
+III, Gehäusegröße 13 bis 25. 
+Eigenschaften
+ • Temperatureinsatzbereich: von -55°C bis +150°C
+ • Nennstrom bis 1000A 
+ • Anschlussart: Crimp- oder Schraubverbindung, 16mm² bis 
+240mm²
+VG-Zulassung: VG96976 Ausführung J in Vorbereitung
+Single pole high current connector, shielded, for up to 875 VAC 
+with Tri-Start screw coupling according to MIL-DTL-38999 
+Series III, housing size 13 to 25.
+Characteristics
+ • Operating temperature range: from -55°C to +150°C 
+ • Nominal current up to 1000A
+ • Connection type: crimp or screw, 16mm² to 240mm² 
+VG Approval: VG96976 version J in progress
+Miniature circular connector, shielded, with bayonet locking in 
+sizes 8 to 24, medium contact density.
+Characteristics
+ • Operating temperature range: from -55°C to +125°C
+ • 2 to 61 pol.
+ • Connection type: Crimp + solder, AWG24 to AWG10
+ • Nominal current up to 40 A / contact
+VG Approval: VG95328 Version J
+VG95319-1016 / TV
+VG96944 / Powersafe
+Miniatur Rundsteckverbinder, geschirmt, nach MIL-DTL-38999 
+III in Größe 9 bis 25. Vibrationsfeste Tri-Start Schraubkupplung. 
+Baureihe mit sehr hohen Kontaktdichte und einem 100% 
+Kontaktschutz. 
+Eigenschaften
+ • Temperatureinsatzbereich: von -65°C bis +200°C
+ • Anschlussart: Crimp, AWG28 bis AWG4
+ • Geeignet für Koax-, Triax-, Twinax- und Quadrax-Kontakte, 
+sowie optische Kontakte MIL-M29504/4/5
+ • Nennstrom bis 100 A / Kontakt
+VG-Zulassung: VG95319-1016 Ausführung J
+Power-Steckverbinder, geschirmt, mit Schaltleistung für 
+250/500V Anwendungen mit Schutzleiter, zugelassen nach 
+VG96944 und  VDE EN 61984 (VDE 0627). Tri-Start Schraub-
+kupplung und Gehäuse nach MIL-DTL-38999 III
+Eigenschaften
+ • Temperatureinsatzbereich: von -65°C bis +150°C
+ • Anschlussart: Crimp, AWG16 bis AWG6
+ • Nennstrom bis 63 A / Kontakt
+ • 3 Gehäusegrößen 13, 17 und 25
+ • Nacheilender Pilotkontakt 
+VG-Zulassung: VG96944 Ausführung J in Vorbereitung
+Miniature circular connector, shielded, according to MIL-
+DTL-38999 III in sizes 9 to 25. Vibration resistant Tri-Start 
+screw coupling. Series with very high contact density and 
+100% contact protection.
+Characteristics
+ • Operating temperature range: from -65° C to + 200° C
+ • Connection type: Crimp, AWG28 to AWG4
+ • Suitable for coax, triax, twinax and quadrax contacts, as well 
+as optical contacts MIL-M29504 / 4, / 5
+ • Nominal current up to 100 A / contact
+VG Approval: VG95319-1016 version J
+Power connector, shielded, with switching capacity for 
+250/500V applications with protective conductor, approved  
+according to VG96944 and VDE EN 61984 (VDE 0627). Tri-Start 
+screw coupling and housing according to MIL-DTL-38999 III. 
+Characteristics
+ • Operating temperature range: from -65°C to +150°C
+ • Connection type: Crimp, AWG16 to AWG6
+ • Nominal current up to 63 A / contact
+ • 3 housing sizes 13, 17 and 25
+ • Lagging pilot contact
+VG Approval: VG96944 version J in progress
+
+Zubehör / Accessories
+VG96949 / USB 3.0
+VG95319-1011 / Backshells
+Miniatur USB Rundsteckverbinder, geschirmt, für Datenüber-
+tragung bis 5 Gbit/s (USB 3.0) in Größe 15. Vibrationsfeste 
+Tri-Start Schraubkupplung nach MIL-DTL-38999 III. 
+Eigenschaften
+ • Temperatureinsatzbereich: von -40°C bis +85C°
+ • Dichtigkeit: IP67 im gestecktem Zustand
+ • Anschlussart: Geeignet zur werkzeuglosen Konfektion von 
+handelsüblichen USB 3.0 Typ A Verbindungskabeln
+VG-Zulassung: VG96949 Ausführung J 
+Endgehäuse für Steckverbinder nach VG95319-1006/-1007/-
+1008/-1016, VG96944 sowie nach MIL-DTL-38999 III in Größe 
+9  bis 25. Lieferbar in gerade oder abgewinkelt, als Band-
+adapter, Klemmkonus oder als Adapter für Formschrumpfteile 
+in allen VG-Ausführungen. 
+Eigenschaften
+ • Temperatureinsatzbereich: von -65°C bis + 260°C
+ • Druckwasserdicht 1 Bar / 48h
+ • Bauformen mit angepasstem Kabelausgang lieferbar 
+VG-Zulassung: VG95319-1011 Ausführung J
+Backshell for connectors according to VG95319-1006 / -1007 
+/-1008/-1016, VG96944 and according to MIL-DTL-38999 III in 
+sizes 9 to 25. Available in straight or angled, as a band adapter, 
+clamping cone or as an adapter for shrink-fit parts in all VG 
+versions. 
+Characteristics
+Miniature USB circular connector, shielded, for data transmis-
+sion up to 5 Gbit/s (USB 3.0) in size 15. Vibration resistant 
+Tri-Start screw coupling according to MIL-DTL-38999 III.
+Characteristics
+ • Operating temperature range: from -40°C bis +85C°
+ • Tightness: IP67 when plugged in
+ • Connection type: Suitable for tool-free assembly of standard 
+USB 3.0 type A connection cables
+VG Approval: VG96949 version J
+ • Operating temperature range: from -65°C to + 260°C
+ • Water pressure tight 1 bar / 48h
+ • Designs with adapted cable outlet available
+VG Approval: VG95319-1011 version J
+VG95319-1013 / Protective Caps
+VG95218T031 / CAT7
+Metallschutzkappen für Stecker und Steckdosen gemäß VG & 
+MIL. Lieferbar in sehr großer Vielfalt und zahlreiche Ausführun-
+gen, auch außerhalb der VG & MIL Spezifikation.
+Eigenschaften
+ • Für Serien: VG95234, VG95328, VG96912
+ • D38999 Serie III / VG95319-1006 /-1007 /-1008 / 
+VG95319-1016 / VG96944
+ • Technische Merkmale entsprechen der jeweiligen Spezifika-
+tionen (VG oder MIL) der Steckverbinder
+VG-Zulassung: VG95319-1013 Ausführung J in  
+Vorbereitung
+CAT7 Ethernet-Kabel für die sichere Datenübertragung bei allen 
+Applikationen in den Bereichen Wehrtechnik, Marine, Luftfahrt 
+und Industrie. Zugelassen nach VG95218-31 für feste und 
+mobile Verlegeart bis 90m.
+Eigenschaften
+ • UV-beständige und  halogenfreier Kabelmantel, D = 7,3mm, 
+Innenaufbau 4 x 2 x 0,14mm²
+ • Temperatureinsatzbereich: -40°C bis +85°C
+ • Zugelassen für Datenstecker bis CAT6A  nach VG96912
+ • Als Meterware ab 1m lieferbar
+VG-Zulassung: VG95218T031 Typ B001; Typ C001 und 
+Typ C002
+CAT7 Ethernet cable for secure data transmission in all appli-
+cations in the areas of defense, marine, aviation and industry. 
+Approved according to VG95218-31 for fixed and mobile instal-
+lation types up to 90m.
+Characteristics
+Metal protective caps for sockets and connectors according 
+to VG & MIL. Available in a very large variety and numerous 
+designs, also outside of the VG & MIL specification.
+Characteristics
+ • For series: VG95234, VG95328, VG96912
+ • D38999 Series III / VG95319-1006 / -1007 / -1008 / 
+VG95319-1016 / VG96944
+ • Technical features correspond to the respective specifications 
+(VG or MIL) of the connectors
+VG approval: VG95319-1013 version J in progress
+ • UV-resistant and halogen-free cable jacket, D = 7.3mm, 
+internal structure 4 x 2 x 0.14mm²
+ • Operating temperature range: -40°C to + 85°C
+ • Approved for data connectors up to CAT6A according to 
+VG96912
+ • Available by the meter from 1m
+VG Approval: VG95218T031 type B001; Type C001 and 
+Type C002
+
+Amphenol-Air LB GmbH   Am Kleinbahnhof 4   D-66740 Saarlouis
+Telefon +49 (0)68 31 98 10 -0   Telefax +49(0)68 31 9810-20   E-mail: info@amphenol-airlb.de
+http://www.amphenol-airlb.de
+Kadmium- & Chrom(VI)-freie Steckverbinder | Änderungen vorbehalten.
+© 09/2020 V.06052021 by Amphenol-Air LB, Deutschland
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  VG96912D10-35SN  VG95234KB14S  VG95234KR20  VG95328Z2C14  VG95328Z1C14  VG95328Z2A14 
+VG96912L16  VG96912L18  VG96912L10  VG96912L8  VG96912L12  VG96912L14  VG95328M12-10SNJ 
+VG95234KR16S  VG95234KR14S  VG95234KR32  VG95234A-10SL-4PN  VG95234A-10SL-4SN  VG95234B1-10SL-
+4SN  VG95234B1-16A11PN  VG95234B1-16A11SN  VG95234G-28-22PN  VG95234A-24-10PN  VG95234A-28-22SN 
+VG95234G-22-22PN  VG95234D-28-21PN  VG95234D-28-21SN  VG95234A-20A48SN  VG95234N1-36-5SN 
+VG95234E-20A9SN  VG95234B2-10SL-3SN  VG95234M-24-9P1N  VG95234M-22-22SX  VG95234N1-24-28PN 
+VG95234E-28-21SN  VG95234M-32-1SN  VG95234M-24-10SN  VG95234M-22-22PN  VG95234N1-24-28SN 
+VG95234M-22-12SN  VG95234N1-22-12PN  VG95234G-28A63PN  VG95234E-22-2P1N  VG95234M-24-11PX 
+VG95234A-22-27SN  VG95234D-22-27PN  VG95234G-24-10PN  VG95234M-24-9S1N  VG95234M-36-3P1N 
+VG95234M-36-3S1N  VG95234N1-36-3P1N  VG95234B1-16S-4SN  VG95234M-24-11PN  VG95234G-22-22SN 
+VG95234U1-14S-6SN  VG95234N1-28-21SN  VG95234U1-20A48PN  VG95234M-28-21SX  VG95234D-10SL-4PN 
+VG95234M-32-1S1N  VG95234D-10SL-4SN  VG95234M-36-5P1N  VG95234M-28-22PN  VG95234E-18-11SN 
+VG95234M-36-5S1N  VG95234B1-20-16SN  VG95234A-28-21SX  VG95234A-32-1P1N  VG95234M-16-12PN 
+VG95234N1-16-12SN  VG95234B1-10SL-4PN  VG95234A-28-21PN  VG95234N2-24-10PN  VG95234T-20A48PN 
+VG95234U1-28-21PN  VG95234U1-16-12SN  VG95234D-10SL-3SN  VG95234N1-10SL-4PN  VG95234U1-28-21SN 
+VG95234G-32A69SN  VG95234D-20A48PN  VG95234N1-24-10PN  VG95234B1-36-5SN  VG95234N2-28-21PN 
+VG95234G-24-11SN  VG95234U2-24-11PN  VG95234U2-28-21PN  VG95234M-28-21PX  VG95234N1-28-21SX 
+VG95234A-16-10PN  VG95234D-36-5PN  VG95234A-36-5PN  VG95234A-36-5SN  VG95234D-24-9S1N  VG95234M-
+22-2P1N  VG95234M-22-2S1N  VG95234M-24-28PN  VG95234N1-16-10SN  VG95234A-24-11PN  VG95234M-36-3PN

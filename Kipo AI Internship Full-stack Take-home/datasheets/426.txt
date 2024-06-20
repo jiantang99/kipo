@@ -1,0 +1,87 @@
+EGG.4B.670.ZZM
+www.lemo.com
+SUMMARY
+# Wires
+Low voltage
+1
+Image is for illustrative purpose only
+Series
+4B
+Download
+Female crimp
+Termination type
+Request a quote
+IP rating
+50
+Catalog
+AWG wire size
+18.00 - 14.00
+Cable Ø
+0.00 - 0.00 mm
+Status
+active
+Matching parts
+FGG.4B.570.ZZC
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+EG*: Female crimp contact, standard barrel
+Keying
+No keying
+Housing Material
+Gold plated [ISO 27874] bronze
+Weight
+.85 g
+Performance
+Configuration
+Insulator
+Rated Current
+Others
+Endurance (Shell): 5000 
+Temp (min / max): -55°C / +250°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Vibration: 15 g [10 Hz - 2000 Hz] 
+Shock Resistance: 100 g [ 6 ms] 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Climatical Category: 50/175/21 
+Shielding (min): 75 dB (10 MHz) 
+Shielding (min): 40 dB (1 GHz) 
+  
+  
+DRAWINGS
+Dimensions
+A
+C
+mm.
+1.6
+1.9
+in.
+0,06
+0,07
+RECOMMENDED BY LEMO
+Tools
+Crimp Tool: 
+DPC.91.101.A
+Positionner: 
+DCE.91.164.BVCM
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  EGG.4B.670.ZZM

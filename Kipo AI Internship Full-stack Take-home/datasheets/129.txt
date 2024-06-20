@@ -1,0 +1,10430 @@
+Amphenol
+PT SERIES
+Series
+PT
+VG 95328
+MIL-C-26482, Series 1 
+LN 29500
+BS 9522 N 0001 
+NFC 93-422
+NFL 54-125
+Patt. 9522 N 0001 (603)
+Patt. 9522 F 0017 (105)
+
+General information
+The miniature circular connectors of the PT series shown in this catalog are in accordance with 
+MIL-C-26482 series 1 and VG 95328. Amphenol-air LB received approval for military applications as per 
+VG 95328 under authorization no. 14/86.
+These connectors must not be connected or disconnected under voltage.   
+The PT series is mateable and interchangeable with connectors of the following standards:
+MIL-C-83723, LN 29500, LN 29504
+NFL 54125, NAS 1599 
+DEF 5325-3, DEF 5326-3 
+IEC Publ. 130-7
+These circular connectors with three pin bayonet couplings are available with solder, crimp, PCB, and wire-
+wrap connections, and in an HF-sealed version. All series have proven successful in the industrial sector 
+and in particular for aerospace applications as well as for equipment in land vehicles and marine vessels.
+Quick installation and a well stocked parts inventory mean that connectors can be supplied at short notice.
+Connector shell
+Socket contact
+Pin contact
+Contact insert 
+in receptacle 
+and plug
+Contact retention 
+system
+Contact 
+retention 
+system 
+Sealing insert  
+with double seal-
+ing bead
+Sealing insert  
+with double  
+sealing bead
+Backshells
+Plug coupling ring
+Receptacle 
+mounting flange
+Backshells
+Receptacle and plug with crimp contacts
+Safety information
+Our products are constantly being developed and improved. Therefore, we reserve the right to change 
+designs for quality improvements, enhancements, or manufacturing needs. All technical specifications 
+concern connectors, which is equipment that cannot be disconnected or separated under voltage.
+
+Table of Contents
+Series overview 
+2 - 3
+Technical data 
+4 - 5
+Polarization (coding system) 
+ 6
+Contact arrangements 
+7 - 9
+Connectors – Complete overview 
+10 - 11
+Cross-reference table (PT-MIL-VG)  
+12 - 13
+PT Series (solder connection) 
+14 - 25
+PT Series (solder connection, hermetic)  
+26 - 29
+PT-GS Series (PCB connection) 
+30 - 37
+PT-WW Series (wire-wrap connection)  
+30+ 38 
+PT-SE Series (crimp connection) 
+39 - 52
+Accessories  
+53 - 57
+Tools 
+58 - 59 
+Assembly instructions  
+60 - 68 
+Special designs  
+ 68 
+Ordering information (ordering examples)  
+69 - 70 
+
+Series overview
+PT Series
+(solder connection)
+The PT series includes plugs and receptacles with 
+non-removable, gold plated contacts with solder 
+connections, which are attached by adhesives in a 
+neoprene insert.
+Plug
+Receptacle      
+The aluminum alloy connector has five guide 
+grooves and lugs, and a three pin bayonet 
+coupling. This creates an absolutely reliable 
+coupling. The wide range of designs, shell sizes 
+and contact arrangements allow a diverse range of 
+applications for industrial and military use.
+PT-SE Series
+(crimp connection)
+The PT-SE series includes plugs and receptacles 
+with removable, gold plated contacts with crimp 
+connections, which are held in a contact retainer.
+Plug
+Receptacle     
+In addition to the proven features of the PT series 
+connectors, PT-SE connectors have excellent 
+properties required for equipment which must handle 
+strong vibration levels, for example in aircraft and  
+land vehicles.
+PT-GS Series
+(PCB connection)
+This series contains receptacles with non-removable 
+contacts designed for soldering in rigid or flexible 
+PCBs. All design features are identical to those of the 
+PT series.
+Receptacle with PCB connection    
+PT-WW Series
+(wire-wrap connection)
+This series contains receptacles with non-removable 
+contacts designed for wire-wrap connections. All 
+other design features are identical to those of the 
+PT series. The cross-section of the wire-wrap pin is 
+0.6 x 0.6 mm and corresponds to the specifications  
+in DIN 41611, Sheet 2.
+Receptacle with wire-wrap connection    
+2
+
+Series overview
+Other series
+In addition to the main series PT and PT-SE, the following series available in the PYGMY 
+connector family are not included in this catalog.
+For more information please send us your inquiry.
+PT Series (bayonet coupling)
+SP Series (bayonet coupling)  
+for harsh environmental conditions
+SP Series
+Connectors with solder contacts. Differences to PT and PT-SE series: Larger mounting flange,  
+hard anodized, non-conductive surface.
+SP-SE Series
+Connectors with removable crimp contacts and retention clip. 
+SP-CE Series
+Connectors with removable crimp contacts and contact retainer.
+PC Series 
+(screw coupling)
+SP Series
+Connectors with solder contacts.
+SP-SE Series
+Connectors with removable crimp contacts and retention clip.
+Connectors with removable crimp contacts and contact retainer. 
+PC Series (hermetic)
+Connectors with pin contacts and solder connection in hermetically sealed contact inserts  
+(glass fusion).
+3
+
+Technical data as per MIL-C-26482 G
+Current load single contacts
+(when at room temperature and connected to cables with maximum cable cross-section)
+ Contact 
+Nominal current 
+Test Current 
+Voltage drop at test current 
+ 
+size 
+ A 
+A 
+mV max.
+ 
+Solder contact/  
+Solder contact 
+Solder contact/ 
+Solder contact  
+Solder contact/  
+Solder contact
+ 
+Crimp contact 
+(hermet.) 
+Crimp contact 
+(hermet.) 
+Crimp contact 
+(hermet.)
+ 
+20 
+7.5 
+5.0 
+7.5 
+5.0 
+55 
+70
+ 
+16 
+13.0 
+10.0 
+13.0 
+10.0 
+50 
+65
+Operating voltage
+Voltage class 
+(see contact 
+arrangements 
+pages 8 and 9)
+Recommended max. operating 
+voltage (at sea level) 
+Test voltage  
+(at sea level)
+AC voltage (eff.)
+V 
+AC voltage (eff.)
+V
+DC voltage
+V
+ I 
+600 
+  850 
+1800
+II 
+900 
+1250 
+2300
+Flashover voltage over barometric altitude
+Voltage class I 
+1 Flashover voltage
+2 Recommended test voltage
+Voltage class II
+3 Flashover voltage
+4 Recommended test voltage
+Operating temperature/insulation resistance
+Operating temperature
+Insulation resistance
+-55° C to +125° C
+(= ambient temperature + 
+overheating due to current)
+≧ 5000 Megohm at   25° C
+≧    12 Megohm at 105° C
+≧    10 Megohm at 125° C
+Current load, ambient and operating temperature as per MIL-C-26482 G § 1.3.1, Fig. 1 B and Table 3/II determine lifetime 
+and areas of use for these connectors. 
+4
+
+Technical data
+Contact information
+Dimensions of solder and crimp sleeves
+Contact size
+Solder connection
+Crimp contact
+Internal- Ø
+mm
+Depth
+mm
+Depth
+mm
+Internal- Ø
+mm
+20
+7.2 ± 0.4
+3.6 ± 0.4
++ 0.10
+          1.17
+                    0
++ 0.05
+          1.22
+                    0
+16
+6.35 ± 0.5
+5.2 ± 0.4
+ + 0.08
+          2.00
+                  - 0.07
+ + 0.05
+          1.68
+                    0
+Connection data
+Contact size
+Conductor cross-section
+(mm2 copper cross-section)
+Wire size
+AWG 
+Insulation  
+outer diameter
+Strip length crimp  
+contacts
+mm min. *
+mm max.
+mm
+24
+20
+5 ± 0.5
+22
+1.27
+2.29
+20
+≙ 0.24
+≙ 0.38
+≙ 0.62
+20
+16
+18
+1.35
+2.62
++ 0.5
+                7
+- 1.0
+16
+≙ 0.62
+≙ 0.96
+≙ 1.23
+*)  The minimum insulation diameter is necessary to ensure sufficient moisture protection.
+Coupling torque
+Contact holding force
+Contact size
+Shell size
+Torque
+max.
+20
+16
+Load in the axial direction
+N min.
+68
+                             113
+  8
+0.93
+Recommended tightening torque
+10
+1.40
+                        Mounting nut of PT 07                                                   Backshell
+12
+1.85
+ 
+Shell size 
+Torque 
+Shell size 
+Torque
+  
+ 
+ 
+ 
+ 
+ 
+Nm + 0.5  
+ 
+ 
+ 
+ 
+ 
+ 
+       Nm 
+14
+2.31
+ 
+ 
+  8  
+ 
+ 
+   3.6  
+ 
+ 
+  8  
+ 
+ 
+  4 + 0.5
+16
+2.77
+ 
+ 
+10  
+ 
+ 
+   4.1  
+ 
+ 
+10  
+ 
+ 
+  6 + 0.5
+18
+3.23
+ 
+ 
+12  
+ 
+ 
+   5.2  
+ 
+ 
+12  
+ 
+ 
+  8 ± 1.0
+20
+3.70
+ 
+ 
+14  
+ 
+ 
+   6.2  
+ 
+ 
+14  
+ 
+ 
+10 ± 1.0
+  
+ 
+16  
+ 
+ 
+   7.3  
+ 
+ 
+16  
+ 
+ 
+10 ± 1.0
+ 
+ 
+18  
+ 
+ 
+   9.0  
+ 
+ 
+18  
+ 
+ 
+13 ± 1.0
+22
+4.15
+ 
+ 
+20  
+ 
+ 
+ 10.0  
+ 
+ 
+20  
+ 
+ 
+13 ± 1.0
+24
+5.07
+ 
+ 
+22  
+ 
+ 
+ 12.4  
+ 
+ 
+22  
+ 
+ 
+13 ± 1.0
+ 
+ 
+24  
+ 
+ 
+ 13.5  
+ 
+ 
+24  
+ 
+ 
+13 ± 1.0  
+5
+
+Polarization (coding system)
+All connectors have five guide lugs and grooves. If polarization of connectors with the same size and same 
+number of contacts is necessary, this is achieved with different angular positions (W to Z) of the contact 
+insert in relation to the main guide groove.
+Angular positions
+Front view of pin insert
+Main guide  
+groove
+ 
+Normal 
+Position W 
+Position X 
+Position Y 
+Position Z
+Angle adjustment in degrees
+Angle adjustment in degrees
+W
+X
+Y
+Z
+W
+X
+Y
+Z
+Shell size
+Contact 
+arrange-
+ment
+Shell size
+Contact 
+arrange-
+ment
+8
+8-2
+58
+122
+–
+–
+18
+18-11
+62
+119
+241
+340
+8
+8-3
+60
+210
+–
+–
+18
+18-30
+180
+193
+285
+350
+8
+8-3A*
+60
+210
+–
+–
+18
+18-32
+85
+138
+222
+265
+8
+8-33
+90
+–
+–
+–
+8
+8-4
+45
+–
+–
+–
+10
+10-6
+90
+–
+–
+–
+20
+20-16
+238
+318
+333
+347
+10
+10-7
+–
+–
+–
+–
+20
+20-24*
+70
+145
+215
+290
+10
+10-98
+90
+180
+24
+270
+20
+20-25*
+72
+144
+216
+288
+20
+20-27*
+72
+144
+216
+288
+12
+12-3
+–
+–
+180
+–
+20
+20-39*
+63
+144
+252
+333
+12
+12-8
+90
+112
+203
+292
+20
+20-41*
+45
+126
+225
+–
+12
+12-10
+60
+155
+270
+295
+12
+12-14
+–
+–
+–
+–
+22
+22-21
+16
+135
+175
+349
+14
+14-5
+40
+92
+184
+273
+22
+22-32*
+72
+145
+215
+288
+14
+14-12
+43
+90
+–
+–
+22
+22-34*
+62
+142
+218
+298
+14
+14-15
+17
+110
+155
+234
+22
+22-36*
+72
+144
+216
+288
+14
+14-18
+15
+90
+180
+270
+22
+22-41*
+39
+135
+264
+–
+14
+14-19
+30
+165
+315
+–
+22
+22-55*
+30
+142
+226
+314
+16
+16-8
+54
+152
+180
+331
+16
+16-23
+158
+270
+–
+–
+16
+16-26
+60
+–
+275
+338
+24
+24-61
+90
+160
+270
+324
+*) These contact arrangements are currently not available for hermetically sealed connectors.
+Ordering information page 70
+6
+
+Contact arrangements
+OVERVIEW
+  
+ Total number 
+Contact 
+Contact number for  
+Contact arrangement  
+Contact arrangement
+ of contacts arrangement  each contact size  
+ 
+as per Mll and VG
+ 
+ 
+ 
+ 
+ 
+ 
+MIL-C-26482  
+ VG 95328*
+ 
+ 
+                                                              Solder
+ 
+ 
+ 
+20 
+ 
+16 
+ Solder 
+connection  
+Crimp  
+PCB  
+Wire-wrap  
+Solder  
+Crimp 
+Crimp 
+ 
+ 
+ 
+ 
+ 
+ 
+connection 
+hermetic  connection connection  connection  connection  connection  connection
+ 
+2 
+8-2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+3 
+8-3 
+3 
+ 
+ 
+ 
+3 
+8-3A 
+3 
+ 
+ 
+3 
+12-3 
+ 
+ 
+3
+ 
+3 
+8-33 
+3 
+ 
+ 
+ 
+4 
+8-4 
+4 
+ 
+ 
+5 
+14-5 
+ 
+ 
+5
+ 
+6 
+10-6 
+6 
+ 
+ 
+6 
+10-98 
+6 
+ 
+ 
+7 
+10-7 
+7
+ 
+8 
+12-8 
+8 
+ 
+ 
+8 
+16-8 
+ 
+ 
+8
+ 
+10 
+12-10 
+10
+ 
+11 
+18-11 
+ 
+ 
+11
+ 
+12 
+14-12 
+8 
+ 
+4
+ 
+14 
+12-14 
+14 
+ 
+15 
+14-15 
+14 
+ 
+1
+ 
+16 
+20-16 
+ 
+ 
+16
+ 
+18 
+14-18 
+18
+ 
+19 
+14-19 
+19 
+ 
+ 
+21 
+22-21 
+ 
+ 
+21
+ 
+23 
+16-23 
+22 
+ 
+1
+ 
+24 
+20-24 
+24
+ 
+25 
+20-25 
+25
+ 
+26 
+16-26 
+26
+ 
+27 
+20-27 
+27
+ 
+30 
+18-30 
+29 
+ 
+1
+ 
+32 
+18-32 
+32
+ 
+32 
+22-32 
+32
+ 
+34 
+22-34 
+34
+ 
+36 
+22-36 
+36
+ 
+39 
+20-39 
+37 
+ 
+2
+ 
+41 
+20-41 
+41
+ 
+41 
+22-41 
+27 
+ 
+14
+ 
+55 
+22-55 
+55
+ 
+61 
+24-61 
+61
+Additional contact arrangements upon request. These include coaxial, high-voltage, and thermal contacts.
+* Also available with solder connection in style H.  
+Ordering information page 70
+7
+
+Contact arrangements
+Contact symbols:        16 
+20
+The following images show the front view of the pin insert and the back of the socket insert.
+Image (contact arrangement)
+Contact arrangement 8–2* 
+8–3* 
+8–3A 
+8–33 
+8–4* 
+10–6 
+10–7 
+10–98*
+Number of contacts 
+2 
+3 
+3 
+3 
+4 
+6 
+7 
+6
+Contact size
+20
+20
+20
+20
+20
+20
+20
+20
+Voltage class
+I
+I
+I
+I
+I
+I
+I
+I
+Hermetically sealed
+H
+H
+–
+H
+H
+H
+–
+H
+Image (contact arrangement)
+12–3 
+12–8 
+12–10 
+12–14 
+14–5
+3 
+8 
+10 
+14 
+5
+16 
+20 
+20 
+20 
+16
+II 
+I 
+I 
+I 
+II
+H 
+H 
+H 
+– 
+H
+Contact arrangement 
+Number of contacts 
+Contact size
+Voltage class 
+Hermetically sealed 
+Image (contact arrangement)
+ 
+14–12
+14–15
+14–18
+14–19
+8      4 
+14     1 
+18 
+19
+20   16 
+20   16 
+20 
+20
+I
+I
+I
+I
+H
+H
+H
+H
+Contact arrangement
+Number of contacts 
+Contact size
+Voltage class
+Hermetically sealed
+Image (contact arrangement)
+16–8 
+16–23 
+16–26 
+18–11
+8 
+22 
+1 
+26 
+11
+16 
+20 
+16 
+20 
+16
+II 
+I 
+I 
+II
+H 
+H 
+H 
+H
+Contact arrangement 
+Number of contacts 
+Contact size 
+Voltage class 
+Hermetically sealed 
+Ordering information page 70   
+Additional contact arrangements upon request
+*Only available in PT-A and PT-E
+8
+
+Contact arrangements
+Contact symbols:        16 
+20
+The following images show the front view of the pin insert and the back of the socket insert. 
+Image (contact arrangement)
+Contact arrangement  
+18–30 
+18–32 
+20–16 
+Number of contacts 
+29 1 
+32 
+16         
+Contact size 
+20 16 
+20 
+16 
+Voltage class 
+I 
+I 
+II 
+Hermetically sealed 
+H 
+H 
+H 
+Image (contact arrangement)
+Contact arrangement 
+20-24*
+20-25*
+20-27*
+20-39
+Number of contacts 
+24
+25
+27
+37 2         
+Contact size 
+20
+20
+20
+20 16
+Voltage class 
+I
+I
+I
+I
+Hermetically sealed 
+–
+– 
+–
+H
+Image (contact arrangement)
+Contact arrangement 
+20–41
+22–21
+22–32*
+22–34*
+Number of contacts 
+41 
+21 
+32 
+34         
+Contact size 
+20 
+16 
+20 
+20
+Voltage class 
+I 
+II 
+I 
+I
+Hermetically sealed 
+H 
+H 
+– 
+–
+Image (contact arrangement)
+Contact arrangement 
+22-36*
+22-41
+22-55
+24-61
+Number of contacts 
+36
+27 14 
+55
+61
+Contact size 
+20
+20 16 
+20
+20
+Voltage class 
+I
+I 
+I
+I
+Hermetically sealed 
+–
+– 
+H
+H
+Ordering information page 70  
+*Only available in PT-A and PT-E
+9
+
+Connectors – Complete overview
+PT Series (solder connection, see p. 14-29)
+Backshells
+    (See p. 15)
+For single  
+wire seals
+For single  
+wire seals, with 
+cable clamp
+For sealing 
+jacketed  
+cables
+Without 
+backshell
+Without special 
+requirements
+Without special 
+requirements, 
+with cable 
+clamp
+For heat  
+shrink parts
+For sealing  
+wire bundles
+For sealing  
+wire bundles, 
+with cable 
+clamp
+Shell design
+A 
+A . . . SR 
+E 
+E . . . SR 
+E . . . J 
+P 
+P . . . SR 
+W
+PT 00
+   Wall mounting 
+receptacle
+PT 01
+  Cable connecting 
+plug 
+PT 02
+PT 02 H
+(hermet.)
+VG 95328 
+Style H
+  Box mounting 
+receptacle 
+PT 06
+ Straight plug
+PT 07
+*            *                                     *
+PT 07 H
+(hermet.)
+VG 95328 
+Style F
+  Receptacle for single 
+hole mounting
+PT 08
+Backshells see p. 24
+ Angle plug
+PTB
+VG 95328 
+Style P
+  Thru-bulkhead 
+receptacle
+PTIH 
+(hermet.)
+VG 95328 
+Style G
+  Receptacle 
+with solder flange
+*) These backshells for PT 07 have an external thread (see page 21)
+10
+
+Connectors – Complete overview
+PT-SE Series (solder connection, see p. 39-52)
+ 
+ 
+For heat  
+shrink parts
+Backshells  
+        (See p. 15)
+For sealing  
+wire bundles 
+For sealing 
+jacketed and 
+shielded cables
+For shielding 
+braids and heat 
+shrink parts
+For heat  
+shrink parts  
+(twist-proof)
+Without 
+backshell
+For single  
+wire seals
+For single  
+wire seals, with 
+cable clamp
+Shell design
+ 
+SE 
+SE . . . SR 
+SE . . . F 
+SE . . . J 
+SE . . . SQ 
+SP 
+PG . . . 
+PT 00
+VG 95328 
+Style A
+VG 95328 
+Style B
+VG 95328 
+Style R
+Wall mounting receptacle
+PT 01
+Cable connecting plug
+PT 02
+VG 95328 
+Style C
+Box mounting receptacle
+PT 06
+VG 95328 
+Style K
+VG 95328 
+Style J
+Straight plug
+PT 06*
+VG 95328 
+Style M
+Wall mounting receptacle 
+(HF-sealed)
+PT 07
+**           **                                    ***          **           **
+VG 95328 
+Style D
+VG 95328 
+Style E
+VG 95328 
+Style T
+Receptacle  
+for single hole mounting
+PT 08
+Backshells see p. 51
+Angle plug
+Technical specifications see p. 50
+VG 95328 
+Style U
+*)     The PTG plug (G = grounding fingers) is equipped with a grounding ring to ensure 360° HF-sealing and a low coupling 
+resistance between plug and receptacle shell. The plug is only available with backshells SE... PGV, and SE ... SQ  
+(see p. 49 and 50).
+**)  These backshells for PT 07 have an external thread (see page 46).
+***) Backshells for PT 07 with internal threads as with VG 95328 Style M (see p 50).
+11
+
+Cross-reference table
+PT Series (solder connection)
+Connectors
+PT designation
+MS designation  
+(MIL-C-26482)
+VG designation  
+(VG 95328)
+Wall mounting receptacle
+PT 00 A 
+PT 00 A SR
+PT 00 C 
+PT 00 E 
+PT 00 E SR 
+PT 00 E J 
+PT 00 P 
+PT 00 P SR 
+PT 00 W
+-       -       - 
+-       -       - 
+-       -       - 
+MS 3110 E 
+MS 3110 F 
+-       -       - 
+MS 3110 P 
+-       -       - 
+-       -       -
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
+Cable connecting plug 
+PT 01 A 
+PT 01 A SR 
+PT 01 E 
+PT 01 E SR 
+PT 01 E J 
+PT 01 P 
+PT 01 P SR 
+PT 01 W
+-       -       - 
+-       -       - 
+MS 3111  E 
+MS 3111  F 
+-       -       - 
+MS 3111  P 
+-       -       - 
+-       -       -
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
+Box mounting receptacle
+PT 02 A 
+PT 02 C 
+PT 02 E 
+PT 02 H
+-       -       - 
+-       -       - 
+MS 3112 E 
+MS 3112 H
+- 
+Style H 
+- 
+-
+Straight plug
+PT 06 A 
+PT 06 A SR 
+PT 06 E 
+PT 06 E SR 
+PT 06 E J 
+PT 06 P 
+PT 06 P SR 
+PT 06 W
+-       -       - 
+-       -       - 
+MS 3116  E 
+MS 3116  F 
+-       -       - 
+MS 3116  P 
+-       -       - 
+-       -       -
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
+Receptacle for single hole 
+mounting
+PT 07 A 
+PT 07 C 
+PT 07 E 
+PT 07 E SR 
+PT 07 P 
+PT 07 P SR 
+PT 07 H
+-       -       - 
+-       -       - 
+MS 3114  E 
+MS 3114  F 
+MS 3114  P 
+-       -       - 
+MS 3114  H
+- 
+- 
+- 
+- 
+- 
+- 
+Style F
+Angle plug
+PT 08 E 
+PT 08 P
+-       -       - 
+-       -       -
+- 
+-
+Thru-bulkhead receptacle
+PTB
+MS 3119
+Style P
+Receptacle with solder flange
+PTIH
+MS 3113  H
+Style G
+Cross-reference example with the contact arrangement of 18 - 32 and pin contacts P
+PT 02 E 18-32 P  =  MS 3112 E 18-32 P  =  VG 95328 H 18-32 P
+12
+
+Cross-reference table
+PT-SE Series (crimp connection)
+Connectors
+PT designation
+MS designation  
+(MIL-C-26482)
+VG designation 
+(VH 95328)
+Style A 
+Style B 
+- 
+- 
+- 
+Style R
+Wall mounting receptacle
+PT 00 SE 
+PT 00 SE SR 
+PT 00 SE J 
+PT 00 SP 
+PT 00 SE PG 
+PT 00 SE SQ
+MS 3120 E 
+MS 3120 F 
+-       -       - 
+MS 3120 P 
+-       -       - 
+-       -       -
+- 
+- 
+- 
+- 
+-
+Cable connecting plug
+PT 01 SE 
+PT 01 SE SR 
+PT 01 SE J 
+PT 01 SP 
+PT 01 SE PG
+MS 3121 E 
+MS 3121 F 
+-       -       - 
+MS 3121 P 
+-       -       -
+Box mounting receptacle
+PT 02 SE
+MS 3122 E
+Style C
+Straight plug
+PT 06 SE 
+PT 06 SE SR 
+PT 06 SE F 
+PT 06 SE J 
+PT 06 SP 
+PT 06 SE PG
+- 
+Style K 
+- 
+Style J 
+- 
+-
+MS 3126 E 
+MS 3126 F 
+-       -       - 
+-       -       - 
+MS 3126 P 
+-       -       -
+Straight plug (HF-sealed)
+PTU 06 SE SQ 
+PTG 06 SE N 
+PTG 06 SE SQ 
+PTG 06 SE PG
+Style U 
+- 
+Style M 
+-
+-       -       - 
+-       -       - 
+-       -       - 
+-       -       -
+Receptacle for single hole 
+mounting 
+PT 07 SE 
+PT 07 SE SR 
+PT 07 SE SQ 
+PT 07 SP 
+PT 07 SE PG
+Style D 
+Style E 
+Style T 
+- 
+-
+MS 3124 E 
+MS 3124 F 
+-       -       - 
+MS 3124 P 
+-       -       -
+Angle plug
+PT 08 SE 
+PT 08 SP
+-       -       - 
+-       -       -
+- 
+-
+PT-GS and PT-WW Series (PCB and wire-wrap connection)
+Connectors
+PT designation
+MS designation  
+(MIL-C-26482)
+VG designation  
+(VG 95328)
+Box mounting receptacle
+PT 02 GS 
+PT 02 WW
+-       -       - 
+-       -       -
+- 
+-
+Receptacle for single hole 
+mounting 
+PT 07 GS 
+PT 07 WW
+-       -       - 
+-       -       -
+- 
+-
+Cross-reference example with the contact arrangement of 18 - 32 and socket contacts S
+PT 02 SE 18-32 S  =  MS 3122 E 18-32 S  =  VG 95328 C 18-32 S
+13
+
+PT Series
+Solder connection
+The PT series includes the following types of plugs 
+and receptacles with non-removable solder contacts, 
+which are attachable to and interchangeable with  
+all the connectors of the MIL-C-26482, VG   95328,  
+LN 29500, LN 29504, MIL-C-83723, NAS 1599,  
+NFL 54125, DEF 5325-3/5326-3 and  
+IEC publication 130-7 standards.
+The connectors in this series, which can be delivered 
+with different backshells depending on service class 
+(see page 15), are specified in accordance with 
+MIL-C-26482, Series 1 (see page 12).
+PT 00
+Wall mounting 
+receptacle
+PT 01
+Cable connecting 
+plug
+Design features
+Shell
+– Aluminum alloy.
+–   Surface treatment: cadmium and green chromate 
+coating; conductive = standard. Other surfaces: 
+see p. 70
+– Three pin bayonet coupling.
+–   5 guide grooves and lugs for perfect coupling.
+PT 06
+Straight plug
+PT 02
+Box mounting 
+receptacle
+–   Up to 5 angular positions ensure polarization  
+of the contact insert and main guide groove.
+–  8 shell designs (see p. 16 to 29).
+– 9 shell sizes (size 8 to 24).
+–   Sealing elements on mating and termination face 
+(excluding service class “A”). Protection class  
+IEC 529: IP 67 depending on backshell.
+Contact insert
+– Neoprene insert.
+–   Numerous contact arrangements  
+with 2 to 61 contacts.
+PTB
+Thru-bulkhead 
+receptacle
+PT 07
+Receptacle for 
+single hole mounting
+–   Contact designation on mating and  
+termination face.
+Solder contacts
+–   Pin and socket contacts made of high-quality 
+copper alloy.
+– Hard gold plated contact surface. 
+– Contact sizes AWG 16 and 20 (see page 5).
+– Pin and socket contacts are non-removable.
+Ordering information page 70
+PT 08
+Angle plug
+14
+
+PT Series
+Solder connection
+Service classes and backshells
+PT connectors are available in six service classes to meet different environmental requirements.  
+There are one or two backshells for each service class, with the exception of “C” and “H”.
+Service classes
+Service class
+Characteristics
+Service class
+Characteristics
+»A«
+Without special requirements
+»P«
+Similar to service class »E«, yet for sealing 
+wire bundles.
+»C«
+»W«
+Pressure-proof version. Only for receptacles.
+Air leakage % 4.55 x 10-3 cm3/s at 1 bar 
+positive pressure.
+Similar to service class »E«, yet for sealing 
+jacketed multi-conductor cables. 
+»H«
+»E«
+Hermetically sealed version.  
+Helium leakage % 1 x 10-6 cm3/s at 1 bar. 
+Moisture-proof version. Receptacle  
+pressure-proof to 0.1 bar positive pressure. 
+Single wire seal
+Backshells
+Backshells
+Characteristics
+Backshells
+Characteristics
+Backshell for attaching heat shrink parts 
+(see p. 60)
+Backshell for applications without special 
+requirements.
+E ... J
+A
+Nylon potting boot for sealing open wires. 
+Backshell with cable clamp for applications 
+without special requirements.
+A ... SR
+P
+Backshell with cable clamp for sealing  
+wire bundles.
+Backshell with insert for single  
+wire sealing.
+E
+P ... SR
+Neoprene gland for sealing jacketed  
+multi-conductor cables. 
+Backshell with sealing insert and  
+cable clamp for single wire sealing
+E ... SR
+W
+Available connectors 
+Service class
+Connector
+»A«
+»C«
+»E«
+»P«
+»W«
+»H«
+–  –  –                  
+–  –  –                
+PT 02 H            
+–  –  –              
+PT 07 H           
+–  –  –                  
+–  –  – 
+      PTIH
+PT 00 W               
+PT 01 W                   
+PT 02 W                
+PT 06 W           
+–  –  –                  
+–  –  –                  
+–  –  –                  
+–  –  –            
+PT 00 P               
+PT 01 P                     
+–  –  –             
+PT 00 P               
+PT 01 P                     
+PT 02 P             
+–  –  –                  
+–  –  –                        
+PT 00 E               
+PT 01 E                     
+PT 02 E                 
+PT 06 E                    
+PT 07 E          
+PT 08 E              
+–  –  –                  
+–  –  –                   
+PT 00 C                
+–  –  –               
+PT 02 C              
+–  –  –               
+PT 07 C            
+–  –  –     
+      PTB
+–  –  –
+PT 00 A               
+PT 01 A                      
+PT 02 A                  
+PT 06 A                     
+PT 07 A                 
+–  –  –                   
+–  –  –                  
+–  –  –                          
+Wall mounting receptacle  
+Cable connecting plug
+Box mounting receptacle*
+Straight plug
+Receptacle for single hole mounting
+Angle plug
+Thru-bulkhead receptacle
+Receptacle with solder flange
+*)  The PT 02 receptacle is available in the named service classes, but cannot be equipped with a backshell. 
+15
+
+PT Series
+Solder connection
+Wall mounting receptacle PT 00 (MS 3110)
+9.53 min.
+0.13
+PT 00 A
+PT 00 C
+PT 00 E
+(MS 3110 E) 
+PT 01 A ... SR 
+PT 01 E ... SR (MS 3110 F) 
+PT 01 P ... SR 
+Ordering example          PT 00 E 14-19 S W SR          see p. 70
+Dimensions in mm
+U
+ø DA
+R
+Shell size
+Ø A
+S 
+max.
+ø T
+ 
+±0.13
+±0.41
+min.
+ø GSR
+ 
+±0.25
+HSR
+ 
+max.
+LA
+ 
+max.
+LE
+ 
+max.
+LSR
+ 
+max.
+ø NA
+ 
+max.
+ø NE
+ 
+max.
+Thread V
+ 
+Class 2 A 
+(inch)
++0.03 
+-0.13
+K
+ 
++0.64 
+-0.25
+M
+ 
++0.25 
+0
+Theoret. 
+dimensions
+Thread Q
+ 
+Class 2 A 
+(inch)
+12.01 
+14.99 
+19.05
+7.54 
+10.69 
+13.87
+3.18 
+4.78 
+7.92
+21.02 
+22.63 
+25.81
+12.52 
+12.52 
+12.52
+39.5 
+39.5 
+39.5
+32.70 
+32.70 
+32.70
+48.82 
+48.82 
+48.82
+10.95 
+10.95 
+10.95
+14.99 
+18.21 
+21.18
+14.22 
+17.40 
+20.65
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+15.09 
+18.26 
+20.62
+21.02 
+24.23 
+26.59
+3.05 
+3.05 
+3.05
+26.97 
+31.75 
+34.93
+0.5000-28 UNEF 
+0.6250-24 NEF 
+0.7500-20 UNEF
+8 
+10 
+12
+22.23 
+25.40 
+28.58
+16.84 
+19.99 
+22.33
+9.53 
+12.70 
+15.88
+28.98 
+30.56 
+37.31
+12.52 
+12.52 
+12.52
+39.5 
+39.5 
+39.5
+32.70 
+32.70 
+32.70
+48.82 
+50.80 
+50.80
+10.95 
+10.95 
+10.95
+24.64 
+27.64 
+30.89
+23.62 
+26.85 
+29.85
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF
+23.01 
+24.61 
+26.97
+28.98 
+31.34 
+33.73
+3.05 
+3.05 
+3.05
+38.10 
+41.28 
+44.45
+0.8750-20 UNEF 
+1.0000-20 UNEF 
+1.1875-18 NEF
+14 
+16 
+18
+31.75 
+34.93 
+38.10
+25.76 
+28.80 
+31.98
+15.88 
+19.05 
+20.32
+37.31 
+42.06 
+44.45
+16.51 
+16.51 
+17.35
+42.6 
+42.6 
+44.1
+38.51 
+38.51 
+40.08
+55.17 
+55.17 
+56.74
+14.12 
+14.12 
+14.96
+33.83 
+37.08 
+40.31
+33.05 
+36.32 
+39.50
+1.1875-18 NEF 
+1.3125-18 NEF 
+1.4375-18 NEF
+29.36 
+31.75 
+34.93
+36.91 
+40.08 
+43.26
+3.05 
+3.05 
+3.73
+47.63 
+50.80 
+55.58
+1.1875-18 NEF 
+1.4375-18 NEF 
+1.4375-18 NEF
+20 
+22 
+24
+Assembly instructions p. 60-68.
+16
+
+PT Series
+Solder connection
+Wall mounting receptacle PT 00 (MS 3110)
+0.13
+PT 00 E ... J 
+PT 00 W
+PT 00 P (MS 3110 P) 
+Ordering example          PT 00 P 14-19 P W          see p. 70
+Dimensions in mm
+K
+LW
+M
+S
+U
+ø DW
+ø DJ
+ 
+±0.1
+ø DP
+ 
+min.
+min.
+max.
+LJ
+ 
+max.
+LP
+ 
+max.
+max.
+ø NJ
+ 
+max.
+ø NP
+ 
+max.
+ø NW
+ 
+max.
+max.
+ø T
+ 
+±0.13
+±0.41
+Shell size
+Ø A
+ 
++0.03 
+-0.13
++0.64
+-0.25
++0.25
+0
+Thread Q
+ 
+Class 2 A
+(inch)
+R
+Theoret. 
+dimen-
+sions
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+6.7
+9.2
+12.0
+8.05
+11.02
+13.92
+4.27
+5.21
+8.59
+5.84
+7.92
+11.23
+12.52 
+12.52 
+12.52
+37
+37
+37
+36.53
+36.53
+36.53
+43.31
+43.31
+46.94
+10.95 
+10.95 
+10.95
+14.22 
+17.40 
+20.65
+15.44
+18.64
+21.79
+15.09 
+18.26 
+20.62
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+15.09
+18.26
+20.62
+21.02 
+24.23 
+26.59
+3.05 
+3.05 
+3.05
+26.97 
+31.75 
+34.93
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+15.1
+18.3
+19.9
+17.09
+20.27
+22.83
+10.57
+13.97
+15.24
+13.69
+15.65
+17.07
+12.52 
+12.52 
+12.52
+37
+40
+40
+36.53
+36.53
+36.53
+51.82
+57.30
+63.14
+10.95
+10.95
+10.95
+24.5
+29.8
+32.0
+24.99
+28.19
+31.34
+23.88
+27.10
+30.33
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF
+23.01 
+24.61 
+26.97
+28.98
+31.34
+33.73
+3.05 
+3.05 
+3.05
+38.10 
+41.28 
+44.45
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+23.0
+25.7
+28.6
+26.01
+29.18
+32.36
+16.13
+17.02
+18.80
+18.97
+21.49
+22.71
+16.51
+16.51
+17.35
+47.5
+47.5
+47.5
+42.06
+42.06
+43.61
+72.70
+78.38
+84.07
+14.12
+14.12
+14.96
+36.1
+38.5
+41.5
+34.54
+37.69
+40.89
+33.58
+36.80
+40.03
+1.1875-18 NEF
+1.3125-18 NEF
+1.4375-18 NEF
+29.36
+31.75
+34.93
+36.91
+40.08
+43.26
+3.05
+3.05
+3.73
+47.63
+50.80
+55.58
+Assembly instructions p. 60-68. 
+17
+
+PT Series
+Solder connection
+Cable connecting plug  PT 01 (MS 3111)
+DA
+NA
+9.53 min.
+PT 01 A
+PT 01 E
+(MS 3111 E) 
+PT 01 A ... SR 
+PT 01 E ... SR (MS 3111 F) 
+PT 01 P ... SR 
+Ordering example          PT 01 E 14-19 S W SR          see p. 70
+Dimensions in mm
+Thread Q 
+Thread V 
+ø DA
+ 
+min.
+ø GSR
+ 
+±0.25
+HSR
+ 
+max.
+LA
+ 
+max.
+LE
+ 
+max.
+LSR
+ 
+max.
+ø NA
+ 
+max.
+ø NE
+ 
+max.
+S
+ 
+max.
+Y
+ 
+±0.51
+Shell size
+Ø A
+ 
++0.03 
+-0.13
+K
+ 
++0.64 
+-0.25
+M
+ 
++0.41 
+0
+Class 2 A 
+(inch)
+Class 2 A 
+(inch)
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+7.54 
+10.69 
+13.87
+3.18 
+4.78 
+7.92
+21.02 
+22.63 
+25.81
+12.55 
+12.55 
+12.55
+39.5 
+39.5 
+39.5
+32.70 
+32.70 
+32.70
+48.82 
+48.82 
+48.82
+10.16 
+10.16 
+10.16
+14.99 
+18.21 
+21.18
+14.22 
+17.40 
+20.65
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+21.02 
+24.23 
+26.59
+0.5000-28 UNEF 
+0.6250-24 NEF 
+0.7500-20 UNEF
+23.83 
+26.97 
+29.36
+14 
+16 
+18
+22.23 
+25.40 
+28.78
+16.84 
+19.99 
+22.33
+9.53 
+12.70 
+15.88
+28.98 
+30.56 
+37.31
+12.55 
+12.55 
+12.55
+39.5 
+39.5 
+39.5
+32.70 
+32.70 
+32.70
+48.82 
+50.80 
+50.80
+10.16 
+10.16 
+10.16
+24.64 
+27.64 
+30.89
+23.62 
+26.85 
+29.85
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF
+28.98 
+31.34 
+33.73
+0.8750-20 UNEF 
+1.0000-20 UNEF 
+1.1875-18 NEF
+31.75 
+34.14 
+36.53
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+25.76 
+28.80 
+31.98
+15.88 
+19.05 
+20.32
+37.31 
+42.06 
+44.45
+16.51 
+16.51 
+17.35
+42.6 
+42.6 
+44.1
+38.51 
+38.51 
+40.08
+55.17 
+55.17 
+56.74
+13.59 
+13.59 
+14.43
+33.83 
+37.08 
+40.31
+33.05 
+36.32 
+39.50
+1.1875-18 NEF 
+1.3125-18 NEF 
+1.4375-18 NEF
+36.91 
+40.08 
+43.26
+1.1875-18 NEF 
+1.4375-18 NEF 
+1.4375-18 NEF
+39.67 
+42.88 
+46.02
+Assembly instructions p. 60-68. 
+18
+
+PT Series
+Solder connection
+Cable connecting plug  PT 01 (MS 3111)
+PT 01 E ... J
+PT 01 P (MS 3111 P) 
+PT 01 W
+Ordering example          PT 01 W 14-19 P X          see p. 70
+Dimensions in mm
+K
+LW
+M
+ø NW
+S
+Y
+ø DW
+ø DJ
+ 
+±0.1
+ø DP
+ 
+min.
+min.
+max.
+LJ
+ 
+max.
+LP
+ 
+max.
+max.
+ø NJ
+ 
+max.
+ø NP
+ 
+max.
+max.
+max.
+±0.51
+Shell size
+Ø A
+ 
++0.03 
+-0.13
++0.64
+-0.25
++0.41
+0
+Thread Q
+ 
+Class 2 A
+(inch)
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+6.7
+9.2
+12.0
+8.05
+11.02
+13.92
+4.27
+5.21
+8.59
+5.84
+7.92
+11.23
+12.52 
+12.52 
+12.52
+37
+37
+37
+36.53
+36.53
+36.53
+43.31
+43.31
+46.94
+10.16 
+10.16 
+10.16
+15.60
+18.40
+23.70
+15.44
+18.64
+21.79
+13.89
+17.15
+20.64
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+21.02 
+24.23 
+26.59
+23.83
+26.97
+29.36
+14 
+16 
+18
+22.23 
+25.40 
+28.78
+15.1
+18.3
+19.9
+17.09
+20.27
+22.83
+10.57
+13.97
+15.24
+13.69
+15.65
+17.07
+12.52 
+12.52 
+12.52
+37
+40
+40
+36.53
+36.53
+36.53
+51.82
+57.30
+63.14
+10.16
+10.16
+10.16
+24.5
+29.8
+32.0
+24.99
+28.19
+31.34
+23.88
+27.10
+30.33
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF 
+28.98
+31.34
+33.73
+31.75
+34.14
+36.53
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+23.0
+25.7
+28.6
+26.01
+29.18
+32.36
+16.13
+17.02
+18.80
+18.97
+21.49
+22.71
+16.51
+16.51
+17.35
+47.5
+47.5
+47.5
+42.06
+42.06
+43.61
+74.22
+78.38
+84.07
+13.59
+13.59
+14.43
+36.1
+38.5
+41.5
+34.54
+37.69
+40.89
+33.58
+36.80
+40.03
+1.1875-18 NEF
+1.3125-18 NEF
+1.4375-18 NEF
+36.91
+40.08
+43.26
+39.67
+42.88
+46.02
+Assembly instructions p. 60-68. 
+19
+
+PT Series
+Solder connection
+Box mounting receptacle PT 02 (VG 95328)
+The receptacle PT 02 is available in the service classes A, C, E and H (see page 15), but cannot be 
+equipped with a backshell, as there is no thread for this.
+0.13
+PT 02 A  
+PT 02 C 
+PT 02 E (VG 95328 H / MS 3112 E) 
+Ordering example          PT 02 C 14-19 S W          see p. 70
+Dimensions in mm
+K
+M
+ø N
+R
+S
+T
+U
+Z
+L
+ 
+max.
+max.
+max.
+±0.13
+±0.41
+max.
+Housing size
+Ø A
+ 
++0.03 
+-0.13
++0.64
+-0.25
++0.25
+0
+Theoret. 
+dimensions
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+12.52 
+12.52 
+12.52
+20.96
+20.96
+20.96
+10.95 
+10.95 
+10.95
+11.40
+14.55
+17.75
+15.09
+18.26
+20.62
+21.02 
+24.23 
+26.59
+3.05
+3.05
+3.05
+26.97
+31.75
+34.93
+11.81
+11.81
+11.81
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+12.52 
+12.52 
+12.52
+20.96
+20.96
+20.96
+10.95 
+10.95 
+10.95
+20.90
+24.10
+27.25
+23.01 
+24.61 
+26.97
+28.98
+31.34
+33.73
+3.05
+3.05
+3.05
+38.10
+41.28
+44.45
+11.81
+11.81
+11.81
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+16.51
+16.51
+17.35
+27.33
+27.33
+28.17
+14.12
+14.12
+14.96
+30.45
+33.60
+36.80
+29.36
+31.75
+34.93
+36.91
+40.08
+43.26
+3.05
+3.05
+3.73
+47.63
+50.80
+55.58
+13.36
+13.36
+12.52
+Assembly instructions p. 60-68. 
+20
+
+PT Series
+Solder connection
+Receptacle for single hole mounting PT 07 (MS 3114)
+PT 07 A
+PT 07 C
+PT 07 E
+(MS 3114 E) 
+PT 07 P
+(MS 3114 P) 
+PT 07 E ... SR (MS 3114 F)
+PT 07 P ... SR 
+Ordering example          PT 07 E 14-19 S W SR          see p. 70
+Dimensions in mm
+Ø B
+H
+HSR
+K
+LE
+LP
+LSR
+M
+ø NE
+ø NP
+Thread R 
+S
+Z
+max.
+ø DP
+ 
+min.
+ø GSR
+ 
+±0.25
+±0.4
+max.
+max.
+max.
+max.
+±0.13
+max.
+max.
+±1.02
+min.
+max.
+max.
+J
+ 
+0
+-0.25
++0.28
+-0.25
+P
+Thread Q
+ 
+Class 2 B
+(inch)
+Class 2 A
+(inch)
+Shell size
+Ø A
+ 
++0.03 
+-0.13
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+27.5
+30.5
+35.5
+  8.05
+11.02
+13.92
+3.18
+4.78
+7.92
+19.1
+22.2
+27.0
+21.02
+22.63
+25.81
+13.46
+16.64
+20.78
+3.18
+3.18
+3.18
+17.19
+17.19
+17.19
+16.89
+16.89
+16.89
+31.14
+31.14
+31.14
+17.68
+17.68
+17.68
+18.52
+21.69
+24.87
+15.44
+18.64
+21.79
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+0.6250-24 NEF 
+0.7500-20 UNEF 
+0.8750-20 UNEF
+0.5625-24 NEF 
+0.6875-24 NEF 
+0.8750-20 UNEF
+24.24
+27.38
+32.16
+4.85
+4.85
+4.85
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+38.5
+41.5
+45.0
+17.09
+20.27
+22.83
+9.53
+12.70
+15.88
+30.2
+33.3
+36.5
+28.98
+30.56
+37.31
+23.93
+27.08
+30.25
+3.18
+3.18
+3.18
+17.19
+17.19
+17.19
+16.89
+16.89
+16.89
+31.14
+33.12
+33.12
+17.68
+17.68
+17.68
+23.04
+31.22
+34.39
+24.99
+28.19
+31.34
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+1.0000-20 UNEF 
+1.1250-18 NEF 
+1.2500-18 NEF 
+1.0000-20 UNEF 
+1.1250-18 NEF 
+1.2500-18 NEF
+35.33
+38.51
+41.68
+4.85
+4.85
+4.85
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+49.5
+52.5
+56.0
+26.01
+29.18
+32.36
+15.88
+19.05
+20.32
+39.7
+42.9
+46.0
+37.31
+42.06
+44.45
+33.43
+36.60
+39.78
+3.96
+3.96
+3.96
+18.62
+18.62
+19.38
+20.07
+20.07
+20.07
+33.72
+33.72
+34.53
+22.45
+22.45
+23.29
+38.35
+41.53
+44.70
+34.54
+37.69
+40.89
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+1.3750-18 NEF
+1.5000-18 NEF
+1.6250-18 NEF
+1.3750-18 NEF
+1.5000-18 NEF
+1.6250-18 NEF
+46.43
+49.63
+52.78
+5.61
+5.61
+4.78
+Assembly instructions p. 60-68. 
+21
+
+PT Series
+Solder connection
+Straight plug PT 06 (MS 3116)
+9.53 min.
+PT 06 A
+PT 06 E (MS 3116 E) 
+PT 06 A ... SR 
+PT 06 E ... SR (MS 3116 F) 
+PT 06 P ... SR 
+Ordering example          PT 06 A 14-19 P W          see p. 70
+Dimensions in mm
+ø G
+HSR
+J
+LA
+LE
+LSR
+ø NA
+ø NE
+Shell size
+Ø DA
+ 
+min.
+max.
+ø GSR
+ 
+±0.25
+max.
+±0.25
+max.
+max.
+max.
+max.
+max.
+Thread Q
+ 
+Class 2 A
+(inch)
+Thread V
+ 
+Class 2 A
+(inch)
+8 
+10 
+12
+7.54
+10.69
+13.87
+19.05
+21.82
+26.19
+3.18
+4.78
+7.92
+21.02
+22.63
+25.81
+8.97
+8.97
+8.97
+40.87
+40.87
+40.87
+32.16
+32.16
+32.16
+48.82
+48.82
+48.82
+14.99
+18.21
+21.18
+14.22
+17.40
+20.65
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+0.5000-28 UNEF 
+0.6250-24 NEF 
+0.7500-20 UNEF
+14 
+16 
+18
+16.84
+19.99
+22.33
+29.36
+32.54
+35.33
+9.53
+12.70
+15.88
+28.98
+30.56
+37.31
+8.97
+8.97
+8.97
+40.87
+40.87
+40.87
+32.16
+32.16
+32.16
+48.82
+50.80
+50.80
+24.64
+27.64
+30.89
+23.62
+26.85
+29.85
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF 
+0.8750-20 UNEF 
+1.0000-20 UNEF 
+1.1875-18 NEF
+20 
+22 
+24
+25.76
+28.80
+31.98
+38.89
+42.06
+45.14
+15.88
+19.05
+20.32
+37.31
+42.06
+44.45
+10.54
+10.54
+10.54
+42.06
+42.06
+44.45
+36.53
+36.53
+38.10
+53.57
+53.57
+55.17
+33.83
+37.08
+40.31
+33.05
+36.32
+39.50
+1.1875-18 NEF
+1.3125-18 NEF
+1.4375-18 NEF
+1.1875-18 NEF
+1.4375-18 NEF
+1.4375-18 NEF
+Assembly instructions p. 60-68. 
+22
+
+PT Series
+Solder connection
+Straight plug PT 06 (MS 3116)
+PT 06 E ... J
+PT 06 P (MS 3116 P) 
+PT 06 W
+Ordering example          PT 06 E 14-19 P W J          see p. 70
+Dimensions in mm
+G
+LP
+LW
+ø NP
+ø DW
+Shell size
+ø DJ
+ 
+±0.1
+ø DP
+ 
+min.
+min.
+max.
+max.
+J
+ 
+max.
+LJ
+ 
+max.
+max.
+max.
+ø NJ
+ 
+max.
+max.
+ø NW
+ 
+max.
+Thread Q
+ 
+Class 2 A
+(inch)
+8 
+10 
+12
+6.7
+9.2
+12.0
+8.05
+11.02
+13.92
+4.27
+5.20
+8.59
+5.84
+7.92
+11.23
+19.05
+21.82
+26.19
+8.97
+8.97
+8.97
+37
+37
+37
+38.76
+38.76
+38.76
+43.31
+43.31
+46.94
+15.6
+18.4
+23.7
+15.44
+18.64
+21.79
+13.89
+17.15
+20.64
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+14 
+16 
+18
+15.1
+18.3
+19.9
+17.09
+20.27
+22.83
+10.57
+13.97
+15.20
+13.70
+15.65
+17.10
+29.36
+32.54
+35.33
+8.97
+8.97
+8.97
+37
+39
+39
+38.76
+38.76
+38.76
+51.82
+57.30
+63.14
+24.5
+29.8
+32.0
+24.99
+28.19
+31.34
+23.88
+27.10
+30.33
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF 
+20 
+22 
+24
+23.0
+25.7
+28.6
+26.01
+29.18
+32.36
+16.10
+17.00
+18.80
+19.00
+21.50
+22.71
+38.89
+42.06
+45.14
+10.54
+10.54
+10.54
+47.5
+47.5
+47.5
+39.27
+39.27
+42.06
+72.24
+76.20
+81.53
+36.1
+38.5
+41.5
+34.54
+37.69
+40.89
+33.58
+36.80
+40.03
+1.1875-18 NEF
+1.3125-18 NEF
+1.4375-18 NEF
+Assembly instructions p. 60-68. 
+23
+
+PT Series
+Solder connection
+Angle plug PT 08 
+PT 08 E
+PT 08 P 
+Ordering example          PT 08 E 14-19 P W          see p. 70
+Dimensions in mm
+Shell size
+BE
+BP
+CE
+CP
+DE
+DP
+EE
+G
+øGE
+J
+LE
+LP
+Thread Q
+±0.79
+max.
++0.25
+-0.64
+±0.38
+±1.57
+±0.38
++1.19
+-0.64
+max.
+max.
+±0.25
+max.
+max.
+Class 2 A
+(inch)
+8
+10
+12
+16.64
+19.02
+20.62
+11.00
+12.52
+14.02
+3.96
+4.32
+6.71
+7.92
+11.13
+13.11
+23.90
+30.25
+30.25
+11.13
+14.27
+17.48
+8.61
+9.98
+11.43
+19.05
+21.82
+26.19
+20.21
+23.39
+26.57
+8.97
+8.97
+8.97
+53.00
+55.00
+58.00
+47.0
+50.0
+52.0
+0.4375-28 UNEF
+0.5625-24 NEF
+0.6875-24 NEF
+14
+16
+18
+22.99
+26.16
+25.78
+16.33
+16.71
+17.50
+7.87
+8.38
+11.28
+15.88
+16.66
+17.86
+31.85
+33.43
+39.67
+19.84
+22.61
+25.40
+13.18
+14.81
+15.77
+29.36
+32.54
+35.33
+29.74
+32.94
+36.12
+8.97
+8.97
+8.97
+61.00
+65.33
+69.00
+55.0
+56.0
+57.0
+0.8125-20 UNEF
+0.9375-20 UNEF
+1.0625-18 NEF
+20
+22
+24
+27.36
+28.93
+32.13
+19.05
+20.17
+27.18
+12.95
+13.08
+16.66
+19.46
+20.62
+23.32
+41.28
+43.66
+44.45
+28.58
+31.34
+34.90
+17.35
+18.77
+20.24
+38.89
+42.06
+45.11
+39.67
+42.47
+45.64
+10.54
+10.54
+10.54
+71.00
+72.00
+78.00
+64.0
+65.0
+74.0
+1.1875-18 NEF
+1.3125-18 NEF
+1.4375-18 NEF
+Assembly instructions p. 60-68. 
+24
+
+PT Series
+Solder connection
+Thru-bulkhead receptacle PTB (MS 3119)
+The PTB thru-bulkhead is pressure-proof in accordance with service class “C” (see p. 15). It is equipped with 
+contact pins (P) and socket contacts (S). The socket contacts are always on the connector side marked “P”.
+0.13
+PTB
+(MS 3119)
+Ordering example          PTB 18-32 PS W          see p. 70
+Dimensions in mm
+M 
+P 
+R 
+ Ø A
+Shell size
+U
+ 
+±0.41
+øT
+ 
+±0.13
+S
+ 
+max.
+max.
+L
+ 
++0.15 
+-0.13
++0.25 
+0
+Theoretical 
+dimensions
+K
+ 
++0.41 
+0
+ +0.03
+ -0.13
+26.97 
+31.75 
+34.93
+3.05 
+3.05 
+3.05
+21.02 
+24.23 
+26.59
+15.09 
+18.26 
+20.62
+3.18 
+3.18 
+3.18
+14.27 
+14.27 
+14.27
+26.67 
+26.67 
+26.67
+15.88 
+15.88 
+15.88
+12.01 
+14.99 
+19.05
+8
+10 
+12
+38.10 
+41.28 
+44.45
+3.05 
+3.05 
+3.05
+28.98 
+31.34 
+33.73
+23.01 
+24.61 
+26.97
+3.18 
+3.18 
+3.18
+14.27 
+14.27 
+14.27
+26.67 
+26.67 
+26.67
+15.88 
+15.88 
+15.88
+22.23 
+25.40 
+28.58
+14 
+16 
+18
+47.63 
+50.80 
+55.58
+3.05 
+3.05 
+3.73
+36.91 
+40.08 
+43.26
+29.36 
+31.75 
+34.93
+3.18 
+3.18 
+3.18
+17.48 
+17.48 
+17.48
+33.78 
+33.78 
+33.78
+19.84 
+19.84 
+19.84
+31.75 
+34.93 
+38.10
+20 
+22 
+24
+Assembly instructions p. 60-68. 
+25
+
+PT Series
+Solder connection/hermetic
+PTIH
+Hermetically  
+sealed receptacle 
+with solder flange
+The PT series also includes hermetically sealed 
+receptacles which are attachable to plugs of the 
+MIL-C-26482, VG 95328, LN 29504, MIL-C-83723, 
+NAS 1599, NFL 54125, DEF 5325-3/5326-3  
+and IEC-Publication 130-7 standards. These 
+receptacles are available only with pin contacts  
+in the arrangements listed on pages 7 to 9. 
+Each hermetically sealed socket has a silicone 
+O-ring, which seals the contact insert of the 
+corresponding plug and protects the coupled 
+connector against humidity.
+Design features
+PT 02 H
+Hermetically  
+sealed receptacle.
+–  Shell cold-rolled steel, galvanized.
+– 9 shell sizes (size 8 to 24).
+– 2 to 61 contacts (only pin contacts).
+–  Contacts made of high-quality nickel alloy,  
+tin-plated.
+– Compression glass insert.
+–  Contacts are labeled on mating and 
+termination face.
+PT 07 H
+Hermetically 
+sealed receptacle 
+for single hole 
+mounting
+Technical data (see also page 4 and 5)
+Current load
+Contact size 20  
+Contact size 16
+  5 A max. 
+10 A max.
+Dielectric strength (at sea level)
+Voltage class I  
+Voltage class II
+1500 V AC voltage (eff.)
+2300 V AC voltage (eff.)
+Leak rate 
+1 x 10-6 cm3/s at approx. 1 bar
+Arc resistance 
+The dielectric material can withstand the conditions 
+for at least 115 seconds as per MIL-C-5015D. 
+Humidity
+Complies with the requirements of MIL-C-5015D  
+and MIL-C-26482
+Impact
+100 g
+Better than MIL-E-5272, Procedure II
+Vibration
+Operating temperature
+-55° C to +125° C
+(= ambient temperature + overheating due  
+to current)
+Ordering information page 70
+26
+
+PT Series
+Solder connection/hermetic
+Hermetically sealed receptacle with solder flange PTIH  
+(VG 95328)
+0.79
++ 0.15
+- 0.13
+0.8
++ 0.4
+ - 0.13
+PTIH
+(VG 95328 G/MS 3113 H) 
+Ordering example          PTIH 18-32 P W          see p. 70
+Dimensions in mm
+ø G
+± 0.4
+Z
+max.
+Shell size
+Ø A
++ 0.025
+- 0.13
+L
++ 0.64
+- 0.41
+ø N
++ 0.03
+- 0.13
+W
++ 0.28
+- 0.25
+8
+10
+12
+12.01
+14.99
+19.05
+15.9
+19.1
+21.4
+11.35
+11.35
+11.35
+14.27
+17.07
+19.84
+2.39
+2.39
+2.39
+9.80
+9.80
+9.80
+14
+16
+18
+22.23
+25.40
+28.58
+24.6
+27.8
+30.9
+11.35
+11.35
+11.35
+23.01
+26.19
+29.36
+2.39
+2.39
+2.39
+9.80
+9.80
+9.80
+20
+22
+24
+31.75
+34.93
+38.10
+33.3
+36.5
+39.7
+12.93
+12.93
+13.77
+31.75
+34.92
+38.10
+2.39
+3.18
+3.18
+9.80
+10.62
+10.62
+Assembly instructions p. 60-68. 
+27
+
+PT Series
+Solder connection/hermetic
+Hermetically sealed receptacle PT 02 H (MS 3112 H)
+PT 02 H
+(MS 3112 H) 
+Ordering example          PT 02 H 18-32 P W          see p. 70
+Dimensions in mm
+K
+T
+U
+V
+±0.41
+R
+ 
+±0.15
+S
+ 
+max.
+min.
+±0.41
+Z
+ 
+max.
+Shell size
+Ø A
+ 
++0.025 
+-0.13
+L
+ 
++0.66 
+-0.38
+ø N
+ 
++0.03
+-0.13
++0.28
+-0.25
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+1.20
+1.20
+1.20
+12.55 
+12.55 
+12.55
+14.27
+17.07
+19.84
+15.08
+18.26
+20.62
+21.02 
+24.23 
+26.59
+2.9
+2.9
+2.9
+26.97
+31.75
+34.93
+1.57
+1.57
+1.57
+8.74
+8.74
+8.74
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+1.20
+1.20
+1.20
+12.55 
+12.55 
+12.55
+23.01
+26.19
+29.36
+23.01
+24.61
+26.97
+28.98 
+31.34 
+33.73
+2.9
+2.9
+2.9
+38.10
+41.28
+44.45
+1.57
+1.57
+1.57
+8.74
+8.74
+8.74
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+1.20
+2.01
+2.01
+14.12
+14.12
+14.94
+31.75
+34.93
+38.10
+29.36
+31.75
+34.93
+36.91 
+40.08 
+43.26
+2.9
+2.9
+3.6
+47.63
+50.80
+55.58
+1.57
+1.57
+1.57
+8.74
+9.58
+9.58
+Assembly instructions p. 60-68.
+28
+
+PT Series
+Solder connection/hermetic
+Hermetically sealed receptacle for single hole mounting PT 07 H 
+(VG 95328)
+PT 07 H
+(VG 95328 F / MS 3114 H) 
+Ordering example          PT 07 H 18-32 P W          see p. 70
+Dimensions in mm
+Shell size
+Ø A
+Ø B
+H
+K
+M
+P (mounting wall)
+Thread R
+S
+Z
++0.03
+-0.13
+max.
+±0.4
+±0.5
+±0.8
+0
+min.
+max.
+Class 2 A
+(inch)
+max.
+max.
+8
+10
+12
+12.01
+14.99
+19.05
+27.5
+30.5
+35.5
+19.1
+22.2
+27.0
+3.0
+3.0
+3.0
+17.5
+17.5
+17.5
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+0.5625-24 NEF
+0.6875-24 NEF
+0.8750-24 UNEF
+24.24
+27.28
+32.16
+3.28
+3.28
+3.28
+14
+16
+18
+22.23
+25.40
+28.58
+38.5
+41.5
+45.0
+30.2
+33.3
+36.5
+3.0
+3.0
+3.0
+17.5
+17.5
+17.5
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+1.0000-20 UNEF
+1.1250-20 NEF
+1.2500-18 NEF
+35.33
+38.51
+41.68
+3.28
+3.28
+3.28
+20
+22
+24
+31.75
+34.93
+38.10
+49.5
+52.5
+56.0
+39.7
+42.9
+46.0
+3.8
+3.8
+3.8
+22.3
+22.3
+23.1
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+1,3750-18 NEF
+1,5000-18 NEF
+1,6250-18 NEF
+46.43
+49.63
+52.78
+0.89
+0.89
+1.16
+Assembly instructions p. 60-68. 
+29
+
+PT-GS Series
+PCB connection
+PT 02 GS
+Box mounting receptacle
+This series contains receptacles PT 02 GS and 
+PT 07 GS with non-removable contacts. The 
+receptacles are identical to those of service class C 
+(see p. 15), with the exception of contacts designed 
+for soldering onto rigid or flexible PCBs. The contact 
+bore holes necessary for assembly are shown on 
+pages 33 to 37, and show the front view of the pin 
+insert when the receptacle is in the normal position. 
+PT-WW Series
+Wire-wrap connection
+PT 07 GS
+Receptacle for single hole mounting 
+(with O-ring)
+The PT receptacle types PT 02 WW and PT 07 WW 
+are identical to those in PT series operating class 
+C, with the exception of the contacts, which are 
+designed for wire-wrap connections and  
+non-removable. 
+The cross-section of the wire-wrap pin is 
+0.6 x 0.6 mm and corresponds to the specifications 
+in DIN 41611, Sheet 2.
+PT 02 WW
+Box mounting receptacle 
+The contact bore holes with the specified 
+coordinates shown on pages 61 to 65 allow semi- 
+and fully automatic wrapping. They show the front 
+view of the pin insert when the receptacle is in the 
+normal position. (see p. 6)
+PT 07 WW
+Receptacle for single hole mounting 
+(with O-ring)
+Assembly instructions p. 60-68.
+30
+
+PT-GS Series
+PCB connection
+Box mounting receptacle PT 02 GS
+The dimensions are shown only for pole 
+arrangements with size 20 contacts, such as 
+those on pages 33-37.
+Other pole arrangements upon request.
+ 0.13
+Detail V
+4.5 ± 0.1
+   0
+ - 0.1
+ø 0.7
+Ordering example          PT 02 GS 18-32 P          see p. 70
+Dimensions in mm
+U 
+S 
+ø N 
+Shell size
+ Ø A
+B 
+Z
+ 
+±0.7
+T
+ 
+±0.1
+±0.41
+max.
+max.
+D
+ 
+±0.25
+-0.25
+R
+ 
+Theoret. 
+dimensions
+M
+ 
++0.25 
+0
+ +0.03
+ - 0.13
+8
+10 
+12
+12.01 
+14.99 
+19.05
+6.35
+6.35
+6.35
+1.57
+1.57
+1.57
+10.95
+10.95
+10.95
+11.40
+14.55
+17.75
+15.1 
+18.3
+20.6
+21.02 
+24.23 
+26.59
+3.05 
+3.05 
+3.05
+26.97 
+31.75 
+34.93
+15.0
+15.0
+15.0
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+6.35
+6.35
+6.35
+1.57
+1.57
+1.57
+10.95
+10.95
+10.95
+20.90
+24.10
+27.25
+23.0 
+24.6 
+27.0
+28.98 
+31.20 
+33.73
+3.05 
+3.05 
+3.05
+38.10 
+41.28 
+44.45
+15.0
+15.0
+15.0
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+8.74
+8.74
+8.74
+2.39
+2.39
+2.39
+14.12
+14.12
+14.96
+30.45
+33.60
+36.80
+29.4 
+31.8 
+34.9
+36.91 
+40.08 
+43.26
+3.05 
+3.05 
+3.73
+47.63 
+50.80 
+55.58
+17.1
+17.1
+16.2
+Assembly instructions p. 60-68. 
+31
+
+PT-GS Series
+PCB connection
+Receptacle for single hole mounting PT 07 GS
+The dimensions are shown only for pole 
+arrangements with size 20 contacts, such as 
+those on pages 33-37.
+Other pole arrangements upon request.
+PT 07 GS
+Detail V
+4.5 ± 0.1
+   0
+ - 0.1
+ø 0.7
+Ordering example          PT 07 GS 18-32 P          see p. 70
+Dimensions in mm
+Shell size
+Ø A
+Ø B
+H
+J
+L
+M
+P 
+Thread R
+S
+Z
++0.03
+-0.13
+max.
+±0.4
+0
+-0.25
+±0.13
+±0.13
+min.
+max.
+Class 2 A
+(inch)
+max.
+±0.7
+8
+10
+12
+12.01
+14.99
+19.05
+27.5
+30.5
+35.5
+19.1
+22.2
+27.0
+13.46
+16.64
+20.78
+20.9
+20.9
+20.9
+17.68
+17.68
+17.68
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+0.5625-24 NEF
+0.6875-24 NEF
+0.8750-24 UNEF
+24.24
+27.28
+32.16
+10.0
+10.0
+10.0
+14
+16
+18
+22.23
+25.40
+28.58
+38.5
+41.5
+45.0
+30.2
+33.3
+36.5
+23.93
+27.08
+30.25
+20.9
+20.9
+20.9
+17.68
+17.68
+17.68
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+1.0000-20 UNEF
+1.1250-20 NEF
+1.2500-18 NEF
+35.33
+38.51
+41.68
+10.0
+10.0
+10.0
+20
+22
+24
+31.75
+34.93
+38.10
+49.5
+52.5
+56.0
+39.7
+42.9
+46.1
+33.43
+36.60
+39.78
+26.4
+26.4
+27.3
+22.45
+22.45
+23.39
+1.6
+1.6
+1.6
+6.4
+6.4
+6.4
+1.3750-18 NEF
+1.5000-18 NEF
+1.6250-18 NEF
+46.43
+49.63
+52.78
+11.2
+11.2
+10.5
+Assembly instructions p. 60-68.
+32
+
+PT-GS Series
+PCB connection
+Contact bore holes for receptacles
+With GS dip solder contacts (p. 30-32)
+This and the following pages show the front view of the pin insert  
+in the normal position (see p. 6).
+8 – 2 
+8 – 3 
+8 – 3A 
+8 – 4
+2 Contacts  
+3 Contacts  
+3 Contacts  
+4 Contacts
+Size 20  
+Size 20  
+Size 20  
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+A
+- 1.42
++ 1.42
+A
++ 1.50
+0
+A
+A
++ 1.42
++ 1.65
++ 0.46
++ 0.95
+B
+- 1.42
+- 1.42
+B
+B
+0
+0
+- 2.01
+- 1.91
+B
+- 1.50
+0
+C
++ 1.42
+- 1.42
+C
+C
+- 1.42
+- 1.65
++ 0.46
++ 0.95
+D
++ 1.42
++ 1.42
+10 – 6 
+10 – 98 
+12 – 8 
+12 – 10
+6 Contacts 
+6 Contacts 
+8 Contacts 
+10 Contacts
+Size 20 
+Size 20 
+Size 20 
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
++ 3.30
+       0
+A
++ 3.30
+      0
+A
++ 1.65
++ 2.87
+B
+      0
++ 3.30
+B
+- 1.65
++ 2.87
+C
+- 2.87 
++ 1.65
+C
+- 3.30
+       0
+D
+2.87
+- 1.65
+D
+- 1.65
+- 2.87
+E
+      0
+- 3.30
+E
++ 1.65
+- 2.87
+F
+      0
+      0
+F
+A
+B
+C
+D
+E
+F
+G
+H
++ 1.65
++ 4.32
++ 3.05
+      0
+- 3.05
+- 4.32
+- 1.65
+      0
++ 3.99
+     0
+- 3.05
+- 4.32
+- 3.05
+     0
++ 3.99
++ 1.12
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+      0
++ 3.30
++ 4.95
++ 3.30
+      0
+- 3.30
+- 4.95
+- 3.30
++ 1.65
+- 1.65
++ 3.05
++ 3.05
+     0
+- 3.05
+- 3.05
+- 3.05
+     0
++ 3.05
+     0
+     0
+33
+
+PT-GS Series
+PCB connection
+Contact bore holes for receptacles
+With GS dip solder contacts (p. 30-32)
+14 - 18
+18 Contacts
+Size 20
+14 - 19
+19 Contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
++ 2.87
+- 4.95
+K
++ 6.40
++ 1.65
+A
+A
+0
++ 5.72
+L
+- 4.95
++ 2.87
+B
++ 3.30
++ 5.72
+M
+- 3.30
++ 5.72
++ 6.40
+- 1.65
+L
++ 2.87
++ 4.95
+B
+C
++ 4.95
++ 2.87
+N
+- 1.65
++ 2.87
++ 2.87
+- 1.65
+M
+0
++ 6.60
+C
+D
++ 6.60
+0
+P
++ 1.65
++ 2.87
++ 2.87
++ 1.65
+N
+- 2.87
++ 4.95
+D
+E
++ 4.95
+- 2.87
+R
++ 3.30
+0
+0
++ 3.30
+P
+- 5.72
++ 3.30
+E
+F
++ 3.30
+- 5.72
+S
++ 1.65
+- 2.87
+- 2.87
++ 1.65
+R
+- 5.72
+0
+F
+G
+0
+- 5.72
+T
+- 1.65
+- 2.87
+- 2.87
+- 1.65
+S
+- 5.72
+- 3.30
+G
+H
+- 3.30
+- 5.72
+U
+- 3.30
+0
+0
+- 3.30
+T
+- 2.87
+- 4.95
+H
+J
+- 4.95
+- 2.87
+V
+0
+0
+K
+- 6.60
+0
+0
+0
+U
+0
+- 6.60
+J
+18 - 32
+32 Contacts
+Size 20
+16 - 26
+26 Contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+0
++ 3.33
++ 6.07
++ 7.75
++ 8.10
++ 7.06
++ 4.80
++ 1.70
+-  1.70
+-  4.80
+-  7.06
+-  8.10
+-  7.75
++ 8.15
++ 7.44
++ 5.44
++ 2.51
+-  0.86
+-  4.09
+-  6.60
+-  7.98
+-  7.98
+-  6.60
+-  4.09
+-  0.86
++ 2.51
+P
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+-  6.07
+-  3.33
+-  1.78
++ 1.78
++ 4.45
++ 4.52
++ 3.02
+0
+-  3.02
+-  4.52
+-  4.45
+0
+0
++ 5.44
++ 7.44
++ 4.50
++ 4.50
++ 2.39
+-  0.91
+-  3.84
++ 5.16
+-  3.84
+-  0.91
++ 2.39
++ 1.65
+-  1.65
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
++ 1.68
++ 4.80
++ 7.26
++ 8.76
++ 9.07
++ 8.15
++ 6.15
++ 3.30
+0
+-  3.30
+-  6.15
+-  8.15
+-  9.07
+-  8.76
+-  7.26
+-  4.80
++ 8.97
++ 7.75
++ 5.51
++ 2.49
+-  0.84
+-  4.06
+-  6.73
+-  8.51
+-  9.12
+-  8.51
+-  6.73
+-  4.06
+-  0.84
++ 2.49
++ 5.51
++ 7.75
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+j
+-  1.68
+0
++ 3.15
++ 5.31
++ 5.79
++ 4.42
++ 1.65
+-  1.65
+-  4.42
+-  5.79
+-  5.31
+-  3.15
+0
++ 2.44
+0
+-  2.44
++ 8.97
++ 5.84
++ 4.90
++ 2.41
+-  0.84
+-  3.84
+-  5.61
+-  5.61
+-  3.84
+-  0.84
++ 2.41
++ 4.90
++ 2.44
+0
+-  2.44
+0
+34
+
+PT-GS Series
+PCB connection
+Contact bore holes for receptacles
+With GS dip solder contacts (p. 30-32)
+20 - 24
+24 Contacts
+Size 20
+20 - 25
+25 Contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
++ 5.72
++ 9.53
++ 5.72
++ 1.91
+-  5.08
+-  5.08
++ 1.91
++ 5.72
++ 1.91
+-  0.64
+-  3.18
+-  0.64
+-  5.72
+-  3.81
++ 1.91
++ 6.35
++ 3.81
+-  3.81
+-  6.35
+-  1.91
+0
++ 3.18
+0
+-  3.18
+P
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
++  4.45
++  8.89
++10.16
++  8.89
++  5.08
+0
+-  5.08
+-  8.89
+-10.16
+-  8.89
+-  4.45
+0
++ 9.53
++ 5.08
+0
+-  5.08
+-  8.89
+-10.16
+-  8.89
+-  5.08
+0
++ 5.08
++ 9.53
+-  7.62
+N
+P
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
++ 3.81
++ 6.35
++ 5.08
++ 1.91
+-  1.91
+-  5.08
+-  6.35
+-  3.81
+0
++ 2.54
+0
+-  2.54
++ 5.08
+0
+-  3.81
+-  6.35
+-  6.35
+-  3.81
+0
++ 5.08
++ 3.81
++ 0.64
+-  2.54
++ 0.64
++ 10.16
++   9.53
++   5.72
++   4.45
++   0.64
+-    3.18
+-    7.62
+-  10.16
+-  10.16
+-    7.62
+-    3.18
++   0.64
++   4.45
+0
++   3.81
++   5.72
++   9.53
++ 10.16
++   9.53
++   6.99
++   2.54
+-   2.54
+-   6.99
+-   9.53
+- 10.16
+-   9.53
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M 
+N
+20 - 27
+27 Contacts
+Size 20
+20 - 41
+41 Contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+A
+0
++ 10.16
+R
+- 3.81
++ 9.53
+B
++   3.81
++   9.53
+S
++ 3.18
++ 5.72
+C
++   6.99
++   6.99
+T
++ 5.72
++ 2.54
+D
++   9.53
++   3.81
+U
++ 6.35
+- 1.27
+E
++ 10.16
+0
+V
++ 3.81
+- 5.08
+F
++   9.53
+-   3.81
+W
+0
+- 6.35
+G
++   6.99
+-   7.62
+X
+- 3.81
+- 5.08
+H
++   2.54
+- 10.16
+Y
+- 6.35
+- 1.27
+J
+-   2.54
+- 10.16
+Z
+- 5.72
++ 2.54
+K
+-   6.99
+-   7.62
+a
+- 3.18
++ 5.72
+L
+-   9.53
+-   3.81
+b
+0
++ 2.54
+M
+- 10.16
+0
+c
++ 2.54
+- 0.64
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+m
+n
+p
+q
+r
+s
+t
++ 3.35
++ 5.92
++ 7.15
++ 6.73
++ 4.78
++ 1.73
+-  1.73
+-  4.78
+-  6.73
+-  7.15
+-  5.92
+-  3.35
+0
++ 2.98
++ 3.71
+-  1.66
++ 1.66
+-  3.71
+-  2.98
+0
++ 6.38
++ 4.09
++ 0.87
+-  2.55
+-  5.39
+-  6.99
+-  6.99
+-  5.39
+-  2.55
++ 0.87
++ 4.09
++ 6.38
++ 3.81
++ 2.38
+-  0.85
+-  3.43
+-  3.43
+-  0.85
++ 2.38
+0
+N
+-   9.53
++   3.81
+d
+- 2.54
+- 0.64
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
+T
+U
+V
+W
+X
+0
++   3.28
++   6.23
++   8.58
++ 10.09
++ 10.60
++ 10.09
++   8.58
++   6.23
++   3.28
+0
+-   3.28
+-   6.23
+-   8.58
+- 10.09
+- 10.60
+- 10.09
+-   8.58
+-   6.23
+-   3.28
+0
++ 10.60
++ 10.09
++   8.58
++   6.23
++   3.28
+0
+-   3.28
+-   6.23
+-   8.58
+- 10.09
+- 10.60
+- 10.09
+-   8.58
+-   6.23
+-   3.28
+0
++   3.28
++   6.23
++   8.58
++ 10.09
++   7.20
+P
+-   6.99
++   6.99
+35
+
+PT-GS Series
+PCB connection
+Contact bore holes for receptacles
+With GS dip solder contacts (p. 30-32)
+22 - 32
+32 Contacts
+Size 20
+22 - 34
+34 Contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
++ 0.64
+- 3.18
+- 6.35
+- 7.62
+- 6.35
+- 3.18
++ 0.64
++ 4.45
++ 7.62
++ 3.81
+0
+- 3.81
+- 3.81
+0
++ 3.81
+0
++ 8.26
++ 7.62
++ 5.08
+0
+- 5.08
+- 7.62
+- 8.26
+- 6.35
+- 3.81
++ 2.54
++ 3.81
++ 1.91
+- 1.91
+- 3.81
+- 2.54
+0
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+j
++ 11.43
++   8.26
++   3.81
+-    1.91
+-    6.99
+-  10.16
+-  11.43
+-  10.16
+-    6.99
+-    1.91
++   3.81
++   8.26
++ 11.43
++   8.26
++   7.62
++   4.45
++   2.54
++   8.26
++ 10.80
++ 11.43
++   9.53
++   5.08
+0
+-   5.08
+-   9.53
+- 11.43
+- 10.80
+-   8.26
+-   2.54
+0
++  3.81
++  6.35
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
+A
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
+T
+0
++   4.45
++   8.26
++ 10.80
++ 11.43
++ 11.43
++   9.53
++   6.35
++   2.54
+-   2.54
+-   6.35
+-   9.53
+- 11.43
+- 11.43
+- 10.80
+-   8.26
+-   4.45
++ 11.43
++ 10.80
++   8.26
++   4.45
++   0.64
+-    3.18
+-    6.99
+-    9.53
+-  11.43
+-  11.43
+-    9.53
+-    6.99
+-    3.18
++   0.64
++   4.45
++   8.26
++ 10.80
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+j
+k
+I
+0
++ 5.08
++ 7.62
++ 7.62
++ 3.81
+0
+-  3.81
+-  7.62
+-  7.62
+-  5.08
+0
++ 3.81
++ 3.81
+0
+-  3.81
+-  3.81
+0
++ 7.62
++ 5.72
++ 1.27
+-  2.54
+-  6.35
+-  7.62
+-  6.35
+-  2.54
++ 1.27
++ 5.72
++ 3.81
++ 1.27
+-  2.54
+-  3.81
+-  2.54
++ 1.27
+0
+22 - 36
+36 Contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
++ 6.99 
++ 3.18 
+- 0.64 
+- 4.45 
+- 6.99 
+- 7.62 
+- 6.99 
+- 4.45 
+- 0.64 
++ 3.18 
++ 6.99 
++ 3.81 
++ 3.18 
+- 0.64 
+- 3.81 
+- 0.64 
++ 3.18 
+0
++ 3.81 
++ 7.62 
++ 7.62 
++ 6.99 
++ 3.81 
+0 
+-  3.81 
+-  6.99 
+-  7.62 
+-  7.62 
+-  3.81 
+0 
++ 3.81 
++ 3.81 
+0 
+-  3.81 
+-  3.81 
+0
+V 
+W 
+X 
+Y 
+Z 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+j 
+k 
+I 
+m 
+n
++ 11.43 
++ 10.16 
++   6.99 
++   2.54 
+-   1.27 
+-   5.08 
+-   8.89 
+- 10.80 
+- 11.43 
+- 10.80 
+-   8.89 
+-   5.08 
+-   1.27 
++   2.54 
++   6.99 
++ 10.16 
++ 11.43 
++   8.26
++   2.54 
++   6.35 
++   8.89 
++ 11.43 
++ 11.43 
++ 10.80 
++   7.62 
++   3.81 
+0 
+-   3.81 
+-   7.62 
+- 10.80 
+- 11.43 
+- 11.43 
+-   8.89 
+-   6.35 
+-   2.54 
+0
+A 
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
+T
+U
+36
+
+PT-GS Series
+PCB connection
+Contact bore holes for receptacles
+With GS dip solder contacts (p. 30-32)
+22 - 55
+55 Contacts
+Size 20
+24 - 61
+61 Contacts
+Size 20
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+Contact
+X
+Y
+f
+g
+h
+i
+j
+k
+m
+n
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+AA
+BB
+CC
+DD
+EE
+FF
+GG
+HH
+-  2.84
+-  5.72
+-  8.53
+-  8.53
+-  8.53
+-  8.53
+-  5.72
+-  2.84
+0
++ 2.84
++ 5.72
++ 5.72
++ 5.72
++ 2.84
+0
+-  2.84
+-  5.72
+-  5.72
+-  5.72
+-  2.84
+0
++ 2.84
++ 2.84
+0
+-  2.84
+-  2.84
+0
+-  8.26
+-  6.60
+-  4.95
+- 1.65
++ 1.65
++ 4.95
+-  6.60
++ 8.26
++ 6.60
++ 4.95
++ 3.30
+0
+-  3.30
+-  4.95
+-  6.60
+-  4.95
+-  3.30
+0
++ 3.30
++ 4.95
++ 3.30
++ 1.65
+-  1.65
+-  3.30
+-  1.65
++ 1.65
+0
+-    7.98
+-    9.63
+-  10.21
+-    9.63
+-    7.98
+-    5.41
+-    2.24
++   1.17
++   4.45
++   7.19
++   9.22
++   8.59
++   5.66
++   3.10
+-    0.25
+-    3.53
+-    5.92
+-    6.78
+-    5.92
+-    3.53
+-    0.25
++   3.10
++   5.66
++   5.08
++   2.39
+-    1.04
+-    3.35
+-    1.04
++   2.39
+0
++  6.38
++  3.38
+0
+-   3.38
+-   6.38
+-   8.66
+-   9.96
+- 10.13
+-   9.19
+-   7.24
+-   4.39
+0
++  3.73
++  6.02
++  6.78
++  5.79
++  3.33
+0
+-   3.33
+-   5.79
+-   6.78
+-   6.02
+-   3.73
+0
++  2.67
++  3.43
+0
+-   3.43
+-   2.67
+0
+i
+j
+k
+m
+n
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+AA
+BB
+CC
+DD
+EE
+FF
+GG
+HH
+JJ
+KK
+LL
+MM
+NN
+PP
+A 
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
++   2.84
++   5.72
++   8.53
++ 11.43
++ 11.43
++ 11.43
++   8.53
++   5.72
++   2.84
+-    2.84
+-    5.72
+-    8.53
+-  11.43
+-  11.43
+-  11.43
+-    8.53
+-    5.72
+-    2.84
+0
++   2.84
++   5.72
++   8.53
++   8.53
++   8.53
++   8.53
++   8.53
++   2.84
+0
++ 11.56
++   9.91
++   8.26
++   3.30
+0
+-    3.30
+-    8.26
+-    9.91
+-  11.56
+-  11.56
+-    9.91
+-    8.26
+-    3.30
+0
++   3.30
++   8.26
++   9.91
++ 11.56
++   9.91
++   8.26
++   6.60
++   4.95
++   1.65
+-    1.65
+-    4.95
+-    6.60
+-    8.26
+-    9.91
++ 12.70
++ 11.05
++   8.71
++   5.84
++   2.57
+-    0.76
+-    4.17
+-    7.29
+-    9.93
+-  11.94
+-  13.18
+-  13.64
+-  13.18
+-  11.94
+-    9.93
+-    7.29
+-    4.17
+-    0.76
++   2.57
++   5.84
++   8.71
++ 11.05
++ 12.70
++ 11.53
++ 11.53
++   9.22
++   7.19
++   4.45
++   1.17
+-    2.24
+-    5.41
++   4.98
++   7.98
++ 10.49
++ 12.32
++ 13.39
++ 13.61
++ 12.98
++ 11.53
++   9.35
++   6.58
++   3.40
+0
+-    3.40
+-    6.58
+-    9.35
+-  11.53
+-  12.98
+-  13.61
+-  13.39
+-  12.32
+-  10.49
+-    7.98
+-    4.98
+-    1.73
++   1.73
++   4.93
++   7.24
++   9.19
++ 10.13
++  9.96
++  8.66
+A 
+B
+C
+D
+E
+F
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+37
+
+PT-WW Series
+Wire-wrap connection
+Box mounting receptacle PT 02 WW
+Detail X
+WA 0.6 x 0.6
+0.13
+PT 02 WW
+Ordering example          PT 02 WW 14-19 P W          see p. 70
+Dimensions in mm
+S 
+U 
+X 
+Z 
+øN 
+R
+Shell size
+Ø A 
+max.
+T
+ 
+±0.13
+±0.41
+±0.5
+max.
+max.
+B
+ 
+-0.25
+D
+ 
+±0.25
+Theor. 
+dimension
+M
+ 
++0.25 
+      0
++0.03 
+-0.13
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+6.35 
+6.35 
+6.35
+1.57 
+1.57 
+1.57
+10.95 
+10.95 
+10.95
+11.40 
+14.55 
+17.75
+15.09 
+18.26 
+20.62
+21.02 
+24.23 
+26.59
+3.05 
+3.05 
+3.05
+26.97 
+31.75 
+34.93
+13 
+13 
+13
+20.2 
+20.2 
+20.2
+20.2 
+20.2 
+20.2
+13 
+13 
+13
+38.10 
+41.28 
+44.45
+3.05 
+3.05 
+3.05
+28.98 
+31.34 
+33.83
+23.01 
+24.61 
+26.97
+20.90 
+24.10 
+27.25
+10.95 
+10.95 
+10.95
+1.57 
+1.57 
+1.57
+6.35 
+6.35 
+6.35
+22.23 
+25.40 
+28.58
+14 
+16 
+18
+23.3 
+23.3 
+22.5
+13 
+13 
+13
+47.63 
+50.80 
+55.58
+3.05 
+3.05 
+3.73
+36.91 
+40.08 
+43.26
+29.36 
+31.75 
+34.93
+30.45 
+33.60 
+36.80
+14.12 
+14.12 
+14.96
+2.39 
+2.39 
+2.39
+8.74 
+8.74 
+8.74
+31.75 
+34.93 
+38.10
+20 
+22 
+24
+Receptacle for single hole mounting PT 07 WW
+Detail X
+WA 0.6 x 0.6
+PT 07 WW
+Ordering example          PT 07 WW 14-19 P W          see p. 70
+Dimensions in mm
+Shell size
+Ø A
+Ø B
+H
+J
+L
+M
+P
+Thread R
+S
+X
+Z
++0.03 
+-0.13
+max.
+±0.4
+      0 
+-0.3
+±0.13
+ ±0.13
+ min.            
+max.
+ Class 2 A 
+(inch)
+ max.
+ ±0.5
+ max.
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+27.5 
+30.5 
+35.5
+19.1 
+22.2 
+27.0
+13.46 
+16.64 
+20.78
+20.9 
+20.9 
+20.9
+17.68 
+17.68 
+17.68
+1.6 
+1.6 
+1.6
+3.2 
+3.2 
+3.2
+0.5625-24 NEF 
+0.6875-24 NEF 
+0.8750-20 UNEF
+24.24 
+27.38 
+32.16
+13 
+13 
+13
+15.1 
+15.1 
+15.1
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+38.5 
+41.5 
+45.0
+30.2 
+33.3 
+36.5
+23.93 
+27.08 
+30.25
+20.9 
+20.9 
+20.9
+17.68 
+17.68 
+17.68
+1.6 
+1.6 
+1.6
+3.2 
+3.2 
+3.2
+1.0000-20 UNEF 
+1.1250-18 NEF 
+1.2500-18 NEF
+35.33 
+38.51 
+41.68
+13 
+13 
+13
+15.1 
+15.1 
+15.1
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+49.5 
+52.5 
+56.0
+39.7 
+42.9 
+46.0
+33.43 
+36.60 
+39.78
+26.4 
+26.4 
+27.3
+22.45 
+22.45 
+23.39
+1.6 
+1.6 
+1.6
+6.4 
+6.4 
+6.4
+1.3750-18 NEF 
+1.5000-18 NEF 
+1.6250-18 NEF
+46.43 
+49.63 
+52.78
+13 
+13 
+13
+17.3 
+17.3 
+16.6
+Assembly instructions p. 60-68.
+WW version only with contact size 20.
+Other contact sizes upon request.
+38
+
+PT-SE Series
+Crimp connection
+Die PT-SE series includes the following types of 
+plugs and receptacles with removable crimp contacts. 
+The connectors of this series are attachable to 
+and interchangeable with all the connectors of the  
+MIL-C-26482, VG 95328, LN 29500, LN 29504, 
+MIL-C-83723, NAS 1599, NFL 54125,  
+DEF 5325-3/5326-3 and lEC publication 130-7 
+standards.
+The connectors in this series, which can be delivered 
+with different backshells depending on service  
+class (see page 40), are specified in accordance  
+with MIL-C-26482, Series 1 and VG 95328 (see p. 13).
+PT 00 SE
+Wall mounting 
+receptacle
+PT 01 SE
+Cable connecting 
+plug 
+Shell design features 
+–  Aluminum alloy.
+–  Surface treatment: cadmium and green 
+chromate coating; conductive = standard. 
+Other surfaces: see p. 70
+–  Three pin bayonet coupling.
+–  5 guide grooves and lugs for perfect coupling.
+–  Up to 5 angular positions ensure polarization of  
+the contact insert and main guide groove.
+PT 02 SE
+Box mounting 
+receptacle
+–  7 shell designs (see p. 41 to 51).
+PT 07 SE
+Receptacle  
+for single hole 
+mounting  
+(with O-ring)
+–  9 shell sizes (size 8 to 24).
+–  HF-sealed 360° via grounding ring in plug  
+PTG 06 SE.
+–  Protection class as per IEC 529: IP 67 
+depending on backshell.
+Contact insert
+–  Neoprene insert.
+–  Numerous contact arrangements with 3 to 61 
+contacts.
+PT 06 SE
+Straight plug
+PT 06 SE . . . SQ
+Straight plug  
+(HF-sealed)
+–  Contact designation on mating and termination face.
+–  Sealing elements on mating and termination face.
+Crimp contacts
+–  Pin and socket contacts made of high-quality  
+copper alloy.
+–  Hard gold plated contact surface.
+–  Contact sizes AWG 16 and 20 (see page 5).
+–  Pin and socket contacts are removable.
+–  Ordering information page 70
+PT 08 SE
+Angle plug
+39
+
+PT-SE Series
+Crimp connection
+Service classes and backshells
+In order to meet different environmental requirements, PT-SE connectors are available in both service 
+classes named below, with several different backshells. 
+Service classes
+Service class
+Characteristics
+»SE«
+Moisture-proof version.
+Single wire seals.
+»SP«
+Similar to service class »SE«,  
+yet for sealing wire bundles.
+Backshells
+Backshells
+Characteristics
+Backshells
+Characteristics
+Backshell for single wire sealing.
+Backshells for sealing jacketed and 
+shielded/unshielded wires.
+SE
+SE ... PG
+Backshell with cable clamp for single  
+wire sealing.
+SE ... SR
+Backshells for attaching shielding braids 
+and heat shrink parts (see p. 60). 
+Backshell (twist-proof) for attaching heat 
+shrink parts (see p. 60).
+SE ... SQ
+SE ... F
+Nylon potting boot for sealing wire bundles.
+Backshell for attaching heat shrink parts 
+(see p. 60).
+SE ... J
+SP
+Available connectors
+Service class
+Connector
+»SE«
+»SP«
+PT 00 SP               
+PT 01 SP                      
+–    –    –                  
+PT 06 SP
+–    –    –                    
+PT 07 SP                 
+PT 08 SP                          
+PT 00 SE               
+PT 01 SE                      
+PT 02 SE                  
+PT 06 SE
+PTG 06 SE                     
+PT 07 SE                 
+PT 08 SE                          
+Wall mounting receptacle   
+Cable connecting plug    
+Box mounting receptacle*
+Straight plug
+Straight plug (HF-sealed)
+Receptacle for single hole mounting
+Angle plug
+*) The receptacle PT 02 SE has no single wire sealing and no backshell.
+Ordering information page 70
+40
+
+PT-SE Series
+Crimp connection
+Wall mounting receptacle PT 00 SE (VG 95328)
+Ordering example          PT 00 SE 14-19 PW SR          see p. 70
+Shell size
+øA 
+EL 
+ø EN 
+ø FG 
+FL 
+FN 
+Ø JG 
+JL 
+ø JN 
+K 
+M 
+Thread Q 
+R 
+S 
+ø T 
+U 
++0.025 
+max.
+max.
+± 0.25
+max.
+max.
+± 0.1
+max.
+max.
+max.
++0.8
+Class 2 A 
+±0.15
+max.
+min. 
+±0.41
+-0.13
+(inch)
+8                   
+10                
+12
+12.01 
+14.99 
+19.05
+33.73 
+33.73 
+33.73
+14.22 
+17.40 
+20.65
+3.18   
+4.78    
+7.92
+48.82 
+48.82 
+48.82
+21.02 
+22.63 
+25.81
+7.9      
+10.9    
+13.8
+36.91 
+37.41 
+38.21
+15.6   
+18.4   
+23.7
+2.0       
+2.0       
+2.0
+10.94 
+10.94 
+10.94
+0.4375-28 UNEF     
+0.5625-24 NEF          
+0.6875-24 NEF
+15.08 
+18.26 
+20.62
+21.03 
+24.23 
+26.59
+2.9       
+2.9       
+2.9
+26.97 
+31.75 
+34.93
+14 
+16             
+18
+22.23 
+25.40 
+28.58
+33.73 
+33.73 
+33.73
+23.62 
+26.85 
+29.85
+9.53 
+12.70 
+15.88
+48.82 
+50.80 
+50.80
+28.98 
+30.56 
+37.31
+16.9    
+20.1   
+22.7
+38.41 
+37.91 
+38.61
+24.5   
+29.8   
+32.0
+2.0       
+2.0       
+2.0
+10.94 
+10.94 
+10.94
+0.8125-20 UNEF     
+0.9375-20 UNEF     
+1.0625-18 NEF
+23.01 
+24.61 
+26.97
+28.98 
+31.34 
+33.73
+2.9        
+2.9       
+2.9
+38.10 
+41.28 
+44.45
+20                      
+22             
+24
+31.75 
+34.93 
+38.10
+34.52 
+34.52 
+36.12
+33.05 
+36.27 
+38.94
+15.88 
+19.05 
+20.32
+55.17 
+55.17 
+56.74
+37.31 
+42.06 
+44.45
+25.9   
+29.0   
+32.2
+44.78 
+44.28 
+44.58
+36.1   
+38.5   
+41.5
+2.8       
+2.8       
+2.8
+14.12 
+14.12 
+14.96
+1.1875-18 NEF        
+1.3125-18 NEF        
+1.4375-18 NEF
+29.36 
+31.75 
+34.93
+36.91 
+40.08 
+43.26
+2.9       
+2.9       
+3.6
+47.63 
+50.80 
+55.58
+Assembly instructions p. 60-68. 
+41
+
+PT-SE Series
+Crimp connection
+Wall mounting receptacle PT 00 SE (M 3120)
+Ordering example          PT 00 SE 14-19 P W SQ          see p. 70
+K 
+M 
+ø PN 
+Thread Q 
+R 
+S 
+ø T 
+U 
+± 0.41
+max.
+± 0.13
+± 0.41
+ø PG
+ 
+min.
+PL
+ 
+max.
+max.
+Shell size
+Ø A
+ 
++0.025 
+- 0.13
++ 0.25 
+0
+Class 2 A 
+(inch)
+Theor. 
+dimensions
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+1.57 
+1.57 
+1.57
+10.95 
+10.95 
+10.95
+8.05 
+11.02 
+13.92
+42.06 
+42.06 
+42.06
+15.44 
+18.64 
+21.79
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+15.09 
+18.26 
+20.62
+21.02 
+24.23 
+26.59
+3.05 
+3.05 
+3.05
+26.97 
+31.75 
+34.93
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+1.57 
+1.57 
+1.57
+10.95 
+10.95 
+10.95
+17.09 
+20.27 
+22.83
+42.06 
+42.06 
+42.06
+24.99 
+28.19 
+31.34
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF
+23.01 
+24.61 
+26.97
+28.98 
+31.34 
+33.73
+3.05 
+3.05 
+3.05
+38.10 
+41.28 
+44.45
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+2.39 
+2.39 
+2.39
+14.12 
+14.12 
+14.96
+26.01 
+29.18 
+32.36
+44.45 
+44.45 
+45.26
+34.54 
+37.69 
+40.89
+1.1875-18 NEF 
+1.3125-18 NEF 
+1.4375-18 NEF
+29.36 
+31.75 
+34.93
+36.91 
+40.08 
+43.26
+3.05 
+3.05 
+3.73
+47.63 
+50.80 
+55.58
+Assembly instructions p. 60-68. 
+42
+
+PT-SE Series
+Crimp connection
+Cable connecting plug PT 01 SE (MS 3121)
+Ordering example          PT 01 SE 14-19 P W SR          see p. 70
+ø EN
+ø FG
+FL
+FN
+ø JN
+K 
+EL
+ 
+max.
+ max.
+ ± 0.25
+ max.
+ max.
+ø JG
+ 
++ 0.1
+JL
+ 
+max.
+ max.
+± 0.41
+S
+ 
+max.
+Y
+ 
+± 0.51
+Shell size
+Ø A
+ 
++0.03
+ - 0.13
+Thread Q
+ 
+Class 2 A 
+(inch)
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+33.73 
+33.73 
+33.73
+14.22 
+17.40 
+20.65
+3.18 
+4.78 
+7.92
+48.82 
+48.82 
+48.82
+21.02 
+22.63 
+25.81
+ 7.9 
+10.9 
+13.8
+36.91 
+37.41 
+38.21
+15.6 
+18.4 
+23.7
+2.39 
+2.39 
+2.39
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+21.02 
+24.26 
+26.62
+23.83 
+26.97 
+29.30
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+33.73 
+33.73 
+33.73
+23.62 
+26.85 
+29.85
+9.53 
+12.70 
+15.88
+48.82 
+50.80 
+50.80
+28.98 
+30.56 
+37.31
+16.9 
+20.1 
+22.7
+38.41 
+37.91 
+38.61
+24.5 
+29.8 
+32.0
+2.39 
+2.39 
+2.39
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0624-18 NEF
+29.01 
+31.39 
+33.76
+31.75 
+34.14 
+36.53
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+34.52 
+34.52 
+36.12
+33.05 
+36.27 
+38.94
+15.88 
+19.05 
+20.32
+55.17 
+55.17 
+56.74
+37.31 
+42.06 
+44.45
+25.9 
+29.0 
+32.2
+44.78 
+44.28 
+44.58
+36.1 
+38.5 
+41.5
+2.92 
+2.92 
+2.92
+1.1875-18 NEF 
+1.3125-18 NEF 
+1.4375-18 NEF
+36.96 
+40.11 
+43.28
+39.67 
+42.88 
+46.02
+Assembly instructions p. 60-68. 
+43
+
+PT-SE Series
+Crimp connection
+Cable connecting plug PT 01 SE (MS 3121)
+PT 01 SP  
+(MS 3121 P) 
+Ordering example          PT 01 SE 14-19 P W SQ          see p. 70
+Dimensions in mm
+Shell size
+Ø A 
+Y 
+K
+ 
+± 0.41
+ø PG
+ 
+min.
+PL
+ 
+max.
+ø PN
+ 
+max.
+S
+ 
+max.
+± 0.51
++ 0.025 
+       - 0.13
+Thread Q
+ 
+Class 2 A 
+(inch)
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+2.39 
+2.39 
+2.39
+8.05 
+11.02 
+13.92
+42.06 
+42.06 
+42.06
+15.44 
+18.64 
+21.79
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+21.02 
+24.26 
+26.62
+23.83
+26.97
+29.30
+14 
+16
+18
+22.23 
+25.40 
+28.58
+2.39 
+2.39 
+2.39
+17.09 
+20.27 
+22.83
+42.06 
+42.06 
+42.06
+24.99 
+28.19 
+31.34
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF
+29.01 
+31.39 
+33.76
+31.75
+34.14
+36.53
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+2.92
+2.92
+2.92
+26.01 
+29.18 
+32.36
+44.45 
+44.45 
+45.26
+34.54 
+37.69 
+40.89
+1.1875-18 NEF 
+1.3125-18 NEF 
+1.4375-18 NEF
+36.96 
+40.11 
+43.28
+39.67
+42.88
+46.02
+Assembly instructions p. 60-68. 
+44
+
+PT-SE Series
+Crimp connection
+Box mounting receptacle PT 02 SE (VG 95328)
+This receptacle cannot be equipped with a backshell.
+PT 02 SE  
+(VG 95328 C / MS 3122 E) 
+Ordering example          PT 02 SE 14-19 P W          see p. 70
+Dimensions in mm
+Shell size
+Ø A 
+K 
+L
+M
+ø N
+R
+S
+ø T
+DD
+ 
+max.
+± 0.41
+max.
+max.
+± 0.15
+max.
+min.
+U
+ 
+± 0.41
++ 0.025 
+-0.13
+0.8
+0
+1.57
+1.57
+1.57
+8 
+10 
+12
+12.01 
+14.99 
+19.05
+6.35
+6.35
+6.35
+33.5
+33.5
+33.5
+10.94
+10.94
+10.94
+11.40
+14.55
+17.75
+15.08
+18.26
+20.62
+21.02
+24.23
+26.59
+2.9
+2.9
+2.9
+26.97
+31.75
+34.93
+14 
+16 
+18
+22.23 
+25.40 
+28.58
+6.35
+6.35
+6.35
+33.5
+33.5
+33.5
+10.94
+10.94
+10.94
+20.90
+24.10
+27.25
+23.01
+24.61
+26.97
+28.98
+31.34
+33.73
+2.9
+2.9
+2.9
+38.10
+41.28
+44.45
+1.57
+1.57
+1.57
+20 
+22 
+24
+31.75 
+34.93 
+38.10
+8.74
+8.74
+9.53
+34.7
+36.0
+36.0
+14.12
+14.12
+14.96
+30.45
+33.60
+36.80
+29.36
+31.75
+34.93
+36.91
+40.08
+43.26
+2.9
+2.9
+3.6
+47.63
+50.80
+55.58
+2.39 
+2.39 
+2.39
+Assembly instructions p. 60-68. 
+45
+
+PT-SE Series
+Crimp connection
+Receptacle for single hole mounting PT 07 SE (VG 95328)
+PT 07 SE ... SR 
+(VG 95328 E / MS 3124 F) 
+PT 07 SP
+(MS 3124 P) 
+PT 07 SE 
+(VG 95328 D / MS 3124 E) 
+Ordering example          PT 07 SE 14-19 P W SR          see p. 70    
+Dimensions in mm
+Shell size
+Ø A
+Ø B
+EL
+ø EN
+ø FG
+FL
+FN
+H
+J
+K
+M
+ P 
+ø PG
+PL
+ø PN
+Thread Q
+Thread R
+S
+max.
+max.
+max.
+±0.25
+max.
+max.
+±0.4
+±0.5
+±0.13
+min.
+max.
+max.
+max.
++0.025 
+-0.13
+0 
+-0.25
+(Mounting 
+wall)
+Class 2 B 
+(inch)
+Class 2 A 
+(inch)
+min.
+max.
+8
+10
+12
+12.01
+14.99
+19.05
+27.3
+30.5
+35.5
+39.29
+39.29
+39.29
+19.0
+22.2
+25.4
+3.18
+4.78
+7.92
+48.82
+48.82
+48.82
+21.02
+22.63
+25.81
+19.1
+22.2
+27.0
+13.46
+16.64
+20.78
+3.0
+3.0
+3.0
+17.68
+17.68
+17.68
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+  8.05
+11.02
+13.92
+42.06
+42.06
+42.06
+15.44
+18.64
+21.79
+0.625-24 NEF
+0.750-20 UNEF
+0.875-20 UNEF
+0.5625-24 NEF
+0.6875-24 NEF
+0.8750-20 UNEF
+24.24
+27.38
+32.16
+14
+16
+18
+22.23
+25.40
+28.58
+38.5
+41.6
+44.8
+39.29
+39.29
+39.29
+28.5
+31.7
+34.9
+  9.53
+12.70
+15.88
+48.82
+50.80
+50.80
+28.98
+30.56
+37.31
+30.2
+33.3
+36.5
+23.93
+27.08
+30.25
+3.0
+3.0
+3.0
+17.68
+17.68
+17.68
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+17.09
+20.27
+22.83
+42.06
+42.06
+42.06
+24.99
+28.19
+31.34
+1.000-20 UNEF
+1.125-18 NEF
+1.250-18 NEF
+1.0000-20 UNEF
+1.1250-18 NEF
+1.2500-18 NEF
+35.33
+38.51
+41.68
+20
+22
+24
+31.75
+34.93
+38.10
+49.6
+52.7
+55.9
+43.40
+43.40
+43.40
+38.8
+42.0
+45.2
+15.88
+19.05
+20.32
+55.17
+55.17
+56.74
+37.31
+42.06
+44.45
+39.7
+42.9
+46.0
+33.43
+36.60
+39.78
+3.8
+3.8
+3.8
+22.45
+22.45
+23.39
+1.6
+1.6
+1.6
+3.2
+3.2
+3.2
+26.01
+29.18
+32.36
+48.82
+48.82
+49.56
+34.54
+37.69
+40.89
+1.375-18 NEF
+1.500-18 NEF
+1.625-18 NEF
+1.3750-18 NEF
+1.5000-18 NEF
+1.6250-18 NEF
+46.43
+49.63
+52.78
+Assembly instructions p. 60-68. 
+46
+
+PT-SE Series
+Crimp connection
+Straight plug PT 06 SE (VG 95328)
+PT 06 SE
+(MS 3126 E) 
+PT 06 SE ... SR
+(VG 95328 K / MS 3126 F) 
+PT 06 SE ... F
+PT 06 SE ... J
+(VG 95328 J) 
+PT 06 SP
+(MS 3126 P) 
+Ordering example          PT 06 SE 14-19 W SR          see p. 70
+Dimensions in mm
+Shell size
+EL
+ø EN
+ø FG
+FL
+FN
+ø G
+GC
+ø GG
+ø GH
+GL
+ø GN
+J 
+ø JG
+JL 
+ø JN 
+ø PG
+PL
+ø PN
+Thread Q 
+SW 
+ max.
+ max.
+ ±0.25
+ max.
+ max.
+ max.
+ max.
+ +0.2
+ -0.5
+ max.
+ ±0.2
+±0.25
+ +0.1
+max.
+max.
+ min.
+ max.
+ max.
+-0.2
+Class 2 A 
+(inch)
+8 
+10 
+12
+33.73 
+33.73 
+33.73
+14.22 
+17.40 
+20.65
+3.18 
+4.78 
+7.92
+48.82 
+48.82 
+48.82
+21.02 
+22.63 
+25.81
+19.05 
+21.82 
+26.19
+–
+37.5 
+37.5
+–
+8.0 
+11.0
+–
+12.0 
+15.0
+–
+46 
+46
+–
+18 
+21
+8.97 
+8.97 
+8.97
+7.9 
+10.9 
+13.8
+37 
+37 
+37
+15.6 
+18.4 
+23.7
+8.05 
+11.02 
+13.92
+44.45 
+44.45 
+44.45
+15.44 
+18.64 
+21.79
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+–
+16 
+19
+14 
+16 
+18
+33.73 
+33.73 
+33.73
+23.62 
+26.85 
+29.85
+9.53 
+12.70 
+15.88
+48.82 
+50.80 
+50.80
+28.98 
+30.56 
+37.31
+29.36 
+32.54 
+35.33
+37.5 
+37.5 
+37.5
+14.4 
+17.4 
+19.8
+18.3 
+21.5 
+24.0
+46 
+46 
+46
+24 
+27
+30
+8.97 
+8.97 
+8.97
+16.9 
+20.1 
+22.7
+37 
+39 
+39
+24.5 
+29.8 
+32.0
+17.09 
+20.27 
+22.83
+44.45 
+44.45 
+44.45
+24.99 
+28.19 
+31.34
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF
+22 
+25 
+28
+20
+ 22
+ 24
+32.94 
+32.94 
+34.52
+33.05 
+36.27 
+38.94
+15.88 
+19.05 
+20.32
+53.57 
+53.57 
+55.17
+37.31 
+42.06 
+44.45
+38.89 
+42.06 
+45.14
+39.0 
+39.0 
+41.0
+21.9 
+25.2 
+28.0
+27.2 
+30.5 
+33.5
+50 
+50 
+51.5
+34 
+37 
+40
+10.54 
+10.54 
+10.54
+25.9 
+29.0 
+32.2
+42 
+42 
+42
+36.1 
+38.5 
+41.5
+26.01 
+29.18 
+32.36
+44.45 
+44.45 
+44.86
+34.54 
+37.69 
+40.89
+1.1875-18 NEF 
+1.3125-18 NEF 
+1.4375-18 NEF
+32 
+35 
+38
+Assembly instructions p. 60-68. 
+47
+
+PT-SE Series
+Crimp connection
+Straight plug PT 06 SE 
+O-ring
+Ordering example          PT 06 SE 14-19 P W PG          see p. 70    
+Dimensions in mm
+Size
+DN 
+J 
+QL 
+ø G
+DR
+ 
++ 0.5
+± 0.25
+max.
+PG
+ 
+Thread 
+ max.
++ 0.5 
+- 0.5
+Q
+ 
+Thread 
+UNEF-2A
+8 
+10
+12
+15.5 
+18.5
+ 21.5
+6.5
+9.5 
+11.0
+8.97
+8.97
+8.97
+57 
+57 
+62
+ 7/16 - 28 
+ 9/16 - 24 
+11/16 - 24
+PG 07 
+PG 09 
+PG 11
+19.05 
+21.82 
+26.19
+14 
+16 
+18
+24.5 
+27.5 
+30.6
+13.0 
+15.5 
+15.5
+8.97 
+8.97 
+8.97
+62 
+62
+62
+ 13/16 - 20 
+ 15/16 - 20 
+1 1/16 - 18
+PG 13.5 
+PG 16 
+PG 16
+29.36 
+32.54 
+35.33
+20
+22 
+24
+33.5 
+36.5 
+40.0
+20.5 
+20.5 
+20.5
+10.54 
+10.54 
+10.54
+70 
+70 
+72
+1 3/16 - 18 
+1 5/16 - 18 
+1 7/16 - 18
+PG 21 
+PG 21 
+PG 21
+38.89 
+42.06 
+45.14
+Assembly instructions p. 60-68. 
+48
+
+PT-SE Series
+Crimp connection
+Straight plug PT 06 SE (HF-sealed)
+O-ring
+Grounding ring
+Suffix
+Ordering example          PT 06 SE 14-19 P W PGV          see p. 70    
+Dimensions in mm
+PG 
+ø G 
+Suffix
+Q
+QL
+Size
+DN 
+DG 
+J
+ 
+ 
+ 
+Thread 
+Thread
+max.
+max.
+± 0.25
++ 0.5 
++ 0.5
+UNEF-2A
+- 0.5
+8 
+10 
+12
+15.5 
+18.5 
+21.5
+4.5 
+5.5 
+8.5
+8.97 
+8.97 
+8.97
+57 
+57 
+62
+7/16-28 
+9/16-24 
+11/16-24
+PG 07 
+PG 09 
+PG 11
+19.05 
+21.82 
+26.19
+– PGV 
+– PGV 
+– PGV
+14 
+14 
+16
+24.5 
+24.5 
+27.5
+10.5 
+8.5 
+12.5
+8.97 
+8.97 
+8.97
+62 
+62 
+62
+13/16-20 
+13/16-20 
+15/16-20
+PG 13.5 
+PG 13.5 
+PG 16
+29.36 
+29.36 
+32.54
+– PGV 
+– PGS 
+– PGV
+16 
+18 
+18
+27.5 
+30.6 
+30.6
+10.5 
+12.5 
+10.5
+8.97 
+8.97 
+8.97
+62 
+62 
+62
+15/16-20 
+1 1/16-18 
+1 1/16-18
+PG 16 
+PG 16 
+PG 16
+32.54 
+35.33 
+35.33
+– PGS 
+– PGV 
+– PGS
+20 
+20 
+22
+33.5 
+33.5 
+36.5
+18.5 
+12.5 
+18.5
+10.54 
+10.54 
+10.54
+70 
+70 
+70
+1 3/16-18 
+1 3/16-18 
+1 5/16-18
+PG 21 
+PG 21 
+PG 21
+38.89 
+38.89 
+42.06
+– PGV 
+– PGS 
+– PGV
+22 
+24 
+24
+36.5 
+40.0 
+40.0
+12.5 
+18.5 
+12.5
+10.54 
+10.54 
+10.54
+70 
+72 
+72
+1 5/16-18 
+1 7/16-18 
+1 7/16-18
+PG 21 
+PG 21 
+PG 21
+42.06 
+45.14 
+45.14
+– PGS 
+– PGV 
+– PGS
+Assembly instructions p. 60-68. 
+49
+
+PT-SE Series
+Crimp connection
+HF sealed connectors
+K 
+ø H
+ø PP
+ø P 
+Shell size
+M 
+±0.5
+max.
+ø N
+L
+ 
+max.
++0.8 
+0
+ 8
+6.7
+16
+18.5
+12.01
+10
+9.2
+18
+21.6
+14.99
+12
+12.2
+22
+24.8
+19.05
+17.5
+3.0
+14
+15.2
+25
+28.0
+22.23
+62
+16
+18.3
+28
+31.2
+25.40
+18
+20.0
+32
+34.3
+28.58
+PT 07 SE ... SQ
+(VG 95328 T)
+23.0
+34
+38.3
+31.75
+22
+26.0
+38
+41.5
+34.93
+20
+22.3
+3.8
+24
+23.1
+28.8
+41
+44.7
+38.10
+Shell size
+d1
+h 
+ ±1
+±1
+12
+24
+19
+14
+28
+20
+16
+31
+21
+PTU 06 SE ... SQ
+(VG 95328 U)
+ø QH
+QL
+ø QN
+SW
+ø QG
+ 
+min.
+ +0.5
+ max.
+ max.
+ -0.2
+Shell size
+J
+ 
+±0.25
+ 8
+8.97
+ 6.7
+16
+51
+20
+18
+10
+8.97
+ 9.2
+18
+51
+23
+21
+12
+8.97
+12.2
+22
+54
+27
+24
+14
+8.97
+15.2
+25
+54
+30
+28
+16
+8.97
+18.3
+28
+54
+33
+31
+18
+8.97
+20
+32
+54
+36
+34
+20
+10.54
+23
+34
+56
+40
+37
+22
+10.54
+26
+38
+56
+43
+41
+Grounding 
+ring
+24
+10.54
+28.8
+41
+58
+48
+44
+PTG 06 SE ... SQ
+(VG 95328 M)
+Assembly instructions p. 60-68. 
+50
+
+PT-SE Series
+Crimp connection
+Angle plug PT 08 SE
+PT 08 SE ... SR
+Ordering example          PT 08 SE 14-19 P W SR          see p. 70
+PT 08 SP
+Ordering example          PT 08 SP 14-19 P W          see p. 70    
+Dimensions in mm
+ED
+ø EG
+EL
+ø G 
+Shell size
+EB 
+PB
+ ± 1.57
+ max.
+ max.
+max.
+± 0.79
+J
+ 
+± 0.25
+ max.
+PC
+ 
+± 0.38
+PO
+ 
+± 0.38
+EE
+ 
++ 1.19 
+- 0.64
+EC
+ 
++ 0.25 
+- 0.64
+PL
+Thread Q
+ 
+Class 2A 
+(inch)
+8 
+10 
+12
+16.64 
+19.02 
+20.62
+3.96 
+4.32 
+6.71
+23.90 
+30.25 
+30.25
+8.61 
+9.98 
+11.43
+20.21 
+23.39 
+26.57
+53.00 
+54.28 
+56.44
+19.05 
+21.82 
+26.19
+8.97 
+8.97 
+8.97
+11.00 
+12.52 
+14.02
+7.92 
+11.13 
+13.11
+11.13 
+14.27 
+17.48
+47.0 
+50.0 
+52.0
+0.4375-28 UNEF 
+0.5625-24 NEF 
+0.6875-24 NEF
+14 
+16 
+18
+22.99 
+26.16 
+25.78
+7.87 
+8.38 
+11.28
+31.85 
+33.43 
+39.67
+13.18 
+14.81 
+15.77
+29.74 
+32.94 
+36.12
+60.20 
+65.33 
+68.07
+29.36 
+32.54 
+35.33
+8.97 
+8.97 
+8.97
+16.33 
+16.71 
+17.50
+15.88 
+16.66 
+17.86
+19.84 
+22.61 
+25.40
+55.0 
+56.0 
+57.0
+0.8125-20 UNEF 
+0.9375-20 UNEF 
+1.0625-18 NEF
+20 
+22 
+24
+27.38 
+28.93 
+31.75
+12.95 
+13.08 
+16.66
+41.28 
+43.66 
+44.45
+17.35 
+18.77 
+20.24
+39.67 
+42.47 
+45.64
+69.93 
+71.09 
+77.14
+38.89 
+42.06 
+45.14
+10.54 
+10.54 
+10.54
+19.05 
+20.17 
+27.18
+19.46 
+20.62 
+23.32
+28.58 
+31.34 
+34.90
+64.0 
+65.0 
+74.0
+1.1875-18 NEF 
+1.3125-18 NEF 
+1.4375-18 NEF
+Assembly instructions p. 60-68. 
+51
+
+Accessories
+CRIMP CONTACTS
+Connector
+Order code
+Pin contact
+Socket contact
+With cup
+Without cup
+With cup
+Without cup
+20 
+16
+42966-903
+–
+39819-903
+42969-903
+–
+39827-903
+VG designation
+20 
+16
+VG 95328-P20C
+–
+–
+VG 95328 P16
+VG 95328 S20 C
+–
+–
+VG 95328 S16
+Crimp coaxial contacts
+Contact size
+Usable with cable
+Order code
+Pin contact
+Socket contact
+16
+M 17/094/RG 179 1 
+M 17/113/RG 316 J
+21-33656-1
+21-33655-1
+Sealing plug
+Sealing plug size
+Color code
+Order code
+Order No. 
+MS/DIN
+20
+red
+10-405 996-202
+MS 27488-20-2
+16
+green
+10-405 996-162
+MS 27488-16-2
+The sealing plugs shown above are used for sealing unused contact openings.
+Technical data see p. 5                                                                     Assembly instructions p. 60-68. 
+52
+
+Accessories
+Dummy
+10-263999
+(MS 3115)
+VG 95328 T07 C XX
+Shell size
+Order number
+Dimensions in mm
+S 
+max.
+T 
+± 0.13
+K 
+± 0.41
+M 
++ 0.79
+ø N 
++ 0.03 
+- 0.13
+R
+Theoret. 
+dimensions
+3.05 
+3.05 
+3.05 
+3.05 
+3.05 
+3.05 
+3.05 
+3.05 
+3.73
+21.03 
+24.23 
+26.59 
+28.98 
+31.34 
+33.73 
+36.91 
+40.08 
+43.26
+15.09 
+18.26 
+20.62 
+23.01 
+24.61 
+26.97 
+29.36 
+31.75 
+34.93
+12.01 
+14.99 
+19.05 
+22.23 
+25.40 
+28.58 
+31.75 
+34.93 
+38.10
+11.73 
+11.73 
+11.73 
+11.73 
+11.73 
+11.73 
+14.12 
+14.12 
+14.96
+1.57 
+1.57 
+1.57 
+1.57 
+1.57 
+1.57 
+2.39 
+2.39 
+2.39
+10-263999-083 
+10-263999-103 
+10-263999-123 
+10-263999-143 
+10-263999-163 
+10-263999-183 
+10-263999-203 
+10-263999-223 
+10-263999-243
+08 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+Flange gasket
+Without metal  
+reinforcement
+10-101949-XX
+(VG 95328 T07 A)
+With metal  
+reinforcement
+10-40450-XX S-AT
+(VG 95328 T07 B)
+Shell size
+Order number  
+flange gasket 
+Dimensions in mm
+Without  
+shielding braid
+With  
+shielding braid
+A 
+± 0.3
+ø B 
++ 1
+C 
+max.
+ø D 
+min.
+08 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+10-101949-08 
+10-101949-10 
+10-101949-12 
+10-101949-14 
+10-101949-16 
+10-101949-18 
+10-101949-20 
+10-101949-22 
+10-101949-24
+10-40450-08S-AT 
+10-40450-10S-AT 
+10-40450-12S-AT 
+10-40450-14S-AT 
+10-40450-16S-AT 
+10-40450-18S-AT 
+10-40450-20S-AT 
+10-40450-22S-AT 
+10-40450-24S-AT
+15.1 
+18.3 
+20.6 
+23.0 
+24.6 
+27.0 
+29.4 
+31.8 
+34.9
+12.7 
+15.9 
+19.0 
+22.2 
+25.4 
+28.6 
+31.7 
+34.9 
+38.1
+22.7 
+25.8 
+28.2 
+30.6 
+33.0 
+35.4 
+38.5 
+41.7 
+44.9
+3.0 
+3.0 
+3.0 
+3.0 
+3.0 
+3.0 
+3.0 
+3.0 
+4.2
+Assembly instructions p. 60-68. 
+53
+
+Accessories
+Angular potting boot
+(75°)
+10-101988
+Shell size
+Order number
+Dimensions in mm
+B max.
+D ± 0.38
+E ± 0.38
+L max.
+19.46 
+21.08 
+21.87 
+23.27 
+23.77 
+24.36 
+26.72 
+27.25 
+33.27
+11.13 
+14.27 
+17.48 
+19.84 
+22.61 
+25.40 
+28.58 
+31.34 
+34.90
+07.92 
+11.13 
+13.11 
+15.88 
+16.66 
+17.86 
+19.46 
+20.62 
+23.32
+11.00 
+12.52 
+14.02 
+16.33 
+16.71 
+17.50 
+19.05 
+20.18 
+27.18
+42806-011 
+42806-012 
+42806-013 
+42806-014 
+42806-015 
+42806-016 
+42806-017 
+42806-018 
+42806-019
+08 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+The angular potting cap (75°) can be used for sealing wire bundles if angulation is desired. 
+Plastic dust cap
+37024
+Dimensions in mm
+Shell size
+Order code 
+(for plugs)
+Dimensions in mm
+Shell size
+Order code
+(for receptacles)
+Dimensions in mm
+ø B - 0.2
+ø C ± 0.2
+ø D - 0.2
+ø B - 0.2
+ø C ± 0.2
+ø D - 0.2
+08 
+10 
+12
+S 8 
+D 8 S 10 
+D 10 S 12
+12.0 
+15.0 
+18.3
+16.0 
+20.0 
+23.0
+10.0 
+13.0 
+16.3
+15.0 
+18.3 
+21.5 
+14 
+16 
+18
+D 12 S 14 
+D 14 S 16 
+D 16 S 18
+21.5 
+25.0 
+27.7
+27.0 
+29.5 
+32.0
+19.5 
+23.0 
+25.7
+20.0 
+23.0 
+27.0
+ 
+29.5 
+32.0 
+35.5 
+20 
+22 
+24
+D 18 S 20 
+D 20 S 22 
+D 22 S 24
+30.9 
+34.1 
+37.3
+35.5 
+39.0 
+42.0
+28.9 
+32.1 
+35.3
+08 
+10 
+12
+ 
+14 
+16 
+18
+ 
+20 
+22 
+24
+D 8 S 10 
+D 10 S 12 
+D 12 S 14
+ 
+D 14 S 16 
+D 16 S 18 
+D 18 S 20
+ 
+D 20 S 22 
+D 22 S 24 
+D 24
+25.0 
+27.7 
+30.9
+ 
+34.1 
+37.3 
+42.0
+39.0 
+42.0 
+46.0
+13.0 
+16.3 
+19.5
+ 
+23.0 
+25.7 
+28.9
+ 
+32.1 
+35.3 
+40.0
+The dust caps protect the contacts during shipping and storage.
+54
+
+Accessories
+Metal protective cap
+for receptacles with rectangular flange
+VG 95328 Z1 A
+VG 95328 Z1 B
+Shell size
+Order number
+Dimensions in mm
+Z 
+With nylon cord
+ø G 
+L 
+X 
++ 13 
+-  7
+max.
+ VG designation
+max.
+max.
+With link chain
+ 
+VG designation
+With nylon cord
+ 
+Amphenol 
+designation
+With link chain  
+(MS 3181C)  
+Amphenol 
+designation
+08 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+38822-071 
+38822-072 
+38822-073 
+38822-074 
+38822-075 
+38822-076 
+38822-077 
+38822-078 
+38822-079
+VG 95328 Z1 A 08 
+VG 95328 Z1 A 10 
+VG 95328 Z1 A 12 
+VG 95328 Z1 A 14 
+VG 95328 Z1 A 16 
+VG 95328 Z1 A 18 
+VG 95328 Z1 A 20 
+VG 95328 Z1 A 22 
+VG 95328 Z1 A 24
+51546-061 
+51546-062 
+51546-063 
+51546-064 
+51546-065 
+51546-066 
+51546-067 
+51546-068 
+51546-069
+VG 95328 Z1 B 08 
+VG 95328 Z1 B 10 
+VG 95328 Z1 B 12 
+VG 95328 Z1 B 14 
+VG 95328 Z1 B 16 
+VG 95328 Z1 B 18 
+VG 95328 Z1 B 20 
+VG 95328 Z1 B 22 
+VG 95328 Z1 B 24
+18.65 
+21.82 
+25.50 
+28.58 
+31.75 
+34.93 
+38.10 
+41.28 
+44.45
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+22.3
+77 
+77 
+89 
+89 
+89 
+89 
+102 
+102 
+102
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+20.0
+The protective cap is attached to one of the receptacle flange screws by means of a chain link or grommet. 
+The protective cap is fitted with a seal which guarantees watertight sealing between the cap and the receptacle. 
+VG 95328 Z1 C
+Case
+Terminal unit
+Shell size
+Order number
+Dimensions in mm
+With nylon cord 
+Amphenol designation
+With nylon cord 
+VG designation
+ø G 
+max.
+L 
+max.
+Z 
+max.
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+20.0
+18.65 
+21.82 
+25.50 
+28.58 
+31.75 
+34.93 
+38.10 
+41.28 
+44.45
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+22.3
+VG 95328 Z1 C 08 
+VG 95328 Z1 C 10 
+VG 95328 Z1 C 12 
+VG 95328 Z1 C 14 
+VG 95328 Z1 C 16 
+VG 95328 Z1 C 18 
+VG 95328 Z1 C 20 
+VG 95328 Z1 C 22 
+VG 95328 Z1 C 24
+08 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+38828-071 
+38828-072 
+38828-073 
+38828-074 
+38828-075 
+38828-076 
+38828-077 
+38828-078 
+38828-079
+The sleeve is used to fix the terminal unit to the rope. Sleeve and terminal unit are delivered unassembled.
+The user can therefore set the desired rope length.
+55
+
+Accessories
+Metal protective cap
+for cable connecting plugs
+Shell size
+Order number
+Dimensions in mm
+With link chain
+With nylon cord
+ø B + 0.25 
+0
+ø G 
+max.
+L 
+max.
+X 
+min.
+Z 
+max.
+08 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+38823-071 
+38823-072 
+38823-073 
+38823-074 
+38823-075 
+38823-076 
+38823-077 
+38823-078 
+38823-079
+38830-071 
+38830-072 
+38830-073 
+38830-074 
+38830-075 
+38830-076 
+38830-077 
+38830-078 
+38830-079
+11.53 
+14.68 
+17.86 
+21.44 
+24.61 
+27.79 
+30.96 
+34.11 
+36.91
+18.65 
+21.82 
+25.50 
+28.58 
+31.75 
+34.93 
+38.10 
+41.28 
+44.45
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+22.3
+70 
+70 
+70 
+70 
+70 
+70 
+70 
+70 
+70
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+20.0
+The fastening ring of the protective cap is mounted between the cable connecting plug and the backshell. The protective cap is fitted 
+with a seal which guarantees watertight sealing between the protective cap and the connector.
+Metal protective cap
+Receptacle for single hole mounting
+VG 95328 Z3 C
+Shell size
+Order number
+Dimensions in mm
+With nylon cord
+With nylon cord
+ø C 0 
+min.
+ø G 
+max.
+L 
+max.
+X 
+min.
+Z 
+max.
+D 
+max.
+With link chain 
+(MS 3181 N) 
+(VG 95328 Z3 alt) 
+Amphenol designation
+Amphenol designation
+ VG designation
+20.62 
+25.40 
+30.18 
+36.53 
+39.67 
+42.88 
+46.02 
+49.23 
+52.37
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+17.5 
+20.0
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+21.5 
+22.3
+70 
+70 
+70 
+70 
+70 
+70 
+70 
+70 
+70
+18.65 
+21.82 
+25.50 
+28.58 
+31.75 
+34.93 
+38.10 
+41.28 
+44.45
+14.68 
+17.86 
+22.63 
+25.81 
+28.98 
+32.16 
+35.33 
+38.51 
+41.68
+VG 95328 Z3 C 08 
+VG 95328 Z3 C 10 
+VG 95328 Z3 C 12 
+VG 95328 Z3 C 14 
+VG 95328 Z3 C 16 
+VG 95328 Z3 C 18 
+VG 95328 Z3 C 20 
+VG 95328 Z3 C 22 
+VG 95328 Z3 C 24
+38824-071 
+38824-072 
+38824-073 
+38824-074 
+38824-075 
+38824-076 
+38824-077 
+38824-078 
+38824-079
+38826-071 
+38826-072 
+38826-073 
+38826-074 
+38826-075 
+38826-076 
+38826-077 
+38826-078 
+38826-079
+08 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+The fastening ring of the protective cap attaches the cap to the receptacle. The protective cap is fitted with a seal which enables 
+watertight sealing between the cap and the receptacle.
+56
+
+Accessories
+Metal protective cap
+(for plugs)
+VG 95328 Z2 A
+VG 95328 Z2 B
+Shell size
+Order  number
+Dimensions in mm
+With link chain
+With nylon cord
+With nylon cord
+ø G
+L
+ø N 
++ 0.03
+With link chain 
+(MS 3180C)
+Amphenol designation
+VG designation
+Amphenol designation
+VG designation
+max.
+max.
+ - 0.13
+X 
++ 13
+-   7
+08
+10
+12
+14
+16
+18
+20
+22
+24
+42167-061
+42167-062
+42167-063
+42167-064
+42167-065
+42167-066
+42167-067
+42167-068
+42167-069
+VG 95328 Z2 A 08
+VG 95328 Z2 A 10
+VG 95328 Z2 A 12
+VG 95328 Z2 A 14
+VG 95328 Z2 A 16
+VG 95328 Z2 A 18
+VG 95328 Z2 A 20
+VG 95328 Z2 A 22
+VG 95328 Z2 A 24
+52152-061
+52152-062
+52152-063
+52152-064
+52152-065
+52152-066
+52152-067
+52152-068
+52152-069
+VG 95328 Z2 B 08
+VG 95328 Z2 B 10
+VG 95328 Z2 B 12
+VG 95328 Z2 B 14
+VG 95328 Z2 B 16
+VG 95328 Z2 B 18
+VG 95328 Z2 B 20
+VG 95328 Z2 B 22
+VG 95328 Z2 B 24
+18.27
+21.44
+25.50
+28.58
+31.75
+34.93
+38.10
+41.28
+44.45
+20
+20
+20
+20
+20
+20
+21
+21
+22
+12.01
+14.99
+19.05
+22.23
+25.40
+28.58
+31.75
+34.93
+38.10
+77
+77
+89
+89
+89
+89
+102
+102
+102
+A chain link/grommet attaches the protective cap. The protective cap is fitted with a seal which guarantees watertight sealing between 
+the plug and the cap. The VG 95328 protective cap is equivalent to the protective cap MS 3180C. Other fastening types are available. 
+Please send inquiry. The protective cap is also available with wire rope. 
+VG 95328 Z2 C
+Sleeve
+Terminal unit
+Shell size
+Order number
+Dimensions in mm
+With nylon cord
+Amphenol designation
+With nylon cord
+VG designation
+ø G
+max.
+L
+max.
+ø N
++ 0.03 
+ - 0.13
+08
+10
+12
+14
+16
+18
+20
+22
+24
+42169-061
+42169-062
+42169-063
+42169-064
+42169-065
+42169-066
+42169-067
+42169-068
+42169-069
+VG 95328 Z2 C 08
+VG 95328 Z2 C 10
+VG 95328 Z2 C 12
+VG 95328 Z2 C 14
+VG 95328 Z2 C 16
+VG 95328 Z2 C 18
+VG 95328 Z2 C 20
+VG 95328 Z2 C 22
+VG 95328 Z2 C 24
+18.27
+21.44
+25.50
+28.58
+31.75
+34.93
+38.10
+41.28
+44.45
+20
+20
+20
+20
+20
+20
+21
+21
+22
+12.01
+14.99
+19.05
+22.23
+25.40
+28.58
+31.75
+34.93
+38.10
+The sleeve is used to fix the terminal unit to the rope. Sleeve and terminal unit are delivered unassembled.
+The user can therefore set the desired rope length.
+57
+
+Tools
+Crimp tool MS 3191-1
+(4-notch crimping)
+Order code
+Crimp tool
+Crimp insert (positioner)
+Color code
+Contact size
+Wire size AWG
+MS 3191-12 A 
+yellow 
+12 
+12 to 14 
+MS 3191-1 
+= incl. inserts
+MS 3191-16 A 
+blue 
+16 
+16 to 20 
+MS 3191-20 A
+red
+20
+20 to 24
+MS 3191-A 
+  = without inserts
+Crimp tool M 22520/1-01
+(8-notch crimping)
+Order code
+Crimp tool
+Crimp insert (turret)
+Color code
+Contact size
+Wire size AWG
+yellow 
+12 
+12 to 14 
+blue 
+16 
+16 to 20 
+M 22520/1-01
+M 22520/1-02
+red
+20
+20 to 24
+This tool allows the setting of eight different crimping depths depending on contact and wire size.
+Crimp tool and crimp insert must be ordered separately.
+Assembly instructions p. 60-68. 
+58
+
+Tools
+VG/MS-designation
+Order number
+Contact size
+M 81969/17-05 
+11-7401-12 
+12 
+M 81969/17-04 
+11-7401-16 
+16 
+M 81969/17-03
+11-7401-20
+20
+Contact installation tool 11–7401 
+VG/MS-designation
+Order number
+Contact size
+12 
+11-7880-12 
+M 81969/19-02 RevB 
+16 
+11-7880-16 
+M 81969/19-01 RevB 
+20
+11-7880-20
+M 81969/19-06 RevB
+Contact removal tool 11-7880 
+Assembly instructions p. 60-68. 
+59
+
+Assembly instructions
+Connectors with solder contacts
+Backshell mounting
+These assembly instructions contain the most important steps of the installation. Our sales team is always ready to answer any 
+questions you may have regarding wiring, assembly, and installation of connectors.
+Backshell »A«. Place the backshell over the wire bundles. Strip 
+the conductor (see p. 5 stripping length), tin-plate and solder to 
+the contacts. Screw the backshell to the connector.
+Backshell »P«. Place backshell over cable, strip single 
+wires (see p. 5) and solder to contacts. Screw potting 
+boot to the connector. Pot the wire bundle following the 
+instructions from the potting compound supplier. 
+Backshell »P« SR. Pull the rubber grommet and cable 
+clamp over wire bundle. Strip wire (see p. 5) and solder to the 
+contacts. Screw cable clamp to the connector without strain 
+relief. Pot the wire bundle following the instructions from the 
+potting compound supplier. Place rubber grommet in the cable 
+clamp and fasten strain relief.
+Backshell »W«. The following strip lengths must be observed 
+when using jacketed multi-conductor cables: 
+Backshell »A« SR. Place the rubber grommet and cable clamp 
+over wire bundle. Strip the conductor (see p. 5 stripping length) 
+and solder to the contacts. Screw the cable clamp to connector, 
+insert the rubber grommet into the cable clamp and tighten the 
+screws.
+Backshell »E«. Place the coupling ring and cable clamp over 
+wire bundle. Push single wires through the holes in the sealing 
+insert, strip (see p. 5) and solder to the contacts. Place sealing 
+inserts over solder connections. Place sealing plugs in unused 
+seals (see p. 52). Push the clamping ring onto the sealing insert 
+and screw the coupling ring onto the connector. The sealing insert 
+should protrude somewhat over the ring.
+Shell size    
+ 8 10 12 14 16 18 20 22 24
+B max. (mm)
+16 16 18 21 23 28 32 35 42
+Backshell »E« SR. Place the rubber grommet, cable clamp and 
+clamping ring over wire bundle. Push single wires through holes 
+in the sealing insert, strip (see p. 5) and solder to the contacts. 
+Place the sealing insert over the solder connections, push the 
+clamping ring onto the sealing insert and screw the cable clamp 
+onto the connector. Place sealing plugs in unused seals (see 
+p. 52). Place rubber grommet in the cable clamp and fasten the 
+screws. 
+Strip stranded wire to 3.2mm or 6.3mm with contact sizes of 
+20 and 16 respectively. Make sure that the diameter of the 
+cable jacket is within » DW « dimensions (see page 17, 19, 
+23). Place the coupling ring and sealing sleeve over wire 
+bundle. Solder single wires to contacts. Push sealing sleeve 
+onto connector and make sure that the two cams align properly 
+with the grooves on the connector. Screw coupling ring to the 
+connector.
+Backshells »E« J. Place backshell and clamping ring over wire 
+bundle. Push single wires through the holes in the sealing insert, 
+strip (see p. 5) and solder to the contacts. Place sealing inserts 
+over solder connections. Place sealing plugs in unused seals 
+(see p. 52), push clamping ring onto sealing insert. Screw the 
+backshell to the connector. Attach suitable heat shrink tubing.
+Clamping 
+ring
+Cable 
+clamp
+Rubber 
+grommet
+Sealing 
+insert
+Connector
+Mounting example: Connector with backshell »E« SR.
+60
+
+Assembly instructions
+Connector with crimp contacts
+Crimping of the contacts
+ 2  Put stripped stranded wire into contact crimp sleeve. Make 
+sure that the stranded wire is visible through the inspection hole.
+1   Cut the conductor to the required length and strip following  
+the instructions mentioned. Do not bend or cut stranded wire. 
+Thermal insulation is recommended. 
+ 4  The crimp tool M 22520/1-01 (8-notch crimping) is equipped 
+with a single insert (see page 58), which allows the crimping of 
+3 contact sizes. See also user manual provided by manufacturer. 
+3  The crimp tool MS 3191-1 (4-notch crimping) is delivered 
+together with several inserts. Make sure that the correct insert is 
+chosen (see page 58). Proper crimp tool use is described in the 
+manufacturer's instructions.
+5  Close and open crimp tool MS 3191-1 once before actual 
+crimping to ensure that the jaws are open. Insert contact with 
+conductor into receptacle. Close tool completely until it automati-
+cally reopens. Remove contact from the receptacle and check if 
+conductor is visible through the inspection hole. 
+ 6  After properly setting the wire size and contact values, close 
+and reopen tool M 22520/1-01 to ensure that the crimp jaws are 
+open. Insert contact with the conductor into receptacle. Close 
+tool completely until it automatically reopens. Remove contact 
+from the receptacle and check if conductor is visible through the 
+inspection hole.
+61
+
+Assembly instructions
+Connector with crimp contacts
+Insertion of contacts
+1  Remove individual backshell components from the connector 
+and place them over the wire bundles in the correct order.
+2  Use tool 11-7401 to insert contacts into the connector  
+(see page 59).
+3  Place the contacts in the insertion tool (11-7401) as shown 
+above.
+4  Insert the contact on the back of the connector lineally and 
+press forward until it clicks into place. Remove tool. By pulling 
+gently on the conductor, check that the contact is correctly 
+inserted.
+5  Place an uncrimped contact and a sealing plug in unused 
+contact openings. The sealing plug must protrude from the sealing 
+insert. 
+6  After equipping the connector, determine by visual inspection 
+if all contacts are inserted correctly. The backshell can then be 
+screwed on.
+62
+
+Assembly instructions
+Connector with crimp contacts
+Removal of contacts from the 
+connector
+Place the removal tool 11-7880 over the pin or sleeve 
+contact on the mating side of the connector and push 
+twisting slightly until it stops. Push the pin of the 
+tool forward. The contact is now detached and can 
+be removed by pulling the conductor on the back of 
+the connector. Make sure that the tool is in an axial 
+position to the contact during insertion and removal. 
+In the case of contacts without wires, the sealing 
+plug must be removed and the contact removed as 
+described above. After extraction of the removal tool, 
+use a suitable pin to push the contact out from the 
+back side of the connector. 
+The contact retention system used in the connector PT-SE is 
+a “Front  Removable System”, meaning the contacts must be 
+removed from the plug side to the wiring side.
+  Mounting the backshell  
+SE. . . SQ
+Shielding braid soldered
+Shielding braid clamped
+This backshell is used for attaching a shielding braid 
+and a heat shrink part (see page 67) in order to 
+meet particularly high requirements for RF sealing 
+and coupling resistance between the cable and 
+connector. The backshell has anti-rotation teeth 
+which function as an anti-rotation mechanism. The 
+shielding braid can be mounted using the following 
+two methods. 
+Soldering of the shielding braid
+–  Remove the clamping nut (9). It is no longer 
+needed. 
+Clamping of shielding braid
+–  Place heat shrink part (6) and clamping nut over 
+cables (8).
+–   Tin-plate the rounded groove. 
+–  Loosen the clamping nut (9). Place heat shrink 
+part (6) and clamping nut over cables (8). 
+–  Push shielding braid (7) onto backshell (1) and 
+over the thread (3).
+–  Push shielding braid (7) onto backshell (1) and 
+over the thread (3).
+–  Fasten shielding braid to the rounded groove  
+with binding wire (4).
+–  Fasten shielding braid (7) to the rounded groove 
+with binding wire (4).
+–  Fold the protruding shielding braid back over the 
+cone (5).
+–  Fold the protruding shielding braid back over the 
+cone (5).
+–  Solder the shielding braid (7) to the rounded 
+groove. 
+–  Screw the clamping nut (9) onto the backshell (1) 
+(the folded shielding braid must protrude under 
+the clamping nut on the cable side).
+–  Apply adhesive from the rectangular groove (2) 
+down to the soldering point.
+–  Apply adhesive from the rectangular groove (2) 
+down to the clamping nut (9).
+–  Shrink-fit heat shrink part (6). The lip of the heat 
+shrink part grips into the rectangular groove (2).
+–  Shrink-fit heat shrink part (6) (the lip of the heat 
+shrink part grips into the rectangular groove (2).
+63
+
+Assembly instructions
+The receptacles with rectangular flange of  
+the series PT and PT-SE are installed on  
+the front side of the mounting wall. With the 
+thru-bulkhead PTB (see installation example), 
+screw length and screw head diameters which 
+guarantee perfect coupling must be selected.
+Flange gaskets see p. 53
+Dimensions in mm
+Mounting hole
+Installation example: PTB
+Shell size
+8
+10
+12
+14
+16
+18
+20
+22
+24
+ø D only for PTB
+ø D for PT, PT-SE
+R. Theoret. dim. 
+ø T min. +0.13
+14.00
+12.10
+15.09
+  3.50
+17.00
+15.20
+18.26
+  3.50
+22.00
+18.40
+20.62
+  3.50
+25.00
+21.60
+23.01
+  3.50
+28.00
+24.80
+24.61
+  3.50
+31.00
+27.90
+26.97
+  3.50
+34.50
+31.10
+29.36
+  3.50
+37.50
+34.30
+31.75
+  3.50
+41.00
+37.40
+34.93
+  4.00
+Receptacles for single hole mounting
+The receptacles for single hole mounting can  
+be fixed to mounting walls with a thickness of 
+1.6 mm to 3.2 mm with shell sizes 8 to 18, and 
+from 5.5 mm max. with shell sizes 20 to 24. 
+Mounting hole
+Installation example: PT 07
+Dimensions in mm
+Shell size
+8
+10
+12
+14
+16
+18
+20
+22
+24
+B – 0.25 
+ø R + 0.25
+13.77 
+14.53
+16.99 
+17.70
+21.08 
+22.45
+24.26 
+25.58
+27.53 
+28.80
+30.68 
+31.98
+33.86 
+35.15
+37.06 
+38.28
+40.01 
+41.50
+Hermetically sealed receptacle
+The receptacle must be mounted in such a 
+manner that the hermetic seal provided by the 
+compression glass insert is maintained. The shell 
+surface is tin-plated to facilitate soldering. Solder-
+ing tin with a low melting point is recommended. 
+The solder is applied at the points indicated by 
+arrows.
+Dimensions in mm
+Mounting hole
+Installation example: PTIH
+Shell size
+8
+10
+12
+14
+16
+18
+20
+22
+24
+ø N max.
+14.78
+17.58
+20.35
+23.52
+26.70
+29.87
+35.43
+34.93
+38.61
+64
+
+Assembly instructions
+Cutting and installation dimensions
+Receptacle PT 00 SE and plug PT 06 SE
+with backshells
+Mounting 
+wall
+Mounting 
+wall
+(Cutting dimension)
+(Cutting dimension)
+Mounting 
+wall
+Mounting 
+wall
+(Cutting dimension)
+(Cutting dimension)
+Dimensions in mm
+Shell size
+A1   A2   A3   A4   A5
+B1   B2   B3   B4   B5
+C1   C2   C3   C4
+D1   D2   D3   D4   
+L 
+min.
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+6.2
+6.2
+6.4
+3 0  1 3  3 6  5 0  
+3 0  1 3  3 6  5 0  
+3 0  1 3  3 6  5 0  
+3 0  1 3  3 6  5 0  
+3 0  1 3  3 6  5 0  
+3 0  1 3  3 6  5 0  
+2 8  1 7  3 4  5 0  
+2 8  1 7  3 4  5 0  
+2 8  1 8  3 5  5 0  
+3 7  1 3  4 0  5 4 
+3 7  1 3  4 0  5 4 
+3 7  1 3  4 0  5 4 
+3 7  1 3  4 0  5 4 
+3 9  1 3  4 2  5 6 
+3 9  1 3  4 2  5 6 
+3 9  1 7  4 4  5 9 
+3 9  1 7  4 4  5 9 
+4 0  1 8  4 5  6 1
+2 5  1 3  1 4  2 6  4 0 
+2 5  1 3  1 5  2 7  4 1 
+2 6  1 3  1 6  2 8  4 2 
+2 6  1 3  1 6  2 8  4 2 
+2 6  1 3  1 3  2 7  4 1 
+2 7  1 3  1 4  2 8  4 2 
+2 9  1 7  1 4  3 0  4 5 
+2 8  1 7  1 3  2 9  4 5 
+2 8  1 8  1 4  2 9  4 5
+2 2  1 3  2 7  4 4  5 8 
+2 2  1 3  2 7  4 4  5 8 
+2 2  1 3  2 7  4 5  5 8 
+2 2  1 3  2 7  4 5  5 8 
+2 2  1 3  2 7  4 5  5 8 
+2 2  1 3  2 7  4 5  5 8 
+1 9  1 7  2 9  4 7  6 2 
+1 9  1 7  2 9  4 7  6 2 
+1 9  1 8  3 1  4 9  6 3
+ 8 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+65
+
+Assembly instructions
+Cutting and installation dimensions
+Receptacle PT 07 SE and plug PT 06 SE
+with backshells
+Mounting wall
+Mounting wall
+(Cutting dimension)
+(Cutting dimension)
+PT 07 SE 
+PT 07 SE ... SR
+PT 06 SE 
+PT 06 SE ... SR
+Mounting wall
+(Cutting dimension)
+PT 08 SE
+PT 07 SP
+Dimensions in mm
+Shell size
+E1    E2    E3    E4
+F1    F2    F3    F4
+G1    G2    G3    G4
+25    18    45    59  
+25    18    46    60  
+25    18    48    62  
+25    18    52    66  
+25    18    57    71  
+25    18    60    74  
+27    23    60    75  
+27    23    61    77  
+27    24    67    83
+32    18    40    54  
+32    18    40    54  
+32    18    40    54  
+32    18    40    54  
+34    18    42    56  
+34    18    42    56  
+33    23    44    59  
+33    23    44    59  
+34    24    45    61
+19    18    25    39  
+19    18    25    39
+19    18    25    39
+19    18    25    39   
+19    18    25    39
+19    18    25    39
+19    23    23    38
+19    23    23    38
+20    24    24    40
+ 8 
+10 
+12 
+14 
+16 
+18 
+20 
+22 
+24
+66
+
+Assembly instructions
+Application examples  
+of heat shrink parts
+The heat shrink parts shown (also referred to as 
+shrinkable parts) are suitable for shrink-fitting to 
+fully assembled connectors which use backshells 
+SE ...  SQ or SE... F.
+The molded parts 202 K and 222 K can be 
+obtained from the RAYCHEM company. The 
+order codes and dimensions below are for 
+informational purposes only. 
+Backshell SE ... SQ with molded part 222
+Backshell SE ... F with molded part 222
+Backshell SE ... SQ with molded part 202
+Backshells ... F with molded part 202
+Dimensions in mm
+Backshell SE ... SQ
+Backshell SE ... F
+Shell size
+Molded part  
+order code
+Dimensions in mm
+Shell size
+Molded part  
+order code
+Dimensions in mm
+A
+B
+C
+D
+ø J 
+max.
+E
+F
+G
+H
+ø J 
+max.
+8 
+25.4 
+25.0 
+16
+38.4 
+5.6 
+8 
+25.4 
+12 
+20.1 
+17.3 
+3.8 
+222 K 121
+202 K 121       
+222 A 111 
+202 A 111 
+10 
+27.2 
+32.0 
+17 
+54.9 
+6.6 
+10 
+38.4 
+12 
+25.4 
+25.0 
+5.6 
+222 K 132
+202 K 132
+222 K 121 
+202 K 121 
+12 
+27.2 
+32.0 
+17 
+54.9 
+6.6 
+12 
+38.4 
+12 
+25.4 
+25.0 
+5.6 
+222 K 132
+202 K 132
+222 K 132 
+202 K 132 
+14 
+30.5 
+39.4 
+17
+66.8 
+7.1 
+14 
+54.9 
+12 
+27.2 
+32.0 
+6.6 
+222 K 142
+202 K 142
+222 K 132 
+202 K 132 
+16 
+38.0 
+46.4 
+ 18
+80.0 
+8.4 
+16 
+66.8 
+12 
+30.5 
+39.4 
+7.1 
+222 K 152
+202 K 153
+222 K 142 
+202 K 142 
+18 
+38.0 
+46.4 
+18 
+80.0 
+8.4 
+18 
+66.8 
+12 
+30.5 
+39.4 
+7.1 
+222 K 152
+202 K 153
+222 K 142 
+202 K 142 
+20 
+45.0 
+55.0 
+18
+99.1 
+9.9 
+20 
+80.0 
+12 
+38.0 
+46.4 
+8.4 
+222 K 163
+202 K 163
+222 K 152 
+202 K 153 
+22 
+45.0 
+55.0 
+ 18 
+99.1 
+9.9 
+22 
+99.1 
+14 
+45.0 
+55.0 
+9.9 
+222 K 163
+202 K 163
+222 K 163 
+202 K 163 
+24
+54.0
+80.0
+18
+130.0
+15.7
+24
+99.1
+14
+45.0
+55.0
+9.9
+222 K 174
+202 K 174
+222 K 163 
+202 K 163
+67
+
+Assembly instructions
+General considerations for PG backshells  
+with shield connection
+Standard version
+Overall shielded cable 
+Shield sizes see p. 49.
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+7) Disk
+8) Pressing screw
+9  Cable
+4) Shield
+5) Cone ring
+6) Rubber ring
+1) Plug
+2) Adapter 
+3) Wire
+Special versions
+Please send inquiry.
+Individually shielded cables
+Shielding cones must be fitted to the individual cables.
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+68
+
+Ordering example as per VG 95328
+VG 95328
+K
+P
+W
+14
+19
+Number of the 
+standard
+Angular position  
+of the contact insert
+(see VG 95328, part 6) 
+Contact type 
+P – Pin contact 
+S – Socket contact 
+Shell shape 
+Straight plug with 
+cable clamp and crimp 
+connection  
+(see VG 95328, part 5, 
+see p. 13)
+Contact insert 
+(see VG 95328, part 6)
+Shell size 
+8 to 24
+(see VG 95328, part 5)
+Ordering example as per MIL-C-26482
+MS 3126
+F
+P
+W
+14
+19
+MS number
+Straight plug with 
+crimp connection and 
+bayonet coupling  
+(see MIL-C-26482, 
+series 1,) (see p. 13)
+Polarization  
+(coding system)
+Angular positions of the 
+contact insert. Normal position 
+and angles W, X, Y, Z.  
+No specification for normal 
+position required.
+Contact type 
+P – Pin contact 
+S – Socket contact
+Service class
+Plug with cable 
+clamp and  
+sealing insert  
+(see MIL-C-26482)
+Contact arrangement 
+(see MIL-STD-1669)
+Shell size
+8 to 24  
+(see MIL-C-26482)
+Special designs following customer specifications upon request. 
+69
+
+Ordering example 
+PT
+G
+P
+SQ
+06
+14-19
+SE
+XXX
+W
+Series
+PT – Pygmy Tri-Lock
+ 
+ 
+ Circular connectors with  
+three pin bayonet coupling 
+Surface treatment
+•  WITHOUT-cadmium and green 
+chromate coating
+•  CD-free alternatives
+ 023 – nickel-plated
+ 024 – galvanized (ZnCo) green
+ 025 – galvanized (ZnCo) black
+•  Other surface treatments  
+upon request.
+G - grounding ring (HF-sealed)
+ 
+ 
+ Only with plug PTG 06 of  
+service class SE.
+Design (see 10, 11)
+Backshells
+(See pages 15 and 40)
+00 – Wall mounting receptacle
+01 –  Cable connecting plug
+02 – Box mounting receptacle
+06 – Straight plug
+07 –  Receptacle for single hole mount-
+ing
+08 – Angle plug
+B – Thru-bulkhead receptacle
+I 
+– Receptacle with solder flange
+Service class (See pages 15 and 40)
+Connectors with solder connection
+For the following backshells,  
+the abbreviated designation to-
+gether with service class must  
+be indicated.
+F  
+–   Backshells for heat shrink 
+parts (with anti-rotation 
+mechanism)
+J  
+–  Backshell for heat shrink 
+parts
+SQ –  Backshell  
+for shielding braids (HF-
+seal)
+SR – Cable clamp
+PG –  Backshell with PG-thread
+PGV/  – Backshell with PG and  
+PGS   
+shield connection
+A –  Version without special requirements.
+C –  Pressure-proof version.  
+Only for receptacles.
+Polarization (coding system) 
+(page 6)
+Angle adjustment of the contact 
+insert:
+Normal position and angle settings 
+W, X, Y, Z.
+No specification for normal  
+position required.
+E –  Moisture-proof version.  
+Pressure-proof receptacles. 
+P –  Similar to service class »E«,  
+yet for sealing wire bundles.
+W –  Similar to service class »E«,  
+yet for sealing jacketed  
+multi-conductor cables.
+H –  Hermetically sealed version.
+Contact type
+GS –  Version with solder contacts  
+for printed circuit boards.
+P  
+– Pin contact (Pin)
+S  
+– Socket contact
+  
+  
+(socket)
+Receptacles with wire-wrap  
+connections
+WW–  Pressure-proof version  
+with wire-wraps
+Contact arrangement
+(See 7–9)
+Receptacles with crimp connections
+SE –  Moisture-proof version.
+SP –  Similar to service class »E«,  
+yet for sealing wire bundles.
+The contact arrangement is  
+shown in the appropriate contact 
+arrangement image. It consists of  
+a double designation (here, 14-19), 
+in which the first of the two num-
+bers indicates the size of shell. The 
+second number shows the number 
+of contacts, with the exception of 
+the contact arrangement image 
+10-98.
+70
+
+Other connector series from our sales program for military, 
+aerospace, and industrial applications:
+MS u. 97     
+as per MIL-C-5015 in standard and special designs.
+QWLD 
+ as per MIL-C-22992. Connectors for use with high mechanical  
+and electrical stress.
+602 GB 
+as per PAN 6432-1 and -4
+ 
+as per MIL-C-83723, Series 1
+LJT 
+as per MIL-C-38999, Series 1
+JT 
+as per MIL-C 38999, Series 2
+SJT 
+as per VG 96912; LN 29729; PAN 6433-2, JN 1003; EN 3372
+TRI-START 
+as per MIL-C-38999, Series 3; JN 1034; EN 3645
+711/715 
+as per MIL-STD 1553 B (DATA-BUS) 
+ 
+as per PAN 6484/PAN 6486, JN 1032, JN 1033, JN 1056, JN 1057
+348 
+as per MIL-C-81511 and VG 95329
+B
+3 
+ Brush connector with up to 400 contacts for printed circuit boards
+DIN 
+Connector for printed circuit boards
+ 
+as per DIN 41612 and VG 95324
+–    
+Coaxial connectors as per MIL-C-39012
+– 
+Connectors for fiber optic cables
+–    
+Special designs following customer specifications
+–    
+Filter connectors
+Ordering information see overleaf
+
+PT 04/15
+Printed on chlorine-free bleached paper, subject to change.
+Copyright 03/02 by Amphenol-air LB GmbH, Germany
+Amphenol
+Amphenol-Air LB GmbH
+Am Kleinbahnhof 4 • D-66740 Saarlouis • Telephone +49 (0) 68 31 / 98 10 - 0 • Telefax +49 (0) 68 31 / 98 10 - 20 • http://www.amphenol-airlb.de 
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  VG95328D1419SN  VG95328M1626SN  VG95328M1832PN  VG95328M1832SN  VG95328M2461PN 
+VG95328D1626SN  VG95328Z2C14  VG95328T1210SN  VG95328T1412SN  VG95328T1419SN  VG95328T83ASN 
+VG95328Z1C14  VG95328Z2A14  VG95328M83ASN  VG95328R106SN  VG95328R1419SN  VG95328R83APN 
+VG95328T106PN  VG95328T106SN  VG95328M1626PN  VG95328M2041PN  VG95328M2041SN  VG95328M2255PN
+  VG95328M2461SN  VG95328M83APN  VG95328M1210PN  VG95328M123PN  VG95328M123SN 
+VG95328M1412PN  VG95328M1412SN  VG95328M1419SW  VG95328D123SN  VG95328D1412PN  VG95328J106PN
+  VG95328K106SN  VG95328M106PN  VG95328M106SN  VG95328C106SN  VG95328C1210SN  VG95328C1412PN 
+VG95328C83ASN  VG95328D106SN  VG95328D1210SN  VG95328M1210SN  VG95328M1419PN  51546063 
+51546064  51546065  VG95328C106PN  VG95328M12-10SNJ

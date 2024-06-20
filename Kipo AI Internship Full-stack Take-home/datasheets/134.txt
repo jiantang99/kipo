@@ -1,0 +1,328 @@
+4
+7
+5
+2
+6
+8
+3
+1
+Ag
+T 3693 100 U
+19
+(19-a)
+Au
+T 3693 118 U
+F
+F
+Ag
+T 3673 100 U
+*
+12
+14
+(14-b)
+Au
+T 3673 118 U
+Ag
+T 3653 100 U
+14
+(14-a)
+Au
+T 3653 118 U
+Ag
+T 3638 100 U
+12
+20
+(12-a)
+Au
+T 3638 118 U
+M18x0,75
+E
+E
+Ag
+T 3507 100 U
+8
+(08-a)
+Au
+T 3507 118 U
+Ag
+T 3487 100 U
+7
+5,5
+(07-b)
+Copying of this document and giving it to others and the use
+or communication of the contents thereof, are forbidden with-
+out express authority. Offenders are liable to the payment of
+damages. All rights are reserved in the event of the grant of
+a patent or the registration of the utility model or design.
+Au
+T 3487 118 U
+Ag
+T 3478 100 U
+12,3
+7
+* for 12,14 and 19 pol dimension is 10,0
+(07-a)
+Au
+T 3478 118 U
+D
+D
+Number of contacts
+Standard
+3
+4
+5
+5
+6
+7
+7
+8
+12
+14
+14
+19
+Ag
+T 3403 100 U
+6
+Contact arrangement
+IEC 61076-2-106
+03-a
+04-a
+05-a
+05-b
+06-a
+07-a
+07-b
+08-a
+12-a
+14-a
+14-b
+19-a
+(6-a)
+Au
+T 3403 118 U
+1)
+yes
+no
+yes
+no
+yes
+no
+Contact arrangement
+IEC 60130-9
+Ag
+T 3359 100 U
+Rated voltage
+5
+2)
+IEC 60664-1
+300 V
+(100 V)
+300 V
+(63 V)
+100 V
+(32 V)
+300 V
+(63 V)
+100 V
+(32 V)
+150 V
+(32 V)
+60 V
+(32 V)
+Rated voltage
+UL 1977
+250V
+60V
+(05-b)
+Au
+T 3359 118 U
+Rated impulse
+withstand voltage
+2)
+IEC 60664-1
+1500 V
+(1500 V)
+1200 V
+(800 V)
+1500 V
+(1500 V)
+1200 V
+(800 V)
+Ag
+T 3363 100 U
+5
+2)
+IEC 60664-1
+1 (2)
+Pollution degree
+(05-a)
+Au
+T 3363 118 U
+Installation category
+IEC 60664-1
+I
+C
+Insulation group
+IEC 60664-1
+II, 400 < CTI < 600
+Ag
+T 3303 100 U
+4
+C
+Current rating
+IEC 60512-5-2  
+UL 1977
+10A/+40°C
+7A/+40°C
+3A/+40°C
+(04-a)
+Au
+T 3303 118 U
+3)
+Insulation resistance
+IEC 60512-3-1
+>10
+10 Ohm
+Ag
+T 3263 100 U
+Contact resistance
+IEC 60512-2-1
+<5mOhm
+3
+Climatic category
+IEC 60668-1
+40 / 100 / 56
+(03-a)
+Au
+T 3263 118 U
+Temperatur range
+IEC 60668-1
+-40°C...+100°C / -40°F...+212°F
+IP degree
+ÎEC 60529
+IP 40
+Ag
+T 3203 100 U
+2
+Insertion and
+(Pin 1+3)
+withdrawal force
+IEC 60512-13-2
+25N
+30N
+35N
+35N
+50N
+55N
+55N
+60N
+50N
+50N
+50N
+60N
+Au
+T 3203 118 U
+B
+B
+mechanical operation
+IEC 60512-9-1
+Silver >500 mating cycles / Gold >1000 mating cycles
+Contact
+Number of contacts
+housing material
+brass and / or zinc die cast, nickel plated or thermoplast
+arrangement
+(Contact arrangement 
+Part number
+acc. 
+View on
+dielectric material
+thermoplastic
+plating
+DIN EN 61076-2-106)
+contact 
+mating side
+contacts
+silver or gold plated
+termination technique
+solder
+Gewicht (errechnet) / Calc WT :
+14,089 g
+Maßstab / Scale :
+2:1
+Zul. Abw./Tolerances :
+A3
+ 
+wire gauge
+<0,5mm² / 20 AWG
+<0,35mm² / 22 AWG
+ISO 2768-c
+Prüfmaß / Testdimension
+ 
+Teileindex / Partindexnumber: 
+DIN / ISO
+flamability
+UL 94 VO
+ 
+CUSTOMER DRAWING
+Bagatelle change:  
+13715
+  
+locking system
+metal screw coupling; tightening torque 0,7 - 1,5 Nm
+11.10.2019
+1) Edition 2000-05
+MCARLE
+Drawn
+Gez.
+2) values in brackets are according to DIN EN 61076-2-106
+Female receptacle
+8 Ohm
+3) under operating conditions >10
+Released
+A
+10.02.2021
+Gepr.
+Status
+rear mounting
+ 
+MBERTSCH
+Checked
+Blatt/Sheet
+1
+MCARL
+04
+202000083
+M
+Do not connect or disconnect under load. Metal housing parts shall be securely incoporated to protected ground.
+Remark for gold plated contacts:
+In order to avoid brittle inter-metallic connections, gold plated terminals have to be tin-plated in the solder area.
+All technical data have been measured in a laboratory environment and can be different during pratical usage of the product. Any product
+information is for descriptive usage only and not legally binding; particulary the information does not constitute or provide any legal guaranties
+("Beschaffenheitsgarantie" or " Haltbarkeitsgarantie").
+Amphenol Tuchel
+Industrial GmbH
+GA T 3XXX 100+118 U
+05.11.2020
+1
+Bl.
+11.10.2019
+MCARL
+201900002
+03
+NXM-V03  FAI2020-004142
+8
+7
+6
+5
+Name
+Datum/Date
+Index
+Änderung/Description
+Ers. f. / Replacement for :
+M-GA T 3XXX 100 Rev02
+Weitergabe sowie Vervielfältigung dieser Unterlage, Verwertung
+und Mitteilung ihres Inhalts nicht gestattet, soweit nicht
+ausdrücklich zugestanden. Zuwiderhandlungen verpflichten
+zu Schadenersatz. Alle Rechte für den Fall der Patenterteilung
+oder Gebrauchsmuster-Eintragung vorbehalten.

@@ -1,0 +1,72 @@
+GK0YDR-P09UC00-000L
+amc, type_gk
+General information
+Part number
+GK0YDR-P09UC00-000L
+Termination
+pcb
+Size
+0
+Locking principle
+break , push
+Keying
+d_key_amc
+Cable Diameter
+cable_amc_0
+Contact insert description
+Number of contacts
+9
+Contact type
+sockets
+Contact diameter
+05mm
+Insulator material
+peek
+Termination
+pcb
+Termination diameter
+05mm
+reverse_gender_on_request
+Technical information
+Nominal current single contact
+05_a
+iec_60512_5_2
+Nominal current insert
+3,25 A
+vde_0298_4
+Test voltage
+06_kv_ac
+eia_364_20f
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ipsk8_ip6k9k
+Operating temperature
+51_125_c
+Mating cycles
+5000
+mated
+Material and surface treatments
+Housing
+ruthenium
+Contact
+cu_alloy_gold
+safety_text_2
+ul_text
+illustrative_text
+GK0YDR-P09UC00-000L amc, type_gk
+230522
+1 / 1
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  GK0YDR-P09UC00-000L

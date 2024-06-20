@@ -1,0 +1,748 @@
+PL Series
+Plastic Push Pull Interconnects
+
+We Connect
+   When it matters most
+For more than a century, ITT Cannon has developed innovative interconnect solutions for the world’s most critical 
+applications. With facilities in the United States, Germany, Italy, Mexico, China and Japan, each with its unique strengths, we 
+offer our customers interconnect solutions that are truly Engineered for Life.
+In addition to this truly global footprint, we offer highly specialized, segmented industry expertise. We have a proven track 
+record as an industry leader in medical and industrial applications. This has equipped us with the knowledge needed to 
+continue to produce the most advanced, resilient and reliable connectors for our customers’ most challenging conditions.
+Connecting the world’s most important 
+information with those who need it.
+Drawing upon nearly 50 years of global presence in the medical industry, ITT Cannon represents a 
+committed partner to medical equipment manufacturers, bringing connector solutions to the 
+applications that help change lives every day.
+The ITT Cannon difference
+• Global capabilities & local support
+• Proven application expertise
+• A century of interconnect leadership
+• A committed innovator & business partner
+About ITT 
+ITT is a diversified leading manufacturer of highly engineered 
+critical components and customized technology solutions 
+for the energy, transportation and industrial markets. 
+Building on its heritage of innovation, ITT partners with its 
+customers to deliver enduring solutions to the key industries 
+that underpin our modern way of life. Founded in 1920, 
+ITT is headquartered in White Plains, N.Y., with employees in 
+more than 35 countries and sales in a total of approximately 
+125 countries. For more information, visit www.itt.com.
+
+ITT Cannon Push Pull 
+PL Series
+The ITT Cannon PL Series of plastic push pull interconnects is a high quality, versatile 
+and cost effective solution for challenging medical and industrial applications where 
+miniaturized, lightweight and durable connectors are critical to operating performance.
+Key features
+• Innovative self-latching mechanism enables quick 
+ and simple mating & un-mating
+• Medical grade quality – lightweight and ruggedized
+• 6 keying and 7 color coding options enables 
+ wide customization
+• Available in 2 to 14 way variants
+ITT Cannon’s PL Series is a ‘Plastic Latching’ push pull 
+connector that delivers the ultimate in performance when 
+it matters most. Available in 2 to 14 way variants, with 
+durability in excess of 2,000 mating cycles and with 6 keying 
+options and 7 color codings the PL Series is an extremely 
+versatile solution for a wide variety of both disposable and 
+reusable applications. 
+Cannon’s integrated cable assembly solutions combined with 
+intermateability with existing push pull industry solutions 
+ensures the PL Series is the ultimate choice for today’s 
+critical applications.
+• Accommodates cable sizes ø 2.7 to 6.5 mm
+• Fully sterilizable – by gas or steam
+• Value added cable assembly solutions available
+• Intermateable with existing industry solutions
+Applications
+•  Medical
+  Respirators
+  Defibrillators
+  Dental tools
+  Electrosurgery tools
+  ECG devices
+  Catheters
+  Sensors
+•  Industrial electronics
+•  Test and measurement
+3
+www.ittcannon.com
+
+PL Series product overview
+PL Series performance data
+Operating temperature 
+range
+PSU: -50 to 150° C (Standard offering)
+PEI: -50 to 170° C (Contact ITT Cannon)
+Ingress protection
+IP50
+Current rating
+2 to 10A
+Durability
+In excess of 2,000 cycles
+Insulation resistance
+1012 Ω
+Sterilization capability
+Can be sterilized by gas or steam
+Voltage
+0.6 to 1.2 kV rws
+Certifications
+UL Certified
+RoHS compliant
+PL Series Push Pull latching system.
+1. The push-pull locking system is 
+widely used for quick and easy mating 
+2. To mate the connectors 
+simply push the plug into 
+4. To un-mate the connectors, 
+simply pull the release sleeve 
+3. Once the connectors are mated, 
+they cannot be un-mated by pulling 
+on parts other than the release sleeve 
+and un-mating. 
+the socket.
+of the outer shell.
+of the outer shell.
+Exploded view of PL Series
+Straight 
+plug
+Backnut
+Cable Collet
+Insulator & Contacts
+Shell
+Straight 
+plug with 
+bend relief
+Bend Relief
+Bend Relief for a Backnut
+Cable Collet
+Insulator & Contacts
+Shell
+Receptacle 
+with back 
+panel 
+mounting
+Hexagonal Nut
+Shell
+Front Nut
+In-line 
+receptacle
+Backnut
+Cable Collet
+Insulator & Contacts
+Shell
+In-line 
+receptacle 
+with bend 
+relief
+Bend Relief
+Bend Relief for a Backnut
+Cable Collet
+Insulator & Contacts
+Shell
+4
+www.ittcannon.com
+
+PL Series part number system
+Straight plug and inline receptacle
+PL
+XX
+X
+X
+X
+X
+X
+XX
+Push pull plastic
+Number of contacts:
+02= 2Pin 
+03= 3Pin  
+04= 4Pin 
+05= 5Pin 
+06= 6Pin 
+07= 7Pin  
+08= 8Pin 
+09= 9Pin 
+10= 10Pin 
+14= 14Pin
+Coding:
+0= 0˚ (standard)
+A= 40˚ C=60˚
+E= 80˚ H= 170˚ J=205˚
+Straight plug
+In-line receptacle
+A1= straight plug with cable collet ---- solder contact
+A3= straight plug with cable collet and nut for fitting 
+a bend relief ---- solder contact
+C1= In-line receptacle with cable collet ---- solder 
+contact
+C3= In-line receptacle with cable collet and nut for 
+fitting a bend relief ---- solder contact
+Outer shell material:
+G= Grey PSU(standard) 
+F= Black PEI
+B= Black PSU       
+P=Grey PEI
+Cable collet:
+1=ø3.9mm  (cable ø=2.7~3.9mm)
+2=ø5.2mm  (cable ø=4.0~5.2mm)
+3=ø6.5mm  (cable ø=5.3~6.5mm)
+Back nut color:
+0= Black 1= White 2= Red 4= Yellow 5= Green 6= Blue 8= Grey
+Contact plating:
+2= Gold plating 20u’’
+For A3 and C3 type, please order bend relief separately.
+For A3 and C3 the Back nut is only available in Grey (8)
+Receptacle
+PL
+XX
+X
+X
+X
+X
+X
+XX
+Push pull plastic
+Number of contacts:
+02= 2Pin 
+03= 3Pin  04= 4Pin  
+05= 5Pin 
+06= 6Pin 
+07= 7Pin 
+08= 8Pin  09= 9Pin 
+10= 10Pin 
+14= 14Pin
+Receptacle
+B1= Receptacle with two nuts
+(back panel mounting) ----solder contact
+B3= Receptacle with two nuts,
+(back panel mounting) ----with 90 degree 
+PCB contact
+B4= Receptacle, front nut fixing ----solder contact
+Coding:
+0= 0˚ (standard)
+A= 40˚ C=60˚
+E= 80˚ H= 170˚ J=205
+Outer shell material:
+G= Grey PSU(standard) 
+F= Black PEI
+B= Black PSU 
+P=Grey PEI
+Cable collet:
+0= no cable collet
+Front nut color:
+0= Black 
+1= White 2= Red 
+4= Yellow
+Contact plating:
+2= Gold plating 20u’’
+5= Green 6= Blue 
+8= Grey
+Bend relief
+Cable n (mm)
+PL
+X
+XXX0
+BR
+Min
+Max
+Push pull plastic
+025
+>2.5
+3
+030
+>3.0
+3.5
+Bend relief
+035
+>3.5
+4
+040
+>4.0
+4.5
+045
+>4.5
+5
+Color:
+0= Black    2= Red    3= White    4= Yellow 5= Green    6= Blue    8= Grey
+050
+>5.0
+5.5
+055
+>5.5
+6
+060
+>6.0
+6.5
+Dimensions shown in mm
+5
+www.ittcannon.com
+
+PL Series straight plug and receptacles
+Straight Plug
+Receptacle
+4
+Insulator
+Front nut
+A
+1
+Back nut
+Outershell
+B
+2
+Cable collet
+Insulator
+C
+3
+Outershell
+Hex nut
+D
+5
+Male contact
+Female contact
+E
+A1 Straight plug with cable collet
+A3 Straight plug with cable 
+collet and nut for bend relief
+Dimensions
+Number of 
+Contacts
+A
+B
+B1 Receptacle with two nuts
+02
+-
+03
+-
+04
+-
+05
+-
+06
+-
+2.5
+07
+3.9
+08
+3.9
+09
+3.9
+10
+3.9
+14
+3.9
+Solder to board and crimp contacts are available. Contact ITT Cannon for details.
+Dimensions shown in mm
+6
+www.ittcannon.com
+
+PL Series receptacles
+B3  Receptacle with 
+90°contacts
+Dimensions
+Number of 
+Contacts
+A
+B
+02
+-
+B4  Receptacle with nut fixing
+03
+-
+04
+-
+05
+-
+06
+-
+2.5
+07
+3.9
+08
+3.9
+09
+3.9
+10
+3.9
+14
+3.9
+Solder to board and crimp contacts are available. Contact ITT Cannon for details.
+C1 In-line receptacle with with cable collet
+C3 In-line receptacle for bend relief
+Dimensions shown in mm
+7
+www.ittcannon.com
+
+PL Series bend relief and housing models
+Bend Relief
+Cable Ø (mm)
+Part 
+Number
+Min.
+Max.
+025
+>2.5
+3.0
+030
+>3.0
+3.5
+035
+>3.5
+4.0
+040
+>4.0
+4.5
+045
+>4.5
+5.0
+Material: silicone
+Temperature range :-50~200°C
+050
+>5.0
+5.5
+055
+>5.5
+6.0
+060
+>6.0
+6.5
+Colour Code
+0
+2
+3
+4
+5
+6
+8
+Colour
+Black
+Red
+White
+Yellow
+Green
+Blue
+Grey
+Housing Models
+STRAIGHT PLUGS
+RECEPTACLE
+IN-LINE RECEPTACLE
+A1
+B1
+B3
+C1
+A3
+B4
+C3
+BE
+FLUIDIC PLUG
+BF
+FLUIDIC RECEPTACLE
+Dimensions shown in mm
+For fluidic, BE and BF options please contact ITT Cannon.
+8
+www.ittcannon.com
+
+PL Series product options
+Insert Configurations
+Number of contacts
+02
+03
+04
+05
+06
+07
+08
+09
+10
+14
+Male
+View from 
+termination side
+Female
+Test voltage (kv rms)
+1.2
+1.2
+1.2
+1.05
+1.05
+1.05
+1.05
+0.85
+0.85
+0.6
+Rated current
+10
+10
+8
+7
+6
+5
+5
+3
+3
+2
+1.3
+1.3
+1.2
+0.8
+0.85
+0.85
+0.6
+0.65
+0.5
+0.5
+Creepage and clearance (mm) 
+distance
+Max, AWG
+20
+20
+22
+22
+26
+26
+26
+28
+28
+28
+Solder bucket Ø(mm)
+1.1
+1.1
+0.85
+0.85
+0.65
+0.65
+0.65
+0.45
+0.45
+0.45
+Contact Ø(mm)
+1.3
+1.3
+0.9
+0.9
+0.7
+0.7
+0.7
+0.5
+0.5
+0.5
+Alignment Key
+Part Number
+CODING
+0
+A
+C
+E
+H
+J
+PLUG FRONT VIEW
+0°
+40°
+60°
+80°
+170°
+205°
+Color Coding
+Part Number
+Front and back nut colors
+0=Black
+1=White
+2=Red
+4=Yellow
+5=Green
+6=Blue
+8=Grey
+Outer Shell Material
+Gold Plating
+Part Number
+Part Number
+2=Gold plated 20u”
+Material
+PSU
+PEI
+Temperature
+-50° / +150°C
+-50° / +170°C
+Part number
+G=Grey PSU
+F=Black PEI
+B=Black PSU
+P=Grey PEI
+Contact Diameter
+Cable Collet 
+Part Number
+Part Number
+1=Ø3.9mm (Cable Ø=2.7~3.9mm)
+1=Ø1.3mm (only for 2; 3 pin)
+2=Ø5.2mm (Cable Ø=4.0~5.2mm)
+2=Ø0.9mm (only for 4; 5 pin)
+3=Ø6.5mm (Cable Ø=5.3~6.5mm)
+3=Ø0.7mm (only for 6; 7; 8 pin)
+0=No cable collet (B type only)
+4=Ø0.5mm (only for 9; 10; 14pin)
+Dimensions shown in mm
+9
+www.ittcannon.com
+
+PL Series PCB drilling detail
+For 90° Elbow contacts,see from A-A view.
+For straight contacts
+60°
+3.70
+90°
+2.80
+3.20
+3.40
+3.40
+72°
+120°
+0.8+0.1
+-0
+0.8+0.1
+-0
+0.6+0.1
+-0
+0.8+0.1
+-0
+0.8+0.1
+-0
+3 PIN
+4 PIN
+5 PIN
+2 PIN
+6 PIN
+5°
+4
+45°
+3.70
+3.80
+51.4°
+3.90
+4.40
+3.95
+60°
+36°
+1.90
+1.40
+0.6+0.1
+-0
+0.6+0.1
+-0
+0.6+0.1
+-0
+1.80
+0.6+0.1
+-0
+0.6+0.1
+-0
+0.6+0.1
+-0
+8 PIN
+7 PIN
+9 PIN
+10 PIN
+14 PIN
+Panel Cutout
+12.60±0.05
+14.00+0.1
+-0
+23.50
+Dimensions shown in mm
+10
+www.ittcannon.com
+
+Additional advanced, resilient and reliable 
+solutions from ITT Cannon
+DL 
+The DL Series of Zero Insertion Force (ZIF) connectors 
+are high performance, multiple-wire power and signal 
+connectors with a minimum rated life of 10,000 
+mating cycles.
+QLC 
+The miniaturized QLC series is a durable, highly 
+reliable and easily assembled high pin count connector 
+solution for today’s portable medical and industrial 
+applications. 
+DLP 
+The DLP series of connectors provide extremely reliable 
+performance with minimized signal paths and crosstalk 
+as the innovative design ensures receptacle contacts 
+mate directly to the PCB.
+Universal Contact 
+The UC series has a singular contact design which exhibits 
+over 0.3N of force with only 0.1mm of deflection and 
+provides the ultimate dry circuit pressure contact for 
+commercial and handheld applications. 
+APD 
+APD is a full-plastic, proven bayonet series with IP69K 
+sealing and color and mechanical coding that is an 
+ideal solution for critical environments that require 
+high sealing grades.
+Customized Cable Assemblies 
+ITT Cannon has value added cable assembly 
+capabilities at its global engineering centers and the 
+proven expertise to partner with customers to develop 
+specialized assemblies for any application.
+11
+www.ittcannon.com
+
+Connect with your ITT Cannon representative 
+today or visit us at www.ittcannon.com
+ITT Cannon is a world leader in the design and manufacture 
+of highly engineered solutions for multiple end markets.
+Connect with the experts
+North America
+56 Technology Drive
+Irvine, CA 92618
+Phone +1.800.854.3028
+100 New Wood Road
+Watertown, CT 06795
+Phone: +1.860.274.9681
+Germany
+Cannonstrasse 1
+71384 Weinstadt, Germany
+Phone: +49.7151.699.0
+Europe
+Italy
+Corso Europa 41/43
+I - 20020 Lainate (MI) Italy
+Phone: +39.02938721
+Asia
+Hong Kong
+Units 2405-6, 24/F, ING Tower
+308 Des Voeux Road Central, Hong Kong
+Phone: +852.2732.2720
+© 2016 ITT Inc.
+ITT Cannon PL BR 0416
+The “ITT Engineered Blocks“ symbol, “Engineered for life”, “ITT”, ”Veam” and “Cannon“ are registered trademarks of ITT Inc. 
+Speciﬁcation and other data are based on information available at the time of printing, and are subject to change without notice.
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ITT Cannon:  
+ 
+  PLC1G623004  PLC1G623010  PLC1G623A03  PLC1G623A05  PLC1G623A10  PLC1G623C05  PLC1G623C09 
+PLC1G623E02  PLC1G623002  PLC1G623005  PLC1G623006  PLC1G623A09  PLC1G623C02  PLC1G623C03 
+PLC1G623C04  PLC1G623C08  PLC1G623E08  PLC1G623003  PLC1G623007  PLC1G623009  PLC1G623A06 
+PLC1G623A07  PLC1G623A08  PLC1G623A14  PLC1G623C06  PLC1G623C14  PLC1G623H02  PLC1G623A04 
+PLC1G623C07  PLC1G623C10  PLC1G623E03  PLC1G623E04  PLC1G623H04  PLC1G623H08  PLC1G623J03 
+PLC1G623J04  PLC1G623008  PLC1G623014  PLC1G623A02  PLC1G623E07  PLC1G623E14  PLC1G623H06 
+PLC1G623J07  PLC1G623J14  PLC1G821006  PLC1G623H05  PLC1G623H07  PLC1G623H09  PLC1G623H10 
+PLC1G623H14  PLC1G821002  PLC1G821007  PLC1G821010  PLC1G821014  PLC1G821A03  PLC1G623E05 
+PLC1G623E06  PLC1G623E09  PLC1G623E10  PLC1G623H03  PLC1G623J08  PLC1G821005  PLC1G821008 
+PLC1G821A02  PLC1G821A08  PLC1G623J02  PLC1G623J06  PLC1G821004  PLC1G821A04  PLC1G821A05 
+PLC1G821A10  PLC1G821A14  PLC1G821C09  PLC1G821E08  PLC1G821E14  PLC1G623J05  PLC1G623J09 
+PLC1G623J10  PLC1G821003  PLC1G821009  PLC1G821C03  PLC1G821C08  PLC1G821C10  PLC1G821E06 
+PLC1G821H04  PLC1G821A06  PLC1G821A07  PLC1G821C02  PLC1G821C06  PLC1G821C07  PLC1G821E02 
+PLC1G821E03  PLC1G821E09  PLC1G821J06  PLC1G821J07  PLC1G821C04  PLC1G821C14  PLC1G821E04 
+PLC1G821E07  PLC1G821H09

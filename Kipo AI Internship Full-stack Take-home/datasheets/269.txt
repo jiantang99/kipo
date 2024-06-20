@@ -1,0 +1,80 @@
+S1AYBR-P19XCD0-0000
+amc, type_s1
+General information
+Part number
+S1AYBR-P19XCD0-0000
+Termination
+solder
+Size
+1,5
+Locking principle
+push
+Keying
+b_key_amc
+Cable Diameter
+cable_amc_A
+Cable outlet
+overmolding
+Contact insert description
+Number of contacts
+19
+Contact type
+pins
+Contact diameter
+05mm
+Insulator material
+peek
+Wire cross section
+26_awg
+Termination
+solder
+Termination diameter
+065mm
+reverse_gender_on_request
+Technical information
+Nominal current single contact
+05_a
+iec_60512_5_2
+Nominal current insert
+2,25 A
+vde_0298_4
+Test voltage
+08_kv_ac
+eia_364_20f
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ipsk8_ip6k9k
+Operating temperature
+51_125_c
+Mating cycles
+5000
+mated
+Material and surface treatments
+Housing
+ruthenium
+Contact
+cu_alloy_gold
+S1AYBR-P19XCD0-0000 amc, type_s1
+230523
+1 / 2
+
+safety_text_2
+ul_text
+illustrative_text
+S1AYBR-P19XCD0-0000 amc, type_s1
+230523
+2 / 2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  S1AYBR-P19XCD0-0000

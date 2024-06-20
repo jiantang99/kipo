@@ -1,0 +1,79 @@
+BRA.2F.200.PZSG
+www.lemo.com
+SUMMARY
+# Wires
+Image is for illustrative purpose only
+Series
+2F
+Download
+No contacts / Accessory
+Termination type
+Request a quote
+IP rating
+67
+Catalog
+AWG wire size
+0.00 - 0.00
+Cable Ø
+5.30 - 14.00 mm
+Status
+active
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+BRA*: Cap for receptacle
+Keying
+No keying
+Housing Material
+Weight
+1.77 g
+Performance
+Configuration
+Insulator
+Rated Current
+Others
+  
+  
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+DRAWINGS
+Dimensions
+A
+B
+L
+M
+N
+mm.
+18
+16.5
+12
+5.6
+65.5
+in.
+0,71
+0,65
+0,47
+0,22
+2,58
+RECOMMENDED BY LEMO
+Tools
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  BRA.2F.200.PZSG

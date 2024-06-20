@@ -1,0 +1,130 @@
+M8 Field Attachable Connectors
+RSMC
+RSMC | RKMC
+Male, 3- and 4-Pole
+Field attachable connector, M8 male connector 
+3- and 4-pole with threaded joint, assembling 
+with solder connections.
+RKMC
+Female, 3- and 4-Pole
+Field attachable connector, M8 Female 
+connector 3- and 4-pole with threaded joint, 
+assembling with solder connections.
+Pin Assignments
+Face Views / M12, Male / Female
+3 pole
+4 pole
+6
+6
+5
+4
+5
+4
+7
+7
+3
+3
+1
+2
+1
+2
+8
+8
+298
+1-717-217-2299
+www.lumberg-automationusa.com
+1.800.Belden1  |  www.lumberg-automationusa.com
+
+Field Attachable
+Connectors
+Be Certain with Belden
+M8 Field Attachable Connectors
+RSMC | RKMC
+Technical Data
+Environmental
+Degree of protection  
+IP 67 / NEMA 6P
+Operating temperature range  
+RSMC: -25°C (-13°F) / +80°C (+176°F)
+ 
+RKMC: -40°C (-40°F) / +85°C (+185°F)
+Mechanical 
+Housing / Molded body  
+RSMC: CuZn, nickel-plated
+ 
+RKMC: PBT
+Insert  
+PA
+Contact  
+RSMC: CuZn, pre-nickeled and
+ 
+0.8 microns gold-plated
+ 
+RKMC: CuSn, gold-plated
+Receptacle shell 
+CuZn, nickel-plated
+O-ring 
+FKM (only RKMC)
+Mode of connection 
+Solder connection
+Connectable conductor 
+RSMC: max. 0.34mm2
+ 
+RKMC: max. 0.25 mm2
+Electrical 
+ 
+Contact resistance  
+≤ 5 mΩ
+Nominal current at 40°C  
+4 A
+Nominal voltage  
+3 poles 60 V
+ 
+4 poles 30 V
+Rated voltage  
+3 poles 63 V
+ 
+4 poles 36 V
+Test voltage  
+RSMC:
+ 
+3 poles 1.5 kV eff. / 60 s
+ 
+4 poles 0.8 kV eff. / 60 s
+Insulation resistance  
+> 109 Ω
+Pollution degree  
+3
+Part Number
+Pins
+Cable Diameter Range
+Characteristics
+Male
+Female
+Field Attachable 
+Connectors
+RSMC 3
+RKMC 3
+3
+Ø 3.5-5.0 mm
+RSMC 4
+RKMC 4
+4
+Ø 3.5-5.0 mm
+299
+www.lumberg-automationusa.com
+1-717-217-2299
+1.800.Belden1  |  www.lumberg-automationusa.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Lumberg Automation:  
+ 
+  RSMC 3  RSMC 4  RKMC 3  RKMC 4

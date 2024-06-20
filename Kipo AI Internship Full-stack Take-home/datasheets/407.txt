@@ -1,0 +1,337 @@
+REVISIONS
+REV
+DESCRIPTION
+DATE
+ECO
+APPR
+BY
+--
+RELEASED DRAWING
+Dec-26-2016
+Ben
+A1
+Tommy
+UPDATE NOTES
+Jul-05-2017
+Ben
+A2
+Tommy
+--
+UPDATE DRAWING
+Mar-20-2018
+White
+A3
+Tommy
+--
+MASTER KEYWAY
+15/16"-20 UNEF THREAD
+38.1
+∅25.3
+RTS716*26Sxx XXXX
+19.3
+38.1
+33.4
+Ø28.9+0.2
+0
+     FIXED RUBBER: NBR OR SILICONE RUBBER.
+PART NUMBER
+KEY
+27.6+0.2
+0
+-40°C ~ 125°C
+-40°C ~ 105°C
+N
+RTS716N26S
+RTS716N26S03
+          2.1.1 STAMPED CONTACT 5A (MAX).
+          2.1.2 MACHINED CONTACT 7.5A(MAX).
+SEE TABLE.
+OF:
+SH:
+REV:
+DWG NO:
+TITLE:
+PANEL CUT OUT REFERENCE
+1
+1
+A3
+RTS716*26Sxx
+ECO-MATE,RECEPTACLE,JAM NUT,SIZE 16,26POS,SOCKET. 
+           2 MILLIAMPS  CURRENT LEAKAGE@2000 VOLTS AC.
+ITEM
+DESCRIPTION
+PART NUMBER
+QUANTITY
+MATERIALS LIST
+UNLESS OTHERWISE SPECIFIED
+ IN THE MATED CONDITION,
+SIGNATURES    
+DATE 
+DRAWN:
+Amphenol
+                             PANEL EXTERNAL.
+White
+Mar-20-2018
+CHECKED:
+1) All dimensions are in metric(mm).
+2) Tolerances are as follows:
+1 PL DEC ±0.30
+2 PL DEC ±0.15
+Fractions ±1/64
+Angles ±1°
+Tod
+Mar-20-2018
+3 PL DEC ±0.08
+Sine Systems - www.amphenol-sine.com
+44724 Morley Drive
+ENGINEER:
+X
+3) Note reference =
+     2.8 RoHS COMPLIANT. 
+Clinton Township, MI 48036
+APPROVAL:
+Tommy
+Mar-20-2018
+MATERIAL SPECIFICATIONS:
+CUSTOMER:
+ECO-MATE,RECEPTACLE, JAM NUT,
+4.  ALL DIMENSIONS ARE FOR REFERENCE USE ONLY.
+SIZE 16,26POS,SOCKET. 
+TYPE
+SIZE
+PROCESS SPECIFICATIONS:
+REVISION
+DWG NO:
+ 
+C-
+B
+RTS716*26Sxx
+A3
+NEXT ASS'Y:
+SCALE:
+THIS DRAWING IS SUPPLIED FOR 
+INFORMATION ONLY. DESIGN FEATURES, 
+SPECIFICATIONS AND PERFORMANCE DATA 
+SHOWN HEREON ARE THE PROPERTY OF 
+THE AMPHENOL CORPORATION. NO RIGHTS 
+OF REPRODUCTION ARE IMPLIED. ALL 
+DIMENSIONS ARE SUBJECT TO NORMAL 
+MANUFACTURING VARIATIONS.
+SHEET
+OF
+NONE
+1
+1
+
+ecomate® RM/RSSM/Aquarius™ - Contact Size 20 Options
+Crimp Contacts, Machined
+Crimp Contacts, Stamped & Formed
+Part Number
+AWG
+Wire Range (mm²)
+Plating
+Part Number
+AWG
+Wire Range 
+(mm²)
+Plating
+Male
+Female
+Male
+Female
+MP20W23F
+MS20W23F
+22-20
+0.34-0.50
+Gold Flash
+SP20W2F
+SS20W2F
+22-20
+0.34-0.50
+Gold Flash
+MP20W23G5
+MS20W23G5
+22-20
+0.34-0.50
+Gold 5µ”
+SP20W2G5
+SS20W2G5
+22-20
+0.34-0.50
+Gold 5µ”
+MP20W23G10
+MS20W23G10
+22-20
+0.34-0.50
+Gold 10µ”
+SP20W2G10
+SS20W2G10
+22-20
+0.34-0.50
+Gold 10µ”
+MP20W23G15
+MS20W23G15
+22-20
+0.34-0.50
+Gold 15µ”
+SP20W2G15
+SS20W2G15
+22-20
+0.34-0.50
+Gold 15µ”
+MP20W23G30
+MS20W23G30
+22-20
+0.34-0.50
+Gold 30µ”
+SP20W2G30
+SS20W2G30
+22-20
+0.34-0.50
+Gold 30µ”
+MP24W23F
+MS24W23F
+26-24
+0.13-0.25
+Gold Flash
+SP24W2F
+SS24W2F
+26-24
+0.14-0.25
+Gold Flash
+MP24W23G5
+MS24W23G5
+26-24
+0.13-0.25
+Gold 5µ”
+SP24W2G5
+SS24W2G5
+26-24
+0.14-0.25
+Gold 5µ”
+MP24W23G10
+MS24W23G10
+26-24
+0.13-0.25
+Gold 10µ”
+SP24W2G10
+SS24W2G10
+26-24
+0.14-0.25
+Gold 10µ”
+MP24W23G15
+MS24W23G15
+26-24
+0.13-0.25
+Gold 15µ”
+SP24W2G15
+SS24W2G15
+26-24
+0.14-0.25
+Gold 15µ”
+MP24W23G30
+MS24W23G30
+26-24
+0.13-0.25
+Gold 30µ”
+SP24W2G30
+SS24W2G30
+26-24
+0.14-0.25
+Gold 30µ”
+MP28W23F
+MS28W23F
+30-28
+0.05-0.08
+Gold Flash
+SP28W2F
+SS28W2F
+30-28
+0.05-0.08
+Gold Flash
+MP28W23G5
+MS28W23G5
+30-28
+0.05-0.08
+Gold 5µ”
+SP28W2G5
+SS28W2G5
+30-28
+0.05-0.08
+Gold 5µ”
+MP28W23G10
+MS28W23G10
+30-28
+0.05-0.08
+Gold 10µ”
+SP28W2G10
+SS28W2G10
+30-28
+0.05-0.08
+Gold 10µ”
+MP28W23G15
+MS28W23G15
+30-28
+0.05-0.08
+Gold 15µ”
+SP28W2G15
+SS28W2G15
+30-28
+0.05-0.08
+Gold 15µ”
+MP28W23G30
+MS28W23G30
+30-28
+0.05-0.08
+Gold 30µ”
+SP28W2G30
+SS28W2G30
+30-28
+0.05-0.08
+Gold 30µ”
+Tooling, Machined
+Tooling, Stamped & Formed
+Part Number
+Description
+Part Number
+Description
+QXRT20
+Contact Extraction Tool, #20 (Ø 1.0) Contact
+QXRT20
+Contact Extraction Tool, #20 (Ø 1.0) Contact
+MFX-3959
+Hand Crimp Tool for Machined Contacts
+MFX-3958
+Hand Tool, Stamped & Formed Contact, Size 20, 20-28AWG
+MFX-3960
+Pneumatic Crimp Tool for Machined Contact
+MFX-3957
+Crimp Die for Stamped & Formed Contact
+Plating Options, All
+Misc Tooling, All
+Symbol
+Plating
+Part Number
+Description
+T
+Tin Plated (for Stamped & Formed Contacts)
+CA-4020-59
+Sealing Plug, Size 16 & 20
+S
+Silver Plated 5Um (for Machined Contacts)
+F
+Gold Plated
+Standard Quantity Order Options
+G5
+Gold Plated (Thickness 5µ”)
+Machined
+Stamped & Formed
+G10
+Gold Plated (Thickness 10µ”)
+Bulk Package, 500 Pieces
+Reel, 3000 Pieces
+G15
+Gold Plated (Thickness 15µ”)
+G30
+Gold Plated (Thickness 30µ”)
+Amphenol Sine Systems  44724 Morley Drive, Clinton Township, MI 48036 USA  www.amphenol-sine.com  09/2021

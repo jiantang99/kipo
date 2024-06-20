@@ -1,0 +1,267 @@
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Bus system flush-type socket, Ethernet, 4-pos., M12 SPEEDCON, D-coded, rear/screw mounting with Pg9
+thread, with straight solder connection
+Your advantages
+ Easy PCB assembly: one-piece connectors for wave soldering
+ All standard pin assignments and codings for signal, data, and power transmission with a uniform design-in design
+ SPEEDCON fast locking system reduces cabling times
+Key Commercial Data
+Packing unit
+20 pc
+GTIN
+GTIN
+4046356153638
+Technical data
+Dimensions
+Length of the solder pin
+6 mm
+Ambient conditions
+Ambient temperature (operation)
+-25 °C ... 85 °C (Plug / socket)
+-40 °C ... 85 °C (without mechanical actuation)
+Degree of protection
+IP67 (When plugged in)
+IP65 (When plugged in)
+General
+Note
+The electrical and mechanical data specified assume that the connector
+pair is correctly locked and mounted. If the connector is unlocked and if
+there is a danger of contamination, the connector must be sealed using
+a protective cap > IP54. Influences arising from litz wires, cables or PCB
+assembly must also be taken into consideration.
+Rated current at 40°C
+4 A
+Rated voltage
+250 V
+09/11/2020   Page 1 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Technical data
+General
+Rated surge voltage
+2.5 kV
+Number of positions
+4
+Insulation resistance
+≥ 100 MΩ
+Coding
+D - data
+Standards/regulations
+M12 connector IEC 61076-2-101
+Status display
+No
+Overvoltage category
+II
+Degree of pollution
+3
+Connection method
+Solder pins
+Insertion/withdrawal cycles
+> 100
+Torque
+3 Nm ... 4 Nm
+Mounting type
+Rear mounting Pg9 With flat nut
+Material
+Flammability rating according to UL 94
+V0
+Contact material
+CuZn
+Contact surface material
+Au
+Contact carrier material
+PA 6.6
+Material, knurls
+Zinc die-cast, nickel-plated
+Sealing material
+NBR
+Standards and Regulations
+Standards/specifications
+M12 connector IEC 61076-2-101
+Flammability rating according to UL 94
+V0
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 2 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Drilling diagram
+M12 flush-type connector
+09/11/2020   Page 3 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Dimensional drawing
+M12 front view
+09/11/2020   Page 4 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Dimensional drawing
+Housing cutout for Pg9 fastening thread, mounting panel with feed-through hole (alternatively with area as anti-rotation protection for panel
+thicknesses > 2 mm up to max. 4.5 mm)
+09/11/2020   Page 5 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Dimensional drawing
+M12 flush-type connector
+09/11/2020   Page 6 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Schematic diagram
+Pin assignment M12 socket, 4-pos., D-coded, female side
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 4.0
+27140800
+eCl@ss 4.1
+27140800
+eCl@ss 5.0
+27143400
+eCl@ss 5.1
+27143400
+eCl@ss 6.0
+27279200
+eCl@ss 7.0
+27440103
+eCl@ss 8.0
+27440103
+eCl@ss 9.0
+27440102
+09/11/2020   Page 7 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Classifications
+ETIM
+ETIM 3.0
+EC002061
+ETIM 4.0
+EC000830
+ETIM 5.0
+EC002061
+ETIM 6.0
+EC002061
+UNSPSC
+UNSPSC 6.01
+31261501
+UNSPSC 7.0901
+31261501
+UNSPSC 11
+31261501
+UNSPSC 12.01
+31261501
+UNSPSC 13.2
+39121413
+UNSPSC 18.0
+39121413
+UNSPSC 19.0
+39121413
+UNSPSC 20.0
+39121413
+UNSPSC 21.0
+39121413
+Approvals
+Approvals
+Approvals
+UL Recognized / EAC / cULus Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm
+ FILE E 118976
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+250 V
+Nominal current IN
+4 A
+mm²/AWG/kcmil
+22
+ 
+ B.01687
+EAC 
+
+09/11/2020   Page 8 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Approvals
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm  E221474-20140616
+cULus Recognized 
+
+ 
+ 
+Nominal voltage UN
+250 V
+Nominal current IN
+4 A
+mm²/AWG/kcmil
+22-20
+Accessories
+Accessories
+Plug for cable screw gland
+Screw plug - PROT-M12 - 1680539
+An M12 screw plug for the unoccupied M12 sockets of the sensor/actuator cable, boxes and flush-type connectors
+ 
+ 
+Screw plug - PROT-M12 SH - 1503302
+An M12 screw plug for the unoccupied M12 sockets of the shielded sensor/actuator cable, boxes and flush-type
+connectors
+ 
+ 
+Screw plug - PROT-M12 FB - 1555538
+M12 high-grade steel screw plug, for unoccupied M12 sockets of the sensor/actuator cables, boxes and flush-type
+connectors for the food industry
+ 
+ 
+Seal
+Flat gasket - SACC-PG9-SEAL CLM - 1556320
+Pg9 flat gasket for the rear mounting of M12 flush-type connectors with Pg9 fastening threads
+ 
+ 
+09/11/2020   Page 9 / 10
+
+https://www.phoenixcontact.com/pi/products/1551503
+Bus system flat-type plug - SACC-DSI-FSD-4CON-L180 SCO - 1551503
+Accessories
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 10 / 10
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1551503

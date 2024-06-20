@@ -1,0 +1,128 @@
+https://www.phoenixcontact.com/pi/products/1503302
+Screw plug - PROT-M12 SH - 1503302
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+An M12 screw plug for the unoccupied M12 sockets of the shielded sensor/actuator cable, boxes and flush-
+type connectors
+Key Commercial Data
+Packing unit
+5 pc
+Minimum order quantity
+5 pc
+GTIN
+GTIN
+4017918910020
+Technical data
+Ambient conditions
+Degree of protection
+IP67
+General
+Note
+Use up to max. 48 V AC and 60 V DC
+Not suitable for M12 sockets with K, L, or M coding
+Material
+Material
+Aluminum
+Environmental Product Compliance
+REACh SVHC
+Lead 7439-92-1
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/11/2020   Page 1 / 3
+
+https://www.phoenixcontact.com/pi/products/1503302
+Screw plug - PROT-M12 SH - 1503302
+Dimensional drawing
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+23111190
+eCl@ss 4.0
+23111100
+eCl@ss 4.1
+23111100
+eCl@ss 5.0
+23111100
+eCl@ss 5.1
+23111100
+eCl@ss 6.0
+23111100
+eCl@ss 7.0
+23111190
+eCl@ss 8.0
+23111190
+eCl@ss 9.0
+23111190
+ETIM
+ETIM 2.0
+EC000241
+ETIM 3.0
+EC002040
+ETIM 4.0
+EC002040
+ETIM 5.0
+EC000032
+ETIM 6.0
+EC000032
+ETIM 7.0
+EC000032
+UNSPSC
+UNSPSC 6.01
+30212113
+UNSPSC 7.0901
+39121712
+UNSPSC 11
+39121712
+UNSPSC 12.01
+39121712
+UNSPSC 13.2
+31161501
+UNSPSC 18.0
+31261502
+09/11/2020   Page 2 / 3
+
+https://www.phoenixcontact.com/pi/products/1503302
+Screw plug - PROT-M12 SH - 1503302
+Classifications
+UNSPSC
+UNSPSC 19.0
+31261502
+UNSPSC 20.0
+31261502
+UNSPSC 21.0
+31261502
+Accessories
+Accessories
+Screwdriver tools
+Screwdriver - SZF 3-1,0X5,5 - 1206612
+Actuation tool, for ST terminal blocks, also suitable for use as a bladed screwdriver, size: 1.0 x 5.5 x 150 mm, 2-
+component grip, with non-slip grip
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/11/2020   Page 3 / 3
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1503302

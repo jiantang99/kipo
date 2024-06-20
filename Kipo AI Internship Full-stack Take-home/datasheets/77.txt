@@ -1,0 +1,122 @@
+1.125
+ REF
+[28,56]
+.906
+[23,01]
+SQUARE
+.908
+[23,05]
+PCB Stickout .150
+[3,81]
+.812
+[20,62]
+SQUARE
+.818
+[20,76]
+For mating dimensions 
+see MIL-DTL-38999 Series III
+For rear shell features 
+and accessories see 
+MIL-DTL-38999 Series III
+Reference MIL-STD-1560 
+for insert arrangement details. 
+For non-MS arrangements 
+consult Amphenol.
+1.231
+[31,27]
+.130
+[3,3]
+.005
+.196
+[4,98]
+4 PLACES
+.005
+4 PLACES
+AMPHENOL CORPORATION
+40-60 DELAWARE AVENUE
+SIDNEY, N.Y. 13838
+U
+RECEPTACLE
+Electrical Connector
+TVPS00
+Meets applicable requirements 
+of MIL-DTL-38999
+SIZE
+C
+CAGE CODE
+77820
+CODED NUMBER
+TVPS00DS-13-4P(P15)
+REV
+X1
+Base Material: Aluminum
+Plating: AP-93
+NOTE:
+          -DRAWING NOT TO SCALE
+          -DIMENSIONS SUBJECT TO CHANGE
+          -DIMENSIONS ARE IN INCHES [MM]
+ 
+PROPERTY OF AMPHENOL AEROSPACE. ALL RIGHTS RESERVED.
+SHEET 1 OF 1
+2
+1
+3
+4
+
+Insert Arrangement
+No. of Contacts
+4
+Contact Size
+16
+Wire Size
+20, 18, 16
+Shell Size
+13
+Arrangement
+4
+Service Rating
+I
+Test Current
+13 AMPS
+AMPHENOL CORPORATION
+40-60 DELAWARE AVENUE
+SIDNEY, N.Y. 13838
+RECEPTACLE
+Electrical Connector
+TVPS00
+SIZE
+C
+CAGE CODE
+77820
+CODED NUMBER
+TVPS00DS-13-4P(P15)
+REV
+X1
+U
+NOTE:
+          -DRAWING NOT TO SCALE
+          -DIMENSIONS SUBJECT TO CHANGE
+          -DIMENSIONS ARE IN INCHES [MM]
+ 
+PROPERTY OF AMPHENOL AEROSPACE. ALL RIGHTS RESERVED.
+SHEET 1 OF 1
+2
+1
+3
+4
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Amphenol:  
+ 
+  TVPS00DS-13-4P  TVPS00DS-15-19P  TVPS00DS-17-35P  TVPS00DS-19-11P  TVPS00DS-21-35P  TVPS00DS-23-
+35P  TVPS00DS-25-37P  TVPS00DS-9-35P  TVS06DS-13-4S  TVS06DS-15-19S  TVS06DS-17-35S  TVS06DS-19-
+11S  TVS06DS-21-35S  TVS06DS-23-35S  TVS06DS-25-37S  TVS06DS-9-35S  TVS07DS-13-4P  TVS07DS-15-19P 
+TVS07DS-17-35P  TVS07DS-19-11P  TVS07DS-21-35P  TVS07DS-23-35P  TVS07DS-25-37P  TVS07DS-9-35P

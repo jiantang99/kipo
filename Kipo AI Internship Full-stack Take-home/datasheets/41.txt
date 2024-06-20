@@ -1,0 +1,1288 @@
+Miniature Waterproof Plastic Connectors 
+HR30 Series 
+Mated dimensions 
+32.3
+3 and 6 pos.
+Ø12.6
+42.1
+10 and 12 pos.
+Ø15.5
+Fig.1
+Lock/release operation
+ Features
+1. Small-size with low profile
+Push-pull- single action lock
+  
+  
+  
+Fig.2
+3, 6 contacts :   Maximum outer diameter Ø12.6mm
+Mated length 32.3mm (from the 
+panel surface)
+10, 12 contacts :     Maximum outer diameter Ø15.5mm 
+Mated length 42.1mm (from the 
+panel surface)
+These small, compact connectors offer unique 
+features available only from Hirose.
+2. Waterproof construction
+Alignment marks
+IP67 and 68 waterproof construction in the mated state
+IP67 : Left submerged in water at a depth of 1m for 30 minutes
+IP68 : Left submerged in water at a depth of 2m for 14 days
+3. Push/pull lock
+Push-pull locking collar
+Waterproof connectors feature an easy to operate 
+push/pull locks developed with our exclusive 
+technology.
+4. Light weight
+3 and 6 contacts: 6g (plug + receptacle)
+10 and 12 contacts: 9g (plug + receptacle)
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+5.  Clamp structure
+Our proprietary clamping method allows clamping 
+the cable by simply tightening the cord ring.
+6. Easy mating operation
+Polarized interface
+The plug can be securely locked while holding it in 
+your hand while mating. (Fig.2)
+Fig.3
+7. Mis-insertion prevention
+Mating portions are polarized to avoid improper 
+mating and connector damage.
+8. Mating mark
+Both the plug and the receptacle feature a white 
+index mark on them which is used to quickly align 
+the two interfaces for proper mating.(Fig.3)
+9. Complies with the RoHS requirements
+In consideration of environmental issues, we use 
+only materials that comply with the RoHS Directive.
+1
+2021.7⑦
+In cases where the application will demand a high level of reliability, such as automotive, 
+please contact a company representative for further information.
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Product Speciﬁ cations 
+Ratings
+Current rating
+5A (3 pos.)
+2A (6,10,12 pos.)
+Operation Temperature Range 
+-25ç to +85ç
+Voltage rating
+100V AC,140V DC(3,6 pos.)
+30V AC,42V DC(10,12 pos.)
+StorageTemperature Range 
+-10ç to +60ç
+Characteristic
+Speciﬁ cation
+Conditions
+1. Contact 
+resistance 
+5mø max. (3 pos.) 
+15mø max. (Solder type : 6, 10, and 12 pos.)
+30mø max. (Through hole type: 6 and 12 pos.)
+1A DC 
+2. Insulation 
+resistance 
+1000Mø min.
+100V DC
+3. Withstanding 
+voltage 
+No ﬂ ashover or insulation breakdown 
+300V AC / 1minute 
+4. Vibration
+No electrical discontinuity of 10µs or more
+Frequency : 10 to 55 Hz, single amplitude of 0.75mm,
+1 cycle= 5min, 10 cycles in each of the 3 directions. 
+5. Durability 
+(mating/un-mating) 
+Contact resistance 10mø min.(3 pos.) 
+Contact resistance 30mø min. (Solder type: 6, 10, and 12 pos.)
+Contact resistance 100mø min. (Through hole type: 6 and 12 pos.)
+1000 cycles
+6. Temperature 
+cycle 
+Insulation resistance 100Mø min.
+(-55ç : 30 minutes → Room temperature : 10 to 15 
+minutes → +85ç : 30 minutes → Room temperature : 
+10 to 15 minutes) for 5 cycles
+7. Humidity 
+resistance 
+96 hours at temperature of 40ç and humidity of 
+90% to 95% 
+Insulation resistance  
+ 
+10Mø min. (when humidity high) 
+ 
+100Mø min. (when dry) 
+8. Waterproof 
+performance
+No water penetration inside.
+While mated with corresponding or protective cap 
+submerged at depth of 1m for half hour.
+ Material / Finish
+Assembly
+Component
+Material 
+Finish 
+Remarks
+PPS
+Black
+UL94V-0
+PBT
+Black
+UL94V-0
+Insulator 
+Polyacetal
+Natural
+----------
+Plug
+Gasket
+Silicone rubber, chloroprene 
+rubber
+Red/Black
+----------
+Contacts
+Brass, phosphor bronze, 
+Copper compound metal
+Gold plated
+----------
+Spring 
+Stainless steel 
+----------
+----------
+Insulator 
+PPS
+Black
+UL94V-0
+Gasket 
+Chloroprene rubber
+Black
+----------
+Receptacles
+Contacts
+Brass, phosphor bronze, 
+Copper compound metal
+Gold plated
+----------
+Hexagonal nut 
+Zinc alloy 
+Chromate
+----------
+Washer 
+Phosphor bronze 
+Nickel plated
+----------
+Crimp contact 
+(male/female)
+Contacts 
+Phosphor bronze 
+Selective gold plated
+----------
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+ Product Number Structure 
+Refer to the chart below when determining the product specifications from the product number.
+Please select from the product numbers listed in this catalog when placing orders.
+HR30  -  6  P  A  -  6  S  C  (* *)
+q
+w
+e
+r
+t
+y
+u
+i
+w Shell size 
+: Outside diameter/plug mating side
+q Model name 
+: HR30  
+t Number of Contacts : 3, 6, 10 and 12
+y Contact type 
+S 
+: Female contact 
+ 
+P  
+: Male contact 
+e Connector type : P : Plug 
+Connector type 
+: R : Receptacle 
+Connector type 
+: J : Jack
+r Variation
+u Contact wiring type 
+ 
+Blank : Solder
+ 
+C 
+: Crimping 
+ 
+D 
+: Through hole
+ 
+Blank : Standard 
+ 
+A 
+: Fine wire  
+ 
+B, D : Over mold type  
+i Other specifications: 
+A two-digit character is added to indicate other 
+specifications as needed.
+2
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Plugs 
+ Solder Type
+HR30-6P-6S (31)
+A(Fully tightened)
+Applicable 
+cable diameter  
+1
+6
+2
+5
+B
+    
+3
+4
+(Representative example)
+Part No.
+HRS No.
+A
+B
+Applicable cable diameter range Solder pot inner diameter
+Weight 
+HR30-6P-3S(31)
+130-0004-1 31
+29.8
+4.2 to 5 
+1.1 mm 
+12.6
+4g
+HR30-6P-6S(31)
+130-0010-4 31
+0.8 mm
+HR30-6P-6P(31)
+130-0009-5 31
+30.3
+HR30-6PA-3S(71)
+130-0021-0 71
+29.8
+3.5 to 4.3
+1.1 mm
+HR30-6PA-6S(71)
+130-0019-9 71
+0.8 mm
+HR30-6PA-6P(71)
+130-0020-8 71
+30.3
+HR30-7P-12S(71)
+130-0027-7 71
+39.8
+15.5
+6.2 to 7
+0.6 mm
+6.7g
+HR30-8P-12P(71)
+130-0026-4 71
+ Crimp Type 
+HR30-7P-12SC (71)
+A(Fully tightened)
+Applicable
+cable diameter 
+Ø15.5
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+(Representative example)
+Shown with contacts installed.
+Part No.
+HRS No.
+A
+Applicable cable diameter range
+Crimp contact
+Weight 
+HR30-7P-10SC(71)
+130-0013-2 71
+39.8
+6.2 to 7 
+HR30-SC-211 
+6g
+HR30-7P-12SC(71)
+130-0014-5 71
+HR30-8P-12PC(71)
+130-0015-8 71
+HR30-PC-211 
+3
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Plug for overmolds
+ Solder Type
+HR30-6PB-6S
+A
+ØC
+ØB
+Part No.
+HRS No.
+A
+B
+C
+Solder pot inner diameter
+Weight 
+HR30-6PB-3S
+130-0034-2
+22.7
+12.6
+5.2
+1.1 mm
+3.1g
+HR30-6PB-6S
+130-0032-7
+0.8 mm
+2.9g
+HR30-6PD-6P
+130-0041-8
+23.2
+HR30-7PB-12S
+130-0035-5
+25.9
+15.5
+6.4
+0.6 mm
+4.7g
+HR30-8PB-12P
+130-0030-1
+4.5g
+ Crimp Type
+HR30-8PB-12PC
+25.9
+Ø6.4
+Ø15.5
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Part No.
+HRS No.
+Crimp contact
+Weight 
+HR30-7PB-10SC
+130-0036-8
+HR30-SC-211
+4.1g
+HR30-7PB-12SC
+130-0033-0
+HR30-8PB-12PC
+130-0031-4
+HR30-PC-211
+4.3g
+4
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Receptacles 
+ Solder Type 
+A
+HR30-6R-6P (71)
+Gasket 
+B
+  
+1
+6
+2
+C
+D
+5
+  
+  
+3
+4
+E(Thread)
+F(Hex nut)
+(Representative example)
+Part No.
+HRS No.
+A
+B
+C
+D
+E
+F
+Solder pot inner diameter Weight 
+HR30-6R-3P(71)
+130-1003-4 71
+16
+8.3
+12
+8.9
+M8∞0.75
+10
+1.1mm
+2g
+HR30-6R-6P(71)
+130-1009-0 71
+0.8mm
+HR30-6R-6S(71)
+130-1008-8 71
+18.4
+HR30-7R-12P(31)
+130-1016-6 31
+18.6
+9.3
+15
+11.5
+M11∞1
+13
+0.6mm
+3.4g
+HR30-8R-12S(31)
+130-1018-1 31
+ Crimp Type 
+15.5
+HR30-7R-12PC (31)
+9.3
+Gasket 
+Ø15
+Ø11.5
+M11X1(Thread)
+13(Hex nut)
+Shown with contacts installed.
+Shown with contacts installed.
+(Representative example)
+Part No.
+HRS No.
+Crimp contact
+Weight 
+HR30-7R-10PC(31)
+130-1012-5 31
+HR30-PC-211 
+3g
+HR30-7R-12PC(31)
+130-1013-8 31
+HR30-8R-12SC(31)
+130-1014-0 31
+HR30-SC-211 
+ Through hole Type
+A
+HR30-8R-12SD (31)
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+B
+2
+D
+C
+Through hole post
+(0.2∞0.5)
+E
+F(Hex nut)
+(Representative example)
+Gasket
+Part No.
+HRS No.
+A
+B
+C
+D
+E
+F
+Weight 
+HR30-6R-6PD(71)
+130-1020-3 71
+14.9
+8.3
+12
+8.9
+M8∞0.75
+10
+2g
+HR30-6R-6SD(71)
+130-1021-6 71
+15.2
+HR30-7R-12PD(31)
+130-1017-9 31
+16
+9.3
+15
+11.5
+M11∞1
+13
+3.4g
+HR30-8R-12SD(31)
+130-1019-4 31
+5
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Jacks 
+ Solder Type
+HR30-6J-6P (31)
+B(Fully tightened)
+Applicable 
+cable diameter  
+A
+1
+6
+2
+5
+3
+4
+(Representative example)
+Part No.
+HRS No.
+A
+B
+Applicable cable diameter range Solder pot inner diameter
+Weight
+HR30-6J-6P(31)
+130-2009-6 31
+12
+28.8
+4.2 to 5
+ 0.8 mm
+3g
+HR30-6JA-6P(71)
+130-2018-7 71
+3.5 to 4.3
+HR30-7J-12P(71)
+130-2020-9 71
+15
+37.3
+6.2 to 7
+ 0.6 mm
+5.7g
+HR30-8J-12S(71)
+130-2019-0 71
+5.9g
+ Crimp Type
+HR30-7J-12PC (71)
+37.3
+(Fully tightened)
+Applicable 
+cable diameter  
+Ø15
+(Representative example)
+Shown with contacts installed.
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Part No.
+HRS No.
+Applicable cable diameter range
+Crimp contact
+Weight
+HR30-7J-10PC(71)
+130-2015-9 71
+6.2 to 7 
+HR30-PC-211
+5g
+HR30-7J-12PC(71)
+130-2017-4 71
+HR30-8J-12SC(71)
+130-2016-1 71
+HR30-SC-211
+6
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Jack for overmolds
+ Solder Type
+HR30-6JB-6P
+A
+B
+C
+Part No.
+HRS No.
+A
+B
+C
+Solder pot inner diameter
+Weight
+HR30-6JB-3P
+130-2029-0
+12.7
+ 1.1mm
+2.3g
+21.7
+5.2
+HR30-6JB-6P
+130-2021-1
+12
+ 0.8mm
+2.2g
+HR30-6JB-6S
+130-2028-0
+12.7
+2.3g
+HR30-7JB-12P
+130-2023-7
+15
+23.7
+6.4
+ 0.6mm
+3.6g
+HR30-8JB-12S
+130-2024-0
+4.1g
+ Crimp Type
+HR30-8JB-12SC
+23.7
+Ø15
+Ø6.4
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Part No.
+HRS No.
+Crimp contact
+Weight
+HR30-7JB-10PC
+130-2025-2
+HR30-PC-211
+3.1g
+HR30-7JB-12PC
+130-2022-4
+HR30-8JB-12SC
+130-2026-5
+HR30-SC-211
+7
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Caps 
+ For Plugs
+HR30-6P-C (31)
+ØB
+ØD
+1
+1.4
+C
+ØA
+ØE
+(Representative example)
+Part No.
+HRS No.
+A
+B
+C
+D
+E
+Applicable cable diameter
+Weight
+HR30-6P-C(31)
+130-3000-7 31
+13
+8.4
+8.9
+4
+8.8
+Ø4.2 to 5
+1g
+HR30-7P-C(31)
+130-3004-8 31
+16
+10.4
+10.5
+6
+11.4
+Ø6.2 to 7
+2g
+HR30-8P-C(31)
+130-3003-5 31
+ For Receptacle
+HR30-6R-C (31)
+ØB
+1.4
+0.9
+C
+ØA
+ØE
+ØD
+(Representative example)
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Part No.
+HRS No.
+A
+B
+C
+D
+E
+Remarks
+Weight
+HR30-6R-C(31)
+130-3001-0 31
+12.6
+11.8
+7.5
+12.1
+9.1
+1g
+HR30-7R-C(31)
+130-3002-2 31
+15.5
+14.8
+8.5
+15
+12.1
+This cap ﬁ ts each size of 
+the HR30-7R and HR30-8R 
+receptacles
+Note :   When using these caps, do not use the gasket that is normally supplied with the receptacle.  
+ The “B” diameter end of the receptacle cap will serve as the gasket.
+8
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Crimp Contacts 
+Male contact 
+Female contact 
+1.2
+1.2
+A
+A
+1.15
+0.82
+1.15
+0.82
+A
+A
+11
+A-A cross-section 
+11
+A-A cross-section 
+(Representative example)
+(Representative example)
+Type
+Part No.
+HRS No.
+Packaging 
+Type
+Part No.
+HRS No.
+Packaging 
+type
+Weight 
+type
+Weight 
+Loose contact HR30-PC-111 130-0022-3
+100pcs/pack
+0.03g/1 pin
+Loose contact HR30-SC-111 130-0023-6
+100pcs/pack
+0.03g/1 pin
+Reel contact HR30-PC-211 130-0016-0 10,000pcs/reel
+0.03g/1 pin
+Reel contact HR30-SC-211 130-0017-3 10,000pcs/reel 0.03g/1 pin
+Note : Use wire size 26 to 30 AWG with a jacket diameter of 1 mm max. 
+ Diagrams of Connectors in Combination
+Plugs
+HR30-*P-**(71)
+Receptacles 
+HR30-*R-**(71)
+Jacks 
+HR30-*J-**(71)
+Caps for Receptacle
+HR30-*R-C(71)
+Caps for Plug
+HR30-*P-C(71)
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Note 1  :   Please use connectors with compatible shell size and number of contacts. If you are using a male contact plug, please also 
+use a corresponding product with a female receptacle and a jack.
+Note 2 :   Please install the applicable crimping contacts when using the crimping style connectors. 
+(Please refer to the manual for wiring work.)
+Note 3 :   When using the cap on the receptacle side, do not use the gasket that is normally supplied with the receptacle. The Hirose 
+cap has the necessary gasket as part of the cap unit.
+ Cap mounting diagram
+Panel
+Cable
+Cap
+Cap
+9
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Applicable Tools
+ Cable Assembly Tools
+Part No.
+HRS No.
+Applicable Connectors 
+Shell size
+Connector type
+No. of contacts
+Contact type
+HR30-6P-3S-T01
+150-0220-1
+3
+Female
+6
+Plug
+HR30-6P-6S-T01
+150-0214-9
+6
+Female
+HR30-6P-6P-T01
+150-0221-4
+Male
+HR30-7P-10SC-T01
+150-0228-3
+7
+Plug
+10
+Female
+HR30-7P-12SC-T01
+150-0223-0
+12
+Female
+HR30-8P-12PC-T01
+150-0227-0
+8
+Plug
+12
+Male
+3
+Male
+HR30-6R-3P-T01
+150-0225-5
+6
+Receptacle 
+Jack
+HR30-6R-6P-T01
+150-0218-0 
+6
+Male
+HR30-6R-6S-T01
+150-0222-7
+Female
+10
+Male
+HR30-7J-10PC-T01
+150-0231-8
+7
+Receptacle 
+Jack
+HR30-7J-12PC-T01
+150-0230-5
+12
+Male
+HR30-8J-12SC-T01
+150-0226-8
+8
+Female
+Note :   Wiring for soldering or disassembly and assembly of plugs and jacks can be accomplished more efﬁ ciently when using 
+the cable assembly tool.
+ Tightening collar for back shell
+Part No.
+HRS No.
+Applicable Connectors 
+HR30-6P-T02
+150-0216-4
+3 and 6 contacts
+HR30-8P-T02
+150-0224-2
+10 and 12 contacts
+Note :   The code ring tightening collar is used to tighten the cord ring to the speciﬁ ed torque.  
+(Please refer to the manual for assembly procedures.)
+Solder termination fixture
+Back shell tightening collar
+HR30-6P-6S-T01
+HR30-6R-6P-T01
+HR30-6P-T02
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+10
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Applicable Tools
+Type
+Description
+Part No.
+HRS No.
+Applicable contact
+Applicable wire
+Manual
+Manual crimping tool 
+HT-102/HR30-1
+150-0229-6
+HR30-SC-111
+AWG26 to 30
+HR30-PC-111
+Automatic crimping machine
+CM-105C
+901-0001-0
+––––––
+––––––
+Automatic
+Applicator
+AP105-HR30-1
+901-2015-9
+HR30-SC-211
+AWG26 to 30
+HR30-PC-211
+HR30-SC-111
+––––––
+HR30-SC-211
+Extraction tool 
+HR30-TP
+150-0219-2
+HR30-PC-111
+––––––
+HR30-PC-211
+Manual contact crimping tool HT-102/HR30-1 
+Automatic contact crimping machine CM-105C 
+Contact extraction tool HR30-TP 
+ Receptacle, Board Mounting Through Hole Pattern
+2.16
+2.16
+2.16
+2.16
+0.9
+0.9
+6-Ø0.65
+6-Ø0.65
+0.9
+0.9
+1.44
+1.44
+1.44
+1.44
+12-Ø0.65
+12-Ø0.65
+6
+1
+3
+1
+1
+3
+1
+5
+2
+7
+4
+4
+7
+5
+4
+2
+6
+8
+10
+10
+8
+1.56
+1.56
+1.35
+1.6
+3
+4
+3
+12
+11
+11
+12
+0.49
+0.48
+0.87
+2.22
+1.83
+0.48
+0.87
+2.22
+1.83
+0.9
+0.9
+0.72
+0.72
+0.72
+0.72
+1.52
+1.52
+1.81.8
+6R-6PD
+6R-6SD
+7R-12PD
+8R-12SD
+Remark : 1. The receptacle through hole conﬁ guration depicts a view from the mating side of the connector.
+ 
+2.The above Δ mark indicates the guide key position.
+ 
+3.The recommended board maximum thickness :1.2mm.
+ 
+4. Tolerance of +0.03mm is recommended for the plated through hole location. Tolerance of +0.02mm is recommended 
+for the plated through hole diameter.
+ Contact Position Arrangement
+ Panel Cutout
+Alignment mark
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Alignment mark
+A
++0.05
+ 0
+D
++0.05
+ 0
+6
+5
+1
+1
+3
+1
+6
+2
+5
+2
+3
+4
+3
+4
+2
+HR30-6P-6P(**)
+HR30-6P-6S(**)
+HR30-6P-3S(**)
+B
++0.05
+ 0
+ØC
++0.05
+ 0
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+5
+6
+7
+4
+5
+6
+7
+4
+5
+6
+7
+8
+9
+10
+8
+9
+10
+8
+9
+10
+12
+11
+12
+11
+HR30-7P-10SC(**) HR30-7P-12SC(**)
+HR30-8P-12PC(**)
+A
+B
+C
+D
+Panel 
+Thishness
+3,6 pos.
+1.25
+6.45
+8.05
+3.95
+0.7 to 2
+10,12 pos. 1.35
+9.25
+11.05
+5.45
+0.7 to 3
+Remarks : 1. The contact arrangement depicts a view from the wiring side.
+ 
+ 2.   Installation is accomplished by securing the receptacle from the back side of the panel using the supplied hexagon 
+nut. The tightening torque of the hexagon nut should be 0.5 N·m for 3, 6 contacts, and 0.8 N·m for 10, 12 contacts.
+In addition, in order to prevent loosening, please apply Locktight 263 and Lockprimer 7649 manufactured by Henkel Japan Ltd., Tokyo.
+11
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Assembly Procedures
+Plug Assembly Sequence
+Push/pull locking collar
+Seal bushing
+Back shell 
+Insulator/contact assembly
+Spring 
+Strain relief
+A
+B
+Cable
+1
+A
+B
+5.5mm max. 
+2mm
+Solder type : 3 and 6 Contacts.
+10mm max. 
+2mm 
+Solder type : 12 Contacts.
+15 to 20mm
+Crimp type : 10 and 12 Contacts.
+2 -0
+-0.5mm
+Insert the cable in the following order : 1. Back shell, 2. cord clamp, 3. gasket, 4, spring and 5. locking collar. 
+Prepare the cable end according to the dimensions shown in Table 1.
+Note :  When preparing the cable, use caution not to damage the insulation and conductors of the lead wires.
+Insulator/contact assembly
+Block end face
+Solder termination fixture
+Solder type
+2
+Fix the P case block on the cable termination tool, and after preliminary soldering, solder for 3 to 4 seconds with 
+the soldering iron at 350±10ç. 
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Note 1 :   Take care to avoid creating cold solder joints and solder joints with voids or air holes in it. 
+Also check to make sure the solder joint is adequately fused between the lead wires and solder cup.
+Note 2 :     The P case block is a precision unit. Please use caution when soldering the P case block so it does not 
+become damaged. Any damage could result in loss of the waterproof performance.
+Crimp type
+After crimping the appropriate contact to the cable lead wire, insert the terminated wire into the correct contact 
+position on the P case block.
+Note :    After inserting the crimping wire/contact, slightly pull the lead wire and check if the crimping contact is 
+properly seated into the P case block.
+12
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+Fixation
+Cable 
+Cable 
+Back shell 
+Push/pull 
+locking collar
+  
+Guide keys
+Tightening collar for back shell
+A
+(Refer to Table-2)
+Plug insulator body
+Cable 
+Solder termination fixture
+    
+View A (2:1)
+3
+Groove - sealing bushing
+Front edge of cable jacket
+Fig.B 
+Fig.C
+Table-2
+Back shell tightening collar size
+Torque
+Connector
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+3 and 6 Contacts. 
+16mm
+0.5N.m
+10 and 12 Contacts. 
+18mm
+0.5N.m
+Insert the cable by fitting the coupling guide to the wire-connected P case block.
+Then, pass the cable through and assemble in the following order: 1. spring, gasket, 2 cord clamp, and 3. cord tube.
+Make sure when assembling it with the cord clamp and cord tube, to maintain the positional relations between the 
+cable sheath end face and the concave area of the gasket as shown in Fig.B.
+Note :  Please install the cord tube using the cord tube tightening tool with the cord ring tightening torque shown in 
+Table-2.
+ln addition, in order to prevent loosening, please apply Locktight 263 and Lockprimer 7649 manufactured 
+by Henkel Japan Ltd., Tokyo.
+When screwing in the cord tube, use your hand to hold the cable so that the cable will not rotate or twist 
+and apply stress to the soldered wires. However, as the cable tends to be twisted slightly (just over one 
+rotation), we recommend that you twist it in the opposite direction in advance.
+13
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ Points to note when using Heat shrink tubing
+We recommend that you use shrink tubing over the solder connections in order to protect the soldered wires and to 
+enhance insulation. However, please be careful when applying heat in this area when installing the shrink tube so 
+excess heat does not bleed into or affect the resin parts as shown in the figure below.
+If the product does become heated beyond the area shown and into the resin parts, please make sure to prevent the 
+following.
+q Deformation of the C ring. This could result in prevention of locking during mating.
+w Melting of some parts.
+To prevent the deformation of the C rings of the receptacles and the jack, we recommend heat to be applied after 
+mating with a compatible plug.
+Before heating, please mate the plug in the receptacle securely, then pull the back shell for checking whether it is 
+locked properly. If it is heated with semi-fitting, C ring may be thermally deformed with shrinking condition and it may 
+not be locked properly.
+Receptacle
+C ring
+Shrinkable tube
+Heat application area
+Compatible plug
+Mated dimensions
+Receptacle
+Back shell
+Heat application area
+ Precautions after wiring (Solder type and Crimp type)
+After wiring, do not seal the connected portion with potting, etc.
+Potting may cause the O-ring to come off when the applicable plug is removed.
+If the connector is used with the O-ring removed, the waterproof performance will not be satisfied.
+Receptacle
+O-ring
+Compatible plug
+Potting non-compatible
+Lead wire
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+Equipment housing
+14
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ General usage notes
+1. Mating 
+2. Un-mating 
+Mounting panel 
+Receptacle
+Cable 
+D
+Plug 
+Mounting panel
+C
+Push/pull locking collar
+Cable 
+    
+    
+    
+A
+D
+Alignment marks
+B
+C
+When mounting, smooth mating will be achieved by holding 
+When removing the plug from its connected condition, hold 
+plug in any are “A” and aligning the arrow of the plug with 
+the plug by push/pull locking collar (area “B”) and pull 
+that of the receptacle, then pushing the plug straight in.
+straight off.
+ Precautions
+1.   Make sure the power is off before mating or un-mating the connector.
+2.  When mating the connector, push it on with a force of a least 30N.  
+After mating, pull slightly on the connector to check for proper mating and to ensure the connector is ﬁ rmly locked to 
+the receptacle.
+3.  After mating the connector, do not apply a force over 30N to the cable in the directions shown by the arrows. An 
+excessive load can lead to connector damage.
+30N max.
+Panel
+30N max.
+30N max.
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+4.  To maintain the waterproof performance, cable clamping force and cable stability, please use a cable within the 
+recommended for cable diameters.
+Because the performance will differ depending on the cable structure, make sure to check all speciﬁ cations of the 
+cable assembly before use or production.
+5.  Please assemble and install the connector and components with the speciﬁ ed tightening torque. 
+If the tightening torque is too weak or too strong, loosening or breakage can occur.
+6. Please contact Hirose if your application requires compliance with the Electrical Appliance and Meterial Safety Act.
+7. Please note that the white label on the connector may come off due to solvents such as alcohol.
+15
+
+HR30 Series●Miniature Waterproof Plastic Connectors
+ MEMO：
+Dec.1.2021 Copyright 2021 HIROSE ELECTRIC CO., LTD. All Rights Reserved.
+2-6-3,Nakagawa Chuoh,Tsuzuki-Ku,Yokohama-Shi 224-8540,JAPAN
+https://www.hirose.com/
+The characteristics and the specifications contained herein are for reference purpose.  Please refer to the latest customer drawings prior to use.
+The contents of this catalog are current as of date of 07/2021. Contents are subject to change without notice for the purpose of improvements.
+16
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Hirose Electric:  
+ 
+  HR30-6JB-3P

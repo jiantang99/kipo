@@ -1,0 +1,86 @@
+PHG.2K.542.CLLC60Z
+www.lemo.com
+SUMMARY
+# Wires
+Image is for illustrative purpose only
+Series
+2K
+Download
+Female solder
+Termination type
+Request a quote
+IP rating
+68 when mated
+AWG wire size
+26.00 - 22.00
+Cable Ø
+5.30 - 6.20 mm
+Status
+pre-release
+TECHNICAL DETAILS
+Mechanics
+Shell Style/Model
+PH*: Free receptacle, cable collet and nut for fitting a bend relief
+Keying
+1 key (alpha=0, plug: male contacts, receptacle: female contacts)
+Housing Material
+Brass (chrome plated [SAE AMS 2460]) shell, collet nut and latch sleeve, nickel plated [SAE 
+AMS QQ N 290] brass mid pieces
+Variant
+Z  : Nut for fitting a bend relief
+Performance
+Configuration
+2K.542 : USB 3.1 (up to 10Gb/s)
+Insulator
+L: PEEK (UL 94 / V-0/1.5)
+Rated Current
+5 Amps
+Others
+Endurance (Shell): 5000 mating cycles 
+Temp (min / max): -55°C / +200°C 
+Humidity (max): <=95% [at 60 deg C /140 F] 
+Climatical Category: 50/175/21 
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+1/2
+
+Shielding (min): 95 dB (10 MHz) 
+Shielding (min): 80 dB (1 GHz) 
+Salt Spray Corrosion: >1000 hr 
+  
+  
+DRAWINGS
+Dimensions
+A
+L
+S2
+mm.
+19
+54
+12
+in.
+0,75
+2,13
+0,47
+RECOMMENDED BY LEMO
+Tools
+Spanner wrench: 
+DCD.2E.ZZZ.PA120
+LEMO products and services are provided “as is”. LEMO makes no warranties or representations with regard to LEMO product & services or use of 
+them, express, implied or statutory, including for accuracy, completeness, or security. The user is fully responsible for his products and applications 
+using LEMO components. 
+2/2
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ LEMO:  
+ 
+  PHG.2K.542.CLLC60Z

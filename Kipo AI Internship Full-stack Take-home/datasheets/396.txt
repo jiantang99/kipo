@@ -1,0 +1,439 @@
+F
+A
+E
+B
+D
+C
+H
+G
+C
+Housing
+A
+B
+D
+E
+8
+A.8; Validé
+O'ring
+(specification 05 only)
+Thread
+Insert
+7
+B
+A
+F(4x)
+6
+G
+Seal gasket
+Thread
+(for information)
+A 
+0.3
+B 
+0.2
+C Max
+D 
+0.2 E 
+0.35 F 
+0.15 G 
+0.2
+31.50
+Part Number
+(Note 8)
+Male
+Female
+UT00102W2--H-
+MATERIAL :
+Housing : Zinc alloy nickel plated
+Insert : PA 66 UL94 V0
+Mating gasket : sealing IP67:Nitril  
+            sealing IP68:Silicone
+O'ring : nitril
+ 
+PERFORMANCE CHARACTERISTICS :
+Operating temperature : -40 C up to 105 C
+Insulation resistance : 5000 M
+min
+Withstanding voltage: 2000Vrms
+                     (1500 Vrms for 102w2 and 103w3 layouts)
+Corrosion salt spray : 96 hours  
+Durability : 500 matings and unmatings    
+Sealing IP67 / IP68 3 bar/30min as per IEC60529
+Sealing IP69K as per DIN40050
+ROHS compliant
+ 
+NOTES :
+-1- Contact identification and orientation of connector, refer to:
+              UT0-CONTACT-L-C01 (Male)
+              UT0-CONTACT-L-C02 (Female)
+-3- Contact to be ordered separately refer to : UT0 catalog
+-4- Dimension 
+P for front panel mounting (see to panel cut out)
+-5- Dimension 
+R for rear panel mounting (see to panel cut out)
+-6- To achieved Sealing condition : Add UTFD-- Sealing Gasket
+-7- Insert arrangement refer to : UT0-DHP-001-C01 (Male)
+                                  UT0-DHP-002-C01 (Female)
+-8- This drawing covers p/n termination : -H / -H6 / -H05 / -H605
+-9- Packaging: connector is individually packed in a plastic bag
+UT00103W3--H-
+5
+UT00103--H-
+9/16-24
+UNEF Class 2A
+23.85
+18.26
+33.20
+UT00 14 2G1
+P
+W
+H6
+05
+UT00124--H-
+Receptacle UT0 : Type 0
+Shell size :
+25.50
+UT00104--H-
+UT001044--H-
+11/16-24
+UNEF Class 2A
+26.20
+20.62
+UT00128--H-
+UT00142G1--H-
+11.35
+1.60
+36.00
+UT00147--H-
+Insert arrangement : See Note 7
+4
+32.50
+25.50
+UT00148--H-
+13/16-20
+UNEF Class 2A
+28.60
+23.01
+3.10
+31.50
+UT001412--H-
+Contact :
+P : Male
+S : Female
+7.50
+UT001492--H-
+33.20
+Insert polarisation :No letter : Standard version
+W, X, Y, Z : Differents orientation
+25.50
+UT001619--H-
+15/16-20
+UNEF Class 2A
+31.05
+24.61
+Sealing version :
+H : IP67 version
+H6 : IP68 version
+UT001823--H-
+1" 1/16-18
+UNEF Class 2A
+33.35
+26.97
+Specification :
+No letter : Standard version
+05 : O'ring rear on the receptacle
+3
+1" 3/16-18
+UNEF Class 2A
+36.55
+29.36
+34.70
+29.30
+14.55
+2.40
+1" 5/16-18
+UNEF Class 2A
+39.80
+31.75
+UT002028--H-
+UT002030--H-
+UT002235--H-
+UT002238--H-
+UT002448--H-
+1" 7/16-18
+UNEF Class 2A
+42.90
+34.92
+15.35
+3.80
+2
+24021
+20/04/2015 _Cancel & replace UT00-C01
+A
+_CREATION OF THE DRAWING
+MALE CONNECTOR
+FEMALE CONNECTOR
+MOD N
+COUTY L.
+Latest modification - by:
+DATE
+ISS
+UT0 CONNECTOR
+TITLE
+RECEPTACLE
+CUSTOMER DRAWING 
+Date : 20/04/2015
+COUTY L.
+Designed by:
+SOCKET (S)
+PIN (P)
+Scale
+General linear
+Tolerances:
+ 0.1
+2/1
+ 
+NPRDS / PROJECT 
+UT0
+ 
+8
+7
+6
+5
+4
+3
+2
+1
+1
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+WWW.SOURIAU.COM
+SHEET
+SOURIAU DRG N° 
+FORMAT
+1 / 2
+C001-UT00-A
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+CLASSIFICATION : NOT EXPORT CONTROLLED
+
+F
+A
+E
+B
+D
+C
+H
+G
+Panel Cut Out
+N(4x)
+8
+A.8; Validé
+In case the connectors are equipped 
+with dipsolder contacts
+P
+G
+M
+7
+R
+CONTACT RM20M12E83x (Male)
+     or RC20M12E83x (Female)
+6
+M
+Part Number
+M 
+0.2
+N 0.1
+P 0.1
+R 0.1
+UT00102W2--H-
+5
+20.62
+18.40
+21.85
+18.26
+3.20
+14.20
+17.30
+UT00103W3--H-
+UT00103--H-
+UT00104--H-
+UT001044--H-
+UT00124--H-
+3.20
+UT00128--H-
+UT00142G1--H-
+Contacts to be ordered separately
+23.01
+3.20
+21.50
+25.00
+UT00147--H-
+UT00148--H-
+UT001412--H-
+4
+FEMALE CONTACTS
+MALE CONTACTS
+Part Number
+G
+UT001492--H-
+UT001619--H-
+24.61
+3.20
+24.60
+28.10
+26.97
+27.80
+31.35
+Part Number
+G
+min
+max
+min
+max
+UT00104S-H-
+UT00104P-H-
+UT001823--H-
+3.20
+UT002028--H-
+3.20
+29.36
+30.95
+34.50
+UT002030--H-
+UT001044S-H-
+UT001044P-H-
+31.75
+3.20
+34.10
+37.70
+3
+UT00128S-H-
+UT00124P-H-
+34.92
+3.90
+37.30
+40.90
+UT002235--H-
+UT002238--H-
+UT002448--H-
+UT001412S-H-
+7.5
+9.2
+UT00128P-H-
+UT001492S-H-
+UT001412P-H-
+-Dimension 
+P for front panel mounting (see to panel cut out) 
+-Dimension 
+R for rear panel mounting (see to panel cut out)
+UT001619S-H-
+UT001492P-H-
+UT001823S-H-
+UT001619P-H-
+8.1
+10.3
+UT002028S-H-
+24021
+04/11/2014 _Cancel & replace UT00-C01
+A
+_CREATION OF THE DRAWING
+UT001823P-H-
+2
+MOD N
+COUTY L.
+Latest modification - by:
+DATE
+ISS
+UT002030S-H-
+UT002028P-H-
+UT002235S-H-
+5.3
+7.1
+UT002030P-H-
+UT0 CONNECTOR
+TITLE
+RECEPTACLE
+CUSTOMER DRAWING 
+Date :04/11/2014 
+COUTY L.
+Designed by:
+UT002238S-H-
+UT002235P-H-
+Scale
+General linear
+Tolerances:
+UT002448S-H-
+UT002238P-H-
+ 0.1
+3/1
+ 
+NPRDS / PROJECT 
+UT0
+ 
+UT002448P-H-
+8
+7
+6
+5
+4
+3
+2
+1
+1
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+WWW.SOURIAU.COM
+SHEET
+SOURIAU DRG N° 
+FORMAT
+2 / 2
+C001-UT00-A
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+CLASSIFICATION : NOT EXPORT CONTROLLED
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  UT002448PH  UT001412SH  UT001619PHT  UT001619PH6  UT001412PH  UT001619S21T  UT001412PT 
+UT00142G1SH  UT001412PHT  UT00147SH  UT00128PHT  UT00104SH6  UT002448SWH  UT002448PWH 
+UT002028PYH  UT001823ST  UT002235PH  UT00142G1PH  UT002028PWH  UT002028SH6  UT00147SH6 
+UT002448PT  UT002448PH6  UT001823PHTB  UT00128PH6  UT001823SHT  UT00128PH  UT002448SYH 
+UT002235PH6  UT00147PH  UT00128SH  UT001823SH  UT00104PH  UT001823SH6  UT002448SXH  UT001619SHT
+  UT002448PYH  UT001412PH6  UT001412S21T  UT002448PXH6  UT001619SH  UT00128SH6  UT002028SH 
+UT001823PH  UT001412ST  UT001619PT  UT002448PZH  UT00147PH6  UT001412SH6  UT001619PH 
+UT00128S21T  UT001823PH6  UT00142G1PH6  UT001412SHT  UT002028PH6  UT001619SWH  UT002448SH6 
+UT001619SH6  UT002448PXH  UT00104SH  UT001619PXH  UT001619SXH  UT002235SH6  UT002448SH 
+UT002235SH  UT00142G1SH6  UT002028PH  UT002448PWT  UT002235PT  UT001044P  UT00103SH 
+UT002235SZH  UT00103W3PH6  UT00102W2SH6  UT00102W2PH  UT001823SZH  UT002235PZH  UT002235PWH 
+UT00124SH6  UT00103PH  UT002030SH  UT002238PH  UT002448SZH  UT00148PH6  UT001619PWH 
+UT001823PZH  UT002028SYH  UT001619PZH  UT001412SWH  UT002235PXH  UT001492SH  UT00104PWH 
+UT00104SWH  UT00148PH  UT00148SH6  UT001619SZH  UT00103W3SH  UT001412PWH  UT002235SXH 
+UT002235SYH

@@ -1,0 +1,269 @@
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+Cable connector, M23 PRO, straight, shielded: yes, Screw locking, M23, No. of pos.: 12, type of contact:
+Socket, Crimp connection, cable diameter range: 3 mm ... 15 mm
+Your advantages
+ Solutions with cross-manufacturer compatibility for standard and fast locking systems
+ Reliable under the harshest conditions: cable connectors with vibration brake
+ Modern, consistent design for highly convenient operation
+ Easy, cost-effective cable assembly: uniform shielding of M17 to M40
+Key Commercial Data
+Packing unit
+1 pc
+GTIN
+GTIN
+4055626618456
+Technical data
+Temperature range
+Ambient temperature
+-40 °C ... 125 °C
+Standards and Regulations
+Safety note
+WARNING: The connectors may not be plugged in or disconnected
+under load. Ignoring the warning or improper use may damage persons
+and/or property.
+• WARNING: Commission properly functioning products only. The
+products must be regularly inspected for damage. Decommission
+defective products immediately. Replace damaged products. Repairs
+are not possible.
+• WARNING: Only electrically qualified personnel may install and
+operate the product. They must observe the following safety notes.
+The qualified personnel must be familiar with the basics of electrical
+engineering. They must be able to recognize and prevent danger. The
+relevant symbol on the packaging indicates that only personnel familiar
+with electrical engineering are allowed to install and operate the product.
+09/12/2020   Page 1 / 8
+
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Technical data
+Standards and Regulations
+• The products are suitable for applications in plant, controller, and
+electrical device engineering.
+• When operating the connectors in outdoor applications, they must be
+separately protected against environmental influences.
+• Assembled products may not be manipulated or improperly opened.
+• Only use mating connectors that are specified in the technical data
+of the standards listed (e.g. the ones listed in the product accessories
+online at phoenixcontact.com/products).
+• When using the product in direct connection with third-party
+manufacturers, the user is responsible.
+• For operating voltages > 50 V AC, conductive connector housings must
+be grounded
+• Ensure that the protective or functional ground has been properly
+connected.
+• VDE 0100/1.97 § 411.1.3.2 and DIN EN 60 204/11.98 § 14.1.3 are
+applicable when combining several circuits in a cable and/or connector
+• Only use tools recommended by Phoenix Contact
+• The installation notes/Design In documents online on the download
+page at phoenixcontact.com/products must be observed for this product.
+• Operate the connector only when it is fully plugged in and interlocked.
+• Ensure that when laying the cable, the tensile load on the connectors
+does not exceed the upper limit specified in the standards.
+• Observe the minimum bending radius of the cable. Lay the cable
+without twisting it.
+• The connector warms up in normal operation. Depending on the
+ambient conditions, the surface of the connector can continue to warm
+up. In this case, the user is responsible for posting warnings (e.g. DIN
+EN ISO 13732-1:2008-12).
+Data of the insulating body
+Note
+Order information: Order crimp contacts Ø 1 mm separately
+Coding
+N
+Insulator material
+PA 6.6
+Contact connection method
+Crimp connection
+Type of contacts
+Socket
+Application
+Signal
+Number of positions
+12
+Direction of rotation
+Standard
+Contact diameter of signal contacts
+1 mm
+Litz wire cross section of signal contacts min.
+0.08 mm²
+Litz wire cross section of signal contacts max.
+1 mm²
+Nominal current per signal contact
+8 A
+Note
+for max. connection cross section
+Rated voltage of signal contact
+150 V
+Rated surge voltage
+2.5 kV
+Overvoltage category
+III
+09/12/2020   Page 2 / 8
+
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Technical data
+Data of the insulating body
+Degree of pollution
+3
+Note
+for max. connection cross section
+Housing data
+Housing material
+GD-Zn
+Type of locking
+Screw locking
+Degree of protection (when plugged in)
+IP66 / IP68 (2 m / 24 h)
+Thread type
+M23
+Cable seal data
+Cable diameter
+3 mm ... 15 mm (Universal gasket)
+Sealing material
+FKM
+Environmental Product Compliance
+China RoHS
+Environmentally Friendly Use Period = 50 years
+For details about hazardous substances go to tab “Downloads”,
+Category “Manufacturer's declaration”
+Drawings
+09/12/2020   Page 3 / 8
+
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Schematic diagram
+09/12/2020   Page 4 / 8
+
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Diagram
+I = current strength, ϑ = ambient temperature, 12x 8 A
+Dimensional drawing
+Technical drawings can be found under Downloads
+Classifications
+eCl@ss
+eCl@ss 10.0.1
+27440102
+eCl@ss 8.0
+27440102
+09/12/2020   Page 5 / 8
+
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Classifications
+eCl@ss
+eCl@ss 9.0
+27440102
+ETIM
+ETIM 5.0
+EC002635
+ETIM 6.0
+EC002061
+Approvals
+Approvals
+Approvals
+UL Recognized / cUL Recognized
+Ex Approvals
+Approval details
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm  E335019-20141210
+UL Recognized 
+
+ 
+ 
+Nominal voltage UN
+150 V
+Nominal current IN
+4 A
+mm²/AWG/kcmil
+20
+ http://database.ul.com/cgi-bin/XYV/template/LISEXT/1FRAME/index.htm  E335019-20141210
+cUL Recognized 
+
+ 
+ 
+Nominal voltage UN
+150 V
+Nominal current IN
+3 A
+mm²/AWG/kcmil
+20
+Accessories
+Accessories
+Circular connectors (device side)
+09/12/2020   Page 6 / 8
+
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Accessories
+Hook wrench - SF-Z0027 - 1607455
+Hook wrench
+ 
+ 
+Crimp contact
+Crimp contact - RC-12S2000 - 1599600
+Crimp contact, turned, Single contact, contact diameter: 1 mm, crimp range: 0.14 mm² ... 0.56 mm²
+ 
+ 
+Crimp contact - RC-11S2000 - 1596772
+Crimp contact, turned, Single contact, contact diameter: 1 mm, crimp range: 0.08 mm² ... 0.22 mm²
+ 
+ 
+Crimp contact - RC-1KS2000 - 1602998
+Crimp contact, turned, Single contact, contact diameter: 1 mm, crimp range: 0.5 mm² ... 1 mm²
+ 
+ 
+Crimp contact - RC-22S2000 - 1603327
+Crimp contact, rolled, Single contact, contact diameter: 1 mm, crimp range: 0.22 mm² ... 0.56 mm²
+ 
+ 
+09/12/2020   Page 7 / 8
+
+https://www.phoenixcontact.com/pi/products/1629212
+Cable connector - M23-12S1N8A80DU - 1629212
+Accessories
+Crimp contact - RC-22S2300 - 1603330
+Crimp contact, rolled, Taped articles, number of pieces per reel: 500, contact diameter: 1 mm, crimp range: 0.22
+mm² ... 0.56 mm²
+ 
+ 
+Crimp contact - RC-22S2400 - 1603332
+Crimp contact, rolled, number of pieces per reel: 10000, contact diameter: 1 mm, crimp range: 0.22 mm² ... 0.56 mm²
+ 
+ 
+Mounting material
+Torque screwdriver - SF-Z0028 - 1607456
+Torque screwdriver
+ 
+ 
+Special wrench - RF-Z0007 - 1614347
+Special wrench
+ 
+ 
+Phoenix Contact 2020 © - all rights reserved
+http://www.phoenixcontact.com
+PHOENIX CONTACT GmbH & Co. KG
+Flachsmarktstr. 8
+32825 Blomberg
+Germany
+Tel. +49 5235 300
+Fax +49 5235 3 41200
+http://www.phoenixcontact.com
+09/12/2020   Page 8 / 8
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Phoenix Contact:  
+ 
+  1629212

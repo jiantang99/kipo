@@ -1,0 +1,287 @@
+2
+7
+5
+3
+1
+4
+6
+8
+19
+(19-a)
+C091 31N019 100 2 U C091 31N019 200 2 U
+F
+F
+12,8
+14
+1,5
+(14-b)
+C091 31N114 100 2 U
+C091 31N114 200 2 U
+14
+(14-a)
+C091 31N014 100 2 U C091 31N014 200 2 U
+20
+12
+M18x0,75
+(12-a)
+C091 31N012 100 2 U C091 31N012 200 2 U
+E
+E
+8
+(08-a)
+C091 31N008 100 2 U C091 31N008 200 2 U
+* 16
+*for 12, 14 and 19 pol = 13,9
+Copying of this document and giving it to others and the use
+or communication of the contents thereof, are forbidden with-
+out express authority. Offenders are liable to the payment of
+damages. All rights are reserved in the event of the grant of
+a patent or the registration of the utility model or design.
+7
+Number of contacts
+Standard
+3
+4
+5
+5
+6
+7
+7
+8
+12
+14
+14
+19
+(07-b)
+C091 31N107 100 2 U C091 31N107 200 2 U
+Contact arrangement
+IEC 61076-2-106
+03-a
+04-a
+05-a
+05-b
+06-a
+07-a
+07-b
+08-a
+12-a
+14-a
+14-b
+19-a
+1)
+yes
+no
+yes
+no
+yes
+no
+Contact arrangement
+IEC 60130-9
+7
+Rated voltage
+D
+D
+2)
+IEC 60664-1
+300 V
+(100 V)
+300 V
+(63 V)
+100 V
+(32 V)
+300 V
+(63 V)
+100 V
+(32 V)
+150 V
+(32 V)
+60 V
+(32 V)
+(07-a)
+C091 31N007 100 2 U C091 31N007 200 2 U
+Rated voltage
+UL 1977
+250V
+60V
+Rated impulse
+withstand voltage
+2)
+IEC 60664-1
+1500 V
+(1500 V)
+1200 V
+(800 V)
+1500 V
+(1500 V)
+1200 V
+(800 V)
+6
+3))
+Pollution degree
+2)
+IEC 60664-1
+1 (3
+(06-a)
+C091 31N006 100 2 U C091 31N006 200 2 U
+Installation category
+IEC 60664-1
+I
+Insulation group
+IEC 60664-1
+II, 400 < CTI < 600
+5
+Current rating
+IEC 60512-5-2  
+UL 1977
+10A/+40°C
+7A/+40°C
+3A/+40°C
+(05-b)
+C091 31N105 100 2 U C091 31N105 200 2 U
+4)
+Insulation resistance
+IEC 60512-3-1
+>10
+10 Ohm
+Contact resistance
+IEC 60512-2-1
+<5mOhm
+C
+5
+Climatic category
+IEC 60668-1
+40 / 100 / 56
+C
+(05-a)
+C091 31N005 100 2 U C091 31N005 200 2 U
+Temperatur range
+IEC 60668-1
+-40°C...+100°C / -40°F...+212°F
+Salt spray resistance
+DIN IEC 60068-2-11,
+test Ka
+720h
+4
+IP degree
+ÎEC 60529
+IP 69K / IP 67 / IP 65 (in mated condition)
+(04-a)
+C091 31N004 100 2 U C091 31N004 200 2 U
+Insertion and
+withdrawal force
+IEC 60512-13-2
+25N
+30N
+35N
+35N
+50N
+55N
+55N
+60N
+50N
+50N
+50N
+60N
+3
+mechanical operation
+IEC 60512-9-1
+Silver >500 mating cycles / Gold >1000 mating cycles
+(03-a)
+C091 31N003 100 2 U C091 31N003 200 2 U
+housing material
+brass and / or zinc die cast, nickel plated
+dielectric material
+thermoplastic
+B
+sealing material
+Chloroprene
+contacts
+silver or gold plated
+Contact arrangement
+View on mating side
+Number of contacts
+(Contact arrangement
+acc. IEC 61076-2-106)
+Part number-Ag
+Part number-Au
+termination technique
+solder
+wire gauge
+<0,5mm² / 20 AWG
+<0,35mm² / 22 AWG
+Gewicht (errechnet) / Calc WT :
+0,011 kg
+Maßstab / Scale :
+2:1
+Zul. Abw./Tolerances :
+A3
+ 
+flamability
+UL 94 VO
+ISO 2768-c
+Prüfmaß / Testdimension
+ 
+Teileindex / Partindexnumber: 
+locking system
+IEC 60130-9    
+DIN / ISO
+DIN EN 61076-2-106
+metal screw coupling; tightening torque 0,7 - 1,5 Nm
+ 
+CUSTOMER DRAWING
+Bagatelle change: 10.02.2021 MCARLE
+13715
+  
+1) Edition 2000-05
+10.06.2020
+2) values in brackets are according to DIN EN 61076-2-106
+MCARLE
+Drawn
+Gez.
+Female receptacle
+8 Ohm
+3) designed acc. pollution degree 2; can be used under pollution degree 3 when the rules of IEC 60644-1 are fulfilled
+4) under operating conditions >10
+Released
+A
+11.01.2021
+Gepr.
+Status
+front mounting
+ 
+MBERTSCH
+Checked
+Blatt/Sheet
+1
+M
+Do not connect or disconnect under load. Metal housing parts shall be securely incoporated to protected ground.
+Remark for gold plated contacts:
+In order to avoid brittle inter-metallic connections, gold plated terminals have to be tin-plated in the solder area.
+All technical data have been measured in a laboratory environment and can be different during pratical usage of the product. Any product
+information is for descriptive usage only and not legally binding; particulary the information does not constitute or provide any legal guaranties
+("Beschaffenheitsgarantie" or " Haltbarkeitsgarantie").
+Amphenol Tuchel
+Industrial GmbH
+C091 31NXXX X00 2 U
+1
+Bl.
+MCARL
+26.10.2020
+02
+NXM-V04  FAI2020-001885
+8
+7
+6
+5
+Name
+Datum/Date
+Index
+Änderung/Description
+202000083
+Ers. f. / Replacement for :
+M-C091 31NXXX X00 2 U Rev01
+Weitergabe sowie Vervielfältigung dieser Unterlage, Verwertung
+und Mitteilung ihres Inhalts nicht gestattet, soweit nicht
+ausdrücklich zugestanden. Zuwiderhandlungen verpflichten
+zu Schadenersatz. Alle Rechte für den Fall der Patenterteilung
+oder Gebrauchsmuster-Eintragung vorbehalten.

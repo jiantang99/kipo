@@ -1,0 +1,73 @@
+G82LFC-P19QF00-0000
+series_l, type_g8
+General information
+Part number
+G82LFC-P19QF00-0000
+Termination
+pcb
+Size
+2
+Locking principle
+break , push
+Keying
+f_key
+Contact insert description
+Number of contacts
+19
+Contact type
+sockets
+Contact diameter
+07mm
+Insulator material
+peek
+Termination
+pcb
+Termination diameter
+05mm
+reverse_gender_on_request
+Technical information
+Max. creepage and air clearance distance
+07_mm
+12_mm
+Nominal current single contact
+06_a
+iec_60512_5_2
+Nominal current insert
+2,7 A
+vde_0298_4
+Test voltage
+1_kv_ac
+sae_13441
+safety_text
+Mechanical and environmental data
+Degree of protection*
+ip68
+Operating temperature
+40_120_c
+Mating cycles
+5000
+unmated
+Material and surface treatments
+Housing
+m_chrome
+Contact
+cu_alloy_gold
+safety_text_2
+ul_text
+illustrative_text
+G82LFC-P19QF00-0000 series_l, type_g8
+230522
+1 / 1
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  G82LFC-P19QF00-0000

@@ -1,0 +1,1325 @@
+UTP
+Full plastic circular 
+connector
+Description
+“UTP” full plastic industrial circular 
+connectors are a range of multiway 
+connectors.
+“UTP” provides the complete answer 
+to the need for economical lightweight, 
+robust circular connectors and is unique 
+in offering a plastic bayonet coupling ring 
+incorporating a metal wave spring, which 
+locks with an audible positive “click”. 
+It is available in 8 shell sizes, 10 
+insert arrangements all intermateable, 
+interchangeable and intermountable with 
+the TRIM TRIO “UT0” (full metal) and 
+“UTG” (plastic with metal coupling ring) 
+industrial connector families.
+Features and benefits
+•  Available in 8 shell sizes and 10 insert 
+arrangements incl. 2 VDE versions.
+Performance characteristics
+Operating 
+temperature:  
+-55°C to +125°C 
+•  Available in plug and receptacle versions 
+for both male and female contacts.
+Construction
+Connector, Bayonet ring and accessories 
+Gass filled thermoplast UL94-V0
+Colour: black
+Coupling spring: Spring steel
+Insulation 
+resistance:  
+5000 MΩ min.
+•  Connectors and accessories are 
+Test potential:  
+2000 VAC
+moulded from highly durable glass-filled 
+thermoplastic.
+Durability:  
+ 250 matings and 
+unmatings. 
+Contact accommodation 
+•  “UTP” connectors accept TRIM TRIO size 
+• Flammability rating: UL94-V0.
+•  Plastic bayonet ring:
+16 removable snap-lock contacts (see 
+contacts section)
+Degree of protection per DIN 40050:
+IP65 in mated condition. “H” version used 
+with water protected backshells.
+• Contacts to be ordered seperately.
+- Vibration proof thermoplast
+- Metal wave spring loaded.
+- Locks with audible positive “click”
+- UL recognized File Nr.: E238675 
+How to order
+Connector family :
+UTP
+UTP
+0
+6
+14
+14
+12
+12
+H
+P
+S
+- -
+- -
+Body variation:  
+0 : Wall mounting receptacle
+ 
+ 
+6 : Cable plug 
+Shell size:
+Insert arrangement:
+Type of contacts: 
+P : Pin contacts
+ 
+ 
+S : Socket contacts
+Application  
+No letter : Standard version
+ 
+ 
+H : Water protected version (only receptacle)
+Design variation 
+No letter : Moulded-in contact marking (standard version)
+ 
+ 
+Others : Specials versions
+13
+
+UTP
+Cable plug for pin contacts (UTP6- - - -P)
+Part number 
+Shell 
+Ø A ±0.2 
+B 
+Ø C ±0.15 
+Ø D ±0.15 
+Ø E ±0.2
+ 
+size 
+ 
+max. 
+ 
+ 
+ 
+UTP6104P / UTP6103PVDE 
+10 
+26.7 
+ 
+10.9 
+12.2
+UTP6128P 
+12 
+31.4 
+ 
+13.8 
+15.1
+UTP61412P 
+14 
+34.5 
+31.8 
+17.0 
+18.3
+UTP61619P 
+16 
+37.8 
+ 
+19.9 
+21.5 
+19.1
+UTP61823P / UTP6187PVDEU 
+18 
+40.8 
+31.8 / 33.0 
+22.4 
+24.0
+UTP62028P 
+20 
+43.9 
+ 
+25.6 
+27.2
+UTP62235P  
+22 
+47.0 
+31.8 
+28.5 
+30.4
+UTP62448P 
+24 
+50.1 
+ 
+31.7 
+33.5
+Part numbers are suitable for both standard and IP65 water protection versions.
+Cable plug for socket contacts (UTP6- - - -S)
+Part number 
+Shell 
+Ø A ±0.2 
+B 
+Ø C ±0.15 
+Ø D ±0.15 
+Ø E ±0.2
+ 
+size 
+ 
+max. 
+ 
+ 
+ 
+UTP6104S / UTP6103SVDE 
+10 
+26.7 
+23.9 / 26.75 
+10.9 
+12.2
+UTP6128S 
+12 
+31.4 
+ 
+13.8 
+15.1
+UTP61412S 
+14 
+34.5 
+23.9 
+17.0 
+18.3
+UTP61619S 
+16 
+37.8 
+ 
+19.9 
+21.5 
+19.1
+UTP61823S / UTP6187SVDEU 
+18 
+40.8 
+23.9 / 29.0 
+22.4 
+24.0
+UTP62028S 
+20 
+43.9 
+24.9 
+25.6 
+27.2
+UTP62235S  
+22 
+47.0 
+ 
+28.5 
+30.4
+UTP62448S 
+24 
+50.1 
+26.2 
+31.7 
+33.5
+Part numbers are suitable for both standard and IP65 water protection versions.
+14
+
+UTP
+Wall mounting receptacle for pin contacts (UTP0- - - -P)
+Part number 
+Shell 
+A 
+B 
+C 
+Ø D 
+E 
+F 
+Ø G 
+Ø J
+ 
+size 
+max. 
+±0.15 
+±0.2 
+±0.15 
+±0.25 
+•0.25 
+±0.1 
+±0.1
+UTP0104P / UTP0103PVDE 
+10 
+ 
+ 
+ 
+15.0 
+18.3 
+23.8 
+ 
+15.1
+UTP0128P 
+12 
+ 
+2.3 
+ 
+19.0 
+20.6 
+26.2 
+ 
+18.2
+UTP01412P 
+14 
+31.7 
+ 
+11.3 
+22.2 
+23.0 
+28.6 
+ 
+21.4
+UTP01619P 
+16 
+ 
+ 
+ 
+25.3 
+24.6 
+31.0 
+3.2 
+24.6
+UTP01823P / UTP0187PVDEU 
+18 
+31.7/34.0 
+2.5 
+11.3/17.9 
+28.5 
+27.0 
+33.3 
+ 
+27.8
+UTP02028P 
+20 
+ 
+ 
+14.5 
+31.7 
+29.4 
+36.5 
+ 
+30.9
+UTP02235P  
+22 
+33.3 
+3.5 
+ 
+34.9 
+31.8 
+39.7 
+ 
+34.1
+UTP02448P 
+24 
+ 
+ 
+15.3 
+38.0 
+34.9 
+42.9 
+3.9 
+37.3
+For IP65 waterprotected version add “H”  behind “P” e.g.  UTP01412PH
+A square flange sealing has to be ordered separately to guarantee a sealing with the equipment. Refer to “Circular accessories” section (UTFD--).
+Wall mounting receptacle for socket contacts (UTP0- - - -S)
+Part number 
+Shell 
+A 
+B 
+C 
+Ø D 
+E 
+F 
+Ø G 
+Ø J
+ 
+size 
+max. 
+±0.15 
+±0.2 
+±0.15 
+±0.25 
+•0.25 
+±0.1 
+±0.1
+UTP0104S / UTP0103SVDE 
+10 
+24.3/27.6 
+ 
+ 
+15.0 
+18.3 
+23.8 
+ 
+15.1
+UTP0128S 
+12 
+ 
+2.3 
+ 
+19.0 
+20.6 
+26.2 
+ 
+18.2
+UTP01412S 
+14 
+24.3 
+ 
+11.3 
+22.2 
+23.0 
+28.6 
+ 
+21.4
+UTP01619S 
+16 
+ 
+ 
+ 
+25.3 
+24.6 
+31.0 
+3.2 
+24.6
+UTP01823S / UTP0187SVDEU 
+18 
+24.3/30.4 
+2.5 
+11.3/17.9 
+28.5 
+27.0 
+33.3 
+ 
+27.8
+UTP02028S 
+20 
+27.0 
+ 
+14.5 
+31.7 
+29.4 
+36.5 
+ 
+30.9
+UTP02235S  
+22 
+28.0 
+3.5 
+ 
+34.9 
+31.8 
+39.7 
+ 
+34.1
+UTP02448S 
+24 
+30.4 
+ 
+15.3 
+38.0 
+34.9 
+42.9 
+3.9 
+37.3
+For IP65 waterprotected version add “H”  behind “S” e.g.  UTP01412SH
+A square flange sealing has to be ordered separately to guarantee a sealing with the equipment. Refer to “Circular accessories” section (UTFD--).
+15
+
+Circular accessories
+Plastic cable clamp with strain relief (UTG--AC)
+Suitable for UTP-UTG
+Part number 
+Shell 
+Cable range 
+Ø A ± 0.4 
+L ± 0.5
+ 
+size 
+Ø
+UTG10AC 
+10 
+3.0 - 8.70 
+21.0 
+40.0
+UTG12AC 
+12 
+3.0 - 12.8 
+24.0 
+40.0
+UTG14AC 
+14 
+4.0 - 13.8 
+27.0 
+46.0
+UTG16AC 
+16 
+5.0 - 17.0 
+30.2 
+46.0
+UTG18AC 
+18 
+5.0 - 19.0 
+33.3 
+50.0
+UTG20AC 
+20 
+5.0 - 21.0 
+36.5 
+55.0
+UTG22AC 
+22 
+5.0 - 23.0 
+39.7 
+60.0
+UTG24AC 
+24 
+8.0 - 27.0 
+42.9 
+65.0
+For threading specifications see last page of this section “Circular accessories”
+Plastic cable clamp with strain relief nut for waterprotected (IP65) applications (UTG--PG)
+Suitable for UTP-UTG
+Part number 
+Shell 
+Sealing* 
+L ± 1 
+A ± 0.5
+ 
+size 
+outer dia x inner dia’s
+UTG10PG 
+10 
+13.5 x 5 x 8 
+54 
+21.0
+UTG12PG 
+12 
+16 x 7 x 10.5 x 13 x 16 
+57 
+24.0
+UTG14PG 
+14 
+18.5 x 7 x 105 x 13 x 16 
+62 
+27.0
+UTG16PG 
+16 
+20.5 x 8 x 10.5 x 13 x 16 
+68 
+30.2
+UTG18PG 
+18 
+20.5 x 8 x 10.5 x 13 x 16 
+71 
+33.3
+UTG20PG 
+20 
+26 x 11 x 15 x 18 x 22 
+82 
+36.5
+UTG22PG 
+22 
+26 x 11 x 15 x 18 x 22 
+88 
+39.7
+UTG24PG 
+24 
+35 x 19 x 23 x 27 x 31 
+103 
+42.9
+*In order to accommodate different cable dia’s, the sealing exisits of different layers which can be pulled out easily.
+Cable clamp has a PG style cable gland. For threading specifications see last page of this section “Circular accessories”
+41
+
+Circular accessories
+Plastic cable clamp with strain relief nut for waterprotected (IP65) applications (UTG--ST)
+Suitable for UTP-UTG
+Part number 
+Shell 
+Cable range 
+Dia. A ± 0.5 
+L ± 1
+ 
+size
+UTG10ST 
+10 
+2 - 6 
+21.0 
+64
+UTG12ST 
+12 
+3 - 7 
+24.0 
+64
+UTG14ST 
+14 
+6 - 9 
+27.0 
+69
+UTG16ST 
+16 
+7 - 12  
+30.2 
+72
+UTG18ST 
+18 
+ 
+33.3 
+76
+UTG20ST 
+20 
+9 - 16 
+36.5 
+80
+UTG22ST 
+22 
+ 
+39.7 
+86
+UTG24ST 
+24 
+13 - 20 
+42.9 
+91
+Cable clamp has a PG style cable gland. For threading specifications see last page of this section “Circular
+Metal cable clamp with strain relief (UT0--AC)
+Suitable for UT0-UT0W
+Part number
+Shell size
+Max cable dia. 
+Excl. sealing
+Ø A±0.2
+B maxi
+C maxi
+UT010AC
+10
+5.0
+16.3
+21.6
+31.0
+UT012AC
+12
+8.2
+19.4
+25.0
+31.5
+UT014AC
+14
+10.0
+22.5
+27.4
+34.0
+UT016AC
+16
+13.0
+25.8
+29.4
+34.0
+UT018AC
+18
+16.0
+29.2
+35.2
+31.4
+UT020AC
+20
+16.0
+32.5
+35.2
+32.0
+UT022AC
+22
+19.3
+35.7
+41.1
+31.0
+UT024AC
+24
+20.6
+38.8
+42.4
+31.0
+For threading specifications see last page of this section “Circular accessories”
+42
+
+Circular accessories
+Short cable clamp with strain relief nut for waterprotected applications (IP68). (UT0--JCS)
+Long cable clamp with strain relief nut for waterprotected applications (IP68). (UT0--JC)
+Suitable for UT0-UT0W
+L± 1
+Clamping range 
+Thread A
+Short 
+Long 
+Short 
+Long 
+Part number
+Shell 
+size
+(Ø en mm) min  /  max
+version
+version
+version
+version
+UT010JCS
+UT010JC
+10
+03  /  06
+48.5
+60.5
+9/16 – 24 UNEF Class 2A
+UT012JCS
+UT012JC
+12
+06  /  10
+49.5
+61.5
+11/16 – 24 UNEF Class 2A
+UT014JCS
+UT014JC
+14
+06  /  10
+53.5
+67.5
+13/16 – 20 UNEF Class 2A
+UT016JCS
+UT016JC
+16
+9.5  /  14
+62.5
+73.5
+15/16 – 20 UNEF Class 2A
+UT018JCS
+UT018JC
+18
+9.5  /  14
+65.5
+76.0
+1’’ 1/16 – 18 UNEF Class 2A
+UT020JCS
+UT020JC
+20
+11.5  /  18
+70.5
+84.0
+1’’ 3/16 – 18 UNEF Class 2A
+UT022JCS
+UT022JC
+22
+11.5  /  18
+76.5
+88.0
+1’’ 5/16 – 18 UNEF Class 2A
+UT024JCS
+UT024JC
+24
+11.5  /  18
+82.0
+92.0
+1’’ 7/16 – 18 UNEF Class 2A
+Cable clamp has a Metric style cable gland. For threading specifications see last page of this section “Circular accessories”
+Short cable clamp with large strain relief nut for waterprotected applications (IP68). (UT0--JCSL)
+Long cable clamp with large strain relief nut for waterprotected applications (IP68). (UT0--JCL)
+Suitable for UT0-UT0W
+L± 1
+Clamping range 
+Thread A
+Short 
+Long 
+Short 
+Long 
+Part number
+Shell 
+size
+(Ø en mm) min  /  max
+version
+version
+version
+version
+UT010JCSL
+UT010JCL
+10
+05  /  08
+49.5
+61.5
+9/16 – 24 UNEF Class 2A
+UT012JCSL
+UT012JCL
+12
+08  /  12
+49.5
+62.5
+11/16 – 24 UNEF Class 2A
+UT014JCSL
+UT014JCL
+14
+08  /  12
+54.5
+68.5
+13/16 – 20 UNEF Class 2A
+UT016JCSL
+UT016JCL
+16
+11.5  /  18
+68.5
+79.5
+15/16 – 20 UNEF Class 2A
+UT018JCSL
+UT018JCL
+18
+11.5  /  18
+71.5
+82.0
+1’’ 1/16 – 18 UNEF Class 2A
+UT020JCSL
+UT020JCL
+20
+15  /  24
+77.5
+91.0
+1’’ 3/16 – 18 UNEF Class 2A
+UT022JCSL
+UT022JCL
+22
+15  /  24
+83.5
+95.0
+1’’ 5/16 – 18 UNEF Class 2A
+UT024JCSL
+UT024JCL
+24
+15  /  24
+89.0
+99.0
+1’’ 7/16 – 18 UNEF Class 2A
+Cable clamp has a Metric style cable gland. For threading specifications see last page of this section “Circular accessories”
+43
+
+Circular accessories
+Short shielded cable clamp with strain relief nut for waterprotected applications (IP68). (UT0S----JCS)
+Long shielded cable clamp with strain relief nut for waterprotected applications (IP68). (UT0S----JC)
+Suitable for UT0-UT0W
+L± 1
+Clamping range 
+Thread A
+Short 
+Long 
+Short 
+Long 
+Part number
+Shell 
+size
+(Ø en mm) min  /  max
+version
+version
+version
+version
+UT0S10JCS
+UT0S10JC
+10
+04  /  6.5
+58.5
+70.5
+9/16 – 24 UNEF Class 2A
+UT0S12JCS
+UT0S12JC
+12
+07  /  10.5
+61.5
+74.5
+11/16 – 24 UNEF Class 2A
+UT0S14JCS
+UT0S14JC
+14
+07  /  10.5
+66.5
+80.5
+13/16 – 20 UNEF Class 2A
+UT0S16JCS
+UT0S16JC
+16
+10  /  14.5
+72.5
+83.5
+15/16 – 20 UNEF Class 2A
+UT0S18JCS
+UT0S18JC
+18
+10  /  14.5
+75.5
+86.0
+1’’ 1/16 – 18 UNEF Class 2A
+UT0S20JCS
+UT0S20JC
+20
+13.5  /  18
+84.5
+97.5
+1’’ 3/16 – 18 UNEF Class 2A
+UT0S22JCS
+UT0S22JC
+22
+13.5  /  18
+90.0
+101.5
+1’’ 5/16 – 18 UNEF Class 2A
+UT0S24JCS
+UT0S24JC
+24
+13.5  /  18
+95.5
+105.5
+1’’ 7/16 – 18 UNEF Class 2A
+Cable clamp has a Metric style cable gland. For threading specifications see last page of this section “Circular accessories”
+Short shielded cable clamp with large strain relief nut for waterprotected applications (IP68). (UT0S----JCSL)
+Long shielded cable clamp with large strain relief nut for waterprotected applications (IP68). (UT0S----JCL)
+Suitable for UT0-UT0W
+L± 1
+Clamping range 
+Thread A
+Short 
+Long 
+Short 
+Long 
+Part number
+Shell 
+size
+(Ø en mm) min  /  max
+version
+version
+version
+version
+UT0S10JCSL
+UT0S10JCL
+10
+05  /  8.5
+59.5
+71.5
+9/16 – 24 UNEF Class 2A
+UT0S12JCSL
+UT0S12JCL
+12
+08  /  12.5
+61.5
+74.5
+11/16 – 24 UNEF Class 2A
+UT0S14JCSL
+UT0S14JCL
+14
+08  /  12.5
+66.5
+80.5
+13/16 – 20 UNEF Class 2A
+UT0S16JCSL
+UT0S16JCL
+16
+13.5  /  18
+82.5
+93.5
+15/16 – 20 UNEF Class 2A
+UT0S18JCSL
+UT0S18JCL
+18
+13.5  /  18
+85.5
+96.0
+1’’ 1/16 – 18 UNEF Class 2A
+UT0S20JCSL
+UT0S20JCL
+20
+17  /  24
+93.0
+106.5
+1’’ 3/16 – 18 UNEF Class 2A
+UT0S22JCSL
+UT0S22JCL
+22
+17  /  24
+99.0
+110.5
+1’’ 5/16 – 18 UNEF Class 2A
+UT0S24JCSL
+UT0S24JCL
+24
+17  /  24
+104.5
+114.5
+1’’ 7/16 – 18 UNEF Class 2A
+Cable clamp has a Metric style cable gland. For threading specifications see last page of this section “Circular accessories”
+44
+
+Circular accessories
+Metal right angle cable clamp with strain relief nut (UTG--LPGN / UTO--LPGN)
+Part number 
+Part number 
+Shell  
+A max 
+B max 
+Cable range
+For UTP / UTG 
+For UT0 / UT0W 
+size 
+ 
+ 
+UTG10LPGN 
+UT010LPGN 
+10 
+48.0 
+30.0 
+13.5 x 5 x 8
+UTG12LPGN 
+UT012LPGN 
+12 
+50.0 
+33.5 
+16 x 7 x 10.5 x 13
+UTG14LPGN 
+UT014LPGN 
+14 
+52.0 
+36.5 
+18.5 x 7 x 10.5 x 13 x 16
+UTG16LPGN 
+UT016LPGN 
+16 
+55.0 
+39.5 
+20.5 x 8 x 10.5 x 13 x 16
+UTG18LPGN 
+UT018LPGN 
+18 
+60.0 
+46.0 
+20.5 x 8 x 10.5 x 13 x 16
+UTG20LPGN 
+UT020LPGN 
+20 
+58.0 
+47.0 
+26 x 11 x 15 x 18 x 22
+UTG22LPGN 
+UT022LPGN 
+22 
+58.0 
+48.5 
+26 x 11 x 15 x 18 x 22
+UTG24LPGN 
+UT024LPGN 
+24 
+67.0 
+54.5 
+35 x 19 x 23 x 27 x 31
+Cable clamp has a PG style cable gland. For threading specifications see last page of this section “Circular accessories”
+Metal shrink boot adaptor (UTG--AD) for UTP and UTG
+Part number 
+Shell size 
+Ø A±0.2 
+B
+UTG10AD 
+10 
+21.0
+UTG12AD 
+12 
+24.0 
+19.2
+UTG14AD 
+14 
+27.0
+UTG16AD 
+16 
+30.0 
+21.5
+UTG18AD 
+18 
+33.3
+UTG20AD 
+20 
+36.5 
+22.8
+UTG22AD 
+22 
+39.7
+UTG24AD 
+24 
+42.9 
+21.9
+Standard plating is anodised black. For tin plating add “T” at the end of the part number e.g. UTG12ADT
+For threading specifications see last page of this section “Circular accessories”
+45
+
+Circular accessories
+Metal shrink boot adaptor for UTO and UTOW
+Part number 
+Shell size 
+Ø A±0.2 
+B
+UT010AD 
+10 
+21
+ 
+ 
+UT012AD 
+12 
+24 
+24.7
+UT014AD 
+14 
+27
+UT016AD 
+16 
+30 
+UT018AD 
+18 
+33.3
+UT020AD 
+20 
+36.5 
+27
+UT022AD 
+22 
+39.7
+UT024AD 
+24 
+42.9 
+For threading specifications see last page of this section “Circular accessories”
+Environmental dustcap for plugs (UTG6--DCG)
+Suitable for UTP-UTG-UT0-UT0W
+Part number 
+Shell size 
+ A max. 
+B
+UTG610DCG 
+10 
+20.0
+UTG612DCG 
+12 
+24.0
+UTG614DCG 
+14 
+27.5 
+20.8
+UTG616DCG 
+16 
+30.5
+UTG618DCG 
+18 
+33.5
+UTG620DCG 
+20 
+36.5
+UTG622DCG 
+22 
+40.0 
+22.5
+UTG624DCG 
+24 
+43.0
+For dustcap without chain skip “G” e.g. UTG612DC 
+46
+
+Circular accessories
+Metal environmental dustcap for receptacles (UT0--DCG)
+Suitable for UTP-UTG-UT0-UT0W
+Part number 
+Shell size 
+ A max.
+UT010DCG 
+10 
+20.8
+UT012DCG 
+12 
+24.9
+UT014DCG 
+14 
+28.1
+UT016DCG 
+16 
+31.3
+UT018DCG 
+18 
+34.4
+UT020DCG 
+20 
+37.6
+UT022DCG 
+22 
+40.8
+UT024DCG 
+24 
+43.9
+For dustcap without chain skip “G” e.g. UTG12DC
+For jam dustcap consult factory
+Plastic environmental dustcap for receptacles (UTP--DCG)
+Suitable for UTP-UTG-UT0-UT0W
+Part number 
+Shell size 
+ Ø A ±0.2 
+B max.
+UTP10DCG 
+10 
+26.7 
+19.3
+UTP12DCG 
+12 
+31.4 
+20.0
+UTP14DCG 
+14 
+34.5
+UTP16DCG 
+16 
+37.8 
+20.2
+UTP18DCG 
+18 
+40.8
+UTP20DCG 
+20 
+43.9
+UTP22DCG 
+22 
+47.0 
+21.8
+UTP24DCG 
+24 
+50.1
+For dustcap without chain skip “G” e.g. UTP12DC
+For jam dustcap consult factory
+47
+
+Circular accessories
+Sealing for wall mounting receptacle (UTFD1-B)
+0,8 ± 0,2
+Suitable for UTP-UTG-UT0-UT0W
+Part number 
+Shell size 
+Ø F ±0.1 
+R ±0.25 
+S ±0.25 
+Ø V
+UTFD12B 
+10 
+15.9 
+18.3 
+23.8
+UTFD13B 
+12 
+19.0 
+20.6 
+26.2
+UTFD14B 
+14 
+22.2 
+23.0 
+28.6
+UTFD15B 
+16 
+25.4 
+24.6 
+31.0 
+3.3
+UTFD16B 
+18 
+28.6 
+27.0 
+33.3
+UTFD17B 
+20 
+31.8 
+29.4 
+36.5
+UTFD18B 
+22 
+34.9 
+31.8 
+39.7
+UTFD19B 
+24 
+38.1 
+34.9 
+42.9 
+4.0
+Adaptors for flexible cable protection systems (conduits)
+Adaptors for flexible cable protections 
+systems that fit to the TRIM TRIO circular 
+connectors are available from cable 
+protection systems manufacturers (e.g. 
+PMA).
+2 solutions are offered: 
+•  UNEF Adaptors that fit directly onto the 
+connectors (left picture)
+•  METRIC Adaptors that fit onto the metal 
+cable clamp tubes as indicated on pages 
+43 and 44 (right picture)
+These types of adaptors offer extra 
+protection to single wire applications 
+(electrical, coax, Fibre optic … etc.)
+Note: the adaptors are not available from 
+Souriau. They must be ordered directly from 
+the manufacturers
+Cable gland threadings used on cable clamps
+Shell size
+Thread size on connectors
+PG threading
+Metric threading
+10
+9/16 - 24 UNEF
+PG9
+M16 x 1.5
+12
+11/16 - 24 UNEF
+PG11
+M20 x 1.5
+14
+13/16 - 20 UNEF
+PG13.5
+M20 x 1.5
+16
+15/16 - 20 UNEF
+PG16
+M25 x 1.5
+18
+1-1/16 - 18 UNEF
+PG16
+M25 x 1.5
+20
+1-3/16 - 18 UNEF
+PG21
+M32 x 1.5
+22
+1-5/16 - 18 UNEF
+PG21
+M32 x 1.5
+24
+1-7/16 - 18 UNEF
+PG29
+M32 x 1.5
+48
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  UTG24PG  UTG16PG  UTG24AC  UTG20PG  UTG12PG  UTG16AC  UTG18AC  UTG18PG  UTG22PG  UTG22AC 
+UTG14PG  UTG24PGP1  UTFD14B  UTFD12B  UTFD13B  UTFD16B  UTFD17B  UTG18AD  UTG18LPGN  UTG22ST
+  UTG16ST  UTG14ST  UT012AD  UTG18ST  UTFD18B  UTFD19B  UTFD15B  UTG20ST  UT010AD  UTG24AD 
+UTG20LPGN  UTG12LPGN  UTG22AD  UTG14LPGN  UTG22LPGN  UTG24LPGN  UTG16LPGN

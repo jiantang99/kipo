@@ -1,0 +1,343 @@
+F
+D
+C
+H
+G
+E
+A
+B
+SIDE VIEW FOR EACH VERSION
+COMMON QUOTES FOR ALL VERSION
+UTGX0-----
+UTGX0--D---
+UTGX0--E---
+A
+(Without marking)
+B.3; Validé
+8
+J2
+B
+M
+G
+J1
+INSERT
+INSERT
+INSERT
+Solder
+cup
+B
+7
+C (x4)
+A
+(Without marking)
+0.6 0.05 for contact #20
+1 0.05 for contact #16
+K2
+H
+K1
+N
+SHELL
+RECEPTACLE
+INSERT
+INSERT
+INSERT
+6
+L
+Lenght receptacle
+Solder
+cup
+D
+THREAD
+0.6 0.05 for contact #20
+1 0.05 for contact #16
+F
+5
+MATERIAL :
+ 
+- SHELL : PA UL94 V0, UL746C F1 Black color
+- 3 LOCKING PINS RING : Nickel plated Brass + stainless
+steel.
+- INSERT (UTGX0-----) : PA UL94 V0, UL746C F1 Black colo
+- INSERT (UTGX0--D/E---) : Polychloroprene
+- CONTACTS: brass + coated depending on P/N
+ 
+ 
+PERFORMANCE CHARACTERISTICS :
+ 
+Operating temperature: -40
+C up to 105C
+Insulation resistance: 5000 M
+min under 500V
+Corrosion salt spray: 500 hours  
+Durability: 500 matings and unmatings
+Sealing conditions: SEE TABLE
+ 
+ 
+NOTA:
+1- Contact to be ordered separately for version
+UTGX0----- : refer to corresponding catalogue.
+2- Insert arrangement refer to:
+        UTO-CONTACT-L-C02 (Female insulator)
+        UTO-DHP-003-C01  (Female insulator #20)
+        UTO-DHP-002-C01 (Female insulator #16)
+        UTO-CONTACT-L-C01 (Male insulator)
+        UTO-DHP-003-C01  (Male insulator #20)
+        UTO-DHP-001-C01 (Male insulator #16)
+        C144-UTS1-A (HiSeal Version)
+E
+3 LOCKING
+PINS RING
+CountryJurisdiction 
+& Control List
+FR
+NOT LISTED
+UTGX0-----P
+UTGX0-----S
+SEALING
+CONDITIONS
+SCALE 2/1
+Sealing in MATED conditions with
+COUNTERPART:
+ 
+ -IP68 1 bar during 1 week:
+ immersion under 10 m of water.
+ (IEC 60529)
+ -IP69K : exposure to high pres-
+ sure water of cleaning
+ equipement(DIN 40050)
+  Sealing in MATED conditions with COUNTERPARTand UNMATED
+  conditions:
+ 
+        -IP68 1 bar during 1 week: immersion
+        under 10 m of water. (IEC 60529)
+        -IP69K : exposure to high pressure water
+        of cleaning equipement(DIN 40050)
+ 
+ 
+4
+SOURIAU shall not be liable for any non-conformity or damage due to a use of the Products
+which does not comply with the Specifications issued by either of the Parties or by a third party
+(professional recommendation, technical notice.)
+P (x4)
+Q
+T
+T
+         P/N : CROSS REF TABLE 
+BASIC SERIES
+UTGX 0 14 D 19 P -
+PANEL CUT OUT DEFINITION
+PANEL
+THICKNESS
+* P/N for example 
+SHELL TYPE   0
+  Square flange
+  receptacle
+SHELL
+SIZE
+0.1
+REAR
+mounting
+FRONT
+mounting
+0.15
+R
+0.1
+MAX
+3
+P
+Q
+R
+S
+T
+SHELL SIZE
+10
+12
+14 
+17.9
+15.2
+18.3
+18.3
+10
+3.2
+2.8
+12
+22.3
+18.3
+20.6
+20.6
+TYPE OF
+LAYOUT
+Standard layout (No digit)
+D : HISEAL Dispolder contacts
+E : HISEAL Handsolder contacts
+ORIENTATIONS
+Normal (no digit)
+W,X,Y,Z
+PANEL CUT OUT
+DEFINITION
+14
+25.1
+21.5
+23.0
+23.0
+S
+FRONT mounting
+REAR mounting
+INSERT
+ARRANGEMENT
+See NOTA 2 
+TYPE OF
+CONTACTS
+P: MALE
+S: FEMALE 
+25253J
+14/02/2020 --
+B
+-Update drawing
+2
+MOD N
+J.FEURPRIER
+Latest modification - by:
+DATE
+ISS
+30% (g.)
+UTGX CONNECTOR
+TITLE
+SQUARE FLANGE RECEPTACLE T0 - SIZE 10 12 14 - Standard and Hiseal version
+CUSTOMER DRAWING 
+PE.LANDAIS Date:10/05/2019
+Designed by:
+SHELL
+SIZE
+0.4
+0.2
+0.1
+0.2 
+0.2
+0.2
+MAX
+MIN /
+MAX
+MAX
+THREAD
+CLASS 2A
+Scale
+A
+B
+C
+D
+E
+F
+G
+H
+J1
+J2
+K1
+K2 
+L
+M
+N
+MASS
+Dimensions in mm
+General linear
+Tolerances:
+0.2
+3/2
+15.2
+10
+23.8
+18.26
+9/16-24 UNEF
+6
+ 
+NPRDS / PROJECT 
+GBB
+ 
+8
+7
+6
+5
+4
+3
+2
+1
+1
+3.2
+11.35
+2.3
+12
+26.2
+20.62
+19.15
+11/16-24 UNEF
+10
+www.souriau.com
+19.5
+12.1
+15.8 /
+17.7
+*
+18.1/
+20 
+*
+15.8/
+17.7
+*
+18.1/
+20 
+*
+32.3
+11.5
+11.5
+This document is the property of
+SOURIAU
+It must not be reproduced or
+communicated without permission
+14
+28.6
+23.01
+22.31
+13/16-20 UNEF
+13
+SHEET
+SOURIAU DRG N° 
+FORMAT
+* -1mm FOR LAYOUT 12D14
+1 / 1
+UTGX-0001A-C
+A2
+A
+B
+C
+D
+E
+F
+G
+H
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ Souriau:  
+ 
+  UTGX0102W2P  UTGX0102W2S  UTGX0103S  UTGX0103W3P  UTGX0103W3S  UTGX014E5P  UTGX014E5S 
+UTGX014E7P  UTGX014E7S  UTGX014E15P  UTGX014E15S  UTGX014E18P  UTGX014E18S  UTGX014E19P 
+UTGX014E19S  UTGX014D5P  UTGX014D5S  UTGX014D7S  UTGX014E12S  UTGX014D15P  UTGX014D15S 
+UTGX014D18P  UTGX014D18S  UTGX014D19S  UTGX0148P  UTGX0148S  UTGX01492P  UTGX01492S 
+UTGX014D12P  UTGX014D12S  UTGX01419S  UTGX0142G1S  UTGX0147S  UTGX012E4P  UTGX012E4S 
+UTGX012E8S  UTGX01412S  UTGX012E14P  UTGX012E14S  UTGX012E2P  UTGX012E2S  UTGX012E3P 
+UTGX012E3S  UTGX012D4S  UTGX012D8P  UTGX012D8S  UTGX012E10P  UTGX012D14P  UTGX012D14S 
+UTGX012D2P  UTGX012D2S  UTGX012D3P  UTGX012D3S  UTGX0124S  UTGX0128S  UTGX012D10P 
+UTGX012D10S  UTGX010E7P  UTGX010E7S  UTGX010E98P  UTGX010E98S  UTGX01210S  UTGX010D7P 
+UTGX010D7S  UTGX010D98P  UTGX010D98S  UTGX010E6P  UTGX010E6S  UTGX0104S  UTGX0106S 
+UTGX010D6S  UTGX012D8PW  UTGX012D8PX  UTGX012D8PY  UTGX012D8PZ  UTGX012D8SW  UTGX012D8SX 
+UTGX012D8SY  UTGX012D8SZ  UTGX012E10PW  UTGX012E10PX  UTGX012E10PY  UTGX012E10PZ 
+UTGX012E10SW  UTGX012E10SX  UTGX012E10SY  UTGX012E10SZ  UTGX012E14PW  UTGX012E14SW 
+UTGX012E3PY  UTGX012E3SY  UTGX012E8PW  UTGX012E8PX  UTGX012E8PY  UTGX012E8PZ  UTGX012E8SW
+  UTGX012E8SX  UTGX012E8SY  UTGX012E8SZ  UTGX01412PW

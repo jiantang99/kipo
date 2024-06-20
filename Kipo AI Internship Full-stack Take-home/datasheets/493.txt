@@ -1,0 +1,326 @@
+2
+7
+5
+3
+1
+4
+6
+8
+Assembly instruction see N 22 091 0035
+F
+Version with ring nut
+Ag
+C091 31G019 100 5 U
+C091 31G019 109 5 U
+F
+19
+(19-a)
+Au
+C091 31G019 200 5 U
+C091 31G019 209 5 U
+Ag
+C091 31G114 100 5 U
+C091 31G114 109 5 U
+14
+(14-b)
+Au
+C091 31G114 200 5 U
+C091 31G114 209 5 U
+24,8
+Ag
+C091 31G014 100 5 U
+C091 31G014 109 5 U
+14
+(14-a)
+Au
+C091 31G014 200 5 U
+C091 31G014 209 5 U
+24,8
+E
+E
+Ag
+C091 31G012 100 5 U
+C091 31G012 109 5 U
+12
+Version with hex nut
+(12-a)
+Au
+C091 31G012 200 5 U
+C091 31G012 209 5 U
+30
+Ag
+C091 31G008 100 5 U
+C091 31G008 109 5 U
+8
+17
+(08-a)
+Au
+C091 31G008 200 5 U
+C091 31G008 209 5 U
+Copying of this document and giving it to others and the use
+or communication of the contents thereof, are forbidden with-
+out express authority. Offenders are liable to the payment of
+damages. All rights are reserved in the event of the grant of
+a patent or the registration of the utility model or design.
+20,5
+Ag
+C091 31G107 100 5 U
+C091 31G107 109 5 U
+7
+(07-b)
+Au
+C091 31G107 200 5 U
+C091 31G107 209 5 U
+!ATTENTION!
+contact insert not preassembled
+he must pressed in after soldering
+SW 27
+D
+D
+Ag
+C091 31G007 100 5 U
+C091 31G007 109 5 U
+7
+(07-a)
+Au
+C091 31G007 200 5 U
+C091 31G007 209 5 U
+Number of contacts
+Standard
+3
+4
+5
+5
+6
+7
+7
+8
+12
+14
+14
+19
+Contact arrangement
+IEC 61076-2-106
+03-a
+04-a
+05-a
+05-b
+06-a
+07-a
+07-b
+08-a
+12-a
+14-a
+14-b
+19-a
+Ag
+C091 31G006 100 5 U
+C091 31G006 109 5 U
+6
+Rated voltage
+IEC 60664-1
+150 V
+100 V
+32 V
+100 V
+32 V
+(6-a)
+Rated impulse
+Au
+C091 31G006 200 5 U
+C091 31G006 209 5 U
+withstand voltage
+IEC 60664-1
+840 V
+500 V
+840 V
+500 V
+1)
+Ag
+C091 31G105 100 5 U
+C091 31G105 109 5 U
+2)
+IEC 60664-1
+3
+Pollution degree
+5
+Installation category
+IEC 60664-1
+I
+(05-b)
+Au
+C091 31G105 200 5 U
+C091 31G105 209 5 U
+Insulation group
+IEC 60664-1
+II, 400 < CTI < 600
+C
+Ag
+C091 31G005 100 5 U
+C091 31G005 109 5 U
+Current rating
+IEC 60512-5-2  
+5
+UL 1977
+10A/+40°C
+7A/+40°C
+3A/+40°C
+C
+2)
+(05-a)
+Insulation resistance
+IEC 60512-3-1
+>10
+10 Ohm
+Au
+C091 31G005 200 5 U
+C091 31G005 209 5 U
+Contact resistance
+IEC 60512-2-1
+<5mOhm
+Ag
+C091 31G004 100 5 U
+C091 31G004 109 5 U
+4
+Climatic category
+IEC 60668-1
+40 / 100 / 56
+Temperatur range
+IEC 60668-1
+-40°C...+100°C / -40°F...+212°F
+(04-a)
+Au
+C091 31G004 200 5 U
+C091 31G004 209 5 U
+IP degree
+ÎEC 60529
+IP 68 (in mated condition)
+Insertion and
+Ag
+C091 31G003 100 5 U
+C091 31G003 109 5 U
+3
+withdrawal force
+IEC 60512-13-2
+25N
+30N
+35N
+35N
+50N
+55N
+55N
+60N
+50N
+50N
+50N
+60N
+(03-a)
+Au
+C091 31G003 200 5 U
+C091 31G003 209 5 U
+mechanical operation
+IEC 60512-9-1
+>500 mating cycles
+B
+housing material
+thermoplastic
+Contact
+Number of contacts
+dielectric material
+thermoplastic
+arrangement
+(Contact arrangement 
+acc. 
+sealing material
+chloroprene, silicone
+View on
+plating
+Part number
+with ring nut
+Part number
+with hex nut
+DIN EN 61076-2-106)
+contact 
+mating side
+contacts
+silver or gold plated
+termination technique
+solder
+Gewicht (errechnet) / Calc WT :
+Maßstab / Scale :
+Zul. Abw./Tolerances :
+A3
+ 
+wire gauge
+<0,5mm² / 20 AWG
+<0,35mm² / 22 AWG
+0,50
+Prüfmaß / Testdimension
+ 
+Teileindex / Partindexnumber: 
+DIN / ISO
+flamability
+UL 94 VO
+ 
+CUSTOMER DRAWING
+Bagatelle change:  
+13715
+  
+locking system
+IEC 60130-9    
+11.09.2020
+DIN EN 61076-2-106
+Quicklock system
+MCARLE
+Drawn
+Gez.
+1) designed acc. pollution degree 2; can be used under pollution degree 3 when the rules of IEC 60644-1 are fulfilled
+Gerätedose Quicklock
+Released
+8 Ohm
+2) under operating conditions >10
+A
+25.06.2021
+Gepr.
+Status
+Female receptacle Quicklock
+ 
+MBERTSCH
+Checked
+Blatt/Sheet
+1
+02
+MCARL
+M
+Do not connect or disconnect under load. Metal housing parts shall be securely incoporated to protected ground.
+Remark for gold plated contacts:
+In order to avoid brittle inter-metallic connections, gold plated terminals have to be tin-plated in the solder area.
+All technical data have been measured in a laboratory environment and can be different during pratical usage of the product. Any product
+information is for descriptive usage only and not legally binding; particulary the information does not constitute or provide any legal guaranties
+("Beschaffenheitsgarantie" or " Haltbarkeitsgarantie").
+Amphenol Tuchel
+Industrial GmbH
+C091 31GXXX X0X 5 U
+24.06.2021
+201800273
+1
+01
+Bl.
+MCARL
+30.10.2020
+201800273
+NXM-V01  FAI2021-002818
+8
+7
+6
+5
+Name
+Datum/Date
+Index
+Änderung/Description
+Ers. f. / Replacement for :
+Weitergabe sowie Vervielfältigung dieser Unterlage, Verwertung
+und Mitteilung ihres Inhalts nicht gestattet, soweit nicht
+ausdrücklich zugestanden. Zuwiderhandlungen verpflichten
+zu Schadenersatz. Alle Rechte für den Fall der Patenterteilung
+oder Gebrauchsmuster-Eintragung vorbehalten.

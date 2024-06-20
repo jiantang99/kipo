@@ -1,0 +1,160 @@
+1
+2
+3
+4
+5
+6
+7
+8
+A
+A
+ca. 47
+13.7
+ca. 32
+B
+B
+Fall der Patenterteilung oder Gebrauchsmustereintragung. Sie darf
+Für diese Unterlage behalten wir uns alle Rechte vor, auch für den
+ohne unsere vorherige schriftliche Zustimmung weder vervielfältigt
+E
+C
+C
+D
+D
+Einsatz
+Insert
+Steckergehäuse
+Plughousing
+    Nur rot gestempelte oder auf Laufkarte gedruckte Dokumente 
+unterliegen dem Änderungsdienst und sind zur Fertigung freigegeben. 
+        Only red stamped or on jobcard printed documents 
+    are managed. These documents are approved for production. 
+Spannzange
+(siehe Tabelle)
+Cable collet
+(look table)
+Spannmutter
+(siehe Tabelle)
+Backnut
+(look table)
+S11M07-P10MCC0-..20
+rot / red
+S11M07-P10MCC0-..30
+weiß / white
+a
+S11M07-P10MCC0-..40
+gelb / yellow
+Technische Daten/Technical Data:
+S11M07-P10MCC0-..50
+grün / green
+E
+E
+2
+0.5 mm
+S11M07-P10MCC0-..60
+blau / blue
+S11M07-P10MCC0-39..
+min. 2.7   max. 3.9
+0.08mm
+S11M07-P10MCC0-..70
+grau / grey
+S11M07-P10MCC0-52..
+min. 4.0   max. 5.2
+Löt/Solder
+AWG 28
+S11M07-P10MCC0-..80
+schwarz / black
+S11M07-P10MCC0-65..
+min. 5.3   max. 6.5
+1.35 kV DC (SAE AS 13441)
+Artikelnummer
+Farbe Spannmutter
+Artikelnummer
+without prior written permission.
+Partnumber
+Colour Backnut
+Partnumber
+Kabel�n�
+Cable�n�
+to a third party or duplicated in any form
+Rohteil:
+Rohgew.:
+PE-Modell-Nr.:
+or trademarks. Documents shall not be provided
+All Rights reserved, including possible patents 
+Kontakt�n�/Contact�n�:
+Anschluß/Termination:
+ 
+ 
+Prüfspannung/Test Voltage:
+ 
+Strombelastung/Current Load:
+Einzelkontakte/single contacts 
+Gehäuse/Housing
+hierzu Stückliste
+CAD-Nr.:
+Bl.:
+                                   5 A
+10-polig / 10-pos.:                2.75 A
+(IEC 512-3 / VDE 0298 T4)
+00020315
+Tag
+Name
+Benennung:
+Maßstab:
+2002
+F
+Bearb.
+24.05. Braun F.
+Gepr.
+Stecker cpl.
+5:1
+Werkstoffe/Materials:
+Gehäuse/Housing:                 PSU / grau
+                                     / grey
+Kontakte/Contacts:               Cu-Legierung
+                                 /Cu-alloy
+Isolierkörper/Insulation Body:   PEEK
+ 
+Oberflächen/Surfaces:
+ 
+ 
+Kontakte/Contacts:               gal. Au
+ 
+Schutzart im gesteckten Zustand: IP 50
+/Protection Class in mated
+ condition
+Norm.
+R
+Zeichnungs Nr.:
+Vervielf. Pause
+a
+------ 19.03.08
+Neuberger
+M 2:1
+S11M07-P10MCC0-....
+Änd-
+Aend.-Mitt. Datum
+Name
+Ersatz für:
+zust.
+Nr.
+noch sonstwie benutzt, noch Dritten zugänglich gemacht werden.
+CAD: Pro/ENGINEER
+1
+2
+3
+4
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ ODU:  
+ 
+  S11M07-P10MCC0-5270

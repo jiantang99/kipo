@@ -1,0 +1,213 @@
+Additional Resources:    Product Page
+date
+07/19/2022
+page
+1 of 3
+SERIES:  CDM817 │ DESCRIPTION:  M8 CABLE
+FEATURES
+• M8 molded male cable connector
+• A & B code versions
+• right-angled
+• IP67
+• 1, 2, & 3 meter length options
+SPECIFICATIONS
+parameter
+conditions/description
+min
+typ
+max
+units
+rated voltage
+3 & 4 pole models
+5, 6, & 8 pole models
+60
+30
+V
+V
+rated current
+3, 4, & 5 pole models
+6 & 8 pole models
+3
+1.5
+A
+A
+withstanding voltage
+for 1 minute
+1,500
+Vac
+contact resistance
+10
+mΩ
+insulation resistance
+at 500 Vdc for 1 minute
+100
+MΩ
+insertion/withdrawal force
+0.3
+1.5
+kgf
+operating temperature
+-25
+80
+°C
+life
+100
+cycles
+safety approvals
+compliant with IEC61076-2-104
+flammability rating
+see material table
+RoHS
+yes
+IP level
+IP67 (in mated condition)
+PART NUMBER KEY
+CDM817 - XXX - 01MRA - XX - 67
+Base Number
+Cable Length:
+1M = 1 m
+2M = 2 m
+3M = 3 m
+No. of Poles:
+03A = 3 (A-Coding)
+04A = 4 (A-Coding)
+05B = 5 (B-Coding)
+06A = 6 (A-Coding)
+08A = 8 (A-Coding)
+cuidevices.com
+
+Additional Resources:    Product Page
+CUI Devices │ SERIES: CDM817 │ DESCRIPTION: M8 CABLE
+date 07/19/2022│ page 2 of 3
+MECHANICAL DRAWING
+ITEM
+DESCRIPTION
+MATERIAL
+PLATING/COLOR
+A
+cable
+UL 2464
+PVC (UL94V-0)
+black
+units: mm
+tolerance:
+0.5<X≤6.0: ±0.1 mm
+6.0<X≤30.0: ±0.2 mm
+unless otherwise noted
+B
+M8x1.0 screw
+brass
+nickel
+C
+terminals; male
+brass
+gold
+D
+housing; male
+PA66 (UL94V-0)
+black
+E
+overmold
+TPU (UL94V-0)
+black
+No. of Poles
+3
+4
+5
+6
+8
+Coding
+Pin#
+Cable
+24 AWG X 3C
+OD: Ø4.0 mm
+24 AWG X 4C
+OD: Ø4.5 mm
+24 AWG X 5C
+OD: Ø4.8 mm
+26 AWG X 6C
+OD: Ø4.8 mm
+26 AWG X 8C
+OD: Ø5.3 mm
+1
+brown
+brown
+brown
+brown
+white
+2
+---
+white
+white
+white
+brown
+3
+blue
+blue
+blue
+blue
+green
+4
+black
+black
+black
+black
+yellow
+5
+---
+---
+gray
+gray
+gray
+6
+---
+---
+---
+pink
+pink
+7
+---
+---
+---
+blue
+8
+---
+---
+---
+red
+cuidevices.com
+
+Additional Resources:    Product Page
+CUI Devices │ SERIES: CDM817 │ DESCRIPTION: M8 CABLE
+date 07/19/2022│ page 3 of 3
+REVISION HISTORY
+rev.
+description
+date
+1.0
+initial release
+07/19/2022
+The revision history provided is for informational purposes only and is believed to be accurate.
+CUI Devices offers a one (1) year limited warranty.  Complete warranty information is listed on our website.
+CUI Devices reserves the right to make changes to the product at any time without notice.  Information provided by CUI Devices is believed to be accurate and reliable.  However, no 
+responsibility is assumed by CUI Devices for its use, nor for any infringements of patents or other rights of third parties which may result from its use.
+CUI Devices products are not authorized or warranted for use as critical components in equipment that requires an extremely high level of reliability.  A critical component is any 
+component of a life support device or system whose failure to perform can be reasonably expected to cause the failure of the life support device or system, or to affect its safety or 
+effectiveness.
+cuidevices.com
+
+Mouser Electronics
+  
+Authorized Distributor
+ 
+  
+Click to View Pricing, Inventory, Delivery & Lifecycle Information:
+ 
+ 
+ 
+ CUI Devices:  
+ 
+  CDM817-03A-01MRA-1M-67  CDM817-03A-01MRA-2M -67  CDM817-03A-01MRA-3M-67  CDM817-04A-01MRA-1M-
+67  CDM817-04A-01MRA-2M -67  CDM817-04A-01MRA-3M-67  CDM817-05B-01MRA-1M-67  CDM817-05B-01MRA-
+2M -67  CDM817-05B-01MRA-3M-67  CDM817-06A-01MRA-1M-67  CDM817-06A-01MRA-2M -67  CDM817-06A-
+01MRA-3M-67  CDM817-08A-01MRA-1M-67  CDM817-08A-01MRA-2M -67  CDM817-08A-01MRA-3M-67

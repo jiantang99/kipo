@@ -1,0 +1,263 @@
+OF:
+SH:
+REV:
+DWG NO:
+TITLE:
+AHDM06-24-16PN-059
+1
+1
+A1
+KIT,PLUG AND BACKSHELL,SZ 24
+1
+1
+SMALL
+BUSHING
+SHEET
+OF
+BACKSHELL
+AHDMBS-24-059
+44724 Morley Drive
+Clinton Township, MI 48036
+ITEM
+DESCRIPTION
+Sine Systems - www.amphenol-sine.com
+Amphenol
+KIT
+TYPE
+REVISION
+DWG NO:
+C-
+NONE
+DURAMATE AHDM PLUG, SIZE 24, WD THD,
+KIT W/ CABLE CLAMP BACKSHELL
+REVISIONS
+B
+AHDM06-24-16PN-059 A1
+SCALE:
+PLUG
+AHDM06-24-16PN
+DATE 
+HD36-24-16PN-059
+J. HEAD
+11NOV2020
+MATERIALS LIST
+SIGNATURES    
+DH
+--
+ECO
+APPR
+BY
+DRAWN:
+CHECKED:
+ENGINEER:
+APPROVAL:
+CUSTOMER:
+THIS DRAWING IS SUPPLIED FOR 
+INFORMATION ONLY. DESIGN FEATURES, 
+SPECIFICATIONS AND PERFORMANCE DATA 
+SHOWN HEREON ARE THE PROPERTY OF 
+THE AMPHENOL CORPORATION. NO RIGHTS 
+OF REPRODUCTION ARE IMPLIED. ALL 
+DIMENSIONS ARE SUBJECT TO NORMAL 
+MANUFACTURING VARIATIONS.
+RELEASED
+11NOV2020
+J. HEAD
+A1
+REV
+DESCRIPTION
+DATE
+PART NUMBER
+AHDM06-24-16PN-059
+Fractions ±1/64
+Angles ±1°
+Ø18.8
+LARGE BUSHING
+3 PL DEC ±0.08
+NEXT ASS'Y:
+MATERIAL SPECIFICATIONS:
+SIZE     
+PROCESS SPECIFICATIONS:
+UNLESS OTHERWISE SPECIFIED
+X
+3) Note reference =
+1) All dimensions are in metric(mm).
+2) Tolerances are as follows:
+1 PL DEC ±0.30
+2 PL DEC ±0.15
+QUANTITY
+ASSEMBLED
+BUSHING
+118.1
+BACKSHELL
+2X SCREW AND
+LOCK WASHER
+2X LATCH SEGMENT
+Ø45.7
+2X RECOMMENDED TORQUE : 1.5-2.0 NM
+4. APPLY TO CABLE OD SIZE: Ø11.20-Ø24.08 . CAN BE USED:
+4.1.  WITH LARGE AND SMALL BUSHINGS IN PLACE.
+4.2.  WITH ONLY LARGE BUSHING IN PLACE.
+4.3.  WITH BOTH BUSHINGS REMOVED.
+2.  BACKSHELL MATERIAL: 
+SHELL: ALUMINIUM ALLOY, NICKEL PLATED;
+LATCH SEGMENT: ALUMINIUM ALLOY, NICKEL PLATED;
+SCREW AND LOCK WASHER: STAINLESS STEEL;
+BUSHING: EPDM.
+3. SPECIFICATIONS:
+3.1 OPERATING TEMPERATURE: -55℃ TO +125℃.
+   3.2 DIELECTRIC WITHSTANDING VOLTAGE: LESS THAN 2 
+         MILLIAMPS CURRENT LEAKAGE @ 1500 VOLTS AC.
+   3.3 INSULATION RESISTANCE: 1000 MEGOHM MIN @ 25℃.
+   3.4 MOISTURE RESISTANCE: IP67 & IP69K (MATED CONDITION).
+   3.5 MATING CYCLE DURABILITY: 100 CYCLES
+   3.6 RoHS COMPLIANT
+5. ALL DIMENSIONS ARE FOR REFERENCE USE ONLY.
+6. SEE SPECIFIC PLUG DRAWING FOR:
+ 6.1 CONTACT SIZE AND WIRE RANGE.
+ 6.2 RETAINING RING COLOR.
+ 6.3 MATING PART(S).
+ 6.4 CONTACT LAYOUT AND ALL OTHER SPECIFICATIONS.
+NOTES: UNLESS OTHERWISE SPECIFIED
+1. PLUG MATERIAL: 
+ SHELL: ZINC ALLOY, NICKEL PLATED
+ COUPLING RING: ALUMINUM ALLOY, NICKEL PLATED
+ INSERT AND RETAINING RING: THERMOPLASTIC 
+ SEAL: SILICONE RUBBER
+
+ATP Series™ - Contact Size 12 Options
+Stamped & Formed Contacts, Sockets & Pins
+Machined Contacts, Sockets & Pins
+Part Number
+Description
+Size
+AWG
+Type
+Part Number
+Description
+Size
+AWG
+Type
+AT60-12-0244
+Male Contact - Pin, Gold-plated
+12
+10-12
+Stamped & Formed
+AT60-204-12141-10
+Male Contact - Pin, Nickel-plated    
+12
+10-12
+Machined
+AT62-12-0244
+Female Contact - Socket, Gold-plated
+12
+10-12
+Stamped & Formed
+AT62-203-12141-10
+Female Contact - Socket, Nickel-plated    
+12
+10-12
+Machined
+AT60-12-0222
+Male Contact - Pin, Nickel-plated
+12
+10-12
+Stamped & Formed
+AT60-220-1231
+Male Contact - Pin, Gold-plated    
+12
+12-14
+Machined
+AT62-12-0222
+Female Contact - Socket, Nickel-plated
+12
+10-12
+Stamped & Formed
+AT62-210-1231
+Female Contact - Socket, Gold-plated    
+12
+12-14
+Machined
+AT60-12-0144
+Male Contact - Pin, Gold-plated   
+12
+12-14
+Stamped & Formed
+AT60-204-12141
+Male Contact - Pin, Nickel-plated    
+12
+12-14
+Machined
+AT62-12-0144
+Female Contact - Socket, Gold-plated   
+12
+12-14
+Stamped & Formed
+AT62-203-12141
+Female Contact - Socket, Nickel-plated    
+12
+12-14
+Machined
+AT60-12-0166
+Male Contact - Pin, Nickel-plated    
+12
+12-14
+Stamped & Formed
+AT62-12-0166
+Female Contact - Socket, Nickel-plated   
+12
+12-14
+Stamped & Formed
+DiagnosticGrade™ Machined Contacts, Sockets & Pins
+• Smaller AWG for Diagnostic Applications • Gold-plated • Increased Mating Cycles • Cost-effective
+Part Number
+Description
+Size
+AWG
+Type
+Tooling - Stamped & Formed Contacts
+65-54749
+Male Contact - DiagnosticGrade™, Pin, Gold-plated
+12
+20
+Machined
+Part
+Part Number
+Description
+AT62-210-1231-1820
+Female Contact - DiagnosticGrade™, Socket, 
+Gold-plated
+12
+20
+Machined
+MFX-3973
+Crimp Die - Size 12 (S&F contacts only)
+Tooling - Machined Contacts
+Part
+Part Number
+Description
+MFX-3985
+Crimp Die - Size 12 (S&F contacts only) 10-12AWG -02XX Series
+CA-5D12
+Universal Hand Crimp Tool, Size 12/16/20
+(Machined contacts only)
+ATT-12-00
+Hand Crimp Tool - Size 12, 12AWG (S&F contacts only)
+CA-5E12
+Pneumatic Crimp Tool, Size 12/16/20
+(Machined contacts only)
+Contact Removal Tools
+Part
+Part Number
+Description
+ATRT-100
+Used for removal of contacts for A Series™ products
+AT11-337-1205
+Contact Removal Tool, Plastic, Size 12
+Amphenol Sine Systems
+A114017
+Sealing Plug, Size 12, White
+44724 Morley Drive
+Clinton Township, MI 48036 USA
+www.amphenol-sine.com
+09/2021
