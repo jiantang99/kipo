@@ -27,7 +27,8 @@ Currently, the sample dictionary of categories to example values only include th
 This would allow the LLM to be more accurate when producing the top 3 categories that the text query might be related to.
 
 ## How to run application
-1. Install dependencies (pip install -r requirements.txt)
-2. Ensure terminal is inside the root directory of this project
-3. Export ORGANIZATION_KEY as the openai organisation key, and OPENAI_API_KEY as the openai api key as environment variables
-4. Run python app.py
+1. Clone this repository onto your machine
+2. Install dependencies (pip install -r requirements.txt)
+3. Ensure terminal is inside the root directory of this project
+4. Export ORGANIZATION_KEY as the openai organisation key, and OPENAI_API_KEY as the openai api key as environment variables
+5. Run python app.py
