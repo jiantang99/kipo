@@ -19,9 +19,19 @@ def get_substitute_data(query):
     index_data = Index_data()
     return index_data.query(query)
 
-@app.route('/comparison')
+@app.route('/comparison/', methods=['GET'])
 def comparison():
-    return render_template('comparison.html')
+    # Generate sample data for demonstration
+    data = {
+        'Part Number': ['PN1', 'PN2', 'PN3'],
+        'Description': ['Description1', 'Description2', 'Description3'],
+        'Price': [100, 150, 200],
+        'Availability': ['In Stock', 'Out of Stock', 'In Stock'],
+    }
+    import pandas as pd
+    parts = pd.DataFrame.from_dict(data=data)
+    return render_template('comparison.html', parts=parts)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
